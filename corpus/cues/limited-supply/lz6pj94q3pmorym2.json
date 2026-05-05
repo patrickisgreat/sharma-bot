@@ -1,0 +1,2884 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 18.26,
+      "text": "And when we spent time with the creative team, they also had their grievances. And their grievances were like, well, no one's telling me what's going on. I've created all these ads for you and you've never actually came back and tell me how things are doing. And when you do, it's in these spreadsheets and things that I can barely wrap my head around."
+    },
+    {
+      "start": 18.78,
+      "end": 36.06,
+      "text": "And so we really tried to solve for that part of the equation to make the creative people excited to be a part of the conversation. And our hypothesis was that this is their work, like they're producing this stuff. Actually, they're going to be really fired up to be able to wrap their heads around how their stuff is doing."
+    },
+    {
+      "start": 36.06,
+      "end": 47.98,
+      "text": "And we really saw that early on, where as soon as the creative team was able to see the impact of their work and actually quantify the results that they were seeing, it became this addictive process."
+    },
+    {
+      "start": 48.14,
+      "end": 59.74,
+      "text": "We're like, okay, now next week, I really want to try to move this number. And it becomes like a game where you're like, okay, how do I go back next week and see if the thing that I did moved the needle that I hoped it would?"
+    },
+    {
+      "start": 61.96,
+      "end": 71.02,
+      "text": "Welcome to Limited Supply, the place for refreshingly real takes on what D2C is really like. I'm your host, Nick Sharma. Let's start talking about money."
+    },
+    {
+      "start": 72.38,
+      "end": 84.12,
+      "text": "I'm so excited to take a second and talk about this season's sponsor, Motion. If you don't already use it, Motion is a SaaS tool that launched three years ago. I even invested in the company pre-launch just based on how they were thinking about creative analytics."
+    },
+    {
+      "start": 84.12,
+      "end": 96.7,
+      "text": "Today, Motion is a no-brainer tool to use in your marketing stack. Yes, it's creative analytics. Yes, it lets you track your competitors' ads. Yes, it has the most beautiful UX and UI to report your ad performance."
+    },
+    {
+      "start": 96.98,
+      "end": 103.74,
+      "text": "But let me tell you how people at Sharma Brands describe Motion. So I asked my team in Slack, why do you like Motion? And here were the answers."
+    },
+    {
+      "start": 128.52,
+      "end": 130.4,
+      "text": "The first reply says,"
+    },
+    {
+      "start": 155.82,
+      "end": 166.63,
+      "text": "What's up, guys? Welcome back to Limited Supply. Today, I'm very excited for today's episode, actually."
+    },
+    {
+      "start": 166.63,
+      "end": 175.75,
+      "text": "You guys are probably, if you're buying ads or if you run media, you probably use this tool called Motion. Motion is actually this season's sponsor as well of Limited Supply."
+    },
+    {
+      "start": 175.93,
+      "end": 182.81,
+      "text": "And as you know, one thing we've started doing as tradition is we get the sponsors on the podcast and we just ask them all the questions."
+    },
+    {
+      "start": 182.99,
+      "end": 187.51,
+      "text": "How did you get to the product? How does it work? What are the things that are coming up?"
+    },
+    {
+      "start": 187.67,
+      "end": 190.19,
+      "text": "What are the things that people should not be doing with it?"
+    },
+    {
+      "start": 190.49,
+      "end": 193.65,
+      "text": "Who is not a good customer? Who is a good customer? All that kind of stuff."
+    },
+    {
+      "start": 193.65,
+      "end": 200.65,
+      "text": "But in this one, it was a lot of fun, too, because we dove into all things creative with Reza, who is the founder of Motion."
+    },
+    {
+      "start": 201.05,
+      "end": 204.73,
+      "text": "And I ended up investing in his company back when, actually before it launched."
+    },
+    {
+      "start": 204.73,
+      "end": 216.65,
+      "text": "So today was a fun episode because it felt like not only was it something that I believed in a long time ago and got to sort of also hear his side of the story of how this whole thing has unfolded."
+    },
+    {
+      "start": 216.65,
+      "end": 232.67,
+      "text": "But I think there's also a lot of just tactical nuggets in terms of what you can learn from a creative standpoint, whether you are on the creative team yourself, you're a creative strategist, you're on the media team working with the creative team, you're on the brand team trying to work with the paid media team and their creative."
+    },
+    {
+      "start": 233.49,
+      "end": 238.43,
+      "text": "Whatever it may be, I think today's episode is going to be very interesting and insightful."
+    },
+    {
+      "start": 239.07,
+      "end": 240.25,
+      "text": "So give it a listen."
+    },
+    {
+      "start": 240.65,
+      "end": 244.27,
+      "text": "Shoot me a DM on Twitter or shoot me an email and at Sharma.com."
+    },
+    {
+      "start": 244.39,
+      "end": 245.19,
+      "text": "Let me know what you think."
+    },
+    {
+      "start": 246.17,
+      "end": 248.35,
+      "text": "And yeah, I'll see you."
+    },
+    {
+      "start": 248.41,
+      "end": 249.59,
+      "text": "I'll see you in two seconds."
+    },
+    {
+      "start": 249.75,
+      "end": 253.23,
+      "text": "Literally, I'm just going to switch my clothes and switch my mic and I'm going to hear you in two seconds."
+    },
+    {
+      "start": 254.03,
+      "end": 254.81,
+      "text": "All right, Reza."
+    },
+    {
+      "start": 254.99,
+      "end": 256.25,
+      "text": "I'm so excited to have you here."
+    },
+    {
+      "start": 256.75,
+      "end": 263.49,
+      "text": "This has been a long time coming because I've been, I actually never got to use shoelace, but I've been a Motion customer since the beginning."
+    },
+    {
+      "start": 263.61,
+      "end": 265.85,
+      "text": "I got to invest in Motion thanks to you."
+    },
+    {
+      "start": 266.11,
+      "end": 272.25,
+      "text": "We've been a Motion client or customer as well at Sharma Brands and everybody loves Motion."
+    },
+    {
+      "start": 272.49,
+      "end": 275.59,
+      "text": "It's like the one SaaS tool that nobody gets mad about."
+    },
+    {
+      "start": 276.21,
+      "end": 279.19,
+      "text": "And so congratulations to you and also excited to have you here."
+    },
+    {
+      "start": 279.33,
+      "end": 280.29,
+      "text": "I appreciate that."
+    },
+    {
+      "start": 280.37,
+      "end": 285.17,
+      "text": "Let's hope it stays that way because I feel like there's this arc where it's like lots of love and then like you get big enough"
+    },
+    {
+      "start": 285.17,
+      "end": 287.33,
+      "text": "and then people just feel the need to hate you."
+    },
+    {
+      "start": 287.45,
+      "end": 290.13,
+      "text": "Let's see if we can resist that for many years still."
+    },
+    {
+      "start": 291.15,
+      "end": 292.49,
+      "text": "Yeah, that's amazing."
+    },
+    {
+      "start": 292.89,
+      "end": 294.63,
+      "text": "Okay, so I want to talk."
+    },
+    {
+      "start": 294.77,
+      "end": 296.77,
+      "text": "So today I want to talk all about Motion."
+    },
+    {
+      "start": 297.05,
+      "end": 301.05,
+      "text": "I want to talk all about creative analytics, creative process, the evolution of a creative,"
+    },
+    {
+      "start": 302.61,
+      "end": 306.49,
+      "text": "how you're helping brands basically like get better on the creative side"
+    },
+    {
+      "start": 306.49,
+      "end": 311.11,
+      "text": "and also how we're using Motion on a day-to-day basis with clients and internally."
+    },
+    {
+      "start": 311.67,
+      "end": 318.87,
+      "text": "But before we get to that, why don't you give us a quick background because you've had a career also before Motion."
+    },
+    {
+      "start": 319.23,
+      "end": 322.37,
+      "text": "So tell us a little bit about yourself and then we'll dive more into Motion."
+    },
+    {
+      "start": 323.01,
+      "end": 323.31,
+      "text": "Sure."
+    },
+    {
+      "start": 323.55,
+      "end": 324.11,
+      "text": "Yeah, happy to."
+    },
+    {
+      "start": 325.27,
+      "end": 328.21,
+      "text": "So I've been building around commerce for a very long time."
+    },
+    {
+      "start": 328.43,
+      "end": 332.35,
+      "text": "Actually before Motion, we had a company called Shoelace, which I'll talk about."
+    },
+    {
+      "start": 332.45,
+      "end": 338.21,
+      "text": "But prior to that, I was a software engineer at another e-commerce tech company called Hubba."
+    },
+    {
+      "start": 338.21,
+      "end": 341.43,
+      "text": "And they were basically building a marketplace for retailers and brands."
+    },
+    {
+      "start": 341.75,
+      "end": 344.27,
+      "text": "Similar idea to eventually what became FAIR."
+    },
+    {
+      "start": 344.57,
+      "end": 350.85,
+      "text": "And so that was my first, this was probably like 2014, first kind of intro into like commerce and commerce enablement."
+    },
+    {
+      "start": 351.63,
+      "end": 360.03,
+      "text": "I met my two co-founders there and three of us quit our jobs in the summer of 2015."
+    },
+    {
+      "start": 360.03,
+      "end": 366.13,
+      "text": "We didn't quite have an idea at the time, but just knew that the three of us wanted to build together and work together."
+    },
+    {
+      "start": 366.49,
+      "end": 370.01,
+      "text": "And so we spent the summer working on a variety of different things."
+    },
+    {
+      "start": 370.19,
+      "end": 372.39,
+      "text": "We stumbled onto Shopify at that point."
+    },
+    {
+      "start": 372.87,
+      "end": 375.85,
+      "text": "Shopify was like very, very early days still."
+    },
+    {
+      "start": 376.01,
+      "end": 381.85,
+      "text": "I think they had like 50,000 merchants on the platform and their app store was just getting off of the ground."
+    },
+    {
+      "start": 381.95,
+      "end": 384.15,
+      "text": "So extremely early days there."
+    },
+    {
+      "start": 384.15,
+      "end": 388.17,
+      "text": "And it was also around the time that Facebook was going more direct to advertiser."
+    },
+    {
+      "start": 388.35,
+      "end": 389.85,
+      "text": "And it was like this kind of perfect."
+    },
+    {
+      "start": 389.99,
+      "end": 395.73,
+      "text": "Everybody in commerce obviously knows that like the peanut butter and jelly that is Shopify and Meta."
+    },
+    {
+      "start": 395.87,
+      "end": 403.39,
+      "text": "But like it really was the distribution channel that allowed Shopify and Shopify merchants to scale in the way that they did those years."
+    },
+    {
+      "start": 404.99,
+      "end": 410.07,
+      "text": "And so that was a really interesting intersection point where we were started kind of building in that area."
+    },
+    {
+      "start": 410.55,
+      "end": 415.73,
+      "text": "And so the first app that we built was one of the first apps in the Shopify app store called Shoelace."
+    },
+    {
+      "start": 415.83,
+      "end": 419.15,
+      "text": "And at the time it was kind of helping people get set up with Facebook advertising."
+    },
+    {
+      "start": 419.15,
+      "end": 427.91,
+      "text": "It would like sync your product catalog, automate the kind of installation of your Facebook pixel code onto your Shopify theme files and all that."
+    },
+    {
+      "start": 427.91,
+      "end": 430.07,
+      "text": "So very kind of simple problem."
+    },
+    {
+      "start": 430.23,
+      "end": 433.39,
+      "text": "And over time we tried to automate as much of it as possible."
+    },
+    {
+      "start": 434.03,
+      "end": 443.07,
+      "text": "What was really interesting is towards the 2018, 2019 as like the kind of simple setup stuff became really easy."
+    },
+    {
+      "start": 443.43,
+      "end": 452.05,
+      "text": "A lot of what we were trying to do is like help automate audience targeting so that people can create these more kind of segmented approach to advertising on Meta."
+    },
+    {
+      "start": 452.05,
+      "end": 465.91,
+      "text": "And it turned out that that was going like exactly against the grain because Meta's algorithm was just getting so good at an audience targeting that kind of it was very clear that they did not want you tinkering with audience targeting."
+    },
+    {
+      "start": 466.09,
+      "end": 468.97,
+      "text": "Just kind of let the algorithm figure it out, which is interesting."
+    },
+    {
+      "start": 469.15,
+      "end": 472.93,
+      "text": "And so that was kind of the end of Shoelace as a software business."
+    },
+    {
+      "start": 473.11,
+      "end": 476.51,
+      "text": "We eventually pivoted that business to be a marketing agency."
+    },
+    {
+      "start": 476.51,
+      "end": 483.41,
+      "text": "And then I kind of went off with our engineering team in search of what's next and kind of eventually that turned into motion."
+    },
+    {
+      "start": 483.61,
+      "end": 490.99,
+      "text": "But the interesting thing about that era, so this was like mid 2020 that we started kind of working around this."
+    },
+    {
+      "start": 491.11,
+      "end": 497.35,
+      "text": "So this was like looming Facebook, sorry, iOS 14 update that was going to cause a lot of problems."
+    },
+    {
+      "start": 497.35,
+      "end": 512.21,
+      "text": "And like that seemed to be the year where the industry shifted from like lookalike audiences and like audience targeting being the really big revenue lever to all of a sudden everything you hear and everything that everyone is talking about is creative."
+    },
+    {
+      "start": 512.35,
+      "end": 516.55,
+      "text": "And I feel like it happened in that kind of 2020, early 2021 period."
+    },
+    {
+      "start": 517.11,
+      "end": 527.95,
+      "text": "And that was like, we're very fortunate to be building a new product around that time because that was very obvious to us that like, okay, it seems like we should build something around creative."
+    },
+    {
+      "start": 528.11,
+      "end": 537.71,
+      "text": "This is so clearly on the top of the minds of every amazing growth marketing team that we already had as like customers and friends in the industry."
+    },
+    {
+      "start": 537.71,
+      "end": 545.95,
+      "text": "And so very fortunate about timing there and then yeah, built a built motion and we kind of just talk a little bit more about that and the early journey there."
+    },
+    {
+      "start": 546.07,
+      "end": 550.09,
+      "text": "But now motion has grown to over 50 employees, thousands of customers."
+    },
+    {
+      "start": 550.09,
+      "end": 553.73,
+      "text": "And we just raised our series B of $30 million."
+    },
+    {
+      "start": 553.73,
+      "end": 558.15,
+      "text": "And so the market that we're building it is like obviously real and growing."
+    },
+    {
+      "start": 558.15,
+      "end": 569.73,
+      "text": "And so it kind of all came from this insight that in the 2020 year, digital marketing seemed to have shifted from like audience targeting no longer is relevant."
+    },
+    {
+      "start": 570.03,
+      "end": 571.13,
+      "text": "Everything is about creative."
+    },
+    {
+      "start": 571.43,
+      "end": 578.29,
+      "text": "And I just kind of meant that you need this new set of tooling to help kind of teams adapt to this new environment."
+    },
+    {
+      "start": 578.81,
+      "end": 579.89,
+      "text": "Yeah, it's so true."
+    },
+    {
+      "start": 580.23,
+      "end": 583.35,
+      "text": "There's wow, there's so much to unpack in everything you just said."
+    },
+    {
+      "start": 583.95,
+      "end": 585.83,
+      "text": "Let's talk about the creative being the targeting."
+    },
+    {
+      "start": 585.83,
+      "end": 594.91,
+      "text": "So I remember, okay, when I started running Facebook ads, before I was actually started running Facebook ads, I was at an ad tech company in San Francisco and I was on the sales side."
+    },
+    {
+      "start": 594.91,
+      "end": 602.13,
+      "text": "So I was tinkering around with ads manager and power editor and looking at the audiences I could pick."
+    },
+    {
+      "start": 602.75,
+      "end": 611.87,
+      "text": "And then going to, I remember specifically calling up Tao Group or Hakkasan at the time and being like, guys, we can target people coming to Vegas."
+    },
+    {
+      "start": 611.87,
+      "end": 617.03,
+      "text": "Like people who have a flight booked to Vegas, we can target them in this thing and Facebook ads."
+    },
+    {
+      "start": 617.53,
+      "end": 619.91,
+      "text": "And, you know, targeting was so granular."
+    },
+    {
+      "start": 620.37,
+      "end": 628.21,
+      "text": "And I even remember the Facebook's like in the ads manager, the analytics tool where you could upload audiences and whatnot."
+    },
+    {
+      "start": 628.31,
+      "end": 630.47,
+      "text": "You used to get such granular information."
+    },
+    {
+      "start": 630.47,
+      "end": 635.99,
+      "text": "And then all of that has, you know, gone away in different waves over the years."
+    },
+    {
+      "start": 636.15,
+      "end": 648.63,
+      "text": "But now it feels like, you know, when you open, when you open the most engaging social platforms, they have basically taken the algorithm of the ads manager and put it into your organic content feed."
+    },
+    {
+      "start": 648.63,
+      "end": 653.39,
+      "text": "And everything has now become algorithmically driven versus targeting driven."
+    },
+    {
+      "start": 653.89,
+      "end": 658.41,
+      "text": "And creative, from what everything we've seen too, creative is the targeting."
+    },
+    {
+      "start": 658.61,
+      "end": 664.51,
+      "text": "If you put a guy who looks like me in the ad, you're going to find guys who look like me consuming the ad."
+    },
+    {
+      "start": 664.69,
+      "end": 669.45,
+      "text": "If you put a guy who looks or a person who looks like my mom in the ad, you're going to find other moms in the audience."
+    },
+    {
+      "start": 669.45,
+      "end": 681.63,
+      "text": "But what are some of the other things you've seen around creative being the targeting that have sort of like even just pushed you guys to want to innovate on this further and get so much more granular on the data around creative?"
+    },
+    {
+      "start": 682.15,
+      "end": 683.73,
+      "text": "Yeah, I mean, well, it's exactly that."
+    },
+    {
+      "start": 683.93,
+      "end": 695.47,
+      "text": "So the interesting thing is like growth marketers are some of the most interesting people out there because I think they always think,"
+    },
+    {
+      "start": 695.47,
+      "end": 700.97,
+      "text": "I feel like I'm kind of a, in another world, like that's my full-time job is growth marketing."
+    },
+    {
+      "start": 701.11,
+      "end": 702.27,
+      "text": "I feel like I love it."
+    },
+    {
+      "start": 702.29,
+      "end": 709.03,
+      "text": "And it's a really interesting, it's a really interesting job because you're thinking about the world in levers, right?"
+    },
+    {
+      "start": 709.15,
+      "end": 717.03,
+      "text": "It's like you're either optimizing things to their extreme or you're like, what are the really big levers that I can pull?"
+    },
+    {
+      "start": 717.03,
+      "end": 728.19,
+      "text": "And so when you see that like the big revenue lever to pull is on creative, it's very interesting when you see like all of the smartest people start to shift towards that direction."
+    },
+    {
+      "start": 728.55,
+      "end": 741.29,
+      "text": "And so what started to happen was that you have people who for the most part, you could have been a growth marketer in the past and just be kind of nerding out in your spreadsheets."
+    },
+    {
+      "start": 741.29,
+      "end": 746.93,
+      "text": "And then you're like tinkering of data and like turning knobs and dials, almost like a day trader type of job."
+    },
+    {
+      "start": 747.53,
+      "end": 764.27,
+      "text": "But once the revenue lever became creative, the interesting thing that happened is that you now, the revenue lever is like this different language that is like this artistic language that is not exactly the same as like turning knobs and dials like a day trader."
+    },
+    {
+      "start": 764.79,
+      "end": 773.49,
+      "text": "And so we noticed that a lot of these like really amazing growth people are like, okay, I need to influence the culture on the creative team."
+    },
+    {
+      "start": 773.61,
+      "end": 781.83,
+      "text": "Like that started to become their mandate that like we have a creative team who previously, it was enough to go to them and say, hey, listen, just like feed me stuff."
+    },
+    {
+      "start": 781.97,
+      "end": 783.55,
+      "text": "Like I'll be fine."
+    },
+    {
+      "start": 783.65,
+      "end": 785.95,
+      "text": "Just constantly feed me stuff and I'll be okay."
+    },
+    {
+      "start": 785.95,
+      "end": 793.67,
+      "text": "Like I'll be fine."
+    },
+    {
+      "start": 816.09,
+      "end": 818.69,
+      "text": "And point that back into the way that we produce creative."
+    },
+    {
+      "start": 819.39,
+      "end": 829.53,
+      "text": "And so in the early days, we saw a bunch of people building out these like spreadsheets and pivot tables and these like janky BI tools that like kind of work if you're a data person."
+    },
+    {
+      "start": 829.53,
+      "end": 834.87,
+      "text": "But as soon as you put that in front of a creative person, the creative person's like, wait, what is this?"
+    },
+    {
+      "start": 834.95,
+      "end": 836.47,
+      "text": "Like I don't speak spreadsheet."
+    },
+    {
+      "start": 836.63,
+      "end": 838.21,
+      "text": "Like what is all of this that you're showing me?"
+    },
+    {
+      "start": 838.85,
+      "end": 848.95,
+      "text": "And so the big bottleneck was around how do you get the creative team starting to think in revenue terms and try and start kind of understand the data of what's working."
+    },
+    {
+      "start": 848.95,
+      "end": 857.81,
+      "text": "And it's really like in its simplest form, there was challenges around things like how many creatives did we launch?"
+    },
+    {
+      "start": 858.13,
+      "end": 859.35,
+      "text": "Which ones are working?"
+    },
+    {
+      "start": 859.57,
+      "end": 860.49,
+      "text": "Which ones are not working?"
+    },
+    {
+      "start": 860.67,
+      "end": 862.21,
+      "text": "Did this one even get any spend?"
+    },
+    {
+      "start": 862.35,
+      "end": 870.13,
+      "text": "So it was like, you know, you can go many levels deep and try to understand like what is it about an individual video or another one that is like driving performance."
+    },
+    {
+      "start": 870.29,
+      "end": 874.67,
+      "text": "But teams were stuck at like the basics of just did this one even launch?"
+    },
+    {
+      "start": 874.67,
+      "end": 875.11,
+      "text": "I don't know."
+    },
+    {
+      "start": 875.23,
+      "end": 882.79,
+      "text": "I gave you these like 20 files last week or last month and like I have no idea which ones even like ran or didn't run."
+    },
+    {
+      "start": 882.91,
+      "end": 883.43,
+      "text": "And so like that."
+    },
+    {
+      "start": 883.53,
+      "end": 890.75,
+      "text": "And so a lot of the problems that we saw was around teamwork and collaboration and having like one team being able to report back to another team."
+    },
+    {
+      "start": 890.87,
+      "end": 892.23,
+      "text": "It's like, here's what happened."
+    },
+    {
+      "start": 892.37,
+      "end": 893.13,
+      "text": "Here's what didn't happen."
+    },
+    {
+      "start": 893.91,
+      "end": 900.29,
+      "text": "And then a lot of that started to feed in these ideas where they're like, okay, if we're starting to see this kind of signal in the data,"
+    },
+    {
+      "start": 900.97,
+      "end": 908.39,
+      "text": "what if we try producing new creative that like leverages these themes and these learnings that we're kind of seeing show up in the data?"
+    },
+    {
+      "start": 908.49,
+      "end": 914.01,
+      "text": "And how do we how do we brainstorm like five new concepts that kind of capitalize on this theme or this learning?"
+    },
+    {
+      "start": 914.19,
+      "end": 916.97,
+      "text": "But now let's go get really creative about this sort of thing."
+    },
+    {
+      "start": 917.09,
+      "end": 923.27,
+      "text": "And so like at the heart of it was around workflow and collaboration between these two very kind of distinct teams,"
+    },
+    {
+      "start": 923.47,
+      "end": 926.43,
+      "text": "because it's almost like left brain versus right brain."
+    },
+    {
+      "start": 926.69,
+      "end": 928.27,
+      "text": "One group is extremely analytical."
+    },
+    {
+      "start": 928.27,
+      "end": 929.87,
+      "text": "The other group is extremely creative."
+    },
+    {
+      "start": 930.51,
+      "end": 935.63,
+      "text": "And you kind of needed this middle ground of communication between these two,"
+    },
+    {
+      "start": 935.73,
+      "end": 938.89,
+      "text": "which is what we're seeing is the rise of this like creative strategist role,"
+    },
+    {
+      "start": 939.03,
+      "end": 946.89,
+      "text": "which, you know, there's this like unicorn persona that every now and then everybody has this like person in their network."
+    },
+    {
+      "start": 947.03,
+      "end": 948.35,
+      "text": "It's like, hey, I knew this one person."
+    },
+    {
+      "start": 948.77,
+      "end": 951.85,
+      "text": "They're like super analytical and they're super creative."
+    },
+    {
+      "start": 951.97,
+      "end": 953.55,
+      "text": "And that was very rare, but really valuable."
+    },
+    {
+      "start": 953.55,
+      "end": 963.83,
+      "text": "And what we're noticing in our perspective on it is that the industry is now demanding the production of this role at like massive scale."
+    },
+    {
+      "start": 964.07,
+      "end": 968.95,
+      "text": "It's no longer an optional kind of role that somebody may or may not have."
+    },
+    {
+      "start": 969.05,
+      "end": 971.71,
+      "text": "I think every company now needs someone like this."
+    },
+    {
+      "start": 971.71,
+      "end": 976.83,
+      "text": "And that's kind of the opportunity for people, whether they're starting out on the growth side or on the creative side."
+    },
+    {
+      "start": 977.39,
+      "end": 985.03,
+      "text": "As long as you develop your skill on the other discipline, you can be extremely valuable to your company and in your career."
+    },
+    {
+      "start": 985.13,
+      "end": 989.19,
+      "text": "And that's kind of the creative strategist role that we're very excited about."
+    },
+    {
+      "start": 989.31,
+      "end": 993.93,
+      "text": "And we obviously create a lot of content and events for this particular job role."
+    },
+    {
+      "start": 993.93,
+      "end": 994.97,
+      "text": "It's kind of emerging."
+    },
+    {
+      "start": 995.17,
+      "end": 999.95,
+      "text": "And our view is that like that's basically the most important job in the workflow today."
+    },
+    {
+      "start": 1000.05,
+      "end": 1003.33,
+      "text": "And so very, very critical for companies to take it seriously."
+    },
+    {
+      "start": 1003.75,
+      "end": 1003.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 1004.07,
+      "end": 1011.75,
+      "text": "I feel like this creative strategist role is like the new version of kind of the OG growth person."
+    },
+    {
+      "start": 1011.93,
+      "end": 1012.05,
+      "text": "Right."
+    },
+    {
+      "start": 1012.15,
+      "end": 1015.57,
+      "text": "Like when I think about like when did you launch Shoelace?"
+    },
+    {
+      "start": 1016.39,
+      "end": 1018.35,
+      "text": "Sort of in late 2015."
+    },
+    {
+      "start": 1018.99,
+      "end": 1019.47,
+      "text": "Okay."
+    },
+    {
+      "start": 1019.71,
+      "end": 1025.17,
+      "text": "So like I feel like I really started spending a lot of money in 2017 on ads."
+    },
+    {
+      "start": 1025.37,
+      "end": 1025.69,
+      "text": "Right."
+    },
+    {
+      "start": 1025.87,
+      "end": 1040.13,
+      "text": "And I remember thinking like the OG, you know, a growth person of 2017 reminds me of somebody who is running Facebook ads, who is doing all the creative analysis, who's doing the briefing, who's managing the agencies, who's building the landing pages."
+    },
+    {
+      "start": 1040.35,
+      "end": 1042.01,
+      "text": "Basically like a D2C in a box."
+    },
+    {
+      "start": 1042.15,
+      "end": 1042.65,
+      "text": "You know what I mean?"
+    },
+    {
+      "start": 1042.93,
+      "end": 1043.09,
+      "text": "Yeah."
+    },
+    {
+      "start": 1043.09,
+      "end": 1051.39,
+      "text": "And but now that there's so much within that, because back then there wasn't Shopify and all these apps and this whole ecosystem that exists."
+    },
+    {
+      "start": 1051.55,
+      "end": 1053.03,
+      "text": "Now there's usually a couple people."
+    },
+    {
+      "start": 1053.73,
+      "end": 1068.35,
+      "text": "And this kind of like creative strategist role is this new version of, I think, like a growth role where you have somebody who can dive into the media side and understand how to read media platforms and ads managers and reporting and understanding things there."
+    },
+    {
+      "start": 1068.35,
+      "end": 1076.23,
+      "text": "And like taking the analytics and then translating them into, okay, now how does this actually make sense into the next brief or into the next edit of something?"
+    },
+    {
+      "start": 1076.41,
+      "end": 1081.87,
+      "text": "I was thinking too, as you were talking, like there really was zero reporting back then."
+    },
+    {
+      "start": 1081.87,
+      "end": 1094.21,
+      "text": "I remember at Hint, we would have a Tuesday meeting and our paid social coordinator would share on a TV screen what the, what, what like the top five best ads and the top five worst ads were."
+    },
+    {
+      "start": 1094.43,
+      "end": 1097.31,
+      "text": "And the creative person was like half listening during these meetings."
+    },
+    {
+      "start": 1097.51,
+      "end": 1099.29,
+      "text": "But then after that, that was pretty much it."
+    },
+    {
+      "start": 1099.37,
+      "end": 1109.25,
+      "text": "There was no way to like download reports easily or create these reports and, you know, translate them into something that, that just makes sense to the creative team."
+    },
+    {
+      "start": 1109.25,
+      "end": 1116.53,
+      "text": "Which then puts everybody in this cycle of, okay, we're just testing things for testing sake, but we're not, we don't know what we're testing or why we're testing it."
+    },
+    {
+      "start": 1117.13,
+      "end": 1117.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 1117.81,
+      "end": 1118.39,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 1118.71,
+      "end": 1130.11,
+      "text": "And like, you know, with, with creative, what's interesting is that so many people might have an opinion or an idea or like the CEO has an idea, like we should really do this."
+    },
+    {
+      "start": 1130.19,
+      "end": 1132.61,
+      "text": "Or like the brand team is that like, no, this is off brand."
+    },
+    {
+      "start": 1132.75,
+      "end": 1133.51,
+      "text": "So you shouldn't do it."
+    },
+    {
+      "start": 1133.51,
+      "end": 1147.85,
+      "text": "So like in the absence of a proper data driven rigorous process, the, the way that decisions get made around creative can be extremely wonky and a lot of just kind of feelings based decision making."
+    },
+    {
+      "start": 1147.85,
+      "end": 1159.99,
+      "text": "And anybody who's ever spent time running a rigorous process, the first thing that you'll hear is this classic story where it's like the ad that everybody thought was going to perform did the worst."
+    },
+    {
+      "start": 1160.21,
+      "end": 1165.29,
+      "text": "And then the one that everyone thought was like, no, this is obviously not going to work, but whatever, let's just run it like that."
+    },
+    {
+      "start": 1165.51,
+      "end": 1166.27,
+      "text": "That one crushes."
+    },
+    {
+      "start": 1167.15,
+      "end": 1183.35,
+      "text": "And that's so common that you kind of go to the old world and you realize just how dangerous that is and how much waste that leads to, because like in the absence of actually looking at results, people are going to make decisions in a terrible way that kind of objectively leads, lead to bad outcomes."
+    },
+    {
+      "start": 1183.35,
+      "end": 1187.91,
+      "text": "Like you can make up for it in volume, if at least like you're producing a lot of stuff and that's good."
+    },
+    {
+      "start": 1187.91,
+      "end": 1199.75,
+      "text": "But once the team starts to get good at running a process, there starts to become these like recurring themes and like foundational learnings that don't really go away from iteration cycle to iteration cycle."
+    },
+    {
+      "start": 1199.85,
+      "end": 1211.13,
+      "text": "Like you might realize like, Hey, with our core ICP, this value prop or that value prop really resonates or this pain point works extremely well for this particular audience group."
+    },
+    {
+      "start": 1211.89,
+      "end": 1217.81,
+      "text": "And those are now just kind of institutional knowledge that people can rely on and say, well, we know this."
+    },
+    {
+      "start": 1218.03,
+      "end": 1225.29,
+      "text": "And then let's, and then we also know that, for example, like this particular hook that we tried did very well, like capturing attention."
+    },
+    {
+      "start": 1225.47,
+      "end": 1228.91,
+      "text": "You kind of piece these things together and it's still no perfect."
+    },
+    {
+      "start": 1229.99,
+      "end": 1231.63,
+      "text": "There's still no perfect formula."
+    },
+    {
+      "start": 1231.85,
+      "end": 1240.73,
+      "text": "There's still kind of an art to it, but the more you can layer on things that have some level of certainty based on like many cycles of learnings."
+    },
+    {
+      "start": 1240.73,
+      "end": 1245.99,
+      "text": "Then you kind of get closer to this idea that, you know, that the hit rate is higher."
+    },
+    {
+      "start": 1246.17,
+      "end": 1250.17,
+      "text": "It's not like we're producing a hundred things and then, you know, maybe only a couple of them work."
+    },
+    {
+      "start": 1250.31,
+      "end": 1255.19,
+      "text": "Like you, you basically want to get to the point where you have a high volume of ads going out the door."
+    },
+    {
+      "start": 1255.43,
+      "end": 1263.59,
+      "text": "And then how do you get like the average spend of each to go up and the average performance of each to go up and across the board that leads to really great performance."
+    },
+    {
+      "start": 1263.59,
+      "end": 1271.97,
+      "text": "And so that's, that's kind of the, uh, the difference between the old way and the new way is actually pretty insane when it comes to like waste and efficiency."
+    },
+    {
+      "start": 1272.23,
+      "end": 1282.71,
+      "text": "And I think one of the other reasons why people got very serious about this workflow in the last few years said around that time, it's also kind of when, when the economy turned right."
+    },
+    {
+      "start": 1282.71,
+      "end": 1287.97,
+      "text": "And like interest rates were no longer low and money was no longer like free flowing and cheap."
+    },
+    {
+      "start": 1288.13,
+      "end": 1295.35,
+      "text": "And so a lot of people were starting to become very serious about efficiency and not wasting money and like doing things correctly and like finding where the waste was."
+    },
+    {
+      "start": 1295.35,
+      "end": 1303.67,
+      "text": "And I think that led people to also take this creative process a lot more seriously because they noticed that, Hey, a lot of the waste is sitting here."
+    },
+    {
+      "start": 1303.79,
+      "end": 1305.57,
+      "text": "So, you know, we should, we should get it right."
+    },
+    {
+      "start": 1305.95,
+      "end": 1306.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 1306.45,
+      "end": 1323.33,
+      "text": "I remember, uh, I want to say it was probably 21 or 22 when, uh, I met the, like, uh, a lot of the C-suites at Bacardi and they were like, you know, we spend six months putting together this creative campaign for something that we're going to come out with."
+    },
+    {
+      "start": 1323.33,
+      "end": 1325.75,
+      "text": "And then we spend the next six months running it."
+    },
+    {
+      "start": 1325.93,
+      "end": 1331.87,
+      "text": "And by the time it's done running, we're back in the drawing, like we're, we're already finalizing what that next campaign is."
+    },
+    {
+      "start": 1332.03,
+      "end": 1333.61,
+      "text": "We're not taking any sort of data."
+    },
+    {
+      "start": 1334.03,
+      "end": 1342.89,
+      "text": "Um, all the, all the campaigns they run to, you know, they run, if they're running on, uh, they run everywhere, but their digital campaigns, they run on basically like reach and frequency."
+    },
+    {
+      "start": 1343.21,
+      "end": 1350.85,
+      "text": "So they're not getting any sort of feedback loop of what is working from a click-through rate, what's working from, uh, an engagement rate standpoint."
+    },
+    {
+      "start": 1351.37,
+      "end": 1359.49,
+      "text": "And, um, and, and this was something like, this was right around the time I think motion was really starting to pick up steam and yeah, it played right in."
+    },
+    {
+      "start": 1359.67,
+      "end": 1370.97,
+      "text": "There was also like, you know, it's shocking to me that creative strategy and this sort of thinking is now starting to hit home or maybe even from a few years ago versus like 10 years ago."
+    },
+    {
+      "start": 1370.97,
+      "end": 1374.23,
+      "text": "Like I remember, uh, do you ever use this tool called ad espresso?"
+    },
+    {
+      "start": 1374.53,
+      "end": 1374.87,
+      "text": "Oh yeah."
+    },
+    {
+      "start": 1375.11,
+      "end": 1375.21,
+      "text": "Yeah."
+    },
+    {
+      "start": 1375.65,
+      "end": 1376.13,
+      "text": "Dude."
+    },
+    {
+      "start": 1376.57,
+      "end": 1376.93,
+      "text": "OG."
+    },
+    {
+      "start": 1377.31,
+      "end": 1378.05,
+      "text": "I remember it."
+    },
+    {
+      "start": 1378.25,
+      "end": 1378.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 1378.59,
+      "end": 1379.67,
+      "text": "The OG tool."
+    },
+    {
+      "start": 1380.13,
+      "end": 1385.15,
+      "text": "And, uh, still, I think to this day, one of the greatest tools ever created for Facebook."
+    },
+    {
+      "start": 1385.45,
+      "end": 1389.51,
+      "text": "Um, but we used to launch 48 ads at a time."
+    },
+    {
+      "start": 1389.83,
+      "end": 1393.45,
+      "text": "And, you know, I remember we'd put a 5k budget per day."
+    },
+    {
+      "start": 1393.65,
+      "end": 1395.91,
+      "text": "We'd launched 48 ads within three hours."
+    },
+    {
+      "start": 1395.91,
+      "end": 1404.07,
+      "text": "We knew which ones were getting the best click-through rate, you know, which copy with what image, with what, uh, CTA or no CTA was working the best."
+    },
+    {
+      "start": 1404.49,
+      "end": 1406.87,
+      "text": "And, um, and would quickly optimize that way."
+    },
+    {
+      "start": 1406.99,
+      "end": 1413.07,
+      "text": "And then anytime I talked to these larger companies, they'd be like, yeah, so we got, we got this campaign from the, from the creative agency."
+    },
+    {
+      "start": 1413.07,
+      "end": 1415.63,
+      "text": "And then our media agency just, they run it."
+    },
+    {
+      "start": 1415.83,
+      "end": 1422.97,
+      "text": "And then, uh, we hit a certain number of impressions and then the sales team tracks it at some point, but we're already working on the next one."
+    },
+    {
+      "start": 1423.11,
+      "end": 1424.57,
+      "text": "And I'm just like, there's no process here."
+    },
+    {
+      "start": 1424.71,
+      "end": 1425.83,
+      "text": "Like there's no feedback loop."
+    },
+    {
+      "start": 1425.97,
+      "end": 1426.53,
+      "text": "There's no process."
+    },
+    {
+      "start": 1426.69,
+      "end": 1427.75,
+      "text": "How do you know what's even working?"
+    },
+    {
+      "start": 1428.27,
+      "end": 1428.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 1429.09,
+      "end": 1429.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 1429.45,
+      "end": 1440.55,
+      "text": "I think it's also the, um, the direct to consumer e-commerce business model really lends itself well to this kind of rapid learning and rapid iteration because."
+    },
+    {
+      "start": 1440.63,
+      "end": 1440.99,
+      "text": "That's true."
+    },
+    {
+      "start": 1441.09,
+      "end": 1442.17,
+      "text": "It's kind of required to."
+    },
+    {
+      "start": 1442.77,
+      "end": 1443.21,
+      "text": "Exactly."
+    },
+    {
+      "start": 1443.35,
+      "end": 1457.09,
+      "text": "Cause you could lose a lot of money very quickly if you're, if you're wasting spend, but if you're a brand that's doing like brand marketing and then the impact kind of shows up in retail sales months later, it's, it's, it's the reason why I've found."
+    },
+    {
+      "start": 1457.27,
+      "end": 1459.27,
+      "text": "And we work with a lot of different marketers today."
+    },
+    {
+      "start": 1459.37,
+      "end": 1468.21,
+      "text": "Motion is used by, um, our biggest segment is obviously e-commerce marketers, but we have customers in SAS and like entertainment, like a bunch of other industries."
+    },
+    {
+      "start": 1468.21,
+      "end": 1474.55,
+      "text": "And it's become really interesting to me to observe just how amazing e-commerce marketers are."
+    },
+    {
+      "start": 1474.55,
+      "end": 1476.85,
+      "text": "And it's like, the difference is so clear."
+    },
+    {
+      "start": 1476.95,
+      "end": 1484.19,
+      "text": "And I think it really is because of the, um, the profit margins are so, are so thin in commerce that you really do need to become the best of the best."
+    },
+    {
+      "start": 1484.19,
+      "end": 1499.03,
+      "text": "And, uh, and so, you know, at the time it was the case that like, when you were tinkering with audience targeting, it led to a lot of this kind of big rapid improvements in, in performance."
+    },
+    {
+      "start": 1499.03,
+      "end": 1504.23,
+      "text": "But now you, you start to see that same kind of impact lever happen on the creative side."
+    },
+    {
+      "start": 1504.63,
+      "end": 1507.15,
+      "text": "It's also the case that like the industry has matured, right?"
+    },
+    {
+      "start": 1507.23,
+      "end": 1522.01,
+      "text": "So the area that you're talking about 2016, 2017, like those were the golden years, even from the standpoint of like competition on, on the auction was so low that it was like VC money still hadn't really poured in."
+    },
+    {
+      "start": 1522.01,
+      "end": 1531.09,
+      "text": "And like the secret wasn't quite out yet on this like phenomenal new channel and business model of like commerce and, uh, and paid social."
+    },
+    {
+      "start": 1531.35,
+      "end": 1535.37,
+      "text": "But now we're in like the expert mode where it's a mature market."
+    },
+    {
+      "start": 1535.37,
+      "end": 1538.09,
+      "text": "You're competing with a lot of other really talented people."
+    },
+    {
+      "start": 1538.09,
+      "end": 1549.89,
+      "text": "And so I think that's also the other thing to keep in mind as, as markets and industries evolve is that, are we in the kind of early days of the kind of gold rush and growth hacker era?"
+    },
+    {
+      "start": 1549.89,
+      "end": 1565.77,
+      "text": "Or are we in the more kind of mature expert era where things are just going to be really hard and, and the, and the bar is just going to be that much higher for everybody that a lot of the quick wins kind of dry out when you, when you enter this, to this level of maturity that, that commerce is in now."
+    },
+    {
+      "start": 1568.34,
+      "end": 1575.84,
+      "text": "Whether you're spending 50,000 per month, 50,000 per week, or 50,000 per day on ads, there's one thing that you need in all those scenarios."
+    },
+    {
+      "start": 1576.16,
+      "end": 1580.26,
+      "text": "It's creative analytics that help you understand what's working and drive you more revenue."
+    },
+    {
+      "start": 1580.84,
+      "end": 1587.8,
+      "text": "With motion, their software makes it so stupid simple to see what is performing, what is missing the mark and what you should continue to double down on."
+    },
+    {
+      "start": 1588.06,
+      "end": 1595.26,
+      "text": "With motion, their software makes it so stupid simple to see what's performing, what's missing the mark and what you should continue to double down on."
+    },
+    {
+      "start": 1595.26,
+      "end": 1604.06,
+      "text": "Motion reports are also the only reports I've ever been able to send to a brand CEO or CMO, but also to the performance marketing team and to the creative team."
+    },
+    {
+      "start": 1604.4,
+      "end": 1606.74,
+      "text": "Their UI makes it so easy to interface."
+    },
+    {
+      "start": 1607.02,
+      "end": 1610.86,
+      "text": "So whatever you're looking for, you can find it or you can create custom reports for it."
+    },
+    {
+      "start": 1611.06,
+      "end": 1613.04,
+      "text": "It's literally an idiot proof software."
+    },
+    {
+      "start": 1613.2,
+      "end": 1616.04,
+      "text": "And I say that as someone who gets easily confused with complex UI."
+    },
+    {
+      "start": 1616.36,
+      "end": 1620.38,
+      "text": "I want you to try motion because like myself, I bet you won't be able to live without it."
+    },
+    {
+      "start": 1620.38,
+      "end": 1623.02,
+      "text": "Once you try it, go to motionapp.com."
+    },
+    {
+      "start": 1623.06,
+      "end": 1627.7,
+      "text": "And when you talk to their sales team, mention limited supply to get 50% off your first month."
+    },
+    {
+      "start": 1628.04,
+      "end": 1631.98,
+      "text": "Again, that's motionapp.com to get 50% off your first month."
+    },
+    {
+      "start": 1632.16,
+      "end": 1636.18,
+      "text": "When you mentioned limited supply to their sales team, try it out and let me know how you like it."
+    },
+    {
+      "start": 1639.5,
+      "end": 1639.98,
+      "text": "Okay."
+    },
+    {
+      "start": 1640,
+      "end": 1642.96,
+      "text": "You said something earlier about within motion."
+    },
+    {
+      "start": 1644.24,
+      "end": 1648.76,
+      "text": "You, you, you learned that you had to influence the culture on the creative team."
+    },
+    {
+      "start": 1648.76,
+      "end": 1663.5,
+      "text": "And I want to talk about that, but, but first a huge compliment, because I think one of the reasons motion is so successful, um, is that your UX and UI of motion is 13 out of 10."
+    },
+    {
+      "start": 1663.72,
+      "end": 1664.44,
+      "text": "It's so beautiful."
+    },
+    {
+      "start": 1664.72,
+      "end": 1668.76,
+      "text": "And the way that it's developed works exactly how the UX is intended."
+    },
+    {
+      "start": 1668.76,
+      "end": 1670.62,
+      "text": "And it's so beautifully done."
+    },
+    {
+      "start": 1671.54,
+      "end": 1679.68,
+      "text": "And, and, and our team, I know for a fact, our team loves using like our designers respect motion 10 times more."
+    },
+    {
+      "start": 1679.9,
+      "end": 1682.56,
+      "text": "They trust the data more, but they respect the platform."
+    },
+    {
+      "start": 1682.8,
+      "end": 1687.58,
+      "text": "They want to use the platform because how much effort you guys put into good UX and UI."
+    },
+    {
+      "start": 1688.66,
+      "end": 1691.86,
+      "text": "Is that, was that a part of your thinking as you were building it?"
+    },
+    {
+      "start": 1691.96,
+      "end": 1701.68,
+      "text": "Because as, as soon as somebody said in our Slack that your UX and UI is so good, it makes it fun as a designer or a, an animator to go in and use the product."
+    },
+    {
+      "start": 1701.86,
+      "end": 1705.64,
+      "text": "I was like, wow, I wonder if that was intentional because most software is garbage."
+    },
+    {
+      "start": 1705.98,
+      "end": 1716.16,
+      "text": "Like most, you know, almost all big software in this industry, garbage backends, terrible UI, UX, you know, if something doesn't work, it doesn't matter because what are you going to do?"
+    },
+    {
+      "start": 1716.16,
+      "end": 1722.84,
+      "text": "It's B2B software, but you guys, you guys, and a disco is another one that went way over the top with UX and UI."
+    },
+    {
+      "start": 1724.04,
+      "end": 1726.1,
+      "text": "It just like, it, it just stuns."
+    },
+    {
+      "start": 1726.2,
+      "end": 1729.64,
+      "text": "It's stunning when you see it, but then it makes it so much more fun to use."
+    },
+    {
+      "start": 1729.74,
+      "end": 1730.38,
+      "text": "Was that intentional?"
+    },
+    {
+      "start": 1730.76,
+      "end": 1731,
+      "text": "Yeah."
+    },
+    {
+      "start": 1731.12,
+      "end": 1732.3,
+      "text": "So, so there's a couple of things there."
+    },
+    {
+      "start": 1732.46,
+      "end": 1745.06,
+      "text": "One is that because, because we're solving a problem around creative, every time the topic of design comes up or creative comes up for anything we want to do as a company, whether it's like product design or design in our marketing."
+    },
+    {
+      "start": 1745.62,
+      "end": 1754.5,
+      "text": "We kind of feel this like pressure that we're like, wait, if, if design is not a first class citizen for us, then like, you know, it's, it's going to be embarrassing."
+    },
+    {
+      "start": 1754.52,
+      "end": 1759.6,
+      "text": "Like we can't, we can't reasonably go out and say like, we're, we're kind of building software for creative."
+    },
+    {
+      "start": 1760.06,
+      "end": 1762.28,
+      "text": "If, if our design is not excellent."
+    },
+    {
+      "start": 1762.44,
+      "end": 1764.16,
+      "text": "So I think that's, that's definitely a part of it."
+    },
+    {
+      "start": 1764.16,
+      "end": 1775.02,
+      "text": "The other part is that in the early days, when we, when we realized that like, wait, there's a problem here between these two different types of people, these like data oriented growth people."
+    },
+    {
+      "start": 1775.52,
+      "end": 1778.46,
+      "text": "And these more kind of visually oriented creative people."
+    },
+    {
+      "start": 1778.64,
+      "end": 1781.66,
+      "text": "And we understood that like, that was the problem that we were going out to solve."
+    },
+    {
+      "start": 1782.32,
+      "end": 1789,
+      "text": "And so the litmus test for us was like, we know that the growth people are already all over this stuff."
+    },
+    {
+      "start": 1789.14,
+      "end": 1791.8,
+      "text": "They have like dashboards and dashboards and dashboards."
+    },
+    {
+      "start": 1791.94,
+      "end": 1794.36,
+      "text": "Like they, they just like live and breathe in pivot tables."
+    },
+    {
+      "start": 1794.38,
+      "end": 1798.24,
+      "text": "Like they are, they are, they are the ones that are already swimming and all of this stuff."
+    },
+    {
+      "start": 1798.38,
+      "end": 1807.16,
+      "text": "The problem they had was that when they wanted to kind of take this and communicate it over to their creative team, that's where the friction was."
+    },
+    {
+      "start": 1807.16,
+      "end": 1817.92,
+      "text": "And so for us, the big litmus test was like, can we facilitate that workflow and actually make it so that they can have a real conversation around this data in the context of the creative."
+    },
+    {
+      "start": 1818.46,
+      "end": 1830.04,
+      "text": "And so it was a really big deal for us to make sure that when the creative people who are a part of this workflow, we're going to spend time in the product, that the product worked for them."
+    },
+    {
+      "start": 1830.22,
+      "end": 1831.88,
+      "text": "And it kind of did the things that they wanted."
+    },
+    {
+      "start": 1832.42,
+      "end": 1838.92,
+      "text": "Because one of the things that we kind of speak into the culture piece, there really wasn't a lot of the early customer discovery calls."
+    },
+    {
+      "start": 1839.06,
+      "end": 1848.22,
+      "text": "We had this kind of clash of teams where there was, you felt the tension that this team has some grievances against that team and that team has some grievances against the other."
+    },
+    {
+      "start": 1848.68,
+      "end": 1852.92,
+      "text": "And so we kind of went in as like mediators and like spent a bit of time with each."
+    },
+    {
+      "start": 1853.26,
+      "end": 1856.14,
+      "text": "And the gripe from the growth people was pretty obvious."
+    },
+    {
+      "start": 1856.14,
+      "end": 1859.88,
+      "text": "They were like, why doesn't the creative team like care about revenue as much as we do?"
+    },
+    {
+      "start": 1859.98,
+      "end": 1863.1,
+      "text": "And why don't they kind of just like understand, like we're trying to move numbers here."
+    },
+    {
+      "start": 1863.22,
+      "end": 1863.8,
+      "text": "Like what's going on?"
+    },
+    {
+      "start": 1863.86,
+      "end": 1864.56,
+      "text": "Like why don't they care?"
+    },
+    {
+      "start": 1864.76,
+      "end": 1869.04,
+      "text": "Or how come they get so upset when we say that this one is bad?"
+    },
+    {
+      "start": 1869.2,
+      "end": 1869.56,
+      "text": "Exactly."
+    },
+    {
+      "start": 1869.8,
+      "end": 1869.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 1870.04,
+      "end": 1875.86,
+      "text": "And like, don't they understand that like there's kind of a reason for this and like that we're trying to drive a certain like KPI."
+    },
+    {
+      "start": 1876.58,
+      "end": 1883.78,
+      "text": "And when we spent time with the creative team, like they also had their grievances and their grievances were like, well, no one's telling me what's going on."
+    },
+    {
+      "start": 1884.3,
+      "end": 1889.66,
+      "text": "I've created all these like ads for you and you've never actually came back and like tell me how things are doing."
+    },
+    {
+      "start": 1889.78,
+      "end": 1894.8,
+      "text": "And when you do, like it's in these kind of spreadsheets and things that I can barely wrap my head around."
+    },
+    {
+      "start": 1895.3,
+      "end": 1903.02,
+      "text": "And so we really tried to solve for that part of the equation to make the creative people excited to be a part of the conversation."
+    },
+    {
+      "start": 1903.2,
+      "end": 1906.34,
+      "text": "And our hypothesis was that this is their work."
+    },
+    {
+      "start": 1906.48,
+      "end": 1907.68,
+      "text": "Like they're producing this stuff."
+    },
+    {
+      "start": 1907.88,
+      "end": 1912.6,
+      "text": "Actually, they're going to be really fired up to be able to wrap their heads around how their stuff is doing."
+    },
+    {
+      "start": 1912.6,
+      "end": 1924.5,
+      "text": "And we really saw that early on where as soon as the creative team was able to like see the impact of their work and actually quantify the results that they were seeing, it became this like addictive process."
+    },
+    {
+      "start": 1924.68,
+      "end": 1928.66,
+      "text": "We're like, okay, now next week, I really want to try to move this number."
+    },
+    {
+      "start": 1928.8,
+      "end": 1936.3,
+      "text": "And it becomes like a game where you're like, okay, how do I go back next week and see if the thing that I did moved the needle that I hoped it would."
+    },
+    {
+      "start": 1936.3,
+      "end": 1937.96,
+      "text": "And that's exactly what we saw."
+    },
+    {
+      "start": 1938.08,
+      "end": 1946.12,
+      "text": "But I do agree that the experience on the UI is really important because you're building for creative people."
+    },
+    {
+      "start": 1946.24,
+      "end": 1954.16,
+      "text": "Like one of the ways that we thought about it early on was that there has been no shortage of analytics products since the beginning of the internet."
+    },
+    {
+      "start": 1954.36,
+      "end": 1957.88,
+      "text": "It's like probably one of the kind of most common categories of software."
+    },
+    {
+      "start": 1958.14,
+      "end": 1961.94,
+      "text": "But we're like, no one ever thought to build one for creative people."
+    },
+    {
+      "start": 1961.94,
+      "end": 1967.68,
+      "text": "So it very much was like part of the DNA of the first kind of product design of Motion."
+    },
+    {
+      "start": 1967.86,
+      "end": 1971.06,
+      "text": "It was like this needs to work for creative people."
+    },
+    {
+      "start": 1971.44,
+      "end": 1971.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1971.84,
+      "end": 1981,
+      "text": "One of my favorite things to do is just walking around in our office and seeing what people are working on because I don't get to see everything that we do because there's so much."
+    },
+    {
+      "start": 1981.16,
+      "end": 1982.7,
+      "text": "But then when I see something, it's so dope."
+    },
+    {
+      "start": 1982.86,
+      "end": 1985.92,
+      "text": "And one of my favorites is to go, we have this graphic designer named Stella."
+    },
+    {
+      "start": 1985.92,
+      "end": 1991.22,
+      "text": "And she has a two screen setup with her laptop on the bottom and a screen on top."
+    },
+    {
+      "start": 1991.44,
+      "end": 1994.82,
+      "text": "And the top is basically always Motion and the bottom is Figma."
+    },
+    {
+      "start": 1995.16,
+      "end": 1995.66,
+      "text": "Nice."
+    },
+    {
+      "start": 1995.94,
+      "end": 1997.02,
+      "text": "And that's how she designs."
+    },
+    {
+      "start": 1997.74,
+      "end": 1998.66,
+      "text": "I love that."
+    },
+    {
+      "start": 1999.02,
+      "end": 1999.9,
+      "text": "I love that."
+    },
+    {
+      "start": 2000.12,
+      "end": 2000.8,
+      "text": "So, okay."
+    },
+    {
+      "start": 2000.94,
+      "end": 2002.3,
+      "text": "So what else?"
+    },
+    {
+      "start": 2002.52,
+      "end": 2002.68,
+      "text": "Okay."
+    },
+    {
+      "start": 2002.76,
+      "end": 2006.46,
+      "text": "So every, I feel like most people know Motion for the creative analytics part."
+    },
+    {
+      "start": 2006.7,
+      "end": 2009.38,
+      "text": "Like going in, you can easily create all these reports."
+    },
+    {
+      "start": 2009.98,
+      "end": 2018.84,
+      "text": "Is there anything you would want to add on there that you think is worth mentioning that's not just obvious to the, to the, to like somebody in the industry?"
+    },
+    {
+      "start": 2019.16,
+      "end": 2019.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 2019.9,
+      "end": 2024.04,
+      "text": "So, so we recently launched a really big edition of Motion called Creative Research."
+    },
+    {
+      "start": 2024.74,
+      "end": 2038.82,
+      "text": "And so this is all about like trying to understand what your competitors are doing, getting inspired by following brands that you really respect and kind of building out your own swipe file of creative assets that you want to get really inspired by."
+    },
+    {
+      "start": 2038.82,
+      "end": 2056.58,
+      "text": "And part of that, it kind of fits into the bigger theme of what we're trying to solve with Motion was like, we started with analytics, but what we observed was that everything in between distribution, which is basically like the media buying, which for the most part is kind of algorithm based."
+    },
+    {
+      "start": 2056.68,
+      "end": 2062.86,
+      "text": "And like, I'm not saying media buyers are out of a job, but like, you know, it's getting simpler to kind of run big budgets at scale."
+    },
+    {
+      "start": 2063.84,
+      "end": 2065.78,
+      "text": "There's less like knobs and dials to run."
+    },
+    {
+      "start": 2065.78,
+      "end": 2070.22,
+      "text": "And then on the creation side, things are just getting easier and easier."
+    },
+    {
+      "start": 2070.44,
+      "end": 2078,
+      "text": "I think ever since the launch of the iPhone, like cheap video editing software, it's just not that hard anymore to produce content."
+    },
+    {
+      "start": 2078.44,
+      "end": 2088.1,
+      "text": "And I think we're a couple of years away with everything that's going on with AI that basically anybody will be able to create anything they want at the cost of zero."
+    },
+    {
+      "start": 2088.1,
+      "end": 2090.72,
+      "text": "Like I think that's happening in a very short period of time."
+    },
+    {
+      "start": 2091.16,
+      "end": 2098.96,
+      "text": "And it kind of leaves this question that even today, the biggest value to create is around answering, answering the question of what to do, basically."
+    },
+    {
+      "start": 2099.26,
+      "end": 2105.12,
+      "text": "And so that entire workflow to be able to answer the question of what to do is what Motion Care is the most about."
+    },
+    {
+      "start": 2105.12,
+      "end": 2118.36,
+      "text": "And there's like two inputs to this, the more kind of qualitative input, where you're getting inspired by what other people are doing, kind of copying your competitors, like that sort of the research part of the equation."
+    },
+    {
+      "start": 2118.36,
+      "end": 2126.12,
+      "text": "And then where Motion started was like more of the quantitative side, the analytics and like understanding the actual performance data."
+    },
+    {
+      "start": 2127.04,
+      "end": 2136.44,
+      "text": "And so creative research was a really big step for us to start to help customers with that other input to be like, okay, you're looking at how your own ads are performing."
+    },
+    {
+      "start": 2136.58,
+      "end": 2138.78,
+      "text": "You need to get really good at understanding your own data."
+    },
+    {
+      "start": 2139,
+      "end": 2145.7,
+      "text": "But you kind of do need to step beyond your own ad account to also see what else is going on and like who do you get inspired by."
+    },
+    {
+      "start": 2145.7,
+      "end": 2149.96,
+      "text": "And so Motion's new creative research product is entirely free to use."
+    },
+    {
+      "start": 2150.08,
+      "end": 2150.96,
+      "text": "That's kind of..."
+    },
+    {
+      "start": 2150.96,
+      "end": 2153.02,
+      "text": "And what kind of like data are you able to pull?"
+    },
+    {
+      "start": 2153.12,
+      "end": 2153.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 2153.4,
+      "end": 2159.64,
+      "text": "So there's like, you know, you can go and see all the creatives that they're running, how long they've been running for."
+    },
+    {
+      "start": 2159.8,
+      "end": 2162.4,
+      "text": "You can see the landing pages that they're driving most traffic to."
+    },
+    {
+      "start": 2162.68,
+      "end": 2165.56,
+      "text": "And all this information is like publicly available."
+    },
+    {
+      "start": 2165.82,
+      "end": 2169.82,
+      "text": "People can go to the Facebook ads library and kind of go sift around in there."
+    },
+    {
+      "start": 2170.18,
+      "end": 2174.18,
+      "text": "And so Motion's creative research product just makes that a lot easier to do."
+    },
+    {
+      "start": 2174.18,
+      "end": 2178.12,
+      "text": "And you can kind of follow your favorite brands and kind of keep a pulse on them."
+    },
+    {
+      "start": 2180.32,
+      "end": 2181.76,
+      "text": "And so that's research."
+    },
+    {
+      "start": 2181.92,
+      "end": 2189.42,
+      "text": "And a lot of what we're spending time on Next is around helping people take that information to come up with like new directions."
+    },
+    {
+      "start": 2189.42,
+      "end": 2204.98,
+      "text": "And kind of I won't give any spoilers, but a lot of really big announcements coming from us next is around this kind of theme of helping people take those inputs that they're using Motion for to come up with really good ideas as to what to do next."
+    },
+    {
+      "start": 2204.98,
+      "end": 2221.94,
+      "text": "And so Motion's whole goal is to say everything that happens in between the media buying side and the content creation side, that entire workflow aimed at trying to answer the question of what to do is part of the reason why we recently raised the round that we did."
+    },
+    {
+      "start": 2222.08,
+      "end": 2225.54,
+      "text": "And so there's so much more product to build around this problem area."
+    },
+    {
+      "start": 2225.54,
+      "end": 2226.96,
+      "text": "And so, yeah, creative analytics."
+    },
+    {
+      "start": 2227.24,
+      "end": 2231.78,
+      "text": "Are you thinking similar to like almost like if Asana and Motion had a baby?"
+    },
+    {
+      "start": 2232.22,
+      "end": 2239.34,
+      "text": "You know, actually, I think about project management a lot because obviously that is a big part of the workflow and it's tempting."
+    },
+    {
+      "start": 2239.64,
+      "end": 2242.28,
+      "text": "It is interesting for us to go and kind of solve that problem."
+    },
+    {
+      "start": 2242.66,
+      "end": 2249.12,
+      "text": "But I think the problem that we're more interested in is around the ideas that would go into it to an Asana."
+    },
+    {
+      "start": 2249.12,
+      "end": 2250.82,
+      "text": "It's like, how do I come up with..."
+    },
+    {
+      "start": 2251.28,
+      "end": 2259.56,
+      "text": "So think about it more as like the brainstorming part of the workflow that people might kind of get into a room and are like, okay, I know what these competitors are doing."
+    },
+    {
+      "start": 2259.56,
+      "end": 2261.82,
+      "text": "I know what's working for us and what's not working for us."
+    },
+    {
+      "start": 2262.06,
+      "end": 2266.76,
+      "text": "How do I come up with 300 new ideas that are all like really interesting to go out and try?"
+    },
+    {
+      "start": 2266.84,
+      "end": 2270.66,
+      "text": "And how do we compress the time to arrive at those kinds of outcomes?"
+    },
+    {
+      "start": 2270.8,
+      "end": 2273.66,
+      "text": "I think that's like that creates a lot more value for people."
+    },
+    {
+      "start": 2274.62,
+      "end": 2277.64,
+      "text": "The project management may or may not happen inside of Motion."
+    },
+    {
+      "start": 2277.64,
+      "end": 2288.42,
+      "text": "Maybe we integrate with project management tools, but it's more like the decision making, the prioritization, and then like the closing the loop of, okay, here are the things I tried."
+    },
+    {
+      "start": 2288.64,
+      "end": 2290,
+      "text": "What happened to them?"
+    },
+    {
+      "start": 2290.18,
+      "end": 2297.54,
+      "text": "And what did we learn and kind of have the entire creative intelligence inside of one place?"
+    },
+    {
+      "start": 2298.1,
+      "end": 2298.62,
+      "text": "Totally."
+    },
+    {
+      "start": 2299.1,
+      "end": 2305.72,
+      "text": "What are some of the custom metrics that you see people set up that you think are so interesting or fascinating?"
+    },
+    {
+      "start": 2305.72,
+      "end": 2307.92,
+      "text": "Like from your own growth brain?"
+    },
+    {
+      "start": 2308.2,
+      "end": 2311.14,
+      "text": "Like when you see it, you're like, all right, growth, recognize growth."
+    },
+    {
+      "start": 2311.38,
+      "end": 2322.28,
+      "text": "You know, the thing is, the first one was like the thumb stop ratio, which I'm always surprised where I'm on a call and someone's never heard that before."
+    },
+    {
+      "start": 2322.42,
+      "end": 2323.6,
+      "text": "And I'm like, oh my God, seriously?"
+    },
+    {
+      "start": 2323.82,
+      "end": 2328.08,
+      "text": "Like this one is like probably the first kind of fascinating metric."
+    },
+    {
+      "start": 2328.08,
+      "end": 2335.14,
+      "text": "And so for the sake of getting that one out of the way, for folks who may not have heard about it, it's obviously like that's the OG."
+    },
+    {
+      "start": 2335.5,
+      "end": 2337.88,
+      "text": "And can you describe what's the equation behind thumb stop?"
+    },
+    {
+      "start": 2338.38,
+      "end": 2338.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 2338.68,
+      "end": 2343.82,
+      "text": "So you're basically taking like the three second views divided by the thousand impressions."
+    },
+    {
+      "start": 2343.82,
+      "end": 2354.96,
+      "text": "And what you want to see is like a conversion rate of as people were scrolling through the feed, what percentage of people stop their scroll to watch the first three seconds of this video."
+    },
+    {
+      "start": 2355.74,
+      "end": 2359.14,
+      "text": "And what that gives you, or some people call it like the hook score."
+    },
+    {
+      "start": 2359.94,
+      "end": 2366.02,
+      "text": "The idea is that like as people are scrolling through the feed, the first thing that you need to do is get them to stop, right?"
+    },
+    {
+      "start": 2366.12,
+      "end": 2367.1,
+      "text": "Get them to stop their scroll."
+    },
+    {
+      "start": 2367.2,
+      "end": 2373,
+      "text": "Like that doesn't mean that that creative is actually going to perform well or actually going to click or follow through and convert."
+    },
+    {
+      "start": 2373.12,
+      "end": 2380.12,
+      "text": "But it's almost kind of looking at it as a funnel and being like, well, I can't get you to buy my product if I don't get you to stop your scroll first."
+    },
+    {
+      "start": 2380.2,
+      "end": 2381.84,
+      "text": "So like how about we start there?"
+    },
+    {
+      "start": 2382.5,
+      "end": 2390.24,
+      "text": "And what becomes interesting is that people, I've seen people do all kinds of crazy things on the hook to try to like drive their hook score really, really high."
+    },
+    {
+      "start": 2390.54,
+      "end": 2396.5,
+      "text": "But then it's like, okay, if the rest of the content doesn't actually follow through and is like relevant, then like people are going to leave."
+    },
+    {
+      "start": 2396.6,
+      "end": 2397.58,
+      "text": "So like, you know, good job."
+    },
+    {
+      "start": 2397.76,
+      "end": 2399.34,
+      "text": "Nice, nice job on the hook."
+    },
+    {
+      "start": 2399.64,
+      "end": 2400,
+      "text": "Yeah."
+    },
+    {
+      "start": 2400.56,
+      "end": 2405.14,
+      "text": "Have you seen this concept of like, do you use TikTok as a consumer a lot?"
+    },
+    {
+      "start": 2405.94,
+      "end": 2407.02,
+      "text": "Here and there, not a ton."
+    },
+    {
+      "start": 2407.44,
+      "end": 2407.8,
+      "text": "Okay."
+    },
+    {
+      "start": 2408.6,
+      "end": 2411,
+      "text": "I probably scroll it more than I'm willing to admit."
+    },
+    {
+      "start": 2411.18,
+      "end": 2411.32,
+      "text": "Sure."
+    },
+    {
+      "start": 2411.32,
+      "end": 2414.32,
+      "text": "But one of the funniest things of TikTok is like stitches, right?"
+    },
+    {
+      "start": 2414.4,
+      "end": 2421.48,
+      "text": "Where like one viral clip or a viral hook, the beginning of like a viral video gets stitched with like another one."
+    },
+    {
+      "start": 2421.6,
+      "end": 2421.92,
+      "text": "All right."
+    },
+    {
+      "start": 2422.04,
+      "end": 2428.28,
+      "text": "I've seen so many good ads where lately people just, like you were saying earlier, people can just make ads on their phone."
+    },
+    {
+      "start": 2428.72,
+      "end": 2432.84,
+      "text": "People are literally just taking, you know, you know that one viral clip that's like,"
+    },
+    {
+      "start": 2432.84,
+      "end": 2440.06,
+      "text": "if you're, if you're, you know, this big and it shows like a measuring tape of three inches, you better lower your voice when you're talking to me."
+    },
+    {
+      "start": 2440.14,
+      "end": 2443.7,
+      "text": "And then it's like some guy just talking with subtitles, but you can't hear anything."
+    },
+    {
+      "start": 2443.86,
+      "end": 2446.74,
+      "text": "You know, like stuff like that has done so well on the hook side."
+    },
+    {
+      "start": 2447.08,
+      "end": 2449.18,
+      "text": "Have you seen any interesting hooks do really well?"
+    },
+    {
+      "start": 2451.3,
+      "end": 2452.84,
+      "text": "None that are coming to mind."
+    },
+    {
+      "start": 2454.42,
+      "end": 2455.88,
+      "text": "None that were coming to mind."
+    },
+    {
+      "start": 2456.12,
+      "end": 2462.56,
+      "text": "One of our, one of our team members, one of our team members did one that they were promoting."
+    },
+    {
+      "start": 2462.56,
+      "end": 2470.24,
+      "text": "Um, they were promoting our creative strategy summit and they just took a piece of cheese and they threw it at the wall."
+    },
+    {
+      "start": 2470.4,
+      "end": 2471.14,
+      "text": "I remember that."
+    },
+    {
+      "start": 2471.32,
+      "end": 2471.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 2471.76,
+      "end": 2476.78,
+      "text": "And it was just like, so random, but you know, it's stuff like that, that people are like, wait, what the hell is this?"
+    },
+    {
+      "start": 2476.88,
+      "end": 2478.56,
+      "text": "Like, let me see what's going on here."
+    },
+    {
+      "start": 2478.7,
+      "end": 2482.28,
+      "text": "So I think a lot of kind of wacky things like that do, do a good job."
+    },
+    {
+      "start": 2482.68,
+      "end": 2483.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 2483.14,
+      "end": 2489.5,
+      "text": "It's almost like the, the, the first three seconds is like your opportunity for clickbait a little bit, just to get somebody to stop."
+    },
+    {
+      "start": 2489.5,
+      "end": 2492.06,
+      "text": "Not, not clickbait because clickbaits like you don't deliver."
+    },
+    {
+      "start": 2492.18,
+      "end": 2492.96,
+      "text": "You still want to deliver."
+    },
+    {
+      "start": 2493.26,
+      "end": 2493.66,
+      "text": "Yes."
+    },
+    {
+      "start": 2493.8,
+      "end": 2494.94,
+      "text": "That's sort of thinking."
+    },
+    {
+      "start": 2495.46,
+      "end": 2495.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 2496.04,
+      "end": 2511.42,
+      "text": "And, and so, you know, that, that's kind of, so we, we recently launched, uh, excuse earlier this year, um, uh, a set of metrics called the motion metrics where we basically take these, these kind of common ones like the hook rate or the hold rate."
+    },
+    {
+      "start": 2511.66,
+      "end": 2517.18,
+      "text": "Like, you know, what you look at after the hooks, like, okay, how much of this attention did I capture after the hook?"
+    },
+    {
+      "start": 2517.76,
+      "end": 2522.14,
+      "text": "And what's interesting about those often is around their relative performance, right?"
+    },
+    {
+      "start": 2522.26,
+      "end": 2533.78,
+      "text": "Because if you have one of the problems that growth teams tend to have with creative teams is that if I'm a creative person and I just look at a metric, I need someone else to tell me, is this good?"
+    },
+    {
+      "start": 2533.84,
+      "end": 2534.58,
+      "text": "Is this not good?"
+    },
+    {
+      "start": 2534.78,
+      "end": 2537.16,
+      "text": "Like how is this compared to like other things that we're doing?"
+    },
+    {
+      "start": 2537.62,
+      "end": 2543.26,
+      "text": "And so motion metrics kind of normalizes that data to make it relative to how other things are doing."
+    },
+    {
+      "start": 2543.44,
+      "end": 2552.98,
+      "text": "So you get a score out of a hundred to know, okay, if my hook score in motion is high, then like I can trust that relative to my other hooks, like this is doing well."
+    },
+    {
+      "start": 2552.98,
+      "end": 2559.8,
+      "text": "And so we have the hook score and, uh, as well as like the click score on the convert score."
+    },
+    {
+      "start": 2559.92,
+      "end": 2570.96,
+      "text": "And what you want is to try to drive each of these up so that you have a creative that's basically, um, not just doing a great job at capturing attention, but like holding it and converting it."
+    },
+    {
+      "start": 2571.44,
+      "end": 2577.4,
+      "text": "Um, and I know, you know, that we had this, we hosted this one debate, um, at our creative strategy summit."
+    },
+    {
+      "start": 2577.72,
+      "end": 2580.26,
+      "text": "I think Taylor holiday was there and maybe one other person."
+    },
+    {
+      "start": 2580.4,
+      "end": 2586.84,
+      "text": "And the whole debate was around, do these kinds of creative metrics actually translate into revenue?"
+    },
+    {
+      "start": 2586.84,
+      "end": 2594.94,
+      "text": "And it was a really good, really good kind of, kind of conversation where like, yeah, sometimes the creative that has a terrible hook is the one that's like performing the best."
+    },
+    {
+      "start": 2595.08,
+      "end": 2597.22,
+      "text": "And like very, very common that happens all the time."
+    },
+    {
+      "start": 2597.78,
+      "end": 2606.98,
+      "text": "Like as a creative strategist, like, I think your goal is like, if you can get each one of these up, then obviously that's going to be the creative that performs the best."
+    },
+    {
+      "start": 2607.46,
+      "end": 2607.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 2607.7,
+      "end": 2609.54,
+      "text": "Then it's not an anomaly when it works."
+    },
+    {
+      "start": 2609.62,
+      "end": 2614.46,
+      "text": "It's like, you're intentionally doing it and you're using the data to your, to your advantage."
+    },
+    {
+      "start": 2614.94,
+      "end": 2615.34,
+      "text": "Exactly."
+    },
+    {
+      "start": 2615.54,
+      "end": 2615.76,
+      "text": "Exactly."
+    },
+    {
+      "start": 2616,
+      "end": 2627.16,
+      "text": "And like, I think at scale, these will perform differently because sometimes it kind of fizzles out and it's, it's working for like some niche audience and the algorithm tries to like broaden it out to a bigger audience."
+    },
+    {
+      "start": 2627.22,
+      "end": 2628.54,
+      "text": "And it doesn't quite follow through."
+    },
+    {
+      "start": 2628.68,
+      "end": 2639.76,
+      "text": "And so like the underlying distribution algorithm is so black box to everyone that you can't, can't actually tell where it's going to end up, but you need some kind of North star direction."
+    },
+    {
+      "start": 2639.76,
+      "end": 2647.94,
+      "text": "And I, and I think as good a North star that you can find is that if we can get people to stop their scroll, consume this content, click and convert."
+    },
+    {
+      "start": 2648.18,
+      "end": 2651.02,
+      "text": "And we're kind of pointing all of our energy towards that."
+    },
+    {
+      "start": 2651.16,
+      "end": 2656.5,
+      "text": "That seems like a pretty reasonable time tested strategy to produce creative around, right?"
+    },
+    {
+      "start": 2656.6,
+      "end": 2659.76,
+      "text": "Cause otherwise you're kind of just guessing and throwing stuff at the wall."
+    },
+    {
+      "start": 2659.96,
+      "end": 2660.24,
+      "text": "Totally."
+    },
+    {
+      "start": 2660.24,
+      "end": 2677.46,
+      "text": "Um, and so that's, that's the way that we've seen a lot of, a rather great teams do it, but I think it, it kind of does go back to the idea of, um, these foundational insights, these learnings that are these like a big thematic learnings that don't show up in a hook or even in like a click, click score."
+    },
+    {
+      "start": 2677.46,
+      "end": 2685.42,
+      "text": "It's like, and this is one thing that people could do in motion with our, uh, comparative report where you can compare themes against each other."
+    },
+    {
+      "start": 2685.54,
+      "end": 2700.96,
+      "text": "Like I want to compare the us versus them theme versus like, I don't know, 10 other themes that we've tried that if, if you compare these kind of micro creative learnings with these kind of bigger, deeper foundational insights."
+    },
+    {
+      "start": 2700.96,
+      "end": 2704.38,
+      "text": "And that's, that's, um, that's what will produce the best results."
+    },
+    {
+      "start": 2704.38,
+      "end": 2713.78,
+      "text": "And I find the teams that get this wrong are the ones that actually don't have these foundational learnings around like messaging and value prop and offer."
+    },
+    {
+      "start": 2713.92,
+      "end": 2719,
+      "text": "And like these things that they know land with their customers and they're going off and like iterating on their hook and whatnot."
+    },
+    {
+      "start": 2719.02,
+      "end": 2720.24,
+      "text": "It's like, wait, hang on."
+    },
+    {
+      "start": 2720.32,
+      "end": 2725.22,
+      "text": "Like, what are the, what are the things that we know is like working and resonating with our audience?"
+    },
+    {
+      "start": 2725.84,
+      "end": 2733.8,
+      "text": "And if you really want to kind of build those first and then go into the kind of micro optimization of, um, individual creative scores."
+    },
+    {
+      "start": 2734.38,
+      "end": 2734.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 2734.94,
+      "end": 2735.08,
+      "text": "Okay."
+    },
+    {
+      "start": 2735.62,
+      "end": 2736.02,
+      "text": "Okay."
+    },
+    {
+      "start": 2736.02,
+      "end": 2747.32,
+      "text": "I feel like I have fireworks going off in my head as you're talking, I actually think, so I think the next iteration of the, uh, just like, you know, medium creative kind of coming together in this creative strategist role."
+    },
+    {
+      "start": 2747.32,
+      "end": 2755.22,
+      "text": "I think a very similar thing will happen on the, on the creative side between graphic designers and like that are working on ads or animators."
+    },
+    {
+      "start": 2755.74,
+      "end": 2759.84,
+      "text": "Um, which I think a lot of good graphic designers end up learning animation anyways."
+    },
+    {
+      "start": 2759.84,
+      "end": 2766.48,
+      "text": "And UX UI designers that work on web and landing pages and CRO and site optimizations and site work."
+    },
+    {
+      "start": 2767.18,
+      "end": 2778.6,
+      "text": "And, um, and, and I like, I could totally see that happening very soon because I think the fundamentals are becoming the same in terms of, you know, high, high quality design and performance."
+    },
+    {
+      "start": 2778.6,
+      "end": 2792.44,
+      "text": "And kind of that intersection, whether it's across, honestly, whether it's across email design or site design or ad design, that leads me to one question, which is, is like, how come motion doesn't track the landing page piece of it yet?"
+    },
+    {
+      "start": 2792.44,
+      "end": 2800.04,
+      "text": "Because that is when I was at Vayner, I had this thing I created called the ACE model, which was audience creative and experience."
+    },
+    {
+      "start": 2800.32,
+      "end": 2802.6,
+      "text": "So who you're targeting, which now is kind of irrelevant."
+    },
+    {
+      "start": 2802.9,
+      "end": 2806.1,
+      "text": "It's basically like a percentage with ASC middle is creative."
+    },
+    {
+      "start": 2806.1,
+      "end": 2810.3,
+      "text": "So all the different variations of creative, the copy, the image, the video, the hooks, all that."
+    },
+    {
+      "start": 2810.54,
+      "end": 2814.16,
+      "text": "And then the third column is the experience, the site pages you go to."
+    },
+    {
+      "start": 2814.34,
+      "end": 2822.24,
+      "text": "Those might be different price points, different merchandising, different offers, different bundles, you know, uh, all that kind of stuff, different layouts, advertorials, listicles,"
+    },
+    {
+      "start": 2822.24,
+      "end": 2822.66,
+      "text": "et cetera."
+    },
+    {
+      "start": 2823.58,
+      "end": 2837.58,
+      "text": "Do you see motion tracking that whole ACE model across the board where like, you know, cause to your point with the anomaly, sometimes there's a crazy anomaly where an ad that shouldn't work goes to a weird landing page that you would never imagine to work, but it just crushes."
+    },
+    {
+      "start": 2838.78,
+      "end": 2842.88,
+      "text": "And, and like, it's hard to, you can track part of that right now, but not the full thing."
+    },
+    {
+      "start": 2843.22,
+      "end": 2843.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 2843.48,
+      "end": 2845.12,
+      "text": "So we, we have done a little bit of it."
+    },
+    {
+      "start": 2845.12,
+      "end": 2864.76,
+      "text": "So we have a, uh, a landing page report where you can kind of compare performance by landing page and within an individual creative, you can kind of click and see the landing pages that are being driven to, but we don't have like actual analysis on the landing page itself, which I think could, could be interesting to pull into emotion."
+    },
+    {
+      "start": 2865.3,
+      "end": 2868.38,
+      "text": "I think it kind of comes down to a question of focus."
+    },
+    {
+      "start": 2868.64,
+      "end": 2883.82,
+      "text": "We, we still see that T there's so much value that we can still continue to create for people around getting better at the kind of middle part of that ACE that, uh, I think on a long enough time horizon, I think we'll try to do as much as we can to be helpful."
+    },
+    {
+      "start": 2883.82,
+      "end": 2895.28,
+      "text": "But on the, just on the creative side, both in terms of like the number of customers that are like people in the world that are still not doing the right things on the creative side is so huge."
+    },
+    {
+      "start": 2895.4,
+      "end": 2897.06,
+      "text": "It like kind of makes sense to focus there."
+    },
+    {
+      "start": 2897.36,
+      "end": 2911.86,
+      "text": "And then on, on the, on the actual, um, value that we create for customers are, we've just started to scratch the surface on starting to do more proactive insights, which is kind of where we see the future of motion."
+    },
+    {
+      "start": 2911.86,
+      "end": 2928.44,
+      "text": "And frankly, all software just kind of, uh, we're, we're in such an interesting time in software that, uh, I think Sequoia wrote this article not too long ago, which I thought it was brilliant where they're like, you know, SAS is currently referred to as software as a service."
+    },
+    {
+      "start": 2928.56,
+      "end": 2928.68,
+      "text": "Right."
+    },
+    {
+      "start": 2929.6,
+      "end": 2943.18,
+      "text": "And what AI starts to enable because AI is a lot more about outcomes and actually having you having real outcomes delivered for you, as opposed to just kind of visualization and like workflow software that SAS previously was."
+    },
+    {
+      "start": 2943.7,
+      "end": 2950.22,
+      "text": "And so they were playing around with this term of SAS to say service as a software, which I thought was like hilarious."
+    },
+    {
+      "start": 2950.62,
+      "end": 2950.72,
+      "text": "Right."
+    },
+    {
+      "start": 2951.08,
+      "end": 2951.36,
+      "text": "Wow."
+    },
+    {
+      "start": 2951.54,
+      "end": 2951.68,
+      "text": "Right."
+    },
+    {
+      "start": 2951.8,
+      "end": 2954.14,
+      "text": "And so, yeah, no, I fully agree with that."
+    },
+    {
+      "start": 2954.32,
+      "end": 2969.98,
+      "text": "And, and so along that theme, I think anybody who's working around AI, the, the, the magic of AI is starting to kind of do a lot of what professional services might do, which is like, help me figure out what to do next, which is kind of where we're trying to create value on that."
+    },
+    {
+      "start": 2969.98,
+      "end": 2980.8,
+      "text": "Like the C part of your ACE is like, how do we, because we have creative research and because we have creative analytics and we have all this like inputs from you, how do we help you figure out what to do next?"
+    },
+    {
+      "start": 2980.86,
+      "end": 2989.3,
+      "text": "And actually as part of our kind of recommendations engine that we're building, start to give some suggestions around, Hey, you might want to consider this on the, on the kind of landing page side."
+    },
+    {
+      "start": 2989.3,
+      "end": 3000.96,
+      "text": "And I think that's where you start to see us flow into whatever is the right next step suggestion that we can kind of think about whether that's on the creative or on the landing page."
+    },
+    {
+      "start": 3001.1,
+      "end": 3003.3,
+      "text": "I think I think we'll eventually get there."
+    },
+    {
+      "start": 3003.54,
+      "end": 3007.38,
+      "text": "So a lot to do a lot, a lot to build that we're excited about."
+    },
+    {
+      "start": 3007.38,
+      "end": 3019.86,
+      "text": "One, one anonymous request I got in the DMS before this was that somebody wants for their founder who is loosely connected to the day-to-day of the business."
+    },
+    {
+      "start": 3019.86,
+      "end": 3034.28,
+      "text": "Who's always asking why a certain ad is running or a certain ad is not running some sort of a thing where they can copy or take a screenshot or copy that text message, put it into motion and get a response back with data within 30 seconds."
+    },
+    {
+      "start": 3035.1,
+      "end": 3054.62,
+      "text": "Oh, I love that. Yeah. It's like it, you know, it is, uh, that use case is actually a really interesting one that like it's a, it's a, it's a small example, but like the amount of people that need to receive information around what's going on, uh, around creative is actually a lot of people."
+    },
+    {
+      "start": 3054.62,
+      "end": 3064.22,
+      "text": "Like people who are, for example, like coming up with new ideas around like which products to launch next, like which categories to move into."
+    },
+    {
+      "start": 3064.36,
+      "end": 3073.96,
+      "text": "Like they actually can learn a lot from understanding the performance on the ad side, even folks on like the social team that are kind of trying to come up with more like organic content."
+    },
+    {
+      "start": 3073.96,
+      "end": 3082.24,
+      "text": "There's a lot of people that would benefit a lot from understanding what's going on with like creative performance on, on the ad side."
+    },
+    {
+      "start": 3082.5,
+      "end": 3099.74,
+      "text": "And that's one of the things we've seen quite a bit within motion is that the sharing of these reports and snapshots is enabling teams to get this information to other people and other teams that are not in like the paid ads team or on the creative team that are kind of helping other tangential problems."
+    },
+    {
+      "start": 3099.74,
+      "end": 3100.52,
+      "text": "That is really interesting."
+    },
+    {
+      "start": 3100.74,
+      "end": 3105.94,
+      "text": "And so, yeah, I mean, any way that we can help facilitate that, uh, would be, would be really interesting."
+    },
+    {
+      "start": 3106.66,
+      "end": 3106.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 3106.88,
+      "end": 3107.14,
+      "text": "Hell yeah."
+    },
+    {
+      "start": 3107.76,
+      "end": 3108.74,
+      "text": "Um, all right."
+    },
+    {
+      "start": 3108.8,
+      "end": 3112.14,
+      "text": "Well, Reza, uh, I can't believe it's already been 45 minutes."
+    },
+    {
+      "start": 3112.66,
+      "end": 3115.9,
+      "text": "Um, anything else you want to add for people listening?"
+    },
+    {
+      "start": 3116.1,
+      "end": 3120.24,
+      "text": "Uh, you know, I, I don't understand why anybody does not use motion."
+    },
+    {
+      "start": 3120.68,
+      "end": 3127.44,
+      "text": "Like it doesn't make any sense to me, but if you had, you know, 10 seconds to pitch motion to somebody listening, how would you pitch it?"
+    },
+    {
+      "start": 3128.58,
+      "end": 3128.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 3128.72,
+      "end": 3135.98,
+      "text": "I mean, if, if you want to make your ads, if you want to make more ads to make more revenue, I don't see how you don't use motion."
+    },
+    {
+      "start": 3136.26,
+      "end": 3151.96,
+      "text": "Honestly, it's like anybody who, who faces that problem, um, naturally arise at this conclusion that running a more rigorous process around their creative team to create a feedback loop between the data side and the creative side is the obvious way to do that."
+    },
+    {
+      "start": 3151.96,
+      "end": 3155.66,
+      "text": "And motion is the obvious software to facilitate that workflow."
+    },
+    {
+      "start": 3155.66,
+      "end": 3165.72,
+      "text": "And so the best brands in the industry, folks like hex clad, Fiori, Sharma brands, the best people use it."
+    },
+    {
+      "start": 3165.8,
+      "end": 3167.06,
+      "text": "And so, yeah, I'm, I'm with you."
+    },
+    {
+      "start": 3167.1,
+      "end": 3167.5,
+      "text": "I don't know."
+    },
+    {
+      "start": 3167.62,
+      "end": 3170.36,
+      "text": "I don't know why anybody, I don't understand why anybody wouldn't."
+    },
+    {
+      "start": 3171.04,
+      "end": 3178,
+      "text": "And if anybody has questions that want to just ask a few questions about motion or get any learning or clarification on something, where can they find you?"
+    },
+    {
+      "start": 3178.44,
+      "end": 3190.8,
+      "text": "Yeah. So shoot, shoot me an email. I'm res at motion app.com. Um, we run a ton of events. That's probably another thing that, uh, go to our, go to our website and go to the events page or go to our YouTube page."
+    },
+    {
+      "start": 3190.8,
+      "end": 3194.34,
+      "text": "We've done just an insane amount of content around this like problem area."
+    },
+    {
+      "start": 3194.6,
+      "end": 3203.18,
+      "text": "Yo, I will say your YouTube channel doesn't have a gazillion views, but it is such a gold mine of just nuggets."
+    },
+    {
+      "start": 3203.44,
+      "end": 3209.56,
+      "text": "Like you guys distill all the learnings into the content that's there is just full of nuggets. It's golden nuggets."
+    },
+    {
+      "start": 3209.88,
+      "end": 3213.18,
+      "text": "Yeah. Yeah. No, I highly recommend everybody should check it out."
+    },
+    {
+      "start": 3213.36,
+      "end": 3219.78,
+      "text": "And every time we run like big events with like 45 minute sessions and so on, like those all get uploaded onto YouTube as well."
+    },
+    {
+      "start": 3219.78,
+      "end": 3222.48,
+      "text": "So yeah, definitely something to subscribe to."
+    },
+    {
+      "start": 3222.94,
+      "end": 3225.58,
+      "text": "Amazing. Well, Reza, thank you for coming on."
+    },
+    {
+      "start": 3225.8,
+      "end": 3226.44,
+      "text": "Thanks for having me."
+    },
+    {
+      "start": 3226.52,
+      "end": 3226.98,
+      "text": "It's great chatting."
+    },
+    {
+      "start": 3227.1,
+      "end": 3227.6,
+      "text": "Appreciate it."
+    },
+    {
+      "start": 3230.5,
+      "end": 3234.96,
+      "text": "Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce."
+    },
+    {
+      "start": 3235.26,
+      "end": 3241.22,
+      "text": "If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

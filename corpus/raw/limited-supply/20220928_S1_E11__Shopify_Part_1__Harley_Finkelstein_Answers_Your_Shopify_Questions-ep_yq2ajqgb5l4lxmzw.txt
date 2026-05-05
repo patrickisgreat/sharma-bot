@@ -1,0 +1,1397 @@
+[00:00:00.000 --> 00:00:26.140] Well, I mean, actually, it's amazing. You are a power user. The reason I'm sitting here is because you use Shopify, the stress, the pressure, the requirements you put on Shopify is fucking amazing because it makes us better. It makes us think about what are we missing. Sometimes we, you know, we're in our minds building this great software, trying to figure out how to make it easy, how to make it extensible. But it's actually like that is one of the best parts of founder led companies at scale.
+[00:00:30.000 --> 00:00:59.980] Many real takes on what D2C is really like. We're your hosts, Nick and Moyes. Let's start talking about money. Building a code free app is super hard, but Tapcart's drag and drop builder makes it possible. Used by direct to consumer brands like Princess Polly, Figs, and Nick's own brand Long Weekend, Shopify brands on Tapcart have done over 3.4 billion via their apps. In five years, people will be kicking themselves for not owning their mobile commerce and customer experience through a mobile app with Tapcart.
+[00:01:00.000 --> 00:01:12.380] Today, limited supply listeners get two months free so you've got nothing to lose as you check it out for your store. Head to tapcart.com slash limited to book your demo and get started. That's tapcart.com slash limited.
+[00:01:15.170 --> 00:01:29.810] All right, everybody, we're back with a very special episode, a very special guest, somebody who I put in the same category as Moyes, like the people I'd get starstruck around, Harley Finkelstein, the president of Shopify. So Moyes, what are we doing today?
+[00:01:29.810 --> 00:01:42.750] Super excited to have you. Nick and I have been doing this podcast for a little bit now, and we don't take any guests, basically, because we found that they don't have the energy or insight or like excitement that we do have about e-commerce.
+[00:01:43.390 --> 00:02:02.730] And when you offered to join, we're like, this is the only person in the world we can have as a guest. So super excited to have you. Maybe we could start a little bit with your background. I'd love to understand how, you know, you were telling us just before we started that you were a lawyer and you had a mentor who told you to go to law school to learn more about business, which is the first time I've ever heard anyone say go to law school to learn about business.
+[00:02:02.730 --> 00:02:19.670] Yeah. This particular mentor, who's a career lawyer, really took a mentor's wing, particularly when my father wasn't around anymore. And he just had this belief that law school could be like finishing school for entrepreneurship, that the skills that I could acquire there would be incredibly valuable for building a business.
+[00:02:20.510 --> 00:02:28.110] And he decided at that point he would teach law at the University of Ottawa for one year, take a year off from working and teach because it's something he always wanted to do.
+[00:02:28.510 --> 00:02:37.070] And so I applied to one law school, University of Ottawa, and somehow got in because I spent most of my undergrad, you know, selling t-shirts, not studying, getting good grades.
+[00:02:37.990 --> 00:02:40.350] But I ended up applying to the University of Ottawa and getting in.
+[00:02:41.230 --> 00:02:45.830] In 2005, September, I moved from Montreal to Ottawa to start law school.
+[00:02:45.830 --> 00:02:50.430] And again, this whole thing was all about entrepreneurship and it was all about becoming a better entrepreneur.
+[00:02:50.570 --> 00:03:00.050] And so a lot of the anxiety that I think most people have when they're starting a new curriculum or a new program or a new experience, you know, I need to get good grades.
+[00:03:00.050 --> 00:03:01.530] I need to make sure I'm in the right classes.
+[00:03:01.710 --> 00:03:06.730] I didn't have any of that because the law school for me was incredibly transactional.
+[00:03:06.890 --> 00:03:10.110] I was giving the law school money by way of tuition.
+[00:03:10.410 --> 00:03:14.190] And in return, my expectation was that they were going to give me skills.
+[00:03:14.190 --> 00:03:16.430] And the onus was on me to pick up those skills.
+[00:03:16.590 --> 00:03:19.830] But, you know, I was looking for a good return on my investment.
+[00:03:20.670 --> 00:03:26.630] And so even from day one, there was a certain ease or certain laid back is the wrong term.
+[00:03:26.750 --> 00:03:31.270] But I approached law school and the curriculum as what can I take from every class?
+[00:03:31.370 --> 00:03:32.730] What can I take from every interaction?
+[00:03:33.210 --> 00:03:34.490] And in that way, it was really valuable.
+[00:03:34.650 --> 00:03:35.770] And in fact, you know, he was right.
+[00:03:35.930 --> 00:03:39.610] I mean, law school, just to fast forward for a second, law school was incredibly valuable for me.
+[00:03:39.790 --> 00:03:42.770] I went to like one of the best public high schools in South Florida.
+[00:03:42.770 --> 00:03:44.890] I went to South Florida.
+[00:03:45.010 --> 00:03:45.550] I grew up in South Florida.
+[00:03:45.950 --> 00:03:47.530] I went to Spanish River High School in Boca Raton.
+[00:03:47.670 --> 00:03:48.090] OK, gotcha.
+[00:03:48.250 --> 00:03:48.630] Where did you grow up?
+[00:03:48.850 --> 00:03:49.910] Pineview in Sarasota, Florida.
+[00:03:50.070 --> 00:03:50.470] OK, nice.
+[00:03:50.770 --> 00:03:51.570] So West Coast.
+[00:03:51.770 --> 00:03:51.890] Yeah.
+[00:03:52.050 --> 00:03:52.250] OK.
+[00:03:52.550 --> 00:03:55.950] So I was sort of, you know, not too far from north of Miami, north of Fort Lauderdale.
+[00:03:56.130 --> 00:03:56.390] It was Boca.
+[00:03:56.710 --> 00:03:59.210] So I went to a great public high school, but didn't learn how to write well.
+[00:03:59.590 --> 00:04:03.330] Went to McGill, you know, one of the best universities in Canada, one of the best universities in the world.
+[00:04:03.610 --> 00:04:04.470] Didn't learn how to write well.
+[00:04:05.130 --> 00:04:09.270] So law school fundamentally, one of the biggest takeaways was you write a lot, as you know.
+[00:04:09.270 --> 00:04:11.910] I mean, you went to Harvard Law, so that's a whole different level of law school.
+[00:04:12.450 --> 00:04:13.990] But you learn how to write a lot.
+[00:04:14.130 --> 00:04:21.810] You also learn something that I think is really valuable, which is to read thousands and thousands of pages and pick out the one or two things that really matter most.
+[00:04:22.490 --> 00:04:24.930] And in law school, they call it the ratio desidenti, right?
+[00:04:25.010 --> 00:04:27.450] Like the one lesson from that particular case.
+[00:04:27.450 --> 00:04:34.530] And that ability to sift through a ton of data and pick out the one thing that's going to have the biggest impact or value.
+[00:04:34.810 --> 00:04:36.850] I mean, we all use that every single day now.
+[00:04:37.250 --> 00:04:42.510] And probably the third thing that I thought was really valuable was this idea of like really good debate.
+[00:04:42.790 --> 00:04:50.010] That you have an idea, you have a concept or a belief, and you have two sides to debate the belief, one for, one against.
+[00:04:50.350 --> 00:04:53.610] And in undergrad, you know, there was debating, debate club.
+[00:04:53.610 --> 00:04:56.830] But in law school, there was moot court, which you probably did a bunch of too.
+[00:04:57.110 --> 00:05:01.750] So in actuality, law school was incredibly valuable to me from sort of a finished school perspective.
+[00:05:02.130 --> 00:05:02.970] But I moved to Ottawa.
+[00:05:03.190 --> 00:05:03.970] I'd never been there.
+[00:05:04.030 --> 00:05:05.870] I had no friends, had no family there whatsoever.
+[00:05:07.390 --> 00:05:13.090] And one of the things that I learned about myself early on in undergrad was that my tribe were entrepreneurs.
+[00:05:13.330 --> 00:05:17.370] I mean, the reason I'm sitting here is because, you know, like Nick, you reach out and you're like, hey, I get this podcast.
+[00:05:17.530 --> 00:05:18.070] And we started talking.
+[00:05:18.210 --> 00:05:21.170] Like, we've never met in person, I think, until now, right?
+[00:05:21.170 --> 00:05:22.490] I DMed for probably a couple of years now.
+[00:05:22.510 --> 00:05:23.250] Wow, many, many years, right.
+[00:05:23.250 --> 00:05:23.410] Two or three years.
+[00:05:24.010 --> 00:05:25.570] And you've been super helpful all the time.
+[00:05:25.570 --> 00:05:26.690] Oh, thank you for saying that.
+[00:05:27.110 --> 00:05:29.290] Well, just because I connect with entrepreneurs.
+[00:05:29.450 --> 00:05:30.590] I understand entrepreneurs.
+[00:05:31.170 --> 00:05:35.870] No matter where you're from, no matter what industry you're in, I have always found that that's kind of, those are my people.
+[00:05:36.310 --> 00:05:39.070] And so I began to ask in Ottawa, where do the entrepreneurs hang out?
+[00:05:39.350 --> 00:05:41.730] And I was directed to a local coffee shop in Ottawa.
+[00:05:41.930 --> 00:05:42.670] It's called Bridgehead.
+[00:05:42.790 --> 00:05:43.270] It's still there today.
+[00:05:43.750 --> 00:05:48.330] And I walk in, and there were a group of entrepreneurs that effectively were showing up every Friday night.
+[00:05:48.330 --> 00:05:53.270] We called ourselves the Young Entrepreneurs Club, which was a totally lame.
+[00:05:53.270 --> 00:05:55.670] Did you meet Toby in a coffee shop randomly?
+[00:05:55.910 --> 00:05:56.930] And one of those entrepreneurs.
+[00:05:57.090 --> 00:05:57.870] I can tell you the rest of the group.
+[00:05:57.950 --> 00:06:00.070] The group was, it was Sam Zaid who was running Get Around.
+[00:06:00.270 --> 00:06:00.570] Yeah.
+[00:06:00.570 --> 00:06:01.090] In San Francisco.
+[00:06:01.390 --> 00:06:05.710] It was Aiden Merzahi who had Fluid, who now has Fellow app.
+[00:06:05.830 --> 00:06:06.050] Sure.
+[00:06:06.210 --> 00:06:10.470] It was Luke Levesque from TravelPod, who's now chief growth officer at Shopify.
+[00:06:10.850 --> 00:06:13.970] He sold TravelPod to TripAdvisor, ran TripAdvisor for a while.
+[00:06:14.490 --> 00:06:15.010] And it was Toby.
+[00:06:15.410 --> 00:06:17.530] And so this small group of entrepreneurs.
+[00:06:17.530 --> 00:06:20.810] Whoa, it's like a Shopify mafia, like a PayPal mafia from Canada.
+[00:06:20.930 --> 00:06:21.610] But it's reverse, right?
+[00:06:21.770 --> 00:06:25.130] Like at that point, like nobody, like we were all kind of just building our stuff together.
+[00:06:25.450 --> 00:06:27.270] And we all started hanging out.
+[00:06:27.430 --> 00:06:28.590] And I met Toby.
+[00:06:28.690 --> 00:06:30.670] And Toby, this is around 2005 or so.
+[00:06:30.810 --> 00:06:33.950] So he was just transitioning from selling snowboards.
+[00:06:34.190 --> 00:06:35.190] He started the snowboard shop.
+[00:06:35.350 --> 00:06:36.690] This is a very famous story now.
+[00:06:36.950 --> 00:06:39.050] Wrote the code base for what is now Shopify.
+[00:06:39.270 --> 00:06:39.970] Started selling snowboards.
+[00:06:40.070 --> 00:06:42.670] And then people started asking him to use the software.
+[00:06:43.090 --> 00:06:43.970] Here's the cool part.
+[00:06:43.970 --> 00:06:48.870] So my teacher business worked really well in undergrad because in undergrad, you don't have to go to class.
+[00:06:49.450 --> 00:06:53.170] I'm not sure how your law school experience was, but at my law school, they took attendance.
+[00:06:53.530 --> 00:06:56.530] That was part of the overall grading schema.
+[00:06:56.690 --> 00:06:56.930] Wow.
+[00:06:56.930 --> 00:06:58.090] It was also based on attendance.
+[00:06:58.230 --> 00:07:02.250] And also, they did sort of the Socratic method thing where they'd call out a random name.
+[00:07:02.290 --> 00:07:05.210] And if you weren't in class and you didn't answer the question, not a good thing.
+[00:07:05.950 --> 00:07:07.190] Did you learn that the hard way?
+[00:07:07.850 --> 00:07:12.330] I didn't because I was too – like, again, I was trying to derive as much value from law school as possible.
+[00:07:12.470 --> 00:07:14.670] So showing up to class was kind of like a thing to do.
+[00:07:14.730 --> 00:07:15.030] Part of it, yeah.
+[00:07:15.310 --> 00:07:17.570] It wasn't just about getting good grades to get a good job.
+[00:07:17.730 --> 00:07:20.350] I wanted to actually, you know, learn – get knowledge from it.
+[00:07:20.350 --> 00:07:22.270] And so I had to go to class.
+[00:07:22.390 --> 00:07:30.530] And so I actually sort of recognized very early on in law school that the wholesale promotional product business that I had in undergrad was not going to work well in law school.
+[00:07:30.650 --> 00:07:37.170] That I needed to kind of shift towards a more digital version and do retail that ran concurrently while sitting in class.
+[00:07:37.170 --> 00:07:44.410] And because of my relationships in Montreal and sort of the schmutz business, I had some connections to people that had big licenses.
+[00:07:44.770 --> 00:07:47.990] So licenses to Batman or Spider-Man or Superman, a bunch of other things.
+[00:07:48.090 --> 00:07:48.990] Paul Frank was one of them.
+[00:07:49.050 --> 00:07:49.790] I remember Paul Frank.
+[00:07:49.950 --> 00:07:50.870] And so I was like, you know what?
+[00:07:50.870 --> 00:07:51.930] I'm going to set up an online store.
+[00:07:52.250 --> 00:07:53.330] It'll be direct-to-consumer.
+[00:07:53.390 --> 00:07:54.370] It's going to be a virtual store.
+[00:07:54.570 --> 00:07:58.090] And this way, I can actually go to class and make money, you know, while I was learning.
+[00:07:58.470 --> 00:08:01.390] I ended up becoming – I think it was store 137.
+[00:08:01.710 --> 00:08:02.050] Wow.
+[00:08:02.510 --> 00:08:04.610] Plus or minus like two on Shopify.
+[00:08:04.810 --> 00:08:05.570] And what was this one called?
+[00:08:05.690 --> 00:08:06.410] It was called Smoofer.
+[00:08:07.170 --> 00:08:07.670] Remember your shop.
+[00:08:07.750 --> 00:08:08.530] I do.
+[00:08:08.650 --> 00:08:09.390] I'm not going to tell you what it is.
+[00:08:10.850 --> 00:08:14.410] But it's – although smoofer.com is not – it doesn't exist at all.
+[00:08:14.470 --> 00:08:15.890] I checked it a couple of months ago.
+[00:08:16.050 --> 00:08:17.090] It's some random site.
+[00:08:17.330 --> 00:08:19.290] But it was a really fun experience for me.
+[00:08:19.510 --> 00:08:26.030] And I spent all of the rest of the law school, you know, taking as much value from the law school curriculum, but also building Smoofer.
+[00:08:27.190 --> 00:08:28.850] And I did a joint law MBA.
+[00:08:29.010 --> 00:08:30.350] So I finished law school, finished business school.
+[00:08:30.530 --> 00:08:33.430] Went to Toronto to practice law for 10 months.
+[00:08:33.910 --> 00:08:35.010] And I absolutely hated it.
+[00:08:35.010 --> 00:08:38.510] I thought it was – it was the antithesis of entrepreneurship.
+[00:08:39.050 --> 00:08:40.790] Entrepreneurship is meritocratic.
+[00:08:41.070 --> 00:08:43.390] It's about, you know, how much value you add.
+[00:08:43.470 --> 00:08:45.530] No one cares about your last name or how long you've been there.
+[00:08:45.670 --> 00:08:46.790] They care about how much value you add.
+[00:08:46.970 --> 00:08:49.950] And the law firm environment was just the opposite of that.
+[00:08:50.010 --> 00:08:51.550] It was almost unbearable.
+[00:08:52.190 --> 00:08:53.470] So I made it 10 months.
+[00:08:53.890 --> 00:09:02.970] And towards the end of that 10 months, I called Toby and I said, I would really, really love to come help you and a handful of others, mostly engineers at that point, build Shopify.
+[00:09:03.490 --> 00:09:04.950] And that was about 13 years ago.
+[00:09:05.110 --> 00:09:06.350] And how many people were at Shopify?
+[00:09:07.010 --> 00:09:11.010] At that point when I first spoke to him, there was under maybe six or eight.
+[00:09:11.270 --> 00:09:14.430] And by the time I joined, I think there maybe was closer to 16.
+[00:09:14.890 --> 00:09:17.970] And like you guys had a real office at that point, once it was six people?
+[00:09:18.090 --> 00:09:18.190] Yeah.
+[00:09:18.190 --> 00:09:19.490] I mean, working out of that same coffee shop.
+[00:09:19.630 --> 00:09:23.290] We were – at that point, Toby had moved out of a coffee shop to a much smaller office.
+[00:09:23.450 --> 00:09:23.590] Yeah.
+[00:09:23.650 --> 00:09:27.710] And then when I joined, we were on top of this restaurant, a buffet restaurant in Ottawa.
+[00:09:28.070 --> 00:09:29.490] It's called Tucker's Marketplace.
+[00:09:30.250 --> 00:09:32.130] And then I joined in early 2010.
+[00:09:32.510 --> 00:09:33.870] And what was the first day like?
+[00:09:34.010 --> 00:09:37.470] So it's you and, you know, a dozen engineers and maybe a couple other people.
+[00:09:37.710 --> 00:09:38.610] What's the first day like?
+[00:09:38.710 --> 00:09:40.430] It was amazing.
+[00:09:40.430 --> 00:09:45.090] It was – I mean, you both remember the early days of, you know, of starting.
+[00:09:45.910 --> 00:09:49.570] You are driven by sheer –
+[00:09:49.570 --> 00:09:50.450] Force of will.
+[00:09:50.650 --> 00:09:51.130] Ambition.
+[00:09:51.290 --> 00:09:51.450] Yeah.
+[00:09:51.510 --> 00:09:53.010] Like the excitement of the group.
+[00:09:53.210 --> 00:09:53.510] Yeah.
+[00:09:53.630 --> 00:09:56.050] The unknown of what is possible.
+[00:09:56.270 --> 00:09:56.350] Right.
+[00:09:56.630 --> 00:10:00.950] There is no room for, you know, pessimism or skepticism.
+[00:10:01.450 --> 00:10:03.250] There's so much interesting opportunity.
+[00:10:03.250 --> 00:10:07.350] And when you're in a room like that with a bunch of other people who you deeply respect
+[00:10:07.350 --> 00:10:10.610] and you all have one clear mission, there's nothing like it.
+[00:10:11.050 --> 00:10:17.430] And I think my first – you know, the first year or so, I felt that my job was simply to
+[00:10:17.430 --> 00:10:19.930] be a Swiss Army knife, to add as much value as I could.
+[00:10:20.070 --> 00:10:23.670] I was sort of technically – we didn't have a CFO.
+[00:10:23.810 --> 00:10:24.630] We didn't have a CMO.
+[00:10:24.850 --> 00:10:26.790] We didn't have like – we had nothing.
+[00:10:26.790 --> 00:10:33.450] Like I was fresh out of getting my law degree and being called to the bar, although I was
+[00:10:33.450 --> 00:10:34.330] a terrible lawyer.
+[00:10:34.550 --> 00:10:37.990] But if anything – you know, anything needs to get done on the business side or operational
+[00:10:37.990 --> 00:10:41.350] side or legal side or financial side, we kind of just all figured it out together.
+[00:10:41.350 --> 00:10:45.610] I think Shopify's finance department at that point was literally ran by a Ruby script
+[00:10:45.610 --> 00:10:46.550] that Toby had written.
+[00:10:46.670 --> 00:10:46.950] Wow.
+[00:10:47.170 --> 00:10:51.570] To do reconciliation and make sure we were able to have some semblance of integrity with
+[00:10:51.570 --> 00:10:52.130] our finances.
+[00:10:52.330 --> 00:10:53.990] We had not raised any money at that point.
+[00:10:53.990 --> 00:10:58.610] And so we had a couple – we had one or two angel investors, one of which was Toby's
+[00:10:58.610 --> 00:10:59.150] father-in-law.
+[00:11:00.150 --> 00:11:00.870] But that was it.
+[00:11:00.870 --> 00:11:00.970] That was a guy.
+[00:11:01.670 --> 00:11:03.270] And yeah, those guys did very well.
+[00:11:03.990 --> 00:11:09.150] But it was some of the most fun, interesting, and difficult, challenging times of my life.
+[00:11:09.190 --> 00:11:10.350] And I wouldn't have traded for anything.
+[00:11:10.590 --> 00:11:14.530] And how did you get like the – you know, you had 100-some stores on Shopify at that
+[00:11:14.530 --> 00:11:14.770] point.
+[00:11:14.810 --> 00:11:16.750] How did you start getting new ones on there?
+[00:11:16.870 --> 00:11:17.870] Was it like organic?
+[00:11:18.110 --> 00:11:22.030] Everyone was just like hanging – like hears about you guys in this coffee shop and building
+[00:11:22.030 --> 00:11:23.090] snowboards and they're like –
+[00:11:23.090 --> 00:11:23.930] A lot of it was organic.
+[00:11:24.050 --> 00:11:27.350] A lot of it was – I mean, you know, one of the cool parts about the Shopify early
+[00:11:27.350 --> 00:11:30.530] day story was that Toby was writing this code in Ruby on Rails.
+[00:11:31.090 --> 00:11:34.810] And there were really only three or four companies at the time that were really building anything
+[00:11:35.150 --> 00:11:37.070] of meaningful scale using Ruby on Rails.
+[00:11:37.330 --> 00:11:40.390] It was 37 Signalup guys, David Hennemir Hansen, Jason Freed.
+[00:11:40.550 --> 00:11:41.810] It was Twitter, I believe.
+[00:11:42.510 --> 00:11:43.430] I think that was it.
+[00:11:43.490 --> 00:11:44.650] I think Shopify was sort of the third.
+[00:11:44.770 --> 00:11:47.950] So one of the things that was really cool was people that were deeply involved in the
+[00:11:47.950 --> 00:11:49.050] Ruby on Rails community.
+[00:11:49.290 --> 00:11:51.210] And Toby was a core contributor of that community.
+[00:11:51.810 --> 00:11:52.890] They were following along.
+[00:11:53.110 --> 00:11:54.670] So that was sort of one aspect of it.
+[00:11:55.170 --> 00:12:00.830] Another aspect that I recognized fairly early on was that I think just before we started
+[00:12:00.830 --> 00:12:03.190] rolling, we talked about Pointer and your work with Chris.
+[00:12:03.370 --> 00:12:05.530] And Chris is a local Ottawa partner.
+[00:12:05.730 --> 00:12:08.870] And I'm not sure he was around then, but there were a couple agencies and freelancers
+[00:12:08.870 --> 00:12:14.850] that just very serendipitously found Shopify and began to do a couple builds for their merchants
+[00:12:14.850 --> 00:12:17.150] and brands, which was really, really cool.
+[00:12:17.150 --> 00:12:19.310] But at that point, it was mostly word of mouth.
+[00:12:19.690 --> 00:12:23.590] The one thing that happened early on, which was really cool, you guys may remember this.
+[00:12:23.690 --> 00:12:24.930] People listening may remember this too.
+[00:12:25.090 --> 00:12:27.910] We created the Build a Business competition in 2010.
+[00:12:28.150 --> 00:12:28.670] You guys remember that?
+[00:12:28.730 --> 00:12:28.910] Yeah.
+[00:12:29.290 --> 00:12:30.130] And that was really neat.
+[00:12:30.670 --> 00:12:35.490] It was sort of an idea that we, you know, dreamt up with Tim Ferriss.
+[00:12:36.150 --> 00:12:39.570] Tim had learned about Shopify and, you know, thought Shopify was really cool.
+[00:12:39.570 --> 00:12:44.410] But his sort of, his one issue with Shopify back in 2010 was, okay, you guys are making
+[00:12:44.410 --> 00:12:46.750] entrepreneurship seem really easy and very affordable.
+[00:12:46.930 --> 00:12:49.010] But for most people, it's not either of those things.
+[00:12:49.070 --> 00:12:50.470] It is complicated and expensive.
+[00:12:51.070 --> 00:12:55.290] And so the intention with the Build a Business competition in the early days was really to
+[00:12:55.290 --> 00:12:59.210] get to a point whereby we would almost, we would give people a proverbial kick in the
+[00:12:59.210 --> 00:13:00.410] butt to get started now.
+[00:13:00.810 --> 00:13:04.350] And the way we did it was we said, hey, sign up for a new store on Shopify.
+[00:13:04.350 --> 00:13:09.210] After six months, we will review everyone in that cohort and the store with the highest
+[00:13:09.210 --> 00:13:11.230] GMV would win $100,000.
+[00:13:12.630 --> 00:13:16.590] And at the time, I don't even think we had $100,000 in our bank account.
+[00:13:16.710 --> 00:13:20.490] So we were hoping that by the time the competition was over, that we would eventually have that
+[00:13:20.490 --> 00:13:21.470] type of money to pay it out.
+[00:13:22.670 --> 00:13:26.150] And I'm going to get this number wrong, but it's in, it was in the vicinity of like,
+[00:13:26.190 --> 00:13:30.310] I think it was like 1,200 stores that signed up in that period of time.
+[00:13:30.310 --> 00:13:35.890] And the winner was a company called Dodo Case out of San Francisco, who they had recognized
+[00:13:35.890 --> 00:13:40.650] that in downtown San Francisco, there was a tradition of old school bookbinding.
+[00:13:41.370 --> 00:13:45.450] And these bookbinders were not actually, you know, that business, that industry was not
+[00:13:45.450 --> 00:13:46.010] going very well.
+[00:13:46.090 --> 00:13:47.590] And so they went and found these great bookbinders.
+[00:13:47.710 --> 00:13:50.830] And instead of creating books from their bookbinding techniques, they created iPad cases.
+[00:13:51.370 --> 00:13:54.970] And I think Obama, I think it was Obama, had one.
+[00:13:55.090 --> 00:13:57.410] And it was in a famous photograph of his.
+[00:13:57.810 --> 00:13:59.650] And after that, that business did really well.
+[00:13:59.730 --> 00:14:02.190] And Dodo Case ended up winning the Build a Business competition.
+[00:14:02.470 --> 00:14:04.010] And so a lot of it was-
+[00:14:04.010 --> 00:14:04.910] And they're still on Shopify.
+[00:14:05.070 --> 00:14:05.870] Yeah, still on Shopify.
+[00:14:06.210 --> 00:14:06.370] Yeah.
+[00:14:06.650 --> 00:14:10.970] I haven't checked in them in a couple of years, but they were a great business.
+[00:14:11.150 --> 00:14:12.130] They had an amazing product.
+[00:14:13.070 --> 00:14:14.790] They showed scale on Shopify.
+[00:14:14.910 --> 00:14:15.590] They showed creativity.
+[00:14:16.110 --> 00:14:21.170] And I think it was interesting because while they were building Dodo Case, you know, in
+[00:14:21.170 --> 00:14:24.510] a very scrappy, non-scalable way, we were kind of the same with Shopify.
+[00:14:24.650 --> 00:14:25.370] We were doing this at scale.
+[00:14:25.570 --> 00:14:26.390] We were creating competitions.
+[00:14:26.390 --> 00:14:29.430] We were, you know, trying to get word of mouth spinning.
+[00:14:29.850 --> 00:14:33.370] And it wasn't until a year or two after that where we raised venture capital.
+[00:14:33.470 --> 00:14:34.290] We brought in a CFO.
+[00:14:34.450 --> 00:14:38.630] We brought in our first chief marketing officer that, you know, we really created a scalable
+[00:14:38.630 --> 00:14:39.570] way to grow the business.
+[00:14:39.570 --> 00:14:41.390] But those early days were unbelievable.
+[00:14:41.610 --> 00:14:42.050] Yeah, amazing.
+[00:14:42.310 --> 00:14:47.550] When did you, like, realize that Shopify was going to be what it is today?
+[00:14:47.750 --> 00:14:50.950] Like, you know, we were talking just before we started rolling where your mother was like,
+[00:14:50.950 --> 00:14:53.610] okay, this is going to work out like the day before the IPO.
+[00:14:53.870 --> 00:14:54.050] Yeah.
+[00:14:54.330 --> 00:14:56.930] Well, when did you realize where you're like, you know what?
+[00:14:56.970 --> 00:15:01.690] We might have started this in a coffee shop in, you know, Canada, but this is going to
+[00:15:01.690 --> 00:15:02.690] be a massive business.
+[00:15:03.270 --> 00:15:08.610] The reason that I wanted to join Shopify, the reason that I called Toby was partially because
+[00:15:08.610 --> 00:15:12.770] I knew that I wasn't going to be a lawyer long term, partially because I love the idea
+[00:15:12.770 --> 00:15:13.370] of entrepreneurship.
+[00:15:13.650 --> 00:15:18.830] But I would say the majority of the reason that I called him was I had that experience
+[00:15:18.830 --> 00:15:19.310] for myself.
+[00:15:19.550 --> 00:15:24.950] The fact that I was able to launch a beautiful, scalable, unique online business sitting in
+[00:15:24.950 --> 00:15:31.830] tax law class that and effectively within with that one click of the launch button was able
+[00:15:31.830 --> 00:15:34.010] to sell to a massive audience.
+[00:15:34.190 --> 00:15:36.450] That was fairly profound.
+[00:15:36.630 --> 00:15:36.890] Yeah.
+[00:15:37.030 --> 00:15:41.670] That experience of starting a business that otherwise would not have happened if it wasn't
+[00:15:41.670 --> 00:15:43.530] for this incredible piece of software and technology.
+[00:15:43.670 --> 00:15:44.390] It was that.
+[00:15:44.470 --> 00:15:47.830] It was I wanted to join Shopify because I knew the potential shop.
+[00:15:47.890 --> 00:15:53.110] And ultimately what it came down to was this was the first time I really saw what the potential
+[00:15:53.110 --> 00:15:58.770] of truly democratizing the entrepreneurial journey, because prior to that, and if you go back
+[00:15:58.770 --> 00:16:05.110] like 20 years, 200 years, 2000 years, starting a business, the main ingredient had always historically
+[00:16:05.110 --> 00:16:05.710] been capital.
+[00:16:06.050 --> 00:16:07.410] That was it needed money.
+[00:16:07.550 --> 00:16:16.270] It's the reason why so many people were there was this tension or this apprehension to start
+[00:16:16.270 --> 00:16:16.690] a business.
+[00:16:16.870 --> 00:16:19.750] It wasn't because you didn't have people that were ambitious or people wanted to be entrepreneurs.
+[00:16:19.750 --> 00:16:25.510] It was because they were nervous and scared that if it didn't work out, the cost of failure
+[00:16:25.510 --> 00:16:27.990] would be so high that it would change.
+[00:16:28.310 --> 00:16:31.270] You know, they may lose their house or they may lose their they wouldn't be able to put
+[00:16:31.270 --> 00:16:31.870] food on their table.
+[00:16:32.910 --> 00:16:36.210] And for the first time ever, entrepreneurship was more accessible.
+[00:16:36.410 --> 00:16:39.130] The cost of failure was as close as yours ever before.
+[00:16:39.290 --> 00:16:42.770] And it was all possible because of this piece of software that Toby had written.
+[00:16:43.190 --> 00:16:44.790] That's when I knew it'd be a bigger deal.
+[00:16:44.790 --> 00:16:50.050] Now, whether it would take five years, 10 years or 50 years to realize that vision, I
+[00:16:50.050 --> 00:16:52.550] didn't know enough about it because I was a I was a merchant on the platform.
+[00:16:52.710 --> 00:16:53.890] But I knew this is profound.
+[00:16:54.110 --> 00:16:54.290] Wow.
+[00:16:54.450 --> 00:16:58.030] OK, so you knew when you were starting your own store, basically before you joined the
+[00:16:58.030 --> 00:17:01.630] business where you're like this this type of business is going to be revolutionized
+[00:17:01.630 --> 00:17:02.130] entrepreneurship.
+[00:17:02.830 --> 00:17:03.050] Totally.
+[00:17:03.290 --> 00:17:06.190] Because, again, it's it wasn't just about the cost or the effort.
+[00:17:06.350 --> 00:17:10.050] It was the fact that even if you'd never started a business before, you were able to build
+[00:17:10.050 --> 00:17:11.790] something that looked incredible, professional.
+[00:17:11.790 --> 00:17:16.330] It made it feel like, you know, your total adjustment market was not just your little
+[00:17:16.330 --> 00:17:17.790] city or town you were in.
+[00:17:17.930 --> 00:17:20.250] I was in Ottawa, Canada, sitting in tax law class.
+[00:17:20.350 --> 00:17:22.330] And my total adjustment market was Canada.
+[00:17:22.550 --> 00:17:22.710] Yeah.
+[00:17:23.010 --> 00:17:24.570] That was something that was amazing.
+[00:17:24.770 --> 00:17:27.070] My grandparents could never have even envisioned something like that.
+[00:17:27.110 --> 00:17:27.270] Yeah.
+[00:17:27.510 --> 00:17:30.930] I'll tell you, like I started e-commerce because of one of the same reasons you mentioned,
+[00:17:31.070 --> 00:17:33.750] which was the cost of like losing was so low.
+[00:17:34.130 --> 00:17:38.330] You know, the cost is so high with SaaS businesses like Shopify because you invest so much time
+[00:17:38.330 --> 00:17:39.710] building that software.
+[00:17:39.710 --> 00:17:41.990] With e-commerce, you're like, let's see if this works.
+[00:17:42.090 --> 00:17:44.350] If it doesn't, I'll shut it down and start another business.
+[00:17:44.510 --> 00:17:44.710] Right.
+[00:17:44.810 --> 00:17:46.050] You know, 48 hours later.
+[00:17:46.310 --> 00:17:48.090] And it really reduces that cost of entrepreneurship.
+[00:17:48.090 --> 00:17:49.410] It's really amazing.
+[00:17:49.930 --> 00:17:54.630] But that's a great segue into the next thing I want to talk about, which is what Shopify
+[00:17:54.630 --> 00:17:55.290] is today.
+[00:17:55.450 --> 00:17:55.490] Yeah.
+[00:17:56.070 --> 00:18:00.730] You know, I talked to the guys at Klaviyo and they basically told me that recently they've
+[00:18:00.730 --> 00:18:01.850] shifted their strategy.
+[00:18:01.850 --> 00:18:06.170] And they're like, our target is no longer to go after entrepreneurs, although we're
+[00:18:06.170 --> 00:18:07.250] constantly serving them.
+[00:18:07.370 --> 00:18:11.970] But now it's to move upstream in the market and to go after small and medium sized businesses
+[00:18:11.970 --> 00:18:14.130] north of 10, north of $20 million.
+[00:18:15.270 --> 00:18:18.890] I read the Shopify 10K multiple times and I was like, you know what?
+[00:18:18.990 --> 00:18:21.630] You guys talk about starting with entrepreneurs and that makes a ton of sense.
+[00:18:21.750 --> 00:18:26.990] And to be honest, as an entrepreneur, I can't imagine like you guys don't have a monopoly
+[00:18:26.990 --> 00:18:31.270] technically, but in reality, there's no other option than Shopify if you're starting an e-commerce
+[00:18:31.270 --> 00:18:31.690] business.
+[00:18:32.370 --> 00:18:33.910] What about a J.Crew?
+[00:18:34.130 --> 00:18:35.590] Is J.Crew going to be on Shopify?
+[00:18:36.530 --> 00:18:38.190] Why isn't Nordstrom on Shopify?
+[00:18:38.390 --> 00:18:40.090] Why isn't Dick's Sporting Goods?
+[00:18:40.210 --> 00:18:41.230] I mean, I think they should be.
+[00:18:41.430 --> 00:18:44.650] But let me, there's a couple assumptions in that question that I want to unpack first.
+[00:18:44.670 --> 00:18:50.570] First of all, I don't think entrepreneurship is one specific GMV band.
+[00:18:50.950 --> 00:18:53.770] I know people that started their businesses three months ago, they're entrepreneurs.
+[00:18:53.770 --> 00:19:00.210] And I can tell you, you know, if you look at Ben at Gymshark or Ronnie at Kith or Kylie
+[00:19:00.210 --> 00:19:06.670] at Kylie Cosmetics or Rich at Fashion Nova or Dave at Bombas or, you know, Tim and Joey
+[00:19:06.670 --> 00:19:07.190] at Allbirds.
+[00:19:07.610 --> 00:19:12.610] These are all companies that are, in my opinion, and I think a lot of people, most people would
+[00:19:12.610 --> 00:19:16.130] agree with this, are vertical leaders in their particular category.
+[00:19:16.590 --> 00:19:18.930] In some cases, they're multibillion dollar public traded companies.
+[00:19:19.370 --> 00:19:22.690] They are unequivocally, they unequivocally self-identifies entrepreneurs.
+[00:19:22.690 --> 00:19:26.490] So I don't actually think there's like this, like, band where you're an entrepreneur here,
+[00:19:26.630 --> 00:19:27.530] you're a small business here.
+[00:19:27.630 --> 00:19:32.250] But the key to Shopify, just to answer your question directly, is that we want to have
+[00:19:32.250 --> 00:19:34.550] the widest top of funnel possible.
+[00:19:34.690 --> 00:19:39.010] We want to make it so that anyone that has an idea in the shower in the morning, so I'm
+[00:19:39.010 --> 00:19:43.770] talking about aspirational entrepreneurship, we recognize not all of them will succeed.
+[00:19:44.130 --> 00:19:48.750] However, the ones that do from a business perspective will offset the cost of the ones that don't.
+[00:19:48.750 --> 00:19:55.430] And more importantly, over time, as their needs grow, as the complexity of their business
+[00:19:55.430 --> 00:20:01.750] increases, the value of Shopify reveals itself or unveils itself to them as they need it.
+[00:20:01.970 --> 00:20:07.590] And so initially, if we just sort of look at Shopify Plus, for example, Plus was started
+[00:20:07.590 --> 00:20:12.190] as a graduation for the most successful merchants on Shopify.
+[00:20:12.190 --> 00:20:16.270] As they got bigger and bigger, they needed new things, whether it was new functionality,
+[00:20:16.390 --> 00:20:17.530] new features, new APIs.
+[00:20:18.170 --> 00:20:21.170] They wanted larger, you know, API call limits.
+[00:20:21.350 --> 00:20:22.950] They wanted more stuff from us.
+[00:20:23.630 --> 00:20:26.570] And so this idea of this graduation, that's what it was for.
+[00:20:26.710 --> 00:20:28.590] It was for homegrown success stories.
+[00:20:28.790 --> 00:20:31.390] And that's all the stories I just mentioned are homegrown success stories.
+[00:20:31.650 --> 00:20:32.410] Figs, for example.
+[00:20:32.570 --> 00:20:36.150] Like these types of brands that start with us that go really large, never leave the platform.
+[00:20:36.150 --> 00:20:41.810] But something quite remarkable happened in the last five or so years and much more so in the last,
+[00:20:41.810 --> 00:20:47.610] you know, two to three years, which is that a lot of larger existing companies, whether it's Mattel
+[00:20:47.610 --> 00:20:54.850] or it's Crayola or it's Procter & Gamble or it's Staples or Spanx, companies that already had
+[00:20:54.850 --> 00:20:58.270] existing large businesses migrated to Shopify Plus.
+[00:20:58.610 --> 00:21:02.910] And so that's not to say, I don't know, maybe J.Crew will come to Shopify at some point.
+[00:21:02.990 --> 00:21:03.850] I don't know why they wouldn't.
+[00:21:03.850 --> 00:21:07.810] I don't understand all the puts and takes of the Nordstrom business model.
+[00:21:08.010 --> 00:21:13.330] But my hope is that at some point, all those brands, if you are running a modern brand
+[00:21:13.330 --> 00:21:17.970] and you are multi-channel and you want to future-proof your business operations,
+[00:21:18.470 --> 00:21:21.770] my hope is that one day it is a bad idea to not use Shopify.
+[00:21:22.170 --> 00:21:26.410] A few weeks ago, I got a call from the chairman of Tom Ford.
+[00:21:26.590 --> 00:21:30.570] And he was basically saying that their UK store needed some assistance.
+[00:21:30.570 --> 00:21:36.470] And he was like, you know, can you put together a quick presentation, come to our office and present it.
+[00:21:36.810 --> 00:21:38.470] And so I did that.
+[00:21:38.690 --> 00:21:39.430] I get there.
+[00:21:39.630 --> 00:21:42.630] And I'm like, your first mistake is you're not on Shopify Plus.
+[00:21:42.870 --> 00:21:43.650] You're on Salesforce.
+[00:21:43.990 --> 00:21:48.250] And you can't use a Salesforce store without three clicks to check out.
+[00:21:48.450 --> 00:21:51.530] You're probably losing millions of dollars just with that one issue there.
+[00:21:51.530 --> 00:21:51.770] Yeah.
+[00:21:52.610 --> 00:21:54.050] First, I completely agree with you.
+[00:21:54.190 --> 00:22:00.550] It's amazing to see the small businesses that you guys have fostered grow into and really help – really grow into Shopify.
+[00:22:00.550 --> 00:22:03.870] And I think also help Shopify build new features as they need them, right?
+[00:22:03.930 --> 00:22:05.270] Like the Allbirds and Biggs.
+[00:22:05.490 --> 00:22:06.990] Because they pull us into categories.
+[00:22:07.170 --> 00:22:07.270] Definitely.
+[00:22:07.390 --> 00:22:09.710] That we ourselves may have not gone to ourselves.
+[00:22:09.750 --> 00:22:13.130] It's our merchants that are saying, look, you thought this was a nice-to-have.
+[00:22:13.150 --> 00:22:14.190] This is actually a must-have.
+[00:22:14.310 --> 00:22:15.550] And then we go to work building it.
+[00:22:15.710 --> 00:22:15.930] Yeah.
+[00:22:15.930 --> 00:22:17.250] I'm glad you said that.
+[00:22:17.690 --> 00:22:22.290] Because I've got a few – look, there are brands that have gotten to a certain size and then switched away from Shopify.
+[00:22:22.830 --> 00:22:26.050] Like Away Travel and Ritual Vitamins.
+[00:22:26.290 --> 00:22:29.950] Why do you think those brands switch away from Shopify instead of staying within the ecosystem?
+[00:22:29.990 --> 00:22:33.310] You've proven that publicly traded companies can sit on the Shopify platform.
+[00:22:33.470 --> 00:22:37.490] You've named two brands that – those are very, very rare cases.
+[00:22:37.770 --> 00:22:39.210] It happens from time to time.
+[00:22:39.330 --> 00:22:42.710] And those two brands in particular, I suspect, at some point will come back to Shopify.
+[00:22:43.010 --> 00:22:44.510] In fact, I'm certain of it.
+[00:22:44.510 --> 00:22:48.110] And I hope they're listening because I would love to re-migrate them over if I can.
+[00:22:48.490 --> 00:22:52.230] But that almost – to be totally – this is enough flex of Shopify.
+[00:22:52.450 --> 00:22:53.570] But that almost never happens.
+[00:22:53.990 --> 00:22:56.970] In the case where it does – I mean, Tommy John.
+[00:22:58.030 --> 00:23:06.210] Someone convinced Tom that he should leave Shopify and go to what I guess this person thought was a good idea, go to BigCommerce.
+[00:23:06.470 --> 00:23:07.730] So he left in February.
+[00:23:08.090 --> 00:23:10.630] And as of last week, he re-migrated back to Shopify.
+[00:23:10.630 --> 00:23:18.070] So we do see some times where someone gets hired in a company and they want to sort of substantiate or demonstrate their value.
+[00:23:18.230 --> 00:23:24.510] And so – especially if they're like running e-commerce, they're like, we need to do something big and let's get them off Shopify onto something else.
+[00:23:25.610 --> 00:23:28.070] More times than not, they come back to the platform.
+[00:23:28.730 --> 00:23:31.910] Kylie went to Magento and didn't work.
+[00:23:31.970 --> 00:23:34.690] She couldn't do the flash sales on Magento and came to Shopify.
+[00:23:34.690 --> 00:23:36.910] So we see this fairly often.
+[00:23:37.130 --> 00:23:42.930] But I would say the reason that people don't is, one, they don't have a full understanding of what the actual platform can do or the capabilities.
+[00:23:43.150 --> 00:23:44.230] And by the way, that's not their fault.
+[00:23:44.290 --> 00:23:44.830] That's our fault.
+[00:23:44.950 --> 00:23:52.910] We have to do a better job of articulating why there are companies building multibillion-dollar long-term businesses entirely in the Shopify stack, first thing.
+[00:23:52.910 --> 00:23:55.890] The second thing is there was a period of time – I believe it's over.
+[00:23:56.270 --> 00:24:03.890] Both of you would be more familiar with this concept than I would where private equity was getting deeply involved in e-commerce and buying these direct-to-consumer brands.
+[00:24:04.110 --> 00:24:09.510] And part of that pitch was like we should think about more enterprise-grade solutions.
+[00:24:09.790 --> 00:24:14.030] That's over now because Shopify is enterprise-grade.
+[00:24:14.210 --> 00:24:16.710] And if you – I spoke to Andy Dunn about this recently.
+[00:24:16.990 --> 00:24:20.070] Andy built two companies, Bonobos, obviously, and then AYR.
+[00:24:20.070 --> 00:24:24.730] When Bonobos was built, it was pre-Shopify Plus, and so he built that whole stack himself.
+[00:24:24.970 --> 00:24:29.410] When AYR was built, Shopify Plus existed, and he built the entire thing on Shopify Plus.
+[00:24:29.670 --> 00:24:33.050] And so some of it was we talked so much about entrepreneurship.
+[00:24:33.050 --> 00:24:34.630] We talked so much about small businesses.
+[00:24:34.750 --> 00:24:46.570] We are the entrepreneurship company to many people that I think some of these big companies assume, like your point, Nick around, Tom Ford, that we are only for entrepreneurs and smaller entrepreneurs, and that's just not the case.
+[00:24:46.570 --> 00:24:56.910] Your favorite brands, for anyone who buys products online, your favorite brands, if it's a great experience and it's not a marketplace, there's a very, very high likelihood it's on Shopify.
+[00:24:57.270 --> 00:25:03.190] And we've earned the right, and we will continue to earn the right to get those brands because we keep finding ways to add more value.
+[00:25:03.350 --> 00:25:09.910] And it's the reason why Shopify is – like if I was on your show eight years ago, and you said, what does Shopify do?
+[00:25:09.910 --> 00:25:11.190] I'd be like, well, e-commerce.
+[00:25:11.530 --> 00:25:16.370] And then seven years ago, I would say, well, we're e-commerce, but we're not just for small business, we're also for larger companies.
+[00:25:16.750 --> 00:25:19.430] And six years ago, I would have said, well, we're also for physical retail.
+[00:25:19.890 --> 00:25:24.610] And four years ago, I would have said, well, we're also doing this thing called merchant solutions where we'll do payments and capital.
+[00:25:25.030 --> 00:25:27.810] And then, you know, two years ago, I'd say, well, we're also doing other stuff.
+[00:25:27.950 --> 00:25:32.890] We're doing some fulfillment and shipping as well, and we're also allowing it to cross-sell across a whole bunch of different new channels.
+[00:25:32.890 --> 00:25:37.370] And so over time, if you zoom out, in my view, I think it's simple.
+[00:25:37.470 --> 00:25:39.230] Shopify is building a retail operating system.
+[00:25:39.490 --> 00:25:48.170] But the role that we play in the lives of every different merchant on our platform is unique, which makes it more challenging to explain it in a fortune cookie-type explanation.
+[00:25:48.370 --> 00:25:50.630] And I think that creates some confusion in the market.
+[00:25:50.630 --> 00:25:52.790] So people think, well, Shopify is only for small businesses.
+[00:25:53.030 --> 00:25:58.050] Well, anyone that says it's only for small businesses, like you should look at our top 100 merchants.
+[00:25:58.150 --> 00:26:00.610] They are doing – they are, I think, the most important brands in the world.
+[00:26:00.610 --> 00:26:03.250] I don't think anybody says Shopify is for small businesses today.
+[00:26:03.410 --> 00:26:11.650] I think everyone is like, Shopify can run a billion-dollar top-line business, all direct-to-consumer, all without issue.
+[00:26:11.850 --> 00:26:18.010] I don't think anyone would – I think if you believe that or if you think that people would say that, it's because you've been working at Shopify for so long.
+[00:26:18.090 --> 00:26:18.190] Good.
+[00:26:18.190 --> 00:26:21.610] You remember it was a small business-focused entity.
+[00:26:22.070 --> 00:26:23.750] Today, nobody would ever say that.
+[00:26:23.910 --> 00:26:27.910] I do think, though, back to your point about people that leave Shopify, it really doesn't happen very often.
+[00:26:27.910 --> 00:26:34.050] When it does, there's something there that is usually not around product or around technology or around software.
+[00:26:34.270 --> 00:26:40.090] It's often that someone got hired or someone took investment from a company and they have a relationship with somebody else.
+[00:26:40.610 --> 00:26:40.790] Yeah.
+[00:26:40.930 --> 00:26:45.590] I can tell you the two companies that I mentioned, Away and Ritual, I'm very familiar with them.
+[00:26:45.850 --> 00:26:51.770] And I remember when Ritual left, it was several years ago, and it generally was around product.
+[00:26:51.970 --> 00:26:53.150] And I'm glad we're going to talk about product.
+[00:26:53.150 --> 00:26:55.770] I think what you said was a great segue into product.
+[00:26:56.150 --> 00:27:01.070] And as a Shopify user, and Nick is a Shopify user, I think we both felt frustration.
+[00:27:01.590 --> 00:27:06.650] Well, let me start by saying first that neither Nick nor I would be where we are today without Shopify.
+[00:27:06.990 --> 00:27:07.710] That's a great deal to me.
+[00:27:07.710 --> 00:27:08.870] And so when we say this, we come –
+[00:27:08.870 --> 00:27:09.270] No, no, please.
+[00:27:09.430 --> 00:27:11.690] When I say this, I come from a place of like –
+[00:27:11.690 --> 00:27:12.730] Love and care and support.
+[00:27:12.910 --> 00:27:12.970] Yeah.
+[00:27:13.150 --> 00:27:13.590] Lots of love.
+[00:27:13.610 --> 00:27:14.990] Toronto is my Mecca.
+[00:27:15.110 --> 00:27:18.850] You know, that's where I pray five times a day and not into Saudi Arabia.
+[00:27:18.850 --> 00:27:25.450] So I say this from a place of I want to improve the product and not from a place of like what the fuck is going on.
+[00:27:25.710 --> 00:27:35.090] But from a place of to the extent that Nick and I represent entrepreneurs and a bunch of direct-to-consumer businesses, frustrations that I think they all feel.
+[00:27:35.090 --> 00:27:43.190] And we have a unique audience with somebody who has the power to like, you know – you're basically the president of the United States to us in our community.
+[00:27:43.370 --> 00:27:43.510] Wow. Okay.
+[00:27:43.610 --> 00:27:49.410] And so you're the one who is able to snap their fingers and make it so that healthcare is free in the United States.
+[00:27:49.510 --> 00:27:52.530] And so I'm going to ask you about a bunch of things when it comes to your product.
+[00:27:52.950 --> 00:27:53.610] Let's talk about it.
+[00:27:53.610 --> 00:28:00.070] Before you do, I mean, one thing that I think is important is that it is easier to build software that does everything for everyone.
+[00:28:00.430 --> 00:28:08.930] It is far more difficult to create software that is opinionated to the point where getting started, it's easy, it's simple.
+[00:28:09.170 --> 00:28:11.370] It's almost a delight to start a business on Shopify.
+[00:28:11.370 --> 00:28:23.130] But that same code base as you scale and you're doing billions of dollars of sales and you need things like cross-border task compliance or some sort of, you know, crazy subscription model, it also works as well.
+[00:28:23.330 --> 00:28:40.670] And so part of the challenge that we have – it's the challenge that drives us more than pretty much everything else is how do we make software that is so good for that person that has the idea in the shower but also good enough that American Girl can use or, you know, Spanx can use or any of these –
+[00:28:40.670 --> 00:28:42.190] Rebecca Minkoff can use as well.
+[00:28:43.210 --> 00:28:45.230] And that's where it becomes quite challenging.
+[00:28:45.450 --> 00:28:50.730] And certain times, you know, we've been pulled into directions whereby merchants want us to do something.
+[00:28:51.430 --> 00:28:54.530] And it is not what merchants – most merchants need most of the time.
+[00:28:54.590 --> 00:28:58.030] And so we'll say, look, we may create some APIs and let third parties build on top of it.
+[00:28:58.370 --> 00:29:08.570] But if you're a merchant who expects or is used to being delivered something on a silver platter as opposed to reading some API documentation, it could be frustrating.
+[00:29:08.750 --> 00:29:09.890] And I totally recognize that.
+[00:29:09.890 --> 00:29:19.530] And I hope that the solution or the product that we talk about is not the, you know, 5% of people who need things, but it's the 90% of people who are begging for things.
+[00:29:19.830 --> 00:29:28.590] And let me start with one of those 90% things, which – and this is not the order that I had it written in, but I want to start with this one because it's the largest problem, I think.
+[00:29:29.110 --> 00:29:29.810] Sales tax.
+[00:29:30.130 --> 00:29:33.630] You know, I think that Shopify says, hey, you need to start collecting sales tax here.
+[00:29:33.830 --> 00:29:37.890] There are two massive platforms that are built on this, Avalara and TaxJar.
+[00:29:37.890 --> 00:29:40.430] Are TaxJar is owned by Stripe, which you guys partner with?
+[00:29:40.910 --> 00:29:41.670] But like –
+[00:29:41.670 --> 00:29:43.230] And we partnered with Avalara for a long time too.
+[00:29:43.290 --> 00:29:43.530] Yeah.
+[00:29:43.570 --> 00:29:43.870] Yeah.
+[00:29:43.910 --> 00:29:44.250] I'm sorry.
+[00:29:44.350 --> 00:29:46.670] I just meant like the Stripe partnership is deep.
+[00:29:47.610 --> 00:29:50.870] Are you guys thinking about doing a sales tax solution or are we on our own for that?
+[00:29:52.730 --> 00:29:55.050] Well, hopefully you're not on your own for anything.
+[00:29:55.270 --> 00:29:57.790] But I think sales tax in particular is challenging for a couple reasons.
+[00:29:57.790 --> 00:30:14.310] One, in 2022, pretty much every entrepreneur's ambition is to be default global, which means that it's – for every merchant on the platform, their version of sales tax compliance or their version of sales tax remittance is very, very different.
+[00:30:14.570 --> 00:30:16.070] But, you know, I read your 10K.
+[00:30:16.290 --> 00:30:19.270] 55% of your stores are US-based.
+[00:30:19.370 --> 00:30:19.710] Yes.
+[00:30:19.830 --> 00:30:19.950] Okay.
+[00:30:20.790 --> 00:30:23.990] So now that means that the other 45% are not –
+[00:30:23.990 --> 00:30:24.110] Sure.
+[00:30:24.210 --> 00:30:25.590] And need a bunch of other things as well.
+[00:30:26.690 --> 00:30:28.370] I think on the tax thing, we can do better there.
+[00:30:28.470 --> 00:30:29.090] There's no question about it.
+[00:30:29.110 --> 00:30:32.350] In fact, one of the reasons I want to come on the show is to actually hear from you.
+[00:30:32.450 --> 00:30:37.830] And I know we user-generated a bunch of – like a lot of these questions came from Twitter and stuff.
+[00:30:37.950 --> 00:30:40.930] I want to know what people feel are deeply missing.
+[00:30:40.930 --> 00:30:44.250] And I also want to feel like there's not going to be an easy solution.
+[00:30:44.350 --> 00:30:45.050] Yeah, we're just going to build.
+[00:30:45.150 --> 00:30:46.050] It's going to be really, really simple.
+[00:30:46.310 --> 00:30:53.970] But partially, like what I want to come back with to the team and say, hey, look, the community of people that really use Shopify that are sort of power users – and I don't mean GMV.
+[00:30:54.070 --> 00:31:00.410] I just mean the people that spend most of their time in the admin, in the APIs, in the SDKs, like building stuff on top of Shopify.
+[00:31:00.550 --> 00:31:01.610] This is what they want to hear.
+[00:31:01.870 --> 00:31:06.730] So sales tax is one that I think is really difficult because depending on the jurisdiction you're in, it's completely different.
+[00:31:07.010 --> 00:31:10.710] Sales tax remittance in a place like Germany is very, very complicated.
+[00:31:10.930 --> 00:31:13.450] It's a lot simpler in a place like Canada or even the U.S.
+[00:31:13.710 --> 00:31:14.530] Can we do a better job there?
+[00:31:14.650 --> 00:31:14.870] Probably.
+[00:31:15.330 --> 00:31:20.890] In that case, there are also – if you go to the Shopify app store and you type in taxes, you will see a variety of apps that do a bunch of different things.
+[00:31:21.050 --> 00:31:21.250] Yeah.
+[00:31:21.390 --> 00:31:21.530] Right.
+[00:31:22.430 --> 00:31:23.470] I love Tapcart.
+[00:31:23.630 --> 00:31:26.270] Low cost, low effort to manage, and gives you more control.
+[00:31:26.710 --> 00:31:29.490] Plug and play means setup takes hours, not weeks.
+[00:31:29.850 --> 00:31:34.650] And you'll join a roster of brands on board, including Princess Polly, Figs, and Fashion Nova.
+[00:31:35.130 --> 00:31:40.370] On average, merchants are seeing an average 43X ROI and super high conversion rates.
+[00:31:40.930 --> 00:31:43.390] Easy and no downside to building your own app.
+[00:31:43.750 --> 00:31:46.810] Give your shoppers a seamless and VIP experience on mobile.
+[00:31:46.810 --> 00:31:51.450] Start building with their demo plus two months free at tapcart.com slash limited.
+[00:31:53.050 --> 00:31:54.990] Let me tell you why I think it's so important.
+[00:31:55.270 --> 00:31:59.550] You know, it's easy for brands like Native and it's easy for brands like Allbirds and Figs.
+[00:31:59.830 --> 00:32:08.070] And, you know, if I had to guess, I would say that Amazon was like – when the Wayfly was coming out, they're like, go ahead and fuck every entrepreneur and help us build this moat because –
+[00:32:08.070 --> 00:32:08.710] I'm taking notes, by the way.
+[00:32:08.750 --> 00:32:09.150] I hope it's okay.
+[00:32:09.310 --> 00:32:09.750] Yeah, of course.
+[00:32:09.890 --> 00:32:17.550] You know what's great for Amazon is complexity for e-commerce businesses because they can solve it with the trillions of dollars that they have.
+[00:32:17.690 --> 00:32:24.890] But it's really – and it's easy for Native because we've got the benefit of P&G and it's easy for Allbirds because they've got the benefit of accountants and lawyers and all that stuff.
+[00:32:24.890 --> 00:32:28.610] It's really hard for the 10-person entrepreneur who's like, you know what?
+[00:32:28.690 --> 00:32:32.850] I'm doing $8 million a year with $1 million in EBITDA.
+[00:32:32.970 --> 00:32:37.910] The business is growing but, you know, I can't let my, you know, customer service person figure this out.
+[00:32:37.990 --> 00:32:42.870] I've got to figure this out and it takes me months to understand what jurisdictions should I be collecting in.
+[00:32:43.170 --> 00:32:46.950] Basically, you're arming us with all of the – you know, you're talking about arming the rebels.
+[00:32:47.190 --> 00:32:51.090] This is something that we need help in because we've got knives.
+[00:32:51.470 --> 00:32:54.670] And, you know, Amazon has made this a war with nuclear weapons.
+[00:32:54.670 --> 00:33:03.490] Yeah, so you're suggesting that actually this is sort of where the playing field is not level because bigger companies have an unfair advantage by virtue of the fact that they're part of a large organization.
+[00:33:03.630 --> 00:33:04.250] They can afford accountants.
+[00:33:04.670 --> 00:33:05.650] That is exactly where we want to go.
+[00:33:05.810 --> 00:33:13.250] Now, what I'm not sure about and I need to do some work on this is figure out like why are the things available right now not good enough?
+[00:33:13.370 --> 00:33:15.350] Because there is not just a few apps.
+[00:33:15.390 --> 00:33:19.470] There's a lot of apps and a lot of third parties that do this exact thing including TaxJar and Avalara.
+[00:33:19.590 --> 00:33:19.730] Yeah.
+[00:33:19.810 --> 00:33:23.710] So what is missing that is not available through those particular products?
+[00:33:23.710 --> 00:33:29.850] Yeah, I think understanding like when you should do it because you have a real-time insight into saying, hey, you got to start collecting taxes in this church.
+[00:33:29.930 --> 00:33:33.070] Oh, so you're talking about a trigger that says, hey, you are above a threshold.
+[00:33:33.190 --> 00:33:35.010] But you have that trigger which nobody else has.
+[00:33:35.070 --> 00:33:35.210] Got it.
+[00:33:35.210 --> 00:33:45.950] And like, you know, if you're a young entrepreneur who's starting out, you know, if you're 20 years old selling when you're an undergrad at University of Florida, which where I went, you know, you're not like, you know what?
+[00:33:46.010 --> 00:33:48.530] I just crossed the $2,500 threshold.
+[00:33:48.670 --> 00:33:49.630] Yeah, that is an important threshold.
+[00:33:49.870 --> 00:33:50.130] Fuck!
+[00:33:51.170 --> 00:33:56.110] So there are certain things also that eventually I think just like should get easier.
+[00:33:56.390 --> 00:33:58.210] Selling cross-border should get easier.
+[00:33:58.390 --> 00:33:58.450] Definitely.
+[00:33:58.450 --> 00:33:59.250] We can talk about that a little bit.
+[00:33:59.550 --> 00:34:02.530] I think tax, sort of the tax concept should get easier.
+[00:34:02.810 --> 00:34:06.730] Remember also why it's even more important for us is that a lot of our merchants are first-time entrepreneurs.
+[00:34:07.050 --> 00:34:09.810] And I think for a first-time entrepreneur, it's even more difficult to understand that.
+[00:34:09.810 --> 00:34:10.190] Agreed.
+[00:34:10.190 --> 00:34:11.270] I'm glad you mentioned that.
+[00:34:11.430 --> 00:34:11.770] I have a note.
+[00:34:11.910 --> 00:34:12.190] Sales tax.
+[00:34:12.350 --> 00:34:12.590] Fantastic.
+[00:34:12.770 --> 00:34:13.910] Second one, analytics.
+[00:34:14.910 --> 00:34:19.670] Please, for the love of God, create an analytics solution.
+[00:34:19.730 --> 00:34:21.590] Which is one of the most liked questions by Jack.
+[00:34:22.370 --> 00:34:24.030] You know, I think that –
+[00:34:25.670 --> 00:34:30.190] Wait, let's talk about the repeat rate chart because that fucks a lot of people in my opinion.
+[00:34:30.310 --> 00:34:30.650] Tell me about that.
+[00:34:31.030 --> 00:34:33.530] So, Moyes, do you want to define what you think repeat rate should be?
+[00:34:33.530 --> 00:34:39.310] You know, like when I hear from entrepreneurs because I invest in a lot of e-commerce businesses, they say, hey, Moyes, it's September.
+[00:34:39.310 --> 00:34:40.030] Guess what?
+[00:34:40.090 --> 00:34:46.610] In August, we had $300,000 in revenue and 30% of our customers are repeat customers.
+[00:34:46.890 --> 00:34:47.810] And I'm like, that's great.
+[00:34:47.870 --> 00:34:48.510] That's good retention.
+[00:34:48.650 --> 00:34:49.810] Or they'll say 45%.
+[00:34:49.810 --> 00:34:51.150] I'm like, that's amazing retention.
+[00:34:51.630 --> 00:34:53.930] And then I dig into the numbers and I'm like, no, no.
+[00:34:54.110 --> 00:34:59.010] 45% of your revenue from last month was returning customer revenue.
+[00:34:59.510 --> 00:35:02.390] Not 45% of your customers come back and repeat.
+[00:35:02.910 --> 00:35:04.950] And like, you know, there's no cohort analysis.
+[00:35:05.370 --> 00:35:08.390] And you know what I love about – like all the solutions we're trying to provide,
+[00:35:08.390 --> 00:35:10.150] Nick and I are trying to provide are software solutions.
+[00:35:10.290 --> 00:35:10.410] Sure, of course.
+[00:35:10.690 --> 00:35:14.190] We – like, you know, you guys are a software business and I hope there's a ton of engineers.
+[00:35:14.470 --> 00:35:17.110] And Toby wrote this on Rails and you're talking about how important this is.
+[00:35:17.290 --> 00:35:21.270] This is a software of like, here's a cohort analysis of when do your customers come back?
+[00:35:21.430 --> 00:35:22.950] And you're suggesting that the existing –
+[00:35:22.950 --> 00:35:23.790] The numbers are wrong.
+[00:35:23.890 --> 00:35:24.350] The existing products there –
+[00:35:24.350 --> 00:35:25.670] The calculation is not right.
+[00:35:25.730 --> 00:35:26.330] I'm suggesting –
+[00:35:26.330 --> 00:35:27.550] I'm suggesting this is –
+[00:35:27.550 --> 00:35:28.210] This is really cool.
+[00:35:28.270 --> 00:35:29.550] This is sort of like getting feedback.
+[00:35:29.750 --> 00:35:31.290] This is like a public forum for feedback.
+[00:35:31.410 --> 00:35:31.870] This is amazing.
+[00:35:32.030 --> 00:35:36.150] Okay, so you're suggesting the numbers are actually wrong on returning customers.
+[00:35:36.310 --> 00:35:37.190] I'm not sure that's the case.
+[00:35:37.270 --> 00:35:38.990] I mean, I also run a Shopify store myself.
+[00:35:38.990 --> 00:35:39.910] No, no, I'm not suggesting –
+[00:35:39.910 --> 00:35:40.090] Yeah.
+[00:35:40.190 --> 00:35:41.550] I'm not suggesting that because you're –
+[00:35:41.550 --> 00:35:45.450] I'm just saying what you're defining as returning customers isn't as relevant as the
+[00:35:45.450 --> 00:35:46.230] way we're defining it.
+[00:35:46.250 --> 00:35:46.450] Got it.
+[00:35:46.450 --> 00:35:47.470] I'm not saying your number is wrong.
+[00:35:47.470 --> 00:35:51.850] So what you're suggesting actually is that the modern – like the modern way or the versions
+[00:35:51.850 --> 00:35:55.450] of returning customers, the definition of it, you think needs to actually have
+[00:35:55.450 --> 00:35:56.190] more inputs to it.
+[00:35:56.250 --> 00:35:58.210] It's because not everyone defines it the same way.
+[00:35:58.210 --> 00:36:00.550] I think that's the case, but I think that's the tip of the iceberg.
+[00:36:00.890 --> 00:36:03.830] Like have you seen the new apps that have come out for Shopify analytics?
+[00:36:04.010 --> 00:36:04.050] Yes.
+[00:36:04.330 --> 00:36:05.170] Like Triple Whale and NorthBeam?
+[00:36:05.450 --> 00:36:06.210] Have you –
+[00:36:06.210 --> 00:36:07.090] I know Triple Whale.
+[00:36:07.190 --> 00:36:07.350] Yeah.
+[00:36:07.830 --> 00:36:09.210] And what do you think of those solutions?
+[00:36:09.430 --> 00:36:09.830] They're doing an amazing job.
+[00:36:09.950 --> 00:36:10.830] I think Triple Whale is really cool.
+[00:36:11.430 --> 00:36:16.590] We've experimented with it for FireBelly, which is my little side hustle that I use myself.
+[00:36:16.690 --> 00:36:20.390] By the way, one of the reasons that I started FireBelly Tea was for this exact reason.
+[00:36:20.430 --> 00:36:20.670] Yeah, of course.
+[00:36:20.670 --> 00:36:24.370] That is one thing for me to actually like be in the company, present the company, talk to the
+[00:36:24.370 --> 00:36:26.470] world about the company, but actually using it as a user.
+[00:36:26.470 --> 00:36:30.650] So we are now – we'll get to fulfillment and logistics later on, I'm sure.
+[00:36:30.790 --> 00:36:34.230] But one of the reasons that I wanted to do this was I wanted dog food, everything myself.
+[00:36:34.270 --> 00:36:39.830] So actually I'm now watching from like literally from factory to the end consumer, the entire
+[00:36:39.830 --> 00:36:42.050] stack of shipping and fulfillment on FireBelly.
+[00:36:42.170 --> 00:36:46.390] The only way for me to tell people, hey, that Shopify logistics can be like world-class,
+[00:36:46.430 --> 00:36:49.370] can help you not have to think about it anymore is for me to actually experience it myself.
+[00:36:49.810 --> 00:36:52.070] So the analytics side of things, I have not experienced that.
+[00:36:52.070 --> 00:36:55.810] I actually find that our analytics does – gives me way more information than I think I
+[00:36:55.810 --> 00:36:56.410] actually need.
+[00:36:56.550 --> 00:37:00.670] But what you're suggesting is for some businesses, they actually need a different definition of
+[00:37:00.670 --> 00:37:01.010] what it is.
+[00:37:01.050 --> 00:37:05.010] And so if we're determining, hey, this is what returning customer looks like and they're
+[00:37:05.010 --> 00:37:07.570] thinking it's a different definition, that doesn't make it helpful.
+[00:37:07.570 --> 00:37:08.410] That's a good piece of feedback.
+[00:37:08.470 --> 00:37:09.610] So I guess here's another question.
+[00:37:09.690 --> 00:37:13.350] At FireBelly Tea, do you know how many customers from August 2021 have purchased again?
+[00:37:13.710 --> 00:37:13.950] Yes, they do.
+[00:37:13.950 --> 00:37:14.770] Like what percentage of customers?
+[00:37:14.770 --> 00:37:14.990] Yes, they do.
+[00:37:15.050 --> 00:37:16.090] And you get that through Shopify?
+[00:37:16.230 --> 00:37:16.630] Yes, they did.
+[00:37:16.770 --> 00:37:17.270] Okay, gotcha.
+[00:37:17.710 --> 00:37:17.990] And then –
+[00:37:17.990 --> 00:37:20.190] I'm not sure what your definition of returning – because I'm basically –
+[00:37:20.190 --> 00:37:21.910] I'm just looking at their email addresses.
+[00:37:22.390 --> 00:37:26.430] So one of the things that I pull out and we just put into a spreadsheet is to look at
+[00:37:26.430 --> 00:37:28.050] returning customers for two reasons.
+[00:37:28.190 --> 00:37:30.430] One, obviously, those are our best customers.
+[00:37:30.570 --> 00:37:33.150] We want to make sure they get early access to stuff and show them the love.
+[00:37:33.290 --> 00:37:37.770] But also, in many cases, the cost of customer acquisition was paid a year ago.
+[00:37:37.890 --> 00:37:39.830] I'm not actually spending any more money to get them again.
+[00:37:39.990 --> 00:37:42.070] Yeah, that's the best part about returning customers.
+[00:37:42.070 --> 00:37:46.210] And the best part about running businesses that have returning customers is that.
+[00:37:46.430 --> 00:37:50.410] I guess what I'm saying is, let's say 100 people purchased August 2021.
+[00:37:50.650 --> 00:37:54.430] You can tell how many people have purchased again – how many of those 100 people have
+[00:37:54.430 --> 00:37:57.150] purchased again using the Shopify Analytics dashboard without exporting.
+[00:37:57.990 --> 00:37:58.530] Without anything else.
+[00:37:58.710 --> 00:38:02.950] Yeah, because there is literally a section in the admin that says returning customers or
+[00:38:02.950 --> 00:38:03.610] your best customers.
+[00:38:03.750 --> 00:38:07.790] But you're suggesting actually that that is missing some input, some variable.
+[00:38:07.890 --> 00:38:09.250] Yeah, we'll get into more detail about it.
+[00:38:09.250 --> 00:38:10.290] I'll get into more detail about it.
+[00:38:10.670 --> 00:38:13.130] But I guess here's – so I think analytics is super helpful.
+[00:38:13.310 --> 00:38:13.870] Salesforce, yeah.
+[00:38:14.050 --> 00:38:17.450] And I think the reason that Triple Whale and NorthBeam and all the analytics solutions
+[00:38:17.450 --> 00:38:23.090] are on fire as businesses is because people are saying, hey, I'm missing this from a
+[00:38:23.090 --> 00:38:23.790] Shopify perspective.
+[00:38:24.030 --> 00:38:26.730] But just to be clear, though, because I know we're not talking about just partnerships
+[00:38:26.730 --> 00:38:27.310] here in general.
+[00:38:27.470 --> 00:38:31.890] But one of the things I do want to point out is that that actually is functioning kind of
+[00:38:31.890 --> 00:38:36.910] the way we want it to, which is that we want to create software where it pretty much
+[00:38:36.910 --> 00:38:39.890] gives most people most of the time everything they need.
+[00:38:40.230 --> 00:38:44.490] For more of the power users or more of the pro users or more of the plus users or whatever
+[00:38:44.490 --> 00:38:47.930] you want to call them, shop 80% of what you need you get out of the box.
+[00:38:47.930 --> 00:38:48.630] It's world class.
+[00:38:48.950 --> 00:38:54.410] I mean, that's everything from all the stuff that like the storefront, that's inventory,
+[00:38:54.650 --> 00:38:55.790] that's the way you do checkout.
+[00:38:55.970 --> 00:38:57.650] That is the stuff that really, really matters.
+[00:38:58.470 --> 00:39:01.790] That last 20% is going to be very unique to every particular business.
+[00:39:01.790 --> 00:39:06.570] And actually, not only do we want to encourage third parties to build on it, we love that
+[00:39:06.570 --> 00:39:07.670] those third parties do.
+[00:39:07.850 --> 00:39:08.050] Of course.
+[00:39:08.110 --> 00:39:13.330] In 2021, Shopify did approximately, I don't know, $5 billion in revenue.
+[00:39:13.690 --> 00:39:16.510] Our partners did $32 billion in revenue.
+[00:39:16.830 --> 00:39:19.630] Our partner ecosystem employs something in the neighborhood.
+[00:39:19.710 --> 00:39:21.130] I actually wrote this down because it's such an amazing number.
+[00:39:21.450 --> 00:39:24.870] Something in the neighborhood of 650,000 people in the Shopify ecosystem.
+[00:39:25.130 --> 00:39:30.570] In many ways, now, that being said, if there are deficiencies in the product, we obviously
+[00:39:30.570 --> 00:39:31.650] want to fix those things too.
+[00:39:31.870 --> 00:39:36.450] But what you're describing, Moise, is that ultimately, I want to have partners build on
+[00:39:36.450 --> 00:39:39.630] top of the platform because it extends the platform.
+[00:39:39.730 --> 00:39:42.710] And it means that every single person has 100% product market fit.
+[00:39:43.030 --> 00:39:48.090] Now, sometimes, and maybe we'll get to this also, there's something that a third party
+[00:39:48.090 --> 00:39:52.870] has built for us that actually, because it's a dynamic definition of what most merchants
+[00:39:52.870 --> 00:39:53.490] need most of the time.
+[00:39:53.630 --> 00:39:56.050] It becomes something that actually should be built into core.
+[00:39:56.150 --> 00:39:57.730] And then we will begin to build.
+[00:39:57.730 --> 00:40:00.850] I mean, Shopify email, for example, is a good example of that.
+[00:40:00.930 --> 00:40:04.470] For a long time, we relied entirely on third party for email marketing.
+[00:40:04.750 --> 00:40:08.250] And there was a particular point where we realized there are some staples of email marketing that
+[00:40:08.250 --> 00:40:09.310] everyone wants to use.
+[00:40:09.410 --> 00:40:10.550] And so we built Shopify email.
+[00:40:10.790 --> 00:40:13.910] There's still lots of space in the email marketing world for Klaviyos and tons of other
+[00:40:13.910 --> 00:40:14.830] companies to build on top of.
+[00:40:14.950 --> 00:40:16.530] But we have to do that really, really well.
+[00:40:16.670 --> 00:40:20.670] In the case of analytics, maybe that falls into the category as well.
+[00:40:20.810 --> 00:40:25.270] But someone building, like triple whale building on top of Shopify is actually how it's intended.
+[00:40:25.670 --> 00:40:26.950] I couldn't agree more with that.
+[00:40:27.110 --> 00:40:29.290] And I guess, when is that, Mark?
+[00:40:29.530 --> 00:40:31.050] Like, when do you think?
+[00:40:31.370 --> 00:40:35.850] One question I have is like, so you know that like the First Amendment in the US is like,
+[00:40:35.950 --> 00:40:38.930] you have freedom of speech until it imposes on somebody else's freedom of speech.
+[00:40:39.470 --> 00:40:42.870] And I think where Moyes is going to is like, where's the limit for that?
+[00:40:42.970 --> 00:40:47.850] For example, with Recharge, they provide subscription, they charge a monthly fee, and then they charge
+[00:40:47.850 --> 00:40:49.070] a per transaction fee.
+[00:40:49.070 --> 00:40:54.390] Like, where's the limit until where Shopify says, okay, if there's 10,000 merchants paying
+[00:40:54.390 --> 00:41:00.790] 500 bucks a month and 20 cents for every transaction and 1% for every transaction, that's not arming
+[00:41:00.790 --> 00:41:01.830] the rebels in my opinion.
+[00:41:02.290 --> 00:41:02.970] What do you think?
+[00:41:03.210 --> 00:41:05.390] Okay, so subscriptions is a good example.
+[00:41:05.550 --> 00:41:07.670] In 2020, we announced our subscriptions API.
+[00:41:07.950 --> 00:41:12.810] I think it was at, or it was reunited sort of in the middle of COVID or at the onset of COVID.
+[00:41:13.230 --> 00:41:18.870] But today, sitting here in September 2022, there are, I think, like a dozen subscription
+[00:41:18.870 --> 00:41:19.590] apps built on top.
+[00:41:19.790 --> 00:41:23.270] Now, I won't necessarily speak to all the price amount of all of them, because I'm not
+[00:41:23.270 --> 00:41:24.530] aware of how everyone prices.
+[00:41:24.890 --> 00:41:31.330] But fundamentally, that's kind of the idea, is that we have this incredible place, platform,
+[00:41:31.530 --> 00:41:34.490] API, whatever you want to call it, where these third parties can come and build on top
+[00:41:34.490 --> 00:41:34.670] of.
+[00:41:34.810 --> 00:41:37.190] And you may not want to use one of them because it's too expensive for you.
+[00:41:37.270 --> 00:41:41.030] But maybe there's a piece of functionality in that particular example you just gave that
+[00:41:41.030 --> 00:41:45.090] some merchants really, really want, and they're willing to pay for it.
+[00:41:45.270 --> 00:41:48.230] In other cases, other merchants may say, that is way too expensive.
+[00:41:48.430 --> 00:41:52.030] Either I'm going to build some sort of private app for myself, or I'm going to find an app
+[00:41:52.030 --> 00:41:52.910] that is less expensive.
+[00:41:53.070 --> 00:41:58.570] But providing that variety and optionality in the app ecosystem is how it's designed to
+[00:41:58.570 --> 00:41:58.890] operate.
+[00:41:59.110 --> 00:42:02.010] Now, to answer your question directly, there is a threshold.
+[00:42:02.290 --> 00:42:03.550] You know, I mentioned email marketing before.
+[00:42:03.690 --> 00:42:09.090] Email marketing is a good example of that, because the threshold was most merchants most of
+[00:42:09.090 --> 00:42:11.830] the time needed basic functionality around email marketing.
+[00:42:12.090 --> 00:42:15.610] That was the threshold for us to say, let's start building it.
+[00:42:16.150 --> 00:42:18.490] And prior to that, we just weren't seeing that as much.
+[00:42:18.550 --> 00:42:20.670] It just wasn't as prevalent, so we relied on third parties.
+[00:42:20.830 --> 00:42:25.850] But even in the case of email marketing, we still left so much room and so much space in
+[00:42:25.850 --> 00:42:27.150] the ecosystem for third parties.
+[00:42:27.350 --> 00:42:30.410] Like, all these email marketing companies are still doing very, very well.
+[00:42:30.510 --> 00:42:31.710] That is very much intentional.
+[00:42:31.930 --> 00:42:36.230] So the threshold is, it's not necessarily a particular number or a particular percentage
+[00:42:36.230 --> 00:42:36.790] of merchants.
+[00:42:36.790 --> 00:42:38.810] It's just, we have a really good feedback.
+[00:42:38.950 --> 00:42:43.650] The reason, like, I come on these podcasts and I speak to both of you regularly on Twitters,
+[00:42:43.830 --> 00:42:47.970] I think we have a really good feedback cycle, more so than most companies we actually listen.
+[00:42:48.210 --> 00:42:52.790] And you can sort of tell both from analytics and data, but also anecdotally, okay, this
+[00:42:52.790 --> 00:42:54.150] has now jumped the threshold.
+[00:42:54.310 --> 00:42:55.690] It is now something we have to build ourselves.
+[00:42:55.890 --> 00:42:56.130] Got it.
+[00:42:56.270 --> 00:42:59.010] I'll tell you from my perspective, and I think from a lot of e-commerce perspective,
+[00:42:59.190 --> 00:43:00.150] first, that's fantastic.
+[00:43:00.390 --> 00:43:03.270] I'm glad that you're listening to consumers like that and merchants like that.
+[00:43:03.390 --> 00:43:03.870] That's amazing.
+[00:43:03.870 --> 00:43:06.450] Um, and we really appreciate it.
+[00:43:06.510 --> 00:43:12.750] Uh, but I would say that you're probably 18 months to two years too late for most merchants
+[00:43:12.750 --> 00:43:14.430] who have those hair on fire problems.
+[00:43:14.490 --> 00:43:18.690] Like the subscription app platform, uh, when you open up the subscriptions, that was amazing.
+[00:43:18.930 --> 00:43:20.790] There are a bunch of different competitors now.
+[00:43:20.970 --> 00:43:24.050] I think everyone would love Shopify to build their own.
+[00:43:24.050 --> 00:43:27.570] And I'm not, you know, when I, um, how long, when was the first iPhone you bought?
+[00:43:28.230 --> 00:43:28.850] Oh, I don't know.
+[00:43:28.910 --> 00:43:29.550] Probably 2011.
+[00:43:29.770 --> 00:43:30.910] Do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I,
+[00:43:30.910 --> 00:43:32.130] I bought the first one that came out.
+[00:43:32.270 --> 00:43:35.910] I remember waiting in line and paying like, you know, Steve Jobs announced it and I went
+[00:43:35.910 --> 00:43:36.310] and got it.
+[00:43:36.430 --> 00:43:37.430] I'd like, it's like 07, I think.
+[00:43:37.510 --> 00:43:37.670] Yeah.
+[00:43:37.770 --> 00:43:38.970] I think it was 06.
+[00:43:39.170 --> 00:43:39.290] Yeah.
+[00:43:39.350 --> 00:43:40.150] It was so much money.
+[00:43:40.350 --> 00:43:43.850] And at that time you had to download an app for 99 cents or a couple of years later to
+[00:43:43.850 --> 00:43:44.510] have a flashlight.
+[00:43:44.910 --> 00:43:49.450] And today there's a, all those flashlight apps are dead and the flashlight works and it's
+[00:43:49.450 --> 00:43:50.850] natively integrated into the iPhone.
+[00:43:51.230 --> 00:43:53.930] And I think no one blames Apple for natively integrating.
+[00:43:53.950 --> 00:43:54.630] No, I agree with that.
+[00:43:54.730 --> 00:43:57.810] Actually, although you're, that's a really good example, which is that I had a flashlight
+[00:43:57.810 --> 00:43:58.070] app.
+[00:43:58.170 --> 00:44:00.970] In fact, I had a flashlight app that did a strobe light cause I used to DJ.
+[00:44:01.170 --> 00:44:03.350] And so when I had to have house parties, I'd actually use it.
+[00:44:03.850 --> 00:44:07.550] Um, I actually wish there were still some flashlight apps for different use cases.
+[00:44:07.570 --> 00:44:11.110] Like I would love one that actually somehow figured out a way to change color or provided,
+[00:44:11.130 --> 00:44:14.750] um, I have a six year old and she, there's a really great book that we read together
+[00:44:14.750 --> 00:44:17.770] whereby I attach like a viewfinder on my flashlight.
+[00:44:18.110 --> 00:44:19.190] Uh, have you seen these sorts of things?
+[00:44:19.190 --> 00:44:21.490] They sort of clip on and you sort of present something on the ceiling.
+[00:44:21.810 --> 00:44:22.510] It's really, really cool.
+[00:44:22.670 --> 00:44:27.190] But actually those require different types of like flashlights and different strobing,
+[00:44:27.390 --> 00:44:30.090] which is totally possible with the hardware doesn't exist anymore.
+[00:44:30.350 --> 00:44:34.410] So actually in that, in that particular case, and the flashlight is, is an obvious one
+[00:44:34.410 --> 00:44:37.330] because like most people like don't really need anything beyond that.
+[00:44:37.710 --> 00:44:42.890] But the email marketing thing is perfect because what you really want that, that, you know,
+[00:44:42.950 --> 00:44:46.190] to use your metaphor of the flashlight, the flashlight is built into Shopify.
+[00:44:46.530 --> 00:44:49.990] But if you want to do some other things that are completely different, or you want to do
+[00:44:49.990 --> 00:44:54.810] batch emails, or you want to do some sort of segmented discounting, you can do that on
+[00:44:54.810 --> 00:44:55.150] Shopify.
+[00:44:55.150 --> 00:44:57.430] And I'm not sure most merchants need that most of the time.
+[00:44:57.690 --> 00:45:01.530] And the risk of it is that fundamentally, if we build everything into the, to the core
+[00:45:01.530 --> 00:45:07.030] product, Shopify becomes so complicated that you don't have like, I don't know this for
+[00:45:07.030 --> 00:45:08.270] a fact, but I'm just going to say this.
+[00:45:08.770 --> 00:45:12.390] I'll say this now and, and, and someone could, you know, John Donahoe or someone from Nike
+[00:45:12.390 --> 00:45:13.030] can correct me.
+[00:45:13.270 --> 00:45:19.770] I suspect at some point in a Nike board meeting, someone brought up Gymshark at some point,
+[00:45:20.050 --> 00:45:21.310] maybe it was a story comment, right?
+[00:45:21.910 --> 00:45:22.130] Okay.
+[00:45:22.390 --> 00:45:26.690] That is a company that did not exist a decade ago that is now being brought up as a potential
+[00:45:26.690 --> 00:45:28.590] threat in a Nike board meeting.
+[00:45:28.830 --> 00:45:34.110] The reason that Ben and Noel and that team was able to build Gymshark is not, not because
+[00:45:34.110 --> 00:45:37.590] of Shopify, but what Shopify enabled, they, they built it because they're really good
+[00:45:38.270 --> 00:45:42.570] but Shopify enabled was at the right time, we delivered the right product to them and we
+[00:45:42.570 --> 00:45:43.350] didn't confuse them.
+[00:45:43.570 --> 00:45:44.410] We didn't overwhelm them.
+[00:45:44.530 --> 00:45:46.070] We didn't create this sort of paradox of choice.
+[00:45:46.090 --> 00:45:47.530] We said, this is what you need now.
+[00:45:47.710 --> 00:45:48.430] This is what you need now.
+[00:45:48.530 --> 00:45:49.130] And this is what you need now.
+[00:45:49.370 --> 00:45:53.090] And eventually they got to a scale like you have, both of you have where you guys want
+[00:45:53.090 --> 00:45:54.030] full flexibility.
+[00:45:54.250 --> 00:45:58.230] And the reason you're seeing us do things like Shopify functions and things like headless,
+[00:45:58.330 --> 00:46:02.890] like oxygen and hydrogen is because fundamental, we know that there are now users who want
+[00:46:02.890 --> 00:46:07.290] full flexibility, but most merchants, you know, every 60 seconds or so a brand new
+[00:46:07.290 --> 00:46:08.590] entrepreneur gets their very first sale.
+[00:46:08.870 --> 00:46:13.210] And the key to, I think the Shopify story is that we make it really easy to get started.
+[00:46:13.250 --> 00:46:16.610] So we make the important things incredibly easy, but everything else possible.
+[00:46:17.210 --> 00:46:20.690] Sometimes that everything else possible means you do have to build some stuff yourself.
+[00:46:20.890 --> 00:46:25.330] You have to do some research on third-party apps, but that's, that allows us to be the
+[00:46:25.330 --> 00:46:27.970] best place to get started and the best place to scale.
+[00:46:28.430 --> 00:46:29.610] I think that's great.
+[00:46:29.890 --> 00:46:33.370] And I have your notes here, like analytics and sales tracks.
+[00:46:33.570 --> 00:46:36.350] Like I will, like, this is something I will go back to the team about because this
+[00:46:36.350 --> 00:46:38.250] is the type of feedback we need, but just, you know-
+[00:46:38.250 --> 00:46:39.590] University of Ottawa is a very good law school.
+[00:46:40.250 --> 00:46:47.190] Maybe, but there is, thank you for saying that, but there is truly value in having this
+[00:46:47.190 --> 00:46:50.450] ability to stretch up market, not necessarily shift up market.
+[00:46:50.650 --> 00:46:55.830] If you look at every other platform that saw sort of the up market as being incredibly valuable,
+[00:46:55.890 --> 00:46:59.370] which it is, and has shifted, they missed out on the most important thing, which is where
+[00:46:59.370 --> 00:47:00.050] do people get started?
+[00:47:00.330 --> 00:47:01.610] I couldn't agree more with that.
+[00:47:01.610 --> 00:47:06.450] And I guess the way I'm trying to think about it is what are, uh, what is you like, what
+[00:47:06.450 --> 00:47:07.450] is universally needed?
+[00:47:07.630 --> 00:47:09.450] I'm talking about universality and-
+[00:47:09.450 --> 00:47:10.710] Checkout is universality, right?
+[00:47:10.810 --> 00:47:11.370] Yeah, checkout is universality.
+[00:47:11.370 --> 00:47:14.230] You're going to have the most beautiful storefront is universally important.
+[00:47:14.590 --> 00:47:19.390] The, the, the fact you have to have a fast, uh, online store that operates quickly, that's
+[00:47:19.390 --> 00:47:24.810] universal, but sales taxes in America, one is not universal because a lot of people have
+[00:47:24.810 --> 00:47:25.850] third parties helping with it.
+[00:47:26.050 --> 00:47:28.150] Uh, in other cases they're below the threshold.
+[00:47:28.150 --> 00:47:31.910] In other cases, they're not selling in the U S so that is not universal, but it should
+[00:47:31.910 --> 00:47:32.510] be made easier.
+[00:47:32.690 --> 00:47:33.690] And so point taken.
+[00:47:33.830 --> 00:47:33.950] Okay.
+[00:47:34.110 --> 00:47:38.890] I think analytics is somewhat universal and I'll tell you why it's not necessarily because
+[00:47:38.890 --> 00:47:41.330] these people don't really like the solutions are not available.
+[00:47:41.410 --> 00:47:42.510] Triple will is available.
+[00:47:42.710 --> 00:47:45.610] And, and, and, and by the way, a bunch of other people just dump all their analytics
+[00:47:45.610 --> 00:47:48.850] into like a tap, like something else anyways, and they want to do it themselves too.
+[00:47:49.110 --> 00:47:53.510] But, but, but it should be, the analytics should be like so good that you shouldn't have
+[00:47:53.510 --> 00:47:56.010] to use anything else until you get to a particular point.
+[00:47:56.010 --> 00:48:01.450] I think we're really where I'm coming from is, um, you know, the way I built native was
+[00:48:01.450 --> 00:48:04.650] I would constantly go to better websites and be like, what are these guys doing?
+[00:48:04.750 --> 00:48:05.490] Cause they're spending money.
+[00:48:05.650 --> 00:48:05.670] Sure.
+[00:48:05.970 --> 00:48:09.810] And, uh, what, what, like, how do I, um, do the same conversion rate optimization?
+[00:48:10.030 --> 00:48:10.090] That's right.
+[00:48:10.230 --> 00:48:12.310] How do I understand the analytics that they're talking about?
+[00:48:12.590 --> 00:48:16.310] And I think, uh, that, that was easier for me because we had some investors who were
+[00:48:16.310 --> 00:48:20.110] based in San Francisco and surrounded by a bunch of other entrepreneurs, but it's more
+[00:48:20.110 --> 00:48:24.550] difficult for the, uh, guy who runs a Shopify store in Omaha, Nebraska.
+[00:48:24.550 --> 00:48:26.090] And he says analytics.
+[00:48:26.530 --> 00:48:28.910] I didn't know that this was, you don't know what you don't know.
+[00:48:29.030 --> 00:48:30.930] And I didn't know these analytics were important.
+[00:48:31.170 --> 00:48:35.830] I didn't know that I should email my customers 120 days after they purchase because they're
+[00:48:35.830 --> 00:48:37.910] most likely to place a second purchase then.
+[00:48:38.050 --> 00:48:38.170] Yes.
+[00:48:38.390 --> 00:48:41.150] But, but that's just starting to interrupt you, but, but that is the reason why in
+[00:48:41.150 --> 00:48:46.650] your admin, you see this beautiful block that says, these are your best customers.
+[00:48:46.830 --> 00:48:47.670] You should send them an email.
+[00:48:47.970 --> 00:48:51.990] Now that doesn't necessarily work when you're at a particular skill because now you have thousands
+[00:48:51.990 --> 00:48:56.150] of best customers and stuff like that also, but that entry, that gateway into entrepreneurship,
+[00:48:56.150 --> 00:48:57.490] we're trying to make it really easy.
+[00:48:57.750 --> 00:48:59.670] But I think you guys have done a fantastic job with that.
+[00:48:59.710 --> 00:49:00.910] I'm not trying to say you haven't done that.
+[00:49:00.910 --> 00:49:01.170] It has to scale better.
+[00:49:01.410 --> 00:49:01.570] Yeah.
+[00:49:01.630 --> 00:49:05.570] I'm trying to say that you look that, uh, the bottom, the person who has an idea in
+[00:49:05.570 --> 00:49:09.170] their shower comes to Shopify and is incredibly happy with Shopify.
+[00:49:09.590 --> 00:49:12.530] Uh, and I'm not trying to say that you're not servicing them.
+[00:49:12.710 --> 00:49:15.410] You're servicing them better than they could have ever imagined.
+[00:49:15.430 --> 00:49:17.510] Like they're going to get out of the shower and be like, holy cow.
+[00:49:17.510 --> 00:49:18.170] I did not realize.
+[00:49:18.430 --> 00:49:18.710] Can we do better?
+[00:49:19.070 --> 00:49:20.010] We absolutely can do better.
+[00:49:20.070 --> 00:49:23.630] I think once they start scaling a little bit, they're like, wow, there's, I don't know what
+[00:49:23.630 --> 00:49:24.070] I don't know.
+[00:49:24.170 --> 00:49:25.750] And here, like, I'll give you one more example.
+[00:49:26.090 --> 00:49:31.750] Um, when native, uh, launched, we were on WooCommerce and, uh, we created, why did you
+[00:49:31.750 --> 00:49:32.410] decide WooCommerce?
+[00:49:32.770 --> 00:49:34.050] Um, a couple of reasons.
+[00:49:34.250 --> 00:49:34.950] One, it was free.
+[00:49:35.250 --> 00:49:37.150] Uh, and two, it was more customizable.
+[00:49:37.390 --> 00:49:41.590] And this is exactly the, here's, let me tell you what literally changed the business.
+[00:49:41.910 --> 00:49:44.770] Um, and made me, uh, well, let me just get into the details.
+[00:49:44.770 --> 00:49:48.570] Uh, one time we decided to launch a post-purchase upsell.
+[00:49:48.930 --> 00:49:51.170] And so what would happen is you've completed checkout.
+[00:49:51.550 --> 00:49:53.390] I've got all of your, uh, payment information.
+[00:49:53.410 --> 00:49:54.750] I've got your Stripe token.
+[00:49:54.990 --> 00:49:55.930] I've got your address.
+[00:49:56.490 --> 00:49:58.870] Um, there, you can't do anything to back out of the order.
+[00:49:58.890 --> 00:49:59.870] And you already know what they purchased.
+[00:49:59.990 --> 00:50:00.310] Most important.
+[00:50:00.390 --> 00:50:01.310] I've already know what they purchased.
+[00:50:01.450 --> 00:50:05.590] And now what I do is I say, hey, uh, buy a travel size deodorant for $3.
+[00:50:06.330 --> 00:50:08.470] I'm already shipping this package to this customer.
+[00:50:08.630 --> 00:50:10.970] So the travel size deodorant costs me 70 cents.
+[00:50:11.110 --> 00:50:11.210] Yeah.
+[00:50:11.330 --> 00:50:12.750] It doesn't cost me more than 70 cents.
+[00:50:13.090 --> 00:50:13.350] It's very little.
+[00:50:13.490 --> 00:50:14.630] It's just the 70 cents.
+[00:50:14.770 --> 00:50:17.330] Um, and then I've got your Stripe token.
+[00:50:17.530 --> 00:50:18.570] And so I'm sitting on that.
+[00:50:19.250 --> 00:50:19.870] Yeah, exactly.
+[00:50:20.090 --> 00:50:25.150] And so I can either like, you know, I'm going to be charged 2.9% of that 70 cents, but I'm
+[00:50:25.150 --> 00:50:26.870] not going to pay another 30 cent transaction fee.
+[00:50:27.030 --> 00:50:29.170] And so, uh, I'm sitting on this.
+[00:50:29.250 --> 00:50:31.910] Uh, and so native launched us on WooCommerce.
+[00:50:32.210 --> 00:50:39.070] We probably did $500,000 of sales on these travel sizes a month, uh, which was, uh, you
+[00:50:39.070 --> 00:50:41.570] know, generating us $300,000 in EBITDA.
+[00:50:41.570 --> 00:50:46.830] Uh, out of our $800,000 in EBITDA, $300,000 was coming from this post-purchase upsell,
+[00:50:46.950 --> 00:50:49.170] which was, uh, you know, a godsend.
+[00:50:49.230 --> 00:50:49.670] Yes, of course.
+[00:50:49.830 --> 00:50:51.010] You know, and that was per month.
+[00:50:51.130 --> 00:50:53.050] I was just like, this thing is making us a fortune.
+[00:50:53.590 --> 00:50:55.870] And it was because we could do a post-purchase upsell.
+[00:50:56.150 --> 00:50:59.570] And the reason I found out about it was because I was networking with a bunch of e-commerce
+[00:50:59.570 --> 00:51:00.910] entrepreneurs and trying to figure this out.
+[00:51:01.030 --> 00:51:05.490] But if I was in Omaha, Nebraska, or at University of Florida, sitting in class trying to create
+[00:51:05.490 --> 00:51:07.290] a product, I would not have thought about this.
+[00:51:07.390 --> 00:51:10.210] But if Shopify had been like, hey, we have this post-purchase upsell, it's really easy
+[00:51:10.210 --> 00:51:10.670] to integrate.
+[00:51:10.970 --> 00:51:14.010] Just decide what product you want to, like, what do they buy and what product you want to
+[00:51:14.010 --> 00:51:14.570] sell to them?
+[00:51:14.970 --> 00:51:15.290] Yeah.
+[00:51:15.450 --> 00:51:18.150] Although I, I, so by the way, it's, it's, it's, it's, it's incredible.
+[00:51:18.150 --> 00:51:20.790] The Airbnb goes up 1% by having the right post-purchase.
+[00:51:20.970 --> 00:51:21.070] Yeah.
+[00:51:21.270 --> 00:51:22.710] 1% across all merchants.
+[00:51:22.910 --> 00:51:23.510] The only I will.
+[00:51:23.510 --> 00:51:25.950] And I'll bet you $1,000 today that that happens if you integrate it.
+[00:51:26.010 --> 00:51:27.050] What I, what I.
+[00:51:27.070 --> 00:51:27.550] 10,000 actually.
+[00:51:27.630 --> 00:51:30.870] What I actually, the only I disagree with on that is, is I actually don't think the
+[00:51:30.870 --> 00:51:34.370] person in Nebraska or in Gainesville, is that where it is?
+[00:51:34.870 --> 00:51:36.470] Is Gainesville is at a disadvantage.
+[00:51:36.630 --> 00:51:41.950] I actually think one of the best parts of a building right now is that the, like, we've
+[00:51:41.950 --> 00:51:43.970] all been friends and yet we never met each other.
+[00:51:44.170 --> 00:51:44.290] Yeah.
+[00:51:44.430 --> 00:51:47.970] And so less and less do I actually think cities make it, give you an advantage.
+[00:51:48.150 --> 00:51:51.710] I think maybe you had more, like you can hire more engineers that are local here, but, but
+[00:51:51.710 --> 00:51:55.310] I, so I'm not sure I fully agree on sort of that, that locality geography matters, but
+[00:51:55.310 --> 00:51:59.590] I do absolutely agree that there's a particular point where post-purchase upsell is really,
+[00:51:59.670 --> 00:52:01.810] really important, but that's why the app store exists.
+[00:52:01.930 --> 00:52:02.110] Yeah.
+[00:52:02.110 --> 00:52:05.670] So you can come to Shopify and say, there's a particular thing I want that doesn't come
+[00:52:05.670 --> 00:52:08.810] out of the box, but you have full extensibility and that matters.
+[00:52:08.970 --> 00:52:12.570] Now there's probably going to be a point where let's just say post-purchase upsell becomes
+[00:52:12.570 --> 00:52:14.510] a thing that everybody wants all the time.
+[00:52:14.730 --> 00:52:16.670] We will likely start building that into Shopify.
+[00:52:17.030 --> 00:52:20.810] Instead, we now make the checkout a lot more extensible so that you can play with that.
+[00:52:20.970 --> 00:52:23.930] But there's also something that we haven't really talked about, which is sort of this
+[00:52:23.930 --> 00:52:25.330] idea of like opinionated software.
+[00:52:25.730 --> 00:52:29.350] And I just, I have to sort of spend a second on this because there's sort of two ways
+[00:52:29.350 --> 00:52:33.750] to look at shop if I say like the product and say, well, you don't do these sort of
+[00:52:33.750 --> 00:52:33.970] things.
+[00:52:34.130 --> 00:52:35.630] You, you, you rely on third parties.
+[00:52:35.690 --> 00:52:39.030] And I can say, well, we like that because third parties allow us to extend the platform
+[00:52:39.030 --> 00:52:41.690] in ways we never would have thought it means everyone gets product market fit.
+[00:52:41.690 --> 00:52:45.830] But there also is this thing about when you build opinionated software, if you do it for
+[00:52:45.830 --> 00:52:47.490] the right reasons, it's actually really valuable.
+[00:52:47.730 --> 00:52:53.110] What I mean by that is if too early on in someone's journey as a merchant, as an entrepreneur,
+[00:52:53.810 --> 00:52:58.030] if what would happen is we would give them too much customization or something like checkout,
+[00:52:58.510 --> 00:53:00.810] a lot of people would break the checkout or worse.
+[00:53:00.990 --> 00:53:01.270] Sure.
+[00:53:01.290 --> 00:53:02.790] If you break the checkout, you know, things happen.
+[00:53:02.930 --> 00:53:03.030] Yeah.
+[00:53:03.170 --> 00:53:03.410] You don't fix it.
+[00:53:03.590 --> 00:53:07.110] What's way worse is that you, you, you don't optimize it properly.
+[00:53:07.110 --> 00:53:11.970] In fact, it's, it's at a point where you're making sales, but you are losing so much opportunity.
+[00:53:12.290 --> 00:53:15.910] And those are some of the things where when you're a big company, when you're native, you
+[00:53:15.910 --> 00:53:18.690] know, you can go in with your team and you can say, look, I'm going to make some changes
+[00:53:18.690 --> 00:53:19.690] here and it's all going to be fixed.
+[00:53:19.850 --> 00:53:23.510] When you're a small business, that may be the difference between actually succeeding
+[00:53:23.510 --> 00:53:24.110] or not succeeding.
+[00:53:24.330 --> 00:53:28.190] And so there are certain areas of Shopify that you've seen that are incredibly opinionated.
+[00:53:28.790 --> 00:53:31.850] Opinionated is really important because it means we want to lead people to make really
+[00:53:31.850 --> 00:53:33.150] good decisions to build their business.
+[00:53:33.150 --> 00:53:37.310] But the key to it is that there's an asterisk after that census, which is, but also allow
+[00:53:37.310 --> 00:53:39.810] them full extensibility where they can build it themselves.
+[00:53:40.530 --> 00:53:44.570] So what we're talking about here, I think is a really important philosophical aspect of
+[00:53:44.570 --> 00:53:48.410] the Shopify product, which is we want people to be successful.
+[00:53:48.570 --> 00:53:50.450] We want to help them make really, really good decisions.
+[00:53:50.590 --> 00:53:55.270] But at a particular point, what's cool about the software is that it opens up so that you
+[00:53:55.270 --> 00:53:57.970] can do all types of gnarly, interesting, unique things.
+[00:53:58.310 --> 00:54:00.070] But sometimes you do have to do it on your own.
+[00:54:00.070 --> 00:54:04.210] And I think over time, you will see the product get better in doing those things on your own.
+[00:54:04.450 --> 00:54:05.390] We'll help guide you more.
+[00:54:05.790 --> 00:54:10.030] Things like analytics, for example, where most people get most of what they need from analytics.
+[00:54:10.550 --> 00:54:12.630] But you're an e-commerce pro.
+[00:54:12.810 --> 00:54:17.930] You guys are both Olympians in this sort of sport that we call modern retail, modern entrepreneurship.
+[00:54:18.210 --> 00:54:23.370] And for you, you need to read API docs and you have to go build custom apps.
+[00:54:23.470 --> 00:54:27.990] And that doesn't always feel great, but it allows us to do both things, which is make it really
+[00:54:27.990 --> 00:54:29.830] easy to get started and then make it fully extensible.
+[00:54:30.070 --> 00:54:35.910] What percentage of merchants today have done less than 10 million or less than 1 million
+[00:54:35.910 --> 00:54:36.390] in revenue?
+[00:54:36.550 --> 00:54:37.470] We don't break it out like that.
+[00:54:37.650 --> 00:54:37.810] Okay.
+[00:54:37.990 --> 00:54:38.070] Yeah.
+[00:54:38.590 --> 00:54:38.650] Yeah.
+[00:54:38.830 --> 00:54:42.150] And the reason we don't break it out like that is because, I mean, you know, the GMV of Shopify
+[00:54:42.150 --> 00:54:46.370] is last year, 600 million consumers bought off a Shopify store.
+[00:54:46.430 --> 00:54:51.550] We're about to eclipse, I think, $500 billion in total GMV on the platform, lifetime GMV on the
+[00:54:51.550 --> 00:54:51.910] platform.
+[00:54:52.110 --> 00:54:54.850] But the reason we don't break it out that way, and this is actually really, really important.
+[00:54:55.570 --> 00:54:59.030] We're all very ambitious, and I think most people on Shopify are very ambitious.
+[00:54:59.450 --> 00:55:03.490] But often what I find companies do when they do this, I think this is a bad thing to do
+[00:55:03.490 --> 00:55:08.270] is they basically say, well, they're making, that customer is doing $20,000 and therefore
+[00:55:08.270 --> 00:55:09.070] it's not working.
+[00:55:09.350 --> 00:55:13.170] For a lot of people, the reason they set up a store on Shopify, one is they just want to
+[00:55:13.970 --> 00:55:17.630] experiment or they want to, you know, they want to supplement their income or they want
+[00:55:17.630 --> 00:55:20.930] to be able to put a little more food in their table or they want to, you know, take their
+[00:55:20.930 --> 00:55:23.450] side hustle from a hobby and commercialize it a little bit more.
+[00:55:23.610 --> 00:55:24.810] And so we don't break it out in that way.
+[00:55:25.010 --> 00:55:29.650] We have over 14,000 merchants on Shopify Plus and the rest are kind of the long tail,
+[00:55:29.790 --> 00:55:30.210] the platform.
+[00:55:30.750 --> 00:55:36.010] The cool part is we are seeing a lot more merchants get big much faster, which I think speaks
+[00:55:36.010 --> 00:55:39.250] to not just the idea of Shopify, but what is happening right now in direct to consumer.
+[00:55:39.990 --> 00:55:40.390] Yeah.
+[00:55:40.930 --> 00:55:42.450] I think you're right about all that.
+[00:55:42.650 --> 00:55:47.050] And, you know, there's on Instagram, once you get 10,000 followers, and I know this from
+[00:55:47.050 --> 00:55:51.170] native, like they open up a lot more options to you because they're like, look, you must
+[00:55:51.170 --> 00:55:51.910] be sophisticated.
+[00:55:52.130 --> 00:55:53.190] You're using this platform.
+[00:55:53.510 --> 00:55:53.530] Yeah.
+[00:55:53.530 --> 00:55:56.150] Like, you know, Lincoln, you know, like the Lincoln bio thing.
+[00:55:56.250 --> 00:55:58.630] Now you can actually put the link directly in your story.
+[00:55:58.790 --> 00:55:59.470] That's exactly right.
+[00:55:59.590 --> 00:56:04.030] Although I would say also that in some ways, you know, you also have some scale then you
+[00:56:04.030 --> 00:56:05.110] have more people following you.
+[00:56:05.410 --> 00:56:07.290] Instagram wants you to see obviously more people.
+[00:56:07.290 --> 00:56:10.370] Well, in our case, we want people to move through the journey.
+[00:56:10.470 --> 00:56:11.530] We want people to start.
+[00:56:11.650 --> 00:56:12.970] So this is like a really cool story.
+[00:56:13.070 --> 00:56:15.630] I mean, FIG started with us in 2013 on the basic plan.
+[00:56:16.190 --> 00:56:17.890] 2014, they upgraded to the advanced plan.
+[00:56:18.150 --> 00:56:19.770] 2015, they added Shopify payments.
+[00:56:20.490 --> 00:56:23.490] 17, they added point of sale to some of their pop-ups.
+[00:56:23.790 --> 00:56:29.610] They upgraded to plus, I think, in 2019, added shop pay installments in 2020 and then went
+[00:56:29.610 --> 00:56:30.330] public last year.
+[00:56:30.530 --> 00:56:30.670] Wow.
+[00:56:30.670 --> 00:56:36.730] That journey from like, like literally first sale to full scale and it sounds cheesy.
+[00:56:37.670 --> 00:56:39.890] That is our favorite stories on our platform.
+[00:56:39.990 --> 00:56:40.610] Yeah, that's amazing.
+[00:56:40.950 --> 00:56:45.550] And, and, and, but because of that, the product has to work a particular way, which is always
+[00:56:45.550 --> 00:56:47.030] going to be frustrating sometimes.
+[00:56:48.270 --> 00:56:49.730] But we give a shit about this stuff.
+[00:56:49.830 --> 00:56:53.170] And by the way, like I'm not taking notes just for, for like dramatic effect here.
+[00:56:53.250 --> 00:56:54.390] Like this is real good feedback.
+[00:56:54.410 --> 00:56:54.710] Yeah, great.
+[00:56:54.850 --> 00:56:55.410] I'm glad to hear that.
+[00:56:55.410 --> 00:56:55.570] Yeah.
+[00:56:55.970 --> 00:56:59.150] And the reason that I'm saying that thing about Instagram is you're saying, Hey, look,
+[00:56:59.230 --> 00:57:02.330] we need to protect consumers who want to do this, you know, as a side hustle and make
+[00:57:02.330 --> 00:57:03.150] it really simple for them.
+[00:57:03.270 --> 00:57:06.290] I wonder if there's a place where you're like, this guy got to 5 million in revenue.
+[00:57:06.510 --> 00:57:08.810] Are there other features because he's spending a lot more time on it?
+[00:57:08.810 --> 00:57:08.890] I mean, ultimately.
+[00:57:09.130 --> 00:57:09.810] I don't know what it looks like.
+[00:57:09.970 --> 00:57:10.310] Two things.
+[00:57:10.450 --> 00:57:11.630] I would say functions does that.
+[00:57:11.810 --> 00:57:11.930] Yeah.
+[00:57:12.330 --> 00:57:12.650] Fundamentally.
+[00:57:13.090 --> 00:57:13.630] No pun intended.
+[00:57:13.870 --> 00:57:15.810] And also I think hydrogen does that.
+[00:57:16.090 --> 00:57:20.270] A lot of people want to be able to just do some crazy custom stuff.
+[00:57:20.810 --> 00:57:21.930] You know, think about it like this.
+[00:57:22.670 --> 00:57:26.530] This is how I've always sort of understood this kind of headless hydrogen thing.
+[00:57:27.130 --> 00:57:29.410] Shopify right now is like a bullet train as a product.
+[00:57:29.590 --> 00:57:31.710] It goes from like, you know, have you guys been to Japan?
+[00:57:32.030 --> 00:57:32.130] Yeah.
+[00:57:32.250 --> 00:57:34.010] You've been to like, like the bullet trains are unbelievable.
+[00:57:34.150 --> 00:57:34.710] They're super fast.
+[00:57:35.050 --> 00:57:36.970] And for the most part, they don't get off every stop.
+[00:57:37.110 --> 00:57:38.770] They kind of anticipate where you want to go.
+[00:57:38.930 --> 00:57:42.850] It's like Tokyo to Hokkaido to Osaka, but you're not getting off in small little towns.
+[00:57:42.990 --> 00:57:43.290] Okay.
+[00:57:43.630 --> 00:57:46.390] So that's sort of like Shopify core product.
+[00:57:46.590 --> 00:57:48.010] It's the best of what it does.
+[00:57:48.470 --> 00:57:52.550] There's another version, which is like, you know, out there building your own custom,
+[00:57:52.550 --> 00:57:53.870] you know, headless stack.
+[00:57:54.310 --> 00:57:58.170] And that's kind of like, like you're in the jungle and like you have a machete and you're
+[00:57:58.170 --> 00:57:59.730] trying to like carve your way through the jungle.
+[00:58:00.070 --> 00:58:04.830] What hydrogen does that I think is really neat is it allows you almost to build your own
+[00:58:04.830 --> 00:58:05.810] bullet train.
+[00:58:05.950 --> 00:58:10.930] It allows you to create more stops on that, you know, that Japan metaphor that I'm using.
+[00:58:11.070 --> 00:58:14.430] It allows you to say, I actually want it to go sideways here and this way there.
+[00:58:14.430 --> 00:58:16.270] And so it's the best of both worlds.
+[00:58:16.430 --> 00:58:20.390] It's the best of like the greatest infrastructure, but also for more customization.
+[00:58:20.710 --> 00:58:24.870] And actually I think more and more you'll see some of our biggest brands like Skims is
+[00:58:24.870 --> 00:58:26.030] using hydrogen right now.
+[00:58:26.190 --> 00:58:28.390] Some of the Allbirds sites are using hydrogen now.
+[00:58:28.670 --> 00:58:31.450] I actually went to go look prior to this at some others that are using it too.
+[00:58:31.650 --> 00:58:36.990] So we have some really big stores that are now using hydrogen and they're able to have
+[00:58:36.990 --> 00:58:37.850] full flexibility.
+[00:58:38.070 --> 00:58:41.070] And I think that's a lot what we're talking about right now, which is like, when do you kind
+[00:58:41.070 --> 00:58:41.590] of upgrade there?
+[00:58:41.690 --> 00:58:43.650] And so we want prior to this, we didn't have that.
+[00:58:44.430 --> 00:58:47.710] You wanted headless and we should talk about headless because I think, by the way, this
+[00:58:47.710 --> 00:58:49.710] term is totally ran away from us.
+[00:58:49.810 --> 00:58:54.270] I think that now you have a lot of people selling quote unquote headless and it sounds fancy
+[00:58:54.270 --> 00:58:57.430] and it sounds like it sounds really good for a lot of people.
+[00:58:57.570 --> 00:59:00.830] But actually most merchants would be much better off not using headless system.
+[00:59:00.970 --> 00:59:01.610] Fully agreed.
+[00:59:01.970 --> 00:59:02.930] Let me switch gears.
+[00:59:03.170 --> 00:59:03.330] Sorry.
+[00:59:04.090 --> 00:59:08.510] Just to keep us a little bit on track in terms of apps, which we talked a lot about.
+[00:59:08.610 --> 00:59:09.690] And I appreciate all that context.
+[00:59:09.690 --> 00:59:12.970] Um, and you know, when you say, Hey, we need universality.
+[00:59:13.190 --> 00:59:16.850] And what I think is universality is not, you know, it makes me think, Oh fuck, maybe I
+[00:59:16.850 --> 00:59:17.710] am wrong about all that.
+[00:59:17.830 --> 00:59:18.110] Well, I know.
+[00:59:18.190 --> 00:59:19.210] I mean, actually it's amazing.
+[00:59:19.330 --> 00:59:20.170] You are a power user.
+[00:59:20.290 --> 00:59:25.430] The reason I'm sitting here is because you use Shopify, the stress, the pressure, the requirements
+[00:59:25.430 --> 00:59:26.250] you put on Shopify.
+[00:59:26.250 --> 00:59:29.270] Shopify is fucking amazing because it makes us better.
+[00:59:29.470 --> 00:59:31.510] It makes us think about what are we missing?
+[00:59:32.070 --> 00:59:36.090] Sometimes we, you know, we're in, in our minds building this great software, trying to
+[00:59:36.090 --> 00:59:37.950] figure out how to make it easy, how to make it extensible.
+[00:59:38.210 --> 00:59:43.450] But it's, it's actually like, that is one of the best parts of founder led companies
+[00:59:43.450 --> 00:59:43.990] at scale.
+[00:59:44.190 --> 00:59:47.870] And there's not many of them, but when you were dealing with a founder led company and a
+[00:59:47.870 --> 00:59:51.650] company, I mean, if you look across our, you know, audiences is like, you know, ran
+[00:59:51.650 --> 00:59:55.090] by a founder shop is ran inside of shop is ran by a founder.
+[00:59:55.090 --> 01:00:00.090] Like most of our, uh, our core product is ran by a founder by Glenn Coates who, you
+[01:00:00.090 --> 01:00:01.350] know, created a handshake.
+[01:00:01.650 --> 01:00:05.510] This is a company that is, is founder led built by founders.
+[01:00:05.810 --> 01:00:08.010] And because of that, we really give a shit about this stuff.
+[01:00:08.150 --> 01:00:09.090] Are we going to get it right?
+[01:00:09.210 --> 01:00:12.690] No, we won't always get it right, but that's why this is crystal clear that you care.
+[01:00:13.010 --> 01:00:16.070] Um, so let me ask you one thing about, uh, Shopify apps.
+[01:00:16.390 --> 01:00:20.870] Uh, you know, I've never heard of, we talked about the flashlight example before, uh, and
+[01:00:20.870 --> 01:00:23.210] how Apple, you know, decided to build their own flashlight.
+[01:00:23.210 --> 01:00:24.630] Apple decided to build calendars.
+[01:00:24.750 --> 01:00:25.970] I think a better example than almost right.
+[01:00:26.130 --> 01:00:27.190] There were a ton of these calendar apps.
+[01:00:27.190 --> 01:00:29.230] Now Apple calendar is about as good as it gets.
+[01:00:29.690 --> 01:00:34.090] Um, but I've never heard of Apple really investing in one of their apps.
+[01:00:34.290 --> 01:00:38.110] They buy the apps and I'm not sure if shop, uh, you know, I know Shopify has bought, uh,
+[01:00:38.350 --> 01:00:40.670] several delivery platforms and we'll get to that in a minute.
+[01:00:41.230 --> 01:00:44.290] Does, uh, does Shopify buy apps or do they just invest in apps?
+[01:00:44.350 --> 01:00:44.830] We bought apps.
+[01:00:44.910 --> 01:00:48.550] I mean, um, about Michael Perry's company when he was building a kit.
+[01:00:48.550 --> 01:00:51.570] Uh, we've bought apps before and sometimes it's exactly what we're talking about here.
+[01:00:51.890 --> 01:00:55.250] There are, there's a particular point where that threshold is crossed.
+[01:00:55.510 --> 01:00:56.650] Most merchants most of the time need it.
+[01:00:56.910 --> 01:00:58.170] And then we look at two options.
+[01:00:58.270 --> 01:01:01.890] Option one is we feel like we can build it ourself really, really well.
+[01:01:02.090 --> 01:01:06.150] Option two is there are someone out there that is just doing it so much better than we
+[01:01:06.150 --> 01:01:06.290] are.
+[01:01:06.390 --> 01:01:06.550] Yeah.
+[01:01:06.550 --> 01:01:09.750] And I know we'll talk about shipping a little bit later, but that was the case of deliver.
+[01:01:10.010 --> 01:01:14.630] I mean, we were trying to build delivers fundamentally balancing software to, to anticipate where,
+[01:01:14.770 --> 01:01:18.850] like from, from port to where fulfillment, what fulfillment center it should go to.
+[01:01:19.090 --> 01:01:19.190] Right.
+[01:01:19.410 --> 01:01:21.830] Well, actually before porch, cause there's sort of three phases of fulfillment.
+[01:01:22.610 --> 01:01:25.530] There's factory to port, there's port to fulfillment, and then there's fulfillment
+[01:01:25.530 --> 01:01:25.990] to porch.
+[01:01:26.170 --> 01:01:30.050] So that middle part, which is, it gets to the port of long beach, for example, and has
+[01:01:30.050 --> 01:01:32.430] to figure out where to go from a fulfillment center perspective.
+[01:01:32.850 --> 01:01:34.290] Deliver was doing that better than anyone else.
+[01:01:34.290 --> 01:01:36.430] And so at that point we could have built it ourself.
+[01:01:36.570 --> 01:01:37.210] They were doing it better.
+[01:01:37.370 --> 01:01:38.270] Our merchants were loving it.
+[01:01:38.770 --> 01:01:41.230] Merchants using it, that we're using it, that we're our merchants, we're really enjoying
+[01:01:41.230 --> 01:01:41.390] it.
+[01:01:41.490 --> 01:01:44.290] And also like that was product acceleration.
+[01:01:44.570 --> 01:01:45.310] So that's where we bought it.
+[01:01:45.490 --> 01:01:47.350] In other cases, we like what they're doing.
+[01:01:47.510 --> 01:01:50.370] We want, we believe that app should exist in the world, but it hasn't really crossed the
+[01:01:50.370 --> 01:01:53.630] threshold yet in terms of, do we want to have it part of the core Shopify?
+[01:01:53.850 --> 01:01:55.670] And in those cases we will make an investment.
+[01:01:55.930 --> 01:02:00.510] And then what benefits does a company, aside from cash and possibly like, you know, getting
+[01:02:00.510 --> 01:02:05.690] to text you once in a while, what benefits does a portfolio company of Shopify have?
+[01:02:06.030 --> 01:02:09.470] I mean, in some cases that money is the difference of them continuing or not, right?
+[01:02:09.510 --> 01:02:10.430] They can use that money to hire.
+[01:02:10.670 --> 01:02:13.490] They can use that money to, you know, add more servers.
+[01:02:13.870 --> 01:02:14.450] Cash, cash.
+[01:02:14.710 --> 01:02:14.930] Yeah.
+[01:02:15.110 --> 01:02:15.750] That's a big one.
+[01:02:15.970 --> 01:02:19.310] Another one of this is, I think it can be somewhat of an endorsement to that company
+[01:02:19.310 --> 01:02:20.950] that, hey, what we're doing is really, really good.
+[01:02:21.070 --> 01:02:21.450] Keep going.
+[01:02:21.790 --> 01:02:25.330] And I know that, you know, all these apps in the app store all kind of see the same,
+[01:02:25.410 --> 01:02:27.510] but like in one category, they may all kind of look the same.
+[01:02:27.510 --> 01:02:29.670] But in some cases, these are not huge companies.
+[01:02:29.930 --> 01:02:33.370] These are companies with very, you know, small group of people that are working really, really
+[01:02:33.370 --> 01:02:33.650] hard.
+[01:02:33.750 --> 01:02:36.550] In some cases, they're working like 24-7 to keep this app going.
+[01:02:36.790 --> 01:02:40.450] And an investment from Shopify may be not just the cash they need to survive, but the
+[01:02:40.450 --> 01:02:42.710] endorsement that what they were working on is really, really valuable.
+[01:02:43.330 --> 01:02:43.690] Okay.
+[01:02:43.850 --> 01:02:45.270] I guess, let me ask another example.
+[01:02:45.450 --> 01:02:48.850] So when Shopify invests in Yopo or in Klaviyo.
+[01:02:48.850 --> 01:02:49.830] I was waiting to bring this up.
+[01:02:50.110 --> 01:02:53.990] You know, what should another, like, you know, if I'm building a competitor, if I'm in the
+[01:02:53.990 --> 01:02:59.590] Shopify app store and I'm building a competitor to Klaviyo or Yopo, should I just be like,
+[01:02:59.690 --> 01:03:00.010] you know what?
+[01:03:00.230 --> 01:03:00.530] Fuck it.
+[01:03:00.610 --> 01:03:02.690] They've made their decision and this is it.
+[01:03:02.830 --> 01:03:04.230] Oh, just, I mean, I hope you're not.
+[01:03:04.430 --> 01:03:05.150] Just the opposite.
+[01:03:05.270 --> 01:03:07.670] That would be the most pessimistic reading of that situation.
+[01:03:07.830 --> 01:03:11.770] I would say Shopify actually, if you build a product that is valuable, truly valuable
+[01:03:11.770 --> 01:03:15.250] to the merchants on Shopify that use it, Shopify not only will ensure you have a distribution
+[01:03:15.250 --> 01:03:19.510] channel through the app store, they may even invest in that company, which could
+[01:03:19.510 --> 01:03:20.350] be a really great thing.
+[01:03:20.630 --> 01:03:22.410] There may be companies that say, we don't want your investment.
+[01:03:22.490 --> 01:03:23.290] We don't need your motivation.
+[01:03:23.290 --> 01:03:24.250] We don't need your money.
+[01:03:24.430 --> 01:03:26.230] We actually want to stay independent and that's okay too.
+[01:03:26.370 --> 01:03:30.810] But I would, I hope that that investment, what we're doing with those investments would
+[01:03:30.810 --> 01:03:33.030] be regarded as something incredibly positive for the ecosystem.
+[01:03:33.210 --> 01:03:35.310] You know, even to competitors of that product.
+[01:03:35.530 --> 01:03:40.210] So if you invest in Yopo and I'm building a, you know, I've got a Yopo competitor or if
+[01:03:40.210 --> 01:03:44.650] you invest in Klaviyo and I'm attentive, if you are building a better version of like of
+[01:03:44.650 --> 01:03:50.570] any of these products, number one, the platform itself will reward you for that.
+[01:03:51.050 --> 01:03:51.450] Yeah.
+[01:03:51.450 --> 01:03:54.090] I mean, I don't just mean from ratings or ranking.
+[01:03:54.290 --> 01:03:58.790] I just mean generally the apps that do best are the ones that are the most valuable apps.
+[01:03:58.870 --> 01:04:02.510] And so, um, I mean, I speak, we have more than 8,000 apps in the app store.
+[01:04:02.590 --> 01:04:05.450] I don't know every single app, but I would say that, you know, I've been around for a long
+[01:04:05.450 --> 01:04:05.790] time.
+[01:04:05.790 --> 01:04:09.370] Uh, and, and one of the first things they did at Shopify was actually, you know, help build
+[01:04:09.370 --> 01:04:10.770] this, this app ecosystem.
+[01:04:11.130 --> 01:04:15.970] Um, I would say that the vast majority of apps that I speak to view some of these investments
+[01:04:15.970 --> 01:04:16.990] incredibly positive.
+[01:04:16.990 --> 01:04:19.810] To your point, most companies don't do that.
+[01:04:20.470 --> 01:04:21.090] Don't do what?
+[01:04:21.270 --> 01:04:22.150] Don't invest in there.
+[01:04:22.250 --> 01:04:25.190] I mean, you brought the Apple example and said, Apple didn't invest in any of the flashlight
+[01:04:25.190 --> 01:04:25.450] apps.
+[01:04:25.590 --> 01:04:26.310] I'm not actually sure.
+[01:04:26.550 --> 01:04:27.210] I don't have any.
+[01:04:27.430 --> 01:04:27.750] Sure.
+[01:04:27.890 --> 01:04:29.430] I have no data on whether or not they did that or not.
+[01:04:29.430 --> 01:04:34.170] But for us, it is, it is an endorsement that we like something that they are doing.
+[01:04:34.350 --> 01:04:39.190] And the, the, the hope is that others see that and say, Hey, that is like maybe one
+[01:04:39.190 --> 01:04:41.130] day Shopify invest in mine if we need to.
+[01:04:41.470 --> 01:04:44.150] Um, but I would, I would say that is incredibly positive thing for the ecosystem.
+[01:04:44.430 --> 01:04:44.570] Yeah.
+[01:04:44.650 --> 01:04:48.170] I think it's tough if I'm a building a Klaviyo competitor, I sort of feel like a body blow
+[01:04:48.170 --> 01:04:49.010] where I'm like, you know what?
+[01:04:49.010 --> 01:04:51.130] I guess they've picked the horse that they're going to ride.
+[01:04:51.250 --> 01:04:52.770] But if you were, if you were building, let's just use Klaviyo.
+[01:04:52.870 --> 01:04:55.630] If you're building a Klaviyo competitor, the way to win is not to get investment from
+[01:04:55.630 --> 01:04:55.950] Shopify.
+[01:04:56.150 --> 01:04:57.430] It's to build a product better than Klaviyo.
+[01:04:57.430 --> 01:04:58.550] Uh, I agree with that.
+[01:04:58.670 --> 01:05:02.370] Uh, but it hurts like, you know, it's sort of like, Hey, this is the ecosystem that I'm
+[01:05:02.370 --> 01:05:02.890] playing in.
+[01:05:03.050 --> 01:05:06.130] And you guys have, uh, you know, with your Midas finger picked Klaviyo.
+[01:05:06.310 --> 01:05:09.850] But Klaviyo, you know, in that example, you know, that was a more recent investment for
+[01:05:09.850 --> 01:05:10.310] a long time.
+[01:05:10.390 --> 01:05:11.650] We did not invest in Klaviyo.
+[01:05:11.890 --> 01:05:13.090] We had invested in other companies.
+[01:05:13.210 --> 01:05:13.370] Yeah.
+[01:05:13.430 --> 01:05:16.030] I'm not sure Klaviyo felt that that was a body blow.
+[01:05:16.150 --> 01:05:19.130] I feel like that was, you know, they kept doing their thing and they kept adding more
+[01:05:19.130 --> 01:05:19.650] value to merchants.
+[01:05:19.790 --> 01:05:19.910] Yeah.
+[01:05:20.010 --> 01:05:21.330] But you didn't invest in another email provider.
+[01:05:21.390 --> 01:05:22.170] But it doesn't mean we never will.
+[01:05:22.290 --> 01:05:22.430] Yeah.
+[01:05:22.710 --> 01:05:22.990] Okay.
+[01:05:23.090 --> 01:05:25.170] And then is there any benefit for the, on the app store?
+[01:05:25.170 --> 01:05:28.210] Like if I'm Klaviyo, do I get a badge or there's no benefit?
+[01:05:28.330 --> 01:05:32.650] No, there's no chosen, uh, there's no favoritism in the app store based on Shopify.
+[01:05:32.910 --> 01:05:35.690] We would lose all credibility if there was any favoritism.
+[01:05:35.790 --> 01:05:38.870] And I think the reason that people trust the app store, they trust the reviews, they trust
+[01:05:38.870 --> 01:05:43.550] the rankings is because this is a place where you win by being too good to ignore.
+[01:05:43.670 --> 01:05:44.430] You win by adding value.
+[01:05:44.610 --> 01:05:45.970] You do not win by having a relationship.
+[01:05:46.310 --> 01:05:47.910] I mean, forget investment for a second.
+[01:05:48.070 --> 01:05:51.370] You know, I've been sort of co-hosting Shopify Unites for a long time.
+[01:05:51.550 --> 01:05:53.490] I mean, you know, Nick, you've been coming to a lot of those.
+[01:05:53.490 --> 01:05:56.150] Um, there are people at Shopify Unites that I would see year after year.
+[01:05:56.490 --> 01:05:59.230] They have no other, they have no advantage on any other apps.
+[01:05:59.410 --> 01:06:03.030] It is about as objective as it gets because it doesn't really matter what I think.
+[01:06:03.150 --> 01:06:03.710] It matters.
+[01:06:04.050 --> 01:06:04.990] What are you doing for our merchants?
+[01:06:05.230 --> 01:06:05.370] Yeah.
+[01:06:05.890 --> 01:06:06.370] Uh, okay.
+[01:06:06.470 --> 01:06:06.690] Fantastic.
+[01:06:06.890 --> 01:06:08.050] I really appreciate you saying that.
+[01:06:08.050 --> 01:06:11.510] Uh, I think a lot of people on the app store, a lot of app providers that I talk
+[01:06:11.510 --> 01:06:13.090] to have a little bit of concern about that.
+[01:06:13.170 --> 01:06:14.810] Uh, so I appreciate that type of clarity.
+[01:06:15.090 --> 01:06:15.870] Um, good question.
+[01:06:15.890 --> 01:06:20.350] I mean, this is, you know, I, I didn't come here to have like a, uh, you know, uh, like all hugs
+[01:06:20.350 --> 01:06:23.750] and rainbows and butterfly discussion, but these are the type of things that if they're
+[01:06:23.750 --> 01:06:27.510] on your minds and they're on our ecosystem, our partner's minds, I really love having these
+[01:06:27.510 --> 01:06:27.890] conversations.
+[01:06:28.110 --> 01:06:29.090] I'm very glad to hear that.
+[01:06:29.290 --> 01:06:31.710] Um, we're going to switch to the second episode.
+[01:06:31.950 --> 01:06:33.850] Uh, so we're going to wrap this up.
+[01:06:33.950 --> 01:06:34.830] Uh, the next episode.
+[01:06:34.990 --> 01:06:35.790] We're staying here for a week, right?
+[01:06:35.930 --> 01:06:36.810] Yeah, we're staying here.
+[01:06:36.930 --> 01:06:38.230] We're going to record the second episode.
+[01:06:38.310 --> 01:06:38.530] All right.
+[01:06:38.670 --> 01:06:41.230] The second episode, I just want to preview it for some of our listeners.
+[01:06:41.470 --> 01:06:42.630] We're going to talk about marketing.
+[01:06:43.070 --> 01:06:46.570] We're going to talk about some rapid fire questions for you and we're going to put on
+[01:06:46.570 --> 01:06:50.210] a shareholder ad, or I'm going to put on a shareholder ad at least because I'm a big
+[01:06:50.210 --> 01:06:51.370] investor in Shopify.
+[01:06:51.610 --> 01:06:55.030] And I can tell you right after this conversation, I'm going to be a larger investor in Shopify.
+[01:06:55.310 --> 01:06:58.470] I really believe in when I talk to you, I believe in the business even more.
+[01:06:58.630 --> 01:06:59.890] Uh, so we're going to get into that.

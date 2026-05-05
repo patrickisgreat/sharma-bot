@@ -1,0 +1,2689 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 14.76,
+      "text": "It has to come from the brand. You can't just be selling a wellness brand, wellness products, powders and supplements and gummies, and then all of a sudden be like, we want to turn our customers into brand ambassadors. No, you have to be a brand that customers want to associate with publicly."
+    },
+    {
+      "start": 16.8,
+      "end": 25.78,
+      "text": "Welcome to Limited Supply, the place for refreshingly real takes on what D2C is really like. I'm your host, Nik Sharma. Let's start talking about money."
+    },
+    {
+      "start": 27.48,
+      "end": 36.24,
+      "text": "Have you ever added up all the conversions attributed to each of your paid channels and realized that the sum of those conversions is greater than the actual number of conversions on your site?"
+    },
+    {
+      "start": 36.48,
+      "end": 42.66,
+      "text": "That's likely because most ad platforms tend to over-report and get more credit than they deserve for the conversions they drive."
+    },
+    {
+      "start": 42.96,
+      "end": 51.6,
+      "text": "Today, sophisticated marketers are moving away from attribution and moving toward incrementality testing in order to maximize growth and understand efficiency."
+    },
+    {
+      "start": 51.6,
+      "end": 60.06,
+      "text": "To find the incrementality of your marketing tactics, you have to run test and control experiments, but these tests are hard to do on your own and that's why I recommend using House."
+    },
+    {
+      "start": 60.5,
+      "end": 73.12,
+      "text": "With House, you have an automated self-service platform that allows you to configure regional test and control experiments to measure incrementality, identify points of diminishing returns, optimally allocate marketing dollars, and maximize your growth."
+    },
+    {
+      "start": 73.42,
+      "end": 79.3,
+      "text": "The platform is built by world-class scientists. It allows you to test all your marketing channels, both online and offline."
+    },
+    {
+      "start": 79.3,
+      "end": 85.98,
+      "text": "You can measure the impact across all your sales channels, including direct-to-consumer, retail, Amazon, etc."
+    },
+    {
+      "start": 86.3,
+      "end": 90.4,
+      "text": "And you can calibrate your in-platform reporting for incrementality with House."
+    },
+    {
+      "start": 90.82,
+      "end": 97.68,
+      "text": "My friend Connor at Hexclad uses House and he was actually able to share that when they ran an incrementality test around meta and Amazon,"
+    },
+    {
+      "start": 98.12,
+      "end": 102.08,
+      "text": "they realized that a lot of their meta spend was indirectly driving revenue for Amazon."
+    },
+    {
+      "start": 102.5,
+      "end": 106,
+      "text": "These learnings actually changed their acquisition strategy for Amazon going forward."
+    },
+    {
+      "start": 106,
+      "end": 112.36,
+      "text": "If you're a seven-figure brand and you're running on multiple marketing channels, I should say if you're at least a seven-figure brand,"
+    },
+    {
+      "start": 112.56,
+      "end": 118.96,
+      "text": "then you can potentially save millions of dollars by starting an incrementality practice and learn what's truly driving your business."
+    },
+    {
+      "start": 119.52,
+      "end": 124.68,
+      "text": "House uses superior science and makes this type of testing accessible, and so I recommend you check them out."
+    },
+    {
+      "start": 124.94,
+      "end": 127.16,
+      "text": "Go to house.io slash limited."
+    },
+    {
+      "start": 127.16,
+      "end": 132.62,
+      "text": "That's haus.io slash limited to learn more and get a demo."
+    },
+    {
+      "start": 135.98,
+      "end": 139.64,
+      "text": "Welcome back to Limited Supply. This is Season 9, Episode 12."
+    },
+    {
+      "start": 139.84,
+      "end": 143.74,
+      "text": "This is the final episode of Season 9, which is huge."
+    },
+    {
+      "start": 143.74,
+      "end": 146.1,
+      "text": "We're going into the double digits starting the next episode."
+    },
+    {
+      "start": 146.6,
+      "end": 154.68,
+      "text": "And I just want to say a big thank you to everybody who's been listening, whether you've been listening from Season 1 or you just started listening in Season 9"
+    },
+    {
+      "start": 154.68,
+      "end": 157.4,
+      "text": "or you found me somewhere in the middle around Season 6."
+    },
+    {
+      "start": 158.42,
+      "end": 160.18,
+      "text": "Huge thank you to you. Thank you for listening."
+    },
+    {
+      "start": 160.18,
+      "end": 169.8,
+      "text": "Thank you for spending your Wednesday mornings or your Wednesday gyms, your Wednesday runs, your Thursday night walks, whatever it is that puts me in your ears."
+    },
+    {
+      "start": 169.9,
+      "end": 173.62,
+      "text": "I appreciate the time that you dedicate towards listening to this."
+    },
+    {
+      "start": 174.1,
+      "end": 178.24,
+      "text": "I see all the numbers in the back end, and it's sick."
+    },
+    {
+      "start": 178.38,
+      "end": 179.86,
+      "text": "We've got such an awesome community."
+    },
+    {
+      "start": 180.64,
+      "end": 187.68,
+      "text": "Everybody that I've interacted with who's a listener is an awesome human, very smart, doing cool shit, and it's just cool."
+    },
+    {
+      "start": 187.78,
+      "end": 196.48,
+      "text": "We've just got this cool group of elite marketers and operators and founders, and I'm very grateful to be a part of it and very grateful that you're listening."
+    },
+    {
+      "start": 197.3,
+      "end": 204.9,
+      "text": "Going into the next season, if there's anything specific that you think I should be touching on more, touching on less, if you want me to bring back a segment,"
+    },
+    {
+      "start": 204.9,
+      "end": 208.8,
+      "text": "a lot of people have told me they want to guess that business segment back, whatever it may be."
+    },
+    {
+      "start": 209.02,
+      "end": 213.7,
+      "text": "Even if you just like the podcast and you want to tell me that you like it, I'd love to hear from you."
+    },
+    {
+      "start": 213.82,
+      "end": 216.2,
+      "text": "Shoot me an email, just n at Sharma.com."
+    },
+    {
+      "start": 216.34,
+      "end": 217.58,
+      "text": "That's my real email."
+    },
+    {
+      "start": 218.94,
+      "end": 220.74,
+      "text": "And yeah, I'll see your email."
+    },
+    {
+      "start": 220.84,
+      "end": 221.54,
+      "text": "I'll shoot your reply."
+    },
+    {
+      "start": 222.22,
+      "end": 227.3,
+      "text": "Now before we get into the main podcast for today, a couple notes."
+    },
+    {
+      "start": 227.56,
+      "end": 230.18,
+      "text": "One, did you guys check out the Q4 Summit?"
+    },
+    {
+      "start": 230.38,
+      "end": 232.3,
+      "text": "I mean, we've got to talk about this for a second."
+    },
+    {
+      "start": 232.36,
+      "end": 233.1,
+      "text": "This was crazy."
+    },
+    {
+      "start": 233.1,
+      "end": 237.72,
+      "text": "We did this last Thursday and we had so many amazing speakers come."
+    },
+    {
+      "start": 238.04,
+      "end": 251.78,
+      "text": "Not only did we have amazing speakers, which I'll tell you in a second, but we had the most, I mean, just amazing sponsors, like everybody from Google to Snapchat to UBS to Recharge to Triplewell."
+    },
+    {
+      "start": 251.9,
+      "end": 255.5,
+      "text": "Just the best sponsors that could actually help everybody who came."
+    },
+    {
+      "start": 255.68,
+      "end": 257.44,
+      "text": "There was over 500 people who came."
+    },
+    {
+      "start": 257.44,
+      "end": 259.32,
+      "text": "We rented out Terminal 5 in New York City."
+    },
+    {
+      "start": 259.86,
+      "end": 264.9,
+      "text": "I first went there to see Elenium play a whole set a few years ago, and now we got to rent this out."
+    },
+    {
+      "start": 264.96,
+      "end": 265.78,
+      "text": "It was so sick."
+    },
+    {
+      "start": 266.62,
+      "end": 268.34,
+      "text": "And then we had the best speakers come."
+    },
+    {
+      "start": 268.44,
+      "end": 270.74,
+      "text": "We had Harley Finkelstein, the president of Shopify."
+    },
+    {
+      "start": 271.08,
+      "end": 272.96,
+      "text": "We had Keith Reboy, who started OpenStore."
+    },
+    {
+      "start": 273.48,
+      "end": 275.2,
+      "text": "We had Ryan, who started Jolie."
+    },
+    {
+      "start": 275.5,
+      "end": 277.74,
+      "text": "We had Stuart, who's the CEO of SkinFix."
+    },
+    {
+      "start": 277.96,
+      "end": 280.46,
+      "text": "We had Kyle Cook from Loverboy and Summerhouse."
+    },
+    {
+      "start": 280.68,
+      "end": 286.64,
+      "text": "We had Sandra Campos, the former CEO of Diane von Furstenberg, and now the CEO of PetMeds, which is publicly traded."
+    },
+    {
+      "start": 286.64,
+      "end": 288.32,
+      "text": "We had Ezra Firestone."
+    },
+    {
+      "start": 288.58,
+      "end": 290.96,
+      "text": "We had the founders of Refinery29."
+    },
+    {
+      "start": 291.34,
+      "end": 293.46,
+      "text": "I mean, we had an insane lineup."
+    },
+    {
+      "start": 294.06,
+      "end": 302.56,
+      "text": "And then we had so many others too, but there was such a great group of people who attended, great group of speakers and great group of sponsors."
+    },
+    {
+      "start": 302.56,
+      "end": 306.42,
+      "text": "I was really pumped and very grateful that we were able to put this on."
+    },
+    {
+      "start": 306.62,
+      "end": 311.52,
+      "text": "So we're going to be announcing the next event for Q1 soon."
+    },
+    {
+      "start": 311.68,
+      "end": 314.54,
+      "text": "And so as soon as that comes out, I'll let you know."
+    },
+    {
+      "start": 314.66,
+      "end": 320.88,
+      "text": "But if you want to sign up to get the first notice and make sure you get your ticket locked in, it's ecomfounders.com."
+    },
+    {
+      "start": 321.54,
+      "end": 324.64,
+      "text": "Okay, last note is, did you check out the new Sharma Brands website?"
+    },
+    {
+      "start": 324.64,
+      "end": 325.8,
+      "text": "It is sick."
+    },
+    {
+      "start": 325.8,
+      "end": 332.8,
+      "text": "It's finally, I'm sure so many of you guys have gone to the Sharma Brands website and just been like, yeah, what the fuck do you guys do?"
+    },
+    {
+      "start": 334.02,
+      "end": 335.6,
+      "text": "Actually, my mom used to say that."
+    },
+    {
+      "start": 335.86,
+      "end": 337.32,
+      "text": "And it got on my nerves."
+    },
+    {
+      "start": 337.42,
+      "end": 338.7,
+      "text": "So then we decided, you know what?"
+    },
+    {
+      "start": 338.98,
+      "end": 339.54,
+      "text": "She's right."
+    },
+    {
+      "start": 339.6,
+      "end": 347.88,
+      "text": "We need to build a site that actually explains what we do and shows our work and allows us to show off what we did for Taco Bell and Rare Beauty and all these other amazing companies."
+    },
+    {
+      "start": 348.04,
+      "end": 350.3,
+      "text": "So if you go to sharmabrands.com, check it out."
+    },
+    {
+      "start": 350.36,
+      "end": 351.12,
+      "text": "Let me know what you think."
+    },
+    {
+      "start": 351.92,
+      "end": 353.92,
+      "text": "And if anything looks good there, let me know."
+    },
+    {
+      "start": 354.88,
+      "end": 358.14,
+      "text": "All right, I don't want to keep you on any longer."
+    },
+    {
+      "start": 358.38,
+      "end": 359.68,
+      "text": "Let's get into today's episode."
+    },
+    {
+      "start": 359.82,
+      "end": 361.4,
+      "text": "We're going to do a full listener mailbag."
+    },
+    {
+      "start": 362.42,
+      "end": 365.94,
+      "text": "So without further ado, let me know what you think."
+    },
+    {
+      "start": 367.06,
+      "end": 370.76,
+      "text": "Okay, so for today's episode, we're going to do a listener mailbag."
+    },
+    {
+      "start": 370.92,
+      "end": 376.82,
+      "text": "This is what we do on the sixth episode of Limited Supply and this is what we love to do on the 12th episode of Limited Supply."
+    },
+    {
+      "start": 377.52,
+      "end": 380.36,
+      "text": "So how this works is we have a Slack group."
+    },
+    {
+      "start": 380.42,
+      "end": 381.8,
+      "text": "It's the Limited Supply Slack group."
+    },
+    {
+      "start": 381.8,
+      "end": 384.4,
+      "text": "There's over 5,000 marketers, founders."
+    },
+    {
+      "start": 384.86,
+      "end": 386.42,
+      "text": "There's a lot of actually helpful people."
+    },
+    {
+      "start": 386.52,
+      "end": 397.74,
+      "text": "I was just reading a post from Chad who I believe he runs a 3PL or runs a consultancy where he helps brands find the right 3PL."
+    },
+    {
+      "start": 397.74,
+      "end": 407.24,
+      "text": "He just dropped a whole essay in there explaining everything about why people are currently having issues with getting their freight in or, you know, just issues in general with 3PL."
+    },
+    {
+      "start": 407.4,
+      "end": 410.42,
+      "text": "I guess there's a lot of people right now who are looking for a new 3PL."
+    },
+    {
+      "start": 410.42,
+      "end": 412.72,
+      "text": "So he dropped a whole essay in there of how to help."
+    },
+    {
+      "start": 413.62,
+      "end": 416.24,
+      "text": "And anyways, all that to say, it's a very helpful Slack group."
+    },
+    {
+      "start": 416.46,
+      "end": 417.86,
+      "text": "I highly suggest you get in there."
+    },
+    {
+      "start": 418.84,
+      "end": 421.2,
+      "text": "Always lots of good feedback from those who are in there."
+    },
+    {
+      "start": 421.2,
+      "end": 427.54,
+      "text": "But anyways, in Slack, right before episode 6 and 12, I always drop in there, hey, drop your questions here."
+    },
+    {
+      "start": 427.96,
+      "end": 431.72,
+      "text": "We're going to answer these questions on Limited Supply in a listener mailbag episode."
+    },
+    {
+      "start": 432,
+      "end": 433.36,
+      "text": "So that's how we got here today."
+    },
+    {
+      "start": 434.08,
+      "end": 439.06,
+      "text": "If you want to get on that Slack group, go to slack.limitedsupplypod.com."
+    },
+    {
+      "start": 439.52,
+      "end": 443.4,
+      "text": "You'll see a link there or a button rather in the hero."
+    },
+    {
+      "start": 443.58,
+      "end": 445.68,
+      "text": "Click that button, takes you to an Airtable form."
+    },
+    {
+      "start": 445.76,
+      "end": 447.36,
+      "text": "You fill that out within 24 hours."
+    },
+    {
+      "start": 447.62,
+      "end": 448.48,
+      "text": "You're in the Slack."
+    },
+    {
+      "start": 449.32,
+      "end": 451.08,
+      "text": "There's lots of programming in there, et cetera."
+    },
+    {
+      "start": 451.32,
+      "end": 452.9,
+      "text": "So it's actually a good thing."
+    },
+    {
+      "start": 452.96,
+      "end": 453.62,
+      "text": "I would join it."
+    },
+    {
+      "start": 453.8,
+      "end": 454.6,
+      "text": "I mean, I'm in it."
+    },
+    {
+      "start": 454.86,
+      "end": 456.34,
+      "text": "So, all right, let's get started."
+    },
+    {
+      "start": 456.52,
+      "end": 463.24,
+      "text": "So first question with the increasing prices of paid advertising, what are you doing to more to bring more organic traffic to your storefront?"
+    },
+    {
+      "start": 463.5,
+      "end": 466.36,
+      "text": "Are you doing anything to turn your customers into brand ambassadors?"
+    },
+    {
+      "start": 466.66,
+      "end": 466.94,
+      "text": "Okay."
+    },
+    {
+      "start": 467.52,
+      "end": 476.14,
+      "text": "Let's break this down into two parts, more organic traffic opportunities and create more, and sorry, current turning customers into brand ambassadors."
+    },
+    {
+      "start": 476.78,
+      "end": 483.06,
+      "text": "So on the more organic traffic opportunities, one that comes to mind, the first thing that came to mind was YouTube influencer ads."
+    },
+    {
+      "start": 484.78,
+      "end": 487.72,
+      "text": "There's a company that I've worked with before called Sentis."
+    },
+    {
+      "start": 488,
+      "end": 494.14,
+      "text": "And one thing that he taught me was that the beauty about YouTube influencer ads is that link stays there forever, right?"
+    },
+    {
+      "start": 494.14,
+      "end": 495.5,
+      "text": "It stays at the top of the description."
+    },
+    {
+      "start": 496.12,
+      "end": 504.06,
+      "text": "And so whether somebody is watching a video about personal finance today and sees an ad for Hintwater, or they watch that video three years later,"
+    },
+    {
+      "start": 504.14,
+      "end": 505.6,
+      "text": "they're still going to see that ad for Hintwater."
+    },
+    {
+      "start": 506.28,
+      "end": 510.92,
+      "text": "YouTube influencer ads actually do a great job of driving organic traffic when they're placed properly."
+    },
+    {
+      "start": 511.26,
+      "end": 516.76,
+      "text": "You don't want to be putting it into content that's not necessarily evergreen content."
+    },
+    {
+      "start": 516.92,
+      "end": 523.08,
+      "text": "Evergreen content is the best type of content to sponsor because you reap the rewards pretty quickly, right?"
+    },
+    {
+      "start": 523.08,
+      "end": 528.16,
+      "text": "When you make the buy smart and then for the next couple of years, you also reap those rewards."
+    },
+    {
+      "start": 528.6,
+      "end": 541.7,
+      "text": "In fact, I think it was Austin at Morning Brew told me that he loves doing this because he will get his investment back almost immediately from YouTube audiences and then or the viewers who are watching and clicking the links."
+    },
+    {
+      "start": 541.88,
+      "end": 548.14,
+      "text": "But then he still sees these subscribers come into Morning Brew from Morning Brew ads on YouTubers from months ago."
+    },
+    {
+      "start": 548.14,
+      "end": 550.62,
+      "text": "So highly recommend YouTube influencer ads."
+    },
+    {
+      "start": 551.28,
+      "end": 556.5,
+      "text": "Another one, obviously, blog content, SEO stuff, you know, like do your SEO and blog stuff."
+    },
+    {
+      "start": 556.6,
+      "end": 572.82,
+      "text": "I'm not an expert in SEO, but I do know that when you set up content portions of your site, such as a blog, one, you can make those extremely, you know, you can easily reverse engineer what people are searching and how that then leads to traffic on your site, which then leads to a sale."
+    },
+    {
+      "start": 573.88,
+      "end": 581.54,
+      "text": "But two, you know, most people put up blog content, they never really share it, or they sort of share it, but they share it in a bad way."
+    },
+    {
+      "start": 581.54,
+      "end": 588.2,
+      "text": "So I remember when I got to Hint, they were their entire Twitter feed was just like blog links."
+    },
+    {
+      "start": 588.46,
+      "end": 593.94,
+      "text": "And, you know, the the words in the tweet were or the Facebook post were just the title of the blog post."
+    },
+    {
+      "start": 594.32,
+      "end": 604.4,
+      "text": "So if you're going to be lazy about sharing this content, there's no point even putting it up in the first place unless you think something's about to hit on SEO, which sometimes it's very random things that hit."
+    },
+    {
+      "start": 604.4,
+      "end": 613.04,
+      "text": "I mean, at Hint too, we had this article that was like the top 10 apps to track your water intake was the number one article from an SEO standpoint."
+    },
+    {
+      "start": 614.8,
+      "end": 622.32,
+      "text": "But going back to, you know, distributing the blog content, you really have to get creative with how you are putting it on these platforms."
+    },
+    {
+      "start": 622.54,
+      "end": 625.78,
+      "text": "So obviously you have a blog piece of blog content that goes up."
+    },
+    {
+      "start": 625.78,
+      "end": 641.46,
+      "text": "You can't just share the link on Twitter and Instagram stories and a Facebook post and expect that people are going to come right you you've got to now you've got something you've now got to go into these platforms and figure out what is your hook or how is it that you're going to actually get traffic out of this."
+    },
+    {
+      "start": 641.98,
+      "end": 649.08,
+      "text": "And so a brand that actually does this really well specifically around Twitter stuff is topicals, which is a skincare brand."
+    },
+    {
+      "start": 649.08,
+      "end": 650.92,
+      "text": "They crush the Twitter game."
+    },
+    {
+      "start": 651.44,
+      "end": 659.48,
+      "text": "They get a great amount of engagement, but also they have different creators they'll work with who will write full threads out explaining things."
+    },
+    {
+      "start": 660.12,
+      "end": 666.92,
+      "text": "And so again, threads back to Twitter is a great example of being native to the platform that you're trying to recruit traffic from."
+    },
+    {
+      "start": 667.22,
+      "end": 668.56,
+      "text": "Same thing goes with Instagram stories."
+    },
+    {
+      "start": 668.7,
+      "end": 674.56,
+      "text": "You have to have content that's like interesting so that somebody wants to go and find that link and then click it."
+    },
+    {
+      "start": 676.12,
+      "end": 679.48,
+      "text": "You know, in my opinion, every time you put up an article, you should have a thread on Twitter."
+    },
+    {
+      "start": 679.66,
+      "end": 681.46,
+      "text": "You should have a shortened version on medium."
+    },
+    {
+      "start": 681.76,
+      "end": 683.66,
+      "text": "You can have the founder post something on LinkedIn."
+    },
+    {
+      "start": 683.66,
+      "end": 685.6,
+      "text": "That's kind of a blurb leading to the article."
+    },
+    {
+      "start": 685.82,
+      "end": 700.52,
+      "text": "You should have a tick tock or two or three that explains why it's important to read and and, you know, maybe a fun fact or tidbit from the piece and how people can easily go read it maybe with a vanity link instead of just telling people to click the link in your bio."
+    },
+    {
+      "start": 700.52,
+      "end": 708.44,
+      "text": "And the same thing with Instagram stories, especially if you can align blog content with things that are, you know, highlightable on your stories."
+    },
+    {
+      "start": 708.6,
+      "end": 713.26,
+      "text": "So for example, let's say you're a beauty skincare brand."
+    },
+    {
+      "start": 713.26,
+      "end": 718.68,
+      "text": "You're selling this hyaluronic acid and one of your highlights is, you know, WTF is hyaluronic acid."
+    },
+    {
+      "start": 718.92,
+      "end": 727.74,
+      "text": "Well, maybe the first, you know, within the first few stories, you've got a kind of a teaser from the blog and then it's got a link that goes back to the blog."
+    },
+    {
+      "start": 727.74,
+      "end": 733.74,
+      "text": "You're just trying to always, you know, you're not going to necessarily have one piece of content that's just going to pop off, especially with written content."
+    },
+    {
+      "start": 734.58,
+      "end": 738.16,
+      "text": "So what you want to do is kind of always be planting these breadcrumbs along the way."
+    },
+    {
+      "start": 738.44,
+      "end": 748.18,
+      "text": "Every time you have a piece of content that you're putting out, do your best to get as many eyeballs on it as possible and just be smart with how you're approaching each platform."
+    },
+    {
+      "start": 749.34,
+      "end": 750.66,
+      "text": "Okay, next one."
+    },
+    {
+      "start": 751.14,
+      "end": 755.66,
+      "text": "So yeah, basically, okay, so I had YouTube influencers, SEO, and blog content."
+    },
+    {
+      "start": 755.78,
+      "end": 758.72,
+      "text": "The third bullet I wrote down was just create more organic content."
+    },
+    {
+      "start": 758.92,
+      "end": 763.68,
+      "text": "And this is something that I, you know, like, you just got to do it."
+    },
+    {
+      "start": 763.74,
+      "end": 765.32,
+      "text": "There's no other way around it."
+    },
+    {
+      "start": 765.48,
+      "end": 770.3,
+      "text": "You're, you know, I imagine most people who ask this question are looking for like a silver bullet."
+    },
+    {
+      "start": 770.3,
+      "end": 771.76,
+      "text": "There is no silver bullet."
+    },
+    {
+      "start": 771.92,
+      "end": 780.42,
+      "text": "You're either spending money on ads and, you know, product placement or influencers, or you're the one creating the content and doing it well."
+    },
+    {
+      "start": 780.6,
+      "end": 782.92,
+      "text": "So publishers do this really well."
+    },
+    {
+      "start": 783.02,
+      "end": 784.08,
+      "text": "Even brands like Huckberry."
+    },
+    {
+      "start": 784.28,
+      "end": 789.1,
+      "text": "I was at the Huckberry office last week and they were telling me how they'll have celebrities come through Austin."
+    },
+    {
+      "start": 789.28,
+      "end": 790.56,
+      "text": "They'll host them in the office."
+    },
+    {
+      "start": 790.68,
+      "end": 791.52,
+      "text": "They'll create some content."
+    },
+    {
+      "start": 791.8,
+      "end": 793.46,
+      "text": "It works with them on the media side."
+    },
+    {
+      "start": 793.56,
+      "end": 794.64,
+      "text": "It works on the brand side."
+    },
+    {
+      "start": 795.2,
+      "end": 798.06,
+      "text": "But you really just have to get creative of how you create content, right?"
+    },
+    {
+      "start": 798.24,
+      "end": 806.12,
+      "text": "You can take your top 25 most asked questions and make videos addressing each question and put it up on every platform that pushes views."
+    },
+    {
+      "start": 806.38,
+      "end": 809.14,
+      "text": "So what are those platforms that are constantly pushing organic views?"
+    },
+    {
+      "start": 809.24,
+      "end": 810.44,
+      "text": "Those are Instagram reels."
+    },
+    {
+      "start": 810.76,
+      "end": 811.48,
+      "text": "That's TikTok."
+    },
+    {
+      "start": 811.88,
+      "end": 812.82,
+      "text": "That's YouTube shorts."
+    },
+    {
+      "start": 813.32,
+      "end": 815.32,
+      "text": "That's definitely Twitter or X now."
+    },
+    {
+      "start": 815.64,
+      "end": 817.22,
+      "text": "They push a ton of video."
+    },
+    {
+      "start": 817.44,
+      "end": 818.98,
+      "text": "In fact, they even have auto scroll."
+    },
+    {
+      "start": 819.18,
+      "end": 821.78,
+      "text": "So when you finish a video, it just automatically scrolls to the next."
+    },
+    {
+      "start": 821.78,
+      "end": 824.9,
+      "text": "And LinkedIn even recently has been pushing a lot more."
+    },
+    {
+      "start": 825.02,
+      "end": 829.9,
+      "text": "So if there's content you can put out in a form that makes sense for LinkedIn, you should also do that."
+    },
+    {
+      "start": 830.84,
+      "end": 831.74,
+      "text": "What else can you do?"
+    },
+    {
+      "start": 831.82,
+      "end": 838.5,
+      "text": "You can partner up with smaller and higher engaged creators to create content and put out collab posts."
+    },
+    {
+      "start": 838.62,
+      "end": 840.64,
+      "text": "This way you're getting exposure to other audiences."
+    },
+    {
+      "start": 840.82,
+      "end": 842.84,
+      "text": "You can start seeding product to influencers."
+    },
+    {
+      "start": 843.06,
+      "end": 846.98,
+      "text": "This is how David, the protein bar brand, just launched with so much hype."
+    },
+    {
+      "start": 847.12,
+      "end": 849.52,
+      "text": "They sent thousands of bars out to creators to try."
+    },
+    {
+      "start": 850.08,
+      "end": 851.4,
+      "text": "Jolie does this as well."
+    },
+    {
+      "start": 851.5,
+      "end": 858.34,
+      "text": "This is how, if you remember the one of the recent episodes, Ryan talked about making 17,000 pieces of content this year."
+    },
+    {
+      "start": 858.46,
+      "end": 861.28,
+      "text": "That's all from properly seeding creators."
+    },
+    {
+      "start": 861.92,
+      "end": 863.24,
+      "text": "You could create campaigns."
+    },
+    {
+      "start": 863.48,
+      "end": 866.36,
+      "text": "This is something that I really am a fan of."
+    },
+    {
+      "start": 866.46,
+      "end": 870.7,
+      "text": "This is something that doesn't cost anything, right?"
+    },
+    {
+      "start": 870.7,
+      "end": 875.36,
+      "text": "So a lot of times when you hear create campaigns, you tend to think, okay, I've got to go hire an agency."
+    },
+    {
+      "start": 875.68,
+      "end": 877.56,
+      "text": "We're going to make this big brand campaign."
+    },
+    {
+      "start": 877.82,
+      "end": 879.86,
+      "text": "You know, it's going to be a very expensive thing."
+    },
+    {
+      "start": 880.9,
+      "end": 883.54,
+      "text": "But I'll tell you how we did it recently for one of our clients."
+    },
+    {
+      "start": 884.44,
+      "end": 895.62,
+      "text": "We just decided that all ad creative emails, site messaging, you know, the brand's own podcast and, you know, kind of influencer."
+    },
+    {
+      "start": 896.02,
+      "end": 900.84,
+      "text": "We're just going to talk about summer must-haves as the top, kind of the overarching messaging."
+    },
+    {
+      "start": 901.04,
+      "end": 904,
+      "text": "And that's what's going to be the products that we're going to feature."
+    },
+    {
+      "start": 904.08,
+      "end": 906.86,
+      "text": "We're going to create this collection almost of summer must-haves."
+    },
+    {
+      "start": 906.86,
+      "end": 909.56,
+      "text": "And we're going to focus on marketing that in a fun way."
+    },
+    {
+      "start": 909.88,
+      "end": 913.88,
+      "text": "All of the ad creative was consistent with the summer must-haves messaging."
+    },
+    {
+      "start": 914.14,
+      "end": 916.34,
+      "text": "All the emails that were going out were consistent."
+    },
+    {
+      "start": 916.48,
+      "end": 918.24,
+      "text": "The organic social messaging was consistent."
+    },
+    {
+      "start": 918.52,
+      "end": 923.4,
+      "text": "The founder's own content and account and podcast was consistent."
+    },
+    {
+      "start": 923.68,
+      "end": 930.38,
+      "text": "And it just drives this kind of curiosity from people who are constantly seeing this campaign-like approach."
+    },
+    {
+      "start": 930.64,
+      "end": 935.44,
+      "text": "And, you know, we don't have to spend any money on a crazy brand agency to do this, right?"
+    },
+    {
+      "start": 935.44,
+      "end": 942.12,
+      "text": "We just called it summer must-haves, create a new collection, and then just aligned all messaging around it to be very cohesive."
+    },
+    {
+      "start": 942.58,
+      "end": 944.22,
+      "text": "So that's another easy one."
+    },
+    {
+      "start": 944.34,
+      "end": 945.66,
+      "text": "It gets people very interested."
+    },
+    {
+      "start": 945.84,
+      "end": 950.88,
+      "text": "And then kind of another sneaky one is whitelisting ads because, and specifically advertorials."
+    },
+    {
+      "start": 951.06,
+      "end": 963.46,
+      "text": "Because a lot of people who read good advertorials, meaning advertorials that have legitimate story versus just, you know, kind of like a fake review, kind of like fake UGC is, which we'll talk about in a second."
+    },
+    {
+      "start": 964.96,
+      "end": 967.64,
+      "text": "Good advertorials get a lot of organic social shares."
+    },
+    {
+      "start": 967.86,
+      "end": 972.64,
+      "text": "And there's a lot of traffic that you get as a benefit of a good advertorial."
+    },
+    {
+      "start": 972.86,
+      "end": 980.86,
+      "text": "I remember we had this one advertorial and, you know, for every like that we got, we got a share on the ad."
+    },
+    {
+      "start": 981.12,
+      "end": 984.94,
+      "text": "And so that was a great source of driving shares in organic traffic."
+    },
+    {
+      "start": 984.94,
+      "end": 989.32,
+      "text": "And then once people got to the article itself, they were always clicking the Facebook share button."
+    },
+    {
+      "start": 989.58,
+      "end": 994.76,
+      "text": "So those are kind of how I would think about more organic traffic opportunities."
+    },
+    {
+      "start": 994.94,
+      "end": 998.08,
+      "text": "And then let's talk about turning customers into ambassadors."
+    },
+    {
+      "start": 998.08,
+      "end": 1003.22,
+      "text": "So again, this is another one that I think a lot of people look for a silver bullet, but there really isn't one."
+    },
+    {
+      "start": 1003.34,
+      "end": 1005.64,
+      "text": "There's obviously software that can help you do this, right?"
+    },
+    {
+      "start": 1005.76,
+      "end": 1018.74,
+      "text": "Whether it's super affiliate to create those branded experiences that customer turned ambassadors can share, or you can set up a referral program that, you know, doesn't suck, which is hard to find to help keep track of that stuff."
+    },
+    {
+      "start": 1019.3,
+      "end": 1025.42,
+      "text": "But this is really something that I feel, you know, turning customers into brand ambassadors is something that has to come from the brand."
+    },
+    {
+      "start": 1025.7,
+      "end": 1036.22,
+      "text": "And the brand has to be the one that people want to outwardly associate with either because it makes them feel good about themselves being associated or because there's something else in it for them."
+    },
+    {
+      "start": 1036.48,
+      "end": 1045.92,
+      "text": "For most modern day brands, that's either an emotional tie for, for example, I love this brand because they use their profits to help, help those with mental health issues."
+    },
+    {
+      "start": 1045.92,
+      "end": 1057.96,
+      "text": "And that's something I'm passionate about as a consumer or because people, or because being an ambassador for Jolie or Revolve or Viore just aligns you with being, you know, a hot girl who does hot girl shit."
+    },
+    {
+      "start": 1058.18,
+      "end": 1058.82,
+      "text": "You know what I mean?"
+    },
+    {
+      "start": 1059.08,
+      "end": 1060.84,
+      "text": "So it has to come from the brand."
+    },
+    {
+      "start": 1060.98,
+      "end": 1067.98,
+      "text": "You can't just have, you know, you can't just be selling a wellness brand, wellness products, powders and supplements and gummies."
+    },
+    {
+      "start": 1068.12,
+      "end": 1071.74,
+      "text": "And then all of a sudden be like, we want to turn our customers into brand ambassadors."
+    },
+    {
+      "start": 1071.74,
+      "end": 1077.36,
+      "text": "No, you have to be a brand that customers want to associate with publicly, right?"
+    },
+    {
+      "start": 1077.46,
+      "end": 1082.46,
+      "text": "It's the same concept of a retweet on Twitter or a reshare on Facebook."
+    },
+    {
+      "start": 1082.62,
+      "end": 1091.32,
+      "text": "I don't know what Facebook calls it, but it's this concept of somebody is going to, somebody is going to put something else on their own real estate, right?"
+    },
+    {
+      "start": 1091.4,
+      "end": 1093.36,
+      "text": "On Twitter, that's a retweet on your timeline."
+    },
+    {
+      "start": 1093.58,
+      "end": 1100.4,
+      "text": "In this case, customers becoming ambassadors is think of it as like a customer turning into a billboard, right?"
+    },
+    {
+      "start": 1100.4,
+      "end": 1101.42,
+      "text": "That's still real estate."
+    },
+    {
+      "start": 1101.66,
+      "end": 1111.04,
+      "text": "And so if you are going to ask somebody to basically take up some of their real estate, you need to be cool enough to where they want to do that."
+    },
+    {
+      "start": 1111.26,
+      "end": 1112.88,
+      "text": "It really stems from the brand."
+    },
+    {
+      "start": 1113,
+      "end": 1115.14,
+      "text": "I don't think that there's a silver bullet strategy here."
+    },
+    {
+      "start": 1115.3,
+      "end": 1119.38,
+      "text": "There's definitely ways if you're not that kind of a cool brand to make yourself a cool brand."
+    },
+    {
+      "start": 1119.72,
+      "end": 1125.3,
+      "text": "But there is no one software that's going to turn you into a, you know, ambassador or a referral machine."
+    },
+    {
+      "start": 1125.3,
+      "end": 1126.24,
+      "text": "It's just not going to happen."
+    },
+    {
+      "start": 1126.92,
+      "end": 1127.5,
+      "text": "Okay."
+    },
+    {
+      "start": 1128.22,
+      "end": 1129.2,
+      "text": "Question number two."
+    },
+    {
+      "start": 1129.56,
+      "end": 1138.02,
+      "text": "What are some omni-channel options for bringing in new customers aside from meta, ambassadors, TikTok, TikTok Shop, Google, and DMing and messaging bots?"
+    },
+    {
+      "start": 1140.1,
+      "end": 1143.66,
+      "text": "Well, kind of combining TikTok Shop and messaging bots."
+    },
+    {
+      "start": 1143.88,
+      "end": 1154.98,
+      "text": "I don't know if you've seen the Super Affiliate DM product, but basically you can go into TikTok Shop and rapidly recruit using Super Affiliate's DM product, a DM bot."
+    },
+    {
+      "start": 1155.3,
+      "end": 1157.98,
+      "text": "There's also a company called Tilde that was launched by Mark."
+    },
+    {
+      "start": 1158.4,
+      "end": 1162.56,
+      "text": "This guy, Mark, who started Braze, allows you to converse with customers on WhatsApp."
+    },
+    {
+      "start": 1162.56,
+      "end": 1166.64,
+      "text": "It's great for out-of-home campaigns and for helping customers in-store if they have questions."
+    },
+    {
+      "start": 1167.9,
+      "end": 1169.46,
+      "text": "But, you know, here's the thing."
+    },
+    {
+      "start": 1169.54,
+      "end": 1172.14,
+      "text": "You can get new customers in tons of different ways."
+    },
+    {
+      "start": 1172.24,
+      "end": 1173.64,
+      "text": "Out-of-home, you know, ads."
+    },
+    {
+      "start": 1173.66,
+      "end": 1174.38,
+      "text": "You can do events."
+    },
+    {
+      "start": 1174.44,
+      "end": 1178.66,
+      "text": "You can combine influencers and events, which is a great combo for driving intent."
+    },
+    {
+      "start": 1179.06,
+      "end": 1181.84,
+      "text": "You can run TV ads, podcast ads, Amazon ads."
+    },
+    {
+      "start": 1182.02,
+      "end": 1183.3,
+      "text": "There's so many things you can do."
+    },
+    {
+      "start": 1183.4,
+      "end": 1186.28,
+      "text": "And truly, you've got to figure out what works for you, right?"
+    },
+    {
+      "start": 1186.56,
+      "end": 1189.5,
+      "text": "This is where I believe this episode is still sponsored by House."
+    },
+    {
+      "start": 1189.5,
+      "end": 1202.58,
+      "text": "This is actually where a product like House comes in handy because you can run a segmented test and actually understand what incremental lift did, you know, podcast ads actually drive in retail or online or on Amazon."
+    },
+    {
+      "start": 1203.02,
+      "end": 1209.5,
+      "text": "Or, you know, if you run an isolated TV test with House, you can understand, okay, TV, what did that do to the D2C brand?"
+    },
+    {
+      "start": 1209.56,
+      "end": 1210.46,
+      "text": "Did it drive more traffic?"
+    },
+    {
+      "start": 1210.58,
+      "end": 1215.46,
+      "text": "Did it drive more sales than the average, you know, comparing it to the group that's not exposed to TV?"
+    },
+    {
+      "start": 1216.16,
+      "end": 1218.88,
+      "text": "Did it do the same thing for Amazon or for retail?"
+    },
+    {
+      "start": 1219.96,
+      "end": 1222.68,
+      "text": "So the truth is there's so many options of what you can do."
+    },
+    {
+      "start": 1222.86,
+      "end": 1225.02,
+      "text": "You really just got to make sure you're measuring it properly."
+    },
+    {
+      "start": 1225.54,
+      "end": 1236.06,
+      "text": "And, you know, considering that you asked this question being omni-channel and outside of Google and TikTok and Meta, I'm assuming you're in retail stores on Amazon and spending a good amount on advertising."
+    },
+    {
+      "start": 1236.06,
+      "end": 1247.16,
+      "text": "So I would figure out some sort of a system like House where you can actually understand the impact it has and then test a bunch of things and place your bets where you think your customers are first."
+    },
+    {
+      "start": 1247.4,
+      "end": 1250.66,
+      "text": "But then from there, you know, start testing other things and measuring it."
+    },
+    {
+      "start": 1250.66,
+      "end": 1251.36,
+      "text": "Okay."
+    },
+    {
+      "start": 1251.36,
+      "end": 1257.46,
+      "text": "Okay. Question number three, do we think UGC, which stands for user generated content,"
+    },
+    {
+      "start": 1257.88,
+      "end": 1262.42,
+      "text": "is starting to die? Some brands have noticed UGC underperforming compared to static images."
+    },
+    {
+      "start": 1262.7,
+      "end": 1267.74,
+      "text": "If UGC doesn't work for video, what's the next best thing? First of all, static images,"
+    },
+    {
+      "start": 1268.62,
+      "end": 1273.5,
+      "text": "undefeated. You know what I'm saying? Open up Figma, make yourself a few templates. You can"
+    },
+    {
+      "start": 1273.5,
+      "end": 1280.02,
+      "text": "actually buy Facebook ad static ad templates on the internet. And I'm sure there's a bunch"
+    },
+    {
+      "start": 1280.02,
+      "end": 1285,
+      "text": "of great people in this community that have these things for sale. Or I bet in the Slack community,"
+    },
+    {
+      "start": 1285.1,
+      "end": 1288.14,
+      "text": "if you just go ask, some people would be down to just share their Figma templates."
+    },
+    {
+      "start": 1288.76,
+      "end": 1293.98,
+      "text": "Now, why do I love statics? Well, because one, it takes literally 30 seconds to make a static ad,"
+    },
+    {
+      "start": 1294.82,
+      "end": 1298.76,
+      "text": "especially if you've already got a template. It takes 30 seconds to make the ad and export it,"
+    },
+    {
+      "start": 1298.94,
+      "end": 1302.96,
+      "text": "and maybe another five minutes to put it up in the ads manager and get it live."
+    },
+    {
+      "start": 1303.48,
+      "end": 1310.48,
+      "text": "Two is the CPMs tend to be really cheap on static ads. So unlike with video or, you know,"
+    },
+    {
+      "start": 1311,
+      "end": 1314.92,
+      "text": "whitelisting ads, you're still paying a little bit of a higher CPM than just with static ads."
+    },
+    {
+      "start": 1315.78,
+      "end": 1321.96,
+      "text": "And three is, well, three, I'm just going to go back to one and two. It's really just about speed."
+    },
+    {
+      "start": 1322.12,
+      "end": 1326.3,
+      "text": "You can get it up and you can get it live and you can quickly see what's working. And depending on how"
+    },
+    {
+      "start": 1326.3,
+      "end": 1330.18,
+      "text": "much you're spending, that might, you might know within a couple hours if it's going to hit or if it's"
+    },
+    {
+      "start": 1330.18,
+      "end": 1336.96,
+      "text": "not going to hit. But all that said, I don't think UGC is dead. I think the fake influencer era of UGC"
+    },
+    {
+      "start": 1336.96,
+      "end": 1341.48,
+      "text": "content has died. I don't think anybody wants to see fake wannabe actors try to sell you some high"
+    },
+    {
+      "start": 1341.48,
+      "end": 1347.88,
+      "text": "margin wellness supplement. However, when it's UGC, meaning user generated or created by a customer"
+    },
+    {
+      "start": 1347.88,
+      "end": 1355.7,
+      "text": "that is a true customer, verified purchase, use the product, found a real need, found a solution"
+    },
+    {
+      "start": 1355.7,
+      "end": 1360.06,
+      "text": "within the product, then I don't think those are dead. In fact, I think those work really"
+    },
+    {
+      "start": 1360.06,
+      "end": 1366.74,
+      "text": "well. The organic customer videos and reviews, whether you create a compilation out of it,"
+    },
+    {
+      "start": 1366.86,
+      "end": 1370.58,
+      "text": "whether you whitelist an individual customer's account and kind of chop up their video differently,"
+    },
+    {
+      "start": 1370.94,
+      "end": 1377.46,
+      "text": "those still work. They also have to be realistic though, right? That's what makes bad UGC, bad UGC,"
+    },
+    {
+      "start": 1377.6,
+      "end": 1383.94,
+      "text": "right? You've got this failed actor out of Hollywood. Sorry, this is kind of mean, but it is true."
+    },
+    {
+      "start": 1383.94,
+      "end": 1388.9,
+      "text": "It's true. And they're just like, they open a box and they start the video, let's unbox my new"
+    },
+    {
+      "start": 1388.9,
+      "end": 1395.16,
+      "text": "filtered shower head. I'm sorry, nobody cares about unboxing a new filtered shower head. But if it's a"
+    },
+    {
+      "start": 1395.16,
+      "end": 1399.56,
+      "text": "real customer and they start the video talking about how they used to have crazy eczema and they couldn't"
+    },
+    {
+      "start": 1399.56,
+      "end": 1404.52,
+      "text": "figure out what was causing it, finally that led them to a filtered shower head, that's a lot more"
+    },
+    {
+      "start": 1404.52,
+      "end": 1410.64,
+      "text": "interesting. But those things only come from real customer stories. So take what you want from that."
+    },
+    {
+      "start": 1410.64,
+      "end": 1417.26,
+      "text": "But I don't think UGC is dead. I think fake UGC is dead. I think real UGC is very well alive and"
+    },
+    {
+      "start": 1417.26,
+      "end": 1423,
+      "text": "still performing. All right. I need to interrupt this podcast to ask you a very important question."
+    },
+    {
+      "start": 1423.26,
+      "end": 1428.3,
+      "text": "Have you ever wondered how much of your DTC ads, the ads going directly to your website are impacting"
+    },
+    {
+      "start": 1428.3,
+      "end": 1434.56,
+      "text": "other sales channels in your business? For example, even with YouTube showing a 0.8x ROAS in platform,"
+    },
+    {
+      "start": 1434.9,
+      "end": 1439.66,
+      "text": "do you understand the impact that it has on driving sales in Target or Amazon? Chances are,"
+    },
+    {
+      "start": 1439.66,
+      "end": 1443.66,
+      "text": "unless you have an incrementality practice in place, it's hard to understand the impact of your"
+    },
+    {
+      "start": 1443.66,
+      "end": 1449.86,
+      "text": "ad dollars at a true incremental view. Meaning you know that even though the YouTube might show a 0.8x"
+    },
+    {
+      "start": 1449.86,
+      "end": 1456,
+      "text": "ROAS, it's driving incremental sales to Target and Amazon. And therefore YouTube has a true incremental"
+    },
+    {
+      "start": 1456,
+      "end": 1462.46,
+      "text": "ROAS of 2.2x. Recently with one of my favorite brands, Inkbox, House ran a test and when they looked"
+    },
+    {
+      "start": 1462.46,
+      "end": 1468.68,
+      "text": "at Snap Ads, it drove a 5% revenue lift on their DTC business. However, when they ran an incrementality"
+    },
+    {
+      "start": 1468.68,
+      "end": 1474.7,
+      "text": "experiment, isolating a control and expose group to the Snap Ads, they saw that Snap delivered an 11%"
+    },
+    {
+      "start": 1474.7,
+      "end": 1480.54,
+      "text": "lift on Walmart sales and an additional 5% lift with Amazon sales. Experiments like this are so"
+    },
+    {
+      "start": 1480.54,
+      "end": 1485.12,
+      "text": "necessary when you have more than two channels of marketing or two channels of sales and distribution."
+    },
+    {
+      "start": 1485.7,
+      "end": 1489.04,
+      "text": "In-platform reporting over-reports itself because they look for correlation,"
+    },
+    {
+      "start": 1489.04,
+      "end": 1494.94,
+      "text": "not causation. This specific case study or use case alone is why I recommend you get a demo of"
+    },
+    {
+      "start": 1494.94,
+      "end": 1500.64,
+      "text": "House. House is a self-service, automated, easy to set up incrementality and experimentation platform."
+    },
+    {
+      "start": 1501.02,
+      "end": 1505.7,
+      "text": "It's built by the best scientists and economists and is trusted by leading brands to understand a"
+    },
+    {
+      "start": 1505.7,
+      "end": 1510.22,
+      "text": "marketing channel's true impact. If you're a seven figure or larger omni-channel business,"
+    },
+    {
+      "start": 1510.54,
+      "end": 1515.64,
+      "text": "I highly recommend you spend 15 minutes, check out a platform demo of House. It blew my mind when I"
+    },
+    {
+      "start": 1515.64,
+      "end": 1519.42,
+      "text": "first saw how easy it was to set up the experiments and I'm sure it's going to do the same for you."
+    },
+    {
+      "start": 1519.7,
+      "end": 1526.66,
+      "text": "Go to house.io slash limited to learn more. That's h-a-u-s dot i-o slash limited to learn more."
+    },
+    {
+      "start": 1528.59,
+      "end": 1535.31,
+      "text": "Okay, next question is, first BFCM Black Friday Cyber Monday advice. Should I keep it simple or should"
+    },
+    {
+      "start": 1535.31,
+      "end": 1542.31,
+      "text": "I try a variety of strategies to learn what works best? Well, I'm a fan of, first of all, in general,"
+    },
+    {
+      "start": 1542.31,
+      "end": 1548.43,
+      "text": "I'm a fan of KISS. Keep it simple, stupid, right? If you don't want to call somebody stupid,"
+    },
+    {
+      "start": 1548.59,
+      "end": 1554.71,
+      "text": "you say, keep it stupid simple. Now, the reason I like that is because on Black Friday Cyber Monday,"
+    },
+    {
+      "start": 1554.97,
+      "end": 1560.51,
+      "text": "consumers are just going to be hammered with, I mean, think about your own email inbox or your,"
+    },
+    {
+      "start": 1560.51,
+      "end": 1566.05,
+      "text": "now your text inbox on or around Black Friday. It's just madness. It's constantly blowing up."
+    },
+    {
+      "start": 1566.15,
+      "end": 1570.91,
+      "text": "Brands are sending three to four emails a day. We're sending three to four emails a day. Okay?"
+    },
+    {
+      "start": 1570.91,
+      "end": 1575.75,
+      "text": "Now, every brand is doing that. So that's why I think you got to keep everything simple."
+    },
+    {
+      "start": 1576.15,
+      "end": 1580.73,
+      "text": "Just make sure you have a really strong offer, a good variety of products in your offer if you can,"
+    },
+    {
+      "start": 1580.87,
+      "end": 1584.97,
+      "text": "right? So if you've got different flavors, scents, colors, fabrics, whatever it is,"
+    },
+    {
+      "start": 1585.17,
+      "end": 1589.85,
+      "text": "have a variety within that offer. And make sure you're really loud about your offer. I think the"
+    },
+    {
+      "start": 1589.85,
+      "end": 1594.87,
+      "text": "biggest mistake I see from brands doing their Black Friday for the first few times is they're just not"
+    },
+    {
+      "start": 1594.87,
+      "end": 1600.09,
+      "text": "loud enough about their offer. Make sure you send enough reminder emails. Make sure those who are"
+    },
+    {
+      "start": 1600.09,
+      "end": 1607.49,
+      "text": "not opening or not clicking are getting more emails. Make sure that your organic Instagram talks about"
+    },
+    {
+      "start": 1607.49,
+      "end": 1611.87,
+      "text": "what your offer is. You got to just make sure that people know what the offer is. You can even set"
+    },
+    {
+      "start": 1611.87,
+      "end": 1617.75,
+      "text": "a, send out an email in advance sharing that your, you know, what your offer is and when it's going"
+    },
+    {
+      "start": 1617.75,
+      "end": 1625.51,
+      "text": "to be available to purchase. But yeah, I think keep it simple. Once you feel comfortable with Black Friday"
+    },
+    {
+      "start": 1625.51,
+      "end": 1631.87,
+      "text": "and kind of changing sales and, you know, you've got enough resources to have different creative for"
+    },
+    {
+      "start": 1631.87,
+      "end": 1636.13,
+      "text": "Saturday, Sunday or Monday, you know, cyber week and a different one, maybe for giving Tuesday,"
+    },
+    {
+      "start": 1636.55,
+      "end": 1640.19,
+      "text": "then you can try to make it a little bit more complicated. But you also really want to think"
+    },
+    {
+      "start": 1640.19,
+      "end": 1646.19,
+      "text": "about your SKU variation. Like how many SKUs do you have that you can really make unique offers out"
+    },
+    {
+      "start": 1646.19,
+      "end": 1651.53,
+      "text": "of? And secondly, is the number of customers that you've got in your funnel. Or if you remember,"
+    },
+    {
+      "start": 1651.53,
+      "end": 1655.69,
+      "text": "we've always talked about this concept of flushing the toilet, which is you spend the whole year"
+    },
+    {
+      "start": 1655.69,
+      "end": 1660.99,
+      "text": "building up this backed up toilet of customers. I'm laughing because this is pretty funny as I'm"
+    },
+    {
+      "start": 1660.99,
+      "end": 1665.53,
+      "text": "saying it, but you spend, you know, the whole year building this toilet of customers and then in"
+    },
+    {
+      "start": 1665.53,
+      "end": 1670.25,
+      "text": "Q4, you flush it, right? So if you don't have a lot of people in your pipe to flush, then you really"
+    },
+    {
+      "start": 1670.25,
+      "end": 1674.99,
+      "text": "can't get too complicated with offers, nor can you get, nor can you be pushing out too many offers."
+    },
+    {
+      "start": 1674.99,
+      "end": 1681.59,
+      "text": "But punchline, keep it simple. In general, even if you've got a lot of customers and whatnot,"
+    },
+    {
+      "start": 1681.77,
+      "end": 1686.13,
+      "text": "try to keep it simple. There's still ways if you're selling, trying to sell multiple different"
+    },
+    {
+      "start": 1686.13,
+      "end": 1690.85,
+      "text": "types of products or collections or styles, and you want to have individual sales per,"
+    },
+    {
+      "start": 1690.99,
+      "end": 1695.59,
+      "text": "you can still do that, but just keep it simple, you know? Maybe it's like a blank percentage off."
+    },
+    {
+      "start": 1695.71,
+      "end": 1700.47,
+      "text": "Maybe it's a buy X, get Y. Maybe it's a gift with purchase at a certain threshold."
+    },
+    {
+      "start": 1700.47,
+      "end": 1704.47,
+      "text": "But anything kind of more complicated than that is just going to confuse people."
+    },
+    {
+      "start": 1704.77,
+      "end": 1710.21,
+      "text": "And people have a lot of brands already competing for their attention. So you want to make things"
+    },
+    {
+      "start": 1710.21,
+      "end": 1713.95,
+      "text": "quick so they can understand it, digest it, and decide if they want to buy and then move on with"
+    },
+    {
+      "start": 1713.95,
+      "end": 1720.83,
+      "text": "their life. Okay. Question number five, can you share some details around going from product idea"
+    },
+    {
+      "start": 1720.83,
+      "end": 1727.13,
+      "text": "to actual production? There's lots of advice around landing pages, ads, and CRO, but what are the A to Z"
+    },
+    {
+      "start": 1727.13,
+      "end": 1732.03,
+      "text": "steps creating, sourcing, and producing the product? All right. Well, let me tell you this."
+    },
+    {
+      "start": 1732.07,
+      "end": 1737.51,
+      "text": "I'm not an expert in this, but from my experience, there's basically, there's a few different ways"
+    },
+    {
+      "start": 1737.51,
+      "end": 1741.43,
+      "text": "you can do it. There's product development agencies you could work with. So you could find"
+    },
+    {
+      "start": 1741.93,
+      "end": 1747.19,
+      "text": "agencies that are in California, New York, and Texas, wherever. I bet they're everywhere."
+    },
+    {
+      "start": 1748.07,
+      "end": 1751.07,
+      "text": "And you work with them, you kind of help them understand what you're trying to build,"
+    },
+    {
+      "start": 1751.21,
+      "end": 1755.99,
+      "text": "the design, what inspires you. And similar to like how Sharma Brands would work with a client"
+    },
+    {
+      "start": 1755.99,
+      "end": 1761.97,
+      "text": "on a website where, you know, we work with them around the style and the design, the branding,"
+    },
+    {
+      "start": 1762.29,
+      "end": 1766.81,
+      "text": "you know, the finesse, everything. These agencies would work with you on the product side. So they'll"
+    },
+    {
+      "start": 1766.81,
+      "end": 1771.53,
+      "text": "really just make sure that they end up creating a product that you really love. And then sometimes"
+    },
+    {
+      "start": 1771.53,
+      "end": 1776.49,
+      "text": "they'll help you set up the whole supply chain behind it. So it's actually a huge advantage because"
+    },
+    {
+      "start": 1776.49,
+      "end": 1781.97,
+      "text": "sometimes when you're setting up your own supply chain, if you're going out and, you know, your name"
+    },
+    {
+      "start": 1781.97,
+      "end": 1787.81,
+      "text": "is Carl and you're calling a factory in China, you might just get taken advantage of. But if you've"
+    },
+    {
+      "start": 1787.81,
+      "end": 1792.83,
+      "text": "got a team or an agency you work with, just like how, you know, again, brands that work with us to"
+    },
+    {
+      "start": 1792.83,
+      "end": 1797.33,
+      "text": "build sites, we can walk them into companies and give them that Sharma Brands red carpet pricing"
+    },
+    {
+      "start": 1797.33,
+      "end": 1802.09,
+      "text": "on whether it's a tech stack or shipment rates or whatever it is. These guys can do the same thing"
+    },
+    {
+      "start": 1802.09,
+      "end": 1806.55,
+      "text": "around the supply chain. So they'll help you walk you into supply chain and kind of get you set up"
+    },
+    {
+      "start": 1806.55,
+      "end": 1812.13,
+      "text": "that way. That is the more expensive and bougie way to do it. You can also do things like you can"
+    },
+    {
+      "start": 1812.13,
+      "end": 1818.43,
+      "text": "find samples through Alibaba. You know, I remember at one point I wanted to create a pillow brand and I"
+    },
+    {
+      "start": 1818.43,
+      "end": 1824.95,
+      "text": "ordered 25 different pillow samples from Alibaba. And now I just have a really good pillow, but"
+    },
+    {
+      "start": 1826.03,
+      "end": 1830.43,
+      "text": "it really depends, right? Like if you've got cookware, if you've got furniture, if you've got food"
+    },
+    {
+      "start": 1830.43,
+      "end": 1835.63,
+      "text": "products, if you've got a beverage, they all kind of have different formulation concepts, but essentially"
+    },
+    {
+      "start": 1835.63,
+      "end": 1841.85,
+      "text": "from my understanding, and I can definitely bring in an expert to talk about this on an episode. But from my"
+    },
+    {
+      "start": 1841.85,
+      "end": 1848.77,
+      "text": "understanding, it's basically you want to create your final kind of product of what you want with one party,"
+    },
+    {
+      "start": 1848.77,
+      "end": 1855.09,
+      "text": "and then you want to go find another party to help you scale production of that. And yeah, and then of course,"
+    },
+    {
+      "start": 1855.15,
+      "end": 1861.97,
+      "text": "you've got to figure out who your 3PL is, and what warehouse you're using. And then you get the whole thing"
+    },
+    {
+      "start": 1861.97,
+      "end": 1867.51,
+      "text": "going. But I'll try to bring somebody on who's kind of an expert in this, and you know, maybe we'll do"
+    },
+    {
+      "start": 1867.51,
+      "end": 1874.13,
+      "text": "a whole Q\u0026A session in that episode about product development. Okay, question number six. What are"
+    },
+    {
+      "start": 1874.13,
+      "end": 1880.09,
+      "text": "some ideas to capture customer data from in-store purchases to remarket to them online? For example,"
+    },
+    {
+      "start": 1880.21,
+      "end": 1885.17,
+      "text": "we use a warranty card in our retail boxes, but conversion rates are low. Okay, warranty cards are"
+    },
+    {
+      "start": 1885.17,
+      "end": 1892.45,
+      "text": "great. In fact, I wasn't really too keen on this concept until I saw how Bridge was executing this"
+    },
+    {
+      "start": 1892.45,
+      "end": 1900.93,
+      "text": "with QR codes and warranty and just the nice UX and UI around it. But, you know, when I think back on,"
+    },
+    {
+      "start": 1901.15,
+      "end": 1906.53,
+      "text": "like, I consider myself a tough consumer, I don't click every ad, I'm pretty skeptical."
+    },
+    {
+      "start": 1908.31,
+      "end": 1913.83,
+      "text": "I don't necessarily scan a lot of things, like when I see QR codes. And you might be thinking I'm a"
+    },
+    {
+      "start": 1913.83,
+      "end": 1924.33,
+      "text": "douchebag. Well, I'm not. But what I do know is that the best box I've picked up and scanned and"
+    },
+    {
+      "start": 1924.33,
+      "end": 1928.23,
+      "text": "actually gone through with was probably Harry's. And, you know, that was because I think there was"
+    },
+    {
+      "start": 1928.23,
+      "end": 1936.37,
+      "text": "a discount towards the next blade refill. So I bought the shaving handle and came with a blade at"
+    },
+    {
+      "start": 1936.37,
+      "end": 1941.03,
+      "text": "Target. And then inside you scan something, it takes you to the site and you get a discount on the next bundle"
+    },
+    {
+      "start": 1941.03,
+      "end": 1945.63,
+      "text": "of blades. Essentially, you need, you really just need a reason for somebody to pick up their phone and spend"
+    },
+    {
+      "start": 1945.63,
+      "end": 1950.23,
+      "text": "three minutes going through whatever your flow is. So, you know, keep in mind that people are motivated by"
+    },
+    {
+      "start": 1950.23,
+      "end": 1956.99,
+      "text": "discounts, convenience, free products, deals, or if you're a product like Jolie or Harry, you need that next refill."
+    },
+    {
+      "start": 1957.17,
+      "end": 1963.41,
+      "text": "So you'll scan for that reason, right? There's a health reason or a sanitation reason or a blade sharpness"
+    },
+    {
+      "start": 1963.41,
+      "end": 1968.67,
+      "text": "reason. So if you've got your own angle and your reason there, then you use that. If you don't have"
+    },
+    {
+      "start": 1968.67,
+      "end": 1974.71,
+      "text": "that, then default to discounts, convenience, free products, deals, et cetera. Okay. Question seven,"
+    },
+    {
+      "start": 1974.93,
+      "end": 1979.99,
+      "text": "what are the best practices for post-purchase follow-ups? How many surveys are too many? How do"
+    },
+    {
+      "start": 1979.99,
+      "end": 1984.97,
+      "text": "you balance collecting beneficial data without overwhelming the customer? Okay. First place you can"
+    },
+    {
+      "start": 1984.97,
+      "end": 1990.13,
+      "text": "start collecting data is a post-purchase survey. This is all stuff you can easily add to a customer"
+    },
+    {
+      "start": 1990.13,
+      "end": 1994.83,
+      "text": "profile as they're answering it. And you want to ask simple questions like, you know, how'd you hear"
+    },
+    {
+      "start": 1994.83,
+      "end": 1999.17,
+      "text": "about us? Or, you know, where'd you hear about us? How'd you find us? Which is important because,"
+    },
+    {
+      "start": 1999.45,
+      "end": 2003.53,
+      "text": "you know, you might think that triple whale is going to tell you that that purchase came from Google,"
+    },
+    {
+      "start": 2003.53,
+      "end": 2008.05,
+      "text": "but the survey might actually tell you that the person discovered the brand through an influencer."
+    },
+    {
+      "start": 2008.21,
+      "end": 2014.21,
+      "text": "So those are really important to understand. Second is, well, that's really the first place you want"
+    },
+    {
+      "start": 2014.21,
+      "end": 2018.05,
+      "text": "to start asking. Oh, and then of course you can ask questions like, you know, how long did you hear"
+    },
+    {
+      "start": 2018.05,
+      "end": 2021.79,
+      "text": "about our, or how long have you known about our brand before making a purchase? Who are you buying"
+    },
+    {
+      "start": 2021.79,
+      "end": 2025.59,
+      "text": "the product for? You know, if they say it's for somebody else, you can ask, okay, well, who are"
+    },
+    {
+      "start": 2025.59,
+      "end": 2030.65,
+      "text": "you gifting it to? So there's different things you can ask. You can ask them, you know, what motivated"
+    },
+    {
+      "start": 2030.65,
+      "end": 2034.45,
+      "text": "them to buy the product or what reason are they buying the product for? And you can kind of put"
+    },
+    {
+      "start": 2034.45,
+      "end": 2040.05,
+      "text": "what you think your three or four top answers are and then leave an option for other. However,"
+    },
+    {
+      "start": 2041.51,
+      "end": 2046.23,
+      "text": "after the post-purchase survey, it really depends on what you're selling. So if you're selling"
+    },
+    {
+      "start": 2046.23,
+      "end": 2050.23,
+      "text": "something like beauty products or something that's consumable, you know, has a high repeat"
+    },
+    {
+      "start": 2050.23,
+      "end": 2055.15,
+      "text": "purchase rate, they're probably going to come back soon. You might even have the opportunity to,"
+    },
+    {
+      "start": 2056.07,
+      "end": 2061.47,
+      "text": "you know, sell a second or third product before the first product even arrives, or maybe within the"
+    },
+    {
+      "start": 2061.47,
+      "end": 2064.85,
+      "text": "first week of the product arriving. But if you're selling something that's going to move quickly,"
+    },
+    {
+      "start": 2065.05,
+      "end": 2071.31,
+      "text": "you want to reserve those first few opens of an email or a text message for selling more product"
+    },
+    {
+      "start": 2071.31,
+      "end": 2076.91,
+      "text": "or educating your customers on how, why, when, where to use your product, right? If you're a"
+    },
+    {
+      "start": 2076.91,
+      "end": 2081.09,
+      "text": "one-time purchase, like let's say you sell a weighted blanket, then you can probably follow"
+    },
+    {
+      "start": 2081.09,
+      "end": 2086.13,
+      "text": "up a couple of weeks after the shipment delivery date. So they've had some time to use it and now"
+    },
+    {
+      "start": 2086.13,
+      "end": 2091.97,
+      "text": "you can follow up and ask them questions. And those are also great and very beneficial. Now,"
+    },
+    {
+      "start": 2093.53,
+      "end": 2098.61,
+      "text": "if you're a one-time product, like a weighted blanket, and you're going into the holidays in Q4,"
+    },
+    {
+      "start": 2098.61,
+      "end": 2103.03,
+      "text": "and you've got this survey set up, then one thing you also want to remember is that a lot of these"
+    },
+    {
+      "start": 2103.03,
+      "end": 2108.51,
+      "text": "purchases are probably for other people. So make sure that you are either being cognizant of,"
+    },
+    {
+      "start": 2108.55,
+      "end": 2112.99,
+      "text": "you know, you're turning off your survey request going out, or just swap it, like switch the"
+    },
+    {
+      "start": 2112.99,
+      "end": 2117.95,
+      "text": "questions out and talk about if they mentioned it was a gift, go really deep understanding who is a"
+    },
+    {
+      "start": 2117.95,
+      "end": 2123.37,
+      "text": "gift for why they gifted it, you know, try to figure out how you can get more insights so that"
+    },
+    {
+      "start": 2123.37,
+      "end": 2128.01,
+      "text": "next Q4 in 2025, you feel a little bit more prepared going into this season."
+    },
+    {
+      "start": 2128.67,
+      "end": 2134.01,
+      "text": "Okay. Question number eight, how do you balance brand versus performance marketing? Are they"
+    },
+    {
+      "start": 2134.01,
+      "end": 2139.59,
+      "text": "opposed or is there strong overlap? When should a brand focus on awareness versus direct response?"
+    },
+    {
+      "start": 2140.01,
+      "end": 2147.69,
+      "text": "This is something that keeps coming up. And let me tell you, you cannot sacrifice brand marketing and"
+    },
+    {
+      "start": 2147.69,
+      "end": 2152.49,
+      "text": "just run performance marketing. And you cannot sacrifice performance marketing and just run brand"
+    },
+    {
+      "start": 2152.49,
+      "end": 2158.17,
+      "text": "marketing. You sort of, you know, the way I think of it is if you've ever seen that movie Cars,"
+    },
+    {
+      "start": 2158.69,
+      "end": 2163.77,
+      "text": "when Lightning McQueen is paving the road, you know, there's a, there's a very, there's,"
+    },
+    {
+      "start": 2163.93,
+      "end": 2169.55,
+      "text": "he paves the road twice. The first time he paves the road, it's sloppy and very bumpy. And when Tow Mater"
+    },
+    {
+      "start": 2169.55,
+      "end": 2176.23,
+      "text": "is driving on the road, it's very, you know, bouncy and like all this thing of rusty, his rusty car parts start"
+    },
+    {
+      "start": 2176.23,
+      "end": 2180.51,
+      "text": "falling off. That's what happens when you don't really build a brand, you try to run performance"
+    },
+    {
+      "start": 2180.51,
+      "end": 2185.45,
+      "text": "marketing, right? You've got, you can probably get to realistically, you can probably get to like"
+    },
+    {
+      "start": 2185.45,
+      "end": 2191.19,
+      "text": "10, 12 million, maybe 10 million without really building a brand and just running performance ads."
+    },
+    {
+      "start": 2191.29,
+      "end": 2196.37,
+      "text": "But it's not realistic to, you're not building a brand, you're just selling product, maybe at an"
+    },
+    {
+      "start": 2196.37,
+      "end": 2204.07,
+      "text": "arbitrage efficiency on meta. The second time Lightning McQueen builds that road out, it's very smooth."
+    },
+    {
+      "start": 2204.07,
+      "end": 2209.45,
+      "text": "And then the car is driving over it very smooth. They enjoy that drive. And I'm sure, you know,"
+    },
+    {
+      "start": 2209.47,
+      "end": 2217.27,
+      "text": "the feeling of driving on a new road, they're fucking awesome. That is, that, that's my analogy"
+    },
+    {
+      "start": 2217.27,
+      "end": 2222.13,
+      "text": "for brand building and performance marketing. You want to, you want to pave the road before you drive"
+    },
+    {
+      "start": 2222.13,
+      "end": 2226.27,
+      "text": "the car. So you want to build the brand before you're, you're just, you know, running performance ads."
+    },
+    {
+      "start": 2227.11,
+      "end": 2232.65,
+      "text": "Every brand that I look at and try to understand maybe a pattern of how they succeeded"
+    },
+    {
+      "start": 2233.35,
+      "end": 2238.47,
+      "text": "was all done by first building some brand awareness and then capitalizing on top of it with"
+    },
+    {
+      "start": 2238.47,
+      "end": 2245.11,
+      "text": "strategic performance marketing. So again, I'm not going out the gate and blasting as much money"
+    },
+    {
+      "start": 2245.11,
+      "end": 2249.41,
+      "text": "as you possibly can into performance marketing, but you really need to build the brand. You need to"
+    },
+    {
+      "start": 2249.41,
+      "end": 2254.53,
+      "text": "build the interest that people have in it, the excitement around it. You want to build the word"
+    },
+    {
+      "start": 2254.53,
+      "end": 2259.11,
+      "text": "of mouth with it. You know, you got to build all this stuff in parallel. You can't just say,"
+    },
+    {
+      "start": 2259.11,
+      "end": 2262.85,
+      "text": "oh, I'm going to, I'm going to just max, you know, I'm going to go spend on one thing for brand"
+    },
+    {
+      "start": 2262.85,
+      "end": 2267.01,
+      "text": "and then I'm going to start running ads. No, you got to build up the whole thing. Just the same way."
+    },
+    {
+      "start": 2267.11,
+      "end": 2271.17,
+      "text": "Think about performance marketing where, you know, you're not just going to run ads to a shitty site."
+    },
+    {
+      "start": 2271.33,
+      "end": 2274.61,
+      "text": "Nope. You're going to run ads. You're going to have good creative. You're going to have a good email"
+    },
+    {
+      "start": 2274.61,
+      "end": 2277.73,
+      "text": "pop-up. You're going to have a good landing page. You're going to have a good offer. You're going to"
+    },
+    {
+      "start": 2277.73,
+      "end": 2282.51,
+      "text": "have a good post, uh, you know, site abandonment email follow-up those you're all building those"
+    },
+    {
+      "start": 2282.51,
+      "end": 2287.49,
+      "text": "together, right? You're not going to just have a lopsided funnel where one thing is really good. The other stuff is"
+    },
+    {
+      "start": 2287.49,
+      "end": 2291.23,
+      "text": "really bad. The same thing on the brand side, you've got to really approach it strategically."
+    },
+    {
+      "start": 2291.51,
+      "end": 2296.59,
+      "text": "And if you think about it, you know, ask yourself, what, what are you selling? If you're selling,"
+    },
+    {
+      "start": 2296.81,
+      "end": 2301.47,
+      "text": "um, another supplement product, let's say you're selling, uh, I'm just going to say a vitamin C"
+    },
+    {
+      "start": 2301.47,
+      "end": 2306.27,
+      "text": "because no one really just sells vitamin C, but so, you know, substitute that for any other supplement"
+    },
+    {
+      "start": 2306.27,
+      "end": 2310.97,
+      "text": "or, you know, whatever physical product, maybe it's a weighted blanket. You know, if you're selling"
+    },
+    {
+      "start": 2310.97,
+      "end": 2315.69,
+      "text": "something that other people are selling, the only reason somebody is going to buy from you is either a,"
+    },
+    {
+      "start": 2315.69,
+      "end": 2320.73,
+      "text": "B the price or B the brand, right? If we go back to what we were talking about earlier,"
+    },
+    {
+      "start": 2321.03,
+      "end": 2327.29,
+      "text": "the brand is how people make, how people feel, um, what gets them excited, what motivates them to"
+    },
+    {
+      "start": 2327.29,
+      "end": 2332.73,
+      "text": "want to align with them and even become a brand ambassador, right? If you don't have that stuff,"
+    },
+    {
+      "start": 2332.89,
+      "end": 2337.63,
+      "text": "you can't just run performance ads. It's not going to work. I've seen it happen. It doesn't work. Uh,"
+    },
+    {
+      "start": 2337.73,
+      "end": 2342.29,
+      "text": "everybody gets frustrated and, um, and then you think the problem is all the wrong things,"
+    },
+    {
+      "start": 2342.29,
+      "end": 2347.76,
+      "text": "but really the problem is just, you just need to build the brand. I think I should stop there."
+    },
+    {
+      "start": 2347.8,
+      "end": 2352.06,
+      "text": "I'm getting heated now. Okay. Question number nine, what is the best way to achieve product"
+    },
+    {
+      "start": 2352.06,
+      "end": 2358,
+      "text": "market fit with a very limited budget? Well, uh, there's four, four easy ways you can do it. And"
+    },
+    {
+      "start": 2358,
+      "end": 2362.78,
+      "text": "I'm going to basically go backwards. So I'm going to start with the most thorough way to do it to the"
+    },
+    {
+      "start": 2362.78,
+      "end": 2368.48,
+      "text": "least thorough, but still decent way to do it. So, uh, most thorough way you can run a pre-launch"
+    },
+    {
+      "start": 2368.48,
+      "end": 2372.94,
+      "text": "landing page and see who purchases. So, you know, you drive traffic to a landing page,"
+    },
+    {
+      "start": 2373.06,
+      "end": 2378.16,
+      "text": "your landing page is properly explaining benefits and how it works and how it compares and, uh,"
+    },
+    {
+      "start": 2378.16,
+      "end": 2383.52,
+      "text": "all the things that a good landing page does. And you see what the conversion rate of people who"
+    },
+    {
+      "start": 2383.52,
+      "end": 2388.54,
+      "text": "purchases, the people who purchase, you can, you know, email them and say, Hey, uh, thanks so much"
+    },
+    {
+      "start": 2388.54,
+      "end": 2392,
+      "text": "for purchasing. We're just doing some testing, but we're not fully live, but we'd love to give you"
+    },
+    {
+      "start": 2392,
+      "end": 2396.92,
+      "text": "the product that half off or whatever, when it launches for real. Um, you can also use those"
+    },
+    {
+      "start": 2396.92,
+      "end": 2402.26,
+      "text": "people to then survey and ask them a bunch of questions. Now, the only downside, it is the most"
+    },
+    {
+      "start": 2402.26,
+      "end": 2406.34,
+      "text": "thorough, but the downside is because you're going for people who are purchasing, you're fully paying,"
+    },
+    {
+      "start": 2406.34,
+      "end": 2413.22,
+      "text": "you know, full on CPAs to get that right. It's not just CPLs, it's full CPAs, meaning you're paying"
+    },
+    {
+      "start": 2413.22,
+      "end": 2418.38,
+      "text": "meta or wherever you're driving traffic to acquire a full customer, which is obviously more expensive."
+    },
+    {
+      "start": 2419.14,
+      "end": 2423.2,
+      "text": "Now, the second way to do it is you run a pre-launch landing page and see who gives you their email."
+    },
+    {
+      "start": 2423.72,
+      "end": 2426.88,
+      "text": "So you have a landing page. It talks about the benefits, you know, kind of all"
+    },
+    {
+      "start": 2426.88,
+      "end": 2432.26,
+      "text": "all the similar things, but you have an email collection or email submission. This is what"
+    },
+    {
+      "start": 2432.26,
+      "end": 2438.66,
+      "text": "Jolie did with the water report. Um, they saw an insane success right there, which is why everybody"
+    },
+    {
+      "start": 2438.66,
+      "end": 2443.88,
+      "text": "started to believe in it so much right away. Um, again, here, you're not getting the purchase,"
+    },
+    {
+      "start": 2444.06,
+      "end": 2448.86,
+      "text": "but you are getting an email. It's a bit of a, it's still a great signal, but it's not as high intent,"
+    },
+    {
+      "start": 2449.02,
+      "end": 2453.8,
+      "text": "right? Third one, you can run a pre-launch landing page and understand the click-through rate"
+    },
+    {
+      "start": 2453.8,
+      "end": 2458.46,
+      "text": "from meta ads. So you're not even really spending toward collecting emails, but you're more so just"
+    },
+    {
+      "start": 2458.46,
+      "end": 2463.32,
+      "text": "understanding what kind of messaging, uh, or is this messaging even interesting or relevant to"
+    },
+    {
+      "start": 2463.32,
+      "end": 2468.66,
+      "text": "the market by looking at click-through rate. And then the fourth way, which is the, um, you know,"
+    },
+    {
+      "start": 2468.72,
+      "end": 2472.98,
+      "text": "what I call the broke man's way to do it, which mad respect to those who do it this way, because this"
+    },
+    {
+      "start": 2472.98,
+      "end": 2478.72,
+      "text": "is, this is honestly the best way to do it. In my opinion is you just put out content or on organic"
+    },
+    {
+      "start": 2478.72,
+      "end": 2483.42,
+      "text": "platforms and you see what resonates with the market. Um, strawberry milk mob. I've talked about"
+    },
+    {
+      "start": 2483.42,
+      "end": 2489.98,
+      "text": "that brand before. That's exactly what they did. And, uh, she's crushing it. Okay. Question number 10,"
+    },
+    {
+      "start": 2490.84,
+      "end": 2495.5,
+      "text": "what are best practices for SEO and Shopify brands, particularly for site architecture,"
+    },
+    {
+      "start": 2495.7,
+      "end": 2501.58,
+      "text": "backlink strategy, and image alt text is filling out image alt text still important with AI advancements."
+    },
+    {
+      "start": 2502.44,
+      "end": 2508.12,
+      "text": "If I'm being completely honest, I'm not the SEO expert, uh, at Sharma brands, but I will get this"
+    },
+    {
+      "start": 2508.12,
+      "end": 2513.06,
+      "text": "question answered and, uh, it'll either be in a newsletter or maybe what I'll do is I'll bring an"
+    },
+    {
+      "start": 2513.06,
+      "end": 2518.4,
+      "text": "SEO expert on the podcast next season. And we'll just go super deep on how you should be setting up"
+    },
+    {
+      "start": 2518.4,
+      "end": 2525.44,
+      "text": "SEO as a Shopify brand. What are all the things you can do to maximize SEO? And, um, and for those who"
+    },
+    {
+      "start": 2525.44,
+      "end": 2530.24,
+      "text": "are on a more constrained budget, if you can't afford an SEO agency, what are the things you could be"
+    },
+    {
+      "start": 2530.24,
+      "end": 2536.2,
+      "text": "doing in house or with a contractor? So maybe we'll do that for next season. Okay. Last question here"
+    },
+    {
+      "start": 2536.2,
+      "end": 2542.54,
+      "text": "is question 11. This is a, unfortunately all the time we've got for today. Question 11 says advice"
+    },
+    {
+      "start": 2542.54,
+      "end": 2547.22,
+      "text": "for solopreneurs running a, trying to run a profitable top of funnel Facebook ads product."
+    },
+    {
+      "start": 2547.62,
+      "end": 2554.48,
+      "text": "His products have an AOV or different products retail at 35, 39 and $120 with an 80% margin."
+    },
+    {
+      "start": 2554.78,
+      "end": 2560.34,
+      "text": "They're not consumable and they have a low repeat purchase due to their high quality. What is the"
+    },
+    {
+      "start": 2560.34,
+      "end": 2565.92,
+      "text": "best campaign structure necessary budget to test and get out of the learning phase targeting and how to set"
+    },
+    {
+      "start": 2565.92,
+      "end": 2572.42,
+      "text": "up and run tests on creative and copy? Okay. Here's the thing. Realistically, this is not a,"
+    },
+    {
+      "start": 2572.42,
+      "end": 2581.54,
+      "text": "this is not a, uh, Facebook friendly product or a Facebook friendly setup, right? I mean,"
+    },
+    {
+      "start": 2581.62,
+      "end": 2590.54,
+      "text": "if you're at 35, 39 and 120, let's say your AOV is 37, right? Um, 37 with an 80% margin"
+    },
+    {
+      "start": 2591.18,
+      "end": 2598.1,
+      "text": "puts you at a margin of just under 30 bucks. So let's say 29. Now out of 29 bucks, you've got to"
+    },
+    {
+      "start": 2598.1,
+      "end": 2605.3,
+      "text": "pay all your bills yourself and Facebook. Um, it's going to be very hard. I mean, it's not,"
+    },
+    {
+      "start": 2605.36,
+      "end": 2610.26,
+      "text": "it's not a Facebook friendly product for Facebook. You either need high AOV, like, you know, over a"
+    },
+    {
+      "start": 2610.26,
+      "end": 2615.98,
+      "text": "couple hundred, uh, if it's a one-time purchase or you need high consumption. If it's a low AOV"
+    },
+    {
+      "start": 2615.98,
+      "end": 2622.24,
+      "text": "purchase, right? You got to rely on the second, third, fourth purchase. But if you're just running,"
+    },
+    {
+      "start": 2622.24,
+      "end": 2628.84,
+      "text": "uh, meta ads to try to make this thing profitable on a $37 AOV, good luck to you, my friend, you must"
+    },
+    {
+      "start": 2628.84,
+      "end": 2635.28,
+      "text": "have some, uh, maybe you're selling drugs or some gold, but, uh, it's, it's probably not going to"
+    },
+    {
+      "start": 2635.28,
+      "end": 2640.1,
+      "text": "happen. You've got to figure out other ways to kind of build that brand. Um, now the way you actually,"
+    },
+    {
+      "start": 2640.1,
+      "end": 2644.54,
+      "text": "you can get Facebook to work is if the brand is really high. In fact, if you've ever looked into,"
+    },
+    {
+      "start": 2644.54,
+      "end": 2650.06,
+      "text": "uh, well, not, I doubt many people have, but if you've ever looked into like a very large retail"
+    },
+    {
+      "start": 2650.06,
+      "end": 2655.58,
+      "text": "brand or a brand that has crazy brand awareness, you know, we're talking household name brands"
+    },
+    {
+      "start": 2655.58,
+      "end": 2661.28,
+      "text": "and seeing their Facebook ads, you would be mind blown at their CACs. Like I'm talking about"
+    },
+    {
+      "start": 2662.14,
+      "end": 2669.62,
+      "text": "high-end fashion brands getting $30 CPAs, $20 CPAs. And why are they not spending a bajillion dollars?"
+    },
+    {
+      "start": 2669.62,
+      "end": 2675.04,
+      "text": "I have no idea. Um, but that said, it just goes back to saying you need to have the brand awareness"
+    },
+    {
+      "start": 2675.04,
+      "end": 2681.32,
+      "text": "to make your performance ads work properly. So in this case, trying to run a $37 AOV with"
+    },
+    {
+      "start": 2681.32,
+      "end": 2685.42,
+      "text": "performance only on Facebook, it's just, it's not a good setup. You're just going to be kicking"
+    },
+    {
+      "start": 2685.42,
+      "end": 2690.62,
+      "text": "yourself in the foot. Take that time and that intensity that you would put towards that and put"
+    },
+    {
+      "start": 2690.62,
+      "end": 2694.84,
+      "text": "it towards something that would work with meta or you figure out how to build the brand, uh,"
+    },
+    {
+      "start": 2696.88,
+      "end": 2702.68,
+      "text": "otherwise. Okay. That's all the time we've got for today. Uh, I hope today's episode was interesting."
+    },
+    {
+      "start": 2703.14,
+      "end": 2707.36,
+      "text": "Shoot me an email and at Sharma.com, let me know what you're excited about for next season."
+    },
+    {
+      "start": 2707.68,
+      "end": 2713.3,
+      "text": "Uh, that's going to be starting in a couple of weeks and, um, I'll see you when I see you soon."
+    },
+    {
+      "start": 2713.96,
+      "end": 2718.5,
+      "text": "Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce."
+    },
+    {
+      "start": 2718.92,
+      "end": 2723.46,
+      "text": "If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you"
+    },
+    {
+      "start": 2723.46,
+      "end": 2724.76,
+      "text": "listen so you don't miss the next one."
+    }
+  ]
+}

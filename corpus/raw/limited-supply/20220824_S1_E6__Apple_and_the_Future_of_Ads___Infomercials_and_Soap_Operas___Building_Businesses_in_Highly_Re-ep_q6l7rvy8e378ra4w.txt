@@ -1,0 +1,741 @@
+[00:00:00.000 --> 00:00:08.120] You know what's crazy is soap operas, like daytime television shows, were invented by Procter & Gamble. That's why they're called soap operas.
+[00:00:08.280 --> 00:00:13.820] And the reason is because they wanted to be able to create ads to show you in the middle of the show.
+[00:00:14.180 --> 00:00:22.020] And so they're like, we need something for you to watch in the middle of the day when moms are watching and they want to sell laundry detergent or diapers or soap.
+[00:00:22.380 --> 00:00:27.240] So they created a television show so that they could put ads every 15 minutes in.
+[00:00:27.400 --> 00:00:28.560] That's so fascinating.
+[00:00:28.560 --> 00:00:30.480] Created by Procter & Gamble.
+[00:00:31.100 --> 00:00:36.900] This is Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:37.080 --> 00:00:40.380] We're your hosts, Nick and Moyes. Let's start talking about money.
+[00:00:41.340 --> 00:00:47.660] So I love Tapcart. It's a drag and drop builder that turns your Shopify store into a native mobile app in just a few hours.
+[00:00:47.840 --> 00:00:51.680] The average time to launch an app live in the App Store is just about two weeks.
+[00:00:52.020 --> 00:00:56.980] Crazy stats. Average 43x ROI, high conversion and retention rates,
+[00:00:56.980 --> 00:01:05.120] 100% organic reach per push. Push notification CTR 7x higher than email. Over 92% engagement rate.
+[00:01:05.120 --> 00:01:09.900] So Limited Supply listeners get their first two months of Tapcart for free.
+[00:01:10.060 --> 00:01:15.520] So you'll actually be able to launch your app live and test this new owned sales and marketing channel.
+[00:01:15.880 --> 00:01:22.800] Head to tapcart.com slash limited. That is tapcart.com slash limited to book a demo and start building your app today.
+[00:01:22.980 --> 00:01:24.160] You won't regret it.
+[00:01:25.000 --> 00:01:32.400] Okay. Episode six. Here we go. We're talking about a bunch of stuff, very little of which I have any understanding of right now.
+[00:01:32.660 --> 00:01:34.120] So you got to lead us through the agenda.
+[00:01:34.460 --> 00:01:38.220] All right. So we're going to start with talking through Apple's DSP.
+[00:01:38.860 --> 00:01:42.840] We're going to talk about Ali Webb, the president of Canopy, which is a humidifier company.
+[00:01:43.360 --> 00:01:52.120] I wrote out just like at midnight last night, I wrote out a bunch of thoughts on legacy tech and hard industries to build in and how some companies are innovating there.
+[00:01:52.260 --> 00:01:57.200] So we'll talk about that. And then we'll finish out with procurement. And that'll be the episode today.
+[00:01:57.420 --> 00:02:01.480] Okay, fantastic. Let's start. Apple DSP. What is DSP?
+[00:02:01.680 --> 00:02:03.160] All right. So do you know what DSP is?
+[00:02:03.660 --> 00:02:04.960] No. Demand side planning?
+[00:02:05.300 --> 00:02:06.240] Demand side platform.
+[00:02:06.240 --> 00:02:10.540] So basically when you think about programmatic advertising, there's kind of three pieces to it.
+[00:02:10.860 --> 00:02:18.400] There's your content. There's DMP, which is data management platform. And then there's DSP, which is demand side platform.
+[00:02:18.640 --> 00:02:26.280] So your DSP is companies like Google, Quantcast, AdRoll. They basically put the ads out on the internet in these banner placements.
+[00:02:26.380 --> 00:02:26.640] Got it.
+[00:02:26.900 --> 00:02:32.660] Same for YouTube. And then your DMP is like your brain. That's where like all your customer data lives.
+[00:02:32.660 --> 00:02:39.300] That's where like in the DMP, you could be like, all right, Moise came in to the store and then he went online and then he opened our app.
+[00:02:39.400 --> 00:02:45.240] Like all that data just sits in there. And it basically helps make the decisions of what the DSP is going to show you.
+[00:02:45.420 --> 00:02:45.620] Okay.
+[00:02:46.040 --> 00:02:52.560] This is like old school ad tech. So anyways, today is August 3rd that we're recording this and Apple announced their DSP.
+[00:02:52.840 --> 00:02:59.320] Or sorry, they didn't announce it, but they put a job up for it. They're recruiting people to help build their DSP.
+[00:02:59.320 --> 00:03:05.480] And so, you know, they kind of held Facebook's balls the last few years and then they just squeezed them.
+[00:03:05.820 --> 00:03:11.200] And so, you know, their whole reason is because like Tim Cook said, we're not going to Facebook,
+[00:03:11.400 --> 00:03:16.900] we're not going to let you know that Moise went 34% down the page and spent three minutes and 49 seconds.
+[00:03:16.900 --> 00:03:27.020] So fuck you, Tim Cook. But what this job posting means is that Apple, it looks like they're building out a full ad platform themselves.
+[00:03:27.320 --> 00:03:38.060] And so I took a quick excerpt from the job posting and they're looking for designers and developers for campaign management, bidding, incrementality, dynamic creative optimization.
+[00:03:38.060 --> 00:03:39.160] Okay, that's what this is.
+[00:03:39.320 --> 00:03:47.840] Matching, auctions, experimentation, while empowering customer privacy throughout. That is a load of bullshit.
+[00:03:48.180 --> 00:03:52.520] That's unbelievable. First, when you had this on the agenda, I was like, how are we going to chat about all of this?
+[00:03:52.760 --> 00:03:56.480] But now I understand what it is. It's a job description from Apple. That's fucking terrible.
+[00:03:56.580 --> 00:03:57.220] Isn't that crazy?
+[00:03:57.300 --> 00:03:58.000] That's awful.
+[00:03:58.000 --> 00:04:07.620] And so then I started to think, all right, first of all, Tim Cook, you suck. Like you screwed so many small businesses. But secondly, when is this thing coming out? Because I want to test it.
+[00:04:08.780 --> 00:04:10.340] He did screw a bunch of small businesses.
+[00:04:10.520 --> 00:04:10.640] He did.
+[00:04:10.780 --> 00:04:12.580] But like, it's the height of hypocrisy.
+[00:04:12.900 --> 00:04:13.260] 100%.
+[00:04:13.260 --> 00:04:20.360] That a company as big as Apple, you know, which is all about consumer privacy, then releases the AirTag, which allows me to follow you home.
+[00:04:20.480 --> 00:04:22.780] Yeah. And there's no way for me to turn that off either.
+[00:04:23.020 --> 00:04:23.280] Yeah, yeah.
+[00:04:23.280 --> 00:04:24.140] I'll just be notified.
+[00:04:24.140 --> 00:04:28.720] Yeah, yeah. And you'll be notified in an hour. By the time you get notified, I'll steal the Lambo that you've got in your garage.
+[00:04:29.000 --> 00:04:36.040] You know, it's insane. They're talking about privacy. They don't want Facebook to know that you've scrolled 34% down on the page and you were on the page for two minutes.
+[00:04:36.220 --> 00:04:39.720] Meanwhile, I can literally physically follow you to harm you.
+[00:04:40.040 --> 00:04:46.100] And I'm not sure why there are a lot more reports or like why the media isn't talking about this more.
+[00:04:46.280 --> 00:04:49.000] I think they're a little bit afraid of like talking bad about Apple.
+[00:04:49.140 --> 00:04:50.220] I think that's exactly it.
+[00:04:50.220 --> 00:04:54.260] It's the universe. But like, you know, you can't talk about consumer privacy and sell an AirTag.
+[00:04:54.560 --> 00:04:55.020] 100%.
+[00:04:55.020 --> 00:04:56.380] That blows my mind.
+[00:04:56.540 --> 00:05:01.540] One time when me, you and Suli went to Rumble and then we got we got something to drink after.
+[00:05:02.100 --> 00:05:04.040] We were basically walking together.
+[00:05:04.340 --> 00:05:08.200] And so my phone was like, hey, there's AirPods following you.
+[00:05:08.700 --> 00:05:10.760] And at first I was like, wait, what the fuck?
+[00:05:11.340 --> 00:05:11.500] Yeah.
+[00:05:11.700 --> 00:05:14.760] But I was like, yeah, I'm like, no one's trying to, you know, chase me here.
+[00:05:14.820 --> 00:05:14.980] Yeah.
+[00:05:15.220 --> 00:05:20.620] But then I realized it was your AirPods and you cannot you can't say like stop tracking or like, you know, dead it.
+[00:05:21.320 --> 00:05:21.800] So, yeah.
+[00:05:21.880 --> 00:05:23.580] Anyways, huge hypocrisy from Apple.
+[00:05:24.120 --> 00:05:27.160] At the same time, I'm very excited to see what this looks like.
+[00:05:27.280 --> 00:05:28.840] And everyone knew they were going to come out with this.
+[00:05:28.960 --> 00:05:29.040] Right.
+[00:05:29.100 --> 00:05:30.220] It was just a matter of time.
+[00:05:30.320 --> 00:05:30.480] Yeah.
+[00:05:30.480 --> 00:05:37.520] But, you know, like Android users, you know, they're like, yeah, we get the features first or we get that new camera first or whatever it is.
+[00:05:37.620 --> 00:05:38.140] We get it first.
+[00:05:38.440 --> 00:05:41.980] But when Apple gets it, it is just the most beautifully designed thing.
+[00:05:42.220 --> 00:05:43.560] It's so well done.
+[00:05:43.880 --> 00:05:46.140] You know, it's everything is 13 out of 10.
+[00:05:46.340 --> 00:05:49.920] And so I'm really excited to see what that looks like and to put it to use.
+[00:05:50.120 --> 00:05:50.380] Yeah.
+[00:05:50.540 --> 00:05:51.400] You're right about that.
+[00:05:51.740 --> 00:05:52.220] That's crazy.
+[00:05:52.300 --> 00:05:57.240] I wonder how they're going to do this because I always thought it was sort of like, is their ad structure going to be for the app store?
+[00:05:57.580 --> 00:05:59.200] Is this specifically for the app store?
+[00:05:59.340 --> 00:05:59.940] I'm very curious.
+[00:05:59.940 --> 00:06:14.000] Because like dynamic creative optimization, experimentation, incrementality, like those are all that's a very sophisticated ad platform for something that isn't getting like, you know, as many eyeballs and as much time on app spent as Facebook or Instagram.
+[00:06:14.260 --> 00:06:24.700] So I'm curious to see if they're like leaning into something else that's more private that we don't know about or if it's just, hey, we're launching a better, smarter, more sophisticated advertising platform for the app store.
+[00:06:24.980 --> 00:06:25.180] Yeah.
+[00:06:25.540 --> 00:06:28.560] The most recent that I know about is obviously like app store ads.
+[00:06:28.560 --> 00:06:33.740] Before that, the only one I can think of, I guess news could be a good placement for ads.
+[00:06:33.940 --> 00:06:40.200] But the, you know, the, the one that I think of when I think of like Apple ads and like Apple ad platform is they acquired a company.
+[00:06:40.460 --> 00:06:41.240] I'm forgetting the name.
+[00:06:41.240 --> 00:06:45.400] And they renamed it to, I add little I, and then just AD.
+[00:06:46.120 --> 00:06:51.260] And in the apps companies could be like, you know, I want to turn on ads and make money.
+[00:06:51.460 --> 00:06:53.080] And it was all powered by iAds.
+[00:06:53.300 --> 00:06:58.620] And then it kind of like slowly fizzled away, I think when apps started to get their own versions of ad networks.
+[00:06:59.020 --> 00:07:02.900] So I'm very curious to see like, is Apple going to buy an ad network?
+[00:07:02.900 --> 00:07:08.520] Are they going to figure out like, you know, is our podcast going to have its own set of Apple ads before and after?
+[00:07:08.740 --> 00:07:12.220] Or like you open the app right now and you see banner ads above and below.
+[00:07:12.540 --> 00:07:13.680] So I'm curious about that.
+[00:07:13.860 --> 00:07:16.340] I'm curious about, you know, Twitter and Facebook.
+[00:07:16.340 --> 00:07:21.060] If you want to run ads on external sites, you can basically make the ads in Facebook and Twitter.
+[00:07:21.060 --> 00:07:25.340] And then the ads will actually populate on like display ad networks around the internet.
+[00:07:25.560 --> 00:07:27.740] So I wonder if they're going to plug in that way.
+[00:07:28.100 --> 00:07:31.380] I never realized how much smarter you are than me until this moment.
+[00:07:31.880 --> 00:07:37.560] When now I'm like, oh yeah, all of these advertising, like I'm thinking about the apps where I'm thinking so small.
+[00:07:37.940 --> 00:07:39.400] You're thinking so much larger.
+[00:07:39.660 --> 00:07:43.540] Certainly Apple is thinking much larger, which is we have eyeballs all over the place.
+[00:07:43.700 --> 00:07:43.820] Yeah.
+[00:07:44.120 --> 00:07:47.980] Well, not only that, but like, well, the third one I'm very curious about is like,
+[00:07:48.120 --> 00:07:50.600] how are they going to make these ad units clickable?
+[00:07:50.600 --> 00:07:53.860] Because when I think about ban, I can't even remember the last banner ad I saw.
+[00:07:53.960 --> 00:07:57.960] I have ad blockers on, but even like billboards and banner ads, it's like,
+[00:07:58.040 --> 00:07:59.540] I just naturally ignore them.
+[00:07:59.860 --> 00:08:03.400] And I think the, like, you know, if you go to like a marketing agency,
+[00:08:03.700 --> 00:08:08.620] like they get really horny with like a 0.01% click-through rate with programmatic ads.
+[00:08:08.680 --> 00:08:11.260] So I'm really interested to see how Apple is going to be like, well,
+[00:08:11.380 --> 00:08:14.840] we're on Facebook's level of advertising and you got to give us our budgets.
+[00:08:15.340 --> 00:08:15.680] Yeah.
+[00:08:15.900 --> 00:08:19.560] The other place it could be is midstream in like Apple TV.
+[00:08:19.560 --> 00:08:21.840] Like you're watching a TV show on Apple TV.
+[00:08:22.320 --> 00:08:24.280] Like the one about that soccer guy, I forgot what it's called.
+[00:08:24.520 --> 00:08:26.820] And then all of a sudden you start seeing an ad and they've got this going.
+[00:08:27.060 --> 00:08:27.300] Yeah.
+[00:08:27.440 --> 00:08:29.420] That is so, so true.
+[00:08:29.500 --> 00:08:33.560] I remember, uh, I think we went to this dinner together, but I chatted with some rep at like
+[00:08:33.560 --> 00:08:35.880] NBC or ABC or one of these big companies.
+[00:08:35.880 --> 00:08:40.620] And they're like, we want to build a self-service ad platform so that when you're streaming something
+[00:08:40.620 --> 00:08:44.720] on like Peacock or whatever it was, you know, you can show whatever ad you want at the
+[00:08:44.720 --> 00:08:45.600] exact right time.
+[00:08:45.600 --> 00:08:46.000] Yeah.
+[00:08:46.220 --> 00:08:49.220] And I was like, that is a lot of work, you know?
+[00:08:49.480 --> 00:08:50.460] And like, that is no chance.
+[00:08:50.600 --> 00:08:50.720] Yeah.
+[00:08:50.820 --> 00:08:53.600] That is a big distraction from creating TV shows.
+[00:08:54.040 --> 00:08:57.500] And they're like, we got to get into the game of like digital and we've got to think about
+[00:08:57.500 --> 00:08:57.640] it.
+[00:08:57.820 --> 00:09:01.480] Like, you know, I'm like this a hundred million dollar to $250 million investment.
+[00:09:01.700 --> 00:09:02.820] And they're like, we can get buy-in.
+[00:09:02.980 --> 00:09:04.960] We just need to know that we're doing the right thing.
+[00:09:04.960 --> 00:09:11.660] I remember at, uh, so like it's almost notorious that like some of the worst, most annoying sales
+[00:09:11.660 --> 00:09:15.380] reps in ad tech come from iHeartRadio, your channel.
+[00:09:15.760 --> 00:09:20.140] And I remember going to the iHeartRadio office in New York, sitting down with their sales team.
+[00:09:20.400 --> 00:09:24.320] You know, I used to, I did like two years of work in ad tech, which is how I know about
+[00:09:24.320 --> 00:09:25.260] a lot about ad tech.
+[00:09:25.260 --> 00:09:28.680] And I remember sitting down with them and they're like, yeah, so we're gonna, we're
+[00:09:28.680 --> 00:09:33.380] gonna be launching this programmatic podcast network and programmatic radio advertising.
+[00:09:33.760 --> 00:09:37.140] And so everybody's going to get unique ads tailored to who they are.
+[00:09:37.300 --> 00:09:42.540] And I was like, as far as I know how the radio works, you can't send individual frequencies
+[00:09:42.540 --> 00:09:45.240] to cars and cars can't identify through FM signal.
+[00:09:45.800 --> 00:09:50.900] And they're like, no, well, if a mom is going to pick up her kids at three o'clock, like we're
+[00:09:50.900 --> 00:09:54.760] going to show a Hintwater ad because that's what a mom should be hearing.
+[00:09:55.260 --> 00:09:57.000] And I said, that's not called programmatic.
+[00:09:57.160 --> 00:09:59.500] That's just like slotting it in around a time.
+[00:09:59.600 --> 00:09:59.740] Yeah, at 3 p.m.
+[00:09:59.860 --> 00:10:00.580] Yeah, at 3 p.m.
+[00:10:00.820 --> 00:10:02.580] And they're like, no, this is programmatic.
+[00:10:02.720 --> 00:10:03.560] It's AI driven.
+[00:10:03.780 --> 00:10:04.860] It's all these buzzwords.
+[00:10:04.960 --> 00:10:06.000] And they had no idea what it's talking about.
+[00:10:06.120 --> 00:10:06.420] But anyways.
+[00:10:06.780 --> 00:10:11.900] You know, what's crazy is soap operas, like, you know, daytime television shows were invented
+[00:10:11.900 --> 00:10:13.040] by Procter and Gamble.
+[00:10:13.220 --> 00:10:14.740] That's why they're called soap operas.
+[00:10:14.940 --> 00:10:15.400] No way.
+[00:10:15.400 --> 00:10:19.780] And the reason is because they wanted to be able to create ads to show you in the middle
+[00:10:19.780 --> 00:10:20.440] of the show.
+[00:10:20.800 --> 00:10:21.060] Wow.
+[00:10:21.060 --> 00:10:24.760] And so they're like, we need something for you to watch in the middle of the day when moms are watching.
+[00:10:24.760 --> 00:10:28.640] And they want to sell laundry detergent or, you know, diapers or soap.
+[00:10:29.000 --> 00:10:33.840] So they created a television show so that they could put ads every 15 minutes in.
+[00:10:34.020 --> 00:10:35.180] That's so fascinating.
+[00:10:35.740 --> 00:10:37.100] Created by Procter and Gamble.
+[00:10:37.340 --> 00:10:37.540] Wow.
+[00:10:38.320 --> 00:10:38.420] Yeah.
+[00:10:38.520 --> 00:10:41.360] And I mean, infomercials too just run all night.
+[00:10:41.460 --> 00:10:41.620] Yeah.
+[00:10:41.900 --> 00:10:44.220] And surprisingly, infomercials do so well.
+[00:10:44.320 --> 00:10:48.660] And so does like remnant inventory that goes from like midnight to like 6 a.m.
+[00:10:48.760 --> 00:10:51.780] I don't know why, but those times do so well for advertising.
+[00:10:51.780 --> 00:10:55.020] Oh, because if people have like, I watch all of those ads.
+[00:10:55.240 --> 00:10:59.920] My brother and I would like, I would like, we share a bedroom, like, you know, when we
+[00:10:59.920 --> 00:11:00.620] were growing up.
+[00:11:00.800 --> 00:11:00.940] Yeah.
+[00:11:01.040 --> 00:11:04.000] And I'd always put on the television, the bedroom infomercials.
+[00:11:04.020 --> 00:11:07.400] And he's like, how are we watching an infomercial instead of any television?
+[00:11:07.600 --> 00:11:10.200] And I'm like, this infomercial is so good.
+[00:11:10.620 --> 00:11:13.300] And I remember watching like Ron Papil.
+[00:11:13.440 --> 00:11:17.100] He had this rotisserie chicken thing that he would for like campers and RVs.
+[00:11:17.200 --> 00:11:20.920] And if you bought it, you got like a liquid flavor injector and a solid flavor injector.
+[00:11:21.000 --> 00:11:23.480] So you can like inject lemon juice and like garlic.
+[00:11:24.260 --> 00:11:28.960] What's crazy is that when we were trying to sell native, one of the guys who was trying
+[00:11:28.960 --> 00:11:33.000] to buy it, he's like, look, there are maybe a handful of people I've met who I would trust
+[00:11:33.000 --> 00:11:33.720] to run my business.
+[00:11:33.780 --> 00:11:34.440] And you're one of them.
+[00:11:34.520 --> 00:11:35.600] And I'm like, how could you say that?
+[00:11:35.660 --> 00:11:37.800] We've only met a couple of times and we didn't get along that well.
+[00:11:37.800 --> 00:11:40.180] And he's like, you're all in on marketing.
+[00:11:40.340 --> 00:11:45.200] And I was like, I grew up watching these infomercials and we talked about that infomercial.
+[00:11:45.400 --> 00:11:46.920] He's like, that infomercial was so good.
+[00:11:46.980 --> 00:11:49.760] And I'm like, I can't believe, you know, it's probably on the air for five years.
+[00:11:49.920 --> 00:11:50.060] Yeah.
+[00:11:50.240 --> 00:11:51.420] And like, that's where we bonded.
+[00:11:51.580 --> 00:11:53.700] I still, I like, you know, there's those flex seal tapes ones.
+[00:11:53.820 --> 00:11:54.480] Have you seen those recently?
+[00:11:54.740 --> 00:11:58.540] Where you can, it feels like you can lift a car with a piece of duct tape because the
+[00:11:58.540 --> 00:12:00.820] duct tape, because, you know, seal is so strong.
+[00:12:01.000 --> 00:12:01.120] Yeah.
+[00:12:01.380 --> 00:12:04.220] I'm surprised that more direct to consumer brands haven't taken advantage.
+[00:12:04.680 --> 00:12:05.260] Yeah, I agree.
+[00:12:05.380 --> 00:12:06.540] I think infomercials are great.
+[00:12:06.540 --> 00:12:11.380] I also think going and buying remnant ad inventory to go test creative.
+[00:12:11.560 --> 00:12:17.220] And you don't even like, when we ran it for Judy, we invested probably $5,000 in our first
+[00:12:17.220 --> 00:12:18.100] piece of test creative.
+[00:12:18.380 --> 00:12:21.200] And like, that's not a lot of money to go test TV.
+[00:12:21.360 --> 00:12:26.160] And then I think we had probably like a 35, 40K media plan that was just straight remnant.
+[00:12:26.260 --> 00:12:28.980] And it was like, we'd find a channel that worked.
+[00:12:29.080 --> 00:12:30.080] We'd test it again.
+[00:12:30.180 --> 00:12:32.040] Cause it was like, okay, was it just the programming?
+[00:12:32.060 --> 00:12:33.220] Was it the daytime, whatever?
+[00:12:33.220 --> 00:12:35.400] And then if it worked, we would just double down.
+[00:12:35.580 --> 00:12:40.260] And there were some networks, like there was a network called Baby First TV, which is under
+[00:12:40.260 --> 00:12:41.600] that umbrella of first media.
+[00:12:41.800 --> 00:12:43.980] You ever seen those viral food videos by So Yummy?
+[00:12:44.100 --> 00:12:44.200] Yeah.
+[00:12:44.420 --> 00:12:45.180] Same family there.
+[00:12:45.660 --> 00:12:48.280] Like that CPA was just always half of Facebook.
+[00:12:48.480 --> 00:12:51.680] And it was like, I have no idea why, but it just, it just worked.
+[00:12:51.680 --> 00:12:56.520] Overnight Baby First TV was like the go-to and we would try to buy as much as we could.
+[00:12:56.860 --> 00:12:59.860] So anyways, I think that's one thing more brands should try.
+[00:13:00.260 --> 00:13:04.980] Another one, like the modern day infomercial in my eyes is like creator whitelisting, like
+[00:13:04.980 --> 00:13:10.080] work with influencers or creators to create really good content and run it as ads, but
+[00:13:10.080 --> 00:13:15.200] run it in a way that's not like, you know, cringey, like a photo on the grass holding your
+[00:13:15.200 --> 00:13:15.760] deodorant.
+[00:13:15.920 --> 00:13:18.940] It's like, this is native and this is why I use it.
+[00:13:19.040 --> 00:13:20.300] And this is how much better it is.
+[00:13:20.300 --> 00:13:26.080] And also if you use my link as like whatever Shelly, you get 25% off.
+[00:13:26.240 --> 00:13:26.420] Yeah.
+[00:13:26.800 --> 00:13:27.860] I agree with that.
+[00:13:27.980 --> 00:13:31.060] And I think brands are doing that and that is probably modern day infomercials.
+[00:13:31.120 --> 00:13:31.260] Yeah.
+[00:13:31.740 --> 00:13:36.220] I think all the yesteryear infomercial still probably works.
+[00:13:36.380 --> 00:13:36.500] Yeah.
+[00:13:36.640 --> 00:13:38.940] And I'd be really like, Judy's such a great example, right?
+[00:13:39.000 --> 00:13:39.120] Totally.
+[00:13:39.120 --> 00:13:42.160] Which is like, here's a first aid kit that's beautiful.
+[00:13:42.560 --> 00:13:46.880] There's different sizes, whether you're like an individual living in New York City or you've
+[00:13:46.880 --> 00:13:49.460] got a house with 12 people living in Dallas, Texas.
+[00:13:49.680 --> 00:13:49.820] Right.
+[00:13:50.060 --> 00:13:54.120] So open up one of those cases, show me what it is, start using the products.
+[00:13:54.320 --> 00:13:54.440] Totally.
+[00:13:54.580 --> 00:13:56.740] And like, you know, there's so many influencers behind Judy.
+[00:13:56.940 --> 00:13:58.580] I think like Kim Kardashian is one of them.
+[00:13:58.820 --> 00:14:00.680] Like, you know, what if she was in there for five minutes?
+[00:14:00.940 --> 00:14:01.100] Right.
+[00:14:01.340 --> 00:14:06.060] You know, wouldn't that be like, oh, like Kim Kardashian using a flashlight and one of
+[00:14:06.060 --> 00:14:10.360] those straws to help that cleans water as you, uh, you know, drink through the, through
+[00:14:10.360 --> 00:14:12.260] the straw in case it's like, you know, bad way.
+[00:14:12.460 --> 00:14:14.040] Uh, you know, that's so interesting.
+[00:14:14.460 --> 00:14:16.460] And that would, I think that'd get a lot of people to watch.
+[00:14:16.560 --> 00:14:19.520] And I think regular people who are watching infomercials would also be like, wow, this
+[00:14:19.520 --> 00:14:21.980] first aid kit is way better than the first aid kit I've got.
+[00:14:22.100 --> 00:14:25.120] Because right now, even when I go to buy Judy, I'm like, okay, it's a first aid kit.
+[00:14:25.240 --> 00:14:26.680] Now, holy cow.
+[00:14:26.680 --> 00:14:28.520] Now it's got all of these things inside of it.
+[00:14:28.860 --> 00:14:29.100] Yeah.
+[00:14:29.240 --> 00:14:33.920] Judy tends to do really well on QVC for the same reason, like the visual aspect and even
+[00:14:33.920 --> 00:14:37.160] the ads we ran, like showing the products was what always did well.
+[00:14:37.560 --> 00:14:37.760] All right.
+[00:14:37.820 --> 00:14:39.860] Let's talk about Allie Webb at Canopy.
+[00:14:40.080 --> 00:14:43.820] So Allie Webb is like probably one of my favorite entrepreneurs.
+[00:14:43.820 --> 00:14:46.140] And I've been a huge fan of Allie Webb for years.
+[00:14:46.240 --> 00:14:52.520] I met her once in Los Angeles and I was just like, start, like, I don't get starstruck by,
+[00:14:52.740 --> 00:14:56.600] like I've had shots of Fireball with Pitbull and I've hung out with celebrities.
+[00:14:56.680 --> 00:14:59.180] But I do not get starstruck by celebrities.
+[00:14:59.680 --> 00:15:02.900] Like when I met Gary Vaynerchuk the first time, I like couldn't say a word.
+[00:15:03.060 --> 00:15:05.640] When I met Allie Webb for the first time, I couldn't say a word.
+[00:15:05.780 --> 00:15:09.080] Like it's these business people that just have crushed business.
+[00:15:09.260 --> 00:15:09.500] Definitely.
+[00:15:10.240 --> 00:15:14.020] Like even when I met you, I was like, holy shit, that's the native guy, you know?
+[00:15:14.140 --> 00:15:15.020] And I was like, damn.
+[00:15:15.400 --> 00:15:23.040] But so anyway, so Allie Webb is, she's been named the president of Canopy and she had Drybar
+[00:15:23.040 --> 00:15:24.500] and that was a huge success.
+[00:15:24.500 --> 00:15:27.540] And she sold that, I believe entirely, I think.
+[00:15:27.660 --> 00:15:28.380] I don't know, 100% know.
+[00:15:28.500 --> 00:15:30.000] But I think she sold it to a PE firm.
+[00:15:30.300 --> 00:15:34.580] And then she started a concept which I think was hyped at the beginning.
+[00:15:34.740 --> 00:15:37.820] And now I haven't heard about it for years, but it was called Squeeze.
+[00:15:38.240 --> 00:15:41.400] And it was like, so Drybar is you go in, you have a set time.
+[00:15:42.480 --> 00:15:44.760] The hairstylist knows exactly how you want your hair done.
+[00:15:44.940 --> 00:15:45.780] You're in and out.
+[00:15:45.960 --> 00:15:46.920] You know, it's a nice experience.
+[00:15:46.920 --> 00:15:51.980] You get like Belgian boys, lemon cookies and lemon hint water because it's all yellow.
+[00:15:52.640 --> 00:15:53.660] Squeeze was the same thing.
+[00:15:53.800 --> 00:15:56.420] It was the same thing, but instead of hair, it was like, we're just going to give you a
+[00:15:56.420 --> 00:15:56.760] massage.
+[00:15:56.960 --> 00:16:01.300] So, you know, if I know I have an hour between my calls, I can go in for 30 minutes.
+[00:16:01.300 --> 00:16:02.360] I know what time I'm in.
+[00:16:02.460 --> 00:16:03.280] I know what time I'm out.
+[00:16:03.580 --> 00:16:05.120] They know what type of massage I want.
+[00:16:05.120 --> 00:16:06.020] I can use the app.
+[00:16:06.160 --> 00:16:09.440] There's like a whole tech enablement thing of, you know, makes the experience better.
+[00:16:09.440 --> 00:16:13.320] And I never heard about that then after kind of the launch announcement.
+[00:16:13.320 --> 00:16:16.020] And I don't know how many locations they have, maybe one or two.
+[00:16:16.600 --> 00:16:23.960] And then all of a sudden she became the president of Canopy and Canopy to me is a fascinating
+[00:16:23.960 --> 00:16:28.460] brand because I think they've crushed it from a performance marketing standpoint while also
+[00:16:28.460 --> 00:16:29.820] keeping the brand very beautiful.
+[00:16:30.080 --> 00:16:34.540] It's also interesting because the guys behind Canopy are the same guys who run Doris Dev,
+[00:16:34.540 --> 00:16:40.700] which is like the product agency that has made like, you know, equal parts and the Raiden
+[00:16:40.700 --> 00:16:44.380] suitcase and Great Jones Cookware and a ton of other direct consumer brands.
+[00:16:44.460 --> 00:16:45.420] They like make the products.
+[00:16:45.800 --> 00:16:51.580] Their moat really is like product development, product innovation, logistics, supply chain,
+[00:16:51.700 --> 00:16:52.940] and all that kind of stuff.
+[00:16:53.320 --> 00:16:55.900] But they've also really crushed it on the marketing side.
+[00:16:56.200 --> 00:16:58.360] And so anyways, Allie became the president.
+[00:16:58.360 --> 00:17:04.520] And I asked Mike and Justin, who are the co-founders, I was like, you know, Allie's
+[00:17:04.520 --> 00:17:07.620] like obviously a beast of an entrepreneur and a human.
+[00:17:07.760 --> 00:17:07.860] Yeah.
+[00:17:07.900 --> 00:17:09.380] How does a small brand get somebody like that?
+[00:17:09.380 --> 00:17:10.920] Why would she give a shit about Canopy?
+[00:17:11.260 --> 00:17:13.340] Because Canopy is like a humidifier brand.
+[00:17:13.360 --> 00:17:14.920] Canopy is a straight humidifier.
+[00:17:15.200 --> 00:17:17.820] And like, you know, can't be doing 20 million in revenue.
+[00:17:17.940 --> 00:17:19.760] Like I'd be shocked if it was doing 20 million in revenue.
+[00:17:20.180 --> 00:17:21.420] It might be close to be honest.
+[00:17:21.540 --> 00:17:22.460] I'm not 100% sure.
+[00:17:22.680 --> 00:17:22.960] Okay.
+[00:17:23.040 --> 00:17:26.480] But I think it's definitely like it's doing multi-millions.
+[00:17:26.640 --> 00:17:26.760] Okay.
+[00:17:26.880 --> 00:17:27.000] Yeah.
+[00:17:27.080 --> 00:17:33.100] And how do you get, you know, an Allie Webb who, you know, is rich and super successful,
+[00:17:33.100 --> 00:17:34.660] can get a bunch of jobs that she wants.
+[00:17:34.880 --> 00:17:37.620] And she'd probably go fundraise in a heartbeat if she wanted to start something.
+[00:17:37.840 --> 00:17:40.620] And she's got like, fuck you money where she's like, why would I work at this?
+[00:17:40.800 --> 00:17:42.420] You know, are you going to like get me an assistant?
+[00:17:42.740 --> 00:17:45.620] Is someone going to like, you know, why am I going to do all this hard work?
+[00:17:45.760 --> 00:17:45.940] Yeah.
+[00:17:46.340 --> 00:17:48.180] And so that was basically my question.
+[00:17:48.300 --> 00:17:48.960] Like, you know, why?
+[00:17:50.020 --> 00:17:53.680] And it's, I'm always curious as to like how celebrity, you know, Allie's kind of a celebrity
+[00:17:53.680 --> 00:17:54.820] in the B2B world.
+[00:17:55.100 --> 00:17:56.780] So like how are celebrities used?
+[00:17:56.960 --> 00:18:00.400] So for example, Onda, which is a sparkling tequila brand I invested in.
+[00:18:00.400 --> 00:18:05.420] They have Shea Mitchell as a, you know, quote unquote co-founder that helps them unlock national
+[00:18:05.940 --> 00:18:10.500] retail tests versus like small little county based retail tests and then expand.
+[00:18:11.120 --> 00:18:13.460] So anyways, I was like, why, you know, what does Allie bring?
+[00:18:13.680 --> 00:18:15.160] And basically it's kind of the same thing.
+[00:18:15.300 --> 00:18:19.540] Like they can get it, uh, like they're going to be in a massive retail chain soon.
+[00:18:20.220 --> 00:18:24.200] And that retail brand was kind of on the fence of like, are we going to have them in at this
+[00:18:24.200 --> 00:18:25.000] time or that time?
+[00:18:25.100 --> 00:18:26.980] Or, or, or, you know, how many units are we going to order?
+[00:18:26.980 --> 00:18:31.520] And one call from Allie Webb and it's like, oh, you guys are going national and you have
+[00:18:31.520 --> 00:18:33.820] a sick display and you're going now.
+[00:18:34.060 --> 00:18:34.460] That's awesome.
+[00:18:35.500 --> 00:18:42.140] So, you know, I started to think like, that's a really fascinating use of somebody who's got
+[00:18:42.140 --> 00:18:45.480] basically a platform and all the right network and connections.
+[00:18:46.060 --> 00:18:50.520] It's kind of actually the goal of a lot of these companies that raise from a ton of angels,
+[00:18:50.520 --> 00:18:55.820] like operator angels who are, you know, they're like the, they're putting in a thousand dollars,
+[00:18:55.980 --> 00:19:00.760] 5,000, 10,000, but it's like, you get the access to the network, but somebody like Allie Webb is
+[00:19:00.760 --> 00:19:01.560] like next level.
+[00:19:02.180 --> 00:19:03.120] Allie Webb is great.
+[00:19:03.320 --> 00:19:06.240] And she, you know, whenever people are like, what's a great female founded company that
+[00:19:06.240 --> 00:19:06.780] you look up to?
+[00:19:06.880 --> 00:19:07.780] I'm always like dry bar.
+[00:19:07.880 --> 00:19:08.280] It's amazing.
+[00:19:08.580 --> 00:19:12.540] I remember the South by Southwest that I went to a really long time ago.
+[00:19:12.540 --> 00:19:17.660] Uh, I heard Ben Horowitz speak and, uh, Ben Horowitz is one of the co-founders of like
+[00:19:17.660 --> 00:19:18.720] this big VC firm.
+[00:19:19.180 --> 00:19:21.200] And, uh, somebody was asking him a question.
+[00:19:21.340 --> 00:19:23.780] It was just WhatsApp with had just been acquired by Facebook.
+[00:19:24.160 --> 00:19:26.820] Like, you know, a couple of weeks ago where they just announced it.
+[00:19:26.940 --> 00:19:27.080] Yeah.
+[00:19:27.240 --> 00:19:30.680] And so I think Andrews and Horowitz made a ton of money, but they're like, Ben, what do
+[00:19:30.680 --> 00:19:31.260] you think of this?
+[00:19:31.420 --> 00:19:35.260] The guys who are running WhatsApp are going to remain in charge and this isn't going to
+[00:19:35.260 --> 00:19:35.780] happen to Allie Webb.
+[00:19:35.920 --> 00:19:39.260] I don't think, but he's like, you know, I always am worried about this kind of stuff because
+[00:19:39.260 --> 00:19:43.640] sometimes founders call in rich and they're like, what do you mean by that?
+[00:19:43.720 --> 00:19:47.620] He's like, well, look, everyone wants to run a startup or a business when things are going
+[00:19:47.620 --> 00:19:48.220] really well.
+[00:19:48.340 --> 00:19:53.880] Like you want to be the CEO of Ford when Ford sales are increasing a ton and you just released
+[00:19:53.880 --> 00:19:54.380] a Mustang.
+[00:19:54.780 --> 00:19:58.140] You want to be the CEO of Apple when the iPhone drops, right?
+[00:19:58.240 --> 00:19:58.380] Right.
+[00:19:58.800 --> 00:20:02.400] Everyone wants to see that growth and that excitement and get praised.
+[00:20:02.560 --> 00:20:02.680] Right.
+[00:20:03.060 --> 00:20:07.120] The flip side of that coin is when things get really tough and the founders have $4 billion,
+[00:20:07.960 --> 00:20:09.900] they're going to be like, why am I doing this?
+[00:20:10.020 --> 00:20:10.140] Yeah.
+[00:20:10.280 --> 00:20:11.620] So they're going to call in and be like, you know what?
+[00:20:11.680 --> 00:20:15.020] I remember now I'm rich and I don't want to do all this hard work.
+[00:20:15.220 --> 00:20:16.580] And so I'm not going to show up.
+[00:20:16.760 --> 00:20:16.880] Yeah.
+[00:20:17.020 --> 00:20:20.360] And so he's like, you know, founders call in rich and I don't think that'll happen to
+[00:20:20.360 --> 00:20:23.440] Allie Webb, but I do think that's generally a problem with trying to recruit people who've
+[00:20:23.440 --> 00:20:24.480] had big exits like her.
+[00:20:24.960 --> 00:20:26.000] How long did you stay at native?
+[00:20:26.240 --> 00:20:26.520] Yeah.
+[00:20:26.740 --> 00:20:28.720] And I stayed at native for a long time.
+[00:20:28.860 --> 00:20:29.000] Right.
+[00:20:29.040 --> 00:20:33.640] Like the longest, you know, uh, there was this guy who I'm not sure if I can tell this story,
+[00:20:33.720 --> 00:20:34.480] but I'm going to tell it anyway.
+[00:20:34.560 --> 00:20:34.740] Yeah.
+[00:20:34.740 --> 00:20:39.720] He founded a brand called Curl Smith and they sold to like Helen of Troy and he signed a
+[00:20:39.720 --> 00:20:43.080] document and he's like, I want to leave the moment we sign the document and close.
+[00:20:43.860 --> 00:20:46.180] He's like, look, I just, uh, you know, I've worked really hard.
+[00:20:46.280 --> 00:20:47.240] I think this is an amazing brand.
+[00:20:47.460 --> 00:20:48.800] I'm not saying that I don't believe in this brand.
+[00:20:48.880 --> 00:20:49.620] I absolutely do.
+[00:20:49.920 --> 00:20:53.360] I'm just burned out or like, you know, I want to move on to the next chapter of my life.
+[00:20:53.840 --> 00:20:56.720] That's what a lot of people do when they've gotten a lot of wealth.
+[00:20:56.780 --> 00:21:00.720] I think it's really hard to get the alley webs of the world back into a business.
+[00:21:01.260 --> 00:21:02.660] And I'm really impressed with the candidate.
+[00:21:02.800 --> 00:21:02.820] Yeah.
+[00:21:02.820 --> 00:21:03.460] I was truly shocked.
+[00:21:03.580 --> 00:21:04.880] I was like, does she show up to meetings?
+[00:21:05.120 --> 00:21:05.320] Yeah.
+[00:21:05.460 --> 00:21:05.560] Yeah.
+[00:21:06.000 --> 00:21:06.560] I do.
+[00:21:06.760 --> 00:21:09.420] Are you able to demand like, Hey, get on this call with us?
+[00:21:09.520 --> 00:21:09.780] Like, yeah.
+[00:21:09.980 --> 00:21:12.360] And she's like, yeah, she shows up to all the weekly meetings.
+[00:21:12.560 --> 00:21:12.700] Yeah.
+[00:21:12.840 --> 00:21:14.220] So she's like a full-time CEO.
+[00:21:14.460 --> 00:21:14.620] Yeah.
+[00:21:15.060 --> 00:21:15.260] Yeah.
+[00:21:15.260 --> 00:21:15.700] That's crazy.
+[00:21:15.800 --> 00:21:16.140] Pretty awesome.
+[00:21:16.820 --> 00:21:21.400] There's a reason brands like my own company, Long Weekend and Princess Polly use Tapcart.
+[00:21:21.640 --> 00:21:25.080] In-app conversion rates of around 12 to 14%.
+[00:21:25.080 --> 00:21:30.260] Shopify brands using Tapcart have sold well over $3.5 billion through their apps.
+[00:21:30.460 --> 00:21:32.660] You don't have to be a huge brand to have an app either.
+[00:21:32.920 --> 00:21:36.000] Just like it's never too soon to start building an email subscriber list,
+[00:21:36.160 --> 00:21:38.520] it's never too soon to start building a push subscriber list.
+[00:21:38.680 --> 00:21:42.020] An own marketing audience that will compound in value over time.
+[00:21:42.260 --> 00:21:44.380] With Tapcart, there's no coding required.
+[00:21:44.380 --> 00:21:46.860] There's a real-time sync with your Shopify store,
+[00:21:47.060 --> 00:21:49.020] which means that you can turn it into an app in hours
+[00:21:49.020 --> 00:21:51.440] and your inventory is always up to date automatically.
+[00:21:51.840 --> 00:21:55.080] The drag and drop software, it's much easier to maintain than you'd think.
+[00:21:55.540 --> 00:21:56.480] Start building today.
+[00:21:56.720 --> 00:21:58.840] Their team is super supportive and makes it really easy.
+[00:21:58.980 --> 00:22:00.680] And there's a great exclusive for our listeners.
+[00:22:00.960 --> 00:22:03.460] Get two months free at tapcart.com slash limited.
+[00:22:03.760 --> 00:22:07.860] Again, that's two months free at tapcart.com forward slash limited.
+[00:22:08.940 --> 00:22:10.440] What's the next thing we wanted to chat about?
+[00:22:10.440 --> 00:22:16.120] Okay, so this was something that was just kind of like a late night thought
+[00:22:16.120 --> 00:22:18.800] that just kept getting more and more unraveled.
+[00:22:18.960 --> 00:22:23.300] So there's a friend of mine slash client actually.
+[00:22:23.620 --> 00:22:30.480] He works at a large alcohol company and he connected me with this guy named Jeremy Levine.
+[00:22:30.780 --> 00:22:35.620] And Jeremy is, have you ever seen this sports betting app called Underdogs?
+[00:22:35.880 --> 00:22:36.160] Yeah.
+[00:22:36.160 --> 00:22:38.280] So Jeremy's the founder of Underdogs.
+[00:22:38.460 --> 00:22:41.660] He also has a tequila brand called Los Dose Tequila,
+[00:22:41.940 --> 00:22:45.140] which is some of the tastiest, like crispiest tequila.
+[00:22:45.660 --> 00:22:48.140] And, you know, this guy said about Jeremy, like,
+[00:22:48.300 --> 00:22:53.540] I love betting on Jeremy because he builds everything really well
+[00:22:53.540 --> 00:22:55.640] in a really kind of like Apple-esque way
+[00:22:55.640 --> 00:23:00.040] in the industries that are very close to becoming unregulated
+[00:23:00.040 --> 00:23:02.940] or the regulation kind of lightens up a bit, kind of like betting.
+[00:23:02.940 --> 00:23:03.500] Yeah.
+[00:23:03.540 --> 00:23:07.740] And when that time comes, Jeremy's business is always just ready to go.
+[00:23:07.940 --> 00:23:08.080] Yeah.
+[00:23:08.600 --> 00:23:10.760] So anyways, it got me thinking, I was just thinking about it last night.
+[00:23:10.820 --> 00:23:13.700] And it got me thinking, like, there are some cool companies that exist today
+[00:23:13.700 --> 00:23:18.680] as a result of people who've built businesses off of these heavily regulated industries
+[00:23:18.680 --> 00:23:21.160] or very hard to move in industries.
+[00:23:21.160 --> 00:23:25.600] And so, you know, in alcohol, there's wine shipping, which is like what House used.
+[00:23:26.000 --> 00:23:27.820] There's also another company called Accelpay.
+[00:23:27.820 --> 00:23:32.140] The difference being like wine shipping figured out, okay, there's this three-tier system
+[00:23:32.920 --> 00:23:35.480] and we're going to be the, you know, the liquor store.
+[00:23:35.680 --> 00:23:39.740] And so when people pay on Shopify, comes to our account, because we're a liquor store,
+[00:23:39.820 --> 00:23:41.060] so we're allowed to accept payment.
+[00:23:41.320 --> 00:23:43.340] We're going to ship it out and then we take the net proceeds
+[00:23:43.340 --> 00:23:45.120] and deposit it back in your bank account.
+[00:23:45.660 --> 00:23:47.580] Wine shipping and Accelpay are actually the same thing.
+[00:23:47.740 --> 00:23:50.100] You press on Shopify, they make money, they pay you out.
+[00:23:50.400 --> 00:23:53.420] The other one is called Reserve Bar, which you're probably familiar with,
+[00:23:53.560 --> 00:23:55.560] which is like an alcohol marketplace online.
+[00:23:55.560 --> 00:23:56.760] And they do the same thing.
+[00:23:56.880 --> 00:24:00.400] They have like, I don't know, three liquor stores, you know, three bodegas, whatever,
+[00:24:00.540 --> 00:24:01.140] in every state.
+[00:24:01.440 --> 00:24:06.360] And it allows them, so like wherever you're shipping to, the order gets shipped out from there.
+[00:24:06.760 --> 00:24:11.220] And if you're like with 21 Seeds, which is another tequila brand we did this,
+[00:24:11.380 --> 00:24:16.920] where we said, okay, Reserve Bar is on Shopify and two Shopify stores can connect
+[00:24:16.920 --> 00:24:18.300] and send orders back and forth.
+[00:24:18.340 --> 00:24:21.980] So we're going to build a Shopify store for 21 Seeds.
+[00:24:21.980 --> 00:24:26.040] We're going to collect the order, collect the payment, then send that to Reserve Bar.
+[00:24:26.220 --> 00:24:27.480] And then they're going to fulfill it.
+[00:24:27.540 --> 00:24:29.460] But the customer only sees 21 Seeds.
+[00:24:29.940 --> 00:24:33.280] Now, the problem is like Reserve Bar gets all your customer data,
+[00:24:33.420 --> 00:24:35.100] whereas with like Accelpay, they don't.
+[00:24:35.300 --> 00:24:36.900] Then there's a company called Grassdoor.
+[00:24:37.080 --> 00:24:42.760] And Grassdoor is basically like, they help you get around the rules of cannabis delivery in California.
+[00:24:42.980 --> 00:24:47.120] So like in California, there's certain ways you have to process the payment
+[00:24:47.120 --> 00:24:49.460] and then certain ways you have to deliver the product.
+[00:24:49.460 --> 00:24:53.780] And so Grassdoor, like we use Grassdoor to help launch a cannabis brand
+[00:24:53.780 --> 00:24:58.060] where we basically got around like shipping weed.
+[00:24:58.340 --> 00:25:03.520] You know, we could process the order online and then it gets directly sent into Grassdoor and whatever.
+[00:25:03.800 --> 00:25:03.940] Yeah.
+[00:25:04.120 --> 00:25:08.520] But there's so many of these, like, you know, Ojai does the same thing with delivery,
+[00:25:08.680 --> 00:25:11.200] like deliveries, local deliveries, kind of a stale thing.
+[00:25:11.320 --> 00:25:11.460] Yeah.
+[00:25:11.620 --> 00:25:12.880] This reminds me of an episode.
+[00:25:12.980 --> 00:25:14.360] Do you ever watch this TV show Rami?
+[00:25:14.740 --> 00:25:15.000] No.
+[00:25:15.220 --> 00:25:17.940] The first episode, he's about to, he's dating this Muslim.
+[00:25:17.940 --> 00:25:19.660] He goes on first date with this Muslim girl.
+[00:25:19.880 --> 00:25:20.020] Yeah.
+[00:25:20.280 --> 00:25:22.080] And she's like, let's have sex.
+[00:25:22.300 --> 00:25:25.700] And he's like, you know, they're both Muslim, so they're not allowed to have sex.
+[00:25:25.820 --> 00:25:25.960] Yeah.
+[00:25:26.060 --> 00:25:29.860] And she's like, he's like, you know, I didn't think we'd get this far, this throwing me for a loop.
+[00:25:29.940 --> 00:25:32.140] And she's like, oh, I didn't know you were so religious.
+[00:25:32.140 --> 00:25:37.160] I can call the priest and have him give us a temporary marriage so we can have sex
+[00:25:37.160 --> 00:25:38.620] because you're not allowed to have sex until marriage.
+[00:25:38.820 --> 00:25:42.100] And he's like, I don't think tricking God is the way to get around this.
+[00:25:42.100 --> 00:25:42.560] Yes.
+[00:25:42.640 --> 00:25:47.080] I feel like all of these things are just like, you know, we found a way to sell tequila to your door.
+[00:25:47.420 --> 00:25:47.620] Yeah.
+[00:25:47.700 --> 00:25:49.300] We've done a temporary marriage.
+[00:25:49.380 --> 00:25:50.700] So we found the loophole to this.
+[00:25:50.820 --> 00:25:51.800] I think you're absolutely right.
+[00:25:51.900 --> 00:25:54.340] I mean, Airbnb and Uber are a classic example.
+[00:25:54.520 --> 00:25:54.880] 100%.
+[00:25:54.880 --> 00:25:55.240] Which is.
+[00:25:55.340 --> 00:25:55.440] Yeah.
+[00:25:55.540 --> 00:25:57.320] Which is like, you find something super hard.
+[00:25:57.440 --> 00:25:57.580] Yeah.
+[00:25:57.700 --> 00:25:58.520] You just make it easy.
+[00:25:58.800 --> 00:25:58.920] Yeah.
+[00:25:58.980 --> 00:26:03.520] Or you do it illegally until you're able to push the laws because the service is so important
+[00:26:03.520 --> 00:26:04.980] that the world is able to move.
+[00:26:05.100 --> 00:26:05.360] Exactly.
+[00:26:05.380 --> 00:26:06.100] You're able to move the world.
+[00:26:06.200 --> 00:26:09.440] And I love it too when it's in like hard to move in spaces.
+[00:26:09.620 --> 00:26:10.720] Like banking is a huge one.
+[00:26:10.720 --> 00:26:14.240] And that's why I love talking about credit cards and like, you know, they all basically
+[00:26:14.240 --> 00:26:14.980] do the same thing.
+[00:26:15.160 --> 00:26:15.320] Yeah.
+[00:26:15.460 --> 00:26:16.800] They're built on the back of other banks.
+[00:26:16.920 --> 00:26:19.020] Like there was Simple, which was sold a long time ago.
+[00:26:19.240 --> 00:26:21.000] It was built on the back of another bank.
+[00:26:21.140 --> 00:26:21.400] Exactly.
+[00:26:21.840 --> 00:26:22.200] Mercury.
+[00:26:22.480 --> 00:26:23.920] I've heard Mercury say things about Mercury.
+[00:26:24.020 --> 00:26:24.360] It's phenomenal.
+[00:26:24.500 --> 00:26:24.880] You use it?
+[00:26:25.000 --> 00:26:25.220] Yeah.
+[00:26:25.280 --> 00:26:26.480] I use it and I love it.
+[00:26:26.600 --> 00:26:26.820] Really?
+[00:26:26.980 --> 00:26:28.600] It's an incredible bank.
+[00:26:28.720 --> 00:26:30.780] Like everybody should be using Mercury in my opinion.
+[00:26:30.900 --> 00:26:31.980] I will never use Chase again.
+[00:26:32.240 --> 00:26:32.580] Wow.
+[00:26:33.480 --> 00:26:38.980] But it's all built on top of Evolve Bank and Trust as like 250,000 other banks are.
+[00:26:38.980 --> 00:26:43.040] If you go to Evolve Bank and Trust, it's basically like we're a banking API.
+[00:26:43.280 --> 00:26:43.480] Yeah.
+[00:26:43.620 --> 00:26:43.840] You know?
+[00:26:44.040 --> 00:26:45.160] And like, who's the real winner?
+[00:26:45.320 --> 00:26:46.080] Probably Evolve.
+[00:26:46.460 --> 00:26:51.240] But like capsule pharmacies, like delivery of your prescriptions, same thing.
+[00:26:51.380 --> 00:26:56.700] And so I was trying to think, you know, what are the opportunities here in terms of like
+[00:26:56.700 --> 00:26:58.840] building something in a regulated industry?
+[00:26:59.120 --> 00:27:03.660] One I just thought of as we were starting was like, you know, 83Bs are a pain in the ass.
+[00:27:03.840 --> 00:27:05.260] This is a whole special process.
+[00:27:05.260 --> 00:27:10.080] 83Bs are like, if you get advisory shares in a company, you have to sign this stupid
+[00:27:10.080 --> 00:27:11.120] form and submit it.
+[00:27:11.200 --> 00:27:14.700] And if you submit it, you know, 10 seconds late, like you're paying a shitload of money
+[00:27:14.700 --> 00:27:15.200] in taxes.
+[00:27:15.420 --> 00:27:15.560] Yeah.
+[00:27:16.040 --> 00:27:20.300] And so, you know, like where are other places that this could work?
+[00:27:20.780 --> 00:27:23.620] There was one time I brainstormed a company where I was like, why don't we do a subscription
+[00:27:23.620 --> 00:27:25.380] service to like legal stuff?
+[00:27:25.380 --> 00:27:30.420] And not in that you get like a subscription service to a lawyer, but it's like, you know,
+[00:27:30.480 --> 00:27:35.580] the lawyer in your office gets a subscription to this newsletter that comes in once a week,
+[00:27:35.720 --> 00:27:37.240] sort of like 2 p.m. or something like that.
+[00:27:37.420 --> 00:27:39.920] We charge an absolute fortune for the email.
+[00:27:40.400 --> 00:27:42.420] But like, here's things that are up to date.
+[00:27:42.580 --> 00:27:46.280] So for instance, one of the interesting things I remember learning was that if you don't say
+[00:27:46.280 --> 00:27:50.980] by clicking this button, you accept the terms and conditions, you don't force the customer
+[00:27:50.980 --> 00:27:52.500] to accept those terms and conditions.
+[00:27:52.860 --> 00:27:55.420] Like you need that language right before place order.
+[00:27:55.960 --> 00:27:59.300] And so that's an important thing to put, like, you know, that might be something that some
+[00:27:59.300 --> 00:28:02.920] direct to consumer businesses have forgotten to do, or especially if they're not on Shopify,
+[00:28:03.200 --> 00:28:07.560] by saying by clicking this button, you accept our terms and conditions and privacy policy.
+[00:28:07.740 --> 00:28:11.680] So I was like, what if we build an app where like build a newsletter or a company based
+[00:28:11.680 --> 00:28:16.260] on where we provide this type of legal information to like legal officers inside businesses?
+[00:28:16.520 --> 00:28:16.660] Yeah.
+[00:28:16.760 --> 00:28:19.280] I'm not sure if that's what you're referring to in this thing.
+[00:28:19.280 --> 00:28:24.040] No, so I'm saying more like, all right, so the process of even something as simple as
+[00:28:24.040 --> 00:28:24.800] like notary, right?
+[00:28:25.020 --> 00:28:25.240] Yeah.
+[00:28:25.380 --> 00:28:27.320] Like you have to go somewhere, they have to stamp it.
+[00:28:27.420 --> 00:28:28.700] It's like such a bullshit process.
+[00:28:29.580 --> 00:28:31.480] There's got to be a way to modernize that.
+[00:28:31.520 --> 00:28:36.280] And it's a combination of like, you know, if I think about like, let's say Capsule.
+[00:28:36.920 --> 00:28:40.740] Capsule's front end, like their whole thing is like, we're going to build a better front
+[00:28:40.740 --> 00:28:42.440] end for a better customer experience, right?
+[00:28:42.500 --> 00:28:43.400] HIMSS 2, Roman.
+[00:28:43.740 --> 00:28:46.380] It's just, it's a company with a great front end.
+[00:28:46.380 --> 00:28:51.100] And I'm sure on the back end, they're still dealing with the same bullshit of insurance
+[00:28:51.100 --> 00:28:55.220] and doctor's offices and all these industries that like have not innovated.
+[00:28:55.360 --> 00:28:55.540] Yeah.
+[00:28:55.620 --> 00:28:57.240] But they become this bridge.
+[00:28:57.580 --> 00:29:01.560] And because they're like, you know, one of the first to do it or one of the best to do
+[00:29:01.560 --> 00:29:01.760] it.
+[00:29:01.860 --> 00:29:01.980] Yeah.
+[00:29:02.500 --> 00:29:07.540] They get to like, wine shipping is the go-to for alcohol brands and grass stores, the place
+[00:29:07.540 --> 00:29:08.880] you go if you want to sell weed online.
+[00:29:09.200 --> 00:29:09.280] Yeah.
+[00:29:09.320 --> 00:29:11.200] How do I make a reservation to the doctor, right?
+[00:29:11.280 --> 00:29:11.540] Exactly.
+[00:29:11.980 --> 00:29:15.600] And then provide that my insurance information so that when I get there, I don't have to
+[00:29:15.600 --> 00:29:19.180] refill out a form and they're not like, actually, we don't accept your insurance or there's some
+[00:29:19.180 --> 00:29:19.720] sort of problem.
+[00:29:19.880 --> 00:29:20.080] Exactly.
+[00:29:20.080 --> 00:29:20.880] I get what you're coming from now.
+[00:29:20.880 --> 00:29:25.340] It's like reducing friction in these, you know, un-innovated industries.
+[00:29:25.600 --> 00:29:27.780] You can now get a thing notarized online.
+[00:29:27.940 --> 00:29:29.260] You have to like, it costs 50 bucks.
+[00:29:29.360 --> 00:29:33.140] You've got to hold up your ID next to your face like this and then do it.
+[00:29:33.220 --> 00:29:34.780] It's like the most ridiculous thing in the world.
+[00:29:35.120 --> 00:29:35.760] That's hilarious.
+[00:29:36.480 --> 00:29:38.760] There's a bunch of stuff I want to chat about on the next episode.
+[00:29:39.180 --> 00:29:43.820] One is this Andrew Udarian tweet, which is now stale because we haven't gotten to it in
+[00:29:43.820 --> 00:29:45.980] the last five episodes that I thought we would like to.
+[00:29:46.400 --> 00:29:50.480] Two, and this is something I'm really curious to get your take is what subscription app should
+[00:29:50.480 --> 00:29:52.040] people be using on Shopify?
+[00:29:52.380 --> 00:29:54.460] Should they be using Skio?
+[00:29:54.640 --> 00:29:55.680] Should they be using Recharge?
+[00:29:56.260 --> 00:29:57.440] Should they be using Smarter?
+[00:29:57.580 --> 00:29:58.340] What should they use?
+[00:29:58.460 --> 00:29:58.920] What's better?
+[00:29:59.100 --> 00:30:00.120] And why is it better?
+[00:30:00.240 --> 00:30:04.780] Because I've only used Recharge my entire life because when I was in e-commerce, all those
+[00:30:04.780 --> 00:30:05.740] other options didn't exist.
+[00:30:05.920 --> 00:30:08.660] I'm really curious to know what you think does a much better job.
+[00:30:09.040 --> 00:30:10.080] So excited about that.
+[00:30:10.160 --> 00:30:13.860] But one thing that we forgot to do in episode five that I want to do in episode six is talk
+[00:30:13.860 --> 00:30:15.120] about brands that we love.
+[00:30:15.320 --> 00:30:15.540] Yes.
+[00:30:16.340 --> 00:30:17.600] So give me your hot take.
+[00:30:17.700 --> 00:30:18.620] What's a brand that you love?
+[00:30:18.720 --> 00:30:20.940] No investment, no personal stake in it.
+[00:30:21.260 --> 00:30:24.320] You know, you maybe chat with the founders if you like, but like, what's a brand that
+[00:30:24.320 --> 00:30:24.860] you really like?
+[00:30:25.120 --> 00:30:26.500] I would say Ridge Wallet.
+[00:30:26.660 --> 00:30:28.480] I don't have any like investment or anything.
+[00:30:28.740 --> 00:30:29.500] I love the guys.
+[00:30:34.980 --> 00:30:35.620] Completely bootstrapped.
+[00:30:35.680 --> 00:30:36.140] It's insane.
+[00:30:36.500 --> 00:30:38.520] Sean, who's the CEO, is a savage.
+[00:30:38.740 --> 00:30:43.440] Like there's this e-commerce operator Slack group I have with like probably 70 founders.
+[00:30:43.640 --> 00:30:43.820] Yeah.
+[00:30:43.960 --> 00:30:48.040] And somebody will be like, you know, hey, what's the processing rate you're getting
+[00:30:48.040 --> 00:30:48.680] with this company?
+[00:30:48.820 --> 00:30:53.340] And Sean will just screenshot his preferred rate and be like, send them this screenshot
+[00:30:53.340 --> 00:30:55.240] and tell them you want it or tell them I'm leaving.
+[00:30:55.520 --> 00:30:55.840] Oh, wow.
+[00:30:55.860 --> 00:30:57.500] You know, he's just an absolute savage.
+[00:30:57.500 --> 00:30:58.480] Put me in that Slack group.
+[00:30:58.580 --> 00:30:58.880] Yeah, yeah.
+[00:30:58.940 --> 00:30:59.760] We got to get you in there.
+[00:30:59.900 --> 00:31:00.780] Get me in that Slack group.
+[00:31:00.960 --> 00:31:01.920] So I'd say Ridge Wallet.
+[00:31:01.980 --> 00:31:02.760] Yeah, that's a great one.
+[00:31:03.360 --> 00:31:04.540] I'm going to go with two.
+[00:31:04.820 --> 00:31:07.000] One that I love called Last Crumb Cookies.
+[00:31:07.560 --> 00:31:08.740] You said this one before.
+[00:31:08.860 --> 00:31:09.220] Have I said?
+[00:31:09.240 --> 00:31:10.080] I don't think I said it.
+[00:31:10.200 --> 00:31:10.360] Okay.
+[00:31:10.420 --> 00:31:13.580] Then if I, I don't think I said it, I had it on the list, but I was just like putting
+[00:31:13.580 --> 00:31:13.760] down.
+[00:31:13.960 --> 00:31:15.100] I really love the cookies.
+[00:31:15.320 --> 00:31:16.540] I gift them all the time.
+[00:31:16.880 --> 00:31:20.840] I think I've probably spent $5,000 this year on Last Crumb Cookies.
+[00:31:21.120 --> 00:31:23.400] Mine must have just gotten lost in the mail, I guess.
+[00:31:24.400 --> 00:31:27.300] Anytime anyone does anything, I'm like, okay, let me send you a box of these cookies.
+[00:31:27.420 --> 00:31:29.120] And everyone's like, this is so awesome.
+[00:31:29.240 --> 00:31:29.400] Yeah.
+[00:31:29.400 --> 00:31:32.700] I wish that things that you gift wouldn't all be terrible for you.
+[00:31:32.760 --> 00:31:34.760] I feel like you only gift alcohol or sugar.
+[00:31:35.100 --> 00:31:35.880] Vanity or vice.
+[00:31:36.060 --> 00:31:36.200] Yeah.
+[00:31:36.260 --> 00:31:39.380] I wish there was something that was healthier that I could gift.
+[00:31:39.480 --> 00:31:42.580] Like not edible arrangements, but it's something like that where I'm like, here, I've gifted
+[00:31:42.580 --> 00:31:43.140] you health.
+[00:31:43.220 --> 00:31:43.400] Yeah.
+[00:31:43.820 --> 00:31:45.840] Instead of just here's sugar or here's alcohol.
+[00:31:46.440 --> 00:31:50.020] There's one brand that I want to like, but I don't, and it's called Levels.
+[00:31:50.460 --> 00:31:52.980] I've tried to use their, have you used Levels?
+[00:31:53.080 --> 00:31:53.780] I invested in there.
+[00:31:53.840 --> 00:31:54.400] You invest in there.
+[00:31:54.480 --> 00:31:55.340] Do you have one on right now?
+[00:31:55.420 --> 00:31:55.940] No, I don't.
+[00:31:56.520 --> 00:32:00.680] Whenever I try and put it in, like I, I, like I, one, one I used, uh, that it's a
+[00:32:00.680 --> 00:32:01.760] continuous glucose monitor.
+[00:32:01.980 --> 00:32:02.760] I used one.
+[00:32:02.820 --> 00:32:04.120] I couldn't, it didn't give any readings.
+[00:32:04.340 --> 00:32:05.400] I used another one.
+[00:32:05.520 --> 00:32:07.700] It gave me readings and they never changed.
+[00:32:07.880 --> 00:32:11.840] I'd eat a bowl of ice cream and my reading would be the same as if I just fasted for 24
+[00:32:11.840 --> 00:32:12.260] hours.
+[00:32:12.440 --> 00:32:13.940] And I'm like, there's no way I'm this healthy.
+[00:32:14.060 --> 00:32:14.240] Yeah.
+[00:32:14.240 --> 00:32:18.440] Um, and so I, I did it for four weeks and I couldn't get anything, couldn't get any
+[00:32:18.440 --> 00:32:18.800] changes.
+[00:32:19.140 --> 00:32:21.560] So I was like, I don't love this brand yet, but I want to love it.
+[00:32:21.680 --> 00:32:22.240] I think it's super.
+[00:32:22.400 --> 00:32:26.200] I, I really like direct to consumer businesses or, you know, whatever these types of businesses
+[00:32:26.200 --> 00:32:28.640] are called innovating on that type of stuff.
+[00:32:28.760 --> 00:32:32.460] And Levels is a great example of what we were just talking about, which is they built a
+[00:32:32.460 --> 00:32:35.000] better UI for, uh, for something that should exist.
+[00:32:35.160 --> 00:32:39.380] And everyone should be able to get a continuous glucose monitor and understand how sugar, uh,
+[00:32:39.820 --> 00:32:40.480] affects their body.
+[00:32:40.640 --> 00:32:41.520] It shouldn't be right now.
+[00:32:41.660 --> 00:32:42.280] You need a prescription.
+[00:32:42.280 --> 00:32:43.160] It's bananas.
+[00:32:43.440 --> 00:32:43.540] Yeah.
+[00:32:43.760 --> 00:32:45.720] Uh, like, you know, how does an apple affect you?
+[00:32:45.900 --> 00:32:49.980] It's very different than a way an apple affects me probably just based on our DNA and genetics
+[00:32:49.980 --> 00:32:51.340] and upbringing in history.
+[00:32:51.540 --> 00:32:54.280] And so I'm surprised that you need a prescription and they've done a good job of getting rid of
+[00:32:54.280 --> 00:32:54.460] that.
+[00:32:54.640 --> 00:32:55.100] Fully agreed.
+[00:32:55.800 --> 00:32:56.160] Okay.
+[00:32:56.340 --> 00:32:57.440] Looking forward to episode seven.
+[00:32:57.920 --> 00:32:58.600] Let's do it.
+[00:32:59.240 --> 00:33:00.280] Thanks for tuning in.
+[00:33:00.480 --> 00:33:03.960] We'll be back next time to cut through the noise in CPG, retail, and e-commerce.
+[00:33:04.360 --> 00:33:08.640] And if you enjoyed this episode, then why not share it with a friend and be sure to
+[00:33:08.640 --> 00:33:11.200] subscribe on whatever platform you listen to your podcasts on.

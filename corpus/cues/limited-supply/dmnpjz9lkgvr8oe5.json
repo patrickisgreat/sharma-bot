@@ -1,0 +1,2539 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.76,
+      "text": " We keep calibrating ourselves, and it's not decided we know what the future holds, but it's"
+    },
+    {
+      "start": 4.76,
+      "end": 9.48,
+      "text": " good for you to have the name the number, like hey if I were to spend another 100 grand"
+    },
+    {
+      "start": 9.48,
+      "end": 14.04,
+      "text": " like I believe that's gonna net us under 150 or whatever the case might be, like name"
+    },
+    {
+      "start": 14.04,
+      "end": 19.48,
+      "text": " it, right? And then see what happens and learn oh I overstated, I understated. It really"
+    },
+    {
+      "start": 19.48,
+      "end": 24,
+      "text": " helps you refine this forecasting skills, and I think as a media buyer if you just spend"
+    },
+    {
+      "start": 24,
+      "end": 28.64,
+      "text": " without knowing what to expect to come back, it's just not great practice."
+    },
+    {
+      "start": 28.64,
+      "end": 34.68,
+      "text": " This is Limited Supply, the place for refreshingly real takes on what D to C is really like."
+    },
+    {
+      "start": 34.68,
+      "end": 38.88,
+      "text": " Where your host, Nick and Moiz? Let's start talking about money!"
+    },
+    {
+      "start": 38.88,
+      "end": 44.02,
+      "text": " Get paid monthly and take a year off from running your Shopify business with OpenStore Drive."
+    },
+    {
+      "start": 44.02,
+      "end": 48,
+      "text": " OpenStore's experts will handle everything including your business's marketing, customer"
+    },
+    {
+      "start": 48,
+      "end": 54.12,
+      "text": " support, inventory, and more. Shopify businesses with more than 500K and yearly net sales"
+    },
+    {
+      "start": 54.12,
+      "end": 58.52,
+      "text": " qualify. Head to Open.Store slash Limited for details."
+    },
+    {
+      "start": 58.52,
+      "end": 64.5,
+      "text": " Nick, this is the first episode we're doing Post Black Friday. We have a special guest."
+    },
+    {
+      "start": 64.5,
+      "end": 69.58,
+      "text": " I reached out to Ben from True Classic Tees, probably just after Black Friday and I was like"
+    },
+    {
+      "start": 69.58,
+      "end": 75.12,
+      "text": " look we need to understand what you guys did after Black Friday and he was generous with"
+    },
+    {
+      "start": 75.12,
+      "end": 79.24,
+      "text": " his time and he agreed to do it. So we're recording just app basically a week after"
+    },
+    {
+      "start": 79.24,
+      "end": 84.72,
+      "text": " Black Friday. So first let me start by saying Ben welcome to the show again this is the"
+    },
+    {
+      "start": 84.72,
+      "end": 88.84,
+      "text": " second time during your year. The first time you were here was the most listened to episode"
+    },
+    {
+      "start": 88.84,
+      "end": 94.12,
+      "text": " of Limited Supply. We're so grateful for your time. I'm so excited about this episode."
+    },
+    {
+      "start": 94.12,
+      "end": 98.56,
+      "text": " Thanks for being here. Of course, I'm excited. Let's get started."
+    },
+    {
+      "start": 98.56,
+      "end": 101.88,
+      "text": " Yes, I know you have limited a lot of time so I'm just going to start peppering you with"
+    },
+    {
+      "start": 101.88,
+      "end": 107.44,
+      "text": " questions. I'm not going to ask how are you? I'm not going to ask you you must be exhausted."
+    },
+    {
+      "start": 107.44,
+      "end": 114.04,
+      "text": " How is your family? No, business straight to business. First is 2023 Black Friday Cyber"
+    },
+    {
+      "start": 114.04,
+      "end": 120.4,
+      "text": " Monday. Did it beat expectations? Yes. Okay, bye how much?"
+    },
+    {
+      "start": 120.4,
+      "end": 124.08,
+      "text": " So we changed strategy year over year. Last year was all about growth primarily and"
+    },
+    {
+      "start": 124.08,
+      "end": 128.4,
+      "text": " we're still recently profitable DC. We actually took a different approach of trying to maximize"
+    },
+    {
+      "start": 128.4,
+      "end": 132.86,
+      "text": " EBITDA and actually do it. And so we spend a little bit more conservatively than we did"
+    },
+    {
+      "start": 132.86,
+      "end": 138.54,
+      "text": " year over year and had by far the most profitable month in the company history by a kind of"
+    },
+    {
+      "start": 138.54,
+      "end": 145.18,
+      "text": " large margin and still generated over 30 million dollars in top-line sales."
+    },
+    {
+      "start": 145.18,
+      "end": 148.18,
+      "text": " Damn, just for Black Friday Cyber Monday. No, no, no, no, no, no, no, no, no, no, no,"
+    },
+    {
+      "start": 148.18,
+      "end": 152.46,
+      "text": " that's not in November. Sorry, just to be clear. Wow, 30 million. Oh my God. Okay."
+    },
+    {
+      "start": 152.46,
+      "end": 158.22,
+      "text": " And was that was 2023 30 million larger than 2022 top line November? Yes, still, still"
+    },
+    {
+      "start": 158.22,
+      "end": 164.22,
+      "text": " larger. Yeah, wow. Okay. When you say you spent more conservatively, let me ask you a quick"
+    },
+    {
+      "start": 164.22,
+      "end": 168.5,
+      "text": " question. What does that mean? Like do you talk about spend during Black like is Black Friday"
+    },
+    {
+      "start": 168.5,
+      "end": 174.14,
+      "text": " spend confined to sort of like the Black Friday sale or do you do spend? Do you start spending"
+    },
+    {
+      "start": 174.14,
+      "end": 178.9,
+      "text": " in October trying to grow your list and get people excited when does Black Friday spend"
+    },
+    {
+      "start": 178.9,
+      "end": 183.7,
+      "text": " storm? Yeah, so we started this year I guess in line with a lot of our brands a lot earlier"
+    },
+    {
+      "start": 183.7,
+      "end": 186.94,
+      "text": " and I feel like every year just keeps moving up. I feel like next year maybe we'll start"
+    },
+    {
+      "start": 186.94,
+      "end": 192.06,
+      "text": " Black Friday in like September, you know? But this year we started the sale on November"
+    },
+    {
+      "start": 192.06,
+      "end": 196.86,
+      "text": " 2nd and we were like listen, we're going to be there whenever the shoppers is at and people"
+    },
+    {
+      "start": 196.86,
+      "end": 201.3,
+      "text": " start shopping much earlier. It turns out and you may as well just have your best foot forward"
+    },
+    {
+      "start": 201.3,
+      "end": 206.14,
+      "text": " with the great offer. So technically November spend started earlier in November but then"
+    },
+    {
+      "start": 206.14,
+      "end": 211.54,
+      "text": " we really ramped it up Thursday night and then obviously going into Friday and when"
+    },
+    {
+      "start": 211.54,
+      "end": 215.58,
+      "text": " we look at like how much to spend we have those crazy intraday monitors. It's almost like"
+    },
+    {
+      "start": 215.58,
+      "end": 220.26,
+      "text": " we're trading stocks or something and we just look at like hourly pacing of what's coming"
+    },
+    {
+      "start": 220.26,
+      "end": 226.02,
+      "text": " in. Where are we on profitability? Like intraday in terms of like contribution profit percentages"
+    },
+    {
+      "start": 226.02,
+      "end": 229.78,
+      "text": " and then looking at other indicators like last click attribution, just to make sure we're"
+    },
+    {
+      "start": 229.78,
+      "end": 236.18,
+      "text": " not pushing on some channels that are not really driving in the moment action and traction"
+    },
+    {
+      "start": 236.18,
+      "end": 241.66,
+      "text": " and we every day have like we meet like six in the morning, eight in the morning,"
+    },
+    {
+      "start": 241.66,
+      "end": 245.58,
+      "text": " ten noon, like every two hours and we just talk about like where are we currently trending"
+    },
+    {
+      "start": 245.58,
+      "end": 249.58,
+      "text": " and to us the two things that matter is top line revenue or frost net revenue of all the"
+    },
+    {
+      "start": 249.58,
+      "end": 254.78,
+      "text": " discounts and returns stuff like that. Sure. And then bottom line EBITDA and then we just keep"
+    },
+    {
+      "start": 254.78,
+      "end": 259.62,
+      "text": " re projecting that so it's okay if we were to push another hundred grand on meta. Where"
+    },
+    {
+      "start": 259.62,
+      "end": 263.9,
+      "text": " we're learning today and what happens kind of over the five days. So that's how we kind"
+    },
+    {
+      "start": 263.9,
+      "end": 268.62,
+      "text": " of like run the show and it's very intense but honestly the best five days of the year the most"
+    },
+    {
+      "start": 268.62,
+      "end": 273.7,
+      "text": " fun I have on this job. I always remembered you said last time we chatted that you had no"
+    },
+    {
+      "start": 273.7,
+      "end": 278.38,
+      "text": " marketing budget, you're like we will spend as long as we're profitable and it sounds"
+    },
+    {
+      "start": 278.38,
+      "end": 283.7,
+      "text": " like even on black Friday you come in with a pretty blank dry erase board and you're"
+    },
+    {
+      "start": 283.7,
+      "end": 286.98,
+      "text": " like look we're gonna you're not like we're gonna spend this much on black Friday you're"
+    },
+    {
+      "start": 286.98,
+      "end": 292.1,
+      "text": " like we've you know even intraday every two hours you're making decisions did you generally"
+    },
+    {
+      "start": 292.1,
+      "end": 297.26,
+      "text": " push up spend did you push down spend like do you remember what it was at 8 a.m. 10 a.m."
+    },
+    {
+      "start": 297.26,
+      "end": 301.7,
+      "text": " what noon was it up or did you guys we look let's push the pedal down further where"
+    },
+    {
+      "start": 301.7,
+      "end": 305.82,
+      "text": " you like let's let off a little bit. What we do is we're trying to find this like so"
+    },
+    {
+      "start": 305.82,
+      "end": 309.74,
+      "text": " the one liner I always give brands which I think is important to understand and go for"
+    },
+    {
+      "start": 309.74,
+      "end": 315.66,
+      "text": " is like optimize for marginal incremental contribution profit right that's the one liner marginal"
+    },
+    {
+      "start": 315.66,
+      "end": 321.14,
+      "text": " being the last dollar versus the average which is very different and incremental being truly"
+    },
+    {
+      "start": 321.14,
+      "end": 325.62,
+      "text": " driving it as opposed to the tributes. And then contribution profit is what is the best"
+    },
+    {
+      "start": 325.62,
+      "end": 330.06,
+      "text": " indicator taking all the variable costs and structure into account. So that's what we're"
+    },
+    {
+      "start": 330.06,
+      "end": 334.82,
+      "text": " after. And so we start the day and when and then we look and say okay overall on let's"
+    },
+    {
+      "start": 334.82,
+      "end": 338.38,
+      "text": " just say last click basis it looks really strong right we are let's just say bullish and"
+    },
+    {
+      "start": 338.38,
+      "end": 342.34,
+      "text": " so we're starting to push a little bit more when we do what we have on triple wells and"
+    },
+    {
+      "start": 342.34,
+      "end": 347.74,
+      "text": " example is like the actual blended contribution profit trending over by the hour of the"
+    },
+    {
+      "start": 347.74,
+      "end": 352.18,
+      "text": " day if that doesn't net out contribution profit hourly starts kind of like falling short"
+    },
+    {
+      "start": 352.18,
+      "end": 357.14,
+      "text": " of expectations I don't see the return on a marginal basis of this extra push I will"
+    },
+    {
+      "start": 357.14,
+      "end": 361.82,
+      "text": " choose to pull back right because I'm like I just pushed and it just doesn't net out"
+    },
+    {
+      "start": 361.82,
+      "end": 366.74,
+      "text": " on the intraday. And so we do this push and pull and so certain channels we start a little"
+    },
+    {
+      "start": 366.74,
+      "end": 371.26,
+      "text": " bit more aggressive and have to pull back other tactics with better success with frankly"
+    },
+    {
+      "start": 371.26,
+      "end": 375.98,
+      "text": " for us on metaspecifically like ASC seems to take a little bit of a backer seat and CBO"
+    },
+    {
+      "start": 375.98,
+      "end": 380.7,
+      "text": " starts to perform against super well so there were some even within the within the channel"
+    },
+    {
+      "start": 380.7,
+      "end": 384.86,
+      "text": " like certain tactics we bet on kind of like this appointment so we kind of shifted budget"
+    },
+    {
+      "start": 384.86,
+      "end": 391.06,
+      "text": " to others but we take that super tactically and not necessarily to your point like no"
+    },
+    {
+      "start": 391.06,
+      "end": 397.26,
+      "text": " budget set other than the goal is to maximize contribution profit in it throughout the day"
+    },
+    {
+      "start": 397.26,
+      "end": 400.86,
+      "text": " and that's how we go about this. So intraday though like when you're looking at ads"
+    },
+    {
+      "start": 400.86,
+      "end": 404.86,
+      "text": " and you're like a 10 a.m. okay looks like we can spend more maybe on meta let's do"
+    },
+    {
+      "start": 404.86,
+      "end": 407.5,
+      "text": " it. Is that the discussion that you guys have at the 10 a.m. meeting?"
+    },
+    {
+      "start": 407.66,
+      "end": 411.66,
+      "text": " Correct yeah and then we said like how much and then we make a prediction and that's where"
+    },
+    {
+      "start": 411.66,
+      "end": 414.86,
+      "text": " and then we want to see if we're good at that prediction so we keep calibrating ourselves"
+    },
+    {
+      "start": 414.86,
+      "end": 418.54,
+      "text": " and it's not decided we had we know you know what the future holds but it's good for you"
+    },
+    {
+      "start": 418.54,
+      "end": 423.02,
+      "text": " to have the like name the number right okay if I were to spend another hundred grand like"
+    },
+    {
+      "start": 423.02,
+      "end": 427.9,
+      "text": " I believe that's going to net us under 150 or whatever the case might be like name it right"
+    },
+    {
+      "start": 427.9,
+      "end": 433.74,
+      "text": " and then see what happens and learn oh I overstated I understated it really helps you refine"
+    },
+    {
+      "start": 433.82,
+      "end": 437.98,
+      "text": " this like forecasting skills and I think as a media buyer if you just spend without knowing what"
+    },
+    {
+      "start": 437.98,
+      "end": 443.66,
+      "text": " to expect to come back it's just not great practice right so we are all challenging ourselves to"
+    },
+    {
+      "start": 443.66,
+      "end": 449.18,
+      "text": " you know be better at forecasting. Are you able to tell us how much you spent on Friday"
+    },
+    {
+      "start": 449.18,
+      "end": 456.14,
+      "text": " on meta ads and if so before you tell us Nick let's you and I both guess that sounds good okay"
+    },
+    {
+      "start": 456.14,
+      "end": 460.94,
+      "text": " so I'm gonna get you did look you said you did 30 million dollars in the month of November"
+    },
+    {
+      "start": 460.94,
+      "end": 466.62,
+      "text": " I'm gonna guess on black Friday you did six and a half or seven million dollars and I'm"
+    },
+    {
+      "start": 466.62,
+      "end": 471.98,
+      "text": " gonna guess that you spent is that right six or a half or seven million dollars because"
+    },
+    {
+      "start": 471.98,
+      "end": 475.34,
+      "text": " you're doing a million dollars a day is seven million dollars now I guess it's going to be more"
+    },
+    {
+      "start": 475.34,
+      "end": 479.9,
+      "text": " I'm gonna guess closer to eight to ten on your black Friday so I'm gonna guess you spent"
+    },
+    {
+      "start": 480.46,
+      "end": 486.46,
+      "text": " 1.2 million on Facebook ads on black Friday but you know these are guesses based on your revenue"
+    },
+    {
+      "start": 486.46,
+      "end": 493.02,
+      "text": " of like you know I could be wildly off here Nick your guess I was gonna say one and a half but"
+    },
+    {
+      "start": 493.02,
+      "end": 498.22,
+      "text": " I'll say two just for fun just so there's a little bit more spread so we're gonna actually come"
+    },
+    {
+      "start": 498.22,
+      "end": 505.74,
+      "text": " shorter of both of you guys we spend just under five just under 500 on meta wow yeah and as I"
+    },
+    {
+      "start": 505.74,
+      "end": 511.58,
+      "text": " mentioned like we ended up pulling back actually compared to what we did prior and the"
+    },
+    {
+      "start": 511.9,
+      "end": 518.7,
+      "text": " the focus though as I mentioned was very much around profitability rather than just growth and so"
+    },
+    {
+      "start": 518.7,
+      "end": 525.5,
+      "text": " we took a super strict approach on like that contribution profit component but it worked out"
+    },
+    {
+      "start": 526.22,
+      "end": 532.86,
+      "text": " great for us as a company and so I'm actually really bullish on what this revised approach"
+    },
+    {
+      "start": 532.86,
+      "end": 537.1,
+      "text": " or refined approach can do for us as a business was my revenue target way off"
+    },
+    {
+      "start": 537.82,
+      "end": 542.3,
+      "text": " for black Friday sorry didn't answer that we did it just over yeah just about"
+    },
+    {
+      "start": 542.3,
+      "end": 547.5,
+      "text": " or in a half-ish on Friday were there other channels that you were spending on so if you spent"
+    },
+    {
+      "start": 547.5,
+      "end": 551.98,
+      "text": " just under half a million on Facebook were there other channels that you spent on that did really"
+    },
+    {
+      "start": 551.98,
+      "end": 556.94,
+      "text": " well for example we saw with a brand that was spent and probably similar number to that"
+    },
+    {
+      "start": 557.9,
+      "end": 563.5,
+      "text": " TikTok started performing extremely well within BFCM was that a channel you guys were on"
+    },
+    {
+      "start": 563.66,
+      "end": 567.98,
+      "text": " or what were the other channels you were on I mean we're on on the all the kind of like obvious"
+    },
+    {
+      "start": 567.98,
+      "end": 576.46,
+      "text": " aspects of like YouTube Google TV podcast we do do TikTok we do Amazon ads nothing for our"
+    },
+    {
+      "start": 576.46,
+      "end": 581.9,
+      "text": " scales as like nearly as far as as meta so meta to me is always like especially by the way in"
+    },
+    {
+      "start": 581.9,
+      "end": 586.54,
+      "text": " the black Friday 7 Monday moment in time it I think it becomes completely disproportionate"
+    },
+    {
+      "start": 586.54,
+      "end": 590.62,
+      "text": " proportionally larger than anything else because if you talk about this like scaling approach"
+    },
+    {
+      "start": 590.62,
+      "end": 595.42,
+      "text": " of like hey I'm scaling do I see it coming back it doesn't seem to be the case in majority"
+    },
+    {
+      "start": 595.42,
+      "end": 599.98,
+      "text": " of other channels especially if you're trying to connect abruptly or a whole lot more money into it"
+    },
+    {
+      "start": 600.54,
+      "end": 605.9,
+      "text": " so I was a second that was Google no surprising but smaller like less than half and then"
+    },
+    {
+      "start": 606.3,
+      "end": 611.18,
+      "text": " TikTok did not scale too far but we did have we did see some success in different cases there"
+    },
+    {
+      "start": 611.18,
+      "end": 615.42,
+      "text": " also like TikTok internationally it's kind of interesting for us and we're trying to kind of"
+    },
+    {
+      "start": 615.5,
+      "end": 622.38,
+      "text": " approach that Amazon ads I keep struggling with in terms of like just is it incremental and if so"
+    },
+    {
+      "start": 622.38,
+      "end": 629.02,
+      "text": " kind of like how much so we keep revisiting ourselves like like you know should we even do it right"
+    },
+    {
+      "start": 629.02,
+      "end": 633.02,
+      "text": " like and if so how much and what is the value of like branded search I kind of like at this point"
+    },
+    {
+      "start": 633.02,
+      "end": 637.58,
+      "text": " really devalue it and then what happens when you do an unbranded and are those people that"
+    },
+    {
+      "start": 638.14,
+      "end": 643.02,
+      "text": " really learn about your brand on Amazon and those ads really do something for them or they really"
+    },
+    {
+      "start": 643.02,
+      "end": 647.34,
+      "text": " know about you from social and just go to Amazon because it's the convenient place for them to"
+    },
+    {
+      "start": 647.34,
+      "end": 651.42,
+      "text": " shop like I do that all the time you know if a brand is on Amazon I'll find it there and I'll"
+    },
+    {
+      "start": 651.42,
+      "end": 656.3,
+      "text": " typically buy so we question a lot of the other channels that get in terms of efficacy"
+    },
+    {
+      "start": 657.34,
+      "end": 662.14,
+      "text": " so this is probably different for everybody's business specifically but from a pattern level"
+    },
+    {
+      "start": 662.14,
+      "end": 668.38,
+      "text": " have you seen a difference in your customers that you acquire during the year versus those who"
+    },
+    {
+      "start": 668.38,
+      "end": 674.62,
+      "text": " you acquire during black Friday yeah typically the black Friday I would say even rather than the"
+    },
+    {
+      "start": 674.62,
+      "end": 680.7,
+      "text": " the November cohort much much heavier gifters right no surprise and so for us what we do is we have"
+    },
+    {
+      "start": 680.7,
+      "end": 685.1,
+      "text": " a question in the post purchase service that says like who did you purchase for today and it's"
+    },
+    {
+      "start": 685.1,
+      "end": 691.34,
+      "text": " myself first there's a bunch of other options like someone else father or husband or you name it"
+    },
+    {
+      "start": 691.34,
+      "end": 696.3,
+      "text": " and what is really interesting to see for us as a business is how it's starting like even before"
+    },
+    {
+      "start": 696.3,
+      "end": 701.26,
+      "text": " kind of beginning of November it's like 80 plus percent I just say myself and then it's just"
+    },
+    {
+      "start": 701.26,
+      "end": 706.7,
+      "text": " gradually but pretty consistently gets heavier and heavier into the gifters and the gifters take"
+    },
+    {
+      "start": 706.7,
+      "end": 711.1,
+      "text": " becomes the majority in a lot of those kind of like time frames and in December like it's very"
+    },
+    {
+      "start": 711.1,
+      "end": 716.14,
+      "text": " heavy for us you know more females coming shopping for their significant others things like that"
+    },
+    {
+      "start": 716.14,
+      "end": 721.42,
+      "text": " and then what we also see is that from an LTV perspective those tend to be just less"
+    },
+    {
+      "start": 721.42,
+      "end": 725.9,
+      "text": " creative and like worse cohorts the thing that's interesting though which we're still trying to"
+    },
+    {
+      "start": 725.9,
+      "end": 731.18,
+      "text": " dig into is are those lower LTV customers because they're a gifters and they don't come back"
+    },
+    {
+      "start": 731.18,
+      "end": 735.82,
+      "text": " themselves because they don't buy it for themselves but maybe they come back as the GFT so in the case"
+    },
+    {
+      "start": 735.82,
+      "end": 740.86,
+      "text": " of like let's just say you're like a like a female right and you're buying it for your husband so"
+    },
+    {
+      "start": 740.86,
+      "end": 745.58,
+      "text": " you made the purchase once he got hooked and now he comes back as himself and keep buying from there"
+    },
+    {
+      "start": 745.58,
+      "end": 749.74,
+      "text": " might be even registering as a new customer so if some of those are kind of like deeper analytical"
+    },
+    {
+      "start": 749.74,
+      "end": 753.34,
+      "text": " questions that are still unanswered but we're trying to think really deeply into connect what's"
+    },
+    {
+      "start": 753.34,
+      "end": 758.62,
+      "text": " driving the behavior but on on the surface level it tends to be a lot heavier purchase for someone else"
+    },
+    {
+      "start": 758.62,
+      "end": 763.98,
+      "text": " because it's a great gifting opportunity to buy kind of like more affordably and then from an LTV"
+    },
+    {
+      "start": 763.98,
+      "end": 769.26,
+      "text": " perspective I was here as a company is that the November December cohorts tends to just be worse than"
+    },
+    {
+      "start": 769.26,
+      "end": 775.02,
+      "text": " other months was that the most interesting insight from your post purchase survey or was there anything"
+    },
+    {
+      "start": 775.02,
+      "end": 779.98,
+      "text": " else that stood out it is interesting the other thing that's really interesting to me I still"
+    },
+    {
+      "start": 779.98,
+      "end": 784.86,
+      "text": " am like trying to really understand what it means and how to think about it is that when you know a"
+    },
+    {
+      "start": 784.86,
+      "end": 789.58,
+      "text": " lot of people ask people where did you first hear about me or the brand right but we also ask"
+    },
+    {
+      "start": 789.58,
+      "end": 796.38,
+      "text": " is when did you first hear about us oh interesting and we asked that with different time horizons so we say"
+    },
+    {
+      "start": 796.38,
+      "end": 802.14,
+      "text": " today this week this month you know this year right or three to six months whatever this year"
+    },
+    {
+      "start": 802.86,
+      "end": 808.14,
+      "text": " and we have so many people who have heard about us for the first time over three six sometimes a"
+    },
+    {
+      "start": 808.14,
+      "end": 813.34,
+      "text": " year ago who have made their first purchase right there and then and it's really interesting because"
+    },
+    {
+      "start": 813.34,
+      "end": 817.42,
+      "text": " if you think about our brand and most people do that marketers in particular they judge by AOV and"
+    },
+    {
+      "start": 817.42,
+      "end": 822.94,
+      "text": " select listen it's a relatively like decently low AOV where a very affordable approachable brand"
+    },
+    {
+      "start": 822.94,
+      "end": 828.06,
+      "text": " low consideration don't think it takes much right to convert and when you look at the data you start"
+    },
+    {
+      "start": 828.06,
+      "end": 834.86,
+      "text": " saying like actually in many many cases you're planning to see it way far back in the day and now"
+    },
+    {
+      "start": 834.86,
+      "end": 839.9,
+      "text": " is the moment you convert them and that's actually really interesting from like a marketing kind of"
+    },
+    {
+      "start": 839.9,
+      "end": 844.14,
+      "text": " strategy perspective I just share with you how I'm like hey let's push let's pull all based on"
+    },
+    {
+      "start": 844.14,
+      "end": 849.34,
+      "text": " kind of super short time horizons because of like how much we're spending and and how much confidence"
+    },
+    {
+      "start": 849.34,
+      "end": 853.58,
+      "text": " I want to feel that those are really well spent dollars but then you have on the contrary of that"
+    },
+    {
+      "start": 853.58,
+      "end": 857.82,
+      "text": " is like listen you're creating all this marketing potential throughout the year and then you really"
+    },
+    {
+      "start": 857.82,
+      "end": 862.14,
+      "text": " need to understand like how much value to put on that right how the people you reached on the"
+    },
+    {
+      "start": 862.14,
+      "end": 866.3,
+      "text": " email see collected on the phone numbers you collect and on the apps that you got downloaded even if"
+    },
+    {
+      "start": 866.3,
+      "end": 871.74,
+      "text": " it didn't convert right there and then and created that DR there is value there's a lot of value"
+    },
+    {
+      "start": 871.74,
+      "end": 875.9,
+      "text": " and so that's like I would say is a very interesting one for any brand to dig into if you're collecting"
+    },
+    {
+      "start": 875.9,
+      "end": 881.42,
+      "text": " that data point how did your cohort of members so like people who are true classic members"
+    },
+    {
+      "start": 882.3,
+      "end": 889.02,
+      "text": " perform during black Friday we still are trying to grow that membership and all in from"
+    },
+    {
+      "start": 889.02,
+      "end": 897.42,
+      "text": " a like LTV perspective they are just astronomically more valuable than our you know like three plus"
+    },
+    {
+      "start": 897.42,
+      "end": 903.5,
+      "text": " X let's just say then our non-members what we're trying to understand though which is also"
+    },
+    {
+      "start": 903.5,
+      "end": 907.58,
+      "text": " important is how much of that is couldn't put selection bias right so are those"
+    },
+    {
+      "start": 908.22,
+      "end": 911.58,
+      "text": " our best customers opting into the membership because that's when they're going to get the"
+    },
+    {
+      "start": 911.58,
+      "end": 917.58,
+      "text": " best value and therefore show up already as high LTV now just shown under them braille of the membership"
+    },
+    {
+      "start": 917.58,
+      "end": 922.14,
+      "text": " or is it that the membership drives average customers to become superstar customers right then"
+    },
+    {
+      "start": 922.14,
+      "end": 927.82,
+      "text": " become collect whales we don't have those data points figured out but we are trying to dig deeper"
+    },
+    {
+      "start": 927.82,
+      "end": 933.74,
+      "text": " there and basically look at the same customers pre post the membership treat menu if you will if"
+    },
+    {
+      "start": 933.74,
+      "end": 937.34,
+      "text": " we have data on that and just see like do we see a difference in behavior they come back more"
+    },
+    {
+      "start": 937.34,
+      "end": 943.02,
+      "text": " frequently do they spend or like generate IRA over the orders things like that okay I'm going to go"
+    },
+    {
+      "start": 943.02,
+      "end": 947.58,
+      "text": " back to a couple more black Friday questions if I might can you tell me you so you said your"
+    },
+    {
+      "start": 947.58,
+      "end": 953.58,
+      "text": " black Friday sale started November 7th November 2nd I'm sorry did you change the offer a bunch during"
+    },
+    {
+      "start": 953.58,
+      "end": 957.9,
+      "text": " black Friday were there different like you know for instance me undies does this program where they"
+    },
+    {
+      "start": 957.9,
+      "end": 961.98,
+      "text": " do like you know 12 days of black Friday and every single day is a different day that they"
+    },
+    {
+      "start": 961.98,
+      "end": 966.62,
+      "text": " different item that they discount this is one of those like weekends where when you're when you"
+    },
+    {
+      "start": 966.62,
+      "end": 971.02,
+      "text": " know usually I feel like I'm so lucky selling something like deal rent because I don't have to"
+    },
+    {
+      "start": 971.02,
+      "end": 976.3,
+      "text": " already that size is and skews or you know an inventory management is so much easier this is the"
+    },
+    {
+      "start": 976.3,
+      "end": 980.7,
+      "text": " one time of the year where I hate it because I'm like you guys have the ability to say today shirts"
+    },
+    {
+      "start": 980.7,
+      "end": 986.62,
+      "text": " tomorrow boxers Wednesday hats the next day job you know every day can be something different"
+    },
+    {
+      "start": 986.62,
+      "end": 991.9,
+      "text": " did your offer change during the November 2nd to black Friday deal or was it pretty consistent"
+    },
+    {
+      "start": 992.46,
+      "end": 997.18,
+      "text": " were there different discounts via text via app via email how did you guys think about this"
+    },
+    {
+      "start": 997.18,
+      "end": 1002.78,
+      "text": " strategy when it came to its black Friday how do we get our message across and possibly like"
+    },
+    {
+      "start": 1002.78,
+      "end": 1007.74,
+      "text": " incentivize people the right way so I think one thing that's really important in my opinion is"
+    },
+    {
+      "start": 1007.74,
+      "end": 1013.02,
+      "text": " that is there is this like course segment out there who just doesn't believe that the real deal"
+    },
+    {
+      "start": 1013.02,
+      "end": 1016.62,
+      "text": " shows out before black Friday so they're just not going to shop right they're just going to be there"
+    },
+    {
+      "start": 1016.62,
+      "end": 1020.78,
+      "text": " and they're going to wait and wait and wait and comes back Friday eight not in our case in"
+    },
+    {
+      "start": 1021.18,
+      "end": 1025.66,
+      "text": " like not really like and what I think is interesting is like a lot of this like black Friday moment"
+    },
+    {
+      "start": 1025.66,
+      "end": 1031.02,
+      "text": " you know people worry about like messaging fatigue offer fatigue what we see I think pretty"
+    },
+    {
+      "start": 1031.02,
+      "end": 1036.94,
+      "text": " consistent is like people just come to shop at different moments in time and those who are waking"
+    },
+    {
+      "start": 1036.94,
+      "end": 1040.94,
+      "text": " up after Thanksgiving looking to shop black Friday and know that okay that's the real deal no matter"
+    },
+    {
+      "start": 1040.94,
+      "end": 1045.34,
+      "text": " what they told me before I'm just going to be there and do it and not necessarily feel like a way"
+    },
+    {
+      "start": 1045.34,
+      "end": 1050.22,
+      "text": " about what you offered before why not when we did try to do is two things most to your point on"
+    },
+    {
+      "start": 1050.22,
+      "end": 1056.54,
+      "text": " the one hand keep it super freaking simple I think we've learned over the years how important is to"
+    },
+    {
+      "start": 1056.54,
+      "end": 1063.58,
+      "text": " keep a simple offer as in like for us up to 70% off and not go crazy of like buy this get that"
+    },
+    {
+      "start": 1063.58,
+      "end": 1070.3,
+      "text": " bundle this together get this like bogey thing like tiers of discounts all of those promos for us"
+    },
+    {
+      "start": 1070.3,
+      "end": 1075.34,
+      "text": " at this point are just out of the window and we're keeping things super super simple what we do"
+    },
+    {
+      "start": 1075.5,
+      "end": 1079.74,
+      "text": " try to create newness with and how we're playing into the black fighter seven money game throughout"
+    },
+    {
+      "start": 1079.74,
+      "end": 1083.82,
+      "text": " the entire month of November is with the merchandising to your point so what we do is we drop lots of"
+    },
+    {
+      "start": 1083.82,
+      "end": 1089.02,
+      "text": " different packs and so we'll say like hey limited pack we just put something together multiple skews"
+    },
+    {
+      "start": 1089.02,
+      "end": 1094.54,
+      "text": " right and buy it while supplies last and once we sell out we'll replenish and do something else"
+    },
+    {
+      "start": 1094.54,
+      "end": 1100.86,
+      "text": " right and so it can be calls it can be combinations that are really heavily promoted and"
+    },
+    {
+      "start": 1100.86,
+      "end": 1106.06,
+      "text": " create just a tremendous amount of value for our customer to just buy a lot of great stuff for"
+    },
+    {
+      "start": 1106.86,
+      "end": 1112.14,
+      "text": " yeah bundles for a really really good price point so we're really big on bundles evergreen and then"
+    },
+    {
+      "start": 1112.14,
+      "end": 1119.18,
+      "text": " in this moment in particular and it's interesting to see how people respond to it and I think it's"
+    },
+    {
+      "start": 1119.18,
+      "end": 1124.78,
+      "text": " too old one when you do this really thoughtfully especially in apparel I think people resonate with"
+    },
+    {
+      "start": 1124.78,
+      "end": 1129.5,
+      "text": " it and feel like okay you've done some of the curation for me I didn't need to go through the hand"
+    },
+    {
+      "start": 1129.5,
+      "end": 1134.14,
+      "text": " peeking every single thing you just put it together it's thoughtful it's curated it makes it simple"
+    },
+    {
+      "start": 1134.14,
+      "end": 1138.14,
+      "text": " on me especially for the average guy right which just doesn't fill the shop like shopping anyways"
+    },
+    {
+      "start": 1138.14,
+      "end": 1142.86,
+      "text": " to begin with and then second is like just the value right you you just are able to offer so much"
+    },
+    {
+      "start": 1142.86,
+      "end": 1148.14,
+      "text": " value to that customer because you have the margin as a brand when you bundle it together and so"
+    },
+    {
+      "start": 1148.14,
+      "end": 1153.9,
+      "text": " to me it's a huge kind of like winning strategy that a lot of brands I think can can and should look"
+    },
+    {
+      "start": 1154.86,
+      "end": 1159.26,
+      "text": " and how do you think about the bundles like do you think of it as what is it what bundle is"
+    },
+    {
+      "start": 1159.26,
+      "end": 1163.1,
+      "text": " going to get a customer to purchase right now or do you think of it also as a little bit like"
+    },
+    {
+      "start": 1163.1,
+      "end": 1168.62,
+      "text": " look we have a lot of navy blue joggers left let's make sure that we add that into the"
+    },
+    {
+      "start": 1168.62,
+      "end": 1173.26,
+      "text": " bundle isn't like is it a little bit of clearance is there no clearance thought whatsoever how do"
+    },
+    {
+      "start": 1173.26,
+      "end": 1177.02,
+      "text": " you balance how do you think about inventory that you want to get rid of versus just trying to get"
+    },
+    {
+      "start": 1177.02,
+      "end": 1183.26,
+      "text": " sales as much as possible both our considerations when I put it in priority of like we as a brand"
+    },
+    {
+      "start": 1183.26,
+      "end": 1187.34,
+      "text": " strive to do what's right for our customer and serve that customer inventory issues and"
+    },
+    {
+      "start": 1187.34,
+      "end": 1192.54,
+      "text": " challenges are real but they're secondary nature and so what we would prioritize is putting bundles"
+    },
+    {
+      "start": 1192.54,
+      "end": 1197.26,
+      "text": " we believe people are interested in all more so then let's just try to clear up the kind of"
+    },
+    {
+      "start": 1197.26,
+      "end": 1202.7,
+      "text": " like warehouse that being said we obviously look into inventory levels and try to see if there is"
+    },
+    {
+      "start": 1202.7,
+      "end": 1209.1,
+      "text": " a way for us to achieve both but I would say if it's like hey let's force it upon the customer with"
+    },
+    {
+      "start": 1209.1,
+      "end": 1213.82,
+      "text": " some products that don't move it might seem like a great effort but at the end of the day if they"
+    },
+    {
+      "start": 1213.82,
+      "end": 1219.98,
+      "text": " don't want it just like a waste of everybody's effort to try and push it on them and so if that"
+    },
+    {
+      "start": 1219.98,
+      "end": 1224.86,
+      "text": " kind of like answers your question and then we have different ways to that we're trying to attack"
+    },
+    {
+      "start": 1224.86,
+      "end": 1231.02,
+      "text": " those problems kind of like creatively like we're doing mystery packs and mystery yeah I see"
+    },
+    {
+      "start": 1231.02,
+      "end": 1235.82,
+      "text": " that all over the side actually yeah which is you know a great way for us to both surprise and"
+    },
+    {
+      "start": 1235.82,
+      "end": 1239.34,
+      "text": " divide the customer and then have a little bit more flexibility on like how and what should we"
+    },
+    {
+      "start": 1239.34,
+      "end": 1244.86,
+      "text": " fulfill that with right so there is different methods we're using for I would say different"
+    },
+    {
+      "start": 1244.86,
+      "end": 1249.42,
+      "text": " problems and we're trying not to conflate the two and then from like a like a demand planning"
+    },
+    {
+      "start": 1249.42,
+      "end": 1255.02,
+      "text": " perspective for especially brand like ours we're trying to really up level our game and start"
+    },
+    {
+      "start": 1255.02,
+      "end": 1261.02,
+      "text": " thinking like packs as opposed to individual items so our idea of state is like okay those are"
+    },
+    {
+      "start": 1261.02,
+      "end": 1266.7,
+      "text": " the packs we already thought them out and they're perfectly put together it's sourced them like"
+    },
+    {
+      "start": 1266.7,
+      "end": 1271.34,
+      "text": " that it's sourced and moved them through the supply chain as a unit as a bundle right and that"
+    },
+    {
+      "start": 1271.34,
+      "end": 1277.42,
+      "text": " saves just a lot of costs and headache and whatnot the way we operate in certain cases is still"
+    },
+    {
+      "start": 1277.42,
+      "end": 1283.18,
+      "text": " a little bit more chaotic with like putting individual excuse together on the fly trying to kind"
+    },
+    {
+      "start": 1283.18,
+      "end": 1288.54,
+      "text": " of like move bundles that are a little bit more custom in nature what software do you use to"
+    },
+    {
+      "start": 1288.54,
+      "end": 1296.22,
+      "text": " manage inventory we have net sweet as our ERP yeah but I'm not necessarily saying it is like"
+    },
+    {
+      "start": 1296.22,
+      "end": 1301.66,
+      "text": " that's the best ERP I feel like there's no of course great room for someone to disrupt the ERP"
+    },
+    {
+      "start": 1301.66,
+      "end": 1307.34,
+      "text": " for e-commerce app of SaaS if there are any SaaS founders out there that's a great problem to"
+    },
+    {
+      "start": 1307.34,
+      "end": 1310.86,
+      "text": " I'm going to introduce you to this guy and I'm an investor so I'm going to start off by saying"
+    },
+    {
+      "start": 1310.86,
+      "end": 1316.46,
+      "text": " that which is called fulfill.io and he's an ERP for e-commerce have you checked them out before"
+    },
+    {
+      "start": 1316.46,
+      "end": 1323.1,
+      "text": " yeah yeah okay not a big share no I'm not not at all I would just say I feel like it's always a"
+    },
+    {
+      "start": 1323.1,
+      "end": 1328.86,
+      "text": " matter of like a risk-free word I would want to have something that's zero risk because it's"
+    },
+    {
+      "start": 1328.86,
+      "end": 1334.06,
+      "text": " the backbone of the company and so we need to just make sure that everything is ready to go for us"
+    },
+    {
+      "start": 1334.06,
+      "end": 1339.82,
+      "text": " to make the switch but from an affinity perspective as an individual like I love nothing more than"
+    },
+    {
+      "start": 1340.22,
+      "end": 1345.98,
+      "text": " great tech geared for e-commerce it speaks our language and I don't feel like you find it with"
+    },
+    {
+      "start": 1345.98,
+      "end": 1351.74,
+      "text": " big solutions typically. Want to take time off from running your current Shopify business to build"
+    },
+    {
+      "start": 1351.74,
+      "end": 1357.02,
+      "text": " your next Shopify business when you join open store drive you can take 12 months off to pursue"
+    },
+    {
+      "start": 1357.02,
+      "end": 1361.66,
+      "text": " other ventures while still getting paid you'll receive guaranteed monthly payments for a year"
+    },
+    {
+      "start": 1361.66,
+      "end": 1366.7,
+      "text": " at open store will manage everything including your businesses marketing customer support inventory"
+    },
+    {
+      "start": 1366.7,
+      "end": 1373.74,
+      "text": " and more shopify businesses with more than $500,000 in yearly net sales qualify had to open"
+    },
+    {
+      "start": 1373.74,
+      "end": 1380.22,
+      "text": " out store slash limited for details speaking of tech geared for e-commerce any idea where your"
+    },
+    {
+      "start": 1380.22,
+      "end": 1385.9,
+      "text": " clay view bill is or post script bill is for November I don't know the type of mine but I can try"
+    },
+    {
+      "start": 1385.9,
+      "end": 1391.9,
+      "text": " to dig it my follow up questions that would be on black friday look at you how much do you segment"
+    },
+    {
+      "start": 1391.9,
+      "end": 1397.5,
+      "text": " emails are you sort of like hey let me send out an email for joggers to people who've only bought"
+    },
+    {
+      "start": 1397.5,
+      "end": 1401.66,
+      "text": " joggers in the past or are you also like let me send are you blasted out emails to sort of the"
+    },
+    {
+      "start": 1401.66,
+      "end": 1407.58,
+      "text": " entire list and I said I'm wearing a pair of true classic joggers which I wear every now I should"
+    },
+    {
+      "start": 1407.58,
+      "end": 1414.3,
+      "text": " get you some extra ones um you can knock in the extra ones I have 400 per manny I've"
+    },
+    {
+      "start": 1414.3,
+      "end": 1421.34,
+      "text": " entire drawer of you know true classic joggers I live in our joggers too yeah so I what it would"
+    },
+    {
+      "start": 1421.34,
+      "end": 1428.62,
+      "text": " say is the idea we used to be back back early in the days and like this brand pre mode we got burned"
+    },
+    {
+      "start": 1428.62,
+      "end": 1434.3,
+      "text": " in deliverability issues and why not learn our lessons and ever since became a lot more thoughtful"
+    },
+    {
+      "start": 1434.3,
+      "end": 1441.1,
+      "text": " and so I can't tell you that we are down to the level of like every individual skew and"
+    },
+    {
+      "start": 1441.1,
+      "end": 1447.02,
+      "text": " personalizing the customer journey we are definitely at the level of like using rfm segments"
+    },
+    {
+      "start": 1447.02,
+      "end": 1452.38,
+      "text": " of recent c-frequency and monetary values and trying to create different flows based on where"
+    },
+    {
+      "start": 1452.38,
+      "end": 1458.3,
+      "text": " people land within that rfm and also trying to control so it's me see right mutually exclusive"
+    },
+    {
+      "start": 1458.3,
+      "end": 1462.62,
+      "text": " collectively exhaustive so if you're here you're not getting this and we're not like creating all"
+    },
+    {
+      "start": 1462.62,
+      "end": 1468.7,
+      "text": " this like crazy just amount of messaging coming your way and then there is certain things that"
+    },
+    {
+      "start": 1468.7,
+      "end": 1473.18,
+      "text": " we're trying to to just be more thoughtful about so as an example if you go on the true classic"
+    },
+    {
+      "start": 1473.18,
+      "end": 1479.18,
+      "text": " website and you clear certain a of e thresholds you're getting a free gift if you got that free"
+    },
+    {
+      "start": 1479.18,
+      "end": 1484.7,
+      "text": " gift we would want to follow up with you and try to sell you on that category that you just"
+    },
+    {
+      "start": 1484.7,
+      "end": 1488.22,
+      "text": " got a free gift for so let's just say you got a free pair of underwear right it's a perfect"
+    },
+    {
+      "start": 1488.22,
+      "end": 1493.02,
+      "text": " opportunity to try to be a little bit more personal of like hey boys like how do you like the"
+    },
+    {
+      "start": 1493.02,
+      "end": 1496.86,
+      "text": " underwear they and like would you want to get a great deal I'm like a nine pack now that you"
+    },
+    {
+      "start": 1496.86,
+      "end": 1501.5,
+      "text": " tried it out right so we'll do those types of things to give you a juggerous example"
+    },
+    {
+      "start": 1501.5,
+      "end": 1507.82,
+      "text": " but it's still dreamy to me to get to a place where every individual customer journey is taken"
+    },
+    {
+      "start": 1507.82,
+      "end": 1514.22,
+      "text": " into account so every product recommended on any touchpoint email SMS on the web et cetera"
+    },
+    {
+      "start": 1514.22,
+      "end": 1518.7,
+      "text": " it is personalized for your individual preference as an it can be the styles you try or haven't"
+    },
+    {
+      "start": 1518.7,
+      "end": 1524.38,
+      "text": " tried the colors you're into and sizes things like that I guess what i'm saying though is on"
+    },
+    {
+      "start": 1524.38,
+      "end": 1528.62,
+      "text": " black friday is everyone getting the same email or is everyone getting different emails"
+    },
+    {
+      "start": 1529.42,
+      "end": 1534.78,
+      "text": " not everybody gets a same email but for the most part uh based on rfms they get their bucket"
+    },
+    {
+      "start": 1534.78,
+      "end": 1540.94,
+      "text": " it's not down to like creating hundreds of like you know campaigns based on individual"
+    },
+    {
+      "start": 1540.94,
+      "end": 1545.66,
+      "text": " characteristics that we're not there yet but i would like to if you guys have any records on"
+    },
+    {
+      "start": 1545.66,
+      "end": 1550.62,
+      "text": " like dynamic content engines for for stuff like that we are always into stuff like this"
+    },
+    {
+      "start": 1551.34,
+      "end": 1555.98,
+      "text": " yeah yeah i feel like you guys are the you know best case for that enough for that type of"
+    },
+    {
+      "start": 1555.98,
+      "end": 1561.82,
+      "text": " engine to exist which is you know this guy likes to buy joggers and brown or like only buys brown"
+    },
+    {
+      "start": 1561.82,
+      "end": 1566.14,
+      "text": " at show them only brown photos when you send an email like there's so many opportunities"
+    },
+    {
+      "start": 1566.14,
+      "end": 1571.58,
+      "text": " for a company like yours to really maximize that that type of journey um and i was curious to"
+    },
+    {
+      "start": 1571.58,
+      "end": 1575.74,
+      "text": " say like you know for native oh let me give you an example what i used to do i would send the exact"
+    },
+    {
+      "start": 1575.82,
+      "end": 1582.3,
+      "text": " same email to every single person right deodorant deodorant deodorant bye bye bye bye no segmentation"
+    },
+    {
+      "start": 1582.3,
+      "end": 1587.02,
+      "text": " you know like yes segment exclude people who bought recently but no other type of segmentation"
+    },
+    {
+      "start": 1587.02,
+      "end": 1590.22,
+      "text": " you have the opportunity to do so much segmentations that's where i was trying to understand"
+    },
+    {
+      "start": 1590.22,
+      "end": 1594.7,
+      "text": " it's how much segmentation do you guys do sounds like a little bit but not a ton not not like you're"
+    },
+    {
+      "start": 1594.7,
+      "end": 1601.02,
+      "text": " sending out hundreds of different campaigns been during your like six a.m. a.m. 10 a.m. checkings"
+    },
+    {
+      "start": 1601.5,
+      "end": 1605.9,
+      "text": " what were some of the levers that you would pull you know if you were following a short"
+    },
+    {
+      "start": 1605.9,
+      "end": 1611.58,
+      "text": " on projections was email i mean i mean you have a huge CRM is email one of the levers that you would"
+    },
+    {
+      "start": 1611.58,
+      "end": 1617.34,
+      "text": " pull and say okay let's find an in an audience of people who didn't maybe open the email but didn't"
+    },
+    {
+      "start": 1617.34,
+      "end": 1622.7,
+      "text": " click or open didn't buy you know let's hit them again yeah i would sit it for us that has been"
+    },
+    {
+      "start": 1622.7,
+      "end": 1628.22,
+      "text": " a little bit more premeditated and isn't like you know what are the flows what's the logic when"
+    },
+    {
+      "start": 1628.22,
+      "end": 1632.86,
+      "text": " to follow up how many cents so that has been a little bit easier to quote unquote control for"
+    },
+    {
+      "start": 1632.86,
+      "end": 1637.66,
+      "text": " and there wasn't like too much there's always tweaks but there wasn't like anything too dramatic"
+    },
+    {
+      "start": 1637.66,
+      "end": 1642.46,
+      "text": " to quote unquote change in in the strategy the biggest lever that i think is always the biggest"
+    },
+    {
+      "start": 1642.46,
+      "end": 1649.66,
+      "text": " question mark is is literally how much to spend and where and so that's the the biggest thing we"
+    },
+    {
+      "start": 1649.66,
+      "end": 1655.82,
+      "text": " try to just monitor and manage it at the highest possible level is the is the media spend"
+    },
+    {
+      "start": 1656.46,
+      "end": 1661.42,
+      "text": " and and trying to write size because no matter what data you have even if it's last year how"
+    },
+    {
+      "start": 1661.42,
+      "end": 1664.94,
+      "text": " you're trending what happened so far this month what's what happened last black fight what happened"
+    },
+    {
+      "start": 1664.94,
+      "end": 1670.62,
+      "text": " 2021 what happened 2020 it's still like an unknown right you and so and thinking that even going"
+    },
+    {
+      "start": 1670.62,
+      "end": 1674.7,
+      "text": " into black Friday there is the first decision of like how much budget should you load into the"
+    },
+    {
+      "start": 1674.7,
+      "end": 1679.42,
+      "text": " platforms to begin with because that kind of sets the tone and if you really didn't bring it"
+    },
+    {
+      "start": 1679.42,
+      "end": 1684.86,
+      "text": " within the ranges reasonable it might be that you will never be able to catch up you know"
+    },
+    {
+      "start": 1684.86,
+      "end": 1690.06,
+      "text": " and then vice versa that is our what i would say the majority of the intraday"
+    },
+    {
+      "start": 1690.94,
+      "end": 1697.18,
+      "text": " monitoring and decision making is all about and then just the ability to really understand the"
+    },
+    {
+      "start": 1697.18,
+      "end": 1704.22,
+      "text": " PNL outcomes meet day as the hours comes through has been just a complete game changer for us"
+    },
+    {
+      "start": 1704.22,
+      "end": 1709.02,
+      "text": " and i don't know how many brands are kind of running that way but it's just so critical"
+    },
+    {
+      "start": 1709.02,
+      "end": 1714.78,
+      "text": " to have that pulse on profitability and to not operate blind and so triple well has been great"
+    },
+    {
+      "start": 1714.78,
+      "end": 1720.14,
+      "text": " for us in that regard to just plugging all our assumptions and keep the the pulse on contribution"
+    },
+    {
+      "start": 1720.14,
+      "end": 1726.38,
+      "text": " profit so you said 4.5 million in revenue on black Friday 500k and add spend you mentioned"
+    },
+    {
+      "start": 1726.38,
+      "end": 1731.98,
+      "text": " that it was bigger Facebook Facebook spend Facebook sorry Facebook spend was Facebook bigger in 2023"
+    },
+    {
+      "start": 1731.98,
+      "end": 1741.02,
+      "text": " or 2022 no we we really write size that and so we we try the goal here by the way is always to spend as"
+    },
+    {
+      "start": 1741.02,
+      "end": 1746.86,
+      "text": " much as possible just to be clear yeah and meta is always been and probably will continue to be our"
+    },
+    {
+      "start": 1746.86,
+      "end": 1752.94,
+      "text": " biggest channel where we can do the most the focus has been on just that marginal incremental"
+    },
+    {
+      "start": 1752.94,
+      "end": 1759.82,
+      "text": " contribution profit so if i could have doubled the spend and felt like i could get the results"
+    },
+    {
+      "start": 1759.82,
+      "end": 1766.38,
+      "text": " to make sense out of it how we would have spent double triple however much we can what we really"
+    },
+    {
+      "start": 1766.46,
+      "end": 1772.62,
+      "text": " focused on though was that intraday return which is different and why we did last year"
+    },
+    {
+      "start": 1773.26,
+      "end": 1778.38,
+      "text": " and that's just some context on like what how the strategies evolved for us as a company"
+    },
+    {
+      "start": 1779.26,
+      "end": 1785.66,
+      "text": " one question that we were excited to ask you is what is your finance stack how are you financing"
+    },
+    {
+      "start": 1785.66,
+      "end": 1791.66,
+      "text": " all the add spend all the inventory you know you're running proud your goal is to run as profitable"
+    },
+    {
+      "start": 1791.82,
+      "end": 1798.14,
+      "text": " as possible so like what are the little screws and levers that you're pulling on to maximize that"
+    },
+    {
+      "start": 1799.18,
+      "end": 1804.3,
+      "text": " yeah so what we're trying to do is run really efficiently and i feel like most direct to consumer brands"
+    },
+    {
+      "start": 1804.3,
+      "end": 1809.82,
+      "text": " if run properly and really with the focus on profitability don't really require venture capital"
+    },
+    {
+      "start": 1810.3,
+      "end": 1815.74,
+      "text": " my take on that is that there's two types of kind of like capital intensive activities in most"
+    },
+    {
+      "start": 1815.74,
+      "end": 1820.86,
+      "text": " day-to-see brands which is inventory and advertising you can argue also on things like retail or maybe"
+    },
+    {
+      "start": 1820.86,
+      "end": 1826.14,
+      "text": " other pieces but let's put those as kind of like niche up for a second so what we do with ads is we"
+    },
+    {
+      "start": 1826.14,
+      "end": 1831.1,
+      "text": " try to spend properly where we ideally break even on that initial order right that's if the"
+    },
+    {
+      "start": 1831.1,
+      "end": 1836.7,
+      "text": " contribution profit equals zero per customer on that initial order and so if we do that then we"
+    },
+    {
+      "start": 1836.7,
+      "end": 1842.62,
+      "text": " don't have any any cash concerns because the ads just basically pay for themselves quote-a-quote"
+    },
+    {
+      "start": 1842.62,
+      "end": 1847.5,
+      "text": " with the immediate direct response from that so that's how we solve for the advertising side"
+    },
+    {
+      "start": 1847.5,
+      "end": 1853.26,
+      "text": " we're just like smart attribution and like a super data driven analytical approach and like what"
+    },
+    {
+      "start": 1853.26,
+      "end": 1857.34,
+      "text": " we're getting for what we're spending on the inventory side we never raise equity we're still"
+    },
+    {
+      "start": 1857.34,
+      "end": 1863.66,
+      "text": " bootstrap you know well into our calica and nine figure brand right and what we have done is we"
+    },
+    {
+      "start": 1863.66,
+      "end": 1871.74,
+      "text": " raised debt and we keep refinancing the deadline and so there is over thirty eight million dollars"
+    },
+    {
+      "start": 1871.74,
+      "end": 1878.14,
+      "text": " or so available for us on a deadline you know a low double digit interest rate always looking to"
+    },
+    {
+      "start": 1878.14,
+      "end": 1883.9,
+      "text": " refide out and at some point maybe get a bigger different line with like a big bank right that"
+    },
+    {
+      "start": 1883.9,
+      "end": 1891.18,
+      "text": " is going to be even cheaper that's just what's helping us finance the inventory I cite from those"
+    },
+    {
+      "start": 1891.18,
+      "end": 1896.3,
+      "text": " two we're always thinking about the cash conversion cycle and how to basically reduce the different"
+    },
+    {
+      "start": 1896.3,
+      "end": 1902.38,
+      "text": " components right mainly DIO and the payment terms with with the suppliers and so we'll do things like"
+    },
+    {
+      "start": 1902.38,
+      "end": 1907.74,
+      "text": " how can we build flexibility into the supply chain maybe we hold like reserves of like fabrics"
+    },
+    {
+      "start": 1907.74,
+      "end": 1914.78,
+      "text": " at source and I able to like more quickly turn this around and that allows us to hold less inventory"
+    },
+    {
+      "start": 1914.78,
+      "end": 1919.42,
+      "text": " on hand than there for a requireless cash kind of like working capital that's just the kind"
+    },
+    {
+      "start": 1919.42,
+      "end": 1926.54,
+      "text": " of the general g-stove it and that's a constant focus over here in terms of like both reducing"
+    },
+    {
+      "start": 1926.54,
+      "end": 1931.9,
+      "text": " the getting as close to a negative cash conversion cycle as possible as well as like reducing"
+    },
+    {
+      "start": 1931.9,
+      "end": 1938.3,
+      "text": " the the interest or the effective debt interests we're paying on on the debt and whatever activity"
+    },
+    {
+      "start": 1938.3,
+      "end": 1943.42,
+      "text": " we can finance with its own kind of like benefits is like where we're happiest you know and that's"
+    },
+    {
+      "start": 1943.42,
+      "end": 1947.98,
+      "text": " what I love about marketing and advertising as if you're doing it well it should pay for itself"
+    },
+    {
+      "start": 1948.46,
+      "end": 1952.3,
+      "text": " and you shouldn't need to like raise money for that if you're spending so much where you're like"
+    },
+    {
+      "start": 1952.3,
+      "end": 1958.78,
+      "text": " I'm running into cash problems and you're probably overspending quite a bit I love your honesty I'm"
+    },
+    {
+      "start": 1958.78,
+      "end": 1962.78,
+      "text": " just like look this is how businesses should be run you're not trying to hide anything you're like"
+    },
+    {
+      "start": 1962.78,
+      "end": 1967.18,
+      "text": " this is how we run this it is so fantastic I know you've got to run in a couple minutes let me ask"
+    },
+    {
+      "start": 1967.18,
+      "end": 1971.82,
+      "text": " you two really quick questions for you if you don't mind one is what is your best selling product"
+    },
+    {
+      "start": 1971.82,
+      "end": 1977.18,
+      "text": " for the Black Friday Cyber Monday I mean we're still like you know our t-shirt is just second to none"
+    },
+    {
+      "start": 1977.18,
+      "end": 1982.14,
+      "text": " we're the best dishes in the world and so to this day it's still it's our first hero product"
+    },
+    {
+      "start": 1982.14,
+      "end": 1987.5,
+      "text": " and will as is remain like the top one but we do have other categories growing really rapidly"
+    },
+    {
+      "start": 1988.14,
+      "end": 1995.34,
+      "text": " what's the best selling color in the t-shirt black okay so I'm like I could have told you both of these"
+    },
+    {
+      "start": 1995.82,
+      "end": 1999.74,
+      "text": " yeah and then you know when you guys think about Black Friday Cyber Monday you know before we"
+    },
+    {
+      "start": 1999.74,
+      "end": 2003.58,
+      "text": " jump down you're like look I've basically been working for like three weeks straight or four"
+    },
+    {
+      "start": 2003.58,
+      "end": 2009.5,
+      "text": " weeks straight because it's peak season do you guys do a post mortem for Black Friday do you guys go"
+    },
+    {
+      "start": 2009.5,
+      "end": 2014.14,
+      "text": " back like you know in January and say this is what we did well this is what we did poorly how do you"
+    },
+    {
+      "start": 2014.14,
+      "end": 2019.34,
+      "text": " guys think about that you know a lot of other companies admire you a lot of other founders including"
+    },
+    {
+      "start": 2019.34,
+      "end": 2023.42,
+      "text": " me admire you and the way you think about things then I'd love to understand how you think about"
+    },
+    {
+      "start": 2023.42,
+      "end": 2028.62,
+      "text": " this and frankly copy how you think about this how do you think about going back and analyzing what"
+    },
+    {
+      "start": 2028.62,
+      "end": 2032.3,
+      "text": " worked and what didn't work or is it sort of like do you guys do that is there a post mort is there a"
+    },
+    {
+      "start": 2032.3,
+      "end": 2036.86,
+      "text": " team meeting where you're like what emails drove what revenue how do you think about that absolutely"
+    },
+    {
+      "start": 2036.86,
+      "end": 2044.78,
+      "text": " so the first thing I want to say as a company is like I usually value the briefing learning and most"
+    },
+    {
+      "start": 2044.78,
+      "end": 2051.18,
+      "text": " importantly taking very specific actions to improve go forward right and so it's very data driven"
+    },
+    {
+      "start": 2051.18,
+      "end": 2055.9,
+      "text": " we're a company where like no BS can fly around right so we say move the needle and so first"
+    },
+    {
+      "start": 2055.9,
+      "end": 2060.86,
+      "text": " thing we got to make sure in every year of the business is like do we have a well defined needle"
+    },
+    {
+      "start": 2060.94,
+      "end": 2064.54,
+      "text": " like what is it that we're looking for when we're trying to to figure out like is this email"
+    },
+    {
+      "start": 2064.54,
+      "end": 2069.18,
+      "text": " working better than that we're not the company to stay at like open rate or click through rate or"
+    },
+    {
+      "start": 2069.18,
+      "end": 2074.06,
+      "text": " conversion rate like we go really really really deep as in like what is the contribution profit"
+    },
+    {
+      "start": 2074.06,
+      "end": 2078.94,
+      "text": " per customer receiving this particular email versus that and like how do they compare and like"
+    },
+    {
+      "start": 2078.94,
+      "end": 2083.26,
+      "text": " what does it do for us on day one on day 30 and day 60 and so on and so forth so we are trying to"
+    },
+    {
+      "start": 2083.26,
+      "end": 2089.42,
+      "text": " first go as deep as possible to the answer we're seeking in the area and then we are constantly I"
+    },
+    {
+      "start": 2089.42,
+      "end": 2093.34,
+      "text": " wouldn't say waiting until January we're constantly looking like we are debriefing back Friday on"
+    },
+    {
+      "start": 2093.34,
+      "end": 2098.54,
+      "text": " Saturday you know and we're like what that went well yesterday to do today right we're not waiting for"
+    },
+    {
+      "start": 2098.54,
+      "end": 2103.26,
+      "text": " nail like let's blend next black Friday like what do we implement to go into cyber Monday there's no"
+    },
+    {
+      "start": 2103.26,
+      "end": 2109.02,
+      "text": " time to waste and that's the mindset over here just like this really I would say it in one line and"
+    },
+    {
+      "start": 2109.02,
+      "end": 2113.74,
+      "text": " that's why I tell all my employees all the time we are just relentless about being better tomorrow than"
+    },
+    {
+      "start": 2113.82,
+      "end": 2119.34,
+      "text": " we are today and that is the mindset it's not a next month it's not a next year it's not a it's"
+    },
+    {
+      "start": 2119.34,
+      "end": 2126.06,
+      "text": " like tomorrow than today and every single day you need to review the outcomes of your actions"
+    },
+    {
+      "start": 2126.06,
+      "end": 2130.46,
+      "text": " and figure out for yourself how are you bettering yourself your department your area tomorrow"
+    },
+    {
+      "start": 2130.46,
+      "end": 2135.5,
+      "text": " than you were today and that's the mindset here and I think it's great although might you know"
+    },
+    {
+      "start": 2135.5,
+      "end": 2140.46,
+      "text": " many people might find it to be intense I think it's the best way to to make progress and so"
+    },
+    {
+      "start": 2141.18,
+      "end": 2146.06,
+      "text": " not really big on formalities I would say Moisa we're not the kind of company that like"
+    },
+    {
+      "start": 2146.62,
+      "end": 2150.94,
+      "text": " does a lot of like you know let's some of it's it's required but for the most part we're not there"
+    },
+    {
+      "start": 2150.94,
+      "end": 2155.1,
+      "text": " to create big meetings for the sake of big meetings and put all this busy work to make a"
+    },
+    {
+      "start": 2155.1,
+      "end": 2161.18,
+      "text": " presentation so people celebrate a win X Y and Z we want things to be very practical very"
+    },
+    {
+      "start": 2161.18,
+      "end": 2166.3,
+      "text": " tactical very actionable and very data driven and if it serves that that's great and welcome if"
+    },
+    {
+      "start": 2166.3,
+      "end": 2171.26,
+      "text": " not don't waste time doing busy work okay I've got one statement and one last question"
+    },
+    {
+      "start": 2171.74,
+      "end": 2176.86,
+      "text": " the statement is if I were ever to work for somebody again Ben you'd be on a very short list"
+    },
+    {
+      "start": 2176.86,
+      "end": 2182.7,
+      "text": " of people I'd ever work for I love your relentless mindset I love the intensity virtually"
+    },
+    {
+      "start": 2182.7,
+      "end": 2187.5,
+      "text": " I would say no to virtually any job anyone gave me a paracobal was like let's work for me I'd"
+    },
+    {
+      "start": 2187.5,
+      "end": 2193.18,
+      "text": " say no for you if you said that I'd be I'd definitely consider it dude I'm gonna be blashing here"
+    },
+    {
+      "start": 2193.58,
+      "end": 2197.34,
+      "text": " by last question as you said you do that like you're on Saturday you're going over the Friday"
+    },
+    {
+      "start": 2197.34,
+      "end": 2202.54,
+      "text": " mistakes what was a mistake that you guys thought you made on black Friday honestly I feel like"
+    },
+    {
+      "start": 2202.54,
+      "end": 2207.66,
+      "text": " it's always I'm going back to the spend part because it's the biggest the variable you know that's"
+    },
+    {
+      "start": 2207.66,
+      "end": 2212.86,
+      "text": " like no matter it's one of those things I feel like inventory planner planning and ad spend are two"
+    },
+    {
+      "start": 2212.86,
+      "end": 2217.42,
+      "text": " things you can never get right you are you are always either overdoing it or under doing over buying"
+    },
+    {
+      "start": 2217.42,
+      "end": 2221.58,
+      "text": " inventory over spending or under buying inventory hand or spend and you're never happy with yourself"
+    },
+    {
+      "start": 2221.58,
+      "end": 2226.86,
+      "text": " you know it's always like the constant like like why can't I get this right type of stuff so"
+    },
+    {
+      "start": 2227.5,
+      "end": 2232.54,
+      "text": " that is always the biggest thing for me and to me inventory planning is a little bit longer term"
+    },
+    {
+      "start": 2232.54,
+      "end": 2236.7,
+      "text": " right judged by DIO and if it's getting out of control and then you're like what did we focus"
+    },
+    {
+      "start": 2236.7,
+      "end": 2240.94,
+      "text": " this way or where is this number coming from and how do we end up with so many of this Q I don't"
+    },
+    {
+      "start": 2240.94,
+      "end": 2246.54,
+      "text": " see the data supporting it or whatnot with the ad spend it's this constant like P\u0026L like the"
+    },
+    {
+      "start": 2246.54,
+      "end": 2252.86,
+      "text": " the P\u0026L like repeat back to me we spend properly right like where is MER you know and like how"
+    },
+    {
+      "start": 2252.86,
+      "end": 2258.3,
+      "text": " where is contribution profit as a function of kind of like where we kind of like span and things"
+    },
+    {
+      "start": 2258.3,
+      "end": 2263.74,
+      "text": " like that so that's what I would say is kind of the biggest things I would say aside from that there"
+    },
+    {
+      "start": 2263.74,
+      "end": 2268.94,
+      "text": " were a few like this particular backfire if you like hiccups on the tech side like just a few"
+    },
+    {
+      "start": 2268.94,
+      "end": 2275.34,
+      "text": " things that just went wrong in terms of like website glitches and stuff that I'm personally very"
+    },
+    {
+      "start": 2275.34,
+      "end": 2279.98,
+      "text": " sensitive towards especially in a moment like this where it's like everything to go kind of"
+    },
+    {
+      "start": 2279.98,
+      "end": 2284.54,
+      "text": " flawlessly but those are like you know not even a next day those are like the next minute you know"
+    },
+    {
+      "start": 2284.54,
+      "end": 2289.98,
+      "text": " all hands on deck like getting things fixed an example was like something changed in the gift"
+    },
+    {
+      "start": 2289.98,
+      "end": 2294.94,
+      "text": " with purchase you know script and people were charged for whether we're supposed to get free"
+    },
+    {
+      "start": 2295.5,
+      "end": 2300.06,
+      "text": " and that was because they swapped the yeah I think either the threshold or the gift or small things"
+    },
+    {
+      "start": 2300.06,
+      "end": 2305.34,
+      "text": " like that but painful you know so there were a few a few of those kind of like tech issues"
+    },
+    {
+      "start": 2306.22,
+      "end": 2311.02,
+      "text": " was everything shipped out on time were there any 3 PL issues sort of like over the weekend or on"
+    },
+    {
+      "start": 2311.02,
+      "end": 2315.98,
+      "text": " Monday so we talked about forecasting and how important that is so I got to give kudos to my"
+    },
+    {
+      "start": 2315.98,
+      "end": 2320.62,
+      "text": " up steam because they just nailed the forecast on the orders and the units which are the two things"
+    },
+    {
+      "start": 2320.62,
+      "end": 2326.3,
+      "text": " we need to provide to our 3 PL for labor planning for the lines like so close like single digit like"
+    },
+    {
+      "start": 2326.38,
+      "end": 2336.54,
+      "text": " mape and it was just so on point so not really like we cleared earlier last week like everything"
+    },
+    {
+      "start": 2336.54,
+      "end": 2341.9,
+      "text": " all the entire backlog and so there was no I think by by Wednesday we were clear of all the"
+    },
+    {
+      "start": 2342.62,
+      "end": 2348.46,
+      "text": " cyber Monday orders and it was a huge spike compared to previous but that's because we were"
+    },
+    {
+      "start": 2349.34,
+      "end": 2353.5,
+      "text": " frankly as spot on as we've ever had on the orders and the units forecasting"
+    },
+    {
+      "start": 2354.22,
+      "end": 2358.62,
+      "text": " we started leveraging more AI and different tools to just triangulate different forecasting"
+    },
+    {
+      "start": 2358.62,
+      "end": 2364.14,
+      "text": " methodologies and again going back to like it's not about having a forecast but it's about checking"
+    },
+    {
+      "start": 2364.14,
+      "end": 2368.54,
+      "text": " your forecast accuracy and improving that accuracy over time that's how you know if you're making"
+    },
+    {
+      "start": 2368.54,
+      "end": 2373.66,
+      "text": " progress if you're a forecaster versus like I have a forecast right what do I do with the forecast"
+    },
+    {
+      "start": 2373.66,
+      "end": 2378.62,
+      "text": " if it's not accurate not helpful for me and so work on the accuracy and improve that over time"
+    },
+    {
+      "start": 2378.7,
+      "end": 2384.38,
+      "text": " and we measured it I mentioned mape just to decode that it's the mean absolute error margin I think"
+    },
+    {
+      "start": 2384.38,
+      "end": 2389.02,
+      "text": " so basically like as a percent like how off are you from where you said whether it's plus or minus"
+    },
+    {
+      "start": 2389.02,
+      "end": 2393.98,
+      "text": " doesn't matter but like you kind of like think the absolute value of that percent error incredible"
+    },
+    {
+      "start": 2393.98,
+      "end": 2397.42,
+      "text": " uh those were all the questions I had Nick I know we're a little bit over time did you have anything"
+    },
+    {
+      "start": 2397.42,
+      "end": 2404.94,
+      "text": " else I had two small ones uh one just to make a small people feel feel normal do you get hit with a lot"
+    },
+    {
+      "start": 2404.94,
+      "end": 2411.9,
+      "text": " of ADA lawsuits or like scammer attorneys that are trying to just get a quick check yeah we did"
+    },
+    {
+      "start": 2411.9,
+      "end": 2416.06,
+      "text": " and we got our first share I don't know about a lot but we got our fair share and it's really"
+    },
+    {
+      "start": 2416.06,
+      "end": 2420.06,
+      "text": " frustrating I always think to myself like why don't you go out there and actually try to create"
+    },
+    {
+      "start": 2420.06,
+      "end": 2425.74,
+      "text": " value for the world instead of trying to just squeeze and a ridiculous like lawsuit like but you know"
+    },
+    {
+      "start": 2425.74,
+      "end": 2430.3,
+      "text": " people make a living out of that unfortunately for us uh we did and what we're trying to do is create"
+    },
+    {
+      "start": 2430.38,
+      "end": 2435.26,
+      "text": " those like technical reviews to make sure that we're not basically closing in the exposure we can"
+    },
+    {
+      "start": 2435.26,
+      "end": 2439.26,
+      "text": " actually legal is one of those things that we took super seriously over the past I don't know six to"
+    },
+    {
+      "start": 2439.26,
+      "end": 2443.26,
+      "text": " 12 months um because as you can imagine as you grow as a brand you become kind of like a being"
+    },
+    {
+      "start": 2443.26,
+      "end": 2447.26,
+      "text": " a target so we're trying to review all our practices and for us as a company who just tries to"
+    },
+    {
+      "start": 2447.26,
+      "end": 2451.9,
+      "text": " you know frankly do right by people but also go super fast that's not been type of mine so I would say"
+    },
+    {
+      "start": 2451.9,
+      "end": 2456.46,
+      "text": " we're at this stage where we do a lot more legal reviews um then we've ever done as a brand"
+    },
+    {
+      "start": 2457.1,
+      "end": 2463.58,
+      "text": " awesome and last question you know this year I feel like the true classic brand is significantly"
+    },
+    {
+      "start": 2463.58,
+      "end": 2468.62,
+      "text": " bigger than it was this time last year like the brand aura the awareness the amount of people"
+    },
+    {
+      "start": 2468.62,
+      "end": 2474.14,
+      "text": " who are wearing the products excited by the categories you guys have and even just the store count"
+    },
+    {
+      "start": 2474.14,
+      "end": 2479.58,
+      "text": " do you feel like you successfully flush the toilet and emptied out the funnel before you go into"
+    },
+    {
+      "start": 2479.58,
+      "end": 2485.26,
+      "text": " next year I feel pretty good about it I would put it this way I would say that there is"
+    },
+    {
+      "start": 2485.26,
+      "end": 2491.9,
+      "text": " I'm that kind of person who is always just gravitating towards what can be done better right I'm"
+    },
+    {
+      "start": 2491.9,
+      "end": 2496.54,
+      "text": " like I never feel like successfully anything right there's always like a better version of whatever"
+    },
+    {
+      "start": 2496.54,
+      "end": 2501.58,
+      "text": " it is that we did even if it's you know clearing a funnel or doing or doing whatnot so I think my"
+    },
+    {
+      "start": 2501.58,
+      "end": 2506.78,
+      "text": " mindset is always about like going back to like how can we be better in general than we're today"
+    },
+    {
+      "start": 2506.78,
+      "end": 2513.02,
+      "text": " and so on and so forth but all in where I'm personally very pleased with how this year is ending up"
+    },
+    {
+      "start": 2513.02,
+      "end": 2519.42,
+      "text": " for us and the one thing that I feel particularly strongly about is how we were able to really shift"
+    },
+    {
+      "start": 2519.9,
+      "end": 2526.3,
+      "text": " our focus towards generating EBITDA still grow you know we're we're gonna cross 200 plus this year"
+    },
+    {
+      "start": 2526.3,
+      "end": 2530.86,
+      "text": " on on top of an as an organization and it's still like in our fourth year kind of like into"
+    },
+    {
+      "start": 2530.86,
+      "end": 2537.1,
+      "text": " the business but we have tremendously improved our margin and our kind of EBITDA margin in particular"
+    },
+    {
+      "start": 2537.1,
+      "end": 2541.98,
+      "text": " which is to me truly in this environment they're real scorecard at the end of the day you know everybody"
+    },
+    {
+      "start": 2541.98,
+      "end": 2547.34,
+      "text": " can buy revenue can you generate a profit can you make it happen right like that is the real"
+    },
+    {
+      "start": 2547.34,
+      "end": 2552.94,
+      "text": " challenge and and where we're like as laser focus as we have ever been on that and so specifically for"
+    },
+    {
+      "start": 2552.94,
+      "end": 2557.82,
+      "text": " November that was just a huge one for us to just prove to ourselves how profitable this business"
+    },
+    {
+      "start": 2557.82,
+      "end": 2562.94,
+      "text": " can be when manage more like as conservative as conservatively as we've ever managed it"
+    },
+    {
+      "start": 2563.58,
+      "end": 2570.38,
+      "text": " totally I also think like native true classic is probably the only brand of its category that you"
+    },
+    {
+      "start": 2570.38,
+      "end": 2576.86,
+      "text": " know our great great grandchildren will still see in the stores I sure hope so man we'll do everything"
+    },
+    {
+      "start": 2576.86,
+      "end": 2581.58,
+      "text": " we can to to make that happen if you're running it still then I'm certain you all"
+    },
+    {
+      "start": 2584.54,
+      "end": 2589.34,
+      "text": " I don't know if I'll be there until then that will be on reachable on his own part I learned at that"
+    },
+    {
+      "start": 2589.34,
+      "end": 2596.14,
+      "text": " time but we are this is a one big area for us right like getting into that physical stores because over"
+    },
+    {
+      "start": 2596.14,
+      "end": 2601.34,
+      "text": " 65% of you know a pair that's still being purchased offline I was just actually the target in arena"
+    },
+    {
+      "start": 2601.9,
+      "end": 2607.74,
+      "text": " I guess the native the orderance and the indiaile it's a big part of the evolution we haven't"
+    },
+    {
+      "start": 2607.74,
+      "end": 2612.46,
+      "text": " taken upon ourselves yet but those are active big conversations because we're still like 99"
+    },
+    {
+      "start": 2612.46,
+      "end": 2619.74,
+      "text": " plus percent online as a brand yeah totally and so that's that's a big one amazing well thanks for"
+    },
+    {
+      "start": 2619.74,
+      "end": 2623.98,
+      "text": " staying over been I know I believe you have an internal meeting that needs your attention"
+    },
+    {
+      "start": 2624.7,
+      "end": 2629.98,
+      "text": " I sure do man but it's great to reconnect guys if I don't speak to you before then happy holidays"
+    },
+    {
+      "start": 2630.62,
+      "end": 2636.22,
+      "text": " and thanks for having me back so grateful for you coming on bet yeah thank you thank you so much I"
+    },
+    {
+      "start": 2636.22,
+      "end": 2642.62,
+      "text": " love a shooting with you every time we talk I'm always impressed and stunned and so inspired thank"
+    },
+    {
+      "start": 2642.62,
+      "end": 2648.54,
+      "text": " you yeah I'm ready to just sit at my desk now yeah thank you guys I appreciate you both this is"
+    },
+    {
+      "start": 2648.54,
+      "end": 2654.7,
+      "text": " fun always happy to should this shit so let me know thanks man thanks for tuning in we'll be back"
+    },
+    {
+      "start": 2654.7,
+      "end": 2660.22,
+      "text": " next time to cut through the noise and CPG retail and e-commerce and if you enjoyed this episode then"
+    },
+    {
+      "start": 2660.22,
+      "end": 2665.5,
+      "text": " why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one"
+    },
+    {
+      "start": 2678.54,
+      "end": 2681.5,
+      "text": " you"
+    }
+  ]
+}

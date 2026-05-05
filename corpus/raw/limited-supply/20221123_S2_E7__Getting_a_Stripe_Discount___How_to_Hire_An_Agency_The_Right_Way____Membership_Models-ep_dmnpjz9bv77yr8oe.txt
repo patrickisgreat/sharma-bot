@@ -1,0 +1,958 @@
+[00:00:00.000 --> 00:00:20.720] So I think going somewhere where you're actually a priority is also super important to understand where you are relative to the other clients. Because the whole point of working with an agency is like working quickly, you get the learnings, you want good talent who's seen and done cool things on other brands. And if you're getting the bottom level talent, you're probably not getting the best of that.
+[00:00:21.640 --> 00:00:29.060] Welcome to Season 2 of Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:29.060 --> 00:00:33.520] We're your hosts, Nick and Moyes. Let's get into it and start making money!
+[00:00:35.000 --> 00:00:39.420] I'm super impressed with how Triple Whale provides data solutions for direct-to-consumer brands.
+[00:00:39.660 --> 00:00:42.660] Better data means better decisions that help you scale to the moon.
+[00:00:43.040 --> 00:00:48.000] Use promo code SUPPLY15 to get 15% off when you sign up at triplewhale.com.
+[00:00:48.200 --> 00:00:58.300] Okay, I know it says that this is what we're supposed to read. If you DM me on Twitter, I will get you 20% off. Fuck this 15% off. I'm going to push those guys. So just DM me on Twitter, I'll get them 20%.
+[00:00:58.300 --> 00:01:00.860] DM Moyes for 20% off. Perfect. Okay, great.
+[00:01:00.860 --> 00:01:14.520] All right, Moyes, we're back for Season 2, Episode 7. Tomorrow is Thanksgiving. This Friday is Black Friday. We've got a full agenda. Not super Black Friday related, but I think it's going to be super helpful. How are you feeling today?
+[00:01:14.520 --> 00:01:19.180] I'm feeling great. It's the Super Bowl of e-commerce that's coming up on Black Friday.
+[00:01:19.720 --> 00:01:22.620] Last week was the playoffs. Now we're at the Super Bowl.
+[00:01:23.300 --> 00:01:27.540] So if you have not started your Black Friday sale yet, you're already too late.
+[00:01:28.520 --> 00:01:36.340] What are you waiting for? This isn't like July 4th where you've got to be close to July 4th to start it. You better have started it already.
+[00:01:36.540 --> 00:01:37.360] You should have started by now.
+[00:01:37.360 --> 00:01:47.220] I think most people have by now. You know what I really love? I don't know when this process started or this trend started, but on Twitter, on Black Friday, everyone starts putting up their Shopify screenshots.
+[00:01:47.500 --> 00:01:55.100] I did this once in like 2018 when I was a native or something like that, and we hit 600K in revenue, and we had 25,000 or 30,000 orders.
+[00:01:55.320 --> 00:01:58.480] And I was like, I'm really proud of my team for being able to handle this.
+[00:01:58.480 --> 00:02:03.680] I love that everyone's starting to do it. Like no one wants to share annual revenue, but this one day of the year.
+[00:02:03.840 --> 00:02:04.080] This one day, yeah.
+[00:02:04.300 --> 00:02:05.520] Yeah, everyone's like, let me do it.
+[00:02:05.720 --> 00:02:09.940] I wonder if people will move to like triple wheel screenshots. I think I saw a little of that last year.
+[00:02:10.040 --> 00:02:13.120] Yeah, a lot of people love the screenshots that come from that dashboard.
+[00:02:13.620 --> 00:02:14.320] Yeah, yeah.
+[00:02:14.760 --> 00:02:19.440] They made it so perfect for being shared. It's actually a good lesson in UI.
+[00:02:20.300 --> 00:02:25.340] Well, ironically, it's probably the thing you want shared least. It's like your social security card number.
+[00:02:25.340 --> 00:02:30.100] Please don't accidentally share that, but like this is one of those times that you do want to share it.
+[00:02:30.440 --> 00:02:35.260] Okay, a bunch of stuff to talk about today though. I want to talk about one thing, which is a hairy sweepstakes.
+[00:02:35.480 --> 00:02:40.500] We chatted about this a little bit last week. I also want to chat about their checkout process.
+[00:02:41.040 --> 00:02:45.940] Direct to consumer memberships, which you're going to lead. I'm curious to hear what your thoughts are there.
+[00:02:46.280 --> 00:02:51.860] When to hire for X, which will also lead into a good conversation about benchmarks and some survey tools.
+[00:02:52.420 --> 00:02:56.780] But let's start with when to hire for X or when to do X, I should say.
+[00:02:57.100 --> 00:03:04.580] Because I think a lot of people will approach, a lot of people will talk to me and I bet even more people talk to you and ask the exact same question over and over again, which is,
+[00:03:04.680 --> 00:03:09.040] when should I hire my first employee? When do I need a marketing employee? When do I need an ops employee?
+[00:03:09.320 --> 00:03:14.740] When should I hire a marketing agency? What marketing agency should I hire and how do I evaluate them?
+[00:03:14.740 --> 00:03:24.420] When should I start a referral program? When should I hire a 3PL? When should I focus on YouTube versus just Facebook ads or Pinterest ads or Snapchat ads?
+[00:03:24.580 --> 00:03:27.640] And so I think that question of when is really important.
+[00:03:28.100 --> 00:03:30.120] Let me start by the easiest one in the world.
+[00:03:30.300 --> 00:03:35.480] I'm going to start with the easiest one, which is when to email Stripe and ask for lower rates.
+[00:03:35.480 --> 00:03:47.020] Because this is a mathematical fact that once you hit a million dollars in ARR or about $100,000 a month, your first email, if you're not on Shopify, should be to Stripe saying,
+[00:03:47.180 --> 00:03:50.360] hey, I need to reduce my prices. What can you do for me?
+[00:03:50.580 --> 00:03:55.800] To be honest, that email should go out every single time you hit another million dollars in ARR.
+[00:03:55.980 --> 00:03:58.160] So you hit a $1 million. Congratulations.
+[00:03:58.160 --> 00:04:07.200] Congratulations. I wish you'd get like, you know, if you get like some sort of email to congratulate you from anyone, that email should be like, don't forget to email Stripe and ask for lower prices.
+[00:04:07.360 --> 00:04:08.660] It'd be a good quick app to make.
+[00:04:09.060 --> 00:04:14.560] Yeah. $1 million, $2 million, $3 million, $4 million, $5 million, literally every single one ask for a discount with Stripe.
+[00:04:14.740 --> 00:04:19.540] They won't give them all to you, but like be relentless and, you know, just be like, look, it doesn't hurt.
+[00:04:19.780 --> 00:04:26.460] If Stripe reduces your costs, the only person that hurts is Stripe. Like, you know, it's win for you, win for your consumers.
+[00:04:26.460 --> 00:04:27.960] It's still a win for Stripe.
+[00:04:28.380 --> 00:04:35.420] Yeah, yeah. It's one of those, like, you know, there's this great episode of The Office where Michael Scott's like, who wants to pursue a lose-lose relationship?
+[00:04:36.360 --> 00:04:39.480] And Oscar's like, can we just go to the last one, win-win or whatever it is?
+[00:04:39.520 --> 00:04:43.080] He's like, the last one is actually win-win-win. There's three wins involved.
+[00:04:43.320 --> 00:04:45.600] That's what like emailing Stripe is. It's win-win-win.
+[00:04:45.700 --> 00:04:47.280] So I think that's the easiest one to start out.
+[00:04:47.680 --> 00:04:51.940] I'd like to move to the one that I think is maybe the hardest, which is when should you hire an agency?
+[00:04:52.500 --> 00:04:55.480] And I guess it depends a little bit on what you should hire an agency for.
+[00:04:55.480 --> 00:05:08.220] When people come to you and they're like, hey, we want Sharma Brands to work with us, I think it's mostly they're like, hey, I'm starting a new business and I need help with design and landing pages and thinking about marketing and what software stack should I use.
+[00:05:08.340 --> 00:05:09.900] Is that right or am I wrong about that?
+[00:05:10.400 --> 00:05:11.020] Partially right.
+[00:05:11.140 --> 00:05:14.180] That's probably a third of our business is brands that we launch.
+[00:05:14.180 --> 00:05:25.220] But we also work with a ton of brands that are like Bacardi or Beam Suntory or Crocs, and they want more so help and guidance as well as some execution stuff.
+[00:05:25.700 --> 00:05:36.160] And then there's a bunch of brands in the middle doing like 50 to probably 400 million that we're either, you know, we're redesigning sites for, we're designing landers for, we're helping them optimize media.
+[00:05:36.160 --> 00:05:37.280] So kind of like all over.
+[00:05:37.460 --> 00:05:44.120] But, you know, one thing we do is we only have about six to seven clients at any time.
+[00:05:44.360 --> 00:05:50.420] And the reason we do that is actually the reason I think, you know, you should really vet who you hire your agencies for.
+[00:05:50.640 --> 00:05:52.980] You want to make sure it's like a it's a great relationship.
+[00:05:52.980 --> 00:06:08.900] You're not just like, you know, I don't think agencies, whether they're paid media agencies, site development agencies, CRO agencies, design agencies, PR agencies, trying to think of it as a line item that you just have to hire is actually the wrong way to approach it.
+[00:06:09.480 --> 00:06:12.680] So here, I wrote down some notes of like, you know, how to hire an agency.
+[00:06:13.100 --> 00:06:16.840] So I think the first one is you want to look at who their clients are.
+[00:06:17.080 --> 00:06:19.140] You want to make sure that you're not going to an agency.
+[00:06:19.140 --> 00:06:29.160] You know, if you go to an agency, let's say you're a new beauty brand, you go to an agency site and they're used to running like L'Oreal and Cody, Saks Fifth Avenue.
+[00:06:29.500 --> 00:06:29.620] S.A. Lauder.
+[00:06:29.960 --> 00:06:30.640] Yeah, S.A. Lauder.
+[00:06:31.000 --> 00:06:31.520] Terrible fit.
+[00:06:31.560 --> 00:06:33.600] Great logos, but horrible fit for you.
+[00:06:33.740 --> 00:06:43.800] You know, if you're starting a business or even if you're doing like probably 10 to maybe 50 million, the mindset of how these agencies work is so important to the work that comes to you.
+[00:06:44.140 --> 00:06:46.160] So that's one is look at who their clients are.
+[00:06:46.260 --> 00:06:47.940] You want comparable numbers.
+[00:06:48.440 --> 00:06:52.300] And before we move forward here, what type of agency are you hiring for here?
+[00:06:52.400 --> 00:06:57.920] Are you helping someone determine your software stack or are you talking about like a marketing agency that's helping you get ads?
+[00:06:58.100 --> 00:07:02.260] I agree generally that like, you know, probably across all agencies, that's true.
+[00:07:02.400 --> 00:07:04.460] You want someone who's like in your ballpark.
+[00:07:04.600 --> 00:07:09.580] Like if you're S.A. Lauder, you want a PR team that's very different than if you were, you know, all birds or native.
+[00:07:09.740 --> 00:07:11.660] Like you want a very different team.
+[00:07:11.660 --> 00:07:20.500] When you're talking about when to hire or like who to hire, are you talking about specifically marketing agencies or just overall like any agency this is what you think about?
+[00:07:20.500 --> 00:07:28.880] Yeah, I think mainly marketing related agencies, creative agencies, marketing agencies, paid media, site development, branding.
+[00:07:29.780 --> 00:07:29.940] All right.
+[00:07:30.040 --> 00:07:32.020] So I think looking at who their clients are is a huge one.
+[00:07:32.020 --> 00:07:39.700] And I think too, if you can identify some of the logos and you know some of the people there, like reach out to those people who have worked with them in the past.
+[00:07:39.860 --> 00:07:47.080] There's also so many instances of people putting up logos and they've actually never worked with them or worked with them in a meaningful way.
+[00:07:47.560 --> 00:07:50.760] Like doing the one extra step of, wait, really?
+[00:07:51.000 --> 00:07:55.080] You know, always asking that question will keep you a lot happier throughout that relationship.
+[00:07:55.540 --> 00:07:59.300] There was a company that used to say they ran native Facebook ads when we were like growing the business.
+[00:07:59.440 --> 00:08:02.840] And I was like, you know, people would reach out to me and be like, hey, was this company good?
+[00:08:02.900 --> 00:08:05.680] And I was like, I've never heard of this business ever in my entire life.
+[00:08:05.720 --> 00:08:07.160] So I have no idea.
+[00:08:07.420 --> 00:08:12.740] The other thing I would say is when you're reaching out, always ask to speak on the phone with somebody rather than email.
+[00:08:12.740 --> 00:08:21.620] Because via email, no one's going to give you the truth because they're constantly going to be afraid of like writing something that's like slightly defamatory or it gets back to the agency itself.
+[00:08:21.800 --> 00:08:23.540] So you're going to be like, they were all right.
+[00:08:23.600 --> 00:08:26.880] I thought like they did what they suggested or they said they would.
+[00:08:27.100 --> 00:08:29.660] But if you get me on the phone, I'll be like, they were fucking awful.
+[00:08:29.860 --> 00:08:31.420] And you should avoid them with a 10 foot pole.
+[00:08:31.580 --> 00:08:34.300] Like, you know, try and get them on the phone and not just via email.
+[00:08:34.920 --> 00:08:38.040] Another one is an agency that says that they do it all.
+[00:08:38.220 --> 00:08:42.300] You know, they do site development, SEO, creative ads.
+[00:08:42.740 --> 00:08:43.040] Yeah.
+[00:08:43.260 --> 00:08:44.820] Landing pages, paid media.
+[00:08:45.040 --> 00:08:46.440] Like if they say that, run.
+[00:08:46.680 --> 00:08:52.920] Run really far and know that that is not an agency that has passion in its DNA.
+[00:08:53.240 --> 00:08:57.500] That's an agency that is either owned by a PE firm.
+[00:08:57.500 --> 00:09:03.340] It's going to be owned by a PE firm or it's run by somebody who's building this entire agency with an Excel sheet.
+[00:09:03.520 --> 00:09:07.260] And the quality of work you're going to get is going to be so disappointing.
+[00:09:07.640 --> 00:09:11.000] And it's going to take you three to four months to realize how disappointed you are.
+[00:09:11.620 --> 00:09:12.640] There's this guy on TikTok.
+[00:09:12.980 --> 00:09:14.300] I'm not sure if you've seen these ads.
+[00:09:14.400 --> 00:09:19.740] I'm going to send one to you where this guy's like, you just give us some money and we'll set up your whole store and it'll cash flow for you.
+[00:09:19.860 --> 00:09:22.420] I'm like, okay, why don't you do it for yourself?
+[00:09:22.660 --> 00:09:24.380] Why are you running TikTok ads?
+[00:09:24.640 --> 00:09:26.300] And they're telling us to give you money.
+[00:09:26.760 --> 00:09:29.820] You know, it sounds like you have a cash flowing business.
+[00:09:30.180 --> 00:09:34.180] Instead of sending the money on TikTok ads, spend those money on Amazon ads and you'll make a lot more money.
+[00:09:34.180 --> 00:09:37.760] That's the same way I feel about agencies that are like, we know how to do all of these things.
+[00:09:37.940 --> 00:09:39.200] We can get operations.
+[00:09:39.320 --> 00:09:40.520] We can do your design.
+[00:09:40.760 --> 00:09:45.960] We can do SEO and branding and all this stuff and run your Facebook ads and do your operations and customer service.
+[00:09:46.100 --> 00:09:50.060] And I'm like, so you're basically a direct-to-consumer store in a box.
+[00:09:50.360 --> 00:09:51.500] What do you need me for?
+[00:09:51.680 --> 00:09:54.920] Like, why are you just making 4,000 businesses and making a fortune?
+[00:09:55.360 --> 00:09:56.660] What the hell do you need me for?
+[00:09:56.980 --> 00:09:58.400] Oh, you just want my money.
+[00:09:58.580 --> 00:09:59.280] Oh, what a surprise.
+[00:09:59.400 --> 00:10:00.180] You just want my money.
+[00:10:00.180 --> 00:10:02.840] Because you couldn't do this yourself selling a product on Amazon.
+[00:10:03.060 --> 00:10:04.080] So I couldn't agree more.
+[00:10:04.220 --> 00:10:06.080] Run to the caves of Tora Bora, Afghanistan.
+[00:10:06.080 --> 00:10:08.920] If you hear some guy say, I can do everything for you.
+[00:10:09.040 --> 00:10:09.660] You don't need to do anything.
+[00:10:10.360 --> 00:10:19.680] So with that too, you know, let's say they say they're good at media buying or ad creative landing pages, email design, you know, graphic design.
+[00:10:20.020 --> 00:10:21.600] Do the, wait, really?
+[00:10:21.900 --> 00:10:29.600] Question again and like get samples of work and make sure that from a design standpoint, from a coding standpoint, whatever it is, make sure it's legit.
+[00:10:29.600 --> 00:10:33.700] Don't just like trust the word because it's very easy to just say one thing.
+[00:10:33.900 --> 00:10:36.580] And most, I'd say 90% of people don't even question it.
+[00:10:36.740 --> 00:10:37.580] They're just down.
+[00:10:38.280 --> 00:10:45.020] Especially if it's like a new founder and they're just looking to get something going, their first instinct is, okay, why would this person lie to me?
+[00:10:45.480 --> 00:10:46.920] And they get screwed over pretty badly.
+[00:10:47.420 --> 00:10:47.740] Yeah.
+[00:10:47.820 --> 00:10:52.280] The other thing that I would say is like, if someone says, I can't tell you any of my clients, that's confidential.
+[00:10:52.820 --> 00:10:53.460] That's bullshit.
+[00:10:53.940 --> 00:10:59.980] They'll almost always be like, okay, let me reach out to a couple of clients to make an introduction and make sure that it's okay to move forward.
+[00:10:59.980 --> 00:11:09.880] Like, you know, I'll reach out to John or Nick or I'll reach out to somebody and make sure that I can make an introduction to you and that they're comfortable for me to reveal to you that I work with them.
+[00:11:10.080 --> 00:11:12.700] If they're like, hey, we can't reveal anybody that we work with.
+[00:11:12.860 --> 00:11:18.200] It's, you should also run, especially in the SEO game where I found like, okay, tell me who you've SEOed.
+[00:11:18.340 --> 00:11:19.840] And they'll be like, I can't tell you.
+[00:11:19.920 --> 00:11:21.780] And I'm like, okay, so I have no way to judge this.
+[00:11:21.920 --> 00:11:25.320] I can't run a Google search to judge how well you've done this is a complete joke.
+[00:11:25.320 --> 00:11:29.420] And the last point is basically go somewhere where you'll be a priority.
+[00:11:29.640 --> 00:11:37.300] So a few years ago, when I worked at Hint, there was this agency and I loved following, this sounds so weird.
+[00:11:37.480 --> 00:11:39.400] I love following some of their employees on Twitter.
+[00:11:39.620 --> 00:11:43.860] Like they had a cool company culture and they did sick work as an agency.
+[00:11:44.660 --> 00:11:50.620] And there weren't like the biggest agency out in New York, but they were definitely like one of the top ones.
+[00:11:51.240 --> 00:11:55.080] And, you know, I thought, all right, let me hit up the, uh, the CEO.
+[00:11:55.300 --> 00:11:57.140] He set us up in a meeting with somebody else.
+[00:11:57.500 --> 00:12:00.420] We had like probably two, two or three in-person meetings.
+[00:12:00.560 --> 00:12:02.200] They presented the strategy deck.
+[00:12:02.340 --> 00:12:03.000] It looked sick.
+[00:12:03.300 --> 00:12:06.740] And then like, it came time to like transition the accounts over to them.
+[00:12:06.840 --> 00:12:10.880] You know, we signed the contract and what I quickly learned.
+[00:12:10.900 --> 00:12:14.420] And I was like, oh fuck, I kind of fucked this up a little bit.
+[00:12:15.260 --> 00:12:19.380] Was I never really understood that they weren't like a performance marketing agency.
+[00:12:19.380 --> 00:12:26.660] They were a big brand and like big campaign billboards takeover ad type agency.
+[00:12:26.880 --> 00:12:28.500] And that's what they won their awards for.
+[00:12:28.840 --> 00:12:30.440] So that, that was one mistake.
+[00:12:30.720 --> 00:12:37.400] The second mistake was we were behind like Nike, Amazon Kindle, like a bunch of massive brands.
+[00:12:37.400 --> 00:12:40.000] We were the bottom list of their priority.
+[00:12:40.360 --> 00:12:43.820] So as a result, we got the bottom list of their talent.
+[00:12:43.820 --> 00:12:50.120] And to them, like a hundred grand a month in agency fees, probably not worth that much when
+[00:12:50.120 --> 00:12:52.920] they're making like 10 times that from somebody else.
+[00:12:53.180 --> 00:12:57.920] And so, so I think going somewhere where you're actually a priority is also super important
+[00:12:57.920 --> 00:13:01.420] to understand where you are relative to the other clients.
+[00:13:01.500 --> 00:13:05.520] Cause the whole point of working with an agency is like working quickly.
+[00:13:05.520 --> 00:13:06.880] You get the learnings.
+[00:13:06.980 --> 00:13:10.720] You want good talent who's seen and done cool things on other brands.
+[00:13:10.960 --> 00:13:14.460] And if you're getting the bottom level talent, you're probably not getting the best of that.
+[00:13:14.860 --> 00:13:18.960] The other thing I would say with respect to this is make sure you talk to the people that
+[00:13:18.960 --> 00:13:22.240] you're actually going to be working with and not just the sales team.
+[00:13:22.680 --> 00:13:27.740] Often like, you know, sales and the guys were actually going to be doing real work are completely
+[00:13:27.740 --> 00:13:28.860] different groups of people.
+[00:13:28.860 --> 00:13:32.000] And the salesmen are like charismatic and get you.
+[00:13:32.160 --> 00:13:35.480] And they produce like that incredible deck that you were talking about, which when you
+[00:13:35.480 --> 00:13:38.620] were in Hintwater, and then you get there and you're like, yeah, these are the people
+[00:13:38.620 --> 00:13:39.560] I'm going to be working with.
+[00:13:39.740 --> 00:13:43.680] And it is talent that didn't, that would not be able to produce that deck.
+[00:13:44.040 --> 00:13:45.660] And so I don't want to work with them.
+[00:13:45.780 --> 00:13:50.040] So like try and talk to the people not on sales, but that would actually be handling your account.
+[00:13:50.620 --> 00:13:54.020] The other thing I would say, and this might be controversial, is try and talk to former
+[00:13:54.020 --> 00:13:57.900] employees to see like what they thought of the firm when they were there.
+[00:13:57.900 --> 00:13:59.300] However, I'll give you an example.
+[00:13:59.420 --> 00:14:02.360] I remember we were at BVA, like BV itself.
+[00:14:02.660 --> 00:14:03.720] I'm not sure if you've heard of them.
+[00:14:04.020 --> 00:14:05.060] Yeah, we worked with them too.
+[00:14:05.580 --> 00:14:07.960] We hired them to move from WooCommerce to Shopify.
+[00:14:08.480 --> 00:14:11.240] And during that process, they were bought out by a private equity firm.
+[00:14:11.700 --> 00:14:15.960] Like, you know, in a week, the whole team that was working on our account resigned and
+[00:14:15.960 --> 00:14:18.020] they assigned five new people to the account.
+[00:14:18.560 --> 00:14:22.520] Within a week, those five new people resigned and there were five new people on the account.
+[00:14:22.720 --> 00:14:24.500] And like it was a complete disaster.
+[00:14:24.960 --> 00:14:27.240] We were pretty late in the game, so we couldn't have done anything.
+[00:14:27.600 --> 00:14:31.220] But I wish like, you know, later on, I talked to old people who work there and they're like,
+[00:14:31.320 --> 00:14:32.840] the new private equity owners were terrible.
+[00:14:33.140 --> 00:14:33.780] Everyone left.
+[00:14:33.980 --> 00:14:35.940] There's no talent left in that organization anymore.
+[00:14:36.120 --> 00:14:37.100] Run as fast as you can.
+[00:14:37.540 --> 00:14:41.340] And, you know, I probably couldn't have done that talking to former employees at that time
+[00:14:41.340 --> 00:14:43.380] because they were just been bought by a private equity firm.
+[00:14:43.600 --> 00:14:46.820] And so that was like a sort of an X factor that no one could or a black swan event no one
+[00:14:46.820 --> 00:14:47.340] could have predicted.
+[00:14:47.700 --> 00:14:52.180] But I wish at moving forward at other firms, usually I try and reach out to old employees
+[00:14:52.180 --> 00:14:53.660] and I'm like, hey, did you have a good time here?
+[00:14:53.960 --> 00:14:54.880] Are these people legit?
+[00:14:55.020 --> 00:14:55.620] Do they suck?
+[00:14:55.620 --> 00:14:57.000] Who should I watch out for?
+[00:14:57.340 --> 00:15:00.880] Is there any talent that's really bad or toxic or will make my brand bad?
+[00:15:01.080 --> 00:15:04.060] And so it's just a good way to get a check on somebody who's been at the organization.
+[00:15:04.500 --> 00:15:05.320] Isn't there anymore?
+[00:15:05.640 --> 00:15:07.880] And like, we'll have some sort of opinion on people there too.
+[00:15:07.880 --> 00:15:13.720] One other thing on that example specifically, we had paid them to do the hint site.
+[00:15:14.400 --> 00:15:16.980] And, you know, I learned like a few years later.
+[00:15:17.140 --> 00:15:17.480] BVA?
+[00:15:17.620 --> 00:15:18.040] You hired BVA?
+[00:15:18.040 --> 00:15:18.300] Yeah.
+[00:15:18.720 --> 00:15:20.980] They paid another agency who paid another agency.
+[00:15:21.320 --> 00:15:25.620] And so I think also making sure that when you work with an agency, for example, when
+[00:15:25.620 --> 00:15:29.980] we work with brands and we're like launching a brand, we have another agency that we bring
+[00:15:29.980 --> 00:15:31.800] in for like Shopify development.
+[00:15:31.800 --> 00:15:34.720] But they have their own agreement with the client.
+[00:15:34.960 --> 00:15:37.460] You know, it's like they have a direct relationship themselves.
+[00:15:37.860 --> 00:15:40.180] So I think if you're transparent, it's one thing.
+[00:15:40.400 --> 00:15:46.760] But just taking the contract and skimming like 70% off the top and then getting somebody else
+[00:15:46.760 --> 00:15:49.380] to build it who then gets somebody else to build it.
+[00:15:49.540 --> 00:15:50.200] Pretty shady.
+[00:15:50.620 --> 00:15:51.920] That is so fucked up.
+[00:15:52.020 --> 00:15:52.980] I can't believe that happened.
+[00:15:53.660 --> 00:15:54.060] Okay.
+[00:15:54.220 --> 00:15:58.360] I really appreciate that context and, you know, how to hire an agency.
+[00:15:58.500 --> 00:15:59.460] Those are great call outs.
+[00:15:59.640 --> 00:16:03.360] And, you know, from someone who's running an agency, I feel like you rarely get call outs
+[00:16:03.360 --> 00:16:03.820] like this.
+[00:16:04.200 --> 00:16:04.360] Yeah.
+[00:16:04.480 --> 00:16:05.500] So great things to look for.
+[00:16:05.980 --> 00:16:08.000] I'd love to talk about a couple other things.
+[00:16:08.700 --> 00:16:10.200] First is customer service.
+[00:16:10.740 --> 00:16:15.640] If you're starting a business and you're going to, you're expected to do 10 sales a day,
+[00:16:15.960 --> 00:16:17.440] don't get customer service software.
+[00:16:17.440 --> 00:16:20.680] Don't buy Gorgeous or Help Scout or Zendesk.
+[00:16:20.820 --> 00:16:22.600] You can live in Gmail for a while.
+[00:16:22.800 --> 00:16:27.340] It's cheaper and figure out like, you know, if your business is going to work and like whether
+[00:16:27.340 --> 00:16:30.760] you're going to actually scale this business and you need customer service software.
+[00:16:31.180 --> 00:16:33.140] Only then should you think about customer service software.
+[00:16:33.280 --> 00:16:36.160] Like don't be paying $40 a month to handle an email a day.
+[00:16:36.280 --> 00:16:38.320] You can handle an email a day through Gmail, frankly.
+[00:16:38.920 --> 00:16:39.400] Totally agree.
+[00:16:39.500 --> 00:16:44.380] And similarly, you know, one of the things I always caution new founders to do is not outsource
+[00:16:44.380 --> 00:16:46.720] customer service as fast as possible.
+[00:16:46.720 --> 00:16:50.080] Well, virtually everyone wants to outsource customer service because they think that it's
+[00:16:50.080 --> 00:16:54.860] like not if they think one, it's beneath them or two, they're like, I don't want to do it.
+[00:16:54.980 --> 00:16:56.200] I need to make higher level decisions.
+[00:16:56.580 --> 00:16:58.900] Or three, it's the cheapest thing to probably outsource.
+[00:16:59.060 --> 00:16:59.440] You're like, great.
+[00:16:59.540 --> 00:17:03.500] I can hire somebody for $20 an hour to answer tickets for eight hours a day.
+[00:17:03.620 --> 00:17:04.040] And I'm set.
+[00:17:04.160 --> 00:17:05.180] That's $160.
+[00:17:05.280 --> 00:17:09.220] I probably can't hire someone to run Facebook ads for 160 bucks a day.
+[00:17:09.620 --> 00:17:13.180] The only thing is that like you lose the connection with what's wrong with your business
+[00:17:13.180 --> 00:17:14.280] as a result of that.
+[00:17:14.580 --> 00:17:19.100] So like you should not be hiring anyone to handle customer service tickets until you're
+[00:17:19.100 --> 00:17:20.640] getting more than 20 tickets a day.
+[00:17:20.920 --> 00:17:24.860] You know, an average customer service agent can probably do around 80 to 100 tickets a
+[00:17:24.860 --> 00:17:25.920] day depending on the business.
+[00:17:26.220 --> 00:17:30.420] So if you're getting 20 tickets a day, we're talking about two hours a day, you should be
+[00:17:30.420 --> 00:17:33.780] able to do it faster because you're the owner of the business and you don't need to refer
+[00:17:33.780 --> 00:17:34.620] to anything else.
+[00:17:34.720 --> 00:17:36.240] Like you know all of the answers in your head.
+[00:17:37.020 --> 00:17:37.600] Yeah, exactly.
+[00:17:37.780 --> 00:17:41.620] It should take you 30 minutes to do what it would take somebody else two hours to do.
+[00:17:41.780 --> 00:17:45.420] So if you're getting less than 20 tickets a day, you don't need CS software and you don't
+[00:17:45.420 --> 00:17:46.220] need a CS agent.
+[00:17:46.400 --> 00:17:47.860] I think you'd handle it all yourself.
+[00:17:48.320 --> 00:17:51.980] Only after that does it make sense to start saying, okay, let me hire somebody else or think
+[00:17:51.980 --> 00:17:52.960] about hiring somebody else.
+[00:17:53.100 --> 00:17:56.320] If you still have a lot of problems with your product or business for one reason or
+[00:17:56.320 --> 00:18:00.140] another, like at Native we did and I didn't hire anyone because I was like, I want to
+[00:18:00.140 --> 00:18:01.400] understand what's wrong with the formula.
+[00:18:01.640 --> 00:18:02.680] You should think about that as well.
+[00:18:02.820 --> 00:18:03.960] Like, you know, then you don't need to hire someone.
+[00:18:04.080 --> 00:18:05.020] You need to be in it yourself.
+[00:18:05.700 --> 00:18:06.800] Yeah, I couldn't agree more.
+[00:18:07.380 --> 00:18:08.960] I'll tell you some other things that we did.
+[00:18:09.380 --> 00:18:13.120] One is we hired, we didn't get a referral program until we were doing about a million
+[00:18:13.120 --> 00:18:13.880] dollars a month.
+[00:18:14.260 --> 00:18:18.680] And then we got Talkable and Talkable was like, oh, I remember doing a video call with
+[00:18:18.680 --> 00:18:19.320] the Talkable guys.
+[00:18:19.460 --> 00:18:23.000] And I was like, when do most people hire Talkable or start paying for it?
+[00:18:23.120 --> 00:18:25.160] And they're like probably around a hundred thousand a month.
+[00:18:25.340 --> 00:18:27.020] And I was like, okay, we're doing a million a month.
+[00:18:27.140 --> 00:18:28.160] So this probably makes sense.
+[00:18:28.340 --> 00:18:29.860] And it did make sense at that time.
+[00:18:30.420 --> 00:18:31.260] Like these are random things.
+[00:18:31.340 --> 00:18:33.680] So I thought that's how we did a refer a friend program.
+[00:18:33.680 --> 00:18:36.020] Probably late in the game at a million dollars a month.
+[00:18:36.320 --> 00:18:39.300] Probably early in the game if you're at $50,000 a month.
+[00:18:39.580 --> 00:18:40.140] Yeah, agreed.
+[00:18:40.280 --> 00:18:41.600] Because they are kind of pricey too.
+[00:18:42.040 --> 00:18:42.580] Yeah, yeah.
+[00:18:42.620 --> 00:18:43.080] They're pricey.
+[00:18:43.200 --> 00:18:45.600] And it takes time to like implement the process.
+[00:18:46.080 --> 00:18:47.420] And then get everyone smart on it.
+[00:18:47.540 --> 00:18:47.680] Yeah.
+[00:18:47.860 --> 00:18:48.480] That's another one.
+[00:18:48.580 --> 00:18:51.080] It's like you can implement a lot of this stuff and it just sucks.
+[00:18:51.220 --> 00:18:55.520] Like it doesn't feel personalized to the brand nor to the person going through this experience.
+[00:18:55.520 --> 00:19:00.920] I think there's a huge difference between people who do it well versus just do it for the sake of like doing it.
+[00:19:01.340 --> 00:19:04.100] Anyone can set up a five, give $5, get $5.
+[00:19:04.420 --> 00:19:07.120] And nobody will use that process because it just doesn't matter.
+[00:19:07.480 --> 00:19:09.760] You need to give something more unique on your business.
+[00:19:09.760 --> 00:19:12.300] And you need to like try and you need to figure out what works.
+[00:19:12.440 --> 00:19:16.120] And just set up emails and email customers saying, hey, please refer a friend.
+[00:19:16.240 --> 00:19:17.640] You need to add those to other emails.
+[00:19:17.800 --> 00:19:21.400] And you don't need to do all that if you're just doing $25,000 a month.
+[00:19:21.400 --> 00:19:25.400] It's not going to generate enough revenue for it to make sense right now.
+[00:19:25.660 --> 00:19:36.940] If you're doing $250,000 a month and have, you know, 4,000 or 5,000 customers coming through your platform, it might make sense because then all of a sudden 500 people might refer someone or 100 people might refer someone.
+[00:19:37.320 --> 00:19:41.780] At $20,000 a month, you're going to get three referrals a month and you're going to have wasted a bunch of time here.
+[00:19:41.980 --> 00:19:47.100] I think that's also true generally for like a lot of excess tech, even attribution platforms.
+[00:19:47.100 --> 00:19:48.900] I don't know that you need it right at the beginning.
+[00:19:48.900 --> 00:19:59.780] Even like, you know, you kind of alluded to it, but like spending on other channels, you probably don't need to spend outside of one or two channels until you get to like 10 million revenue or even a million revenue at least.
+[00:20:00.440 --> 00:20:03.220] Yeah, I think trying to stay simple is always good.
+[00:20:03.560 --> 00:20:09.860] Stay simple and optimize for the customer experience and the communications they get is underrated.
+[00:20:10.460 --> 00:20:15.820] Here's one place where I would spend money and, you know, I'm against spending money in any way possible.
+[00:20:16.060 --> 00:20:17.880] So this is going to be different for me.
+[00:20:18.000 --> 00:20:18.900] It's hard for me to even say.
+[00:20:19.600 --> 00:20:21.600] One is YouTube influencers.
+[00:20:21.920 --> 00:20:29.980] Like if I was selling a beauty product or a cosmetic product or a personal care product, I would go out and hire YouTube influencers because so much research happens on YouTube.
+[00:20:29.980 --> 00:20:38.700] So if you're launching a new brand of even water or like, you know, a new Gatorade or something, people are going to go to YouTube and be like, hey, are there other people who are consuming this Gatorade?
+[00:20:38.860 --> 00:20:39.760] What do they think of it?
+[00:20:39.860 --> 00:20:40.760] What are the reviews like?
+[00:20:40.940 --> 00:20:47.840] And so you want to own that space and you don't want to be this big vacuum of this brand doesn't exist anywhere except this website and this Facebook ad I saw.
+[00:20:47.840 --> 00:20:51.480] So I would hire YouTube influencers and I'd hire 10 of them.
+[00:20:51.640 --> 00:20:59.000] It's just so when someone searched, you know, Nick Sharma's, you know, water, there were reviews of it and people would be like, I really like Nick Sharma's water.
+[00:20:59.320 --> 00:21:05.500] The other place I would pay money is branded Google search for the same reason, which is you want to own your own real estate.
+[00:21:05.800 --> 00:21:08.000] And so you want like you want to show up there.
+[00:21:08.140 --> 00:21:17.080] And if you're a really small brand and someone Googles you and doesn't find anything, if you're just launching, I would pay for like, you know, so if someone's Googling Nick Sharma's bottled water,
+[00:21:17.500 --> 00:21:20.300] I'd want to be the first hit because there may not be another hit.
+[00:21:20.560 --> 00:21:22.700] So the next hits are going to be some random stuff.
+[00:21:22.760 --> 00:21:24.240] So I'd want to own the top hit.
+[00:21:24.440 --> 00:21:25.540] And that's where I'd spend money.
+[00:21:25.680 --> 00:21:31.800] YouTube reviews and Google branded search terms so that, you know, it looks like I've got a bigger business and people approve of me.
+[00:21:31.940 --> 00:21:34.400] And you see some sort of like, you know, social proof there.
+[00:21:35.000 --> 00:21:38.840] I love how Triplewell provides data solutions for direct to consumer brands.
+[00:21:39.060 --> 00:21:42.700] Better data means better decisions and getting back to scaling your company.
+[00:21:43.240 --> 00:21:49.920] Triplewell empowers direct to consumer brands to scale profitably thanks to deeper consumer insights, attribution and profit tracking.
+[00:21:50.240 --> 00:21:53.480] Plus, all these metrics are available on the go through their mobile app.
+[00:21:53.660 --> 00:21:55.120] Are you ready to scale to the moon?
+[00:21:55.340 --> 00:22:00.720] Use promo code supply15 to get 15% off when you sign up at triplewell.com.
+[00:22:01.260 --> 00:22:01.800] All right.
+[00:22:01.880 --> 00:22:02.800] Should we get into memberships?
+[00:22:03.420 --> 00:22:04.260] Yeah, I'd love to.
+[00:22:04.640 --> 00:22:04.940] Okay.
+[00:22:04.980 --> 00:22:07.480] So I'm starting to see more companies do this.
+[00:22:07.860 --> 00:22:10.000] Basically having like a membership program.
+[00:22:10.000 --> 00:22:13.220] To me, it's a lot like Amazon Prime-esque.
+[00:22:13.540 --> 00:22:15.260] There's two examples I'll show you.
+[00:22:15.600 --> 00:22:16.940] One is actually Harry's.
+[00:22:17.020 --> 00:22:19.740] So Harry's has a program called Core.
+[00:22:20.140 --> 00:22:21.440] It's 15 bucks a year.
+[00:22:21.640 --> 00:22:24.200] They push it as $1.25 a month.
+[00:22:24.420 --> 00:22:26.160] And you get four benefits.
+[00:22:26.700 --> 00:22:29.440] Free expedited shipping, which is probably bullshit.
+[00:22:29.840 --> 00:22:34.180] Free engraving on your product, which is genius because you pay a laser machine.
+[00:22:34.180 --> 00:22:40.980] You pay for a laser machine for probably a grand or two grand, sits at the 3PL, and that's about as much work as it takes.
+[00:22:40.980 --> 00:22:42.140] Yeah, you get their stuff done at Fostick.
+[00:22:42.220 --> 00:22:42.340] Yeah.
+[00:22:42.540 --> 00:22:42.760] Yeah.
+[00:22:43.320 --> 00:22:50.960] You get access to member-only products, which in my opinion, D2C brands don't have member-only products because they're trying to get revenue.
+[00:22:51.400 --> 00:22:53.420] You're trying to get revenue at every opportunity.
+[00:22:53.420 --> 00:22:56.060] So you're not going to limit who sees your products.
+[00:22:56.060 --> 00:22:59.920] And then the last one is save 10% off on future orders.
+[00:23:00.140 --> 00:23:06.820] So if you spend $150 or $151 a year with Harry's, I think this could actually make a lot of sense.
+[00:23:07.200 --> 00:23:11.780] Now, the second brand that does this is called Fresh Clean Teens.
+[00:23:11.800 --> 00:23:13.220] What did Harry's roll out with this?
+[00:23:13.340 --> 00:23:15.880] I was just on their website this week and I didn't see it.
+[00:23:16.100 --> 00:23:19.220] Well, you mentioned the Harry's sweeps.
+[00:23:19.580 --> 00:23:24.200] And so I went to the site and I saw it and I was like, okay, this is an interesting thing.
+[00:23:24.200 --> 00:23:29.540] Because I feel like for Harry's to roll something out, it's usually thought through pretty well.
+[00:23:29.880 --> 00:23:32.200] This doesn't seem like it was thought through.
+[00:23:32.440 --> 00:23:36.480] Maybe I'm missing something, but it seems like this wasn't thought through all that well.
+[00:23:36.780 --> 00:23:40.020] So there's another brand that does this called Fresh Clean Teens.
+[00:23:40.320 --> 00:23:42.700] They charge $19 a year.
+[00:23:43.260 --> 00:23:46.220] It's basically, it gets you 20% off everything site-wide.
+[00:23:46.420 --> 00:23:49.780] You get free shipping, which is, you know, you should get.
+[00:23:49.960 --> 00:23:52.100] You get early access, also probably bullshit.
+[00:23:52.100 --> 00:23:54.860] And you get priority customer service, which is also probably bullshit.
+[00:23:55.280 --> 00:23:57.340] You actually might get priority customer service.
+[00:23:57.460 --> 00:23:59.780] Like it might, you know, tag you as a higher priority.
+[00:23:59.920 --> 00:24:05.580] But I think most D2C brands, especially ones at scale, are not going to not get to your customer service message.
+[00:24:05.740 --> 00:24:07.140] That's like a huge part of their business.
+[00:24:08.260 --> 00:24:10.360] So there's two companies that I found.
+[00:24:10.920 --> 00:24:13.140] One I actually invested in called Tandem.
+[00:24:14.000 --> 00:24:16.480] And both these companies have two different models.
+[00:24:17.100 --> 00:24:18.900] So one is called Tandem.
+[00:24:19.020 --> 00:24:23.640] What they do is they create branded credit cards for consumers to use at brands.
+[00:24:23.780 --> 00:24:27.800] So similar to like you go to the mall or you go to Best Buy, you get a Best Buy credit card.
+[00:24:27.920 --> 00:24:30.080] You can use it to shop at Best Buy, finance your purchases.
+[00:24:30.400 --> 00:24:31.860] Same thing like Macy's has it.
+[00:24:32.160 --> 00:24:39.140] So the woman that built this out at Capital One for their merchant partners, because they do this as well,
+[00:24:39.140 --> 00:24:40.700] she started this company.
+[00:24:41.080 --> 00:24:46.120] And it's like, you know, if you own Jones Road Beauty, you can have a Jones Road Beauty credit card.
+[00:24:46.400 --> 00:24:49.460] Every time you shop there, you, you know, treat it like credit.
+[00:24:49.900 --> 00:24:51.300] It's actually really for the brand.
+[00:24:51.460 --> 00:24:58.220] Like if the brand has a ton of consistent purchasers, they cannot pay the stripe fee and they can actually pay tandem.
+[00:24:58.380 --> 00:25:00.840] I think it's like 0.8% or something.
+[00:25:01.080 --> 00:25:02.660] Like that's the fee instead of 2.9.
+[00:25:03.100 --> 00:25:05.600] So at high volume, it could make sense.
+[00:25:06.100 --> 00:25:07.640] How does the brand get help?
+[00:25:07.820 --> 00:25:08.720] They pay less.
+[00:25:09.060 --> 00:25:10.940] They pay less on the payment processing.
+[00:25:11.620 --> 00:25:12.020] Okay.
+[00:25:12.160 --> 00:25:14.160] Because it's like, it's a tandem credit card.
+[00:25:14.460 --> 00:25:21.320] So the processing fees are basically just with tandem versus using the interchange fee between like Visa, MasterCard, etc.
+[00:25:21.820 --> 00:25:23.140] So that's one way to do it.
+[00:25:23.640 --> 00:25:30.620] And their model, I think to make money is a revenue, is a percentage of the processing fees goes to tandem and that's how they get paid.
+[00:25:30.960 --> 00:25:32.360] Then there's a second company.
+[00:25:32.580 --> 00:25:34.480] I don't know their model because it's not on their site.
+[00:25:34.480 --> 00:25:43.840] I assume it's SaaS or maybe like a very small percentage of membership fees or a combo, but it's called Inveterate.
+[00:25:43.980 --> 00:25:48.040] And it's actually started by somebody I think who used to work at BVA, I think.
+[00:25:48.420 --> 00:25:53.100] It's basically a paid memberships infrastructure based on their video on their site.
+[00:25:53.260 --> 00:25:54.640] Seems like they have some pretty cool analytics.
+[00:25:55.180 --> 00:26:02.240] And they also tout that one of their advantages is they can create new communication routes with PostScript, Klaviyo, Gift on Your Next Order,
+[00:26:02.240 --> 00:26:04.460] because they have integrations that are deeply built.
+[00:26:04.700 --> 00:26:12.440] So while they are maybe things that you might think about, they will basically automate the whole thing in addition to the whole membership process.
+[00:26:12.640 --> 00:26:20.420] And the last thing I found was a McKinsey report that Inveterate shared from about two and a half years ago, I think.
+[00:26:20.420 --> 00:26:29.280] And it said that members of a paid loyalty program are 60% more likely to spend more on a brand after subscribing,
+[00:26:29.280 --> 00:26:33.480] while free loyalty programs only increase that likelihood by 30%.
+[00:26:33.480 --> 00:26:36.760] I don't know if that number makes a lot of sense for D2C.
+[00:26:36.860 --> 00:26:40.120] I think that makes sense for like Macy's and Nordstrom and Best Buy.
+[00:26:40.120 --> 00:26:42.360] I don't think that makes sense for D2C.
+[00:26:43.000 --> 00:26:47.420] And I also don't know the sample size of the members who are paying.
+[00:26:47.980 --> 00:26:54.500] I mean, I would imagine it's probably more like luxury type brands that are benefiting from that versus like selling razors.
+[00:26:55.260 --> 00:26:56.800] So I've got a bunch of thoughts here.
+[00:26:57.000 --> 00:26:59.600] One is pretty crazy that Harry's rolled out with this.
+[00:26:59.720 --> 00:27:04.740] And I think that like, you know, more direct to consumer companies are going to be like grasping for this type of revenue.
+[00:27:05.000 --> 00:27:06.920] I'm surprised Harry's isn't like $5.
+[00:27:07.220 --> 00:27:09.760] Like give us $5 and we'll give you all of these things.
+[00:27:10.120 --> 00:27:14.960] Because they're basically like, hey, look, maybe we can increase your LTV $5 for five years.
+[00:27:15.080 --> 00:27:17.200] You might not cancel it because it's $5 a year.
+[00:27:17.400 --> 00:27:18.820] So we're talking about virtually nothing.
+[00:27:19.100 --> 00:27:23.400] You know, we're talking about less than 50 cents a month and it increases LTV and it's pure profit.
+[00:27:23.820 --> 00:27:25.600] So I'm surprised it's not a little bit cheaper.
+[00:27:25.840 --> 00:27:28.540] I thought really the company that you were going to start with was Italic,
+[00:27:28.640 --> 00:27:34.540] where I thought you were going to be talking about Italic and say, hey, look, these guys are like the Costco of finer goods.
+[00:27:34.740 --> 00:27:36.940] And so pay a membership and get access to this.
+[00:27:37.540 --> 00:27:40.000] So I thought that's where you're going to be going with this.
+[00:27:40.120 --> 00:27:44.680] I don't know a lot of other people doing the Italic or now this Harry's membership model.
+[00:27:44.800 --> 00:27:45.760] I think it is interesting.
+[00:27:46.020 --> 00:27:54.740] There is a business called Shoprunner and I'm not exactly sure how it works, but it's like you get faster shipping with a bunch of direct to consumer brands, including like Walmart.com.
+[00:27:54.740 --> 00:27:57.520] I think if you pay Shoprunner, it's like $100.
+[00:27:58.320 --> 00:27:59.260] Yeah, yeah, yeah.
+[00:27:59.260 --> 00:27:59.900] Yeah, exactly.
+[00:28:00.220 --> 00:28:01.760] And I think like Allbirds has it.
+[00:28:01.860 --> 00:28:05.340] And so if you're with Shoprunner, you get faster shipping on a bunch of businesses.
+[00:28:05.500 --> 00:28:07.860] But I'm not sure how many people have Shoprunner.
+[00:28:08.020 --> 00:28:12.260] I think I have it, frankly, because I've got an American Express, but I never sign up.
+[00:28:12.540 --> 00:28:19.620] Like, you know, I've never been like, you know what's really compelling is signing up for Shoprunner so I can get the three products I wear from Walmart, Allbirds,
+[00:28:19.620 --> 00:28:21.100] and one other site every year.
+[00:28:21.200 --> 00:28:26.840] I actually think just based on their site, I think American Express is the single driver of their entire business.
+[00:28:27.380 --> 00:28:28.000] Yeah, yeah.
+[00:28:28.500 --> 00:28:29.720] That wouldn't surprise me.
+[00:28:30.280 --> 00:28:33.780] You know, when you talked about Tandem, I thought that was really interesting.
+[00:28:33.780 --> 00:28:40.540] So a few years ago, Costco decided to drop American Express as a partner, and they ended up partnering with like Visa or something.
+[00:28:40.760 --> 00:28:45.560] And Costco was either 10% or 20% of all of the American Express cards issued.
+[00:28:46.000 --> 00:28:51.840] Like the Costco slash American Express card was by far the most popular American Express card ever made.
+[00:28:52.160 --> 00:28:53.240] And that was a big loss.
+[00:28:53.640 --> 00:28:55.740] Everyone thought that would be a huge loss to American Express.
+[00:28:56.000 --> 00:28:59.780] They've sort of made it back with a bunch of other memberships that they've come out with or a bunch of other companies.
+[00:28:59.780 --> 00:29:01.160] I've never heard of Tandem.
+[00:29:01.320 --> 00:29:04.440] But I guess my question when you were saying that is, who is going to use this?
+[00:29:04.560 --> 00:29:09.800] Like when I was a student and I was buying a suit at Macy's, and they're like, the suit costs $500.
+[00:29:10.260 --> 00:29:12.260] And if you order this credit card, you can save 10%.
+[00:29:12.260 --> 00:29:13.600] I was like, okay, this is $50.
+[00:29:14.180 --> 00:29:16.420] It's real money for me, and it's totally worth it.
+[00:29:16.500 --> 00:29:17.100] I'm going to do it.
+[00:29:17.780 --> 00:29:18.680] That was worthwhile.
+[00:29:19.100 --> 00:29:26.120] And I can understand even like Casper offering a credit card for some reason or another, because I'm like, okay, maybe you can get me to save 10% off a Casper mattress.
+[00:29:26.380 --> 00:29:27.680] And that costs $800.
+[00:29:27.980 --> 00:29:28.680] So I just saved $80.
+[00:29:29.320 --> 00:29:38.460] You know, if Harry's or like Native or Jones Road Beauty offered a credit card, I'd be like, how often do I have to shop at this website to get?
+[00:29:38.640 --> 00:29:41.600] Like the Amazon credit card, I can understand.
+[00:29:42.060 --> 00:29:45.040] Any other direct-to-consumer business, I cannot understand.
+[00:29:45.420 --> 00:29:48.660] Maybe if Shopify offered one and they said like, you know.
+[00:29:48.660 --> 00:29:51.740] Yeah, and you could save across any time you pay with ShopPay.
+[00:29:52.100 --> 00:29:52.800] Yeah, yeah.
+[00:29:52.900 --> 00:29:54.800] Then I'd be like, hey, this is interesting.
+[00:29:54.800 --> 00:30:00.380] I can't imagine a brand having enough frequency of purchases where you're like, you know what, I need this.
+[00:30:00.800 --> 00:30:08.320] Like, I don't know any direct-to-consumer brand I purchase from more than once a month where I'm like, you know what I would like is a credit card from them to save a few dollars.
+[00:30:08.520 --> 00:30:11.560] And to be clear, I would save a few dollars and I would sign up for it.
+[00:30:11.640 --> 00:30:12.620] Like, I am that frugal.
+[00:30:12.620 --> 00:30:15.820] I just don't know any brand that I would like get there with.
+[00:30:16.160 --> 00:30:19.880] Are there any brands where you'd be like, yeah, if this company had a credit card, I'd sign up for it?
+[00:30:20.300 --> 00:30:22.740] I mean, not that come to mind right away.
+[00:30:23.120 --> 00:30:23.500] Okay.
+[00:30:23.760 --> 00:30:23.960] Yeah.
+[00:30:24.160 --> 00:30:24.800] Yeah, it's tough.
+[00:30:25.240 --> 00:30:26.260] Yeah, it's tough.
+[00:30:26.420 --> 00:30:31.720] I mean, I think it makes sense if it's like potentially like Cuts or like Buck Mason.
+[00:30:32.320 --> 00:30:35.700] You know, the quarterly purchases, mid-ish AOV.
+[00:30:36.540 --> 00:30:38.880] But yeah, Native is a tough one.
+[00:30:39.780 --> 00:30:40.640] Harry's is tough.
+[00:30:40.880 --> 00:30:41.940] Harry's is a tough one.
+[00:30:41.940 --> 00:30:44.000] What do you think about the membership in general?
+[00:30:44.540 --> 00:30:45.620] I think it's great.
+[00:30:45.780 --> 00:30:49.420] And I think that brands should start experimenting with it for high value customers.
+[00:30:49.420 --> 00:30:50.620] It might add some value.
+[00:30:50.900 --> 00:30:54.500] And this is a terrible thing to say about direct-to-consumer.
+[00:30:54.620 --> 00:31:02.120] But I think the worst part about subscriptions and direct-to-consumer is you have to send out a physical product, which reminds everyone, hey, cancel the subscription.
+[00:31:03.580 --> 00:31:05.340] There was somebody like Yoga Bread.
+[00:31:05.500 --> 00:31:06.220] I forgot what it was called.
+[00:31:06.700 --> 00:31:08.740] Maybe it was Fabletics or something like that.
+[00:31:08.880 --> 00:31:09.840] Some fab in the name.
+[00:31:09.960 --> 00:31:10.960] They were sending out Yoga Pan.
+[00:31:10.960 --> 00:31:12.660] It's like a subscription to Yoga Pants.
+[00:31:12.800 --> 00:31:16.440] And you'd subscribe and you'd get $30 or $80 worth.
+[00:31:16.620 --> 00:31:18.660] You subscribe for $30 a month.
+[00:31:18.740 --> 00:31:21.980] And every month, they give you a $60 gift card in your account.
+[00:31:22.140 --> 00:31:25.880] And then you go and purchase Yoga Pants from your account with the $60.
+[00:31:26.340 --> 00:31:28.200] And you only paid $30 for it.
+[00:31:28.520 --> 00:31:33.100] But they never sent you the Yoga Pants until you logged into your account and purchased.
+[00:31:33.360 --> 00:31:38.640] Because they were thinking, okay, if you don't log into your account and purchase, you're just never going to get anything.
+[00:31:39.040 --> 00:31:39.220] Yeah.
+[00:31:39.220 --> 00:31:41.980] If we send you something, you're going to cancel it.
+[00:31:42.080 --> 00:31:43.600] You're going to be like, I'm getting too many Yoga Pants.
+[00:31:43.780 --> 00:31:48.960] But if we just refill your account with $30 every month, you're not even going to remember that.
+[00:31:49.080 --> 00:31:52.580] And you're going to let this slide on your credit card for months and months and months.
+[00:31:52.760 --> 00:31:56.220] And then when you want to cancel your subscription, they're like, great, you can cancel it.
+[00:31:56.300 --> 00:31:58.000] You have $180 left in your account.
+[00:31:58.200 --> 00:31:59.580] That $180 is there.
+[00:31:59.720 --> 00:32:00.880] It's not available as a refund.
+[00:32:01.360 --> 00:32:03.260] So you have to spend that $180.
+[00:32:03.620 --> 00:32:07.980] So basically, they're like, you're going to forget to cancel because no physical goods showed up at your door.
+[00:32:08.280 --> 00:32:12.540] The number one email that results in cancellations, I think, there's two emails.
+[00:32:12.700 --> 00:32:16.940] One is before your subscription goes out at Native, we're like, hey, we're about to send a subscription.
+[00:32:16.940 --> 00:32:19.400] It's going to go out tomorrow or it's going to go out in a week.
+[00:32:19.940 --> 00:32:20.740] Cancel if you want.
+[00:32:20.880 --> 00:32:22.740] That one gets more cancellations than anything else.
+[00:32:22.960 --> 00:32:25.960] The number two email was your subscription is now shipped.
+[00:32:26.480 --> 00:32:29.780] Because then people are like, fuck, this thing is in the mail.
+[00:32:29.920 --> 00:32:30.760] I don't want it anymore.
+[00:32:30.880 --> 00:32:31.740] I don't want it anymore.
+[00:32:31.960 --> 00:32:32.580] Stop it.
+[00:32:32.720 --> 00:32:32.800] Stop.
+[00:32:32.940 --> 00:32:34.520] And people will be like, I never subscribed.
+[00:32:34.520 --> 00:32:35.760] I canceled this right now.
+[00:32:35.820 --> 00:32:37.480] And you're like, I just told you it shipped.
+[00:32:37.660 --> 00:32:38.400] What do you think it happened?
+[00:32:38.520 --> 00:32:39.200] What do you think happens?
+[00:32:39.380 --> 00:32:40.280] It's in the mail now.
+[00:32:40.360 --> 00:32:41.120] It's not in my hands.
+[00:32:41.180 --> 00:32:41.860] It's with God.
+[00:32:42.180 --> 00:32:43.800] You know, it's with God.
+[00:32:44.660 --> 00:32:46.320] God is holding your deodorant.
+[00:32:46.640 --> 00:32:46.800] Yeah.
+[00:32:46.840 --> 00:32:51.200] If you have any issue, you got to go to church because this is now with somebody else, not with me any longer.
+[00:32:51.680 --> 00:32:57.240] And so if you could not send out those two emails, churn would drop by 50%.
+[00:32:57.240 --> 00:33:00.120] And I honestly think that if you just started saying, okay, great.
+[00:33:00.220 --> 00:33:02.460] You know what we're going to do is add this amount to your credit.
+[00:33:02.820 --> 00:33:09.060] Your subscription for $30 is actually a $60 credit, not a $60 box that's going out.
+[00:33:09.060 --> 00:33:10.500] It's actually a $60 credit.
+[00:33:10.800 --> 00:33:15.800] And I think that would actually be better for e-commerce businesses, as evil as this sounds,
+[00:33:16.080 --> 00:33:17.660] than it would be to ship out the box.
+[00:33:17.800 --> 00:33:19.120] It's just the nature of e-commerce.
+[00:33:19.860 --> 00:33:25.280] You know, Mack Weldon used to have a program where, I don't know if they changed the name.
+[00:33:25.460 --> 00:33:27.180] Now their loyalty program is called Weldon Blue.
+[00:33:27.280 --> 00:33:29.060] I feel like it might have been something different before.
+[00:33:29.060 --> 00:33:36.160] But it was like after you spent $200 with them online or in store, you got status with them
+[00:33:36.160 --> 00:33:39.680] where you would always get 10% off and always get free shipping.
+[00:33:40.300 --> 00:33:43.940] And that was actually something that made me just go back to Mack Weldon because I was like,
+[00:33:44.020 --> 00:33:45.260] oh, I'm getting somewhat of a discount.
+[00:33:45.500 --> 00:33:47.860] So I feel like it could work for the right product.
+[00:33:48.080 --> 00:33:53.860] I do think though, to get somebody to pay a membership fee, when I think about things
+[00:33:53.860 --> 00:33:59.580] that you pay for, it's really at an intersection of passion and content, like your passions
+[00:33:59.580 --> 00:34:00.680] and the content you get.
+[00:34:01.160 --> 00:34:07.800] Like, you know, think like a Patreon or a YouTube subscription or like paying a creator for something
+[00:34:07.800 --> 00:34:09.760] or a paid newsletter, right?
+[00:34:10.180 --> 00:34:13.540] Or it's like passion meets experience.
+[00:34:13.540 --> 00:34:17.860] So it's like, you know, if you sign up for Equinox, you go and you get the experience of
+[00:34:17.860 --> 00:34:18.320] going in.
+[00:34:18.440 --> 00:34:19.780] There's like a physical element to it.
+[00:34:19.780 --> 00:34:25.520] But with an annual fee or even a monthly fee, I guess one reason to charge annually is probably
+[00:34:25.520 --> 00:34:29.620] like you're not going to get that email every month of, hey, you're about to get charged $1.25.
+[00:34:29.880 --> 00:34:30.020] That's right.
+[00:34:30.300 --> 00:34:35.200] But also, yeah, I just wonder, like, I feel like the benefits are kind of weak.
+[00:34:35.480 --> 00:34:38.360] You know, the benefits are the same ones that are listed on the subscription page.
+[00:34:38.600 --> 00:34:45.240] And I just think about like from a long-term customer satisfaction NPS standpoint, I feel
+[00:34:45.240 --> 00:34:48.940] like you can't just offer priority customer service, free shipping and early access.
+[00:34:48.940 --> 00:34:52.640] Those are like three things you would get if you were literally anybody.
+[00:34:53.320 --> 00:34:54.540] I completely agree as well.
+[00:34:54.700 --> 00:34:56.080] Like, you need something better than that.
+[00:34:56.360 --> 00:34:58.680] Like, early access doesn't mean anything.
+[00:34:58.800 --> 00:35:00.200] Early access is we exist.
+[00:35:00.660 --> 00:35:00.960] Yeah.
+[00:35:01.040 --> 00:35:05.220] Early access is we launched this and we need to get cash flow on this SKU immediately.
+[00:35:06.000 --> 00:35:06.360] Okay.
+[00:35:06.460 --> 00:35:09.500] While we're talking about Harry's, I want to talk about a few other things.
+[00:35:09.740 --> 00:35:13.840] You know, we talked about this on the podcast last week and I saw somebody doing it.
+[00:35:13.860 --> 00:35:15.020] I saw it on Harry's for a second.
+[00:35:15.100 --> 00:35:16.640] I texted you about it, but they got rid of it.
+[00:35:16.640 --> 00:35:18.420] And, but it's really there.
+[00:35:18.560 --> 00:35:21.720] They were doing a giveaway and they were basically like the more you spend.
+[00:35:22.240 --> 00:35:26.400] So first, let me start by saying Harry's created the most interesting giveaway ever when they
+[00:35:26.400 --> 00:35:27.160] launched their product.
+[00:35:27.460 --> 00:35:28.520] Are you familiar with this, Nick?
+[00:35:28.660 --> 00:35:29.540] When they, yeah, of course.
+[00:35:30.400 --> 00:35:33.640] This is famous and like, it's so famous and they were so good at it.
+[00:35:33.760 --> 00:35:37.940] They actually created a website and gave away all of the code to create this referral program
+[00:35:37.940 --> 00:35:40.320] where they're like, we're about to launch Harry's.
+[00:35:40.400 --> 00:35:41.320] This was a decade ago.
+[00:35:41.480 --> 00:35:44.960] If you sign up three friends who end up buying from Harry's, we're going to give you a free
+[00:35:44.960 --> 00:35:45.960] razor blade and razor.
+[00:35:46.140 --> 00:35:48.160] If you sign up 10 friends, we're going to give you a free t-shirt.
+[00:35:48.360 --> 00:35:51.360] If you sign up 50 friends, we're going to give you, you know, 500 bucks.
+[00:35:51.600 --> 00:35:54.560] If you sign up a thousand friends, we're going to fly you to New York and hang out with you
+[00:35:54.560 --> 00:35:54.940] ourselves.
+[00:35:55.140 --> 00:35:59.560] Like it was, you know, those were sort of the, the, the tiers and they gave you a referral
+[00:35:59.560 --> 00:35:59.860] link.
+[00:35:59.980 --> 00:36:02.200] And back in 2012, nobody was doing this.
+[00:36:02.200 --> 00:36:06.720] And it might've been the most interesting, you know, it was the most successful referral
+[00:36:06.720 --> 00:36:07.480] program ever.
+[00:36:07.740 --> 00:36:11.980] And they like had over a hundred thousand referrals come from this, which I thought was absolutely
+[00:36:11.980 --> 00:36:12.460] bananas.
+[00:36:13.000 --> 00:36:15.400] They had another program going where they were giving away.
+[00:36:15.740 --> 00:36:19.100] I thought I'd be able to see it on our pod because I just sent this to you, but they've
+[00:36:19.100 --> 00:36:19.700] removed it.
+[00:36:19.900 --> 00:36:22.400] They were giving away, I think like a hundred thousand dollars or something.
+[00:36:22.560 --> 00:36:23.360] And they're like, is that it?
+[00:36:23.360 --> 00:36:23.620] I think that's right.
+[00:36:24.080 --> 00:36:27.960] And they were like, the more people you refer, the more entries you're going to get into this.
+[00:36:28.080 --> 00:36:28.580] Here's the photo.
+[00:36:28.580 --> 00:36:29.380] I just texted to you.
+[00:36:29.440 --> 00:36:33.340] It's not on their website anymore, but it was basically a sweeps that said that it said,
+[00:36:33.600 --> 00:36:38.260] purchase any razor and we'll email you a code for extra entries to the big leap sweepstakes.
+[00:36:38.440 --> 00:36:40.200] And that was for a hundred thousand dollars.
+[00:36:40.740 --> 00:36:41.980] And so they were doing this.
+[00:36:42.120 --> 00:36:42.520] I'm not sure.
+[00:36:42.700 --> 00:36:44.240] It says it ends 1231.
+[00:36:44.520 --> 00:36:47.380] I guess it's just not on their website right now, but they were doing this giveaway and
+[00:36:47.380 --> 00:36:50.640] they were like, the more dollars you spend, the more likely you are to be able to win
+[00:36:50.640 --> 00:36:53.360] this sweepstakes, which I thought was really interesting.
+[00:36:53.960 --> 00:36:56.840] I've always really admired Harry's by admired.
+[00:36:57.000 --> 00:36:58.460] I've been inspired by their fonts.
+[00:36:58.580 --> 00:36:59.360] Let me put it that way.
+[00:37:00.480 --> 00:37:03.320] You know, I've always really admired their checkout flow.
+[00:37:03.440 --> 00:37:07.140] So I was constantly looking at it when I was running native and I haven't looked at it in
+[00:37:07.140 --> 00:37:09.000] a while because I haven't been running a business in a while.
+[00:37:09.340 --> 00:37:12.600] And I was recently looking at it a while ago to prepare for this pod.
+[00:37:12.940 --> 00:37:17.860] And what was interesting was their checkout flow, which I think leaves a lot to be desired
+[00:37:17.860 --> 00:37:18.440] at this point.
+[00:37:18.860 --> 00:37:21.200] They have a checkout flow where they take you to a cart.
+[00:37:21.440 --> 00:37:24.900] Like basically, if you add something to your cart, they have one of those pop out carts
+[00:37:24.900 --> 00:37:25.980] that comes out of the side.
+[00:37:25.980 --> 00:37:27.620] So you think that's the cart page.
+[00:37:27.780 --> 00:37:31.840] You click checkout and you're taken to another cart page with more upsells.
+[00:37:31.980 --> 00:37:34.780] And then you can click checkout and you're finally taken to the checkout page.
+[00:37:34.920 --> 00:37:38.840] So I think they're making a mistake because they almost have two cart pages here before
+[00:37:38.840 --> 00:37:39.500] they take you there.
+[00:37:39.680 --> 00:37:43.520] They're doing a ton of testing, for God's sakes, because I looked at this website three
+[00:37:43.520 --> 00:37:48.220] days ago and they were testing upsells all over the place where you get a razor and they
+[00:37:48.220 --> 00:37:50.400] upsell you post aftershave or something.
+[00:37:50.680 --> 00:37:51.880] And they removed that as well.
+[00:37:52.040 --> 00:37:55.260] So I'm not sure when people who listen to this what they're going to see when they are
+[00:37:55.260 --> 00:37:56.440] navigating through Harry's.
+[00:37:56.560 --> 00:37:59.000] But it was and usually is a great experience.
+[00:37:59.020 --> 00:38:02.480] You might just see something very different than other people see because they're changing
+[00:38:02.480 --> 00:38:03.080] it so often.
+[00:38:03.080 --> 00:38:05.420] There is no shortage of upsells.
+[00:38:05.540 --> 00:38:09.280] And I got to say, I respect the CRO here.
+[00:38:09.780 --> 00:38:11.100] This is pretty good stuff.
+[00:38:11.340 --> 00:38:12.320] What do you admire a lot?
+[00:38:12.980 --> 00:38:14.260] First of all, you open the slide.
+[00:38:14.440 --> 00:38:16.400] So I just added one thing for 15 bucks.
+[00:38:16.840 --> 00:38:17.020] Yeah.
+[00:38:17.020 --> 00:38:22.120] First of all, if you click get started underneath their like hero banner, which I think the
+[00:38:22.120 --> 00:38:23.400] design feels very off.
+[00:38:23.520 --> 00:38:24.060] It's not centered.
+[00:38:24.180 --> 00:38:25.040] It's throwing me off here.
+[00:38:25.420 --> 00:38:27.320] But you click get started.
+[00:38:27.520 --> 00:38:32.180] It gets you down this like click funnel style flow of like choosing products.
+[00:38:32.440 --> 00:38:40.660] It is so optimized, like the save 5% free shipping called out in red, you know, first refill
+[00:38:40.660 --> 00:38:45.280] ships December 1st in big parentheses and bolded, not charged today, cancel anytime.
+[00:38:45.900 --> 00:38:47.260] They're crossing out prices.
+[00:38:47.580 --> 00:38:48.740] They're highlighting best value.
+[00:38:48.920 --> 00:38:50.280] So they're definitely doing everything in the playbook.
+[00:38:50.280 --> 00:38:51.000] They are good at CRO.
+[00:38:51.100 --> 00:38:51.940] I completely agree.
+[00:38:52.340 --> 00:38:55.780] Especially like the how often do you shave so they understand how often to like ship it
+[00:38:55.780 --> 00:38:55.960] out?
+[00:38:56.100 --> 00:38:57.060] Like it looks so good.
+[00:38:57.500 --> 00:38:59.500] Then on just a random PDP.
+[00:38:59.640 --> 00:39:04.260] Actually, I do see the want to win 100,000 when I go to like the Truman set PDP.
+[00:39:04.400 --> 00:39:04.980] Oh, interesting.
+[00:39:05.100 --> 00:39:05.260] Okay.
+[00:39:05.720 --> 00:39:11.160] So right here on the PDP, they do upsell you on the core membership right away.
+[00:39:11.320 --> 00:39:11.680] Yeah.
+[00:39:11.980 --> 00:39:12.060] Yeah.
+[00:39:12.200 --> 00:39:13.100] Pretty much at the top.
+[00:39:13.580 --> 00:39:17.600] Then it says, you know, save 6% on blade refills, never run out.
+[00:39:17.760 --> 00:39:20.740] I love that there's just a call out for subscription.
+[00:39:21.060 --> 00:39:26.920] And then if you click that, it is like the simplest module to use to choose your subscription
+[00:39:26.920 --> 00:39:27.300] cadence.
+[00:39:27.860 --> 00:39:30.060] The cart itself, I think is okay.
+[00:39:30.380 --> 00:39:31.420] I like that at the top.
+[00:39:31.560 --> 00:39:35.140] You can see the difference between economy shipping and ground shipping.
+[00:39:35.400 --> 00:39:35.780] Yeah.
+[00:39:35.920 --> 00:39:36.820] That is so good.
+[00:39:37.040 --> 00:39:37.320] Yeah.
+[00:39:37.320 --> 00:39:41.540] I think people always want, people are like, wait, I thought ground shipping was like the
+[00:39:41.540 --> 00:39:42.760] worst option I could get.
+[00:39:42.900 --> 00:39:43.020] Yeah.
+[00:39:43.180 --> 00:39:43.380] Yeah.
+[00:39:43.440 --> 00:39:45.540] What do you mean I have to like work towards ground?
+[00:39:45.680 --> 00:39:49.640] So then you want to work towards ground after you pass economy shipping too.
+[00:39:49.880 --> 00:39:51.740] So there's the number up top.
+[00:39:51.860 --> 00:39:54.780] It says, you know, $10 away from free economy shipping.
+[00:39:54.780 --> 00:40:00.860] Once you go past that, it doesn't say, you know, you're $30 away from ground shipping.
+[00:40:01.200 --> 00:40:05.220] It says free economy shipping unlocked in all green.
+[00:40:05.440 --> 00:40:10.060] So it's like you're getting these like little serotonin signals as you're going.
+[00:40:10.280 --> 00:40:10.700] All right.
+[00:40:10.800 --> 00:40:11.600] Then you hit checkout.
+[00:40:11.920 --> 00:40:13.140] You go to this page.
+[00:40:13.360 --> 00:40:14.840] You basically seize your cart again.
+[00:40:15.400 --> 00:40:15.540] Yeah.
+[00:40:15.680 --> 00:40:17.040] That's the part that I think is wrong here.
+[00:40:17.160 --> 00:40:19.180] I think they have two cart pages, which is weird.
+[00:40:19.180 --> 00:40:26.500] They're basically trying to upsell you adjacent products versus previously they were upselling
+[00:40:26.500 --> 00:40:31.160] you like basically a better razor than the one that you had in your cart.
+[00:40:31.800 --> 00:40:36.400] Here they're trying to upsell you like deodorant and face lotion and bar soap.
+[00:40:36.900 --> 00:40:40.620] And I do think this is like a waste of, this is a waste of a click.
+[00:40:40.780 --> 00:40:43.820] And there's probably some drop off that they're going to see there.
+[00:40:44.000 --> 00:40:46.720] But yeah, then it just goes into the full thing.
+[00:40:46.720 --> 00:40:51.200] And I think the one thing that probably does cause friction is they make you create an
+[00:40:51.200 --> 00:40:56.340] account before you can check out versus check out and then create an account where the probability
+[00:40:56.340 --> 00:40:57.900] is probably going to be way higher.
+[00:40:58.500 --> 00:41:02.980] And one last thing I'll say about Harry's that I think they do really well after you buy
+[00:41:02.980 --> 00:41:05.380] is they start asking you a bunch of questions.
+[00:41:05.520 --> 00:41:06.380] Hey, when's your birthday?
+[00:41:06.880 --> 00:41:09.080] Do you shave with the grain or against the grain?
+[00:41:09.260 --> 00:41:13.100] And they collect all this feedback that, you know, I don't know how they use it.
+[00:41:13.100 --> 00:41:19.140] My guess is they tailor a lot of the communications either now or they plan to in the future based
+[00:41:19.140 --> 00:41:22.760] on what they know about you and how you interact using their products.
+[00:41:23.340 --> 00:41:24.880] Yeah, I think that's great.
+[00:41:25.020 --> 00:41:28.180] You know who's doing that is, and we're an investor in this company, so Kendo, they're
+[00:41:28.180 --> 00:41:32.620] doing a bunch of like surveys in the middle of the checkout process to try and give you
+[00:41:32.620 --> 00:41:34.760] information that you can utilize later on.
+[00:41:35.000 --> 00:41:36.520] A couple of things about what you just said.
+[00:41:36.600 --> 00:41:40.180] The one is you're so right about the create an account at the end.
+[00:41:40.180 --> 00:41:42.400] And fuck, that is genius of you to notice that.
+[00:41:42.840 --> 00:41:43.800] I'm so used to this.
+[00:41:43.880 --> 00:41:45.560] I'm like, yeah, of course you should create an account at the beginning.
+[00:41:45.720 --> 00:41:48.580] You should always ask for password post checkout.
+[00:41:48.820 --> 00:41:50.200] In fact, don't even ask for password.
+[00:41:50.480 --> 00:41:54.440] When these people want to modify it, let them go in and try and log in and be like, you
+[00:41:54.440 --> 00:41:55.360] put in your email address.
+[00:41:55.500 --> 00:41:56.520] Okay, we don't have a password.
+[00:41:56.660 --> 00:42:00.840] We're just sending you a forgot password email so you can reset your password and make
+[00:42:00.840 --> 00:42:01.800] it whatever you want now.
+[00:42:02.040 --> 00:42:05.700] Why are you making them put in a password now and creating all this friction right now?
+[00:42:05.840 --> 00:42:08.220] I think that's absolutely a great point.
+[00:42:08.220 --> 00:42:13.700] The other thing that I really like on their checkout page is it's very clear what ships
+[00:42:13.700 --> 00:42:15.460] today and what it's going to be charged later on.
+[00:42:15.560 --> 00:42:18.300] But even below that, they're like, quality guarantee.
+[00:42:18.300 --> 00:42:19.820] If you don't love Harry's, it's on us.
+[00:42:19.920 --> 00:42:20.600] Email reminders.
+[00:42:20.620 --> 00:42:21.600] We send you emails.
+[00:42:21.800 --> 00:42:25.720] I was looking at Ruggable recently for this as well because I'm trying to optimize a couple
+[00:42:25.720 --> 00:42:26.460] of people's sites.
+[00:42:26.680 --> 00:42:30.800] And I'm like, what notifications do you have near the call to action to really make it a
+[00:42:30.800 --> 00:42:31.240] success?
+[00:42:31.400 --> 00:42:35.680] Like free shipping guarantee, easy returns, secure checkout.
+[00:42:35.680 --> 00:42:38.600] We accept PayPal, 5,000 five-star reviews.
+[00:42:38.760 --> 00:42:43.660] Like what are the icons and call outs that you have right next to make purchase or complete
+[00:42:43.660 --> 00:42:48.100] purchase to get everyone excited or like to get people over the hump right before they
+[00:42:48.100 --> 00:42:49.080] click complete purchase?
+[00:42:49.240 --> 00:42:53.060] I remember at Native, we didn't used to have like a little lock that said this form is
+[00:42:53.060 --> 00:42:54.160] a secure checkout.
+[00:42:54.360 --> 00:42:56.140] And people would be like, I don't see the lock.
+[00:42:56.160 --> 00:42:56.860] So I didn't purchase.
+[00:42:57.020 --> 00:42:59.240] And I'm like, the lock is a fucking image, guys.
+[00:42:59.800 --> 00:43:01.140] It's literally an icon.
+[00:43:01.280 --> 00:43:01.920] Yeah, it's an image.
+[00:43:02.060 --> 00:43:02.680] It's not anything.
+[00:43:02.680 --> 00:43:05.160] And so I was like, why am I yelling at these people?
+[00:43:05.420 --> 00:43:07.020] They're yelling at me and I'm yelling back.
+[00:43:07.100 --> 00:43:08.860] What I should be doing is putting in that lock.
+[00:43:09.040 --> 00:43:12.400] It didn't take long before we put in that lock on Native's checkout page to get people
+[00:43:12.400 --> 00:43:13.140] to make a purchase.
+[00:43:13.640 --> 00:43:13.780] Yeah.
+[00:43:14.520 --> 00:43:17.620] The other people that do shipping really well is Allbirds, I think, which, you know, the
+[00:43:17.620 --> 00:43:20.200] Harry's guys and Allbirds guys went to like business school together.
+[00:43:20.320 --> 00:43:23.760] So it makes a ton of sense that they all do this well is like if you're checking out
+[00:43:23.760 --> 00:43:27.080] on Allbirds at Shopify, they say like when you're checking out, they're like, do you want
+[00:43:27.080 --> 00:43:32.580] fast-ish shipping, faster shipping, super fast shipping or fastest shipping?
+[00:43:32.740 --> 00:43:36.180] Like they give you four options and they call it even the slowest one, which is like
+[00:43:36.180 --> 00:43:38.400] three to 12 business days, fast-ish.
+[00:43:38.600 --> 00:43:42.860] But they use fast and then in parentheses they write ish, which I think is great for their
+[00:43:42.860 --> 00:43:43.280] brand.
+[00:43:43.460 --> 00:43:44.320] It's like very human.
+[00:43:44.700 --> 00:43:48.980] And it's like, you know, okay, these are my options and this is fast, but like fastest
+[00:43:48.980 --> 00:43:50.200] is going to cost me some money.
+[00:43:50.440 --> 00:43:52.060] You know, everyone wants two-day shipping.
+[00:43:52.300 --> 00:43:55.940] Everyone wants Amazon Prime shipping and nobody wants to pay anybody else Amazon Prime.
+[00:43:56.600 --> 00:44:01.540] Nobody's going to pay Allbirds $155 a year to be able to get two-day shipping for the three
+[00:44:01.540 --> 00:44:04.280] times a year that they purchase Allbirds, but everyone wants the two-day shipping.
+[00:44:04.400 --> 00:44:06.960] And they do a good job of being like, look, here are the options, I think.
+[00:44:07.060 --> 00:44:08.560] And I really admire them for that.
+[00:44:09.160 --> 00:44:15.580] The names of your shipping rules or your shipping methods in the back end of Shopify or whatever
+[00:44:15.580 --> 00:44:18.100] you use is such an easy opportunity.
+[00:44:18.140 --> 00:44:22.800] Like as somebody is going through this process of, oh shit, I'm about to spend, you know, 40
+[00:44:22.800 --> 00:44:27.740] bucks on this, just getting a little like little smirk out of somebody is going to earn you
+[00:44:27.740 --> 00:44:28.440] that next click.
+[00:44:28.680 --> 00:44:33.100] I feel like the entire checkout process, you have to earn every single click.
+[00:44:33.480 --> 00:44:37.360] And that is just one thing that's going to, you know, help you get that click as somebody
+[00:44:37.360 --> 00:44:38.220] is going through the checkout.
+[00:44:38.720 --> 00:44:42.420] And like the more human you can appear, the more likely it is that people are going to
+[00:44:42.420 --> 00:44:43.180] make that purchase.
+[00:44:43.400 --> 00:44:46.880] Like one of the things that people don't want is to purchase from a big vacuum where you're
+[00:44:46.880 --> 00:44:48.380] never going to get good customer service.
+[00:44:48.380 --> 00:44:53.820] And so if you can appear like you're a smaller business and make it appear really human, I
+[00:44:53.820 --> 00:44:57.500] think you're going to do a better job converting customers than you will if you're like, you
+[00:44:57.500 --> 00:44:58.880] know, using corporate lingo.
+[00:44:59.700 --> 00:45:03.100] There's two checkout flows I went through recently for inspiration.
+[00:45:03.620 --> 00:45:05.320] And I think both are really good.
+[00:45:05.540 --> 00:45:08.300] One is Ridge.com, the Ridge Wallet site.
+[00:45:08.500 --> 00:45:08.620] Yeah.
+[00:45:09.000 --> 00:45:12.940] Their checkout is, it's still on Shopify, but you can't tell it's on Shopify.
+[00:45:12.940 --> 00:45:14.000] But it doesn't look like it's on Shopify.
+[00:45:14.320 --> 00:45:15.400] Actually, I did this as well.
+[00:45:15.500 --> 00:45:15.720] Yeah, yeah.
+[00:45:15.820 --> 00:45:16.800] And I was like, is this Shopify?
+[00:45:16.960 --> 00:45:17.980] And I had to go to Vue source code.
+[00:45:17.980 --> 00:45:18.160] Yeah.
+[00:45:18.320 --> 00:45:18.560] Yeah.
+[00:45:19.260 --> 00:45:21.160] Another one is Obvi.
+[00:45:21.440 --> 00:45:22.060] Have you seen theirs?
+[00:45:22.280 --> 00:45:24.100] Theirs also doesn't really feel like Shopify.
+[00:45:25.240 --> 00:45:27.620] It's myobvi.com.
+[00:45:27.920 --> 00:45:30.660] And like if you just add something to the cart.
+[00:45:31.160 --> 00:45:31.600] Okay.
+[00:45:31.740 --> 00:45:33.540] So first of all, they have this like gamified cart.
+[00:45:33.740 --> 00:45:36.460] You get free gifts with every threshold you hit.
+[00:45:36.640 --> 00:45:42.920] So if I spend 75, I just earned a free gift, a moisturizing face mask.
+[00:45:43.060 --> 00:45:44.120] It drops in the cart.
+[00:45:44.400 --> 00:45:45.040] It's zero.
+[00:45:45.160 --> 00:45:46.140] You know, it doesn't have the price.
+[00:45:46.240 --> 00:45:47.240] It just says free gift.
+[00:45:47.800 --> 00:45:51.340] And then it's like, you know, now you're $6 away from a hairbrush.
+[00:45:51.780 --> 00:45:52.160] Yeah.
+[00:45:52.720 --> 00:45:54.060] So anyways, I think that's awesome.
+[00:45:54.340 --> 00:45:57.700] Then you actually hit checkout and you get into the cart itself.
+[00:45:58.960 --> 00:46:01.980] And it is completely branded for Obvi.
+[00:46:02.860 --> 00:46:04.960] Colors, there's like, I don't know how they did this.
+[00:46:04.960 --> 00:46:10.020] There's a scrolling carousel on top with customers holding the product smiling.
+[00:46:10.280 --> 00:46:11.860] Like you're seeing the social proof.
+[00:46:12.120 --> 00:46:15.040] They have, you know, enhance your results with two upsells.
+[00:46:15.200 --> 00:46:16.720] There's the satisfaction guarantee.
+[00:46:16.960 --> 00:46:20.780] Like everything here to earn your click is right there.
+[00:46:20.780 --> 00:46:21.500] Yeah.
+[00:46:21.760 --> 00:46:24.700] That why over 150,000 customers trust Obvi.
+[00:46:25.220 --> 00:46:27.580] You know, satisfaction guarantee, free shipping.
+[00:46:28.140 --> 00:46:28.280] Yeah.
+[00:46:28.580 --> 00:46:29.560] Manufacturing a good facility.
+[00:46:29.980 --> 00:46:32.280] Those are like fantastic things to put right there.
+[00:46:32.400 --> 00:46:33.800] Like you're like, okay, I trust this brand.
+[00:46:34.280 --> 00:46:40.540] The only thing I think I would criticize is there's a lot of payment options available to check out.
+[00:46:41.060 --> 00:46:48.620] I do know that if you're on mobile, that could easily take up probably like 30% of the page if you're using all five.
+[00:46:48.920 --> 00:46:49.340] Wow.
+[00:46:49.500 --> 00:46:50.560] Oh, the express checkout.
+[00:46:50.720 --> 00:46:50.840] Yeah.
+[00:46:51.160 --> 00:46:51.500] Yeah.
+[00:46:51.580 --> 00:46:55.880] I'd probably drop down to like ShopPay, PayPal, and maybe one other.
+[00:46:56.460 --> 00:47:00.700] But obviously depending on like, you know, what your usage is, you can figure out your top three.
+[00:47:01.440 --> 00:47:04.680] But yeah, this is another one that I love looking at for like inspiration.
+[00:47:05.120 --> 00:47:06.240] This is really good.
+[00:47:06.380 --> 00:47:07.840] I haven't looked at their checkout in the past.
+[00:47:07.840 --> 00:47:16.940] You know, the one thing I would say, the one criticism I have for Shopify was that even on Obvi's website, it says discount applied at...
+[00:47:16.940 --> 00:47:17.820] Oh, I love it.
+[00:47:17.880 --> 00:47:19.600] They've got Obvi's protection, by the way.
+[00:47:19.940 --> 00:47:20.300] Amazing.
+[00:47:20.860 --> 00:47:21.300] Yeah.
+[00:47:21.360 --> 00:47:22.200] They've got their own route.
+[00:47:22.320 --> 00:47:22.640] I love it.
+[00:47:22.980 --> 00:47:30.260] But really like one of my biggest criticism for Shopify was there was never an easy way to apply a discount at the cart page.
+[00:47:30.400 --> 00:47:31.960] You always had to do it at checkout.
+[00:47:31.960 --> 00:47:40.340] So like when we switched from WooCommerce to Shopify, one of the biggest problems was people would be dropping off on the cart page because there was like, I don't see a place to enter the coupon code.
+[00:47:40.520 --> 00:47:42.000] So I'm not going to complete purchase.
+[00:47:42.140 --> 00:47:46.880] They didn't realize you have to go all the way to the checkout page to be able to apply a coupon code.
+[00:47:47.220 --> 00:47:53.520] And, you know, it's a little easier if you sort of have emails that you send out an email and the code is auto applied.
+[00:47:53.520 --> 00:47:56.220] But I thought that that was a big problem with Shopify.
+[00:47:56.460 --> 00:47:59.940] Like they didn't allow you to apply a coupon code on the cart page.
+[00:48:00.160 --> 00:48:02.060] And that definitely cost us sales.
+[00:48:02.480 --> 00:48:05.100] Native built a custom version to be able to do this.
+[00:48:05.200 --> 00:48:06.280] I'm not sure if they still use it.
+[00:48:06.420 --> 00:48:07.760] I've been on their website in a little bit.
+[00:48:07.840 --> 00:48:13.440] But we built a custom thing to be able to apply discounts on cart pages because there was that much drop off.
+[00:48:13.620 --> 00:48:15.360] And we're like, you know, Shopify isn't building this.
+[00:48:15.440 --> 00:48:16.380] We have to build this ourselves.
+[00:48:17.000 --> 00:48:17.180] Yeah.
+[00:48:17.420 --> 00:48:19.680] So Native has it at the top.
+[00:48:20.180 --> 00:48:24.100] I actually took inspiration from the cart you built.
+[00:48:24.320 --> 00:48:30.460] And on the long weekend cart, we also put it in the slide out cart not to wait for checkout for the same reason.
+[00:48:31.040 --> 00:48:32.120] Yeah, everyone should do that.
+[00:48:32.240 --> 00:48:36.840] It really will improve conversion rates by having the discount code on the cart page rather than the checkout page.
+[00:48:37.460 --> 00:48:37.980] All right.
+[00:48:38.100 --> 00:48:41.540] Should we go into benchmarks or should we wrap it here?
+[00:48:41.740 --> 00:48:43.240] I think we got to wrap it here.
+[00:48:43.560 --> 00:48:48.760] This is going to be the last one before Black Friday, which is super exciting.
+[00:48:49.680 --> 00:48:56.780] Excited to do our next one to see how everyone performed on Black Friday, what issues they had and what was good and what was great.
+[00:48:57.260 --> 00:49:03.740] If you hear this, please tweet us or DM us your Black Friday, your quick report.
+[00:49:03.840 --> 00:49:04.640] What's your high level?
+[00:49:04.980 --> 00:49:06.180] How did it compare to last year?
+[00:49:06.460 --> 00:49:11.300] We won't reveal any numbers, but it'd be fun to talk through it and see what people are going through.
+[00:49:11.820 --> 00:49:12.660] Yeah, absolutely.
+[00:49:12.920 --> 00:49:13.500] That's a great point.
+[00:49:13.600 --> 00:49:14.300] DM us.
+[00:49:14.300 --> 00:49:20.320] If we can talk about it publicly without mentioning your brand name or your personal name or your Twitter handle, that's great.
+[00:49:20.460 --> 00:49:21.800] We're just going to talk about it at a high level.
+[00:49:22.040 --> 00:49:25.200] Brand A did this much in 2021 and this much in 2022.
+[00:49:25.540 --> 00:49:27.420] We'd love to be able to show those comparisons.
+[00:49:27.800 --> 00:49:32.560] If you're posting a triple whale or Shopify screenshot, please tag us at limited supply.
+[00:49:32.860 --> 00:49:34.460] We want to be able to see all of those.
+[00:49:34.460 --> 00:49:40.380] So I'm definitely going to be looking at that hashtag on Black Friday and the Saturday afterwards.
+[00:49:40.780 --> 00:49:45.300] This is going to segue really well into the benchmarks conversation we're going to have next week, Nick.
+[00:49:45.300 --> 00:49:45.500] Yeah.
+[00:49:45.660 --> 00:49:53.120] And how to understand benchmarks and how somebody needs to create a benchmark company so everyone can understand how they're performing compared to their peers better.
+[00:49:53.380 --> 00:49:55.260] But we're going to do this through Twitter this week.
+[00:49:55.800 --> 00:49:56.060] Awesome.
+[00:49:56.700 --> 00:49:57.180] Awesome.
+[00:49:57.400 --> 00:49:58.980] So super excited about this.
+[00:49:59.180 --> 00:50:00.640] Happy Thanksgiving to everyone.
+[00:50:00.980 --> 00:50:01.300] Yeah, happy Thanksgiving.
+[00:50:01.300 --> 00:50:02.160] Good luck on Black Friday.
+[00:50:02.580 --> 00:50:04.020] Thanks for always listening.
+[00:50:04.610 --> 00:50:05.900] Yeah, we're grateful for that.
+[00:50:06.000 --> 00:50:07.100] And we thank you for that.
+[00:50:07.280 --> 00:50:14.640] And if I can give you one piece of advice going into Black Friday is if you're thinking that you're sending out too many emails, you're not.
+[00:50:14.780 --> 00:50:15.440] Send out one more.
+[00:50:15.740 --> 00:50:16.120] Yeah.
+[00:50:16.620 --> 00:50:17.100] All right.
+[00:50:17.180 --> 00:50:18.020] We'll see you next week.
+[00:50:18.320 --> 00:50:18.980] Thanks, guys.
+[00:50:19.860 --> 00:50:20.780] Thanks for tuning in.
+[00:50:20.900 --> 00:50:24.500] We'll be back next time to cut through the noise in CPG, retail, and e-commerce.
+[00:50:24.840 --> 00:50:28.180] And if you enjoyed this episode, then why not share it with a friend?
+[00:50:28.360 --> 00:50:32.040] And be sure to subscribe wherever you listen so you don't miss the next one.

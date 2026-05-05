@@ -1,0 +1,1086 @@
+[00:00:00.000 --> 00:00:01.960] Who's the world's favorite accessible superhero?
+[00:00:02.320 --> 00:00:27.760] This guy is so smart. He built so much fame and then basically vertically integrated all the pieces around him, mainly with a studio. And this man, his name is Ryan Reynolds. He's the sexiest man alive. He's rich. He's ripped. He's the biggest movie star. You're supposed to hate this guy, but people love this guy because he's just him everywhere.
+[00:00:27.760 --> 00:00:41.940] That's actually been their biggest lever of growth is the way that they do marketing is just very riot. It's such a good example of how to be on brand without having to have everything be so polished and buttoned up.
+[00:00:42.520 --> 00:00:48.340] This is Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:48.600 --> 00:00:52.120] We're your hosts, Nick and Moyes. Let's start talking about money.
+[00:00:53.100 --> 00:00:57.200] Limited Supply listeners should think about adding a mobile app to their marketing mix.
+[00:00:57.200 --> 00:01:03.500] Mobile apps can be customized by TapCart and they can improve your retention strategy and make your customers stickier.
+[00:01:03.740 --> 00:01:09.600] And it'll provide a really smooth way for customers to shop online and it's the best way to engage customers wherever they are.
+[00:01:10.220 --> 00:01:13.940] Limited Supply listeners can get two months free at tapcart.com slash limited.
+[00:01:14.520 --> 00:01:24.140] Okay, Nick. Limited Supply Season 3, Episode 12, last episode of the season. It's going to be a juicy one. A lot of stuff to talk about.
+[00:01:24.140 --> 00:01:29.340] It is going to be a good one. Your camera looks like you're at a gas station on the CCTV cam.
+[00:01:31.660 --> 00:01:32.640] I am.
+[00:01:33.540 --> 00:01:37.580] You know, years if not decades of that type of footage with me.
+[00:01:37.580 --> 00:01:43.000] Actually, did you? You know, my favorite videos to watch on YouTube are, you know, like police chases.
+[00:01:43.340 --> 00:01:50.260] Somebody pulls somebody over in a DUI and it's like 17 minutes long, which reminded me with the gas station camera.
+[00:01:50.460 --> 00:01:54.240] Did you ever catch people like trying to steal stuff? And if so, what was the tell?
+[00:01:55.320 --> 00:02:02.140] I caught them like red handed. I remember one guy, I was probably 12 and I was like, you need to leave now and don't ever come back.
+[00:02:02.400 --> 00:02:05.040] It was mainly that type of punishment. It wasn't like, okay, great.
+[00:02:05.340 --> 00:02:08.520] Although I do think that back then the police would do something about that kind of stuff.
+[00:02:08.620 --> 00:02:11.600] They might be like, you know, I don't know, it could be a fine or arrest you or something.
+[00:02:11.840 --> 00:02:15.300] But you know, I'm not going to call the police over a $5 item.
+[00:02:15.560 --> 00:02:17.260] I was just like, don't ever come back here.
+[00:02:17.960 --> 00:02:20.480] But yeah, I specifically remember that.
+[00:02:20.620 --> 00:02:22.040] And you know, what was the tell?
+[00:02:22.540 --> 00:02:30.560] You know, they were standing really close to the counter and they were trying to get you to turn your back or they were just like looking at you and something felt suspicious.
+[00:02:30.780 --> 00:02:33.460] Like, you know, when you get feeling like something here, is it right?
+[00:02:33.620 --> 00:02:34.960] It felt that way with the guy.
+[00:02:36.520 --> 00:02:46.240] I remember once accidentally stealing something like putting a pack of gum in my pocket so that I could take it to the register and just getting called outside and leaving.
+[00:02:46.240 --> 00:02:50.100] And then later I went home and I was like, oh, fuck, I stole something.
+[00:02:50.360 --> 00:02:51.440] Maybe I should go back.
+[00:02:51.540 --> 00:02:52.980] And I was like, no, that's fine.
+[00:02:53.260 --> 00:02:53.820] When was that?
+[00:02:55.320 --> 00:02:57.020] This was last week.
+[00:02:57.120 --> 00:02:57.540] No, I'm just kidding.
+[00:02:57.640 --> 00:02:59.180] It was probably like, yeah.
+[00:03:00.200 --> 00:03:02.280] No, this was probably, this was when I was in San Diego.
+[00:03:02.440 --> 00:03:03.560] So probably over a decade.
+[00:03:03.920 --> 00:03:04.180] Gotcha.
+[00:03:04.380 --> 00:03:04.520] Gotcha.
+[00:03:05.360 --> 00:03:07.420] Okay, Nick, bunch of stuff to talk about today.
+[00:03:07.780 --> 00:03:13.000] I'm gonna go a little bit of reverse order on the agenda that I've got all birds crazy what's happening at all birds.
+[00:03:13.120 --> 00:03:19.920] I want to get into that some stuff at Birchbox, which is acquired by a company called Femtech stuff going on in Stripe.
+[00:03:20.060 --> 00:03:23.140] They closed around some mattress stuff, some coffee stuff.
+[00:03:23.340 --> 00:03:25.640] But before we get to any of that, I want to talk about a slack.
+[00:03:25.640 --> 00:03:27.540] This is our last episode of season three.
+[00:03:27.780 --> 00:03:30.660] We're taking a quick break between season three and season four.
+[00:03:31.140 --> 00:03:39.180] Oh, we're going to start a slack channel, an e-commerce focused slack channel where people can reach out to you and I and communicate with each other and can sign up for it.
+[00:03:39.260 --> 00:03:40.440] What's the URL here?
+[00:03:42.400 --> 00:03:43.640] It's limitedsupplypod.com.
+[00:03:44.340 --> 00:03:49.820] Or if for any reason that doesn't work, and again, we're recording this episode a couple weeks before this comes out.
+[00:03:49.980 --> 00:03:56.460] So if for any reason that URL is not working, the backup will just be nick.co slash slack.
+[00:03:57.220 --> 00:04:00.000] But either will work and hopefully the first one works.
+[00:04:00.240 --> 00:04:04.080] Also, by the way, I had to tell you, you would be so proud.
+[00:04:04.340 --> 00:04:05.880] Guess how much I paid for this domain?
+[00:04:06.500 --> 00:04:07.040] $8.99.
+[00:04:07.740 --> 00:04:08.520] One penny.
+[00:04:10.120 --> 00:04:10.880] That's pretty good.
+[00:04:10.940 --> 00:04:11.900] You found a good coupon code?
+[00:04:12.820 --> 00:04:14.460] Yeah, GoDaddy new customer special.
+[00:04:15.020 --> 00:04:15.540] Okay, gotcha.
+[00:04:15.680 --> 00:04:20.020] But look, you must have 15, you just have, how are they still allowing you to do a new customer special?
+[00:04:20.520 --> 00:04:21.780] I just made a different account.
+[00:04:21.940 --> 00:04:22.120] Yeah.
+[00:04:23.060 --> 00:04:25.100] Yeah, I've got 14 GoDaddy accounts.
+[00:04:27.520 --> 00:04:29.060] I'm excited about that slack channel.
+[00:04:29.760 --> 00:04:30.460] Yeah, me too.
+[00:04:30.620 --> 00:04:39.880] Honestly, the, you know, I have one slack channel that I started a while ago and it's like, there's probably 80 people in there, but it's all, it's so productive.
+[00:04:39.880 --> 00:04:46.700] Like, it's not what I think a lot of people think when they get into a slack channel, which is just constant chatter amongst a bunch of nerds.
+[00:04:46.800 --> 00:04:48.040] Like these nerds are working.
+[00:04:48.260 --> 00:04:49.740] And so it's more just questions.
+[00:04:49.860 --> 00:04:50.540] Hey, what do you think?
+[00:04:50.720 --> 00:04:52.660] You know, what should somebody do in this instance?
+[00:04:52.660 --> 00:04:55.260] Oh, what do we use for this app?
+[00:04:55.320 --> 00:04:57.740] Or what are your experiences with a firm?
+[00:04:57.740 --> 00:05:03.200] And it's so useful to just have access to and be able to get answers quickly.
+[00:05:03.520 --> 00:05:04.200] That's awesome.
+[00:05:04.420 --> 00:05:04.800] Great.
+[00:05:04.920 --> 00:05:05.860] I'm excited about our words.
+[00:05:05.940 --> 00:05:07.360] I'm going to be super active in it.
+[00:05:07.440 --> 00:05:09.600] So please join and communicate with us.
+[00:05:09.980 --> 00:05:10.720] Really quickly.
+[00:05:10.720 --> 00:05:14.140] I got a couple of things that I think I should put on the agenda as well.
+[00:05:14.400 --> 00:05:16.080] And we can decide which ones we get to.
+[00:05:16.080 --> 00:05:19.500] One is the world's favorite accessible superhero.
+[00:05:19.840 --> 00:05:26.520] The other one is a multi-billion dollar company that most people who are listening to this have never heard of.
+[00:05:27.200 --> 00:05:30.300] Well, let's start with the Stripe stuff because this is super interesting.
+[00:05:30.660 --> 00:05:33.180] And it just happened this last week, if that's okay with you.
+[00:05:34.180 --> 00:05:35.220] Yes, everyone knows Stripe.
+[00:05:35.340 --> 00:05:38.840] Stripe is, you know, one of the world's best privately held companies.
+[00:05:39.220 --> 00:05:41.040] It has been private for a really long time.
+[00:05:41.220 --> 00:05:43.860] I think they explored some sort of IPO last year.
+[00:05:44.160 --> 00:05:47.220] I heard rumors that they're exploring something again next year as well.
+[00:05:47.900 --> 00:05:54.100] Two years ago, they raised money, a Series H I think it was, and they raised it at $95 billion valuation.
+[00:05:54.760 --> 00:05:56.080] That was two years ago.
+[00:05:56.320 --> 00:05:57.320] Is that the eighth round?
+[00:05:58.120 --> 00:05:59.060] Yeah, I think so.
+[00:05:59.520 --> 00:06:00.620] Because I is nine.
+[00:06:00.780 --> 00:06:01.800] So yeah, I think H is eight.
+[00:06:02.120 --> 00:06:08.560] But I'm not sure if like that's, you know, I feel like when you're raising this much money, I'm not sure if every round counts as like a letter, you know?
+[00:06:08.860 --> 00:06:12.240] Like you might be like, oh yeah, we add another $10 million from something.
+[00:06:12.800 --> 00:06:13.420] I'm like, sure.
+[00:06:13.640 --> 00:06:15.040] We let Shopify invest.
+[00:06:15.200 --> 00:06:16.700] I'm not sure if that's a separate series.
+[00:06:17.080 --> 00:06:20.180] Any case, it was $95 billion 10 years ago.
+[00:06:20.760 --> 00:06:27.240] And they just raised again in this past week or maybe two, yeah, last eight days at a $50 billion valuation.
+[00:06:27.660 --> 00:06:30.660] So about half of the valuation that they were trading at two years ago.
+[00:06:31.180 --> 00:06:32.340] That's not that surprising.
+[00:06:32.500 --> 00:06:35.480] A bunch of businesses have fallen off of a cliff when it comes to valuation.
+[00:06:35.740 --> 00:06:37.860] And we're going to get into a couple of those later on.
+[00:06:37.860 --> 00:06:47.640] But I thought what was even more interesting was although they raised it $95 billion in like 2020, they were actually trading at around $180 billion in like the secondary market.
+[00:06:48.120 --> 00:06:54.660] Like I think if you invested something like $40 a share, we'd have to have $80 a share or maybe have those numbers 2xed.
+[00:06:54.960 --> 00:07:00.600] But basically, look, they raised it $95 billion and they were trading at $180 billion until about a year ago.
+[00:07:00.600 --> 00:07:02.420] And now the valuation is $50 billion.
+[00:07:02.520 --> 00:07:05.500] So they've actually dropped nearly 75% in balance.
+[00:07:06.380 --> 00:07:16.480] So for people like me who have no idea what the secondary market is and also how you buy it, you don't have to disclose the name of the company, but what is the secondary market and how are you even seeing this?
+[00:07:16.480 --> 00:07:17.180] Good question.
+[00:07:17.320 --> 00:07:29.180] The secondary market is a bunch of schmucks like me who email back and forth saying, hey, here is a stock of Klaviyo or Stripe or some other privately held company that's for sale.
+[00:07:29.360 --> 00:07:36.720] And so if you invest enough, randomly somebody will reach out and say, hey, Nick, I want to sell Klaviyo shares.
+[00:07:36.720 --> 00:07:37.800] It's not publicly traded.
+[00:07:37.940 --> 00:07:44.100] You can't find it publicly, but I own some either because I was a former employee or I'm an investor or I was an advisor.
+[00:07:44.700 --> 00:07:46.940] You know, I've been holding on to them for a really long time.
+[00:07:47.100 --> 00:07:48.200] I need to buy a house.
+[00:07:48.340 --> 00:07:49.680] I need to put my kid through college.
+[00:07:50.240 --> 00:07:51.880] I want to go vacate.
+[00:07:52.040 --> 00:07:54.820] I want to live in Europe for the rest of my life and be rich.
+[00:07:55.420 --> 00:07:57.380] Nick, I'm selling them to you.
+[00:07:57.520 --> 00:08:02.540] And look, you know, sometimes it'll be at a premium to the last round because the company is doing really well.
+[00:08:02.540 --> 00:08:06.540] Sometimes it'll be at a discount to the last round because the company is doing poorly.
+[00:08:07.000 --> 00:08:23.940] So when Stripe raised it a $95 billion valuation, I think in 2021 or late 2020, a year later, people were selling on the secondary market, emailing each other back and forth saying, hey, I'll sell it to you, but I want $180 billion valuation, not just a $95 billion valuation.
+[00:08:24.240 --> 00:08:27.840] Because Stripe was so phenomenally attractive and everyone wanted to own shares.
+[00:08:27.840 --> 00:08:31.240] Similarly, Clavio used to trade it like a $10 billion valuation.
+[00:08:31.500 --> 00:08:33.500] I think that's where they raised money at last.
+[00:08:33.860 --> 00:08:37.280] Now it trades at like sub $5 billion valuation on the secondary.
+[00:08:37.860 --> 00:08:38.340] Wow.
+[00:08:39.340 --> 00:08:42.480] Do you know the difference between PREF and common, like preferred shares and common?
+[00:08:43.180 --> 00:08:47.240] I'm assuming preferred shares, they go out first, they get paid first, distributions first.
+[00:08:47.500 --> 00:08:47.820] Exactly.
+[00:08:48.000 --> 00:08:49.060] Yeah, they get paid first.
+[00:08:49.180 --> 00:08:53.820] So let's say you invest $10 million in a $100 million company, you usually get preferred shares.
+[00:08:53.820 --> 00:08:58.460] You know, Clavio has only common shares, no preferred shares.
+[00:08:58.740 --> 00:09:07.000] And the difference between those is like, let's say you invest $10 million in a company at $100 million valuation, and it ends up selling for $12 million.
+[00:09:07.720 --> 00:09:10.100] Well, you bought 10% of the business beforehand.
+[00:09:10.280 --> 00:09:13.600] You bought 10 million at $100 million valuation, you own 10% of the business.
+[00:09:13.780 --> 00:09:15.560] Well, now it sells for $12 million.
+[00:09:16.120 --> 00:09:17.580] How much should you get back?
+[00:09:17.780 --> 00:09:18.660] What would be fair?
+[00:09:19.060 --> 00:09:19.820] 1.2.
+[00:09:20.500 --> 00:09:21.240] 1.2.
+[00:09:21.400 --> 00:09:27.500] Well, usually what almost always happens now is you actually get all 10 million back, and the other guys only get 2 million.
+[00:09:27.840 --> 00:09:30.220] Because you have preferred shares as an investor.
+[00:09:30.500 --> 00:09:32.640] I didn't understand that was the preferred shares.
+[00:09:32.720 --> 00:09:32.880] Yeah.
+[00:09:33.100 --> 00:09:36.980] So in this instance, like if you had $10 million of preferred shares, you'd get your $10 million.
+[00:09:37.200 --> 00:09:39.520] You wouldn't get 10% of the business, the 1.2 million.
+[00:09:39.660 --> 00:09:42.820] You'd get all 10 million of your money back because you get paid first.
+[00:09:43.020 --> 00:09:45.900] The minimum you're going to get is 10 million if it sells for more than 10.
+[00:09:45.900 --> 00:09:53.400] When I worked in a startup, this is a tech company, they touted that all the stock was common stock.
+[00:09:53.880 --> 00:09:55.320] What's the benefit of that?
+[00:09:56.100 --> 00:09:56.320] Yeah.
+[00:09:56.400 --> 00:09:59.480] That means that the preferred guys get nothing before employees.
+[00:09:59.780 --> 00:10:02.320] So Klaviyo only has common stock.
+[00:10:02.500 --> 00:10:07.020] But what's the benefit to the investors or the executives that hold the majority?
+[00:10:07.020 --> 00:10:07.580] Yeah.
+[00:10:07.780 --> 00:10:09.380] There's not a benefit to the investors.
+[00:10:09.540 --> 00:10:11.120] It's actually worse for the investors.
+[00:10:11.460 --> 00:10:19.500] The only reason that investors agree to it is if the company is a really, like they really want to invest, and the company has a lot of demand for their stock.
+[00:10:19.700 --> 00:10:23.800] And so they say, okay, actually, we're only agreeing to these terms.
+[00:10:24.260 --> 00:10:27.060] So Klaviyo was like, we only want common shares.
+[00:10:27.320 --> 00:10:28.720] No one will have preferred shares.
+[00:10:28.880 --> 00:10:30.760] If you're not okay with that, don't invest.
+[00:10:30.940 --> 00:10:31.720] We don't care about you.
+[00:10:31.900 --> 00:10:34.180] There's a lot of other people who want to invest in our business.
+[00:10:35.060 --> 00:10:47.240] Stripe, in their $95 billion valuation, I was reading this today on The Guardian, when they raised $95 billion two years ago, they had a term in there that said you're locked up from selling your shares for four years after IPO.
+[00:10:47.680 --> 00:10:49.940] Meaning, let's say they IPO tomorrow.
+[00:10:50.260 --> 00:10:56.160] For four years as an investor, if you're an investor in Stripe today, you cannot sell your shares for four years.
+[00:10:56.820 --> 00:11:02.960] In the last round that they did, I think it closed eight days ago or a couple weeks ago, they removed that term.
+[00:11:02.960 --> 00:11:06.900] The lockup is only six months, which is pretty standard, which is like a market standard.
+[00:11:07.480 --> 00:11:09.360] So they have a lot less leverage.
+[00:11:09.720 --> 00:11:15.040] And that's just basically so when they IPO, nobody is just like dumping it and it takes the stock.
+[00:11:15.180 --> 00:11:15.440] Correct.
+[00:11:15.640 --> 00:11:15.880] Yeah, yeah.
+[00:11:15.880 --> 00:11:21.100] And so two years ago, they had a ton of leverage and say, you have to be locked up for four years.
+[00:11:21.440 --> 00:11:23.060] Today, they have a lot less leverage.
+[00:11:23.200 --> 00:11:25.980] Their valuation is cut by a lot and they don't have that lockup provision.
+[00:11:25.980 --> 00:11:39.800] You know what's interesting is like, so if I look at like Payoneer or PayPal, both trades somewhere around three to four X last year's revenue or 2021 revenue.
+[00:11:40.200 --> 00:11:45.940] And Stripe is almost at the 48 or 50 billion valuation.
+[00:11:46.520 --> 00:11:52.160] It's about four, a little over four times, but at 95, that's almost eight times.
+[00:11:52.720 --> 00:11:53.520] That is, yeah.
+[00:11:54.020 --> 00:11:56.800] That's a great segue into our next.
+[00:11:57.000 --> 00:12:03.400] Let's talk about Allbirds really quickly because they announced earnings and I've been doing like a deep dive on them recently.
+[00:12:04.380 --> 00:12:06.900] And I just want to talk to you about it to get your thoughts.
+[00:12:07.120 --> 00:12:10.680] So yeah, I think valuations have corrected materially in the last two years.
+[00:12:10.800 --> 00:12:13.540] Like two years ago, PayPal was probably trading a lot higher.
+[00:12:14.340 --> 00:12:18.460] But yeah, like where was PayPal two years ago in terms of earnings?
+[00:12:20.300 --> 00:12:21.260] PayPal, so...
+[00:12:21.260 --> 00:12:24.580] Like PayPal stock in the last year is down 34%.
+[00:12:25.220 --> 00:12:26.940] So it was a lot higher valuation too.
+[00:12:27.000 --> 00:12:30.320] Yeah, definitely peaked it looks like around July 2021.
+[00:12:31.020 --> 00:12:31.440] Yeah.
+[00:12:32.220 --> 00:12:32.460] Okay.
+[00:12:32.520 --> 00:12:33.920] Well, let's talk about Allbirds really quickly.
+[00:12:34.280 --> 00:12:34.440] Yeah.
+[00:12:34.840 --> 00:12:38.440] Allbirds is, you know, socially acceptable sweatpants for your feet.
+[00:12:39.060 --> 00:12:39.340] Yeah.
+[00:12:39.480 --> 00:12:40.180] Comfortable shoes.
+[00:12:41.100 --> 00:12:42.080] Everyone knows about them.
+[00:12:42.240 --> 00:12:45.940] They were huge in San Francisco when you and I live, at least when I lived there.
+[00:12:46.100 --> 00:12:46.280] I'm not kidding.
+[00:12:46.280 --> 00:12:46.620] Yeah, I'm not kidding.
+[00:12:46.660 --> 00:12:47.220] Are they huge when you...
+[00:12:47.220 --> 00:12:47.560] Yeah, okay.
+[00:12:48.980 --> 00:12:54.620] So they went public a couple years ago and they had a $4 billion valuation.
+[00:12:55.340 --> 00:13:02.840] Like they started trading at $15 a share and they soared to $33 a share the first day they launched.
+[00:13:03.140 --> 00:13:05.480] So they were valued at $4 billion.
+[00:13:06.160 --> 00:13:07.200] How long ago was this?
+[00:13:07.300 --> 00:13:08.700] Probably in November...
+[00:13:08.700 --> 00:13:09.840] This was, yeah.
+[00:13:10.000 --> 00:13:10.200] 2020.
+[00:13:10.920 --> 00:13:11.200] Yeah.
+[00:13:11.340 --> 00:13:12.380] So how long ago is that?
+[00:13:12.580 --> 00:13:14.680] 18 months ago, less than 18 months ago.
+[00:13:14.940 --> 00:13:15.180] Yeah.
+[00:13:15.600 --> 00:13:16.840] $4 billion valuation.
+[00:13:17.080 --> 00:13:19.680] Today, under $200 million valuation.
+[00:13:20.600 --> 00:13:22.140] So lost $3.8 billion.
+[00:13:22.260 --> 00:13:26.080] But I wanted to go over some of the numbers with you because they came out with their annual report
+[00:13:26.080 --> 00:13:27.380] and I thought it was really interesting.
+[00:13:27.500 --> 00:13:31.620] A couple episodes ago, do you remember we talked about how they had a new CFO and that CFOs make it?
+[00:13:31.760 --> 00:13:31.820] Yeah.
+[00:13:32.160 --> 00:13:35.440] So anyway, I was like digging into their annual report and this is what they said.
+[00:13:35.580 --> 00:13:37.180] They said their average customer...
+[00:13:37.180 --> 00:13:39.800] Do you want to guess the average age of their customers?
+[00:13:39.980 --> 00:13:41.160] Like give me a decade range.
+[00:13:42.460 --> 00:13:43.100] Uh, 40s.
+[00:13:43.640 --> 00:13:44.500] 30 to 40.
+[00:13:44.720 --> 00:13:45.700] So in their 30s.
+[00:13:46.420 --> 00:13:48.400] What's the male-female ratio you think?
+[00:13:48.960 --> 00:13:51.260] Like, man, like maybe 30% male?
+[00:13:51.640 --> 00:13:52.300] 20% male?
+[00:13:52.560 --> 00:13:53.880] And 80% female?
+[00:13:54.780 --> 00:13:55.340] Yeah.
+[00:13:55.400 --> 00:13:56.480] Guess what else would it be?
+[00:13:57.280 --> 00:13:57.840] Yeah.
+[00:13:58.000 --> 00:13:59.880] They say it's 50-50 actually.
+[00:14:00.160 --> 00:14:01.480] That was my first thought.
+[00:14:01.640 --> 00:14:07.140] But I figured that the finance bros and the tech bros that think Allbirds is awesome to wear
+[00:14:07.800 --> 00:14:09.580] represent such a small percentage.
+[00:14:10.140 --> 00:14:14.420] But I guess all their customers are these like tech and finance bros.
+[00:14:14.420 --> 00:14:14.700] Yeah.
+[00:14:14.820 --> 00:14:19.480] I thought it was going to be like 98% men because I thought it would all be tech bros, but I
+[00:14:19.480 --> 00:14:21.020] guess it's more evenly distributed.
+[00:14:21.120 --> 00:14:24.360] It's like the Marin moms, the San Francisco moms love mugs too.
+[00:14:24.420 --> 00:14:24.500] That's right.
+[00:14:24.500 --> 00:14:25.240] Yeah, yeah, yeah, yeah.
+[00:14:25.280 --> 00:14:25.660] You're right.
+[00:14:26.120 --> 00:14:26.480] Okay.
+[00:14:26.660 --> 00:14:27.980] So a few more details.
+[00:14:28.260 --> 00:14:30.860] In 2020, they had 22 stores.
+[00:14:31.360 --> 00:14:31.720] Yeah.
+[00:14:31.720 --> 00:14:33.920] In 2021, they had 35 stores.
+[00:14:33.960 --> 00:14:36.700] And in 2022, they had 58 stores.
+[00:14:36.940 --> 00:14:40.440] So they basically doubled the number of stores they've had in the past two years.
+[00:14:41.060 --> 00:14:43.160] And then I want to give you some revenue numbers.
+[00:14:43.500 --> 00:14:43.660] Yeah.
+[00:14:44.420 --> 00:14:47.680] 2021, $277 million in revenue.
+[00:14:48.240 --> 00:14:48.700] Okay.
+[00:14:49.060 --> 00:14:51.200] 52 million of that was from stores.
+[00:14:51.720 --> 00:14:52.320] Wow.
+[00:14:52.320 --> 00:14:52.420] Wow.
+[00:14:52.920 --> 00:14:54.560] And how many stores did you say they had?
+[00:14:54.680 --> 00:14:58.840] They had 35 stores and 52 million in revenue from those stores.
+[00:14:59.260 --> 00:14:59.400] Wow.
+[00:14:59.400 --> 00:15:00.080] So about one.
+[00:15:00.780 --> 00:15:03.800] About a million and a half in revenue per store.
+[00:15:04.720 --> 00:15:05.520] That's pretty good.
+[00:15:06.220 --> 00:15:06.600] Is it?
+[00:15:06.720 --> 00:15:09.680] That's about like, I mean, look, some of these stores opened up during the year.
+[00:15:09.920 --> 00:15:10.840] So it's unclear.
+[00:15:11.020 --> 00:15:13.060] Like, you know, I don't know how many stores they had every month.
+[00:15:13.240 --> 00:15:15.900] Let's say it's $2 million in revenue per store.
+[00:15:16.660 --> 00:15:19.900] I'm not sure that's very, per year or like they're annualizing that.
+[00:15:20.040 --> 00:15:20.940] I'm not sure that's very good.
+[00:15:21.040 --> 00:15:23.140] Like $150,000 a month in sales.
+[00:15:23.860 --> 00:15:24.280] Yeah.
+[00:15:24.340 --> 00:15:24.820] It's a good point.
+[00:15:24.960 --> 00:15:32.700] I mean, I was saying it was good because my context is a really popular coffee shop here will make 1.5 in their best store.
+[00:15:32.900 --> 00:15:35.800] But yeah, I mean, that AOV also is like $7.
+[00:15:36.260 --> 00:15:36.900] Whereas these-
+[00:15:36.900 --> 00:15:38.020] Are you talking about Blank Street?
+[00:15:38.820 --> 00:15:39.240] No.
+[00:15:39.520 --> 00:15:40.420] No, different one.
+[00:15:40.480 --> 00:15:40.600] Yeah.
+[00:15:40.980 --> 00:15:41.520] But-
+[00:15:41.520 --> 00:15:42.000] Okay.
+[00:15:42.760 --> 00:15:43.180] Yeah.
+[00:15:43.180 --> 00:15:43.760] Yeah.
+[00:15:44.020 --> 00:15:46.820] But yeah, I guess that is pretty low.
+[00:15:47.000 --> 00:15:48.480] I mean, I feel like I'm-
+[00:15:48.480 --> 00:15:54.960] Every time I've walked past Allbirds, San Francisco or New York, especially here in Soho, there's never anybody inside.
+[00:15:55.340 --> 00:15:55.780] Really?
+[00:15:56.200 --> 00:15:56.600] Yeah.
+[00:15:56.740 --> 00:15:58.500] It's fairly empty for the most part.
+[00:15:58.640 --> 00:16:03.640] Every time I have walked in also just to go look at the wall, it's fairly empty.
+[00:16:03.840 --> 00:16:07.740] Maybe at max, like five people in there looking at shoes.
+[00:16:08.060 --> 00:16:08.980] That's so interesting.
+[00:16:08.980 --> 00:16:13.760] I feel like the Allbirds in San Francisco when I used to go, it was below their office.
+[00:16:13.900 --> 00:16:17.860] Their office was in like, right when you get north of like Fideye.
+[00:16:17.960 --> 00:16:19.400] I forgot what that area is called now.
+[00:16:19.620 --> 00:16:22.160] But like right there, their office was above a store.
+[00:16:22.160 --> 00:16:27.940] And every time I'd walk in there, it was packed mostly of Asian tourists actually.
+[00:16:28.240 --> 00:16:31.940] Reminded me of like Louis Vuitton, except a much more accessible price point.
+[00:16:32.420 --> 00:16:33.880] Let me tell you a few other stats.
+[00:16:34.020 --> 00:16:37.600] So they did 52 million in revenue from stores in 2021.
+[00:16:37.960 --> 00:16:40.040] I don't know how much they did in stores from 2022.
+[00:16:40.560 --> 00:16:43.700] Their average rent per store is $20,000.
+[00:16:44.700 --> 00:16:46.300] I'm not sure if that's good or bad.
+[00:16:46.480 --> 00:16:50.780] Like that Soho store, that $20,000 seems like a very reasonable price, but I don't know.
+[00:16:51.000 --> 00:16:52.400] Like it's probably more than that Soho store.
+[00:16:52.720 --> 00:16:56.100] They did $297 million in revenue last year.
+[00:16:56.740 --> 00:16:57.260] Okay.
+[00:16:57.260 --> 00:17:00.360] So basically $300 million in revenue.
+[00:17:00.560 --> 00:17:05.580] But when they announced their earnings, their stock fell off of a cliff because they said
+[00:17:05.580 --> 00:17:12.280] that the fourth quarter of 2022 was the first time they did less in sales than a quarter
+[00:17:12.280 --> 00:17:13.140] a year ago.
+[00:17:13.300 --> 00:17:16.200] So it's the first time they experienced negative growth.
+[00:17:16.740 --> 00:17:17.780] Does that make sense?
+[00:17:17.900 --> 00:17:22.060] Like they did more revenue in Q4 2021 than they did in Q4 2022.
+[00:17:22.600 --> 00:17:22.960] Right.
+[00:17:23.540 --> 00:17:27.160] And their gross margin is 43.5%.
+[00:17:27.160 --> 00:17:28.960] So 57%.
+[00:17:29.500 --> 00:17:35.140] You know what this reminds me of is like the, you know how the, the SAT test as a kid, it's
+[00:17:35.140 --> 00:17:36.560] not really testing your intelligence.
+[00:17:36.860 --> 00:17:44.080] It's testing like how well you take the test, which I feel like similarly Q4 2022, they're
+[00:17:44.080 --> 00:17:46.960] not the only company that didn't beat their 2021 numbers.
+[00:17:47.200 --> 00:17:50.900] Almost every company didn't beat their 2021 Q4 numbers.
+[00:17:52.280 --> 00:17:54.180] And it's mainly Wall Street, right?
+[00:17:54.340 --> 00:17:54.460] Yeah.
+[00:17:54.460 --> 00:17:56.280] The term in stock prices and going up.
+[00:17:56.300 --> 00:17:56.360] Yeah.
+[00:17:56.360 --> 00:17:57.380] Why do they get punished so much?
+[00:17:57.400 --> 00:17:57.560] Yeah.
+[00:17:57.620 --> 00:17:58.720] Why do they get punished for that?
+[00:17:58.860 --> 00:18:05.840] Like that almost sets it up to where a non-software or like non kind of service company that just
+[00:18:05.840 --> 00:18:08.560] grows slowly wouldn't basically work.
+[00:18:09.420 --> 00:18:10.040] Is that right?
+[00:18:10.460 --> 00:18:11.400] I think it would work.
+[00:18:11.500 --> 00:18:15.200] I think the problem with Allbirds is that they're supposed to be super high growth.
+[00:18:15.300 --> 00:18:16.980] They're a high growth young startup, right?
+[00:18:16.980 --> 00:18:20.620] Like, it's not like Nike where everyone's got a pair and you're like, did you come out
+[00:18:20.620 --> 00:18:22.680] with new styles that captivated the market?
+[00:18:23.240 --> 00:18:26.980] It's like, this is a young company that's doing $300 million in revenue.
+[00:18:27.240 --> 00:18:29.040] You're not, already you're not growing.
+[00:18:29.220 --> 00:18:31.140] You're losing money and you're not growing.
+[00:18:31.700 --> 00:18:35.720] How are we going to make money on this business if you can't grow top line and you're losing
+[00:18:35.720 --> 00:18:36.260] a fortune?
+[00:18:36.780 --> 00:18:38.900] Did they say how many employees work at Allbirds?
+[00:18:39.080 --> 00:18:41.240] Like, do we know the revenue per employee?
+[00:18:41.460 --> 00:18:43.320] I don't know the revenue per employee.
+[00:18:43.440 --> 00:18:46.600] I'm sure they say it or how many employees work there because I think you have to legally
+[00:18:46.600 --> 00:18:47.300] disclose that.
+[00:18:47.700 --> 00:18:52.000] In 2021, they did $7.9 million in revenue per store.
+[00:18:52.360 --> 00:18:54.440] In 2022, it's $5.1 million.
+[00:18:54.600 --> 00:18:58.100] And basically in 2023, they're like, we're done opening up new stores.
+[00:18:58.460 --> 00:19:00.500] New stores are not working for us.
+[00:19:00.720 --> 00:19:01.960] So here are the changes they made.
+[00:19:02.020 --> 00:19:03.080] Here's what I thought was really interesting.
+[00:19:03.080 --> 00:19:06.580] They're like, revenue is not doing, like our revenue went down in Q4.
+[00:19:07.120 --> 00:19:09.540] We have a bunch of first generation apparel.
+[00:19:09.720 --> 00:19:12.800] Like we got into like athleisure and that's not working for us right now.
+[00:19:12.940 --> 00:19:14.980] Like people don't love our athleisure products.
+[00:19:15.100 --> 00:19:16.300] So we're not going to really do that anymore.
+[00:19:16.620 --> 00:19:19.800] They said, we're only opening up three stores in 2023.
+[00:19:20.440 --> 00:19:23.600] And all of those are the stores that we signed a lease for in 2022.
+[00:19:23.860 --> 00:19:28.800] We wouldn't do it if we hadn't signed those leases basically, because they're like, stores
+[00:19:28.800 --> 00:19:29.700] aren't working for us.
+[00:19:29.940 --> 00:19:32.960] Then they said internationally before they were like, we're going to open up.
+[00:19:33.080 --> 00:19:35.100] Every market ourselves, we're not going to go wholesale.
+[00:19:35.460 --> 00:19:36.900] Now they're like, fuck international.
+[00:19:36.920 --> 00:19:38.000] We're going to sell it wholesale.
+[00:19:38.260 --> 00:19:41.420] We're not going to go to like Japan and try and sell shoes in Japan.
+[00:19:41.660 --> 00:19:45.280] We're going to find some wholesaler who can sell our shoes in Japan because they'll understand
+[00:19:45.280 --> 00:19:46.300] the Japanese market that.
+[00:19:46.820 --> 00:19:49.920] And they used to make their stuff in New Zealand and they're like, fuck New Zealand.
+[00:19:50.120 --> 00:19:53.080] We're going to make our stuff in Vietnam where Nike makes theirs because it's cheaper.
+[00:19:53.720 --> 00:19:59.200] This is like one reason I'm not a huge fan of investing into anything really apparel.
+[00:19:59.380 --> 00:20:03.020] I feel like apparel companies are kind of like musicians.
+[00:20:03.600 --> 00:20:06.380] 85, 90% of them will come and go.
+[00:20:06.560 --> 00:20:13.100] Like you will either hit the market and crush it or you will really struggle to acquire customers
+[00:20:13.640 --> 00:20:17.160] or you're just really bad at marketing, but your product's phenomenal.
+[00:20:17.160 --> 00:20:20.000] And so it just takes, it's not that you're bad at marketing.
+[00:20:20.140 --> 00:20:21.260] It's just that it doesn't hit.
+[00:20:21.420 --> 00:20:23.980] Like what's an example of one that hit?
+[00:20:24.180 --> 00:20:28.200] Like Everlane, when Everlane came to market, it hit and it worked, right?
+[00:20:28.580 --> 00:20:30.560] But then you look at something like Aritzia.
+[00:20:30.720 --> 00:20:35.500] Aritzia had this slow build over decades and they had a great product.
+[00:20:36.080 --> 00:20:38.600] They didn't hit at first, but they grew into it.
+[00:20:38.700 --> 00:20:41.460] Then you have like a mad happy, which just always hits.
+[00:20:42.160 --> 00:20:47.440] Anyways, I think a lot of apparel, it's like, you know, either it does really, really well
+[00:20:47.440 --> 00:20:50.020] or it's like a slow grind.
+[00:20:50.080 --> 00:20:54.560] And some people will just never see the success of that slow grind because it takes too long.
+[00:20:55.160 --> 00:21:00.740] The other thing that comes to mind is, you know how there's all these like healthy adaptogenic
+[00:21:01.440 --> 00:21:03.820] feng shui beverages you can drink?
+[00:21:03.960 --> 00:21:05.540] Yeah, I think you're drinking one right now.
+[00:21:05.740 --> 00:21:06.380] Well, right, yeah.
+[00:21:06.500 --> 00:21:10.500] Right now I'm drinking the banana cream olipop, which is kind of probiotic soda.
+[00:21:10.500 --> 00:21:11.180] Yeah, that's right.
+[00:21:12.260 --> 00:21:16.760] But these guys actually went, they completed what I'm about to say, which is like, there
+[00:21:16.760 --> 00:21:25.000] is a point in the market where your better for you Gatorade that has adaptogens and mushrooms
+[00:21:25.000 --> 00:21:29.820] and all this shit in it, the market just punches you in the face because it doesn't taste good.
+[00:21:30.000 --> 00:21:34.300] And in apparel, it's like, you know, in that sense, you have to go from, all right, we're
+[00:21:34.300 --> 00:21:38.320] going to be this like mission driven stick to our guns to like, all right, well, if we want
+[00:21:38.320 --> 00:21:41.800] to sell in Walmart, we actually need to taste like fruit punch because that's what that
+[00:21:41.800 --> 00:21:42.840] consumer is looking for.
+[00:21:43.040 --> 00:21:47.480] And I feel like all birds is still on the front side where they're like, no, we're this San
+[00:21:47.480 --> 00:21:50.320] Francisco and sustainable and this and that.
+[00:21:50.320 --> 00:21:53.720] But they haven't just hit the, you know, like what looks good?
+[00:21:53.820 --> 00:21:55.080] What do people actually want to wear?
+[00:21:55.260 --> 00:21:56.280] It's definitely not this.
+[00:21:56.380 --> 00:22:01.520] And I'm sure they could figure out a way where their sustainability or their identity as a
+[00:22:01.520 --> 00:22:04.080] brand carries forward in a much cooler design.
+[00:22:04.260 --> 00:22:07.540] But I feel like the market's just punching them in the face and trying to tell them like,
+[00:22:07.580 --> 00:22:09.080] hey, your shit sucks.
+[00:22:09.080 --> 00:22:10.140] It looks really bad.
+[00:22:10.440 --> 00:22:11.740] No one cares to wear this.
+[00:22:12.060 --> 00:22:14.620] And if you want to survive, you kind of need to change.
+[00:22:14.620 --> 00:22:19.800] You can't just keep harping on the fact that, you know, you're just a Rothy's knockoff.
+[00:22:20.320 --> 00:22:23.460] I think the analogy to musicians is a really apt one.
+[00:22:23.580 --> 00:22:24.740] Like it's hard to be the Beatles.
+[00:22:25.120 --> 00:22:26.760] Like the Beatles are like Nike, right?
+[00:22:26.960 --> 00:22:30.660] Always around, always relevant, generation agnostic.
+[00:22:30.660 --> 00:22:31.480] They're around.
+[00:22:31.720 --> 00:22:36.440] It's really easy to have a one hit wonder and be like, I had product market fit on this
+[00:22:36.440 --> 00:22:39.360] one product in apparel and I cannot find that again.
+[00:22:39.820 --> 00:22:40.900] That happens all the time.
+[00:22:41.060 --> 00:22:42.620] I'm not sure if it's happened to all birds.
+[00:22:43.040 --> 00:22:44.700] You know, they've changed their business a lot.
+[00:22:44.840 --> 00:22:46.160] Like first they're abandoning stores.
+[00:22:46.480 --> 00:22:49.340] I think two years, three years ago, if you asked them, they'd be like, stores are the
+[00:22:49.340 --> 00:22:50.520] only thing we care about.
+[00:22:50.720 --> 00:22:55.180] Like stores are what we're going to become like Nike or Warby Parker and build a bunch
+[00:22:55.180 --> 00:22:55.640] of stores.
+[00:22:56.360 --> 00:22:57.800] To be clear, I don't know them.
+[00:22:58.060 --> 00:22:59.420] Like, you know, I don't really know them personally.
+[00:22:59.540 --> 00:23:03.360] And I, all of this information is just what I've gleaned from like PR reports and
+[00:23:03.360 --> 00:23:07.580] their 10 K, but they're like, stores are not our future anymore, which is really interesting.
+[00:23:08.080 --> 00:23:11.420] They always talk about New Zealand and now they're going to go make stuff in Vietnam.
+[00:23:11.420 --> 00:23:13.160] They never discounted.
+[00:23:13.220 --> 00:23:14.720] I think you and I have talked about this in the past.
+[00:23:14.800 --> 00:23:18.580] They've never sent out a black Friday email with a discount on their product.
+[00:23:19.120 --> 00:23:24.600] Now they've got a sale tab sitting, like if you go to all birds.com, there's a sale right
+[00:23:24.600 --> 00:23:25.280] in their menu.
+[00:23:25.580 --> 00:23:25.840] Yeah.
+[00:23:25.920 --> 00:23:29.920] And they have the ability to buy like partially used shoes.
+[00:23:30.320 --> 00:23:30.640] Yeah.
+[00:23:30.920 --> 00:23:31.080] Yeah.
+[00:23:31.180 --> 00:23:31.800] That is interesting.
+[00:23:31.920 --> 00:23:34.640] And I like that, I like that mentality of like, they're like, hey, we're all about
+[00:23:34.640 --> 00:23:35.140] sustainability.
+[00:23:35.200 --> 00:23:39.100] We want to be able to sell you like gently used products.
+[00:23:39.340 --> 00:23:42.380] But I thought that was really interesting that they're like, you know, so a couple other
+[00:23:42.380 --> 00:23:46.720] things that I wanted to highlight after reviewing their 10 K, they're doing a big write down of
+[00:23:46.720 --> 00:23:47.920] their first generation apparel.
+[00:23:48.080 --> 00:23:50.700] It's not worth, they're like, basically it doesn't resonate with people.
+[00:23:50.700 --> 00:23:55.080] They wrote off $20 million of inventory and they have really high landed cost.
+[00:23:55.220 --> 00:23:58.100] I think a lot of businesses are suffering from this and I wanted to mention this.
+[00:23:58.500 --> 00:24:04.640] Basically, when you import something from China or India or New Zealand or Vietnam, you
+[00:24:04.640 --> 00:24:07.420] build in the cost of the freight into your cost of goods sold.
+[00:24:07.660 --> 00:24:11.440] So let's say you have this pen and I imported this pen from China.
+[00:24:11.620 --> 00:24:15.400] Well, it cost me 10 cents for the pen, but it cost 80 cents to ship it over.
+[00:24:15.400 --> 00:24:17.520] So the pen actually cost me 90 cents.
+[00:24:17.660 --> 00:24:21.620] So a lot of companies, including Allbirds, basically have a lot of products that they
+[00:24:21.620 --> 00:24:26.660] imported when those container rates were really high and they're like, wow, the landed cost of
+[00:24:26.660 --> 00:24:27.520] this product is really high.
+[00:24:27.600 --> 00:24:31.940] They got to work through it because they imported it when containers were $25,000 per container.
+[00:24:32.220 --> 00:24:34.300] Now the container is back to $3,000.
+[00:24:34.760 --> 00:24:38.220] You know, those landed costs will come down as they work through old inventory.
+[00:24:38.620 --> 00:24:39.320] Does that make sense?
+[00:24:39.440 --> 00:24:39.600] Right.
+[00:24:39.800 --> 00:24:41.080] Yeah, it makes total sense.
+[00:24:41.080 --> 00:24:47.500] So if you're acquiring a business, would the acquirer pay that 80 cents tax or no?
+[00:24:48.400 --> 00:24:50.320] They would say, look, we're going to value your inventory.
+[00:24:50.500 --> 00:24:53.040] It would be a negotiation as to how much they value your inventory.
+[00:24:53.160 --> 00:24:56.760] If you're turning through it quickly, you know, you value it at fair market value.
+[00:24:56.880 --> 00:25:00.320] So for instance, if you have two months of inventory, yeah, if you have two months of
+[00:25:00.320 --> 00:25:02.920] this inventory, I'll pay you 80 cents on the dollar because I'm going to work through
+[00:25:02.920 --> 00:25:03.580] it really quickly.
+[00:25:03.820 --> 00:25:09.920] If you have six, you know, I bought this business and a couple products, they had like 18 years of
+[00:25:09.920 --> 00:25:11.560] inventory because they just wasn't selling.
+[00:25:11.740 --> 00:25:14.980] And I was like, look, I can't pay you a dollar for dollar on this inventory.
+[00:25:15.180 --> 00:25:16.900] You have 18 years worth of it.
+[00:25:17.300 --> 00:25:18.300] I'll never sell it.
+[00:25:18.420 --> 00:25:21.280] You know, like I'll be dead before this stuff is sold.
+[00:25:21.420 --> 00:25:23.100] So you got to write off a bunch of this.
+[00:25:23.260 --> 00:25:25.320] I'm not paying you for 18 years worth of it.
+[00:25:25.440 --> 00:25:26.620] I'll pay you for max.
+[00:25:26.980 --> 00:25:28.460] I think I should have said six months.
+[00:25:28.540 --> 00:25:29.800] I think I ended up saying a year.
+[00:25:30.080 --> 00:25:30.880] It's a while ago.
+[00:25:30.960 --> 00:25:34.580] So I don't remember, but like maybe I'll pay you for a year of it because this is how much
+[00:25:34.580 --> 00:25:35.460] we'll sell in the year.
+[00:25:35.460 --> 00:25:39.140] But I'm not going to pay you for 18 years worth because you pay like you have too much.
+[00:25:39.520 --> 00:25:42.600] Similarly, if you have too much, I wouldn't pay for those high landed costs.
+[00:25:42.740 --> 00:25:44.980] You've got 12 years of white shoes.
+[00:25:44.980 --> 00:25:46.560] I'm not gonna pay you for 12 years of it.
+[00:25:46.640 --> 00:25:47.680] I'll pay you for six months.
+[00:25:47.900 --> 00:25:50.600] The rest you got to write off because this doesn't work.
+[00:25:51.300 --> 00:25:53.140] I'm just looking at the Skechers stock.
+[00:25:53.340 --> 00:25:56.080] Skechers has gone up since Allbirds came out.
+[00:25:56.400 --> 00:25:57.720] That doesn't surprise me.
+[00:25:58.220 --> 00:25:58.660] Yeah.
+[00:25:59.100 --> 00:26:02.940] Almost everybody actually has gone up in their category except them.
+[00:26:03.460 --> 00:26:06.820] I mean, look, I think early on they were getting such a high valuation.
+[00:26:07.040 --> 00:26:07.840] Like, you know, Crocs?
+[00:26:08.100 --> 00:26:12.260] Crocs was selling like $800 million of shoes and valued at $800 million.
+[00:26:12.700 --> 00:26:16.760] And Allbirds was selling like $200 million of shoes and valued at $4 billion.
+[00:26:17.740 --> 00:26:22.420] The price of Crocs stock went up because they're like, look, our valuation, we're in the category
+[00:26:22.420 --> 00:26:25.240] where some guy's doing $200 million and valued at $4 billion.
+[00:26:25.400 --> 00:26:29.360] We're doing 4X that revenue and we're valued at one fourth of that stock valuation.
+[00:26:29.800 --> 00:26:30.080] Yeah.
+[00:26:30.080 --> 00:26:31.060] So I think theirs has gone up.
+[00:26:31.360 --> 00:26:34.540] One more thing I wanted to talk about and then we can change subjects is Onshoes.
+[00:26:34.760 --> 00:26:36.120] They just released earnings today.
+[00:26:36.520 --> 00:26:37.000] Oh, yeah.
+[00:26:37.000 --> 00:26:38.900] Onshoes released earnings today.
+[00:26:39.120 --> 00:26:41.140] Their stock is up 25%.
+[00:26:41.140 --> 00:26:43.880] They were a $6 billion market cap company today.
+[00:26:44.060 --> 00:26:46.200] Now they're an $8 billion market cap company.
+[00:26:46.500 --> 00:26:50.060] They saw a 92% jump in fourth quarter revenue.
+[00:26:50.060 --> 00:26:56.400] So while Allbirds saw a sales decrease in fourth quarter revenue, On saw a 92% increase.
+[00:26:56.900 --> 00:27:03.360] Their full year revenue was $1.3 billion, up 70% from the prior 12 months.
+[00:27:03.520 --> 00:27:04.720] And they finally made money.
+[00:27:04.820 --> 00:27:06.340] Their net income was $62 million.
+[00:27:07.260 --> 00:27:09.520] So On is the exact opposite of Allbirds.
+[00:27:09.520 --> 00:27:12.220] I really thought all Allbirds and Ons were comparable.
+[00:27:12.260 --> 00:27:14.740] And now it's clear that On is winning the market.
+[00:27:14.740 --> 00:27:18.920] Did it explain what were some of the biggest drivers of the growth?
+[00:27:19.300 --> 00:27:21.140] They announced earnings earlier today.
+[00:27:21.140 --> 00:27:22.540] So I haven't dug into everything.
+[00:27:22.800 --> 00:27:26.960] The one thing I would say is that I think they're doing a really good job with their Roger Federer line.
+[00:27:26.960 --> 00:27:33.600] Yeah, that was the first thing that came to mind for me was like they were put on the map with Federer's partnership.
+[00:27:34.020 --> 00:27:34.200] Yeah.
+[00:27:34.720 --> 00:27:43.360] And Federer is so invested in that partnership from everything I see he does content wise outside of just the campaign shoot.
+[00:27:43.840 --> 00:27:48.340] Like he's even posting other on running athletes on his Instagram and tagging them and whatnot.
+[00:27:48.420 --> 00:27:48.720] Wow.
+[00:27:49.300 --> 00:27:53.040] And so they also kind of similar to Hoka.
+[00:27:53.040 --> 00:28:00.580] They feel like over the last maybe year, everybody in New York is wearing Lululemon leggings with either on running shoes or Hoka's.
+[00:28:01.280 --> 00:28:03.420] Hoka's is owned by like some private equity firm.
+[00:28:03.600 --> 00:28:05.080] And I was reading about it a while ago.
+[00:28:05.200 --> 00:28:16.700] And Hoka basically is like the entire growth of that private equity firm's portfolio because all of a sudden everyone who's running is like, yeah, I don't think they look very good, but they are a brand statement of like I'm fit and I care about running.
+[00:28:16.700 --> 00:28:17.440] Yeah.
+[00:28:17.600 --> 00:28:23.220] It's just another good example, too, of like some things take forever to hit and then when they hit, they hit.
+[00:28:23.680 --> 00:28:24.120] Yeah.
+[00:28:24.660 --> 00:28:31.980] But anyway, on and all birds are having opposite experiences in the stock market and opposite experiences in actual business performance.
+[00:28:32.460 --> 00:28:37.460] And it's really crazy to watch because I think like a few years ago, everyone was like, should Nike buy all birds?
+[00:28:38.080 --> 00:28:41.040] Now I'm like, should on by all birds or should on sell?
+[00:28:41.160 --> 00:28:46.180] You know, on is the winner of this category of like new startup shoes, at least like big brands.
+[00:28:46.180 --> 00:28:50.680] And I wonder what happens to all birds is now sub $200 million company.
+[00:28:51.400 --> 00:28:52.080] Yeah, that's crazy.
+[00:28:52.200 --> 00:28:56.680] That's like almost a 95% drop in valuation in less than 18 months.
+[00:28:57.540 --> 00:29:01.800] Nick, I know we always harp on how important it is to optimize your mobile experience.
+[00:29:02.180 --> 00:29:11.860] Two months after streetwear brand Rip and Dip launched their app, total sales increased by 53.2% and then another 43% the next month.
+[00:29:11.860 --> 00:29:17.500] App users have proven they're more diehard fans, they have higher conversion rates, a higher revenue per session.
+[00:29:17.820 --> 00:29:22.740] They're more likely to convert, have more lifetime value versus mobile and desktop web.
+[00:29:23.140 --> 00:29:27.120] Limited supply listeners can get two months free at tapcart.com slash limited.
+[00:29:28.220 --> 00:29:29.460] Oh, let's change topics.
+[00:29:29.700 --> 00:29:30.900] What were the two things you want to cover?
+[00:29:30.980 --> 00:29:33.360] You said there's a bit multi-billion dollar business no one's ever heard of.
+[00:29:33.440 --> 00:29:34.160] And what was the other thing?
+[00:29:34.360 --> 00:29:38.960] The other one was the world's favorite accessible superhero.
+[00:29:39.920 --> 00:29:41.180] Okay, let's start with that one.
+[00:29:41.180 --> 00:29:42.880] Who's the world's favorite accessible superhero?
+[00:29:43.340 --> 00:29:47.020] Okay, so this guy is so smart.
+[00:29:47.340 --> 00:29:55.480] He built so much fame and then basically vertically integrated all the pieces around him, mainly with like a studio.
+[00:29:55.740 --> 00:29:57.720] And this man, his name is Ryan Reynolds.
+[00:29:58.080 --> 00:29:58.680] Yeah.
+[00:29:58.940 --> 00:30:00.320] Just sold Mint Mobile.
+[00:30:00.660 --> 00:30:00.800] Yeah.
+[00:30:00.800 --> 00:30:03.380] He bought a quarter of Mint Mobile a couple years ago.
+[00:30:03.940 --> 00:30:13.700] And keep in mind, Mint Mobile is very similar to, it's called a mobile virtual network operator, which means it doesn't own the network, but it operates on the T-Mobile network.
+[00:30:13.880 --> 00:30:14.960] Other companies that do this.
+[00:30:15.680 --> 00:30:16.160] MetroPCS.
+[00:30:16.420 --> 00:30:17.460] Yeah, MetroPCS.
+[00:30:17.460 --> 00:30:19.080] Google Fi does this with T-Mobile.
+[00:30:19.320 --> 00:30:20.720] Visible does this with Verizon.
+[00:30:21.380 --> 00:30:25.560] Spectrum, which is the shittiest and Xfinity, the shittiest internet companies in the world.
+[00:30:25.640 --> 00:30:26.960] They do this on Verizon.
+[00:30:27.640 --> 00:30:32.300] So anyways, this is basically a, think of it as like a direct to consumer brand.
+[00:30:32.480 --> 00:30:37.220] But instead of selling you body care, they sell you network.
+[00:30:37.780 --> 00:30:41.900] So he bought a quarter of the company in 2016.
+[00:30:42.260 --> 00:30:46.180] Before that also, remember, he had Aviation Gin, which sold to Diageo.
+[00:30:46.800 --> 00:30:53.460] You know, this guy, the reason I say he's the accessible superhero, this guy is, you know, he's the sexiest man alive.
+[00:30:53.680 --> 00:30:54.580] He's rich.
+[00:30:54.820 --> 00:30:55.680] He's ripped.
+[00:30:56.340 --> 00:30:57.940] He's the biggest movie star.
+[00:30:58.180 --> 00:31:03.720] You know, you're supposed to hate this guy, but people love this guy because he's like, he's just him everywhere.
+[00:31:04.220 --> 00:31:10.740] That's actually been their biggest lever of growth is the way that they do marketing is just very riot.
+[00:31:11.160 --> 00:31:12.460] Like, I don't know if you've seen Mint Mobile.
+[00:31:12.680 --> 00:31:12.760] Definitely.
+[00:31:13.160 --> 00:31:13.700] Oh, yeah.
+[00:31:14.380 --> 00:31:15.920] They are phenomenal.
+[00:31:16.240 --> 00:31:16.400] Yeah.
+[00:31:16.920 --> 00:31:23.720] It's such a good example of how to be on brand without having to have everything be so polished and buttoned up.
+[00:31:24.220 --> 00:31:31.340] So anyways, this guy basically came in, you know, he claimed to do all of the stuff, customer service and the unsexy things.
+[00:31:31.340 --> 00:31:35.640] But realistically, this guy basically was just an idea machine for Mint Mobile.
+[00:31:36.300 --> 00:31:39.340] His entire like concept was really interesting.
+[00:31:39.540 --> 00:31:48.780] It's the same underlying concept that makes for viral content or any kind of feel good story, which is how do we position David versus Goliath here?
+[00:31:48.780 --> 00:31:53.880] And how do we get the people who feel like David to join in and jump on our bandwagon?
+[00:31:53.880 --> 00:31:58.120] And so he had this whole thing of like, it's us versus big wireless.
+[00:31:58.420 --> 00:32:00.360] And you know, they charge you X, Y, and Z.
+[00:32:00.680 --> 00:32:01.300] Don't worry.
+[00:32:01.500 --> 00:32:02.340] We've been there.
+[00:32:02.500 --> 00:32:04.540] You know, we want to help you make sure we get the best thing.
+[00:32:04.980 --> 00:32:06.140] His commercials were so good.
+[00:32:06.200 --> 00:32:13.520] I remember one where he's like, we spent $42 on this commercial because we are too cheap to spend more.
+[00:32:13.520 --> 00:32:15.300] We're trying to pass along savings to you.
+[00:32:15.480 --> 00:32:19.780] So here's this cheap, shitty animation that we purchased for $42 on like ShutterSell.
+[00:32:20.160 --> 00:32:27.020] Yeah. And another great one recently was, you know, he was like, we bought this 30 second spot, but we couldn't afford it.
+[00:32:27.080 --> 00:32:29.500] So this is the ad for Mint Mobile and now over to you.
+[00:32:29.600 --> 00:32:31.080] And it was like Jack in the Box or something.
+[00:32:31.840 --> 00:32:36.040] And really, you know, it was like we shared the ad budget with Jack in the Box because we couldn't afford the whole thing.
+[00:32:36.040 --> 00:32:36.960] That's so cool.
+[00:32:36.960 --> 00:32:38.660] And yeah, it really is.
+[00:32:38.760 --> 00:32:41.680] And they do crazy things like, you know, there was a baseball player.
+[00:32:41.860 --> 00:32:43.540] I may have mentioned this in earlier season.
+[00:32:43.660 --> 00:32:52.660] There was a baseball player who had like a 20, some contract where he was getting paid over the next 25 years with interest accruing if the thing went up.
+[00:32:52.800 --> 00:33:04.560] So, you know, on like the day where he gets paid every year, Ryan Reynolds runs this campaign where it's like, you can get 25 years of Mint Mobile network service for $2,500, which is insanely cheap.
+[00:33:04.560 --> 00:33:06.760] That's like $8 a month, basically.
+[00:33:07.160 --> 00:33:08.480] So I ended up buying it.
+[00:33:08.640 --> 00:33:10.820] I think I was like one of 40 people who bought it.
+[00:33:10.920 --> 00:33:15.760] And I'm hoping that at the end of the 25 years, we're all going to get dinner with Ryan together.
+[00:33:16.140 --> 00:33:21.620] You bought 25 years of cell phone service for $2,500 in one transaction?
+[00:33:21.900 --> 00:33:22.840] One transaction.
+[00:33:22.840 --> 00:33:23.120] Yeah.
+[00:33:23.360 --> 00:33:23.660] Wow.
+[00:33:24.140 --> 00:33:25.700] And it's, is the service good?
+[00:33:26.500 --> 00:33:27.860] Yeah, it's on T-Mobile.
+[00:33:28.160 --> 00:33:32.880] So the other thing that people don't realize is like, there's two kind of network types.
+[00:33:32.880 --> 00:33:41.860] There's one that Verizon, I don't know the names of them, but there's one that like Verizon and I think AT&T use where basically their strategy is they're going to buy cell towers around the country.
+[00:33:42.040 --> 00:33:43.080] They're going to fix them up.
+[00:33:43.140 --> 00:33:45.920] They're going to buy them and they're going to use them to operate.
+[00:33:46.280 --> 00:33:48.640] What T-Mobile does is they don't buy cell towers.
+[00:33:48.800 --> 00:33:49.440] They just lease them.
+[00:33:49.640 --> 00:33:54.280] So other companies have cell towers they put up and they're like, oh, hey, you're in a better area.
+[00:33:54.280 --> 00:33:56.540] We're going to take this and we're going to take the other five around.
+[00:33:56.700 --> 00:33:57.460] We're just going to lease it.
+[00:33:58.020 --> 00:33:59.740] So that's why their service is so good.
+[00:34:00.360 --> 00:34:06.100] Anyways, so I thought the brilliant part of his deal and just his marketing is a couple of things.
+[00:34:06.300 --> 00:34:07.560] One, he has his own studio.
+[00:34:08.000 --> 00:34:11.640] So he has a studio production agency called Maximum Effort.
+[00:34:11.940 --> 00:34:13.760] This guy is basically vertically integrated.
+[00:34:14.000 --> 00:34:18.240] It's the equivalent of having like a creative team in house or like a studio in house for your brand.
+[00:34:18.680 --> 00:34:26.620] And the other cool part is like, you know, his deal with T-Mobile, like maximum efforts making money for the next, you know, 100 years with this acquisition deal for sure.
+[00:34:27.220 --> 00:34:28.760] So I thought that was really interesting.
+[00:34:29.040 --> 00:34:35.100] The other one was just like the leverage you can have when it comes to kind of like standing apart.
+[00:34:35.540 --> 00:34:37.780] You know, everybody has the same types of imagery.
+[00:34:37.960 --> 00:34:39.540] Everybody has the same type of headlines.
+[00:34:39.740 --> 00:34:45.460] If you go to the top 10 spending ads on our brands on Facebook, they follow the same exact kind of frameworks.
+[00:34:45.880 --> 00:34:47.520] And this guy was just like, you know what?
+[00:34:47.600 --> 00:34:48.000] Fuck this.
+[00:34:48.160 --> 00:34:48.680] I'm doing it.
+[00:34:49.020 --> 00:34:52.440] However I would want it as a kid, that's what I'm going to do.
+[00:34:52.660 --> 00:34:54.720] And I thought both those things were pretty interesting.
+[00:34:55.320 --> 00:34:56.640] I think that's really interesting.
+[00:34:56.740 --> 00:34:59.560] I think it's also interesting how much influencers can make or break.
+[00:34:59.660 --> 00:35:02.440] Like we were just talking about On Shoes and Roger Federer.
+[00:35:02.680 --> 00:35:06.080] I think Roger Federer owns like 3% of On Shoes at this point.
+[00:35:06.420 --> 00:35:09.120] So interesting how much influence a celebrity.
+[00:35:09.300 --> 00:35:12.840] I think it's really difficult to get a celebrity to actually be the face of your brand.
+[00:35:12.840 --> 00:35:17.920] But if you can get them to be a face of the brand with a ton of equity buy in, you know, you can do amazing things.
+[00:35:18.020 --> 00:35:21.300] I think that's less true like skin care than it is these other products.
+[00:35:21.940 --> 00:35:22.660] Yeah, I agree.
+[00:35:22.820 --> 00:35:31.000] The biggest lever I've seen that makes or breaks a celebrity brand is like how much is this person willing to post about the company or create content?
+[00:35:31.000 --> 00:35:44.360] It's not even like post, it's like creating content and actually being a part of it versus just, you know, a one off campaign or like just, you know, the title of co-founder, chief creative or whatever kind of like bubbled up title they get.
+[00:35:45.040 --> 00:35:45.400] Yeah.
+[00:35:45.500 --> 00:35:54.100] Are they involved in the marketing of it or is it just sort of like they're the face of it and that you can use, they do a photo shoot with you once every six months, in which case it's pretty useless.
+[00:35:54.380 --> 00:36:01.460] They really have to like buy into it and you've got to create marketing built around that person's personality and not the opposite way.
+[00:36:01.460 --> 00:36:04.720] Like, you know, Min Mobile is now Ryan Reynolds' personality.
+[00:36:05.280 --> 00:36:08.600] It's not like they're like we got Ryan Reynolds and he went on TV and did some stuff.
+[00:36:08.720 --> 00:36:13.000] He's like, this is, we molded our business around his personality, not the opposite way.
+[00:36:13.720 --> 00:36:14.100] Exactly.
+[00:36:15.260 --> 00:36:15.860] That's great.
+[00:36:16.000 --> 00:36:16.120] Yeah.
+[00:36:16.380 --> 00:36:16.540] Yeah.
+[00:36:16.640 --> 00:36:17.280] Amazing for him.
+[00:36:17.340 --> 00:36:19.400] I think he made like $300 million on that deal.
+[00:36:19.460 --> 00:36:20.300] Yeah, I think so too.
+[00:36:21.220 --> 00:36:21.600] Okay.
+[00:36:21.720 --> 00:36:24.700] Let's switch gears to two other random things I want to chat about.
+[00:36:24.820 --> 00:36:26.880] One is Blank Street raised $20 million.
+[00:36:27.300 --> 00:36:27.840] Did you see this?
+[00:36:28.280 --> 00:36:28.660] Damn.
+[00:36:28.880 --> 00:36:29.340] I didn't know.
+[00:36:29.420 --> 00:36:30.500] They just announced it.
+[00:36:30.500 --> 00:36:34.100] They say that on average, their stores are 350 square feet.
+[00:36:34.200 --> 00:36:34.840] I just saw this.
+[00:36:34.960 --> 00:36:37.680] They raised, I don't, I have no thoughts about this.
+[00:36:37.820 --> 00:36:39.340] I'm presenting it without opinion.
+[00:36:39.880 --> 00:36:41.120] So they raised $20 million.
+[00:36:41.700 --> 00:36:44.240] Last year in 2021, they had raised $67 million.
+[00:36:44.920 --> 00:36:50.240] They said in this article that I read about their fundraise, on average, their stores are 350
+[00:36:50.240 --> 00:36:51.220] square feet.
+[00:36:51.860 --> 00:36:56.140] They said that 25% of sales are now cold brew, which is it.
+[00:36:56.240 --> 00:36:57.040] You and I have been there.
+[00:36:57.120 --> 00:36:58.780] I think you always get the cold brew from there.
+[00:36:58.780 --> 00:37:00.940] I'm still a hot coffee drinker, but yeah.
+[00:37:01.060 --> 00:37:01.540] You get the cold brew.
+[00:37:02.160 --> 00:37:06.940] They say all of their stores have been profitable on a per unit basis within a month of opening.
+[00:37:07.240 --> 00:37:08.940] I'm not sure really what they mean by that.
+[00:37:09.060 --> 00:37:10.700] Like what does per unit basis mean?
+[00:37:10.960 --> 00:37:14.300] But I'd be shocked if Blank Street was profitable at this point.
+[00:37:14.680 --> 00:37:15.040] Yeah.
+[00:37:15.360 --> 00:37:17.140] I was talking about the cold brew actually for a second.
+[00:37:17.600 --> 00:37:19.620] Starbucks says more than half of their products.
+[00:37:19.740 --> 00:37:21.240] I think I read this on Why Lookout.
+[00:37:21.640 --> 00:37:26.160] So don't quote me on it, but I'm pretty sure they said more than half of their sales are cold beverages today.
+[00:37:27.260 --> 00:37:31.600] Not hot beverages, which is pretty crazy because like, you know, you think of Starbucks as a coffee joint?
+[00:37:31.780 --> 00:37:33.320] Like more than half are cold beverages.
+[00:37:34.080 --> 00:37:35.100] That is fascinating.
+[00:37:35.260 --> 00:37:36.160] I remember I did.
+[00:37:36.380 --> 00:37:38.720] So I started seeing Blank Street pop up.
+[00:37:38.820 --> 00:37:40.300] You know, it's, it started by an Indian guy.
+[00:37:40.480 --> 00:37:40.760] Yeah.
+[00:37:40.880 --> 00:37:41.000] Yeah.
+[00:37:41.120 --> 00:37:41.220] Yeah.
+[00:37:42.060 --> 00:37:44.180] And so, yeah, no, we got to have that price.
+[00:37:45.640 --> 00:37:47.560] So I looked into their numbers.
+[00:37:47.900 --> 00:37:48.240] Disclosure.
+[00:37:48.660 --> 00:37:49.000] This, yeah.
+[00:37:49.200 --> 00:37:50.200] The same race as us.
+[00:37:50.600 --> 00:37:51.000] Yeah.
+[00:37:51.400 --> 00:37:53.740] We have every incentive to make sure this wins.
+[00:37:54.240 --> 00:37:54.480] No.
+[00:37:54.580 --> 00:37:55.240] So I did.
+[00:37:55.240 --> 00:38:01.420] I remember seeing their membership signs pop up and also they have a mobile app, which is so good.
+[00:38:01.580 --> 00:38:03.600] I don't know if you've used their app or like you're a member.
+[00:38:03.880 --> 00:38:03.980] Yeah.
+[00:38:04.120 --> 00:38:04.220] Yeah.
+[00:38:04.300 --> 00:38:10.660] They have a beautiful, it's like a, it's, it really is like they've built out a very good tech team to like support this.
+[00:38:10.740 --> 00:38:13.300] It's not like they just hired somebody random.
+[00:38:13.780 --> 00:38:13.880] Yeah.
+[00:38:13.960 --> 00:38:14.440] Two other things.
+[00:38:14.600 --> 00:38:17.440] One thing they said was they're like, they're trying to figure out a way to do breakfast.
+[00:38:17.700 --> 00:38:19.920] Like they have one machine that literally does everything right.
+[00:38:20.020 --> 00:38:21.520] It's called like an every sis or whatever.
+[00:38:21.580 --> 00:38:22.900] They're like, you want hot coffee?
+[00:38:23.020 --> 00:38:23.420] You hit a button.
+[00:38:23.520 --> 00:38:24.260] You want cappuccino?
+[00:38:24.260 --> 00:38:24.700] You hit another.
+[00:38:25.100 --> 00:38:26.260] Everything is just one machine.
+[00:38:26.260 --> 00:38:30.560] So it's not like Starbucks where they actually have like one machine and the barista is doing something here.
+[00:38:30.680 --> 00:38:37.860] It's like we, it's like basically a little bit of a vending machine, which I'm not a huge fan of, but the coffee's great and they're around everywhere.
+[00:38:38.420 --> 00:38:43.860] Uh, I also see a lot of times if you have the app, they're like get a free coffee today or like stop by and get, do you, do you see a lot of that?
+[00:38:44.120 --> 00:38:44.300] Yeah.
+[00:38:44.440 --> 00:38:50.220] And, and they also have the, the breakfast tacos, which a lot of times, like if you go in near the end of breakfast time, they'll just give it to you.
+[00:38:50.800 --> 00:38:51.120] Wow.
+[00:38:51.220 --> 00:38:51.340] Yeah.
+[00:38:51.340 --> 00:39:00.460] I think the app is a great way for them to also like, I don't know what the right thing is, but like, you know how you, you want to, you know, you want to show a high returning customer rate.
+[00:39:00.640 --> 00:39:04.840] You know what a great way to do that is high discounts like this, like go puff.
+[00:39:04.840 --> 00:39:07.440] I use, I use go puff whenever I'm in New York city.
+[00:39:07.580 --> 00:39:08.420] I usually use that.
+[00:39:08.580 --> 00:39:12.080] And they're like $20 off a $25 order right now.
+[00:39:12.160 --> 00:39:19.080] And I'm like, okay, you have not made, you are not making money on this, but you're willing to do that because you're going to, you're like trying to juice your stats.
+[00:39:19.080 --> 00:39:21.040] I don't know anything about blank street coffee.
+[00:39:21.200 --> 00:39:24.500] So I don't know if they're doing that or not, but like, I'd be shocked if go puff wasn't.
+[00:39:24.780 --> 00:39:25.120] Yeah.
+[00:39:25.180 --> 00:39:30.460] I think also the go puff thing that it mentally, you're like, oh wait, I'm getting 20 bucks off.
+[00:39:30.460 --> 00:39:30.720] Okay.
+[00:39:30.780 --> 00:39:35.140] So that means I should order $45 worth of stuff and it's only going to cost me 25.
+[00:39:35.920 --> 00:39:42.640] And I'm sure it does something with, with their AOV where just jacks right up and maybe they're like break even on some of those.
+[00:39:43.120 --> 00:39:43.620] You're right.
+[00:39:43.680 --> 00:39:54.620] I'm sure they're break even on some of them, but I'm sure they're take like, you know, 20 to $25 is an insane, like generally grocery companies are in this single digit margins.
+[00:39:54.820 --> 00:39:57.660] It is a really competitive cutthroat business.
+[00:39:57.660 --> 00:40:02.740] These guys are delivering, you know, I remember getting like coffee delivered, like coffee beans.
+[00:40:03.120 --> 00:40:03.600] Yeah.
+[00:40:03.680 --> 00:40:05.380] These coffee beans cost you 13 cents.
+[00:40:05.540 --> 00:40:06.280] Some guy delivered them.
+[00:40:06.560 --> 00:40:07.080] You paid a tip.
+[00:40:07.240 --> 00:40:08.760] All of that ended up costing 13 cents.
+[00:40:08.840 --> 00:40:10.160] I was like, this is an amazing deal.
+[00:40:10.280 --> 00:40:11.260] You can't, but you got this.
+[00:40:12.080 --> 00:40:18.480] So their, their membership is basically $12 a week, which sounds so much better than $48 a month.
+[00:40:18.580 --> 00:40:22.860] Cause that sounds outrageous for morning coffee, but $12 a week sounds pretty good.
+[00:40:22.860 --> 00:40:27.620] So with that, you get free cold brew, free tea, free hot coffee.
+[00:40:27.800 --> 00:40:31.120] You get one, every one, two items for every two hours.
+[00:40:31.280 --> 00:40:31.360] Yeah.
+[00:40:32.000 --> 00:40:38.900] Then if you get an espresso based drink, you get a charge, basically $1 per shot in the drink.
+[00:40:39.020 --> 00:40:41.160] So if you have a Cortado with one shot, it's a dollar.
+[00:40:41.360 --> 00:40:44.940] If you have a triple shot latte, that's basically $3.
+[00:40:45.840 --> 00:40:48.120] Then you get free delivery of the coffee.
+[00:40:48.380 --> 00:40:49.600] You get free delivery?
+[00:40:49.820 --> 00:40:51.380] On orders over $5.
+[00:40:51.840 --> 00:40:52.100] Okay.
+[00:40:53.060 --> 00:40:56.160] Keep in mind that that's $5 when each shot equals $1.
+[00:40:56.380 --> 00:40:56.920] So that's multiple.
+[00:40:57.180 --> 00:40:57.620] Yeah.
+[00:40:58.520 --> 00:41:01.680] I don't find that to be a very compelled, like, you know, Pret in New York city.
+[00:41:01.840 --> 00:41:07.680] I remember they had this thing where they're like $10 a month, free coffee, come in every morning and get a free coffee.
+[00:41:07.800 --> 00:41:09.420] And I think it was like $12 a month.
+[00:41:09.700 --> 00:41:12.640] It's like the gym model or the Planet Fitness model.
+[00:41:12.640 --> 00:41:13.180] Yeah.
+[00:41:13.360 --> 00:41:14.200] But that, yeah, yeah.
+[00:41:14.320 --> 00:41:15.660] But like, you know, Pret coffee is good.
+[00:41:15.900 --> 00:41:16.420] They're everywhere.
+[00:41:16.700 --> 00:41:19.140] And like $10 a month versus $12 a week is a lot.
+[00:41:19.280 --> 00:41:19.580] $50?
+[00:41:19.900 --> 00:41:20.380] It is a lot.
+[00:41:20.580 --> 00:41:21.420] That's insane.
+[00:41:21.920 --> 00:41:30.040] You know, yeah, that makes me think I need to go, you know, you know what, like if you want to be rich, stop ordering lattes or coffees.
+[00:41:30.160 --> 00:41:34.340] I'm like, okay, maybe this is why, because I'm spending $50 a month with Blank Street.
+[00:41:34.840 --> 00:41:39.220] So then they also give you two times the points per order, which just sounds good.
+[00:41:39.220 --> 00:41:41.180] You get 20% off.
+[00:41:41.280 --> 00:41:42.020] That's what they advertise.
+[00:41:42.180 --> 00:41:46.900] But in the fine print, it's 20% off coffee beans and merch, which are probably both just high margin items.
+[00:41:47.200 --> 00:41:55.740] So essentially for $1.60 a day, if you normally drink a latte every morning and pay $4, you can use Blank Street to get that latte for $2.60.
+[00:41:55.960 --> 00:41:59.560] Because you have $1.60 for the membership and $1 for the espresso shot.
+[00:42:00.160 --> 00:42:08.960] Yeah, have you seen those commercials where they're like for $1 a day, save this like animal or save the, you know, for $1.60 a day, make this Indian person rich.
+[00:42:13.400 --> 00:42:15.100] Dude, we took over tech companies.
+[00:42:15.280 --> 00:42:16.260] We're coming for caffeine.
+[00:42:16.260 --> 00:42:16.560] Yeah.
+[00:42:16.720 --> 00:42:19.100] Hey, and you know what else happened this last week?
+[00:42:19.440 --> 00:42:23.520] Starbucks put in a new CEO who's also an Indian guy.
+[00:42:23.840 --> 00:42:24.500] It'll wear up.
+[00:42:24.720 --> 00:42:25.320] Yeah, he's nap.
+[00:42:25.420 --> 00:42:26.540] There's an Indian guy running Starbucks.
+[00:42:26.860 --> 00:42:28.100] Oh, I remember this news.
+[00:42:28.240 --> 00:42:30.280] Yeah, this was announced a few months ago, right?
+[00:42:30.380 --> 00:42:30.840] Yeah, yeah.
+[00:42:30.840 --> 00:42:32.260] He just started his first week.
+[00:42:32.460 --> 00:42:34.300] I think his first day was yesterday, actually.
+[00:42:35.240 --> 00:42:35.600] Interesting.
+[00:42:35.840 --> 00:42:37.260] But you know, I love Blank Street.
+[00:42:37.340 --> 00:42:38.100] I love that it's all over.
+[00:42:38.180 --> 00:42:39.100] I really like the idea.
+[00:42:39.280 --> 00:42:42.760] Like, you know, Starbucks' idea was like, hey, we are the third location.
+[00:42:42.760 --> 00:42:48.700] Like, you know, Howard Schultz always says, you socialize at home, the office, and we want to be the third location, which is Starbucks.
+[00:42:49.240 --> 00:42:50.200] Blank Street issues that.
+[00:42:50.320 --> 00:42:52.380] They're like, yeah, you have your home, you have your office.
+[00:42:52.500 --> 00:42:53.820] We're to go pick up a location.
+[00:42:53.940 --> 00:42:55.900] You walk in, there's often no seats.
+[00:42:56.260 --> 00:42:58.540] You just get your coffee from a nap and you're gone.
+[00:42:58.840 --> 00:43:02.520] So it's almost like, you know, genuine vending machines that they've got going on.
+[00:43:03.220 --> 00:43:03.380] Totally.
+[00:43:03.560 --> 00:43:04.920] I really, I like the idea.
+[00:43:05.120 --> 00:43:11.680] I'm not sure, you know, I had, obviously, I don't know any of the numbers except what was in this article and which I've publicized here.
+[00:43:12.300 --> 00:43:13.380] But interesting model.
+[00:43:13.600 --> 00:43:14.520] I don't know if it could work.
+[00:43:14.600 --> 00:43:17.920] I don't know if this kind of stuff is VC backable, but I hope it is.
+[00:43:19.120 --> 00:43:20.160] Yeah, I hope it works too.
+[00:43:20.540 --> 00:43:21.740] I mean, their coffee tastes pretty good.
+[00:43:22.120 --> 00:43:22.340] Yeah.
+[00:43:22.980 --> 00:43:23.340] Okay.
+[00:43:23.440 --> 00:43:26.580] Well, let me say one more thing for one second, then we'll switch to your last topic.
+[00:43:27.840 --> 00:43:29.980] Lisa Mattresses announced that they were acquired.
+[00:43:30.480 --> 00:43:31.760] You know Lisa mattresses?
+[00:43:31.820 --> 00:43:32.420] Of course.
+[00:43:32.420 --> 00:43:37.920] They were acquired by some like vertically integrated manufacturer of mattresses, or I should say some manufactured mattresses.
+[00:43:38.040 --> 00:43:40.500] Now owns a name, Lisa as well.
+[00:43:40.820 --> 00:43:41.940] It's called 3Z.
+[00:43:42.700 --> 00:43:45.800] Lisa's raised $32 million, at least according to Crunchbase.
+[00:43:45.800 --> 00:43:47.580] I'm not sure if they've raised less or more than that.
+[00:43:47.700 --> 00:43:50.280] Or I'm sorry, I'm not sure if they've raised more than that, but at least $32 million.
+[00:43:51.960 --> 00:43:53.480] And no terms disclosed.
+[00:43:53.620 --> 00:43:59.900] I have no idea what this business sold for, but I feel like all of the mattress businesses are like having a tough time.
+[00:44:00.060 --> 00:44:02.440] So I'm not sure what it's sold for, but hopefully they did well.
+[00:44:03.160 --> 00:44:05.760] I'm going to try to text David and see if he'll give me the number.
+[00:44:06.500 --> 00:44:06.820] Okay.
+[00:44:07.160 --> 00:44:08.220] David's the guy who runs Lisa?
+[00:44:09.160 --> 00:44:10.080] He started Lisa.
+[00:44:10.720 --> 00:44:11.040] Okay.
+[00:44:11.040 --> 00:44:12.400] David, yeah, yeah, you got to.
+[00:44:12.680 --> 00:44:13.120] Awesome.
+[00:44:13.660 --> 00:44:15.900] I hate when brands don't announce their price.
+[00:44:16.160 --> 00:44:16.880] I know.
+[00:44:17.160 --> 00:44:32.160] What's interesting is when I met with Neil, the Casper founder in New York, one thing he mentioned was like, we basically built this super deep and integrated and basically like from scratch supply chain to sell mattresses in a box.
+[00:44:32.820 --> 00:44:44.280] And then all these other companies came around and they were just basically drop shipping, which when you think about this three Z brands, they own basically, you know, a handful of mattress companies.
+[00:44:44.620 --> 00:44:46.520] They're probably just going to start doing the same thing.
+[00:44:46.600 --> 00:44:52.260] I wonder how much their margins are going to be cut or actually rather increased just for this acquisition.
+[00:44:52.940 --> 00:44:53.880] I'm sure quite a bit.
+[00:44:54.100 --> 00:45:02.260] And yeah, I think that like Casper built their own, I think they're like, you know, it's hard because I think when Casper started, they're like, look, we've created a differentiated product here.
+[00:45:02.400 --> 00:45:04.020] And so we need to own quality.
+[00:45:04.400 --> 00:45:10.120] And today I'm like, if you, if you said what's the difference between Casper and Lisa at Tuft & Needle, I'd probably-
+[00:45:10.120 --> 00:45:10.740] Yeah, it's hard to say.
+[00:45:11.300 --> 00:45:12.560] I'm not sure I could tell the difference.
+[00:45:12.700 --> 00:45:14.820] Like, you know, it's the difference between Pepsi and Coke.
+[00:45:15.140 --> 00:45:15.500] Right.
+[00:45:15.780 --> 00:45:20.700] Something is different, but like drink enough, you know, in a taste test, it's a little hard to tell.
+[00:45:21.240 --> 00:45:21.540] Totally.
+[00:45:21.540 --> 00:45:25.260] What was that publicly traded company or that business that you said is worth billions?
+[00:45:25.600 --> 00:45:25.880] Yeah.
+[00:45:26.160 --> 00:45:27.860] Speaking of Indian CEOs.
+[00:45:28.240 --> 00:45:28.900] All right.
+[00:45:28.980 --> 00:45:30.900] So there's a company, I'm gonna let you guess.
+[00:45:31.020 --> 00:45:31.940] I'm gonna give you some facts.
+[00:45:32.420 --> 00:45:34.040] Valued at $3 billion.
+[00:45:34.800 --> 00:45:37.300] They are sold in over 80 countries.
+[00:45:37.720 --> 00:45:40.140] They employ more than 1500 people.
+[00:45:40.760 --> 00:45:43.800] In 2019, they generated over a billion dollars.
+[00:45:44.020 --> 00:45:45.780] It's a multi-generational family business.
+[00:45:46.400 --> 00:45:50.220] You have eaten this product for years, probably.
+[00:45:51.120 --> 00:45:52.900] Any guesses as to what this is?
+[00:45:53.240 --> 00:45:54.440] Goya Chick Beans.
+[00:45:54.660 --> 00:45:56.620] Oh, you're so close.
+[00:45:56.880 --> 00:45:57.280] Am I?
+[00:45:57.540 --> 00:45:58.940] You're so close.
+[00:45:59.900 --> 00:46:00.380] Okay.
+[00:46:00.480 --> 00:46:04.600] So something in that, like, you know how they sell like the masala in those things?
+[00:46:04.780 --> 00:46:05.020] I don't know.
+[00:46:05.160 --> 00:46:06.340] Everyone has the same brand.
+[00:46:06.460 --> 00:46:06.960] Like the tins?
+[00:46:06.960 --> 00:46:07.720] Orangish one.
+[00:46:07.880 --> 00:46:10.660] It's like a little orangish, like all Indian people have that masala.
+[00:46:10.900 --> 00:46:11.040] Yeah.
+[00:46:11.140 --> 00:46:11.980] No, tell me what it is.
+[00:46:12.180 --> 00:46:13.140] It's Hali Ram.
+[00:46:13.880 --> 00:46:14.300] Okay.
+[00:46:14.720 --> 00:46:15.020] Gotcha.
+[00:46:15.320 --> 00:46:18.960] It is basically, so it's an Indian snack company for those people, you know, for all
+[00:46:18.960 --> 00:46:19.720] the white people listening.
+[00:46:21.520 --> 00:46:23.580] They have over 410 products.
+[00:46:23.740 --> 00:46:28.740] So the other night I was just, you know, before I went to bed, I was just, all right,
+[00:46:28.740 --> 00:46:29.980] I'll have a bite of this.
+[00:46:30.120 --> 00:46:36.100] And I'm like chewing it and I'm like, damn, why is there nothing else that exists like Hali
+[00:46:36.100 --> 00:46:42.020] Ram in the market when over the last, you know, two, three years, probably you have all
+[00:46:42.020 --> 00:46:46.240] these Asian companies, you know, black owned brands, black owned businesses took off.
+[00:46:46.660 --> 00:46:52.560] Asian owned, AAPI founder owned brands, Omsom, Emi, Sanso took off.
+[00:46:52.960 --> 00:46:54.520] You know, where are the Indians at?
+[00:46:54.920 --> 00:47:00.680] And I couldn't think of a reason as to why there is not a company like this.
+[00:47:00.860 --> 00:47:04.660] You know, Indian snack brand, it doesn't even have to be that innovative.
+[00:47:04.820 --> 00:47:05.500] That's the other thing.
+[00:47:05.620 --> 00:47:10.800] It just has to be what Emi did, which is, okay, the same flavors, except this is not going
+[00:47:10.800 --> 00:47:13.900] to give you heartburn in the morning when you wake up, you know?
+[00:47:15.760 --> 00:47:18.680] And so I thought, like, this has got to exist.
+[00:47:18.900 --> 00:47:20.620] Dude, that's a great, it's a great idea.
+[00:47:20.740 --> 00:47:23.240] All of this packaging is meant for like my parents.
+[00:47:23.580 --> 00:47:25.420] And I'm not even sure if it's meant for my parents.
+[00:47:25.500 --> 00:47:26.620] I think it's meant for their parents.
+[00:47:26.660 --> 00:47:27.440] Their parents, yeah.
+[00:47:27.760 --> 00:47:31.880] Like, this is like, if you were alive during the partition between India and Pakistan,
+[00:47:32.660 --> 00:47:34.160] this is the packaging for you.
+[00:47:34.680 --> 00:47:39.780] But you're right, like, why does this, why does this not exist in a more consumable way
+[00:47:39.780 --> 00:47:42.080] for 21st century consumers?
+[00:47:42.720 --> 00:47:43.900] It totally should.
+[00:47:43.920 --> 00:47:46.520] If anybody wants to do this, let me know.
+[00:47:46.840 --> 00:47:53.200] Also, interesting fun fact, their owner was sentenced to life in prison for trying to murder,
+[00:47:53.460 --> 00:48:00.420] hold on, it gets better, for trying to murder somebody who was basically a tea vendor because
+[00:48:00.420 --> 00:48:04.420] he was getting in the way of a location they were trying to open, because they also own cafes and stuff.
+[00:48:05.000 --> 00:48:08.080] So he was like, oh, you're not gonna, I'm just gonna kill you.
+[00:48:08.480 --> 00:48:09.180] Wow. Okay.
+[00:48:09.320 --> 00:48:10.680] Well, I'm glad he's in prison forever.
+[00:48:11.180 --> 00:48:11.500] Yeah.
+[00:48:11.900 --> 00:48:14.420] This is the worst website I've ever seen in the world.
+[00:48:15.180 --> 00:48:15.820] It's so mad.
+[00:48:16.520 --> 00:48:18.000] It says, taste the tradition.
+[00:48:18.420 --> 00:48:23.180] And then at the top, there's a yellow banner where you'd write free shipping.
+[00:48:23.460 --> 00:48:23.860] Yeah.
+[00:48:23.860 --> 00:48:27.920] If you stay long enough, it says, caution, beware of fraud.
+[00:48:28.260 --> 00:48:33.020] And I'm like, you don't want to put on your website, caution, beware of fraud.
+[00:48:33.440 --> 00:48:33.620] Yeah.
+[00:48:33.720 --> 00:48:36.800] Like what kind of, who is that, who's doing this?
+[00:48:36.960 --> 00:48:39.220] I mean, they probably have zero sales on here.
+[00:48:39.520 --> 00:48:39.740] Right.
+[00:48:39.740 --> 00:48:44.080] But it says, delivering upon India, Haldiram, a taste of tradition.
+[00:48:44.740 --> 00:48:46.600] Are you on their website right now at the top?
+[00:48:46.600 --> 00:48:46.740] Yeah.
+[00:48:47.200 --> 00:48:48.960] It says, caution, beware of fraud.
+[00:48:49.120 --> 00:48:56.740] We do not accept and encourage online payments with respect to super stockist distributorship
+[00:48:57.500 --> 00:48:57.980] franchisee.
+[00:48:58.540 --> 00:49:00.140] This makes zero sense.
+[00:49:00.160 --> 00:49:01.380] I don't even know what you're talking about.
+[00:49:01.380 --> 00:49:04.740] They're basically telling people, hey, don't give us your card.
+[00:49:05.520 --> 00:49:06.240] We're gonna steal it.
+[00:49:06.700 --> 00:49:06.900] Yeah.
+[00:49:07.520 --> 00:49:10.080] And you know, the best part is they couldn't care.
+[00:49:10.240 --> 00:49:13.620] Like if you told the CEO, hey, your website says, caution, beware of fraud.
+[00:49:13.680 --> 00:49:14.860] He'd be like, I don't even care.
+[00:49:15.100 --> 00:49:15.500] Yes.
+[00:49:15.500 --> 00:49:17.120] I have one sale there every week.
+[00:49:17.120 --> 00:49:20.360] It could say, caution, this stuff will give you diarrhea and heartburn.
+[00:49:22.920 --> 00:49:25.760] And at least that caution should be with all Indian.
+[00:49:25.920 --> 00:49:27.520] He's like, that caution goes with all Indian.
+[00:49:27.960 --> 00:49:28.820] It's the law.
+[00:49:29.440 --> 00:49:30.180] It's the law.
+[00:49:30.300 --> 00:49:30.920] We know it.
+[00:49:32.200 --> 00:49:33.120] That's so funny.
+[00:49:33.120 --> 00:49:38.560] But yeah, like there's no, there's also no Panda Express of Indian food, which I always
+[00:49:38.560 --> 00:49:43.440] felt was like, I mean, who doesn't want a quick butter chicken naan on the go?
+[00:49:43.520 --> 00:49:45.340] There's some like, there's small chains.
+[00:49:45.520 --> 00:49:47.540] Same thing with like the Indian grocery stores.
+[00:49:47.740 --> 00:49:49.700] There's obviously small ones based in the community.
+[00:49:49.860 --> 00:49:50.300] Telebrothers.
+[00:49:50.300 --> 00:49:55.440] But yeah, but like nobody's really been like, okay, how do we go and, you know, do something
+[00:49:55.440 --> 00:49:57.360] like that for the Indian market?
+[00:49:57.720 --> 00:49:58.080] Yeah.
+[00:49:58.200 --> 00:49:58.960] I'm not sure why.
+[00:49:59.040 --> 00:50:03.160] Because I feel like, you know, Chipotle is like, how come they can't build Chipotle?
+[00:50:03.360 --> 00:50:05.340] Like Blaze pizza is just Chipotle pizza.
+[00:50:05.780 --> 00:50:06.080] Right.
+[00:50:06.460 --> 00:50:08.520] Why can we not do that for Indian food?
+[00:50:08.740 --> 00:50:12.520] It might be because it's so heavy that like no one wants to eat it for lunch or it might
+[00:50:12.520 --> 00:50:14.400] just be like, nobody's gotten it right.
+[00:50:14.700 --> 00:50:18.420] The other thing that I saw in New York sometimes I get is like, there's an Indian pizza place
+[00:50:18.420 --> 00:50:20.680] where they'll be like chicken tikka masala, or maybe it's an S.S.A.
+[00:50:21.020 --> 00:50:21.500] I think that's-
+[00:50:21.500 --> 00:50:23.800] Chicken tikka masala pizza and it was delicious.
+[00:50:24.380 --> 00:50:24.700] Yeah.
+[00:50:24.800 --> 00:50:29.040] Which by the way, putting Trader Joe's chicken tikka masala on a frozen pizza is one of the
+[00:50:29.040 --> 00:50:30.060] best life hacks ever.
+[00:50:30.520 --> 00:50:31.000] Great idea.
+[00:50:31.160 --> 00:50:31.280] Yeah.
+[00:50:31.520 --> 00:50:35.380] And I'm not sure why we don't do that more often or why the Indian community has not
+[00:50:35.380 --> 00:50:35.980] gotten this right.
+[00:50:36.280 --> 00:50:38.900] I asked, do you know Snigda who founded the Juggernaut?
+[00:50:39.680 --> 00:50:40.080] No.
+[00:50:40.560 --> 00:50:45.020] So I asked her, she's insanely plugged in to us brown community folks.
+[00:50:45.980 --> 00:50:50.760] And she was like, you know, it's just a brown guy looks at that or a brown guy looks at
+[00:50:50.760 --> 00:50:52.380] that and is like, you know what?
+[00:50:52.540 --> 00:50:53.720] I'm going to just go into tech.
+[00:50:53.860 --> 00:50:54.740] This is a lot of work.
+[00:50:56.860 --> 00:50:58.160] For what it's worth, they're right.
+[00:50:58.660 --> 00:50:59.740] I do know the Juggernaut.
+[00:50:59.820 --> 00:51:00.120] I'm sorry.
+[00:51:00.280 --> 00:51:02.140] I took me a moment to remember what that was.
+[00:51:02.940 --> 00:51:03.800] Yeah, that's true.
+[00:51:03.800 --> 00:51:05.820] It is a lot of work, but like, you know, we're here.
+[00:51:06.000 --> 00:51:06.780] We're doing everything now.
+[00:51:06.940 --> 00:51:07.300] We're in consumer.
+[00:51:07.980 --> 00:51:10.600] Before when you had only been like CTO of Dropbox.
+[00:51:10.600 --> 00:51:10.900] Yeah.
+[00:51:11.160 --> 00:51:12.640] And like MasterCard.
+[00:51:12.820 --> 00:51:14.720] Now we've got Starbucks.
+[00:51:14.920 --> 00:51:16.060] We're coming for you.
+[00:51:16.640 --> 00:51:16.900] Yeah.
+[00:51:17.380 --> 00:51:18.580] That's a really interesting thing.
+[00:51:18.680 --> 00:51:20.560] So Haldedrom is worth $3 billion.
+[00:51:20.900 --> 00:51:21.680] It's publicly traded?
+[00:51:22.920 --> 00:51:24.020] That I'm not sure.
+[00:51:24.280 --> 00:51:24.760] Okay, I'll try.
+[00:51:24.920 --> 00:51:26.720] It just sounds worth $3 billion somewhere.
+[00:51:27.100 --> 00:51:27.500] Yeah.
+[00:51:28.220 --> 00:51:28.920] Oh yeah.
+[00:51:29.040 --> 00:51:30.260] It's topping $1 billion in sales.
+[00:51:30.360 --> 00:51:30.500] Okay.
+[00:51:30.560 --> 00:51:30.660] Yeah.
+[00:51:30.700 --> 00:51:32.740] I see it on financialexpress.com.
+[00:51:32.860 --> 00:51:34.960] This is a website that makes it.
+[00:51:37.240 --> 00:51:40.240] It's actually just regurgitated from a WhatsApp group.
+[00:51:45.060 --> 00:51:45.860] Well, fantastic.
+[00:51:46.320 --> 00:51:47.080] Yeah, that's it.
+[00:51:47.180 --> 00:51:48.080] We got to run for a C.
+[00:51:48.140 --> 00:51:49.360] This is the last episode.
+[00:51:49.660 --> 00:51:50.700] This is it, man.
+[00:51:50.920 --> 00:51:51.140] All right.
+[00:51:51.220 --> 00:51:52.720] Everybody needs to get in on Slack.
+[00:51:53.140 --> 00:51:53.320] Yeah.
+[00:51:54.320 --> 00:51:55.120] Limitedsupplypod.com.
+[00:51:55.260 --> 00:51:56.580] Should we, what should we do?
+[00:51:56.780 --> 00:51:58.020] Should we, should we do a raffle?
+[00:51:58.280 --> 00:51:59.300] Should we throw some prize money?
+[00:51:59.440 --> 00:52:00.760] Should we just drop like five grand?
+[00:52:01.200 --> 00:52:01.840] The first.
+[00:52:02.040 --> 00:52:02.440] I'm game.
+[00:52:02.440 --> 00:52:05.860] The first like thousand people to get in or get a coffee on us.
+[00:52:05.980 --> 00:52:06.400] How about that?
+[00:52:06.980 --> 00:52:07.880] I'm game to do that.
+[00:52:08.020 --> 00:52:10.880] Or I'm game to say of the first thousand people that join, we're going to pick one random
+[00:52:10.880 --> 00:52:12.340] guy and give them $5,000.
+[00:52:12.700 --> 00:52:13.120] I like that.
+[00:52:13.180 --> 00:52:13.660] $5,000.
+[00:52:13.940 --> 00:52:14.800] I'm game to do either.
+[00:52:15.080 --> 00:52:15.380] All right.
+[00:52:15.500 --> 00:52:15.900] Let's do that.
+[00:52:16.180 --> 00:52:16.360] Yeah.
+[00:52:16.480 --> 00:52:17.000] Let's do that.
+[00:52:17.000 --> 00:52:17.560] That's a big one.
+[00:52:18.020 --> 00:52:22.260] Of the first thousand people that join, we're going to pick one person, him or her,
+[00:52:22.420 --> 00:52:23.560] she's going to win $1,000.
+[00:52:24.240 --> 00:52:25.520] We'll figure out a way to pick them.
+[00:52:25.900 --> 00:52:26.820] And that'll be a ton of them.
+[00:52:27.360 --> 00:52:27.660] Sweet.
+[00:52:28.180 --> 00:52:29.740] All right, guys, we'll see you in Slack.
+[00:52:30.280 --> 00:52:31.760] That's a wrap for season three.
+[00:52:32.340 --> 00:52:33.320] We'll be back soon.
+[00:52:34.000 --> 00:52:35.040] Thanks for tuning in.
+[00:52:35.220 --> 00:52:38.800] We'll be back next time to cut through the noise in CPG, retail and e-commerce.
+[00:52:39.140 --> 00:52:42.460] And if you enjoyed this episode, then why not share it with a friend?
+[00:52:42.840 --> 00:52:46.300] And be sure to subscribe wherever you listen so you don't miss the next one.

@@ -1,0 +1,960 @@
+[00:00:00.000 --> 00:00:14.560] Here's this if you eat Magic Spoon and here's what you get if you eat Cinnamon Toast Crunch. If you eat Cinnamon Toast Crunch, you get diabetes. If you eat Magic Spoon, you live forever. And I thought that was a great ad. All of these comparisons where there's a split line are great ads.
+[00:00:14.740 --> 00:00:28.500] The businesses that have the best LTV follow that framework, which is basically, first of all, you're not even thinking about this problem, but we're going to present a problem to you. So step one is present the problem. Then it's our product is the solution.
+[00:00:28.500 --> 00:00:38.480] Because effortlessly, it does X. This is Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:38.820 --> 00:00:42.240] We're your hosts, Nick and Moyes. Let's start talking about money.
+[00:00:43.520 --> 00:00:58.480] Did you know that the Messi, Messi's a soccer player, his store tripled sales in a month after they launched their TapCard app. They saw a higher conversion rate, obviously, because it's within the app, but sending people to their app and then getting people to browse and shop, especially for a category of sales,
+[00:00:58.480 --> 00:01:06.860] category like apparel, it crushed for them. They got push notifications, they got instant page loading, which I don't know if you've run ads on TikTok yet.
+[00:01:07.000 --> 00:01:11.820] Their instant page works really well for conversion and in the mobile app, it does just as well.
+[00:01:11.820 --> 00:01:28.200] You get one click checkout and typically we see higher AOV from that as well. I think if you're a Limited Supply listener, you should definitely be on TapCard. You should go to tapcart.com slash limited. You'll get two months free. Try it out. Send it to us. We'll rate it and we'll give you a review.
+[00:01:29.720 --> 00:01:48.000] Nick, this is episode eight of our podcast. We've already recorded episode nine. We had some trouble getting it on air for March 8th. So this is actually going to launch tomorrow and we had to move version. We had to move what was going to be episode eight into episode nine. But I'm super excited about today. A bunch of stuff to talk about.
+[00:01:48.000 --> 00:02:00.820] We're going to talk a little bit about fundraising in the direct-to-consumer community, which I have a tough time understanding what's going on right now. We're going to talk about some Warby Parker earnings, some new features on Klaviyo and Stripe.
+[00:02:01.360 --> 00:02:18.080] We're going to talk about one crazy Indian company, like a company based in India that I chatted with called Jugnu, which is such an Indian name. And some other tips that I've got for pop-ups. And then finally, this Wall Street Journal article about Ozempic, which is not a weight loss shot, but everyone's using it that way.
+[00:02:18.760 --> 00:02:18.880] Cool.
+[00:02:19.440 --> 00:02:20.960] Okay, so a bunch of stuff to get through.
+[00:02:21.600 --> 00:02:29.520] Yeah. And this week, I'm in San Diego at eCommerce Fuel as well. So episode 10, I'll have a bunch of notes on my recap of this event.
+[00:02:29.520 --> 00:02:32.240] Okay, awesome. Are you talking at eCommerce Fuel today?
+[00:02:32.760 --> 00:02:37.000] I'm talking tomorrow. Yeah. So basically today when this podcast comes out.
+[00:02:37.220 --> 00:02:56.940] Okay. I spoke in front of them in 2019. I really love that community. It's a bunch of six, seven, and eight-figure businesses. I do feel like people stay on for life in eCommerce Fuel. And I feel like there should be new blood and old blood should sort of move out of the way because it's really good if you're launching a new business.
+[00:02:57.560 --> 00:03:07.540] It becomes less helpful if you've been in business for 10 years, I think, or been in business for five years. But I really love the community and love the people in it. I had a great time. I hope you have a great time there too.
+[00:03:07.540 --> 00:03:23.580] Yeah, it's been pretty fun. It's funny because in New York or I think a lot of the brands that we tend to talk about, they're venture-backed. They're scaling like crazy. These are just like a couple that sells crochet kits and they're making $20 million.
+[00:03:23.580 --> 00:03:30.360] Or some guy selling $5 million worth of automatic assault rifles on the internet.
+[00:03:30.980 --> 00:03:34.260] Or somebody selling like sprinkler heads.
+[00:03:34.480 --> 00:03:46.900] You can. There's like a proper license and screening process to get the gun. But somebody else sells sprinkler heads and makes $35 million. It's just like completely different than what I would say we normally talk about.
+[00:03:46.900 --> 00:03:58.920] But it's a very, very awesome community. Very supportive. Everybody here is insanely nice. So it's just fun to hang around like awesome people who are equally as much of a nerd as you are about something.
+[00:03:59.420 --> 00:04:10.740] I remember I attended one other like mastermind. And at that mastermind, you talk to someone and be like, hey, so what's your business? And they're like, I'm not telling anybody my business because I'm afraid everyone here is going to copy it.
+[00:04:11.120 --> 00:04:20.100] And I was like, it was the first time I was there and I was like, this is toxic. Like everybody, you won't even share your name. You're like, hey, my name is John and I won't tell you my last name.
+[00:04:20.600 --> 00:04:27.680] It felt like it was a meeting of CIA agents. And the e-commerce fuel community is the exact opposite of that. And I really love that.
+[00:04:28.100 --> 00:04:39.580] But okay, let's get into some fundraising stuff. The reason I wanted to bring this up is because basically I thought fundraising and e-commerce was dead and has been dead for or like, you know, has been really slow.
+[00:04:39.740 --> 00:04:45.820] I shouldn't say dead, but it's been really slow for at least a year. Like far fewer brands are going out there to raise money.
+[00:04:46.200 --> 00:04:52.720] Even like the e-commerce SaaS, like even SaaS community in general has been much slower. But the e-commerce SaaS community has been slower as well.
+[00:04:52.720 --> 00:04:57.420] Like I don't see the Yappos or Klaviyos or PostScripts or Okendo.
+[00:04:57.580 --> 00:05:03.060] Like I don't see any of these brands or Gorgias's or any of those things launching new fundraising rounds.
+[00:05:03.080 --> 00:05:10.320] And it's not their fault. It's just like there's been a market correction and they fundraised 18 months ago or 22 months ago or something to that effect.
+[00:05:10.460 --> 00:05:13.300] And they've been utilizing those funds and that's been great.
+[00:05:13.300 --> 00:05:24.140] But all of a sudden in the past like seven days, I saw a bunch of e-commerce businesses or consumer brands raise money and not like raise growth equity money of like $40 million.
+[00:05:24.520 --> 00:05:28.900] Like I'm already in Target. This is a $40 million secondary round. I'm putting it all in my pocket.
+[00:05:29.220 --> 00:05:32.240] This private equity firm is going to take 70% of the business.
+[00:05:32.460 --> 00:05:34.000] I own 30% and we move on.
+[00:05:34.000 --> 00:05:36.700] Like it's not that. It's like series A rounds.
+[00:05:36.960 --> 00:05:42.580] And you and I are in one of them, IMI, the instant ramen company with the Kevins.
+[00:05:42.760 --> 00:05:43.940] They raised $10 million.
+[00:05:44.840 --> 00:05:48.060] There's this company called Oats Overnight that raised $20 million.
+[00:05:48.780 --> 00:05:49.940] I'm in that one as well.
+[00:05:50.180 --> 00:05:50.940] Are you really?
+[00:05:51.280 --> 00:05:51.680] Yeah.
+[00:05:52.400 --> 00:05:54.580] I just heard of this business. What is it?
+[00:05:55.160 --> 00:05:56.540] I've never tried the product.
+[00:05:56.700 --> 00:05:57.980] You're saying it so fucking casually, huh?
+[00:05:58.900 --> 00:06:05.940] My co-founder and 1180, Scott, every morning he just like, he has his Oats Overnight shaker bottle on his desk.
+[00:06:06.100 --> 00:06:08.800] And I've seen him have it for over a year.
+[00:06:09.480 --> 00:06:12.040] So as soon as I saw the opportunity, I was like, I'm in.
+[00:06:12.140 --> 00:06:13.340] I've never tried the product.
+[00:06:13.580 --> 00:06:14.600] Don't know what it tastes like.
+[00:06:14.740 --> 00:06:16.100] But I've seen him use it for a year.
+[00:06:16.240 --> 00:06:17.140] So I'm convinced.
+[00:06:18.100 --> 00:06:21.620] Well, looks like a great investment so far.
+[00:06:22.020 --> 00:06:23.420] I guess two things that are interesting.
+[00:06:23.580 --> 00:06:25.140] One is how you made that investment.
+[00:06:25.140 --> 00:06:32.760] My brother invested in Hint Water and in a couple other businesses simply by virtue of the fact that he had the products in his office.
+[00:06:32.800 --> 00:06:35.440] And people would come by and be like, hey, I want to try this.
+[00:06:35.560 --> 00:06:37.260] Or people would come by and just drink it all.
+[00:06:37.600 --> 00:06:43.180] Hint, he's like, when we didn't have Hint Water at Tiny Co's offices, the staff was like, hey, where's the Hint Water?
+[00:06:43.400 --> 00:06:49.360] And so he's like, this is a great business because people care about it and are mentioning it to me when it's not here.
+[00:06:49.920 --> 00:06:52.240] I'm looking at Oats Overnight's website right now.
+[00:06:52.240 --> 00:07:04.160] They do this really interesting thing if you scroll down below the fold where they compare Oats Overnight versus like cereal or versus like a Starbucks Frappuccino versus like eggs as breakfast or a pastry and like how Oats Overnight is better for you.
+[00:07:04.500 --> 00:07:08.820] It's actually a really great display of like Magic Spoon does this really well as well.
+[00:07:08.960 --> 00:07:14.800] Like Magic Spoon would do this thing where they're like, here's this if you eat Magic Spoon and here's what you get if you eat Cinnamon Toast Crunch.
+[00:07:15.040 --> 00:07:17.080] If you eat Cinnamon Toast Crunch, you get diabetes.
+[00:07:17.080 --> 00:07:18.960] If you eat Magic Spoon, you live forever.
+[00:07:19.500 --> 00:07:21.800] And I thought that was a great ad.
+[00:07:21.960 --> 00:07:25.140] Like all of these comparisons where there's a split line are great ads.
+[00:07:25.320 --> 00:07:34.380] The businesses that have the best LTV kind of follow that framework, which is basically, first of all, you're not even thinking about this problem, but we're going to present a problem to you.
+[00:07:34.620 --> 00:07:36.500] So step one is present the problem.
+[00:07:36.760 --> 00:07:42.120] Then it's our product is the solution because effortlessly it does X.
+[00:07:42.580 --> 00:07:46.020] With minimal effort, this product accomplishes something.
+[00:07:46.020 --> 00:07:49.300] And then the benefit is what you receive.
+[00:07:49.520 --> 00:08:01.920] Now, the reason it does so well for LTV is because it also in the same way says, if you stop this subscription, you will get fat again or you will get diabetes or you will turn ugly.
+[00:08:02.140 --> 00:08:04.000] So Oats Overnight does this really well.
+[00:08:04.160 --> 00:08:05.520] Magic Spoon does this really well.
+[00:08:05.700 --> 00:08:07.040] There's two other businesses.
+[00:08:07.740 --> 00:08:09.520] One is Canopy and one is Jolie.
+[00:08:09.680 --> 00:08:10.800] We've talked about both of them.
+[00:08:10.800 --> 00:08:17.900] Both are products that one is a humidifier and it is framed in the light of a beauty product.
+[00:08:18.040 --> 00:08:18.920] The same thing with Jolie.
+[00:08:19.120 --> 00:08:23.300] It's a shower head framed in the light of this is a beauty device.
+[00:08:23.700 --> 00:08:25.120] They both have subscriptions.
+[00:08:25.120 --> 00:08:34.600] And the reason they both have such low churn is because of that same framework of you are sleeping at night and your air is dry.
+[00:08:34.600 --> 00:08:36.000] So your skin is getting dry.
+[00:08:36.000 --> 00:08:39.840] If you use our humidifier automatically, you will become beautiful.
+[00:08:40.100 --> 00:08:44.220] We have a filter subscription to keep the moisture in the air clean.
+[00:08:44.220 --> 00:08:48.280] And if you do not get our subscription, you will become ugly.
+[00:08:49.160 --> 00:08:52.640] And I think like most businesses are based on that premise of here's a problem.
+[00:08:52.800 --> 00:08:53.900] Here's a solution to it.
+[00:08:54.100 --> 00:09:00.200] This is even more interesting because it's almost like the problem, like just replace a daily thing that you're already doing.
+[00:09:00.300 --> 00:09:04.980] Like Jolie, like I think most people don't have, everyone has a shower head.
+[00:09:05.080 --> 00:09:06.760] Most people don't have filter showers.
+[00:09:07.280 --> 00:09:09.340] Canopy, I think most people don't have humidifiers.
+[00:09:09.340 --> 00:09:09.780] Humidifiers.
+[00:09:10.020 --> 00:09:14.420] Although if you live in San Francisco, I bet there's a chance that you have like an air purifier because of all the fires.
+[00:09:14.860 --> 00:09:19.940] But like this is like here's an ad where you're looking at it and you're like, oh, this is what I usually do.
+[00:09:20.520 --> 00:09:22.640] This is the exact replacement to it.
+[00:09:22.820 --> 00:09:24.100] It's a substitute good.
+[00:09:24.240 --> 00:09:26.260] And the substitute good is better for me.
+[00:09:26.340 --> 00:09:27.280] And so I should switch.
+[00:09:27.420 --> 00:09:30.600] And they're like, hey, overnight oat is better than a bowl of cereal.
+[00:09:31.340 --> 00:09:33.040] Humidifier is better than no humidifier.
+[00:09:33.140 --> 00:09:37.960] But I don't know how you could create an ad like this where you'd split it down the line and you'd be like, here's a humidifier.
+[00:09:37.960 --> 00:09:39.100] Here's no humidifier.
+[00:09:39.280 --> 00:09:40.580] And here's what your skin looks like.
+[00:09:40.700 --> 00:09:41.700] There'd be another step.
+[00:09:41.920 --> 00:09:44.740] This is incredible because it's just like, here's what you're doing currently.
+[00:09:44.920 --> 00:09:45.640] You're eating cereal.
+[00:09:45.760 --> 00:09:46.940] It has two grams of protein.
+[00:09:47.120 --> 00:09:47.860] Have overnight oats.
+[00:09:47.940 --> 00:09:49.160] It's 20 grams of protein.
+[00:09:49.380 --> 00:09:50.100] Yeah, it's a good point.
+[00:09:50.540 --> 00:09:51.700] But anyway, oats overnight.
+[00:09:52.060 --> 00:09:52.880] You're an investor.
+[00:09:52.980 --> 00:09:53.960] They just raised $20 million.
+[00:09:55.020 --> 00:09:56.380] I've never heard of the brand.
+[00:09:57.100 --> 00:09:58.740] Sounds like you barely heard of the brand.
+[00:09:58.880 --> 00:10:00.800] You just made a bunch of money on it.
+[00:10:01.220 --> 00:10:06.660] Belly Welly is this company that does like bars for girls that have, or I shouldn't say girls,
+[00:10:06.660 --> 00:10:09.520] for people that have IBS, irritable bowel syndrome.
+[00:10:10.240 --> 00:10:12.400] And I actually met the founder some time ago.
+[00:10:12.520 --> 00:10:13.200] Her name's Katie.
+[00:10:13.780 --> 00:10:16.420] I heard of this and I was like, okay, I don't know what to think about it.
+[00:10:16.520 --> 00:10:21.580] And she just raised $15 million at a time where it's like really hard to raise money in consumer
+[00:10:21.580 --> 00:10:21.980] brands.
+[00:10:22.140 --> 00:10:24.220] Things must be going quite well, I would imagine.
+[00:10:24.460 --> 00:10:28.680] I remember she posted on Instagram and she's like, I think they bought a billboard that said,
+[00:10:29.040 --> 00:10:30.560] hot girls have IBS.
+[00:10:30.940 --> 00:10:31.100] Yeah.
+[00:10:31.100 --> 00:10:32.240] Have you seen that?
+[00:10:32.660 --> 00:10:36.260] I'm not sure if it was a real billboard or if it was computer generated, but I was like,
+[00:10:36.420 --> 00:10:38.700] this is a great, great ad.
+[00:10:38.900 --> 00:10:40.360] It was a real billboard.
+[00:10:40.760 --> 00:10:42.460] That said hot girls have IBS.
+[00:10:43.060 --> 00:10:43.280] Yeah.
+[00:10:44.020 --> 00:10:45.840] That's what I love about consumer brands.
+[00:10:46.060 --> 00:10:50.220] Even today, Procter & Gamble has been around for 150 years.
+[00:10:50.840 --> 00:10:52.520] Native has been around for eight years.
+[00:10:52.900 --> 00:10:56.140] Even today, people are constantly innovating on marketing strategies.
+[00:10:56.440 --> 00:10:57.980] Hot girls have IBS.
+[00:10:59.020 --> 00:11:00.800] That billboard would get my attention.
+[00:11:00.920 --> 00:11:02.920] The same way that Liquid Death had that billboard that said,
+[00:11:03.240 --> 00:11:05.320] murderers for hire, that would get my attention.
+[00:11:05.500 --> 00:11:06.220] So with this.
+[00:11:06.480 --> 00:11:08.420] There was another really interesting one.
+[00:11:08.920 --> 00:11:13.460] I don't know where I saw it, but I saw it this morning, either in email or on Twitter.
+[00:11:13.720 --> 00:11:16.260] And this company, I think it was a cereal company.
+[00:11:16.700 --> 00:11:21.320] They put these really awesome looking photos of their cereal bowl.
+[00:11:21.320 --> 00:11:26.480] And then in big text, it says, Dwayne Johnson loves our cereal.
+[00:11:26.840 --> 00:11:32.440] And then at the bottom, it's like, we're talking about Dwayne Johnson, the bus driver in Louisville, Kentucky.
+[00:11:32.860 --> 00:11:36.360] And then, you know, Serena Williams eats our cereal every day.
+[00:11:36.500 --> 00:11:39.520] And then at the bottom, Serena Williams, the librarian in Pennsylvania.
+[00:11:40.760 --> 00:11:41.640] That's fantastic.
+[00:11:42.300 --> 00:11:43.120] That's really funny.
+[00:11:43.280 --> 00:11:45.260] I still feel like they're going to get cease and desist letters.
+[00:11:45.500 --> 00:11:47.020] I'm not sure you should get cease and desist letters.
+[00:11:47.020 --> 00:11:49.400] In fact, that would probably be even better.
+[00:11:49.400 --> 00:11:50.640] That would add to the story.
+[00:11:50.660 --> 00:11:51.060] Yeah, that is really clever.
+[00:11:51.340 --> 00:11:51.480] Yeah.
+[00:11:51.680 --> 00:11:51.780] Yeah.
+[00:11:52.120 --> 00:11:53.560] There's two other brands I wanted to mention.
+[00:11:53.660 --> 00:11:58.740] There's a brand called Tinted, which sells like makeup for women.
+[00:11:59.080 --> 00:12:04.680] But I think they're probably centered a little bit more around like women of darker shades or colored women.
+[00:12:04.680 --> 00:12:06.680] It was started by this Indian woman.
+[00:12:07.040 --> 00:12:08.540] And then there was a popcorn company.
+[00:12:08.640 --> 00:12:09.480] They raised $10 million.
+[00:12:09.840 --> 00:12:13.660] There's a popcorn company called Poppy Popcorn that raised $3 million.
+[00:12:14.600 --> 00:12:17.880] All of a sudden, like in the past like week, I've seen all of these brands.
+[00:12:17.880 --> 00:12:19.340] They're at least announcing the deals.
+[00:12:19.500 --> 00:12:20.840] I'm not sure if Belly Welly raised them.
+[00:12:20.840 --> 00:12:25.600] I know a lot of these deals were done months ago and they just didn't want to announce it yet.
+[00:12:26.100 --> 00:12:31.260] But yeah, it feels as if there's definitely a lot less pitch decks in my email.
+[00:12:32.240 --> 00:12:37.340] But yeah, I mean, some of these brands, you know, I think it also sets brands like EMI apart.
+[00:12:37.500 --> 00:12:39.500] EMI is doing like real revenue.
+[00:12:40.160 --> 00:12:45.760] They're running a real business versus they're not spending the money the same way they would have maybe three years ago.
+[00:12:45.760 --> 00:12:47.340] I mean, those guys are different.
+[00:12:47.600 --> 00:12:49.900] They never spent a dollar in the beginning anyways.
+[00:12:50.660 --> 00:12:51.460] But generally.
+[00:12:51.960 --> 00:12:52.480] You're right.
+[00:12:52.600 --> 00:12:52.640] Yeah.
+[00:12:52.760 --> 00:13:01.760] These are real businesses with real revenue that have like growth opportunities where they're like, hey, we're thinking they're going to target or we need to expand for some reason or another or need some capital.
+[00:13:02.440 --> 00:13:04.600] They are not, hey, we're starting a business.
+[00:13:04.660 --> 00:13:09.220] We need $2 million to figure out whether or not this consumer brand is going to work.
+[00:13:09.360 --> 00:13:11.160] I see a lot fewer of those decks as well.
+[00:13:11.580 --> 00:13:11.980] Agreed.
+[00:13:12.540 --> 00:13:14.420] But anyway, it was refreshing to see.
+[00:13:14.520 --> 00:13:15.480] I was really glad to see it.
+[00:13:15.820 --> 00:13:21.980] Like, you know, it was an odd time for me to see it because I feel like the markets are so close to fundraising right now or it's so difficult.
+[00:13:22.220 --> 00:13:23.560] Like the stock market is so tough.
+[00:13:23.860 --> 00:13:25.080] Interest rates are so high.
+[00:13:25.240 --> 00:13:33.500] And look, you know, as an investor, the way I think about investing is like, you know, two years ago, if you're sitting on cash, you can do nothing with the cash.
+[00:13:33.620 --> 00:13:35.660] You've got to find a way to invest it to make a return.
+[00:13:35.660 --> 00:13:41.820] Today, you can invest it in a corporate bond or a U.S. Treasury and make 6% or 5.5%.
+[00:13:41.820 --> 00:13:44.160] And that's like a legitimate return.
+[00:13:44.420 --> 00:13:46.560] So you're like, I can make 5.5% here.
+[00:13:46.780 --> 00:13:57.580] Is this investment in IMI or Belly Welly or Tinted or Oats Overnight or this popcorn brand going to do better than my 5% guaranteed return in the U.S. Treasuries?
+[00:13:57.580 --> 00:13:59.920] And so I was glad to see this.
+[00:14:00.080 --> 00:14:01.600] I hope that we see more of these.
+[00:14:02.080 --> 00:14:04.180] I'm not confident we will, but I hope we see more.
+[00:14:04.880 --> 00:14:06.620] But okay, let's move on.
+[00:14:06.680 --> 00:14:08.140] I want to talk about Warby Parker earnings.
+[00:14:08.320 --> 00:14:09.380] You said you had taken a look at those.
+[00:14:09.480 --> 00:14:10.360] Would love to get your thoughts.
+[00:14:10.440 --> 00:14:11.380] I haven't done a good job of that.
+[00:14:12.040 --> 00:14:16.900] I'll give you a quick rundown of all the things that I think were interesting in the earnings report.
+[00:14:17.620 --> 00:14:20.580] So as we know, Warby Parker, they have frames.
+[00:14:20.720 --> 00:14:21.540] I'm wearing these right now.
+[00:14:21.700 --> 00:14:23.440] Warby Parker, fresh pair.
+[00:14:24.300 --> 00:14:25.160] Frames are $95.
+[00:14:25.800 --> 00:14:27.640] The most it gets to is like $120.
+[00:14:28.180 --> 00:14:29.740] You get them within two weeks.
+[00:14:29.900 --> 00:14:30.800] They do the whole eye test.
+[00:14:30.900 --> 00:14:31.380] They do everything.
+[00:14:31.640 --> 00:14:35.440] So in 2020, they did $393 million.
+[00:14:35.900 --> 00:14:41.900] In 2021, they grew a ton, about 37%, to $541 million.
+[00:14:42.460 --> 00:14:45.480] Last year, they did $598 million.
+[00:14:45.720 --> 00:14:47.100] So they only grew 10%.
+[00:14:47.680 --> 00:14:54.040] Their EBITDA was $3 million more, went from $25 to $25 to $27.
+[00:14:54.040 --> 00:14:56.500] Yeah, they're adjusted EBITDA, to be clear.
+[00:14:56.680 --> 00:14:57.440] They're adjusted EBITDA.
+[00:14:57.660 --> 00:15:00.260] I think actual EBITDA is negative, probably.
+[00:15:01.060 --> 00:15:01.240] Yeah.
+[00:15:01.940 --> 00:15:06.780] The active customers grew not by a ton, about 4%.
+[00:15:06.780 --> 00:15:08.980] But all right, so some cool stuff.
+[00:15:09.240 --> 00:15:16.320] So their marketing spend went down, they said, 41%, from $29.6 million to $17.6 million.
+[00:15:16.320 --> 00:15:21.740] Keep in mind, at the same time, they still had top-line growth, as well as customer growth.
+[00:15:22.360 --> 00:15:24.520] Can you repeat those marketing numbers one more time?
+[00:15:24.920 --> 00:15:27.740] Yeah, 29.6 to $17.6.
+[00:15:28.480 --> 00:15:32.060] That blows my mind that their marketing spend is $17.6 million.
+[00:15:32.680 --> 00:15:36.640] So $1.5 million a month on marketing spend.
+[00:15:36.860 --> 00:15:38.000] Oh, this is in Q4.
+[00:15:38.140 --> 00:15:39.380] Oh, just in Q4, sorry.
+[00:15:39.540 --> 00:15:40.600] Okay, Q4 marketing spend.
+[00:15:40.720 --> 00:15:41.560] Okay, $17 million.
+[00:15:41.560 --> 00:15:44.300] Okay, so $5 million a month or so.
+[00:15:44.400 --> 00:15:45.840] So $60 million, $70 million.
+[00:15:45.960 --> 00:15:46.520] Okay, gotcha.
+[00:15:46.620 --> 00:15:47.880] That doesn't seem crazy.
+[00:15:48.380 --> 00:15:55.140] Also, e-commerce represented a lesser piece of the entire pie in terms of the total business.
+[00:15:55.560 --> 00:15:58.220] So in 2021, it represented 41%.
+[00:15:58.220 --> 00:16:00.420] In 2022, it represented 37%.
+[00:16:01.280 --> 00:16:11.040] In 2022, the stores that were open for more than 12 months generated at least $2.1 million in revenue, which is a pretty solid stat.
+[00:16:11.740 --> 00:16:13.820] Their overall NPS score is 80.
+[00:16:14.760 --> 00:16:18.740] Let's break down a few of these things, and I'm going to do it live because I haven't really digested this information.
+[00:16:18.920 --> 00:16:22.480] So on average, let's say a store is doing $2.1 million in revenue.
+[00:16:22.480 --> 00:16:29.300] That means $175,000 in sales a month at a store, which means $5,800 a day.
+[00:16:29.580 --> 00:16:34.200] First, that does not seem like a lot, especially because when I go in for an eye exam, it costs $200.
+[00:16:34.640 --> 00:16:38.820] But I think that eye exam may be done by an independent optician, so that doesn't count.
+[00:16:39.080 --> 00:16:41.360] But we're talking about $5,800 a day.
+[00:16:41.560 --> 00:16:45.840] Let's say their average order is $120, or let's say it's $100, okay?
+[00:16:46.000 --> 00:16:48.240] We're talking about 58 sales a day.
+[00:16:49.120 --> 00:16:51.400] That doesn't seem like that much, does it?
+[00:16:51.520 --> 00:16:53.100] Like 58 people going to a Warby Parker store?
+[00:16:53.100 --> 00:16:53.480] Yeah, 58 sales.
+[00:16:53.820 --> 00:16:54.500] There was...
+[00:16:54.500 --> 00:16:57.740] Last one I went to, there was about three sales associates there.
+[00:16:57.980 --> 00:17:01.700] So that's like 19 sales a day per person.
+[00:17:02.560 --> 00:17:03.440] It's not a lot.
+[00:17:04.100 --> 00:17:05.200] It's like two an hour.
+[00:17:05.460 --> 00:17:06.280] That doesn't seem that much.
+[00:17:06.280 --> 00:17:09.140] I mean, my process did take probably about 30 minutes.
+[00:17:09.260 --> 00:17:11.180] So two an hour does sound kind of right.
+[00:17:11.780 --> 00:17:13.620] If you have like an eight-hour day, you mean?
+[00:17:13.760 --> 00:17:15.860] But they're probably open for more than eight hours.
+[00:17:16.040 --> 00:17:16.840] Maybe they're not.
+[00:17:16.960 --> 00:17:17.880] Maybe like nine to six.
+[00:17:17.880 --> 00:17:20.060] I thought they'd go a little bit later, but...
+[00:17:20.060 --> 00:17:21.640] Let's see, they're 10 to eight.
+[00:17:21.880 --> 00:17:23.280] So 11 hours, actually.
+[00:17:23.780 --> 00:17:23.960] Yeah.
+[00:17:24.300 --> 00:17:26.940] That's like not as much as you'd think, like 2.1 hours.
+[00:17:27.340 --> 00:17:31.120] What's always crazy to me, and I think we should do the same research for all birds,
+[00:17:32.000 --> 00:17:34.620] is how brick-and-mortar stores scale.
+[00:17:35.260 --> 00:17:38.420] You don't need a fortune in revenue to support their existence.
+[00:17:38.740 --> 00:17:40.460] Like you need to be able to pay rent and employees,
+[00:17:40.780 --> 00:17:43.540] but you generally don't have marketing costs for a brick-and-mortar store.
+[00:17:43.700 --> 00:17:45.220] So you're like, okay, I had some CapEx.
+[00:17:45.220 --> 00:17:49.040] I put on some rent every month and some employees every month, and then it pays for itself.
+[00:17:49.220 --> 00:17:53.620] So these guys are doing $2.1 million in stores with 35% margins.
+[00:17:53.760 --> 00:17:54.560] That's pretty bananas.
+[00:17:55.500 --> 00:17:56.540] Yeah, per store.
+[00:17:57.280 --> 00:17:58.160] That is crazy.
+[00:17:58.340 --> 00:18:06.640] Also, the fact that e-commerce is now 37% of their revenue is like, okay, so in stores is where they're going to be generating the majority of their revenue.
+[00:18:07.200 --> 00:18:10.180] And by the end of 2022, they had 200 stores.
+[00:18:10.820 --> 00:18:13.080] And in 2022, they opened up 40 stores.
+[00:18:13.340 --> 00:18:16.580] I wonder how many – like they're basically going to be –
+[00:18:16.580 --> 00:18:19.800] Dollar General is a bad example because Dollar – I'm not sure if this is the right brand,
+[00:18:19.920 --> 00:18:21.740] but Dollar General to Luxottica.
+[00:18:21.920 --> 00:18:26.080] Like Dollar General of Pearl Vision and LensCrafters and all those places that used to charge $700.
+[00:18:26.380 --> 00:18:30.120] They're like, hey, we're going to be Dollar General – like the dollar store version of this.
+[00:18:30.200 --> 00:18:31.360] I think Costco is the right model.
+[00:18:31.480 --> 00:18:33.780] They're like, we're going to be the Costco for eyeglasses.
+[00:18:33.780 --> 00:18:36.520] They're the Trader Joe's because they own the entire process.
+[00:18:36.780 --> 00:18:39.120] Yeah, that is a really good point.
+[00:18:39.580 --> 00:18:41.220] I'm a huge fan of Warby Parker.
+[00:18:41.540 --> 00:18:43.900] I mean like I used to pay $700 for glasses.
+[00:18:44.120 --> 00:18:48.160] Now it's – you're right, $150 because I've got to get like the thin and light lenses.
+[00:18:48.540 --> 00:18:50.140] And they're great.
+[00:18:50.260 --> 00:18:51.040] I really like them.
+[00:18:51.420 --> 00:18:57.340] The other thing that I appreciated was I went to Costco first just to see what frames they had.
+[00:18:57.840 --> 00:19:03.560] And I didn't have my prescription on a piece of paper, like printed out, signed by the doctor because, you know,
+[00:19:03.780 --> 00:19:04.620] why would anybody?
+[00:19:05.140 --> 00:19:07.240] And they wouldn't accept it any other way.
+[00:19:07.320 --> 00:19:10.600] Whereas Warby, you know, I just told them the numbers and they plugged it in.
+[00:19:11.060 --> 00:19:11.460] Okay.
+[00:19:11.760 --> 00:19:19.540] Well, there was a long time ago, but basically before you were born, there was an issue with Hubble Contacts doing this,
+[00:19:19.740 --> 00:19:25.800] where Hubble Contacts got in trouble because they were sending out contact lenses to people before they had verified a subscription.
+[00:19:26.000 --> 00:19:28.020] And apparently it's the law that you verify a subscription.
+[00:19:28.300 --> 00:19:28.520] Oh, yeah.
+[00:19:28.520 --> 00:19:28.540] Yeah.
+[00:19:28.780 --> 00:19:30.400] Well, they did take a photo of my phone.
+[00:19:30.820 --> 00:19:31.040] Okay.
+[00:19:31.120 --> 00:19:31.220] Yeah.
+[00:19:31.420 --> 00:19:35.760] It was such a – like, you know, first, I'm not sure why you need to verify a subscription.
+[00:19:36.040 --> 00:19:37.420] I'm sorry, a prescription.
+[00:19:38.000 --> 00:19:38.140] Yeah.
+[00:19:38.200 --> 00:19:38.940] Like, who's that going to hurt?
+[00:19:39.340 --> 00:19:39.600] Yeah.
+[00:19:39.700 --> 00:19:40.280] What am I going to do?
+[00:19:40.320 --> 00:19:43.320] I'm getting long contact lenses and selling them to the black market.
+[00:19:43.440 --> 00:19:45.520] Hey, guys, I've got negative 2.75.
+[00:19:45.780 --> 00:19:46.920] Who wants some right now?
+[00:19:47.020 --> 00:19:47.200] Right.
+[00:19:47.400 --> 00:19:47.680] Right.
+[00:19:47.680 --> 00:19:59.780] You know, it's just like the American Optometry Association or one of these fucking industry groups lobbying government officials to make sure that they pad – their pockets are padded so that Hubble Contacts can't come in and do this.
+[00:19:59.920 --> 00:20:01.660] The same thing happened with, like, Smile Direct Club.
+[00:20:01.760 --> 00:20:09.380] When Smile Direct Club was starting to do Invisalign, the Invisalign people who just went off patent, like the orthodontists or whoever they were, were like, hey, you can't do this on the internet.
+[00:20:09.740 --> 00:20:11.620] A doctor needs to examine everything.
+[00:20:12.080 --> 00:20:12.440] Why?
+[00:20:12.620 --> 00:20:14.220] Because I went to medical school for four years.
+[00:20:14.300 --> 00:20:14.760] That's why.
+[00:20:14.760 --> 00:20:19.280] So that was happening to Hubble Contacts, and I remember that somebody did a hit job on them.
+[00:20:19.360 --> 00:20:21.380] I forgot what news organization it was.
+[00:20:22.140 --> 00:20:26.000] You know, I read it, and I was like, okay, these guys didn't verify contacts prescription.
+[00:20:26.220 --> 00:20:27.120] It's not that big of a deal.
+[00:20:27.340 --> 00:20:29.900] But, yeah, you can get in trouble for that.
+[00:20:30.420 --> 00:20:32.460] Well, super interesting stuff about Warby Parker.
+[00:20:32.640 --> 00:20:33.760] I'm a big fan of the brand.
+[00:20:33.760 --> 00:20:34.680] I've always loved it.
+[00:20:34.740 --> 00:20:40.160] And I think it's like, you know, everyone says, oh, we're disrupting this industry, and nobody's disrupting any industry.
+[00:20:40.160 --> 00:20:44.640] We're just selling like, you know, not substitute goods, but what we think are better goods.
+[00:20:44.900 --> 00:20:51.100] Warby Parker, I think, genuinely disrupted an industry because they changed the way that you buy glasses and fundamentally changed the price.
+[00:20:51.200 --> 00:20:52.320] Like, they made them way more affordable.
+[00:20:52.540 --> 00:20:58.900] If you're a poor kid that's, you know, 12 years old and trying to buy a pair of glasses, it was not fun for your parents to have to spend $500.
+[00:20:59.480 --> 00:21:02.940] Now your parents can spend, you know, $100, and it's so much more reasonable.
+[00:21:03.180 --> 00:21:04.280] I really love their mission.
+[00:21:04.880 --> 00:21:05.320] Totally.
+[00:21:06.660 --> 00:21:11.700] Okay, so we know retention is the yin to the yang of acquisition.
+[00:21:12.400 --> 00:21:16.500] And we know about email, we know about SMS, we know about all these other channels.
+[00:21:16.700 --> 00:21:20.540] But one thing I think we don't talk about a lot is push notifications and mobile apps.
+[00:21:20.920 --> 00:21:22.780] And this is where Tapcart comes in.
+[00:21:23.080 --> 00:21:31.180] If you saw the Shopify Editions update that just came out, they talked a ton about their app, Shop, which is doing a ton for merchants.
+[00:21:31.360 --> 00:21:32.620] They're seeing higher AOVs.
+[00:21:32.720 --> 00:21:33.920] They're seeing higher conversion rates.
+[00:21:33.920 --> 00:21:38.440] And we've actually seen the same with our clients who use a Tapcart app.
+[00:21:38.620 --> 00:21:40.980] The beauty is you can't even tell it's built by Tapcart.
+[00:21:41.120 --> 00:21:42.740] The Tapcart essentially is the CMS.
+[00:21:42.960 --> 00:21:44.400] It's the Shopify of the mobile app.
+[00:21:44.960 --> 00:21:46.280] They build it in Tapcart.
+[00:21:46.460 --> 00:21:47.320] They get it live.
+[00:21:47.440 --> 00:21:51.340] And they can start sending traffic either through their email list, on their site.
+[00:21:51.460 --> 00:21:55.620] There's a little pop-up that says, you know, open the app versus looking at it on the site.
+[00:21:56.120 --> 00:22:01.260] And it's been pretty amazing to see how special customers feel in their mobile app.
+[00:22:01.740 --> 00:22:02.840] You know, they get push notifications.
+[00:22:02.840 --> 00:22:05.760] They get customized notifications based on when they last bought.
+[00:22:05.940 --> 00:22:09.960] So if you're buying, you know, if I bought native deodorant and I'm, you know, 40 days out,
+[00:22:10.140 --> 00:22:13.440] I'll get a push notification that says, hey, you're probably running out.
+[00:22:13.660 --> 00:22:15.380] Click here, you know, get a discount or whatever.
+[00:22:15.660 --> 00:22:16.640] Click here to buy real quick.
+[00:22:17.060 --> 00:22:20.280] I think it's something that our limited supply listeners should check out.
+[00:22:20.380 --> 00:22:24.460] And they can actually get two months free at tapcart.com slash limited.
+[00:22:24.700 --> 00:22:25.580] So check it out.
+[00:22:25.820 --> 00:22:26.320] Build an app.
+[00:22:26.500 --> 00:22:27.160] Send it to us.
+[00:22:27.320 --> 00:22:28.160] We'll review it.
+[00:22:28.540 --> 00:22:29.640] DM it to me or Moyes.
+[00:22:29.640 --> 00:22:31.980] And we'll see you on the other side.
+[00:22:33.720 --> 00:22:35.340] Let's talk about this Jugnew thing.
+[00:22:35.520 --> 00:22:35.620] Okay.
+[00:22:36.240 --> 00:22:40.720] Jugnew, I don't know how I really got hooked up with these guys, but it's basically this
+[00:22:40.720 --> 00:22:45.980] company in India that has a bunch of apps that are ready to go.
+[00:22:46.480 --> 00:22:50.740] It's not like, you know, tapcart where it's got like e-commerce apps that it's going to do
+[00:22:50.740 --> 00:22:50.940] something.
+[00:22:50.940 --> 00:22:56.340] It really has like right now, like Uber and food delivery and bike rental apps and like
+[00:22:56.340 --> 00:22:59.260] airport transfer software or bus riding software.
+[00:22:59.400 --> 00:23:00.500] So it's got all of these apps.
+[00:23:00.540 --> 00:23:03.900] And they're like, look, we've built out the entire app, both from a consumer perspective
+[00:23:03.900 --> 00:23:05.200] and a business perspective.
+[00:23:05.480 --> 00:23:07.780] And so like, let's say you want to go launch an Uber competitor.
+[00:23:08.360 --> 00:23:08.540] Great.
+[00:23:08.660 --> 00:23:09.740] It'll be $5,000.
+[00:23:09.800 --> 00:23:11.400] We have everything ready to go.
+[00:23:11.660 --> 00:23:14.540] We're going to put the skin that you want on it and you'll have your app.
+[00:23:14.680 --> 00:23:16.520] It's all coded and ready to go today.
+[00:23:16.840 --> 00:23:17.680] We can have it going.
+[00:23:18.040 --> 00:23:18.840] You know, today's Tuesday.
+[00:23:19.020 --> 00:23:19.720] We're recording on Tuesday.
+[00:23:19.720 --> 00:23:20.860] We can have it to you by Friday.
+[00:23:22.500 --> 00:23:25.680] First of all, did you talk to them over Zoom or Skype?
+[00:23:31.400 --> 00:23:33.220] It wasn't me, but I kid you not.
+[00:23:33.340 --> 00:23:39.580] One of my friends talked to them and the person on the other side at Jugnu started smoking a
+[00:23:39.580 --> 00:23:41.120] cigarette during the conversation.
+[00:23:41.440 --> 00:23:42.480] Oh my God.
+[00:23:42.580 --> 00:23:46.740] Which is the most Indian thing you could ever do in your entire life.
+[00:23:47.320 --> 00:23:48.540] It is so funny.
+[00:23:48.540 --> 00:23:49.720] This looks cool.
+[00:23:49.940 --> 00:23:55.020] I mean, knowing the, you know, how a lot of the dev shops work in India, they do kind
+[00:23:55.020 --> 00:23:55.760] of work like this.
+[00:23:55.880 --> 00:24:00.500] They build these templates and then they go sell crazy amounts of sites or, you know,
+[00:24:00.600 --> 00:24:01.220] apps or whatever.
+[00:24:01.440 --> 00:24:02.580] This looks awesome though.
+[00:24:02.880 --> 00:24:07.320] I mean, it's basically just like, it's like Canva, but for like starting your own version
+[00:24:07.320 --> 00:24:14.020] of Uber or, you know, delivery dispatch or employee transportation, bus booking, even they have
+[00:24:14.020 --> 00:24:15.700] like a bike rental app.
+[00:24:15.880 --> 00:24:18.820] You can just download and set up a bike rental shop.
+[00:24:19.080 --> 00:24:19.460] Yeah.
+[00:24:19.520 --> 00:24:23.740] It's almost like Shopify for other verticals, which I thought was really interesting.
+[00:24:23.740 --> 00:24:27.480] And it actually got me into thinking like, why is no one doing this for Shopify?
+[00:24:28.140 --> 00:24:32.600] And I realized that Shopify exists, but like if you're a larger store or you want like a
+[00:24:32.600 --> 00:24:37.640] little bit more customization than like, you know, regular Shopify store offers, I'm surprised
+[00:24:37.640 --> 00:24:41.120] there isn't somebody who's like, I have an out of box solution for something that's
+[00:24:41.120 --> 00:24:46.080] competitor to Shopify that will offer some of that customization or at least is more
+[00:24:46.080 --> 00:24:47.200] open source than Shopify.
+[00:24:47.200 --> 00:24:49.040] I always wondered why that didn't happen.
+[00:24:49.260 --> 00:24:52.880] But I saw this and I was like, wow, these people are like, you know, this is really smart.
+[00:24:53.020 --> 00:24:57.280] Like, especially 10 years ago when everyone was like, I'm creating a competitor to Uber,
+[00:24:57.880 --> 00:25:01.640] you know, it'd be great to be able to be like, I got this white, like, you know, a white glove
+[00:25:01.640 --> 00:25:02.820] version of this for $5,000.
+[00:25:03.620 --> 00:25:08.140] Do you remember when all the scooter companies like Bird and Lime, imagine if they were all just
+[00:25:08.140 --> 00:25:09.520] using, what is it called?
+[00:25:09.660 --> 00:25:10.740] Jugnew in the back.
+[00:25:11.020 --> 00:25:14.200] They legitimately might, it would not be shocking to me if they were.
+[00:25:14.500 --> 00:25:14.860] Yeah.
+[00:25:15.060 --> 00:25:16.400] Because they launched so fast.
+[00:25:16.400 --> 00:25:20.500] Like all these fintech companies, all these credit card companies, they all use the same
+[00:25:20.500 --> 00:25:24.440] company, which is Evolve Bank and Trust as their like bank.
+[00:25:24.820 --> 00:25:25.220] Yeah.
+[00:25:25.820 --> 00:25:27.900] That's the real winner in the entire race.
+[00:25:28.060 --> 00:25:32.120] And these guys might end up being the real winner in 10 years when everybody's using
+[00:25:32.120 --> 00:25:33.740] Jugnew as their backend.
+[00:25:34.240 --> 00:25:34.700] Yeah, exactly.
+[00:25:34.840 --> 00:25:38.820] Because like, you know, if you're a scooter company, I'm not sure, one of the scooter
+[00:25:38.820 --> 00:25:42.160] companies will become a trillionaire or like, you know, a billionaire and all the other
+[00:25:42.160 --> 00:25:42.820] ones will fail.
+[00:25:42.820 --> 00:25:47.020] But the guys who will actually make the most money are the guys who are selling the Jugnews
+[00:25:47.020 --> 00:25:47.400] of the world.
+[00:25:47.620 --> 00:25:48.760] It's just like Levi.
+[00:25:49.180 --> 00:25:52.440] Like, you know, in San Francisco, there was a gold rush.
+[00:25:52.740 --> 00:25:53.840] Some people found gold.
+[00:25:54.020 --> 00:25:54.720] Most people didn't.
+[00:25:55.060 --> 00:25:58.940] The guy who actually made money was Levi, the guy who created jeans for all of these people.
+[00:25:59.660 --> 00:25:59.980] Okay.
+[00:26:00.040 --> 00:26:02.100] I'm going to give you a piece of trivia and we're going to come back to it at the end.
+[00:26:02.200 --> 00:26:05.400] Do you know what the biggest Magento store is?
+[00:26:06.020 --> 00:26:08.440] I think it's in the world, but certainly in the United States.
+[00:26:08.860 --> 00:26:09.200] No.
+[00:26:09.440 --> 00:26:10.340] The only business.
+[00:26:10.560 --> 00:26:10.720] Okay.
+[00:26:10.840 --> 00:26:14.920] We'll come back to it at the end in case other people have thoughts.
+[00:26:15.140 --> 00:26:15.980] And you know what?
+[00:26:16.120 --> 00:26:17.580] Yeah, it's still built on Magento.
+[00:26:18.220 --> 00:26:18.900] Like 80%.
+[00:26:18.900 --> 00:26:19.200] Yeah, yeah.
+[00:26:19.300 --> 00:26:20.120] It's still built on Magento.
+[00:26:20.280 --> 00:26:20.380] Okay.
+[00:26:20.440 --> 00:26:21.020] We'll come back to it.
+[00:26:21.020 --> 00:26:23.220] I'm curious to see if you'll be surprised or not.
+[00:26:23.820 --> 00:26:24.160] Okay.
+[00:26:24.300 --> 00:26:25.380] Anyway, we went through Jugnew.
+[00:26:25.520 --> 00:26:27.440] Anyway, I think this should exist for more industries.
+[00:26:27.520 --> 00:26:32.100] And I think that also if you're building an e-commerce business and for some reason Shopify
+[00:26:32.100 --> 00:26:34.500] isn't the right fit, and frankly, it should be the right fit.
+[00:26:34.600 --> 00:26:37.320] If it's not, you're probably building something way too complicated.
+[00:26:37.420 --> 00:26:40.700] But if it isn't, I bet there's a Jugnew out there that does this.
+[00:26:41.200 --> 00:26:47.240] There is a company called Smart Theme, which is like a theme that you subscribe to on top
+[00:26:47.240 --> 00:26:53.700] of Shopify, which has a lot of similar things, like a lot of the apps built in or scripts
+[00:26:53.700 --> 00:26:57.180] ready to go or kind of modules for your product page that you would want to add.
+[00:26:57.760 --> 00:27:02.500] But it's still built on top of Shopify, which I think is to anybody's benefit.
+[00:27:02.920 --> 00:27:04.720] Yeah, I think that's everyone's benefit as well.
+[00:27:04.840 --> 00:27:09.140] And if for some reason you don't want to do that, there will be a Jugnew for e-commerce.
+[00:27:09.280 --> 00:27:09.900] I bet there is.
+[00:27:10.020 --> 00:27:11.500] And we're going to figure out who it is.
+[00:27:12.080 --> 00:27:12.200] Yeah.
+[00:27:12.700 --> 00:27:12.940] Okay.
+[00:27:13.160 --> 00:27:14.800] There are a couple other things I want to chat about.
+[00:27:14.940 --> 00:27:17.020] One is Klaviyo Deliverability.
+[00:27:17.200 --> 00:27:20.080] They launched this new feature the last couple of days.
+[00:27:20.260 --> 00:27:21.340] I'm not sure if you've seen it yet.
+[00:27:21.520 --> 00:27:26.060] I took a screenshot from a store that I work with and I added it on here.
+[00:27:26.060 --> 00:27:30.920] And basically, they tell you deliverability by domain, which is so important.
+[00:27:31.180 --> 00:27:37.220] Like anytime you got an email audit over the past like five or 10 years, people would audit
+[00:27:37.220 --> 00:27:41.380] you by domain because it turns out that like, you know, Yahoo is pretty favorable and AOL
+[00:27:41.380 --> 00:27:46.100] is really favorable in terms of getting you a high open rate and getting your emails into
+[00:27:46.100 --> 00:27:47.040] the inbox.
+[00:27:47.240 --> 00:27:49.900] And Hotmail is notoriously bad at this.
+[00:27:50.560 --> 00:27:56.300] Not notoriously bad, but notoriously cautious about how to get people into their inbox,
+[00:27:56.380 --> 00:27:58.320] about who they allow into your inbox.
+[00:27:58.860 --> 00:28:02.540] And so Hotmail does a better job, better or worse job, depending on how you look at it,
+[00:28:02.620 --> 00:28:06.620] of making sure that your products don't get into the inbox as compared to Gmail.
+[00:28:06.960 --> 00:28:10.540] And so what a lot of businesses will do, and they've done this in the past, is they will
+[00:28:10.540 --> 00:28:14.480] create a separate segment or a separate list of people that have Hotmail.
+[00:28:14.480 --> 00:28:18.940] Like their account is moise at hotmail.com instead of moise at gmail.com.
+[00:28:19.320 --> 00:28:23.600] And so they'll say, okay, don't, when I'm sending this blast email out, send it out to
+[00:28:23.600 --> 00:28:25.320] everybody that doesn't have a Hotmail account.
+[00:28:25.680 --> 00:28:30.600] If your email ends in hot at hotmail.com, what I want you to do is you need to have opened
+[00:28:30.600 --> 00:28:32.100] up an email in the last 30 days.
+[00:28:32.200 --> 00:28:36.780] You need to be super active or even opened up an email in the last 25 days as opposed
+[00:28:36.780 --> 00:28:38.500] to the last 75 days with Gmail.
+[00:28:38.780 --> 00:28:41.860] Because Gmail is like, okay, this person's still engaged with the brand a little bit.
+[00:28:41.860 --> 00:28:46.320] At Hotmail, they're like, this person hasn't engaged with the email in the last 30 days.
+[00:28:46.560 --> 00:28:46.960] Forget it.
+[00:28:47.500 --> 00:28:48.480] Send this to spam.
+[00:28:48.780 --> 00:28:53.440] And so as a brand, as a merchant, I will create a separate segment and a separate email campaign
+[00:28:53.440 --> 00:28:55.920] to send things to Hotmail that I will with Gmail.
+[00:28:56.400 --> 00:28:59.720] And so that's been around for some time and people have been doing that for some time.
+[00:29:00.160 --> 00:29:03.940] This is a great Klaviyo feature because rather than having to get an email audit, you can sort
+[00:29:03.940 --> 00:29:04.800] of see it right here.
+[00:29:05.560 --> 00:29:06.660] What's the advantage there?
+[00:29:06.660 --> 00:29:14.760] So if you separate out your Hotmail domains, then that means that your overall engagement
+[00:29:14.760 --> 00:29:20.040] is up and that favors you even more broadly among email inboxes?
+[00:29:20.120 --> 00:29:20.260] Yeah.
+[00:29:20.360 --> 00:29:20.940] Yeah, exactly.
+[00:29:21.120 --> 00:29:21.400] Exactly.
+[00:29:21.600 --> 00:29:23.540] So you have a better open rate.
+[00:29:23.740 --> 00:29:24.740] You have a less...
+[00:29:24.740 --> 00:29:29.240] Like let's say in Klaviyo, you send out a blast email and 3% of your emails go to spam.
+[00:29:29.460 --> 00:29:31.420] You're going to get punished by the email providers.
+[00:29:31.420 --> 00:29:35.020] And I'm not sure if you'll get punished by Klaviyo itself, but definitely by the email service
+[00:29:35.020 --> 00:29:35.460] providers.
+[00:29:35.920 --> 00:29:39.820] If you have a higher open rate, those email service providers will say, hey, don't send
+[00:29:39.820 --> 00:29:40.400] this to spam.
+[00:29:40.520 --> 00:29:43.660] This guy has a very high open rate and a very low spam rate.
+[00:29:44.080 --> 00:29:45.200] Maybe it's not high open rate.
+[00:29:45.300 --> 00:29:46.120] That's not how they look at it.
+[00:29:46.180 --> 00:29:47.620] But spam rate is what they look like.
+[00:29:47.800 --> 00:29:48.400] For sure.
+[00:29:48.600 --> 00:29:48.720] Yeah.
+[00:29:48.780 --> 00:29:49.480] I think spam rate.
+[00:29:50.400 --> 00:29:50.780] Yeah.
+[00:29:50.920 --> 00:29:56.620] Anyway, so at Hotmail, you're very quickly going to go to spam if your users are not super
+[00:29:56.620 --> 00:29:57.100] engaged.
+[00:29:57.300 --> 00:30:01.700] So a lot of brands that I know, a lot of brands that reach a big scale will sort of separate
+[00:30:01.700 --> 00:30:06.560] out their Hotmail segment and email those people separately in order to keep the spam rate low
+[00:30:06.560 --> 00:30:09.120] everywhere and to keep engagement really high everywhere.
+[00:30:09.600 --> 00:30:10.080] Yeah.
+[00:30:10.300 --> 00:30:12.180] Have you ever just separated all of them out?
+[00:30:12.400 --> 00:30:18.460] AOL, Yahoo, Hotmail, Gmail, just to see if you can game the individual engagement rates?
+[00:30:18.460 --> 00:30:19.940] I have not done that.
+[00:30:20.140 --> 00:30:23.920] I bet it's a worthwhile proposition if you have a million people on your email list because
+[00:30:23.920 --> 00:30:25.940] then you're making real changes.
+[00:30:26.380 --> 00:30:27.060] It's real.
+[00:30:27.720 --> 00:30:31.760] If you have only 10,000 people on your email list, it's not worth doing this.
+[00:30:31.960 --> 00:30:34.340] But if you have a million people, it's worth doing this.
+[00:30:34.500 --> 00:30:39.140] Or if you're buying an old email list and trying to rewarm it up, I bet it's worth doing this
+[00:30:39.140 --> 00:30:39.500] as well.
+[00:30:39.760 --> 00:30:40.160] 100%.
+[00:30:40.160 --> 00:30:41.160] Have you ever done that?
+[00:30:41.280 --> 00:30:42.600] Bought a big email list?
+[00:30:43.220 --> 00:30:46.840] I have never bought an email list, but I do want to talk about that.
+[00:30:46.840 --> 00:30:49.800] But yeah, first, what do you think about this stuff?
+[00:30:49.900 --> 00:30:50.640] Have you done that?
+[00:30:50.740 --> 00:30:51.860] Have any of your brands done this?
+[00:30:51.940 --> 00:30:53.840] Or you sort of don't get involved in the email side of things?
+[00:30:54.460 --> 00:30:57.100] We don't really get involved too much on the email side of things.
+[00:30:57.560 --> 00:30:59.320] But I have not done this.
+[00:30:59.460 --> 00:31:01.680] I have thought about it many times before.
+[00:31:02.140 --> 00:31:09.620] The only thing I've thought is, or I always come to conclude is either A, you're just going
+[00:31:09.620 --> 00:31:11.200] to get mass spam reported.
+[00:31:11.760 --> 00:31:16.040] B, these people could just be, you could just be buying a list of people who are
+[00:31:16.040 --> 00:31:17.720] never going to buy ever.
+[00:31:18.000 --> 00:31:20.700] And it could just be a bluff that somebody's selling you the list.
+[00:31:21.360 --> 00:31:28.580] And then the third one is like, if I were to get a legitimate list from a top tier brand
+[00:31:28.580 --> 00:31:33.440] or a brand that has customers I want to go after, I think the best way to do it would
+[00:31:33.440 --> 00:31:38.420] actually be to figure out how you provide content or value to them.
+[00:31:38.880 --> 00:31:41.420] Get the open rate up before you try to sell something.
+[00:31:41.980 --> 00:31:43.300] You're not talking about the Klaviyo thing.
+[00:31:43.300 --> 00:31:44.700] You're talking about buying an email list.
+[00:31:44.800 --> 00:31:45.120] Is that right?
+[00:31:45.380 --> 00:31:45.600] Yeah.
+[00:31:45.600 --> 00:31:46.360] I just want to make sure I understand.
+[00:31:46.480 --> 00:31:46.580] Yeah.
+[00:31:46.740 --> 00:31:46.880] Okay.
+[00:31:46.940 --> 00:31:47.140] Gotcha.
+[00:31:47.760 --> 00:31:49.180] I've got a couple stories around that.
+[00:31:49.360 --> 00:31:54.180] One is we at Native early on, we did this, like, you know how you do those email promotions?
+[00:31:54.260 --> 00:31:55.100] This was big.
+[00:31:55.140 --> 00:31:55.420] Oh, yeah.
+[00:31:55.420 --> 00:31:59.000] This was big, like 10 years ago or five years ago where you're like, I'll send out an email
+[00:31:59.000 --> 00:31:59.620] to my group.
+[00:31:59.720 --> 00:32:00.900] You send out an email to your group.
+[00:32:01.080 --> 00:32:02.680] Everyone sends out an email to everyone's group.
+[00:32:02.900 --> 00:32:08.640] And then we, like, have one signup form where you win something and you can win a trip to
+[00:32:08.640 --> 00:32:09.020] Hawaii.
+[00:32:09.040 --> 00:32:12.040] And everyone will enter their email address and we'll share those email addresses.
+[00:32:12.040 --> 00:32:16.380] So I'll send an email out to the Native customer list and I'll say, hey, enter out to win a
+[00:32:16.380 --> 00:32:22.020] trip to Hawaii sponsored by Native and Warby Parker and Cosmo Magazine and a bunch of other
+[00:32:22.020 --> 00:32:22.440] guys.
+[00:32:22.580 --> 00:32:27.060] And whoever enters that email list, their email gets distributed to all five guys.
+[00:32:27.740 --> 00:32:28.140] Right.
+[00:32:28.260 --> 00:32:28.820] I remember that.
+[00:32:29.280 --> 00:32:29.480] Yeah.
+[00:32:29.540 --> 00:32:31.000] That was big a long time ago.
+[00:32:31.080 --> 00:32:33.900] In fact, there was even some software, I forgot what it was called, that helped you
+[00:32:33.900 --> 00:32:34.460] do this.
+[00:32:34.720 --> 00:32:34.880] Yeah.
+[00:32:34.940 --> 00:32:37.900] Like Viral Loop or Spark Loop or something kind of like that.
+[00:32:38.040 --> 00:32:40.360] There was a software that helped you do this and find brands.
+[00:32:40.360 --> 00:32:43.660] We did it with Cosmo Magazine once and a couple other guys.
+[00:32:43.760 --> 00:32:47.440] And Cosmo Magazine is like, we have 5 million people on our email list and they sent out the
+[00:32:47.440 --> 00:32:51.260] email and they got like three people to opt in and provide their email addresses.
+[00:32:51.480 --> 00:32:54.560] And I was like, Cosmo Magazine, you are such a fucking liar.
+[00:32:54.820 --> 00:32:57.460] Like, what a ridiculous thing.
+[00:32:57.600 --> 00:33:00.840] I was like, who is subscribed to Cosmo Magazine?
+[00:33:01.020 --> 00:33:02.060] But like, you know, I've heard of it.
+[00:33:02.120 --> 00:33:04.060] So I thought maybe it was a real thing, but it's not a real thing.
+[00:33:04.080 --> 00:33:05.080] It was a complete waste of time.
+[00:33:05.380 --> 00:33:10.160] I remember the first one I did, we kind of like pitched up a bit higher.
+[00:33:10.160 --> 00:33:16.780] So like, you know, I think everybody, you were required to have something like 10 or 15,000
+[00:33:16.780 --> 00:33:20.020] entries per brand that committed to this.
+[00:33:20.480 --> 00:33:25.160] And, you know, I was like, with the list I had, I was like, there's no way we're hitting
+[00:33:25.160 --> 00:33:26.320] 10 or 15,000.
+[00:33:26.540 --> 00:33:32.200] But I can game this thing where I can actually run, I can build an interest group on Facebook
+[00:33:32.200 --> 00:33:33.740] for people who just want free shit.
+[00:33:33.740 --> 00:33:36.640] And I can run Facebook ads to get signups.
+[00:33:36.860 --> 00:33:38.440] And that'll hit our thing.
+[00:33:38.600 --> 00:33:42.460] And in exchange, I will get access to everybody else's email lists.
+[00:33:42.820 --> 00:33:44.080] So I thought it was clever.
+[00:33:44.320 --> 00:33:45.120] It worked.
+[00:33:45.140 --> 00:33:46.940] And we got in, we got our entries.
+[00:33:47.180 --> 00:33:52.180] But then everybody, all the emails that actually came back from everybody else, whether it was
+[00:33:52.180 --> 00:33:56.120] like the skim or something big, the emails were horrible.
+[00:33:56.120 --> 00:34:01.380] I think the open rate out of the gate was 16%, which is insanely low for a first email.
+[00:34:02.000 --> 00:34:06.780] I think the sales that were generated from it were nowhere near what you would have to
+[00:34:06.780 --> 00:34:09.820] get to justify, you know, doing all this.
+[00:34:10.520 --> 00:34:15.420] There's this guy that I met a long time ago, and he started running these Facebook ads.
+[00:34:15.560 --> 00:34:17.020] And he was like free baby carrier.
+[00:34:17.200 --> 00:34:18.260] You know what a baby carrier is?
+[00:34:18.380 --> 00:34:20.240] It's like one of those things you strap onto your chest.
+[00:34:20.340 --> 00:34:23.320] So you can have your toddler right in front of you or like your baby in front of you,
+[00:34:23.380 --> 00:34:24.720] but you keep your hands for free.
+[00:34:26.120 --> 00:34:27.520] Dads, it said free baby carrier.
+[00:34:27.740 --> 00:34:29.400] Just pay $19.95 in shipping.
+[00:34:30.280 --> 00:34:35.220] He would get people to buy this, and then he would order it from Alibaba and have it
+[00:34:35.220 --> 00:34:36.560] shipped directly to your door.
+[00:34:36.920 --> 00:34:41.140] And so once you bought from him, he would go to this site on Alibaba and actually buy it
+[00:34:41.140 --> 00:34:42.340] and have it shipped to your door.
+[00:34:42.480 --> 00:34:44.580] So he never even saw this baby carrier.
+[00:34:44.780 --> 00:34:48.340] And he's like, you know, my CAC was about $14 on this.
+[00:34:48.460 --> 00:34:52.420] And so I was actually making a couple bucks in order when I was doing this like drop shipping
+[00:34:52.420 --> 00:34:53.600] method for a baby carrier.
+[00:34:53.600 --> 00:34:57.500] But his customers would complain and be like, why does this have Chinese writing all over
+[00:34:57.500 --> 00:34:57.700] it?
+[00:34:58.260 --> 00:34:58.860] Yeah, it's free.
+[00:34:59.380 --> 00:34:59.540] Yeah.
+[00:34:59.860 --> 00:35:03.440] And he would be like, he's like, you know, it was a pain in the ass because like initially
+[00:35:03.440 --> 00:35:05.240] he was doing one of these a day or something like that.
+[00:35:05.340 --> 00:35:06.300] But then he was doing about 100.
+[00:35:06.580 --> 00:35:07.920] And so he'd be 100 times.
+[00:35:08.080 --> 00:35:11.240] He'd have to go into this Alibaba website and fill out the shipping information and place
+[00:35:11.240 --> 00:35:11.660] the order.
+[00:35:12.080 --> 00:35:16.460] And so finally it got to the point where the Chinese manufacturer was like, hey, just send
+[00:35:16.460 --> 00:35:17.520] us an Excel spreadsheet.
+[00:35:17.660 --> 00:35:18.680] We understand what you're doing.
+[00:35:18.780 --> 00:35:21.720] Just send us an Excel spreadsheet and we'll send the orders.
+[00:35:21.860 --> 00:35:24.840] You don't need to place 100 orders through Alibaba.com.
+[00:35:25.500 --> 00:35:28.640] And, you know, he's like, you know, I used to get he's like people would complain and
+[00:35:28.640 --> 00:35:30.160] say, I want to return this baby carrier.
+[00:35:30.320 --> 00:35:30.760] I don't like it.
+[00:35:30.840 --> 00:35:31.960] It's got Chinese writing on it.
+[00:35:31.960 --> 00:35:35.740] And he's like, well, it was free except $19.95 in shipping.
+[00:35:35.740 --> 00:35:37.020] So I'm glad to take it back.
+[00:35:37.140 --> 00:35:38.320] But you will get zero dollars.
+[00:35:38.620 --> 00:35:39.600] Ship it back to us.
+[00:35:39.700 --> 00:35:40.520] You will get zero back.
+[00:35:40.800 --> 00:35:42.180] You have to pay us to ship it back.
+[00:35:42.360 --> 00:35:42.800] Yeah, that's right.
+[00:35:42.940 --> 00:35:43.020] Yeah.
+[00:35:43.160 --> 00:35:44.280] Just throw it away.
+[00:35:44.560 --> 00:35:49.420] And so he's like, you know, he's like ultimately the CAC and the price of the baby carrier
+[00:35:49.420 --> 00:35:52.800] got to sort of like, you know, his cogs and all in got to be pretty even.
+[00:35:53.140 --> 00:35:55.620] And so he's like, I really wasn't making any money doing this.
+[00:35:55.720 --> 00:36:00.100] But what I was doing is I was collecting an email list of 100,000 new moms who had just
+[00:36:00.100 --> 00:36:01.220] purchased baby carriers.
+[00:36:01.220 --> 00:36:02.700] What else could I sell that?
+[00:36:02.820 --> 00:36:06.620] And he's like, this was the way that I launched another baby business or another business for
+[00:36:06.620 --> 00:36:12.800] new moms was collecting email addresses in this really interesting way, which is dropshipping
+[00:36:12.800 --> 00:36:14.500] a product from Alibaba for free.
+[00:36:14.940 --> 00:36:19.600] You know, the cost of the baby carrier and the CAC on Facebook equaled the shipping costs
+[00:36:19.600 --> 00:36:20.540] that he charged the customer.
+[00:36:20.780 --> 00:36:25.140] And then he's like, I've got 100,000 email addresses and now I can sell them pajamas or
+[00:36:25.140 --> 00:36:28.320] diapers or baby food or for, you know, anything else.
+[00:36:28.320 --> 00:36:31.780] And I thought that was a really interesting method of collecting email addresses and that
+[00:36:31.780 --> 00:36:32.860] we're active and warm.
+[00:36:33.340 --> 00:36:38.640] I think that's the key is that they are warm in the sense that they gave their credit card.
+[00:36:38.840 --> 00:36:43.360] So these are not people getting, you know, just free, free stuff, but they're putting their
+[00:36:43.360 --> 00:36:46.020] credit card in and basically showing intent.
+[00:36:46.220 --> 00:36:48.040] That's a super, super great list.
+[00:36:48.680 --> 00:36:55.820] This used to be such a common thing among the Alibaba dropshipping bros, like the free plus
+[00:36:55.820 --> 00:36:59.700] shipping model, which is basically buy our product.
+[00:36:59.960 --> 00:37:03.840] It's completely free and it's $29 shipping and we're going to ship it.
+[00:37:04.040 --> 00:37:05.180] We know we can ship internationally.
+[00:37:05.180 --> 00:37:06.100] We can ship anywhere.
+[00:37:06.300 --> 00:37:10.940] And it was basically a game of just arbitraging shipping costs versus their CPM.
+[00:37:11.420 --> 00:37:11.600] Yeah.
+[00:37:12.020 --> 00:37:13.460] I don't think it happens much.
+[00:37:13.640 --> 00:37:18.140] I love the term, it's like there's a fraternity of, yeah, we do free plus shipping.
+[00:37:18.580 --> 00:37:19.120] Yeah, yeah, yeah.
+[00:37:19.380 --> 00:37:19.680] I'm sure.
+[00:37:19.800 --> 00:37:20.780] Free plus shipping fraternity.
+[00:37:21.220 --> 00:37:24.120] I'm sure Tai Lopez, like, you know, founded that fraternity.
+[00:37:24.420 --> 00:37:25.320] Yeah, yeah.
+[00:37:25.480 --> 00:37:29.740] But yeah, no, it's totally Alibaba bros.
+[00:37:29.840 --> 00:37:30.520] You know who you are.
+[00:37:30.760 --> 00:37:31.680] Yeah, that's funny.
+[00:37:32.340 --> 00:37:34.180] There's a couple other things I wanted to mention about this.
+[00:37:34.340 --> 00:37:37.740] One is you were talking about buying a terrible list.
+[00:37:37.740 --> 00:37:42.540] There was some like a student loan company started by a girl that sold her business to
+[00:37:42.540 --> 00:37:43.440] JPMorgan Chase.
+[00:37:43.700 --> 00:37:44.180] Did you see him?
+[00:37:44.180 --> 00:37:45.600] Oh my God, I heard about this.
+[00:37:45.700 --> 00:37:45.860] Yeah.
+[00:37:46.140 --> 00:37:50.540] You know, they sent an email out to her list and they're like, it has a 2% open rate or
+[00:37:50.540 --> 00:37:54.200] like, you know, after 100,000 emails, four people opened it or something terrible like
+[00:37:54.200 --> 00:37:54.400] that.
+[00:37:54.500 --> 00:37:55.960] And they're like, okay, there's a fake list.
+[00:37:56.160 --> 00:37:57.460] That kind of stuff does happen.
+[00:37:57.620 --> 00:38:02.160] I'm not sure how JPMorgan Chase missed that during diligence, but pretty crazy that that
+[00:38:02.160 --> 00:38:02.800] happens.
+[00:38:03.440 --> 00:38:05.240] And the other thing you mentioned is Tai Lopez.
+[00:38:05.240 --> 00:38:07.620] I wonder what it was like to rewarm those lists.
+[00:38:07.740 --> 00:38:11.840] Like if you bought the list of Radio Shack when you bought Radio Shack's IP or Dress
+[00:38:11.840 --> 00:38:16.480] Barnes IP, I wonder what it's like to rewarm up those lists that sort of had not been active
+[00:38:16.480 --> 00:38:17.040] in so long.
+[00:38:17.540 --> 00:38:17.940] Yeah.
+[00:38:18.720 --> 00:38:22.500] I don't know what it was like, but I'm curious to like, I'm going to talk, I'm talking to
+[00:38:22.500 --> 00:38:25.420] a company later this week about warming up lists.
+[00:38:25.940 --> 00:38:29.480] And I'm going to have some more feedback for you next week about that.
+[00:38:29.480 --> 00:38:34.600] There is somebody, you know, Kettle and Fire and Perfect Keto.
+[00:38:34.780 --> 00:38:39.320] They did this thing where they basically told their customers, hey, we're going to start
+[00:38:39.320 --> 00:38:42.760] a newsletter, which is going to be full of just value.
+[00:38:42.960 --> 00:38:46.440] And we're going to have somebody like a proper doctor write it.
+[00:38:47.160 --> 00:38:50.500] And we're going to opt you into it because you're a customer of ours.
+[00:38:50.880 --> 00:38:54.060] And if you're not comfortable with that, you can just click here to opt out.
+[00:38:54.060 --> 00:38:57.920] And I think something like 70% transferred over.
+[00:38:58.060 --> 00:39:03.140] And now they had basically a media property where, you know, I haven't read it in a while,
+[00:39:03.260 --> 00:39:07.680] but, you know, they could sell ads, they could run affiliate stuff, they could pump their own
+[00:39:07.680 --> 00:39:08.180] sales.
+[00:39:08.560 --> 00:39:09.520] It's pretty valuable.
+[00:39:09.840 --> 00:39:11.700] That's a really interesting idea.
+[00:39:11.940 --> 00:39:16.920] I hadn't thought about like, you know, turning the native email list into a personal wellness
+[00:39:16.920 --> 00:39:20.740] list and then being like, okay, now we have this other media property that we sell ads into.
+[00:39:21.520 --> 00:39:27.240] One of the people that we talk about in the next episode, he's got a huge list he's built
+[00:39:27.240 --> 00:39:28.340] over the last two years.
+[00:39:28.720 --> 00:39:35.000] And he's basically thinking, how do I take this niche that has not really been served in
+[00:39:35.000 --> 00:39:36.620] terms of newsletter content?
+[00:39:37.040 --> 00:39:42.460] And how do I build a newsletter around this topic and just try to make it the number one
+[00:39:42.460 --> 00:39:44.360] destination for what I sell?
+[00:39:44.980 --> 00:39:46.140] Which I think is awesome.
+[00:39:46.460 --> 00:39:47.180] Yeah, that's awesome.
+[00:39:47.740 --> 00:39:51.260] There was one other thing I wanted to talk about before I moved on from Klaviyo.
+[00:39:51.780 --> 00:39:57.860] One of my brands ran this A-B test for Klaviyo pop-up and it was post-purchase.
+[00:39:58.240 --> 00:40:03.640] And they basically try and get you to put in your phone number and join the SMS subscriber
+[00:40:03.640 --> 00:40:04.100] list.
+[00:40:04.420 --> 00:40:04.880] Okay.
+[00:40:05.240 --> 00:40:10.440] And the pop-up used to say, give us your phone number to get, you know, deals and to get
+[00:40:10.440 --> 00:40:12.820] exciting new information, all that bullshit about brands.
+[00:40:12.820 --> 00:40:18.300] And then they changed the pop-up and in the pop-up they wrote, we will only text you when
+[00:40:18.300 --> 00:40:19.440] we're offering you a discount.
+[00:40:19.500 --> 00:40:23.600] We will not text you except if you were going to save money.
+[00:40:23.860 --> 00:40:27.980] And the opt-in rate went from something like 17 or 18% to 42%.
+[00:40:29.120 --> 00:40:29.600] Wow.
+[00:40:29.820 --> 00:40:32.320] And this is all post-purchase or pre-purchase?
+[00:40:32.340 --> 00:40:33.240] This is post-purchase.
+[00:40:33.240 --> 00:40:37.020] This is post-purchase pop-up saying, give us your phone number.
+[00:40:37.120 --> 00:40:40.720] The only time we text you is when we offer you deals.
+[00:40:41.100 --> 00:40:44.080] We don't text you saying spring collection launched.
+[00:40:44.260 --> 00:40:46.580] We text you saying spring collection launched, save 10%.
+[00:40:47.060 --> 00:40:49.160] Otherwise, you won't get a text message from us.
+[00:40:49.580 --> 00:40:51.860] And the hard part about this is you kind of have to honor that.
+[00:40:52.040 --> 00:40:55.720] Or like, you know, you can create separate lists and you can say, this list I only text with
+[00:40:55.720 --> 00:40:58.460] discounts and this list I text with everything.
+[00:40:58.460 --> 00:41:02.640] Like, you know, if you've got a pre-purchase like landing page pop-up where you collect
+[00:41:02.640 --> 00:41:03.780] email and SMS, great.
+[00:41:03.880 --> 00:41:04.940] You can message that guy with anything.
+[00:41:05.080 --> 00:41:09.820] But this one is discounts only, has a 42 or 41% opt-in rate.
+[00:41:10.240 --> 00:41:14.020] And like, you know, they were running an AB test for it last week.
+[00:41:14.480 --> 00:41:18.400] And like, it stopped after a day and a half because it was so clear that which one was
+[00:41:18.400 --> 00:41:18.760] going to win.
+[00:41:18.920 --> 00:41:21.180] It was the one that says discounts only.
+[00:41:21.440 --> 00:41:22.920] And so people read these things.
+[00:41:23.120 --> 00:41:26.380] Like, I thought like, you know, when I see those pop-ups, I barely read them anymore.
+[00:41:26.380 --> 00:41:28.780] I'm like, oh, do you want to save money?
+[00:41:29.040 --> 00:41:30.740] Click the button that says, no, you don't.
+[00:41:30.860 --> 00:41:32.200] And you know, the pop-up will go away.
+[00:41:32.300 --> 00:41:33.380] Goes, yeah, it goes away.
+[00:41:33.460 --> 00:41:34.160] Here's a spinner.
+[00:41:34.640 --> 00:41:37.740] Although, you know, who has a really good one is Mini Katana.
+[00:41:38.580 --> 00:41:39.540] Have you seen their pop-up?
+[00:41:40.260 --> 00:41:45.460] It's like Fruit Ninja where you have to slash, you have to like slash a watermelon or a pineapple
+[00:41:45.460 --> 00:41:45.920] or something.
+[00:41:46.080 --> 00:41:47.040] And then you get the discount.
+[00:41:47.160 --> 00:41:49.940] They're like, slash one of these for different, I'm not sure if they give different discounts,
+[00:41:50.180 --> 00:41:51.120] but like, it's really fun.
+[00:41:51.200 --> 00:41:51.760] It's like a game.
+[00:41:51.920 --> 00:41:52.420] It's interactive.
+[00:41:52.720 --> 00:41:54.420] It's way cool to spin your thing.
+[00:41:54.720 --> 00:41:55.300] Yeah, yeah.
+[00:41:55.300 --> 00:41:55.740] Whatever.
+[00:41:55.940 --> 00:41:56.560] It's not spin.
+[00:41:56.820 --> 00:41:57.760] It's like, here's a game.
+[00:41:57.920 --> 00:41:59.160] And I thought it was really cool.
+[00:41:59.700 --> 00:42:03.520] This one's more interesting because the opt-in rate is crazy because it says, we will give
+[00:42:03.520 --> 00:42:04.680] you discounts only.
+[00:42:04.680 --> 00:42:06.380] We will not contact you otherwise.
+[00:42:06.720 --> 00:42:07.960] It's not for email addresses.
+[00:42:07.960 --> 00:42:11.000] And I don't think it would be good for email addresses because you want to contact people
+[00:42:11.000 --> 00:42:13.220] outside of discounts with emails.
+[00:42:13.420 --> 00:42:17.260] But for text messages, it might be worthwhile because, you know, you're generally sending
+[00:42:17.260 --> 00:42:18.500] out far fewer texts.
+[00:42:18.720 --> 00:42:21.140] They actually cost you a lot more money to send out.
+[00:42:21.660 --> 00:42:25.740] And so I thought that it was really interesting that a pop-up for discount codes would work.
+[00:42:26.480 --> 00:42:28.280] It can't be that hard to honor it.
+[00:42:28.560 --> 00:42:34.120] Like, 10% is not crazy when you think about the cost of acquiring another order.
+[00:42:34.620 --> 00:42:35.700] Yeah, it's not crazy at all.
+[00:42:35.940 --> 00:42:39.120] And like, you know, chances are you have a 10% code out there in the first place.
+[00:42:39.200 --> 00:42:39.480] Exactly.
+[00:42:39.740 --> 00:42:41.340] Before they purchase, they're going to look for a code.
+[00:42:41.340 --> 00:42:45.480] But like, you know, the opt-in rate goes so high so fast.
+[00:42:45.720 --> 00:42:46.920] It's really meaningful.
+[00:42:47.240 --> 00:42:48.600] And so that's why I wanted to mention it.
+[00:42:49.160 --> 00:42:50.100] Yeah, that's an awesome one.
+[00:42:50.620 --> 00:42:52.840] Okay, two other things because I know we got to wrap up.
+[00:42:52.920 --> 00:42:54.280] One is the piece of trivia.
+[00:42:54.560 --> 00:42:58.620] The biggest store on Magento is Thrive Market.
+[00:42:59.540 --> 00:42:59.980] What?
+[00:43:00.280 --> 00:43:01.640] Thrive is on Magento?
+[00:43:01.900 --> 00:43:03.800] Yeah, and they have been since forever.
+[00:43:04.340 --> 00:43:05.520] Wow, I wonder why.
+[00:43:06.000 --> 00:43:07.700] One of their founders was a CTO.
+[00:43:07.700 --> 00:43:11.280] They launched 10 years ago before Shopify started dominating the landscape.
+[00:43:11.520 --> 00:43:16.960] And so I'm nearly certain that the largest e-commerce business on Magento is Thrive Market today.
+[00:43:17.400 --> 00:43:18.840] Wow, that is fascinating.
+[00:43:19.640 --> 00:43:24.060] Caskers, when we went from Woo and we were deciding between Shopify and Magento,
+[00:43:24.220 --> 00:43:26.360] we went to Magento in like, I don't know, 2014.
+[00:43:26.780 --> 00:43:29.140] And it was, we didn't know what we were doing.
+[00:43:29.360 --> 00:43:30.480] And it was a complete disaster.
+[00:43:31.380 --> 00:43:33.280] Okay, the other things I want to chat about,
+[00:43:33.420 --> 00:43:34.520] I know you've got to go in a couple minutes,
+[00:43:34.520 --> 00:43:38.120] is this Ozempa or whatever that drug is.
+[00:43:38.620 --> 00:43:38.940] Ozempic?
+[00:43:39.380 --> 00:43:39.960] Ozempic, yeah.
+[00:43:40.040 --> 00:43:41.320] I don't know why I can't pronounce it correctly.
+[00:43:41.600 --> 00:43:42.040] Ozempic.
+[00:43:42.180 --> 00:43:45.980] There was a great Wall Street Journal article about how these guys were selling Ozempic online
+[00:43:46.420 --> 00:43:49.060] in a really shady way where they were basically like,
+[00:43:49.160 --> 00:43:52.420] here's a before and after photo of someone taking Ozempic.
+[00:43:52.700 --> 00:43:53.920] And then the Wall Street Journal was like,
+[00:43:53.980 --> 00:43:56.580] we found this photo on someone's personal trainer website.
+[00:43:56.800 --> 00:43:59.280] And then we contacted the guy whose photo it is.
+[00:43:59.400 --> 00:44:02.980] And he's like, I did this because I dieted and exercised for a long time.
+[00:44:02.980 --> 00:44:04.440] And I didn't use Ozempic.
+[00:44:04.800 --> 00:44:08.900] So this guy who's selling Ozempic, not the manufacturer, but a third party seller.
+[00:44:09.060 --> 00:44:11.880] The Wall Street Journal was like, hey, this before and after photo isn't accurate.
+[00:44:12.340 --> 00:44:14.980] And they took down the before and after photo.
+[00:44:15.120 --> 00:44:18.980] Anyway, it was a really interesting article on some direct consumer marketing tactics
+[00:44:19.460 --> 00:44:22.860] and getting caught running direct consumer marketing tactics.
+[00:44:22.880 --> 00:44:24.220] What were some of the interesting tactics?
+[00:44:25.000 --> 00:44:27.020] Well, he had before and after photos like this.
+[00:44:27.020 --> 00:44:34.540] I think he had a Trustpilot image that said 4.8 stars or 4.7 stars.
+[00:44:34.720 --> 00:44:36.180] It wasn't by Trustpilot themselves.
+[00:44:36.500 --> 00:44:37.560] He found an image on Google.
+[00:44:37.560 --> 00:44:38.440] He just made the image.
+[00:44:38.660 --> 00:44:38.920] Yeah.
+[00:44:39.160 --> 00:44:42.020] He found an image on Google Images and put it on his site.
+[00:44:42.060 --> 00:44:43.920] And he's like, look, we have 4.7 stars.
+[00:44:44.280 --> 00:44:44.920] Oh, man.
+[00:44:44.920 --> 00:44:46.020] So kind of shady stuff like that.
+[00:44:46.020 --> 00:44:48.740] I see that happen so much for the BBB review.
+[00:44:49.170 --> 00:44:54.480] And it's like, you know, first of all, if a company has a BBB A plus sticker, the only
+[00:44:54.480 --> 00:44:57.100] reason somebody has that there is because they're doing some shady shit.
+[00:44:57.300 --> 00:44:59.160] And then you go and find their real one.
+[00:44:59.460 --> 00:45:00.200] Yeah, exactly.
+[00:45:00.420 --> 00:45:02.560] And they have to, they have, no, no, no, not even that.
+[00:45:02.760 --> 00:45:03.940] They just have like an image.
+[00:45:04.020 --> 00:45:09.380] But if you really Google it, it's like, you know, F or whatever the low thing is.
+[00:45:09.500 --> 00:45:10.700] And it's just a bunch of claims.
+[00:45:10.960 --> 00:45:12.900] But they just take the image.
+[00:45:12.900 --> 00:45:13.280] Yeah.
+[00:45:14.320 --> 00:45:15.880] And another interesting thing.
+[00:45:16.100 --> 00:45:20.920] So, I mean, this is not great advice, but one way that a lot of people get caught with
+[00:45:20.920 --> 00:45:26.800] this stuff, and it also happens with like Business Insider logo or, you know, the Cosmopolitan
+[00:45:26.800 --> 00:45:33.380] Allure logo that people put as like social proof is they don't rename the image files to be like
+[00:45:34.040 --> 00:45:39.340] Trustpilot badge, you know, instead of just like, you know, 4, 2, 7, 3, 8, 9 image.
+[00:45:39.980 --> 00:45:45.140] And so these crawlers will find these files and then basically trace it back to you and hit you with a
+[00:45:45.140 --> 00:45:46.840] lawsuit or cease and desist or whatever.
+[00:45:47.400 --> 00:45:47.960] I'm sorry.
+[00:45:48.000 --> 00:45:49.720] So you should rename it or you should not?
+[00:45:49.820 --> 00:45:51.780] What should you name it as if you're shady?
+[00:45:51.820 --> 00:45:55.300] Well, I'm not saying you should do anything shady.
+[00:45:55.480 --> 00:46:00.900] But if, for example, you have a nice quote from Allure magazine and you want to put it on your site
+[00:46:00.900 --> 00:46:06.940] and you want to put the Allure logo, change the name of the file that you upload as the logo.
+[00:46:07.480 --> 00:46:10.920] Not to not say Allure logo, but say one, two, three image.
+[00:46:11.100 --> 00:46:11.460] Okay, gotcha.
+[00:46:11.580 --> 00:46:11.860] Exactly.
+[00:46:12.360 --> 00:46:13.660] Yeah, there's a great subreddit.
+[00:46:13.800 --> 00:46:16.300] I'm not sure if you're a part of it called Shitty Pro-Life Tips.
+[00:46:16.720 --> 00:46:20.580] Like there's one on Reddit called Pro-Life Tips where it's like, you know, make sure you exercise
+[00:46:20.580 --> 00:46:21.140] every day.
+[00:46:21.600 --> 00:46:22.680] Shitty Pro-Life Tips.
+[00:46:23.320 --> 00:46:27.780] Marry someone with the same blood type as you or like, you know, whose kidneys are compatible
+[00:46:27.780 --> 00:46:29.300] with yours in case you need the NT1.
+[00:46:29.760 --> 00:46:34.780] And I feel like we should spend one episode doing Shitty Pro-Life Tips just of what we've seen.
+[00:46:34.780 --> 00:46:38.840] Like, you know, that Business Insider one or renaming that article one is like an interesting
+[00:46:38.840 --> 00:46:40.040] Pro-Life Tips for e-commerce.
+[00:46:40.240 --> 00:46:40.340] Yeah.
+[00:46:40.460 --> 00:46:40.600] Yeah.
+[00:46:41.020 --> 00:46:41.180] Okay.
+[00:46:41.340 --> 00:46:42.300] I know you've got to run.
+[00:46:42.460 --> 00:46:46.040] One of the last things I want to end with is I'm trying to do a better job understanding
+[00:46:46.040 --> 00:46:51.700] what happened with REV and Tai Lopez and Alex and what happened to that business.
+[00:46:52.260 --> 00:46:57.100] So I've been reaching out to a bunch of people like confidentially and finding out information
+[00:46:57.640 --> 00:46:58.860] and it's been super helpful.
+[00:46:59.140 --> 00:47:01.760] You know, I'm talking to everyone and I'm keeping them anonymous.
+[00:47:01.760 --> 00:47:05.040] So I'm never going to mention a name about who I spoke to, but I'm trying to understand
+[00:47:05.040 --> 00:47:06.280] what happened to that business.
+[00:47:06.540 --> 00:47:09.100] You know, there was a Wall Street Journal article saying that that business might be
+[00:47:09.100 --> 00:47:12.080] going bankrupt or has hired some bankruptcy attorneys at Kirkland-Nellis.
+[00:47:12.560 --> 00:47:14.140] Things don't look like they're going well there.
+[00:47:14.260 --> 00:47:15.040] Let me put it that way.
+[00:47:15.160 --> 00:47:17.660] And I'm trying to understand what happened and what went wrong.
+[00:47:17.800 --> 00:47:22.620] And so if you have any information and you want to remain anonymous, please DM me on Twitter.
+[00:47:22.940 --> 00:47:24.400] I want to find out that information.
+[00:47:31.760 --> 00:47:34.780] Or Alex, and you want to come on the pod, please, we want you here.
+[00:47:34.860 --> 00:47:36.200] We want to learn about what went right.
+[00:47:36.340 --> 00:47:38.340] Like what you did is something.
+[00:47:38.540 --> 00:47:44.440] Like, you know, you acquired name brand institutions in the United States really quickly.
+[00:47:44.580 --> 00:47:49.100] And you were young guys and you were, you know, like Radio Shack and Pier One Imports.
+[00:47:49.260 --> 00:47:52.640] And we want to understand what the thesis was and what went right.
+[00:47:53.240 --> 00:47:56.520] And so if you're interested in coming on the pod, we'd love to have you.
+[00:47:57.220 --> 00:47:58.440] Honestly, that would be pretty cool.
+[00:47:58.440 --> 00:48:00.860] I did DM Ty to see if he would come.
+[00:48:01.000 --> 00:48:01.580] He hasn't responded.
+[00:48:02.620 --> 00:48:05.200] Well, it could be tough right now because I know they're under, like, you know,
+[00:48:05.280 --> 00:48:10.180] they might be doing bankruptcy or they might be just like doing a bunch of confidential things.
+[00:48:10.340 --> 00:48:13.920] But if you know what went right, even if you worked there two years ago, three years ago,
+[00:48:14.040 --> 00:48:14.560] please DM me.
+[00:48:14.640 --> 00:48:16.640] I'd love to jump on a call with you and see what's going on.
+[00:48:17.480 --> 00:48:17.800] Awesome.
+[00:48:18.120 --> 00:48:18.660] All right, Moyes.
+[00:48:18.780 --> 00:48:21.880] I got to head to the next thing, but this was a good episode.
+[00:48:22.580 --> 00:48:23.280] Appreciate your time.
+[00:48:23.840 --> 00:48:24.400] See you guys.
+[00:48:24.940 --> 00:48:25.860] Thanks for tuning in.
+[00:48:25.860 --> 00:48:29.620] We'll be back next time to cut through the noise in CPG, retail and e-commerce.
+[00:48:29.960 --> 00:48:33.300] And if you enjoyed this episode, then why not share it with a friend?
+[00:48:33.600 --> 00:48:37.140] And be sure to subscribe wherever you listen so you don't miss the next one.

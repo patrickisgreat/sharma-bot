@@ -1,0 +1,939 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 8.48,
+      "text": "Get your AOV up, try and really play the email game. Try and get people to switch from Amazon to your Shopify site when you're advertising by offering incentives to buy from Shopify."
+    },
+    {
+      "start": 8.48,
+      "end": 17.44,
+      "text": "So if you're buying a toothbrush or you're buying a dop kit, say free toothbrush if you give us your email address so we have email addresses and we can continually market you and email market you."
+    },
+    {
+      "start": 18,
+      "end": 28.4,
+      "text": "And then offer a discount basically compared to Amazon. Discount doesn't have to be monetary, doesn't have to be I sell Alipop for $1 on Alipop.com and $3 on Amazon. It could be"
+    },
+    {
+      "start": 28.4,
+      "end": 37.68,
+      "text": "get a free case when you buy four cases on Alipop.com. Give people a reason to go to your .com as opposed to just on Amazon. Otherwise, Amazon is a lot more convenient. You're going"
+    },
+    {
+      "start": 37.68,
+      "end": 50.8,
+      "text": "to treat your product like a commodity and your site like a commodity. So will everyone else. So you really got to make it special. This is Limited Supply, the place for refreshingly real takes on what D2C is really like. We're your hosts, Nik and Moiz."
+    },
+    {
+      "start": 51.36,
+      "end": 69.36,
+      "text": "Let's start talking about money. I'm super excited that this season's sponsor for Limited Supply is Fulfill.io. I heard about Fulfill almost 10 years ago. I invested in the business in 2016 or 2017. I put in $550,000 because I love the product and what they were building."
+    },
+    {
+      "start": 69.36,
+      "end": 85.76,
+      "text": "And I love the CEO, Sharun. He's an amazing founder, really listens to customer feedback. You can email him and get product updates anytime you want. It's really incredible. Fulfill.io is an ERP system built for e-commerce businesses. Think of them as NetSuite for e-commerce"
+    },
+    {
+      "start": 85.76,
+      "end": 103.36,
+      "text": "specifically. They work with huge e-commerce businesses from Hexclad to Mejuri to Caraway to Cadence. It's really an incredible product. It really helps simplify your business when the complexity gets to a level of detail where Excel doesn't work for you anymore. So through Fulfill,"
+    },
+    {
+      "start": 103.36,
+      "end": 115.76,
+      "text": "you'll be able to manage your orders. You'll be able to manage your accounting. You'll be able to manage your inventory, understand what's low and what's high. When you need to place another PO, you'll be able to manage your bill of materials and build bundles. It's really an incredible"
+    },
+    {
+      "start": 115.76,
+      "end": 128.8,
+      "text": "piece of software. Once your business starts getting really complicated and you can't manage it via Excel spreadsheets, it could be complicated for so many reasons. It could be complicated because you've got a lot of channels that you're selling through or you've got a lot of different"
+    },
+    {
+      "start": 128.8,
+      "end": 144.32,
+      "text": "SKUs or you've got a lot of different manufacturers. Once it gets to the point where you can't manage it through spreadsheets anymore, that's really where Fulfill shines. Go check them out. It's Fulfill.io. Okay, Nick, season eight, episode 12. 812, I guess."
+    },
+    {
+      "start": 145.12,
+      "end": 160.64,
+      "text": "812, the last one of the season. Excited about it. We're doing a listener mailbox. Basically, people ask us questions in the Slack group. They got upvoted and downvoted. And so there's a bunch of questions to go through. We certainly won't be able to get through all of"
+    },
+    {
+      "start": 160.64,
+      "end": 170.72,
+      "text": "them because there's 50 on this list, I think. Where do you think we should start? Let's start at the top of our dock and let's just go for the next 40 minutes. Let's see where we get"
+    },
+    {
+      "start": 170.72,
+      "end": 186.16,
+      "text": "to and then we'll save the rest for the next time we do this. All right, that sounds great. So the first question is from Robert Leonard. He says, what are the biggest mistakes brand new G2C founders make when starting out and how should it be done instead?"
+    },
+    {
+      "start": 186.96,
+      "end": 201.36,
+      "text": "Ooh, you want to go first? Yeah, sure. Look, this is a pretty general question so it's hard for me to answer this with a broad brush. But I would say that the biggest mistake I see people making is not focusing on getting sales in a way that's"
+    },
+    {
+      "start": 201.36,
+      "end": 219.76,
+      "text": "repeatable. A lot of times when I find early founders doing $200,000, $500,000 a year in sales or even $1 million to $2 million a year in sales, what they say is, oh, our customers really love our product and they're referring everyone. They love it. They love what we're doing. They love the"
+    },
+    {
+      "start": 219.76,
+      "end": 229.92,
+      "text": "brand and so they're getting us other customers. They're talking about it with their friends and with their family. And that was true for my first business. That's how I felt as well."
+    },
+    {
+      "start": 229.92,
+      "end": 241.04,
+      "text": "When I was a brand new direct to consumer founder, I was also like, people love our business so much and they're talking about it so much. This is how we're going to grow. I came to the realization,"
+    },
+    {
+      "start": 241.04,
+      "end": 250.08,
+      "text": "probably, I shouldn't say quickly. It took me two years to come to the realization that that's just not how it worked. And that ultimately, you had to find a repeatable channel, whether that be"
+    },
+    {
+      "start": 250.08,
+      "end": 260.24,
+      "text": "paid or social or YouTube or TikTok or whatever it was in order to go out and get sales. And so I would say the number one thing people don't focus on is finding a repeatable channel"
+    },
+    {
+      "start": 260.24,
+      "end": 273.2,
+      "text": "to go find sales. Too many people early on are like, people love us. They're going to tell everybody about our product. That's how we're going to grow. That just doesn't work. The two myths that I always see early founders dive into, one is the referral thing."
+    },
+    {
+      "start": 273.2,
+      "end": 285.28,
+      "text": "Hey, if person A likes this, then they're going to want to give it to person B and so on. The second one is, if I spend a little bit more on acquiring a customer, the LTV of that"
+    },
+    {
+      "start": 285.28,
+      "end": 295.12,
+      "text": "customer is going to make up for it. And those are two, I forget the word for it, false homonyms or something like that, where it's like, do you know what I'm talking about? Takes you down the wrong"
+    },
+    {
+      "start": 295.12,
+      "end": 311.52,
+      "text": "path. Yeah. Do not do that, is what you're saying. Yeah. That's a great point. There are some businesses that should spend beyond their first customer in order to acquire that customer, because they make so much money long term. Verizon, it makes a ton of sense for Verizon"
+    },
+    {
+      "start": 311.52,
+      "end": 326.8,
+      "text": "to spend $5,000 to acquire you, because you're going to stick with their cell phone for so long. It almost never makes sense for direct to consumer businesses to spend more than their gross margin or contribution margin on their first order. That is a big mistake that people make. Usually,"
+    },
+    {
+      "start": 326.8,
+      "end": 343.2,
+      "text": "I don't see brand new direct to consumer founders making that. I see VC backed founders making that. The brand new ones just don't understand repeatable marketing channels. Is the name of the game? The other ones that I'd written down, one was spending too much money on agencies."
+    },
+    {
+      "start": 343.2,
+      "end": 360.72,
+      "text": "So coming out the gate and spending $300,000 with a branding agency, $250,000 on a website, these large checks are really not worth it to be spending on new things right out the gate. Choosing the wrong partners, so choosing the wrong agencies because you saw a case study they did for"
+    },
+    {
+      "start": 360.72,
+      "end": 374.96,
+      "text": "a brand that you admire. And now you want to work with them because of that. That's honestly a terrible way to do it. Choosing the wrong 3PL, choosing the wrong contractors, not getting legal paperwork done the first time around the right way is also a costly mistake."
+    },
+    {
+      "start": 375.52,
+      "end": 384.48,
+      "text": "And then the other one I think is just like coming out of the gate, launching your brand and spending way too much money trying to get acquisition to work right away without understanding that your"
+    },
+    {
+      "start": 384.48,
+      "end": 394.8,
+      "text": "product actually works, why it works, how people use it, where they use it, how often are they buying it. Going right out the gate and just trying to spend money is a mistake that is tough because"
+    },
+    {
+      "start": 394.8,
+      "end": 403.36,
+      "text": "then you've now spent this money and you're trying to figure out how to justify the return, but it's just very tough. What mistake have you seen with the legal paperwork out of curiosity? Have you"
+    },
+    {
+      "start": 403.36,
+      "end": 417.92,
+      "text": "seen people make mistakes like legal paperwork early on? Yeah, sometimes it's like they don't read a contract properly. So two of my portfolio companies worked with an agency. They didn't fully read the contract and they were locked into a 12-month period with no out clause. Actually,"
+    },
+    {
+      "start": 417.92,
+      "end": 427.52,
+      "text": "out clauses should be a huge red flag. If there's no out clause in any contract you sign, don't sign it. You always have the leverage. You'll always get the out clause. And then the other one is"
+    },
+    {
+      "start": 427.52,
+      "end": 441.84,
+      "text": "like employment attorneys. Having good employment attorneys that make sure you're set up either where you're hiring in different states, you make sure that you're abiding by those laws or if you have somebody going on maternity leave, you have a proper legal friendly maternity policy."
+    },
+    {
+      "start": 442.56,
+      "end": 455.04,
+      "text": "I haven't seen too many issues on that side, but I've definitely been like we spent a good amount of money on our employment stuff and our maternity stuff just to make sure we're kosher in every state. Have any of your employees been on maternity leave?"
+    },
+    {
+      "start": 455.04,
+      "end": 471.52,
+      "text": "I feel like all of your employees are 21. Yeah, two. Two are currently actually on maternity leave. Wow. Okay. Let me ask, this question wasn't asked. What's the biggest mistake you've seen brands doing north of $10 million make? It's kind of similar to like coming out the gate."
+    },
+    {
+      "start": 471.52,
+      "end": 483.44,
+      "text": "There's not that much difference. It's still like, let's see, $10 million. So yeah, a lot of it can still be around like, I think if we're talking in the context of marketing, a lot of it I think is"
+    },
+    {
+      "start": 483.44,
+      "end": 499.36,
+      "text": "around where they're spending, how they're spending, how they're allocating, what type of products are they pushing. A lot of it too is like if you go from zero to 10 million, you probably need a new agency. Like your agency that you were spending $15,000 a month with is not"
+    },
+    {
+      "start": 499.36,
+      "end": 509.04,
+      "text": "the one that's going to be able to help you spend $600,000 a month. They just operate differently. What do you think comes to mind? I think you're right about the agencies. I think this is where"
+    },
+    {
+      "start": 509.6,
+      "end": 519.36,
+      "text": "usually I don't see brand new founders hiring a ton of agencies. I think this is where you start thinking about agencies and you hire a bunch of them and you make mistakes. I generally think"
+    },
+    {
+      "start": 519.36,
+      "end": 528.4,
+      "text": "most agencies are mistakes. Like if you're operating with one or two, I get it. If you're operating with four or five, I think you probably have too many agencies. The other mistake I see"
+    },
+    {
+      "start": 528.4,
+      "end": 542.56,
+      "text": "people make when they get to this scale is they don't take hard medicine when they should. Facebook ad prices or advertising prices in general will go up or their product won't be as competitive and their sales will start going down. So they just start spending more on advertising,"
+    },
+    {
+      "start": 542.56,
+      "end": 557.12,
+      "text": "their economics go upside down instead of them saying, you know what? We're a $10 million business or a $20 million business. It's okay to go from 20 to 10 and then regroup and try and get the business back together. You're not a publicly traded business where this would crush your share"
+    },
+    {
+      "start": 557.12,
+      "end": 565.92,
+      "text": "price or something. Most businesses are like, we're a $20 million business. We can't go down if we go down at such a failure. So they'll start spending so much money when things go the other way"
+    },
+    {
+      "start": 566.48,
+      "end": 575.12,
+      "text": "that they end up in bankruptcy or they end up in a really tight financial position because they haven't conserved cash. It's okay for your business to drop in sales. That happens to"
+    },
+    {
+      "start": 575.12,
+      "end": 587.04,
+      "text": "everybody. It's okay. Just get used to it. One thing that tends to happen once you get to that stage is maybe you hire like a fractional CFO or one of these finance firms and they start building"
+    },
+    {
+      "start": 587.04,
+      "end": 606.96,
+      "text": "out these unrealistic models of, oh, you got 270,000 people to your site last year. Now you have to get 430,000 but with the same budget. And it's like, it kind of builds these weird, unrealistic models of what you're expected to hit with no real reasoning behind it."
+    },
+    {
+      "start": 606.96,
+      "end": 615.76,
+      "text": "And I think it's kind of along what you're saying, which is like, you don't have to grow a crazy amount every year. You can run a business like it's a business. It doesn't have to be"
+    },
+    {
+      "start": 615.76,
+      "end": 625.04,
+      "text": "something that is just a slingshot home run every time or every year. It's doubling month over month. That's right. Especially if you're a bootstrap business, right? You've got the bandwidth"
+    },
+    {
+      "start": 625.04,
+      "end": 635.44,
+      "text": "to be like, look, I can take a hit on my net profit this year and regroup and make this a strong business. Not let me just spend until this business doesn't make sense anymore."
+    },
+    {
+      "start": 636.24,
+      "end": 645.68,
+      "text": "It is a spot I have seen brands get to where they feel like their only way out is to continue spending. And I also think that's the wrong approach. It's crazy."
+    },
+    {
+      "start": 646.72,
+      "end": 658.48,
+      "text": "Okay. Why don't you pick a random question from the list that we have? And then I'm going to pick a random question instead of just going down the list if that's okay with you. Okay. How about this one? If you're a completely new bootstrap brand,"
+    },
+    {
+      "start": 658.48,
+      "end": 671.2,
+      "text": "what is the best way to get customer number one in 2024? Okay. You want to go first? I mean, the easiest answer is social media. You're sitting on your couch on your ass with your thumbs on a four and a half inch screen that allows you to reach"
+    },
+    {
+      "start": 671.2,
+      "end": 684.4,
+      "text": "millions of people without moving. I think you should definitely use that. If not that, you know, product hunt you've talked about, that's where you launch native. It's where you got, I think, your first 50, 60 sales. You've got Reddit. You can go into communities on Reddit and be a"
+    },
+    {
+      "start": 684.4,
+      "end": 693.44,
+      "text": "solution to a problem that is being discussed. You can do the same thing on random niche forums that relate back to your product. You could DM creators one by one and see who wants a sample"
+    },
+    {
+      "start": 693.44,
+      "end": 708.72,
+      "text": "and that'll post. And then of course you can tap into marketplaces, Amazon, Goop, Verishop, TikTok shop, any place where there's already traffic and your product's a good fit is another spot to go get your first customer. That's a great and comprehensive answer. I don't really have anything"
+    },
+    {
+      "start": 708.72,
+      "end": 718.72,
+      "text": "to add to that. I would say customer number one is super easy. It'll be a friend of yours and if it's not a friend of yours, it'll be somebody when you just start advertising. Customer number one"
+    },
+    {
+      "start": 718.72,
+      "end": 730.32,
+      "text": "is not a problem. It's the customer number 1,000. You know, if you're a pharmaceutical company, it costs $6 billion to create the first pill of whatever you make, your new drug because it costs"
+    },
+    {
+      "start": 730.32,
+      "end": 739.36,
+      "text": "so much in R\u0026D. And the second pill costs two cents and it's like, you know, they're all two cents afterwards. This is the exact opposite. It costs two cents to get your first customer."
+    },
+    {
+      "start": 739.36,
+      "end": 753.04,
+      "text": "It costs you $6 billion to get your last, like, you know, it's very expensive as you continue to scale. So the first customer isn't a big deal. And I think you gave a really comprehensive answer of how to get that person. It's customer number 1,000 that you don't have. Totally."
+    },
+    {
+      "start": 754,
+      "end": 768.48,
+      "text": "Okay. The next question I've got is from Gabe Mays. He asks, there's a lot of buzz about AI, but what real impacts have you seen from it in marketing with your brands? What is the most useful now versus not quite ready yet? Particularly interested in any success"
+    },
+    {
+      "start": 768.48,
+      "end": 788,
+      "text": "around personalization. Honestly, I haven't seen a ton around generate AI. I think there is a opportunity for, you know, there's a lot of these like personalization tools that exist, but they tend to be for the larger, larger enterprise style players that are on Salesforce."
+    },
+    {
+      "start": 788,
+      "end": 799.04,
+      "text": "But like, why isn't there a software where if I go to the Roam website looking for a polo, come in from Google on a polo, and I go back to the homepage, it should just show me polos,"
+    },
+    {
+      "start": 799.04,
+      "end": 812.4,
+      "text": "ideally with some copy that maybe I referenced in my search to come into the site. That's one application I think could be interesting to create. The only really cool, like AI thing I've seen that I don't think will get replicated immediately right away,"
+    },
+    {
+      "start": 812.4,
+      "end": 830.64,
+      "text": "because I do think 95% of the stuff that comes out that's AI is something that's going to be a commodity six months from now. But have you heard of flockshop? F-L-O-C-K-S-H-O-P, flockshop.ai. It's really cool. It's just like cosmetics imaging, but done with AI models."
+    },
+    {
+      "start": 830.64,
+      "end": 846.16,
+      "text": "So you can basically like rapidly render different shades of cosmetics on all different shades of skin tones. I thought that was really, really interesting and also very different. But most of the other stuff is like, you know, ad copy or we'll make an ad based on this."
+    },
+    {
+      "start": 846.16,
+      "end": 856.16,
+      "text": "I don't know that any of that stuff is like, ready to pass the test of real, real brands. But I think it's on its way. Like I wouldn't be surprised. You know what I have seen a lot on"
+    },
+    {
+      "start": 856.16,
+      "end": 868.88,
+      "text": "TikTok is these AI generated videos that'll like last night I was scrolling and I saw an AI generated video of Mukesh Ambani and it just gave like his story and it was basically a script"
+    },
+    {
+      "start": 868.88,
+      "end": 879.68,
+      "text": "that was probably pasted somewhere. And that script then turned into TikTok video for a minute. And then it was posted and it generated, you know, by the time I looked at it, it had 30,000 likes."
+    },
+    {
+      "start": 879.68,
+      "end": 892.16,
+      "text": "And that to me was interesting from a content standpoint. You know, if you're Crocs, and you want to talk about the Crocs story or the inception of gibbets, and you can get AI to help you write a script and put it into a video editor and crank out"
+    },
+    {
+      "start": 892.16,
+      "end": 905.68,
+      "text": "some content. I think that's a great application. But have you seen anything like super interesting that catches your eye or that you've told your team to check out? No, in fact, I've never, I hadn't seen this flock AI. It's really interesting. So basically, just so I understand"
+    },
+    {
+      "start": 906.4,
+      "end": 917.2,
+      "text": "flock AI or flock shop, it's, hey, I've got a makeup brand and I want a photo of somebody like using my makeup brand. You're going to create an image with that person using my brand without me"
+    },
+    {
+      "start": 917.2,
+      "end": 933.04,
+      "text": "having to do that. Is that correct? Exactly. Okay. I hadn't heard of this before, but I've seen this happening through like chat GPTs creation of images. Like it's the pay feature for chat GPT. I've seen a little bit of that so far. And that's been somewhat interesting."
+    },
+    {
+      "start": 933.84,
+      "end": 948.64,
+      "text": "I've seen AI, you know, obviously when it comes to customer service, it's not marketing, but for customer service, I've seen a lot of people use AI, particularly for where's my order, which are, you know, commoditized emails, basically. You know, I've seen Facebook trying"
+    },
+    {
+      "start": 948.64,
+      "end": 961.68,
+      "text": "to implement AI whenever you try and write a product description or a headline in the, when you're creating a new ad, Facebook is like, hey, here's some suggestions through AI. They're not terrible. They're good, but like, they're not as good as you could probably come"
+    },
+    {
+      "start": 961.68,
+      "end": 974.24,
+      "text": "up with yourself. I'm more bearish on this than other people are. I do think that their technology is amazing and that it'll be something, but I think it'll be something in two to four years and"
+    },
+    {
+      "start": 974.24,
+      "end": 983.2,
+      "text": "not six to 12 months. Like, I just don't think we're close enough in the next six to 12 months for it to make a huge difference to us. You know, I do think that you can create an image if you're"
+    },
+    {
+      "start": 983.2,
+      "end": 992.72,
+      "text": "trying to run a sale or you're trying to run a banner and you can say, hey, I want a July 4th email and I want like balloons or something. Can you help me create that image? So, I do think"
+    },
+    {
+      "start": 992.72,
+      "end": 1008.16,
+      "text": "that there are uses. I'm not trying to say that it's completely useless. I don't think we're at the level of AI's replacing our ability to like, you know, test graphics, make images, write copy entirely. I've seen people use it for copy in many places. You know, if you're"
+    },
+    {
+      "start": 1008.16,
+      "end": 1017.12,
+      "text": "trying to write a copy for a blog post and you're like, hey, let me tell you why we have cruelty free deodorant or like, you know, why we use coconut oil in our deodorant, that's great."
+    },
+    {
+      "start": 1017.12,
+      "end": 1025.6,
+      "text": "Something that AI can probably help with. Just has to revolutionize the game in the way that people are hoping it will in the next two to four years, in my opinion."
+    },
+    {
+      "start": 1026.4,
+      "end": 1041.52,
+      "text": "One thing that I always go back to when I think about or when somebody asks me about AI and e-commerce is I think about what Ryan said from True Classic, which is like for him, the biggest differentiator with True Classic is the creative and is the storytelling and"
+    },
+    {
+      "start": 1041.52,
+      "end": 1057.44,
+      "text": "the marketing and the comedy and like the authenticity that comes through that. I think with AI, like if everybody's using AI, doesn't that kind of get lost? And also it's not like AI is also creating based on what has already existed. It doesn't create on imagination in"
+    },
+    {
+      "start": 1057.44,
+      "end": 1074.16,
+      "text": "that sense. That's such a great point. Like every brand that's sort of had a moment has had that moment because they've done something really original. Like I remember Harry's email collection list and being like, hey, let's collect emails before we launch. I remember mailboxes"
+    },
+    {
+      "start": 1074.16,
+      "end": 1085.28,
+      "text": "waitlist when it would count down before they gave you access to the mailbox app. Everyone who's launched and had a big moment or done something interesting with marketing has done so because they've been unique and thought about it in a different"
+    },
+    {
+      "start": 1085.28,
+      "end": 1095.44,
+      "text": "way than other people. I don't think AI is going to be able to do that for you, but I do think it'll help marginals. Yeah, totally. Okay. Let's ask this other question from Chrissy Smith. She says,"
+    },
+    {
+      "start": 1095.44,
+      "end": 1110.4,
+      "text": "as you scale, you trade off efficiency and ad spend for total market share. What's the max percentage of your P\u0026L you would allocate for ads? And does this change across the business's lifecycle? Ooh, I'm curious your answer to this. I feel like at some point it used"
+    },
+    {
+      "start": 1110.4,
+      "end": 1127.2,
+      "text": "to be very normal to spend like 80 to 100% of your revenue on ads. That was like seven years ago. Now I feel like it's somewhere between like 30 to 50%. For me, it really depends on the product that you're selling. If you're selling a durable"
+    },
+    {
+      "start": 1127.2,
+      "end": 1139.6,
+      "text": "product that has a one-time purchase, presumably your margin is much higher. When I think of that, I think of mattresses or furniture. I think of Burrow or Casper or Nectar and I'm like,"
+    },
+    {
+      "start": 1139.6,
+      "end": 1156.24,
+      "text": "look, this is a thousand dollar item. This is a one-time purchase. Your COGS should be pretty low. I would expect them to be $200. Your gross margin is 80% there. So I'm willing to spend 50%, 60%, 70% of my gross margin in order to acquire customers as I continue to scale."
+    },
+    {
+      "start": 1156.96,
+      "end": 1172.88,
+      "text": "But that's because it's a one-time purchase and spending 60% of my revenue still leads to a huge end. That's still a large number. If I'm selling this for $1,000, I have 200 COGS and $600 in marketing spend. I still earn $200 at the end of the day, which is a huge amount."
+    },
+    {
+      "start": 1173.52,
+      "end": 1194,
+      "text": "So I think that for expensive, durable products, the number goes up a lot to 60%, 70%. I think that if you're in the repeat category, I'm more in the 25% to 40%. 40% if you're being super aggressive on growth for some reason. 25% if you're bringing it down. Does this change across"
+    },
+    {
+      "start": 1194,
+      "end": 1210.32,
+      "text": "the business's lifecycle? A little bit. You're probably spending less. P\u0026G doesn't spend 25% or 33% of their revenue on marketing, but they do spend north of 10%, I believe. So I do think that you start bringing it down, you start ramping down."
+    },
+    {
+      "start": 1211.04,
+      "end": 1223.2,
+      "text": "It's a little hard to tell. I feel like a lot of publicly traded direct consumer businesses hide their marketing spend in other line items, like general expense, just in other line items."
+    },
+    {
+      "start": 1223.2,
+      "end": 1232.48,
+      "text": "And so it's really hard to tell what their genuine marketing spend is. I do think that number gets a little bit lower if you're north of $500 million, a billion dollars in revenue. But I"
+    },
+    {
+      "start": 1232.48,
+      "end": 1250.48,
+      "text": "think for everyone listening here, if you're in a repeat category, 25% to 40% is a good benchmark. And if you're in a durable category, 30% to 70%, it's probably a good benchmark depending on your gross margin. Hey guys, I'm super excited that this season's sponsor for limited supply is"
+    },
+    {
+      "start": 1250.48,
+      "end": 1265.84,
+      "text": "Fulfill.io. Fulfill is incredible ERP software built specifically for e-commerce businesses. Think of them as NetSuite, but specifically for e-commerce. They are meant to be a single source of truth for when your business gets really complicated. So when you can't manage your"
+    },
+    {
+      "start": 1266.56,
+      "end": 1279.6,
+      "text": "e-commerce business because you have too many Excel spreadsheets, that's where Fulfill steps in. Now, your business might be too complicated for several reasons. You might be selling through too many channels where Excel doesn't work for you anymore. You might be like,"
+    },
+    {
+      "start": 1279.68,
+      "end": 1294.4,
+      "text": "hey, I'm on Etsy, Walmart Marketplace, Amazon, Shopify, TikTok shops, Facebook shops, and Excel just doesn't work for me anymore. Or you might be like, hey, I've got too many SKUs. I'm an apparel business and I've got several thousand SKUs for several hundred that are"
+    },
+    {
+      "start": 1294.4,
+      "end": 1310.8,
+      "text": "launching each year. Or you might just have a ton of different manufacturers because you order all of your own ingredients from coconut oil if you're a deodorant business to aloe vera if you're a shampoo business. If your business has gotten too complicated for Excel spreadsheets where you're"
+    },
+    {
+      "start": 1310.8,
+      "end": 1320,
+      "text": "managing it, that's really where Fulfill.io steps in. It becomes a single source of truth for your brand. You can tell things like when you go to a single... When you look at a single SKU"
+    },
+    {
+      "start": 1320,
+      "end": 1330.08,
+      "text": "on your Fulfill dashboard, you can see how much product is available, how much product is on hand, how much product is incoming, how much product is outgoing, how much product is being manufactured,"
+    },
+    {
+      "start": 1330.08,
+      "end": 1338.72,
+      "text": "and what is your sales history of that SKU for a single year plus a ton of other things. It's really an incredible single source of truth. There are small brands from Cadence that are using"
+    },
+    {
+      "start": 1338.72,
+      "end": 1356.56,
+      "text": "them to massive brands like Nectar and Hexclad. You should go check them out. It's Fulfill.io. When you're ready for an ERP because your business has gotten too complicated, go to Fulfill.io. Okay. This is from Rob Golderman. How do you get customers excited about leaving reviews,"
+    },
+    {
+      "start": 1356.56,
+      "end": 1369.84,
+      "text": "posting about you on social media, etc.? What's Jolie's secret that allows them to live in the e-commerce utopia of not being in the business of writing emails? Shoot. Do you know? I'm not sure what the answer is to that Jolie part."
+    },
+    {
+      "start": 1370.48,
+      "end": 1380.4,
+      "text": "Jolie kind of created this cultural movement around the showerhead where it feels more like a status symbol than just a filtered showerhead. I think that's why all their competitors struggle"
+    },
+    {
+      "start": 1380.4,
+      "end": 1390.16,
+      "text": "to sell a showerhead even at half off, but Jolie's never even given a discount. I think people want to be seen with a Jolie or they want to make it known to other people that they have one, which is why"
+    },
+    {
+      "start": 1390.16,
+      "end": 1401.92,
+      "text": "they do so well on social. Jolie also puts out a shitload of content, which makes you want to be a part of that brand. However, I do think that while they don't write those emails, and I don't know"
+    },
+    {
+      "start": 1401.92,
+      "end": 1412.32,
+      "text": "where Ryan maybe said that, I think that they probably could have a shitload more reviews if they actually did. So think about all the reviews they've gotten by not writing those emails."
+    },
+    {
+      "start": 1412.32,
+      "end": 1420.4,
+      "text": "I think if they did write those emails, they'd have a lot more. I don't think that's a good model to necessarily go off of. I actually think you should do anything in your power to get people"
+    },
+    {
+      "start": 1420.4,
+      "end": 1431.76,
+      "text": "to write reviews, especially with videos or photos. If you're selling an electrolyte mix, you don't want an unboxing photo. You want that in the cup with ice or some sort of a lifestyle-like"
+    },
+    {
+      "start": 1431.76,
+      "end": 1440.88,
+      "text": "image. You basically want people to post a bunch of content and leave a review. I think you could do that with a coupon code to come back. You could use PostScript for the cashback. You could find a"
+    },
+    {
+      "start": 1440.88,
+      "end": 1453.12,
+      "text": "gift with purchase. Maybe if they write you a review, you send them a gift with purchase as a one-off. But I think it's worth testing it out and seeing what gets the most reviews collected. Are they doing the right thing by not sending out those emails?"
+    },
+    {
+      "start": 1453.92,
+      "end": 1469.44,
+      "text": "Well, first of all, I'm not 100% sure that that's true. Okay. But if they are not sending emails, I think they probably look at it as a brand marketing thing. Personally, I wouldn't do it. I think I'm much more a fan of actually sending the reviews."
+    },
+    {
+      "start": 1470.24,
+      "end": 1482.88,
+      "text": "But Jolie does tend to do a lot of things in an unconventional way. Let's go back to the original question, which is how do you get people excited about leaving reviews and posting about you on social media? I think posting about you on social media is really,"
+    },
+    {
+      "start": 1482.88,
+      "end": 1500.8,
+      "text": "really difficult. They have to have an amazing experience, and it has to add value to their timeline or to their story, whatever it is. I think about Last Crumb. If you think about Last Crumb's unboxing experience, it's insane. Instead of getting a box of... They could probably spend"
+    },
+    {
+      "start": 1501.68,
+      "end": 1517.12,
+      "text": "20% of what they spend on packaging and shipping and ship you the exact same product. They ship you a dozen cookies, and it could cost them $7 to ship it, including packaging. Instead, they probably spend something like $55 shipping it to you. The box is insane, huge."
+    },
+    {
+      "start": 1517.12,
+      "end": 1527.2,
+      "text": "They obviously don't give a crap about dimensional weight. They don't give a crap about corrugate or box costs or anything else. They just want the unboxing experience to be really sexy,"
+    },
+    {
+      "start": 1527.2,
+      "end": 1537.6,
+      "text": "to make it look awesome. I think that does add value. I think that gets people to post about it organically. We tried to do it. We're like, get a $20 Starbucks gift card. I remember at Native,"
+    },
+    {
+      "start": 1537.6,
+      "end": 1555.36,
+      "text": "we were like, get a $20 Starbucks gift card. We give one away a week. Post about this and tag Native offer or something, like hashtag Native offer or Native box. We were probably shipping more than 50,000 packages a week probably. We were getting three posts. Think about all"
+    },
+    {
+      "start": 1555.36,
+      "end": 1571.04,
+      "text": "the impressions that got and the fact that it got three posts. We just couldn't get it done because it wasn't compelling. The unboxing experience was nice, but it wasn't last crumb like nice. The offer of $20 just wasn't enough. It's tough to get people to post about certain"
+    },
+    {
+      "start": 1571.04,
+      "end": 1591.52,
+      "text": "things. You can't get people really to post about supplements unless it's tied to a celebrity. If Sami Clark is posting or Alyssa Lynch posts about Chroma Wellness, I could see people buy it and post because they want that social currency of, hey, look, I also take this just"
+    },
+    {
+      "start": 1591.52,
+      "end": 1604.56,
+      "text": "like Alyssa does. Salud is another good example. Salud has created such a great brand for themselves from a content and a social and an influencer standpoint that you want to post and be involved"
+    },
+    {
+      "start": 1604.56,
+      "end": 1615.28,
+      "text": "in that. I think Jolie did the same, but I think it's almost impossible for anybody else to do. It really is like the 1% of the 1% that have that sort of like brand aura where people want"
+    },
+    {
+      "start": 1615.28,
+      "end": 1629.12,
+      "text": "to be posting about them on social. I mean, even whoever's listening, like think about how many times you've posted about a package that you got. Like what percentage of the packages you get are you posting let alone sending a picture to your friends as a referral or something?"
+    },
+    {
+      "start": 1629.92,
+      "end": 1637.68,
+      "text": "I just think the number is super small. I don't think it's a realistic goal. I think it's something that you can have. I think you should focus on the reviews and I think you should focus on"
+    },
+    {
+      "start": 1637.68,
+      "end": 1647.76,
+      "text": "putting out good content and building that brand aura. But to have that social media tags as a KPI, I think you might end up in a position where you're giving out money in exchange for posts"
+    },
+    {
+      "start": 1647.76,
+      "end": 1656.48,
+      "text": "that really aren't going to do anything at the end. I do think the one area where you could do is you can make sure you repost every other customer. Like any customer who tags you in a"
+    },
+    {
+      "start": 1656.48,
+      "end": 1667.04,
+      "text": "story, share that story again on your story so people are like, wow, okay, if I tag them. Look, if you have 75,000 followers and whatever your, I don't know how many followers that Jolie"
+    },
+    {
+      "start": 1667.04,
+      "end": 1680.4,
+      "text": "has but we're just using that as an example. Let's say Jolie has 75,000 followers. If they repost everything their customers post, you're going to be like, wow, I can get an account with 75,000 followers to repost something of mine. Maybe I'll pick up some new followers. You can do that."
+    },
+    {
+      "start": 1680.4,
+      "end": 1690.16,
+      "text": "I think in terms of leaving reviews, everyone would ask me, how did you get so many reviews in Native? For God's sakes, just ask. I'm not sure why people don't ask. We would literally,"
+    },
+    {
+      "start": 1690.64,
+      "end": 1699.68,
+      "text": "thousands of emails every day would be, hey, did you like our product? If so, please leave a review here. If you didn't, please reply to this email and tell us why you didn't like it so we"
+    },
+    {
+      "start": 1699.68,
+      "end": 1710.96,
+      "text": "can make it better. It was really simple. What was effective about that was it was a text-based email and there were no images or anything. It was more likely to go to your inbox."
+    },
+    {
+      "start": 1711.68,
+      "end": 1719.76,
+      "text": "It was also like, hey, if you're unhappy, just reply so we can do a good job. We can make our product better. We weren't trying to be assholes. Obviously, we were trying to discriminate."
+    },
+    {
+      "start": 1719.76,
+      "end": 1730.32,
+      "text": "We're trying to not discriminate but discourage you from leaving a bad review by saying reply instead of like, yeah, leave a bad review here too. It worked. I think people were like, you know"
+    },
+    {
+      "start": 1730.32,
+      "end": 1738.16,
+      "text": "what? This is a small business. I don't want to leave a bad review and make it really public. They're trying to work hard and make their product better. I think there's a lot of"
+    },
+    {
+      "start": 1738.16,
+      "end": 1746.96,
+      "text": "opportunity to just ask and structure that email so it gets in an inbox and then make it so that people are like, you know what? If I had a bad experience, I don't want to tell everyone I had"
+    },
+    {
+      "start": 1746.96,
+      "end": 1754.72,
+      "text": "a bad experience. If I had a good experience, I want to tell everyone because it's a small business and I want to support them. My family and I were just in Istanbul. I remember we ate"
+    },
+    {
+      "start": 1754.72,
+      "end": 1764.24,
+      "text": "at this Pakistani restaurant and the guy's like, we've been open for six months. I was like, man, you didn't have that much business either. I was like, you know what? I'm going to leave"
+    },
+    {
+      "start": 1764.24,
+      "end": 1771.6,
+      "text": "a positive review because even though the place is good but not amazing, I was like, I'm going to leave a positive review because I want this guy to be successful. It's a small"
+    },
+    {
+      "start": 1771.6,
+      "end": 1782.88,
+      "text": "business and I hope he does really well. I think that's a really easy thing to ask of people. I do think the one place where you could probably get away with this is places like TikTok shop,"
+    },
+    {
+      "start": 1782.88,
+      "end": 1797.6,
+      "text": "where you can incentivize people from an affiliate standpoint to post. If somebody's already bought your product and you're like, yo, I'll give you $12 for every person or everybody who buys it from your video, I think that's one opportunity where you could probably still get people to"
+    },
+    {
+      "start": 1797.6,
+      "end": 1807.84,
+      "text": "post in an easier way. But yeah, other than that, I think default back to everything we just said, especially the plain text reviews. That is probably the number one tip I hear back from"
+    },
+    {
+      "start": 1807.84,
+      "end": 1817.04,
+      "text": "people who listen to the podcast and they've said that they implemented that and that skyrocketed their reviews because they have a plain text email that goes out from the founder and it just says,"
+    },
+    {
+      "start": 1817.04,
+      "end": 1833.12,
+      "text": "hey, I just saw you bought this. Thanks so much. We've just started making these. We'd really appreciate a review. It's going to help us a bunch and those work super well. So simple. Okay. Next question is from Dan Staub. He says, predict a retail bankruptcy in 2024."
+    },
+    {
+      "start": 1833.92,
+      "end": 1843.6,
+      "text": "Ooh, that's a dark question. Let's see. I think, well, actually I had a couple of thoughts on this. One is I definitely think there's probably going to be some that go bankrupt. The three that I"
+    },
+    {
+      "start": 1843.6,
+      "end": 1854.4,
+      "text": "wrote down, you're probably going to laugh. One was Rite Aid. One was Big Lots. Do you remember Big Lots? Do I remember Big Lots? I love Big Lots. Why would Big Lots? God, I don't think they're"
+    },
+    {
+      "start": 1854.8,
+      "end": 1868,
+      "text": "going to go bankrupt, really? Fuck. I think so. And then Hoos. Those are my three guesses of retail bankruptcies. What was your first one? I love the second two. What was the first one? Rite Aid. Rite Aid. Okay. Gotcha."
+    },
+    {
+      "start": 1868.8,
+      "end": 1881.84,
+      "text": "However, I also think that there might be a shift in some of these retail stores. I think Macy's, CVS, Target, I think a lot of these stores are going to shift to localized"
+    },
+    {
+      "start": 1882.56,
+      "end": 1896.16,
+      "text": "fulfillment centers. Is it one in two purchases at Costco now happen on the dot com? It's either one in two or one in five, very different numbers, but either way, it's still a big percentage. That's way higher than I thought."
+    },
+    {
+      "start": 1896.16,
+      "end": 1906.4,
+      "text": "I can only imagine it's going to keep growing. Yeah. So anyways, I think a lot of stores are going to turn into hubs, if not full retail stores. Maybe they'll lower some of their square footage"
+    },
+    {
+      "start": 1906.4,
+      "end": 1918.72,
+      "text": "that's consumer facing and increase some of it that's backstock. But I think the three that I wrote, Rite Aid, Hooters and Big Lots. Okay. Mine is the container store. I hope it doesn't. Really? I love the container store, but"
+    },
+    {
+      "start": 1920.8,
+      "end": 1931.28,
+      "text": "just doesn't seem like- I thought of the container store. Yeah. I just don't know how it thrives in this type of environment. Yeah. It just makes it difficult. It's a good point. I took it off only because of the last"
+    },
+    {
+      "start": 1931.28,
+      "end": 1942.16,
+      "text": "minute nature to the store. There is a last minute nature of, oh, I'm just moving in or I'm just about to go on a trip, which is why I took it off. But I could totally see, yeah, why couldn't"
+    },
+    {
+      "start": 1942.16,
+      "end": 1958.16,
+      "text": "you take the top 10% SKUs and put them in Target? Now you don't need the container store. I also feel like the container stores Black Friday is whenever people are moving into dorm rooms. They're like, please, you're moving into a dorm room. I remember going to the container store"
+    },
+    {
+      "start": 1958.16,
+      "end": 1970,
+      "text": "when everyone was just getting into their dorm rooms and the line was out the door. And then three days later I went in and nobody was there. I was like, okay, that's exactly what I should have expected is that one day everyone's here"
+    },
+    {
+      "start": 1970,
+      "end": 1977.28,
+      "text": "with their parents buying whatever they need for their dorm room. And then the next day they're all gone. Okay. Do we have time for one more question? Yeah. Let's do one more."
+    },
+    {
+      "start": 1977.92,
+      "end": 1988.32,
+      "text": "All right. You pick it. Okay. This is from Michael. How can a brand with an AOV of $30 survive in direct to consumer world? We're Amazon only for now, but trying to make the switch to"
+    },
+    {
+      "start": 1988.32,
+      "end": 1998.56,
+      "text": "direct to consumer, but the math doesn't seem to work. We have five SKUs as we are more like a product brand. Product is not consumable, but it wears out. So probably should be repurchased"
+    },
+    {
+      "start": 1998.56,
+      "end": 2010.4,
+      "text": "every three to four months. What do you think? I put a couple of things. One is if you know your product's going to be needs repurchase every three to four months. One, I wonder if that's like,"
+    },
+    {
+      "start": 2010.4,
+      "end": 2019.84,
+      "text": "is that wear and tear? Is that normal? If it's not normal, I would probably make that address that upfront and maybe try to put people on a subscription. I think if it's not addressed up"
+    },
+    {
+      "start": 2019.84,
+      "end": 2030.88,
+      "text": "front, but people are going to wear out, then you could stack. Can you buy three for a discounted price or basically just AOV stacking? One that I took from you, or actually two that I took from"
+    },
+    {
+      "start": 2030.88,
+      "end": 2045.44,
+      "text": "you, one was having smart upsells, both pre and post purchase, which I'm sure you're going to mention. And then one was to source complimentary products. So if you're selling toothpaste or toothbrush that you know is going to wear out in three, four months, whatever, maybe you source"
+    },
+    {
+      "start": 2045.44,
+      "end": 2064.24,
+      "text": "a dop kit for $1.50 and you can upsell that for $12.99 or $14.99 and add some margin there. Or bundle them and say, hey, you're buying a toothbrush instead of buying one by three and it was $30 for one, it's $60 for three. So yeah, I definitely think getting your AOV up to"
+    },
+    {
+      "start": 2064.24,
+      "end": 2074.24,
+      "text": "give you the room to advertise more is super helpful. I think I've told this story multiple times, but when we started Native, our AOV started at like $13 and it ended at something like $26 or"
+    },
+    {
+      "start": 2074.24,
+      "end": 2085.6,
+      "text": "$27 because we got people to get into upsells and buy the three pack. And it gave us a lot more room to spend on marketing. So yeah, one, get that AOV up. Two is, it's very, very difficult"
+    },
+    {
+      "start": 2085.6,
+      "end": 2098.32,
+      "text": "to go from an Amazon, a primary Amazon brand to a direct consumer and Amazon. If you're 100% Amazon, I think the best you're going to get is 20%, 30% Shopify. I've never seen anyone go from 100%"
+    },
+    {
+      "start": 2098.32,
+      "end": 2112.4,
+      "text": "Amazon at any scale and then become 70% Shopify. People know you on Amazon, you already show up when people are searching your keywords, that's where your reviews are. People have already obviously saved their checkout information on Amazon. So I do think you're admittedly"
+    },
+    {
+      "start": 2112.4,
+      "end": 2120.96,
+      "text": "having an uphill battle. The thing I would say is exactly what you said. Get your AOV up, try and really play the email game, try and get people to switch from Amazon to your Shopify site"
+    },
+    {
+      "start": 2120.96,
+      "end": 2130.08,
+      "text": "when you're advertising by offering incentives to buy from Shopify. So if you're buying a toothbrush or you're buying a dop kit, say free toothbrush if you give us your email address. So we have"
+    },
+    {
+      "start": 2130.08,
+      "end": 2138.88,
+      "text": "email addresses and we can continually market you and email market you. And then offer a discount basically compared to Amazon. Discount doesn't have to be monetary. It doesn't have to be,"
+    },
+    {
+      "start": 2138.88,
+      "end": 2150.72,
+      "text": "I sell Olipop for $1 on olipop.com and $3 on Amazon. It could be get a free case when you buy four cases on olipop.com. Give people a reason to go to your .com as opposed to just on Amazon."
+    },
+    {
+      "start": 2150.72,
+      "end": 2158.32,
+      "text": "Otherwise, Amazon is a lot more convenient. You're going to treat your product like a commodity and your site like a commodity. So will everyone else. You really got to make it special."
+    },
+    {
+      "start": 2158.96,
+      "end": 2168.56,
+      "text": "The Amazon thing is so real too. I remember at Hint, we had our top five flavors on Amazon for the longest time and the other 22 that you couldn't get on Amazon were on the .com. And"
+    },
+    {
+      "start": 2168.56,
+      "end": 2180.88,
+      "text": "it was great for recruiting people back to the website because once they liked the product, they wanted to try more. The only way to get it was come to our site. Absolutely. It's a no brainer to put some exclusive products just on your site to try."
+    },
+    {
+      "start": 2181.52,
+      "end": 2189.44,
+      "text": "But it's hard if you have five products and it's a durable. I don't know anything about this person's brand, but it could be hard if you're durable and you have five products, but try and make"
+    },
+    {
+      "start": 2189.44,
+      "end": 2206.4,
+      "text": "exclusives for your .com. That's even true for Target and Walt. When you have retailers, they want exclusives as well. The game of exclusives and managing channels never ends. Yeah. Okay. I think that's the... I know we've got to wrap up pretty soon. So I think that's"
+    },
+    {
+      "start": 2206.4,
+      "end": 2218.56,
+      "text": "going to be the final question. I tweeted this out earlier, but Nick, you know this, but this is my final episode of Limited Supply. It's been such a pleasure doing this with you. Eight seasons. Have they all been 12 episodes? I'm trying to figure out how many we did."
+    },
+    {
+      "start": 2218.56,
+      "end": 2229.84,
+      "text": "I think they've all been 12 episodes. Yeah. Oh, all right. So we got to 96 episodes. We didn't quite make it to 100. Now I regret that. I wish we'd made it to 100. But this has been such a pleasure. It's been so much fun to do"
+    },
+    {
+      "start": 2229.84,
+      "end": 2240.88,
+      "text": "this with you. I'm so grateful for all the time you spent doing this and getting to know you better over the 96 hours we've been recording and 300 hours we've been prepping for these things. It's"
+    },
+    {
+      "start": 2240.88,
+      "end": 2256.64,
+      "text": "been great. So shout out to you. So grateful to you. Grateful to the Workweek team, to Tyler, to Ben, to Adam, and certainly to our listeners. I'm excited to start being a listener to this podcast. I've never listened to any of... I've listened to one episode, I think."
+    },
+    {
+      "start": 2257.2,
+      "end": 2268.56,
+      "text": "So I'm excited to hear all of the gems that you're going to drop for the next eight seasons. Thank you. It's been honestly such a cool highlight of my life to do this with you too,"
+    },
+    {
+      "start": 2268.56,
+      "end": 2282.88,
+      "text": "especially from meeting you at Shop Talk, what, five years ago in a trailer park, looking at each other being like, hey, you're the other brown guy in this industry. That's right. To 96 episodes. And it's funny. I always thought jokes on you,"
+    },
+    {
+      "start": 2282.88,
+      "end": 2292,
+      "text": "Moise, because I got to spend an hour with you every week and get to jam with you. So I'm very grateful for all the time we spent. And we're going to have you back on as a guest, I'm sure,"
+    },
+    {
+      "start": 2292.64,
+      "end": 2301.68,
+      "text": "in the future. And I'm excited to come keep hanging out, playing some ping pong and also keep doing supply going. Yeah. Let's continue to spend that hour a week. It just doesn't have to be recorded. I love it."
+    },
+    {
+      "start": 2301.68,
+      "end": 2315.68,
+      "text": "Awesome. Appreciate all your time. Thanks so much, guys. And thanks for listening. See you next season. Thanks for tuning in. We'll be back next time to cut through the noise in CPG, retail, and eCommerce. And if you enjoyed this episode, then why not share it with a friend?"
+    },
+    {
+      "start": 2315.68,
+      "end": 2319.76,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

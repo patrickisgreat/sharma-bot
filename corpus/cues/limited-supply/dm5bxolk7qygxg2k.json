@@ -1,0 +1,359 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nick.co.com, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 53.49,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. You may have heard of AppLovin before, or maybe not, but let me tell you why you need to pay attention. Whether or not you realize it, you've interacted with AppLovin as a consumer. They're the largest ad network for mobile games, reaching 150 million people per day. Not per month, not per week, but per day."
+    },
+    {
+      "start": 53.49,
+      "end": 82.37,
+      "text": "The network has grown so much that they reached a billion dollar run rate in AppLovin just from e-commerce spend. It's the fastest growing ad platform for D2C brands, and it allows you to drive measurable performance at scale. Sign up to be the first to know when AppLovin can onboard you and get to the front of the line with my special link. It's nick.co.com slash app beta. See why brands like Hexclad and Ridge rely on AppLovin. Go to nick.co.com slash app beta."
+    },
+    {
+      "start": 82.55,
+      "end": 108.44,
+      "text": "That's n-i-k dot c-o slash a-p-b-e-t-a to see when you can get onboarded to AppLovin. Welcome back to Limited Supply. Today is another week, which means another episode. And today we're actually going to throw it back. We're going to go through an interview I did with Shopify. This was an interview I did. It got a lot of attention, got a lot of shares."
+    },
+    {
+      "start": 108.46,
+      "end": 136.76,
+      "text": "And so I want to share it here with all of you because I think a lot of you haven't gotten to it yet. So we go very deep into the tactics of brand building, how to build brand, how to run performance versus brand, how to think about building a performance channel, who to hire first, a lot of the one-on-one of e-commerce. So if that's relevant to you and is exciting, then please give it a listen. Let me know what you think at the end. Either drop a review or send me a DM on Twitter. And I hope you enjoy the episode."
+    },
+    {
+      "start": 138.44,
+      "end": 165.02,
+      "text": "Nick, what makes a good product? Well, a couple of things that come to mind. So my mom recently had this idea. You know, she was like, well, we could sell this product for $99. We can manufacture it overseas. You know, it sounds like it's a great business. And then we'll put it in Target. You know, the first few things that people don't necessarily think about, one is, okay, how are we getting eyeballs? How are we getting eyeballs to see the product? The second thing is, which actually should be the first thing, is like, what's the use case of the product?"
+    },
+    {
+      "start": 165.14,
+      "end": 194.42,
+      "text": "How does it compare to other products that already exist in the same market or as a competitor? And so those are the couple of things I first think about is, you know, why is this product going to win over its competitive set? And the second one is, why are people going to care? And if you get past the why will people care, then it's about how are we going to get eyeballs? A lot of the brands we've worked with will have a celebrity co-founder, celebrity partner. And so it's very easy to get eyeballs up front. But otherwise, you have to spend that money to go basically get those eyeballs."
+    },
+    {
+      "start": 194.42,
+      "end": 219.8,
+      "text": "And eyeballs essentially is marketing, right? How do you sell your product? That's what we were talking about in the introduction. That is a big piece of the puzzle, right? You could have the best idea, the best product. Maybe mom's idea is great. I'd love to hear what it is. But selling it is a whole different animal. And that's where you really excel. So let's start with how you begin to market a good idea. Yeah. Yeah."
+    },
+    {
+      "start": 220.14,
+      "end": 249.04,
+      "text": "So I like to find hooks and angles. And I like to think, OK, if we're selling a cooling cream for your feet, right? Or just a cooling cream, a moisturizer that has cooling properties or cooling effects. I didn't even know I needed that, but go on. Yeah, exactly. So now the audience of people who would want to buy a cooling cream is probably very small. But then the audience of people who want to buy a solution to stop itchy feet is probably much bigger."
+    },
+    {
+      "start": 249.04,
+      "end": 276.66,
+      "text": "And so I like to first validate what the hooks and the ideas are that will lead to the sale of the product. And from there, then it's about figuring out where can that message live? Or where can you say that message? Where can you talk about the benefits of that product that will actually bring people in and get them attracted? A lot of times at first, it's social media. So whether that's organic social media, you're creating content on short form platforms that give you reach without any pay."
+    },
+    {
+      "start": 276.86,
+      "end": 304.62,
+      "text": "TikTok, Reels, YouTube Shorts, etc. And then it goes to the paid platforms. You know, how do you pay for ads in a way where you can basically place your product in an ad and drive eyeballs there? Of course, if you're on Shopify, you also get the benefits of the shop pay boost and being able to show up in the shop marketplace. Well, we're going to talk a lot about organic versus paid a little bit later in the interview. But I want to get back to this idea that you just brought up about hooks and ideas."
+    },
+    {
+      "start": 305.1,
+      "end": 332.88,
+      "text": "It kind of reminds me of songwriting in a way, right? When you're writing a song, you're looking for that hook. And you're big when it comes to marketing on explaining things in a simple way and really having something that resonates. Easier said than done though, right? I mean, how do you go about that? Yeah, I think the way to do that is, you know, one is we have a litmus test that I love to use, which is your grandma should be able to understand what this is."
+    },
+    {
+      "start": 333,
+      "end": 360.82,
+      "text": "So if you have a product and you have a product page, you're explaining what the product does on the PDP. Your grandma should be able to go there and fully understand what does the product do? Why does it exist? How is it going to benefit me? If I order it today, when's it going to arrive? And how does it compare to the other products on the market that say they do the same thing? The second person you want to make that for is a drunk person. So somebody who's taken three shots of whiskey or three shots of tequila, can they still manage to go through that page, understand everything, and then eventually get to checkout?"
+    },
+    {
+      "start": 362.1,
+      "end": 389.3,
+      "text": "Outside of that, you know, it is very similar to songwriting or even to crafting content, right? You have to have some sort of a hook that grabs attention. That hook that grabs attention is your permission to get somebody to stay for the rest of that, you know, whether it's scrolling through a PDP or watching the rest of an ad. You know, everybody has 100 million things they could be doing on their phone or on their web. How do you stand out? Exactly."
+    },
+    {
+      "start": 389.48,
+      "end": 418.2,
+      "text": "And you have to really earn that time and earn the permission for that person to stick with you. I love those archetypes that you just pulled out for the examples, grandma and the drunk person. I love how the drunk person is three shots, by the way. It's hilarious. Three shots, yeah. Maybe a little bit more. But those are great people to think about, imaginary people to think about because storytelling is really personal. And you want to talk to an individual when you're trying to tell a story, not to this broad audience. Why is that effective?"
+    },
+    {
+      "start": 418.2,
+      "end": 445.66,
+      "text": "Why is it effective to think of somebody when you're trying to market a product? You know, it's kind of like that saying, if you stand for everything, you stand for nothing. It's the same with marketing and thinking of who your customer is. You have to really think of, you know, I would say no more than four people that you're trying to sell to. Even when I write the newsletter, right, I think of three people. I'm always writing for three people only, not for everybody. One is like a founder who has no money but needs to make moves in marketing."
+    },
+    {
+      "start": 445.66,
+      "end": 475.28,
+      "text": "One is the CMO of a company that's doing $50 million or more in revenue. And the third is an investor of an early stage company. I always think of Kirsten Green, who wrote the first check into Bonobos and Glossier, et cetera. And so, and I think good content is always created for a couple of people, not for everybody. That also allows you to sort of build out that lifestyle, right? Like if you think about Allbirds. Allbirds, when they started were, they were like the tech bro shoe."
+    },
+    {
+      "start": 475.58,
+      "end": 501.94,
+      "text": "And then it built that lifestyle that everybody wanted to flock to and become a part of. I think that's consistent with a ton of other brands that have done well. Hexclad with, you know, chef-made cookware. Or Jolie with, you know, people who want to be better for themselves and only use the best products. And then it sort of builds this lifestyle that other people get attracted to and want to become a part of as well. Back to this idea of organic versus paid ads. This is a common pain point."
+    },
+    {
+      "start": 502.32,
+      "end": 529.32,
+      "text": "How do you know which avenue to pursue, to drive down when you're choosing between the two of them? Well, you know, I always think of it this way. It's like, if you've ever seen the movie Cars, the Disney movie, there's that scene where they're building, they're paving the asphalt on the road. And there's a big truck that's basically putting the asphalt down. And then another, you know, steamroller behind it that's smoothening everything out. I always think of it as, you know, it's the same thing."
+    },
+    {
+      "start": 529.46,
+      "end": 558.24,
+      "text": "You have to build your brand equity and you have to build brand awareness and create content and build legitimacy with organic. I think that's the easiest, cheapest, fastest way to do it. And then- You can't do it just with paid. Correct. The steamroller after is the paid traffic, but that wouldn't work unless you have that legitimacy and awareness that's planted with organic. Obviously, if you have, you know, millions of dollars, you can go spend on TV and out of home and all these channels. But, you know, I have this thing I call the Broke Man's Content Playbook,"
+    },
+    {
+      "start": 558.44,
+      "end": 586.88,
+      "text": "which is essentially you use these social platforms that give you a ton of reach. Again, TikTok, Reels, and YouTube Shorts, and then, of course, channels like YouTube or Instagram. But you're able to create content that way. And then you see what does well. And whatever overperforms, so let's say your baseline is you get 3,000 views on a video on TikTok. If you all of a sudden get 7,000 or 12,000 views, that's a good indicator to now move that over into the paid side of the mix."
+    },
+    {
+      "start": 587,
+      "end": 615.88,
+      "text": "And you start running ads that actually you already know will resonate with the audience. Because really, the best way to think about ads is not that they're just ads and that they're going to work automatically, but it's rather how do you take something that works and just stretch it and just get it in front of more people, right? Paid ads is just taking content and just putting it in front of more people who you think are going to resonate with the content. If you start with organic and validate what works, you've already got proof that there's a good chance that'll work when it comes to paid. Really good learnings here."
+    },
+    {
+      "start": 616.04,
+      "end": 643.68,
+      "text": "So in other words, what you're saying is organic is kind of the test field. Exactly. And paid is where you really lean into what you have proven works. Correct. Right. It's a great piece of advice for any founder listening right now to the show. I guess, is views, is that the only way you know if your ad is working? I mean, how do you tell? Views is actually not the greatest metric. On the ad side, definitely not. You want to basically look at click-through rate. You want to look at CPM."
+    },
+    {
+      "start": 644.2,
+      "end": 672.08,
+      "text": "CPM in ads will tell you how much does the platform like what you're putting out. And that's usually a factor of- For our listeners, CPM stands for- Cost per thousand impressions. So for example, if you're running a Facebook ad and your CPM is $20, that's a good CPM. That means that Facebook likes what you're putting out. It's getting decent enough engagement to where Facebook is rewarding you with a lower CPM. And it's probably an ad that's doing well."
+    },
+    {
+      "start": 672.2,
+      "end": 699.42,
+      "text": "Now, the second thing you have to look at is CTR, click-through rate. So do people actually care about what they're clicking on? And then you can look at the metrics down the funnel. So you have CPM to start. That tells you how much does the platform like it. You have click-through rate, which tells you how much do people on the platform like what you're putting out. In this case, the click-through is just on the ad itself. Okay. And then once you get to the actual site, you have your ad-to-cart metrics, your checkout-initiated metrics, and your purchase metrics."
+    },
+    {
+      "start": 699.82,
+      "end": 728.88,
+      "text": "That tells you if, for example, let's say your CPM is low, your click-through rate is high. That means the platform likes your ad, the people like your ad. Now when they get to your site, there's no ad-to-carts. That means there's some misalignment on the page they got to compared to what they thought they were getting to you for. It's not what they expected. Exactly. And so looking at these metrics helps basically understand and diagnose where you could be going wrong or what you need to fix. Views, you could be having high views for the wrong reason, right?"
+    },
+    {
+      "start": 729,
+      "end": 757.08,
+      "text": "You could have, if you're selling women's lingerie and you have a million views, but it's all men who are viewing it, views is not a great metric there. And so even then, a lot of times I like to use links in comment sections or link in bio and just understand traffic. That's one way. The other way is just understanding engagement. So if you got a million views, how many comments did you get off of that? How many shares did you get off of that? Um, generally, you know, back in the day on Facebook, if your likes and shares were at"
+    },
+    {
+      "start": 757.08,
+      "end": 783.06,
+      "text": "an equivalent number, you have a really good post. Right. And today, because there's so many different platforms, so many different ways you can get your product before prospective customers, data and diversity in data is key. I'd be remiss if I didn't mention that we at Shopify do a pretty good job of helping you digest and understand some of this data. What are some of the things when it comes to our platform that you think Shopify does really well?"
+    },
+    {
+      "start": 783.06,
+      "end": 807.9,
+      "text": "You know, the revamped analytics in Shopify has gotten much better, especially around cohort analysis and cohort data. I think the average order value now, you know, not including things like discounts is also very helpful. The Shopify reports tab is probably one of the more underutilized reporting features in Shopify, but you're almost able to cut up anything."
+    },
+    {
+      "start": 807.9,
+      "end": 833.56,
+      "text": "Uh, I personally like to go and look at conversion rate and metrics per page or per page that's landed on. Um, the other thing that Shopify does is, you know, like just really rich integrations into companies like Triple Whale. So you can actually see other versions of that data cut up. Um, so overall, I think the Shopify analytics tool is really sharp. Um, sometimes more helpful than Google analytics even."
+    },
+    {
+      "start": 834.06,
+      "end": 863.38,
+      "text": "But, um, but I do think that, you know, a lot of the, a lot of the metrics, especially as it relates to content performance, um, you know, and every, every media buyer who's bought ads will resonate with this, but it just comes down to gut feeling sometimes. I'm glad you brought up content performance because part of the equation that's changing a lot today is how much it costs to get a customer. Customer acquisition costs continue to grow. And it's a big issue, especially if you're just starting out and you don't have a lot"
+    },
+    {
+      "start": 863.38,
+      "end": 891.94,
+      "text": "of cash on hand. When do you know, and how do you understand the moment that's right to start spending more for your customers? So, um, assuming somebody starting from zero, I think that, you know, the first thousand customers you should try to go get without using paid methods. Um, and the reason is because you're really trying to understand what is the messaging or the positioning or the reasons that somebody is coming to buy this product. You're still testing is what you're saying. Exactly."
+    },
+    {
+      "start": 892.14,
+      "end": 919.74,
+      "text": "You're really trying to understand where, where do you have product market fit, right? So if we go back to that cooling cream, you know, just advertising something as a cooling cream is not going to work. Uh, but you might have 25 different reasons somebody wants a cooling cream and you can test those 25 different reasons using organic content or putting out content or even just going, you know, like, uh, going to a supermarket or a flea market and talking to people and understanding why they're buying the product. I think that's how you should get your first thousand customers."
+    },
+    {
+      "start": 919.96,
+      "end": 948.92,
+      "text": "But basically you want to really understand and hone in on what is it that the majority of people are coming here? Why are they coming here to buy this product? And, and then you turn on paid and now you have something that, you know, works. You're not now testing this and throwing things against the wall, uh, with money behind it before you understand why it actually works. Then once you turn paid on, you know, you should have three milestones basically. The first is how do you get to a thousand dollars a day in revenue with paid channels efficiently? Yeah."
+    },
+    {
+      "start": 948.98,
+      "end": 977.66,
+      "text": "Efficiently can mean break even or slightly profitable. Uh, once you get to a thousand dollars a day, how do you get to $2,500 a day? And then how do you get to 5k a day? And you know, 5k a day is 150k a month business, which is gross sales. Exactly. That's a decent size business. Once you get to five, it's very easy to get to 10. Once you're at 20, a 10, it's easy to get to 20. But that first 5k a day in sales, uh, really forces you to think about how are you understanding what the customer needs or what the customer wants from you."
+    },
+    {
+      "start": 977.9,
+      "end": 1006.61,
+      "text": "And until you can do that and sort of, uh, very meticulously understand that it's hard to scale unpaid. We just onboarded two brands who are new to app loving, but very heavy Facebook spenders. One is a high AOV in-home product and one is a supplement brand. Now why? Well, app loving sees 150 million active users per day. The same way you'd want to test the channel like snap is the same way we approach testing app loving."
+    },
+    {
+      "start": 1006.87,
+      "end": 1032.83,
+      "text": "So far, the onboarding was super smooth. We've been able to ramp up spend in just a short amount of time. And I think we're still hitting our plan row as targets. Candidly, I haven't seen many platforms able to ramp up this quickly, and I'm excited to continue investing into the channel throughout the season. I'm going to keep you updated with how our results are going. But right now you can get updates on app loving's e-commerce beta and be the first to know when opportunities become available at nick.co slash app beta."
+    },
+    {
+      "start": 1032.83,
+      "end": 1062.47,
+      "text": "That's n-i-k dot c-o slash a-p-p-b-e-t-a. Check it out. When do you give founders permission, Nick, to start freaking out because their ads aren't doing well, right? I mean, they've got an ad, they've been pushing it out for a while and performance is low. Pretty early on, I would say. You know, I think it's hard to quantify exactly when, but, you know, if you're running an"
+    },
+    {
+      "start": 1062.47,
+      "end": 1091.23,
+      "text": "ad and nothing's working and you're, you know, let's say a week in or a couple thousand bucks in, you can probably kill the ad. The other things you want to look for is, you know, outside of just purchases, you have to look for a few things. You have to understand, is there social proof that exists for the brand? So if I'm launching this cooling cream, and again, somebody goes to the site, they see cooling cream, it's got all these benefits. You know, I could have the best product page, but the second somebody Googles, you know, Nick's cooling cream on Google, if nothing exists, there's no social proof, there's no"
+    },
+    {
+      "start": 1091.23,
+      "end": 1120.21,
+      "text": "articles, there's no blog posts, there's no YouTube videos. You know, I'm already fighting an uphill battle. So social proof is a big one that a lot of people tend to forget. It doesn't necessarily mean you have to go pay a PR agency, you know, $25,000 a month to get you articles, but there are bloggers that exist that you can go to and send them product and they'll write reviews. There are YouTubers you can do the same thing with. There's TikTokers you can do the same thing with. And you basically just need content to show up and sort of validate somebody's belief that"
+    },
+    {
+      "start": 1120.21,
+      "end": 1149.69,
+      "text": "this is a real brand, right? Nobody wants that feeling of, oh, am I about to get scammed? Because that's what the feeling they would have if nothing exists there. Social proof. So in essence, looking online for other folks who have desired this product or used, not even necessarily the same product, but something related. Exactly. Exactly. That's interesting. So you say you don't have to pay a big PR agency to do that. Is it simply approaching an influencer or approaching a journalist or a blogger and saying, would"
+    },
+    {
+      "start": 1149.69,
+      "end": 1179.19,
+      "text": "you write about this? Exactly. Yeah. And what's your approach to getting that to happen? Yeah. I mean, you know, if I was, so back to the cooling cream, I would basically Google best cooling creams. I would go find every, you know, I'd go through the first five pages. Anybody who's written about that, I would email them and I would say, hey, I saw you wrote about this. And I would link the article. So, um, you know, I just launched this product and we're trying to break into the market. Uh, I would love to send you product and see if you like it enough for a review. Um, and that's about it. It's that simple."
+    },
+    {
+      "start": 1179.39,
+      "end": 1206.61,
+      "text": "Old school. Just it's the, uh, it's the modern day knocking on someone's door, sending them a letter and saying, Hey, I've got this product. Do you like it? Yeah. Good learnings here from Nick. I want to get tactical if we can, and kind of move into a different mode here. Do you have a prescription for how much money a business owner should spend on marketing? It's something we get asked a lot. How much of my budget, regardless of where I am, should I be spending on my ads? Yeah. Good question."
+    },
+    {
+      "start": 1206.83,
+      "end": 1231.27,
+      "text": "So, um, you know, my personal rule of thumb is a thousand dollars a day. That's, that's the budget you should have. Doesn't mean you're going to spend it all. Uh, might mean you also might spend more, uh, which is a good problem to have. But, um, a thousand dollars a day is enough to properly test. You can get away with 500. It really depends on what the product is you're selling, how much education is required and how much does that product cost? Right?"
+    },
+    {
+      "start": 1231.53,
+      "end": 1259.59,
+      "text": "Because if you're selling, let's say you're selling a bookshelf, that's $300 to, to understand yeah, to understand how, how that's going to work. Uh, or, or let's just zoom out and say, uh, let's assume your customer acquisition cost is $150, right? For, for an ad set in ad platforms to prove significance that it works, statistical significance, uh, you might have to sell 50 bookshelves in a week for the platform to say, this is"
+    },
+    {
+      "start": 1259.59,
+      "end": 1289.31,
+      "text": "a good ad and we're comfortable running this. And so in that case, you would multiply 150 times 50. And I think that's 7,500 maybe. Um, and so that's your budget for one week, right? So, but if you're selling a cooling cream and it costs $10 to acquire a customer, then 500 bucks is all you need, assuming 50 purchases times the $10 acquisition cost. So it, the budget really depends on what the acquisition, projected acquisition cost is. And that correlates directly to how expensive the product is."
+    },
+    {
+      "start": 1289.43,
+      "end": 1318.39,
+      "text": "And is that an argument for if you're starting out or if you want to get into entrepreneurship or sell a product to maybe think about a lower cost item in the early days, or maybe when you just started? No, cause, cause I think, you know, the, the alternative is what I think most people should be doing, which is how do I create something where there's enough, you know, juice there where I can go create contents. Let's take Carraway, for example, Carraway initially, uh, created a ton of content themselves,"
+    },
+    {
+      "start": 1318.81,
+      "end": 1344.35,
+      "text": "uh, but also with a bunch of different content creators or take Jolie, for example, Jolie has created 10,000 pieces of content this year alone with a network of content creators that they've done the same thing. They reach out and say, Hey, we'd love to send you a showerhead, you know, let us know your address. And that's pretty much it. Um, and so they relied a lot on their community or, you know, forget the word community. They relied on a bunch of people who are open to take the product and just create content for them."
+    },
+    {
+      "start": 1344.93,
+      "end": 1372.51,
+      "text": "Um, in turn, they got a ton of reach and, you know, that helped sort of pave that asphalt road for them to steamroll, steamroll over with ads. Um, so I don't think you necessarily need to, you know, think about that ad budget as you're building a product. You definitely want to understand a rough comp of what is customer acquisition costs going to look like. But, um, you know, if you have, if you have a brand where you can build a bunch of content"
+    },
+    {
+      "start": 1372.51,
+      "end": 1402.31,
+      "text": "around, then of course your acquisition costs is going to be much lower than, uh, you know, if you didn't have that. Nick, you and your team have made a lot of Shopify sites, right? And you have a lot of experience, a lot of insight into what works, what doesn't. What do you think makes a good Shopify store? Uh, the real answer is, will my mom look at it and have questions or complaints? Uh, and if she doesn't, then it's generally a store that converts over 5%, which is hilarious."
+    },
+    {
+      "start": 1402.77,
+      "end": 1430.07,
+      "text": "Uh, if she does, it doesn't convert that well. Uh, but really it comes down to, you know, four or five main questions that you're consistently answering. Uh, what is the product? Why does it exist? Who's the product for? Why is it better than the competitive set? And, you know, when would I get it if I order it today? Those are basically the five questions you want to answer over and over and over again, whether it's a landing page or a website that you're driving people to. The other thing is you just want to make it easy for somebody to shop."
+    },
+    {
+      "start": 1430.07,
+      "end": 1457.79,
+      "text": "So, you know, I always think of an example of, you know, if you walk into the Kuyana store on in Soho, right, you can walk in and the store associate might look at you and think, okay, based on what this person's wearing, the purse they have, the shoes they have on, the watch they're wearing, I know exactly the route to take this person through the store. And that's sort of what you want to build online is that experience where you can understand the type of person you're going after and then build, you know, build a pathway for"
+    },
+    {
+      "start": 1457.79,
+      "end": 1484.27,
+      "text": "them to come into. Obviously online, you can't see what somebody looks like behind the screen. That might be illegal, but you can build different characteristics or you can build journeys that help, you know, for example, starter kits, bundles, first time offers, things like that. I love that you keep bringing up this example of the grandma or the mom. It's the same exact principles that I teach when I'm teaching students how to write"
+    },
+    {
+      "start": 1484.27,
+      "end": 1512.87,
+      "text": "journalism in the early days, right? You think about someone and especially your mother and do they understand what the hell you're talking about, right? If they don't, the odds are that the person who's visiting your store with distracted attention, by the way, mom usually has pretty good attention. It's like, oh, check this out, mom. It's like, okay, I'll look at it for you. But distracted eyeballs and this polluted and crowded information landscape we live in, it's a tall order. So it's a great piece of advice,"
+    },
+    {
+      "start": 1512.87,
+      "end": 1542.05,
+      "text": "but I think it's easier said than done. Sometimes distilling something is difficult, right? Have you unlocked the key to that? How to write something that is easily understandable? Personally, I've found that the best way to do it is, let's say you're writing product descriptions or headlines, right? You want to almost overwrite in just a blank Word doc. Write a bunch of stuff"
+    },
+    {
+      "start": 1542.05,
+      "end": 1571.99,
+      "text": "and then start cutting it down and challenge yourself to get it down to however small it needs to be. But start with something that's two pages long and then gets distilled down to one sentence or two sentences. I think a lot of times when you start, even writing ad copy, when you write ad copy that is one sentence long and your goal is to just write one sentence, it's easy to miss the other 97 things that make your product special. But if you start with a two-page document and work backwards,"
+    },
+    {
+      "start": 1572.35,
+      "end": 1600.79,
+      "text": "you'll start to identify themes and patterns in the product that you can talk about together and basically create something that is much more cohesive. High-level ideas and thinking, I think, from you. And it takes a lot of skill. It does. It does. I mean, writing is a skill. We have a new tool that's been helping folks with writing, artificial intelligence. Are you leaning into that? And what are some of your best uses for artificial intelligence today?"
+    },
+    {
+      "start": 1601.09,
+      "end": 1629.51,
+      "text": "Yeah, great question. So definitely a fan of it. When it comes to, let's say, even creating content, we might say, we're a deodorant brand like X. So OpenAI or Shopify intelligence doesn't know the new brands that have just launched today or last week or last year. You're prompting it. We're like this brand. Exactly. That way it has some sort of a baseline of where to go from or what to look at."
+    },
+    {
+      "start": 1630.65,
+      "end": 1655.05,
+      "text": "And let's say if I'm a cookware brand. I'm a cookware brand, just like Caraway. Give me 25 ideas for TikToks that would do well based, you know, talking to this audience. And it'll give you 25 ideas that you can use. Same thing with PDP copy or product description copy using the Shopify tool. You know, I'm a brand similar to this. The emotion I want to evoke is this,"
+    },
+    {
+      "start": 1655.21,
+      "end": 1684.01,
+      "text": "surprise, excitement, anger, frustration, whatever it is. Give me 25 examples. And then, you know, you might distill down. The cool thing about these tools is you can say, I like numbers 3, 17, and 23. Write me 10 more just like those three. So that's where I think AI gets a good reputation in this space. And then following your own advice, you test those ideas on organic. Exactly. And then whichever one is working for you, you pour the money into pain. Exactly. Pretty good idea. I mean, that's a good strategy."
+    },
+    {
+      "start": 1684.23,
+      "end": 1710.51,
+      "text": "It sounds kind of simple though, but it's, you're making it sound really simple. I think in reality, you would agree it's, it's more difficult than that. For sure. Cause, cause what you're getting is basically headline level stuff. You still have to do all the work behind it. But, you know, being able to test different variations of positioning something and getting those ideas from AI is, is, you know, that'll save you three hours of work."
+    },
+    {
+      "start": 1710.51,
+      "end": 1737.33,
+      "text": "You have an entire agency now that's dedicated to designing landing pages, right? And I was surprised to learn about that because we have so much, everything we've been talking about up until now is all about cross traffic, right? Seeing something on TikTok, seeing something on YouTube, maybe seeing something in Google news and coming into a site that way. People aren't just typing in necessarily your site's URL into a browser and going, but you still firmly believe"
+    },
+    {
+      "start": 1737.33,
+      "end": 1762.19,
+      "text": "that landing pages clearly are important. Why are these so important for businesses? The majority of paid traffic still comes from, um, mainly meta and those tend to be direct link clicks. If you're coming from organic content that, you know, overperforms or goes viral, those generally lead to branded search ads. Uh, and so you're still clicking a link over there as well."
+    },
+    {
+      "start": 1762.19,
+      "end": 1788.81,
+      "text": "And so, um, with landing pages, you know, the problem is, is if you go to that site, you go to that cooling cream website, right? You get to a cosmetics brand on the homepage, then you go to the collections page and then you click a product and it just talks about a cooling cream. That doesn't relate back to the ad that you just saw, which talked about itchy feet with landing pages. The second you click the ad, you can go to a landing page that has that same creative"
+    },
+    {
+      "start": 1788.81,
+      "end": 1814.71,
+      "text": "or a shot from that video up at the hero. It still talks about the consistency of itchy feet. And then everything on the page sort of ladders back up to that North star point of solving for itchy feet. Um, and so the other thing is those five questions I mentioned earlier, you just constantly answer them there. And so, you know, websites are sort of built to speak one way landing pages can be built to speak 45 different ways for 45 different, you know,"
+    },
+    {
+      "start": 1814.71,
+      "end": 1842.59,
+      "text": "needs or variations or campaigns. Could you remind our listeners what those five questions were again? Yeah. So the questions are, you know, what are you selling? Why are you selling it? How does it make my life better? Uh, how does it compare to the competitive set of products that exist? And how soon do I get it? If I order now, I do love the example of the cooling cream, but I feel like you're trying to tell me something about my feet or my face. I'm starting to H over here to see to know what's going on, but it's, it's a great example because it's an example of a product"
+    },
+    {
+      "start": 1842.59,
+      "end": 1872.21,
+      "text": "that maybe you need, but you might need it for a different reason than somebody else. Exactly. And that's the whole point is, you know, with the, we called this agency hooks, uh, for the reason that we want to help people test hooks and angles very easily. And, um, the TAM for your product might be very low when you just look at it at face value. But then when you find all these other hooks that bring people in, you might have a huge TAM. Nick, you're from New York, grew up in San Diego, but from New York and you're back here."
+    },
+    {
+      "start": 1872.81,
+      "end": 1902.15,
+      "text": "What is it about New York and the entrepreneurial community that you think is unlike any other? Oh man, so much. Like, uh, New York beats every other city in the country for entrepreneurship, in my opinion, uh, for a couple of reasons. One is just so small. So, uh, the serendipity that happens in New York city is super high. You know, you could walk, like if I walked out in Soho, there's a good chance I'll just run into somebody I know, or maybe haven't caught up with in a long time. Um, the other thing is, you know,"
+    },
+    {
+      "start": 1902.23,
+      "end": 1928.75,
+      "text": "everything's 15 minutes away. So if I need to go from here back to my office and then come to dinner, I can do that within such a short amount of time. It makes it easy to go and meet people. And then the third is, you know, although New Yorkers get a bad rap for, uh, language or, or, uh, personality, I think it's actually quite the opposite. I think New York has some, you know, everybody in New York is here to work and is here to win. Uh, no one's, if you're, if you're in the"
+    },
+    {
+      "start": 1928.75,
+      "end": 1957.61,
+      "text": "city and you're not here to win, you just, you don't survive here. And so, uh, there's this collective understanding that everybody's working on something and working hard. And so there's no ego, you know, as, at least from what I've seen, there's no ego in New York. You can talk to a billionaire, you can talk to a janitor, uh, you know, you have the same level of excitement and energy and hustle behind it. They both run the subway at the same time. Exactly. And, um, you know, New York's ecosystem is also just so like tight knit, especially this entrepreneurship ecosystem."
+    },
+    {
+      "start": 1957.93,
+      "end": 1986.39,
+      "text": "Uh, whether you're a tech founder, a CPG founder, an e-commerce founder, um, you know, there's tons of group chats, there's tons of communities here. Uh, there's tons of events that are happening sometimes two to three a night. And, uh, it's very easy to get answers, uh, and not feel like you're doing this alone. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

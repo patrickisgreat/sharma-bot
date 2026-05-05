@@ -1,0 +1,489 @@
+{
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 27.38,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned, the wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.38,
+      "end": 55.2,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. All year long, everyone has been talking about measurement and incrementality, specifically making sure that your customer acquisition channels are actually driving incremental customers. This year, everyone was looking for a new channel that has scale and drives actual impact. And at Sharma Brands, we test everything for clients. One that actually works and I'm excited to partner with for Limited Supply is AppLovin."
+    },
+    {
+      "start": 55.2,
+      "end": 82.8,
+      "text": "Starting October 1st, AppLovin will be onboarding new advertisers who will be able to reach over 1 billion daily active users globally with over 150 million of those in the US alone. Think about everybody who plays Wordscapes or Candy Crush, for example. AppLovin integrates your ads into their game experience where it feels natural. To stay in the loop about product features, creative best practices, and how other advertisers are using the platform, go to nik.co slash AppLovin."
+    },
+    {
+      "start": 82.96,
+      "end": 107.19,
+      "text": "That's N-I-K dot C-O slash A-P-P-L-O-V-I-N. Welcome back to another episode of Limited Supply. Okay, today is actually a really cool episode. I sat down with this guy named Jared. And let me tell you about this guy named Jared. Jared runs all things marketing for Resident Home. Resident was acquired for a billion dollars by Ashley Furniture."
+    },
+    {
+      "start": 107.71,
+      "end": 125.51,
+      "text": "And, you know, is one of the only slash most successful mattress direct-to-consumer companies. They were always known as, you know, the most efficient marketers, the most forward-thinking marketers, you know, always on the cutting edge of what's new. And so I talked to Jared. He's been running everything there for six years."
+    },
+    {
+      "start": 125.65,
+      "end": 155.37,
+      "text": "And then recently, you know, when they got acquired by Ashley, he basically built out an agency to service all of Ashley's media needs along with, you know, trying to figure out how to market a catalog of hundreds of thousands of furniture pieces. So today's episode goes pretty deep with Jared. We talked all things, you know, agency, like what are the roles that he built for the Ashley internal agency? How does he keep the team motivated? What is he doing for Black Friday? How does he think about catalog ads? What does he think about app loving?"
+    },
+    {
+      "start": 156.67,
+      "end": 185.45,
+      "text": "And everything in between. So take a listen. Let me know what you think. If you've got any questions, you can reach out to Jared directly on LinkedIn or you could just email him. He puts his email there at the end. And if you've got any questions for me, you can always email me or DM me. But enjoy the episode. It's a very fun one. I enjoyed doing it. I felt like a nerdy kid in the growth candy store. And I'll see you next time. All right, Jared, I'm stoked to have you here."
+    },
+    {
+      "start": 186.19,
+      "end": 215.29,
+      "text": "So people probably saw from the title, but you run all things marketing over at Resident, which is now under the Ashley home umbrella, which is very exciting because as a kid, those used to be my favorite buildings. I lived in San Diego, so I would see this massive pyramid looking building. And it was always this mysterious Ashley home building with a ton of awesome furniture inside. But excited to have you here on the podcast. Excited to dive into all things direct to consumer, new channels, Q4."
+    },
+    {
+      "start": 216.33,
+      "end": 243.99,
+      "text": "Before we get started, do you mind giving us just a quick brief background on yourself? Almost frame it as if it was your mother who's bragging at a family's party and telling everybody why you're so great. Sounds good. Well, first of all, thank you for having me. I appreciate being here. I'm looking forward to it as well. So my background, I've been doing this for a while. I've been in direct marketing for decades at this point. I know that sounds like a long time and it certainly is."
+    },
+    {
+      "start": 244.71,
+      "end": 272.95,
+      "text": "I started in a traditional sort of direct marketing agency where we were basically aggregating data through free products or sweepstakes, things like that. And we would turn around and market to that data back in the day when there were things like long distance was separated from your local exchange carrier. We would get paid bounties for delivering each time to those customers, delivering credit card applications. Ringtones."
+    },
+    {
+      "start": 273.21,
+      "end": 297.95,
+      "text": "Remember those things when you actually had to pay for wallpaper and ringtones? I know I'm dating myself a little bit, but there was a time when that stuff existed. So I did that for a good 10, 11 years. That was really where I cut my teeth in direct marketing. And it was, you know, the way I look at that is marketing products that people probably weren't seeking out based on relationships. I hardly had with them, which is not the easiest thing to do because someone signs up for a sweepstakes."
+    },
+    {
+      "start": 297.95,
+      "end": 327.19,
+      "text": "That doesn't exactly mean you have a long lasting relationship with them like you would with a brand or something like that. So after about 10 or 11 years there, I went more on the brand side of marketing to a couple of brands in the skincare space, the hair care space, the pet space, some entrepreneurial stints in between. I tried to invent a few products, a dog leash, a baby bottle. What was the other one? Another one. I forget. How is the baby bottle different?"
+    },
+    {
+      "start": 328.53,
+      "end": 358.43,
+      "text": "So it would work when well, a cup, not necessarily a bottle, but a cup. So when you turned it upside down, a kid, a toddler could still drink out of it. It turns out I never brought it to market. It turns out someone did bring one similar to market and did a really good job. So, wow, it was the right idea. Yeah. Wrong time, perhaps. And then I started, these were also on the side, a coconut chip company with a friend of mine, a vegan organic dehydrated coconut chip company. That was very interesting. Did it for about a year."
+    },
+    {
+      "start": 359.61,
+      "end": 380.63,
+      "text": "Then went into ad tech for two years, which was definitely a different change. Nothing I had ever done before, way out of my comfort zone, but a great learning experience. I think really evolved how I think about marketing, what I knew about marketing. But then I wanted to get back in the brand side. And that was six years ago when I went to resident. Been there coming up on six years. Amazing."
+    },
+    {
+      "start": 381.19,
+      "end": 408.51,
+      "text": "I also spent, I did two years in ad tech and I feel like it gave me a set of knowledge that is not otherwise commonly known. Like no one in this world knows about DMPs, DSPs, SSPs. Yeah. But yeah, that's awesome. So you've been at resident now six years. So you got, you were there pre acquisition. I was. What's life like pre acquisition versus post acquisition? Um, for me, it's very different."
+    },
+    {
+      "start": 408.97,
+      "end": 437.31,
+      "text": "Um, so I'll start with the company. So this really was, um, you know, I'd like to say a textbook acquisition with respect to synergies between the two companies where, uh, you know, I'd like to think that we're pretty good at marketing and that is some of the functions that we've taken over for Ashley. And they're the best in the world at manufacturing and production and shipping big and bulky items. And that's what they're doing for us. So it is really, um, you know, it really works."
+    },
+    {
+      "start": 437.43,
+      "end": 465.89,
+      "text": "It's working out great because we're each be, we're each able to focus on our, our heirs expertise or company level for me. Uh, my life has definitely changed. So, uh, obviously I was a hundred percent of my time dedicated to resident priority acquisition, uh, post acquisition. Um, I spent a good amount of my time. So I split my duties now between resident and what I do for Ashley on the resident side. It's a lot of the same stuff. Um, uh, in charge of acquisition, CRM, creative optimizations and operations."
+    },
+    {
+      "start": 465.97,
+      "end": 495.51,
+      "text": "And then on the Ashley side, uh, I had to build an internal team to take over the spit, their marketing spend, what they were used that they were spending via agencies. Uh, so that was, um, definitely a different change. And we had to build it. We're very residents, very lean company. So it's not like we had resources that we could just write all this work on. So I had to build the team as we were doing it, which was pretty challenging to be honest with you. Is, uh, you know, like I've worked with massive companies in the past and, and their agencies, they tend to use, they're like the PhDs of the world."
+    },
+    {
+      "start": 495.91,
+      "end": 514.77,
+      "text": "And, you know, they, they lose their mind if you try to talk about like conversion based marketing or optimizing toward a click. Yeah. Was, is that kind of like what Ashley was doing prior? Like, were they, were they almost like not doing the performance marketing where you guys were like, wait a second, all we do is performance marketing. Yes. Yes and no."
+    },
+    {
+      "start": 515.03,
+      "end": 544.11,
+      "text": "Um, so what we want to do is wanted to come in, understand what was going on, be able to take over execution without changing much. You know, maybe making some smarter changes with respect to operations. There was a lot of inefficiency with how work was being done, but then kind of get our foot. It's a very complex, but way more complex than resident. Mm-hmm . So we wanted to get our footing. We wanted to really understand the business, you know, a little bit and then start making changes to the media mix and optimize and optimizations."
+    },
+    {
+      "start": 544.63,
+      "end": 573.97,
+      "text": "Um, so kind of what you're alluding to. So it took us, um, you know, it took us two months or so to really get our footing. And then we started to make really big changes to the media mix based on what we knew what was performance to your point. You know, we have a good amount of experience in what we know what works. Uh, so we've made these big swings and these big changes and it really, really paid off. Um, the changes to the business were almost immediate and we've carried that forward, uh, you know, through today. And of course we've improved as we've really, you know, we were over a year into it."
+    },
+    {
+      "start": 574.07,
+      "end": 601.13,
+      "text": "So we've certainly learned a lot more, but, uh, the first couple months were crazy. Yeah. Um, I'm curious just as a side note, like, you know, anytime I've gone into the ad account of a really well-known brand. Yeah. And even if it's run poorly, their CPAs are somehow massively lower than whatever the competitive new brand is, the Challenger brand. Were you shocked by their CPAs when you went in because of how strong the Ashley brand is? Um, yes and no."
+    },
+    {
+      "start": 601.39,
+      "end": 625.09,
+      "text": "Um, I think the overall business, um, was surprising with respect to what I would call the overall efficiency, meaning all revenue and all spend. Now within that, you know, you get the benefit of brand. It, it, that's where it shows up. You know, you get a lot of, a lot of organic and a lot of direct traffic."
+    },
+    {
+      "start": 625.45,
+      "end": 651.45,
+      "text": "Um, so, you know, within the platforms themselves, there was a lot of changes that need to be made. Um, you know, I was surprised at the overall features of the business with respect to how resident runs its business. Now, um, it had to be more efficient because there are retail stores, um, and there's real overhead associated with that, which resident, we don't own any grown stores, you know, in retail. Uh, so there, there were really, really different factors that played into that. Yeah. It makes sense."
+    },
+    {
+      "start": 651.45,
+      "end": 672.51,
+      "text": "Um, one thing you mentioned was sort of like building this like internal agency to take over operations from prior agency partners. Um, you know, that's something I've seen that a lot of brands are doing, especially this year post tariffs is they've, they've thought, you know, how can we bring this in house or stop paying this as a service out of house? Keep the learnings in house, keep all the creative, everything."
+    },
+    {
+      "start": 672.99,
+      "end": 702.21,
+      "text": "How, how did you think about like, um, building that in terms of the roles in terms of, um, and maybe, maybe, you know, if you can't share anything that might be proprietary, like just think about the average founder who's building a business and do it, you know, that's doing maybe anywhere from 25 to a hundred million in revenue. Um, you know, a lot of times they might be paying an agency and spending, you know, one to $3 million a month in ad spend. So maybe they're paying their agency anywhere from, you know, 30 to 200 K in terms of all their agencies."
+    },
+    {
+      "start": 702.55,
+      "end": 728.99,
+      "text": "It definitely gives you a good amount of firepower to like build an internal team. Um, and so I'm curious, like how you think about that from a roles or a processes or, uh, uh, you know, all, all of that. And also, you know, especially coming from your, um, the, from the resident side, like where everything was super lean and still had a family of brands, you know, pre acquisition, like still running efficiently. What kind of learnings did you take from there to then put into this team here?"
+    },
+    {
+      "start": 729.55,
+      "end": 745.65,
+      "text": "Um, I think some of the immediate, uh, takeaways or rather, um, ideas that we ported over from resident to what we're built, what I was building for Ashley was really making sure that you have subject matter experts in house in your core platforms."
+    },
+    {
+      "start": 745.65,
+      "end": 774.97,
+      "text": "Um, so, um, you know, I, I think there were some instances where, um, you know, the, the skill level wasn't necessary, uh, uh, of the team that was running, you know, running the spend. Wasn't, wasn't up to, isn't to sound harsh, but I'd say our standards at resident. So we really wanted to, to uplevel that. Um, now having said that there are also elements of that business that we really weren't that familiar with. So we did lean on the existing team."
+    },
+    {
+      "start": 775.25,
+      "end": 797.53,
+      "text": "Um, not, not necessarily the agency that was there, that was, that was spending the money, but, uh, the internal people and the internal marketing team had asked you to really help understand, uh, understand that business. Um, so, you know, it was, it was a mix of various things. Now on top of that, we're looked at as an internal agency. So we kind of have to answer to, you know, uh, a client, that client being Ashley."
+    },
+    {
+      "start": 797.73,
+      "end": 827.19,
+      "text": "So that does take a different skillset as well, um, where you need to sort of manage relationships and expectations, even though it's the same company. It's very different than, than me saying I'm managing marketing for resident. Sure. Right. People have to answer to, but that's different than saying I'm managing. I'm managing marketing for Ashley and have to answer to another marketing team. So it was, that, that took a little, um, there were people that we needed that skillset for that we did not have, um, and never had an internal resident."
+    },
+    {
+      "start": 827.51,
+      "end": 851.87,
+      "text": "Mm-hmm. And is it, uh, pretty easy to take learnings across the brands? Um, no. No. I wish, I wish it was. Yeah, I know. I mean, you know, like large, you know, what works and what doesn't work short, but. This is a way more complex business. Tens of thousands of SKUs. Yeah."
+    },
+    {
+      "start": 851.97,
+      "end": 881.37,
+      "text": "A true omni, you know, omni retail, um, uh, you know, omni channel retailer, um, with wholly owned stores. Very, very different than resident, which is the vast majority of what we do is online. Even though I mentioned we're in retail stores. Um, but there is, it's hard to connect those things at resident. With Ashley, it's, it's not easy, but you do have a path to connecting online spend to real retail results. And we could never do that at resident. Right. Right."
+    },
+    {
+      "start": 881.67,
+      "end": 911.33,
+      "text": "And is, uh, like for something like that, are you guys building your own measurement in house for that? We are. Um, so resident that we are a buy versus build mentality. Um, so at resident, we have built our own tools for, uh, pretty much everything under the sun. We've, we've built our own, um, ID graph. Uh, we've built our own, um, MMM models, our own multi-touch attribution models. Um, and we are in the process of doing that for, uh, for Ashley as well."
+    },
+    {
+      "start": 911.41,
+      "end": 940.15,
+      "text": "But it's, it's, it's, it's long, it's a longer journey and a harder journey because the real key is if we can connect that online spend to what is happening in stores via, uh, uh, an internal MTA and understand that connection, uh, you know, the online spend to in that path to conversion. And if that path to conversion is in retail, that's a step that is even harder to connect than if it's just online. How, how, how is like the, um, or how, how has your approach changed?"
+    },
+    {
+      "start": 940.33,
+      "end": 969.05,
+      "text": "Because, um, you know, over here, you're basically marketing a massive catalog compared to fewer products and maybe going deeper on the individual product story or benefits education there. Like, how does that change? Obviously catalog ads, but I'm curious how you think about that more holistically, like from a marketing mix standpoint, from a content standpoint, from, you know, does that mean your backgrounds in direct mail? Do you also hammer catalogs there online and offline? Um, so direct mail has always been, you know, it's been a piece of what I've done in the past."
+    },
+    {
+      "start": 969.25,
+      "end": 994.29,
+      "text": "Um, uh, but that, that is direct mail is it. So it's a, it's a piece of the mix, but in terms of how I think about it and how it's different, um, you know, one of the things that I'd say, how do I compare and contrast it with resident? Even though it's very, very difficult to be perfect. We try, but you'll never be perfect, but you have a lot better chance of being close to perfect. If you can control all the data."
+    },
+    {
+      "start": 994.29,
+      "end": 1019.45,
+      "text": "And if you're primarily online on the Ashley side, I had to take a step back and say, and you know, I had mentioned, we made some serious changes to the media mix. And that is almost uncomfortable to do because now granted it's based on endemic knowledge of what we know has worked, but it's, it's a different business. So with respect to measurement for Ashley, we did say, we're going to make these big swings."
+    },
+    {
+      "start": 1019.61,
+      "end": 1049.03,
+      "text": "Now we're obviously, we're going to fine tune what we're doing inside of the platforms that already exist and apply our know-how, but just cutting out entire channels, uh, you know, doubling down on others and seeing the impact on the business. You know, sometimes don't overcomplicate it. Like if you make these changes and you're seeing the impact on the business, go with it. Like you don't have to worry about being perfect. And it's really, really different between how I think about that for resident and how I think about that for Ashley. Yeah. How do you even handle like, uh, feed management?"
+    },
+    {
+      "start": 1049.71,
+      "end": 1077.85,
+      "text": "Uh, so we, we have a feed provider, um, and we work with, um, the Ashley, uh, the, the internal Ashley team. Uh, but there is, there's so many complications. They have, um, different pricing zones. Uh, at one point, I think there were 12. Uh, I think there's four now or we're getting towards four. Um, it's a much different price for the same product, different price for the same product and different geographic regions, um, which, you know, it poses diagnostic issues in terms of solving, trying to"
+    },
+    {
+      "start": 1077.85,
+      "end": 1105.27,
+      "text": "diagnose problems and solve problems because Google may think something is out of stock when it's really not based on the region that it's showing or the region that the crawler is coming from. Um, there is, um, it's, you know, the, the catalog is always, it's, it, you know, it's, it's constantly changing as well. There's a lot of, um, you know, some third party products in there as well as, uh, wholly owned products. And then there's exclusive products. So there are, it is, um, it's, it's a beast and it's not something we really had a lot of experience with at resident because it's much smaller catalog."
+    },
+    {
+      "start": 1105.81,
+      "end": 1131.91,
+      "text": "Um, but you know, uh, so we, we work hand in hand with their team on that. One thing that just came to mind is like, there's got to be, you know, hundreds of thousands of automated email flows that are being pushed out to these people because you're again, focusing on such a wide catalog. I imagine a lot of it is dynamically populated based on browser behavior or user behavior actions."
+    },
+    {
+      "start": 1132.25,
+      "end": 1156.39,
+      "text": "Um, can you speak a little bit to like how that gets done or how you guys think about life cycle marketing with so many SKUs? Um, so that's actually not an area that we have taken over for Ashley. We're really been focusing on, uh, acquisition and media spend and, uh, creative. Um, now I did, we did get involved a little bit early on just to, you know, advise a little, see, you know, see, see how things were being done."
+    },
+    {
+      "start": 1156.91,
+      "end": 1185.93,
+      "text": "Um, and it is, like you said, it is very, um, you know, it's very different because at Ashley there really is the opportunity, a bigger opportunity to drive lifetime value with resident. Of course, we'd want to sell people a mattress and then try and follow up and drive that LTV up with sheets, a bed frame for, you know, some bedroom furniture, some other stuff. But, you know, our business at resident is spend money, get people to convert to buying a mattress and everything on top of that is gravy."
+    },
+    {
+      "start": 1186.11,
+      "end": 1215.47,
+      "text": "Now, of course, in that session, you upsells everything you can. And of course there are, you know, repeat purchase flows at resident, but at Ashley, it's much more, uh, important to the business because there are so many more rooms in the house than just the bedroom. And like you said, there are hundreds of thousands of SKUs where, uh, you know, there is real relationship between those products. Right. You know me, I only like to share things that are tactical, practical, and actually work. So that's why I'm excited to talk about AppLovin today."
+    },
+    {
+      "start": 1215.73,
+      "end": 1242.65,
+      "text": "You've likely heard of AppLovin, but let me tell you why it's an exciting ads platform too. Starting October 1st, AppLovin will be onboarding new advertisers and soft launching their self-service platform. That means that by October 1st, you'll be able to reach over a billion daily active users daily. This season on limited supply, I interviewed Miranda who scaled in a thousand dollar a day ad spend to $70,000 a day in AppLovin ad spend. The channel actually has real scale."
+    },
+    {
+      "start": 1242.95,
+      "end": 1267.18,
+      "text": "To stay in the loop about creative best practices, new product features, and see how other advertisers are leveraging the platform to prepare for October 1st, go to nick.co slash AppLovin. That's N-I-K dot C-O slash A-P-P-L-O-V-I-N. How have you guys started, or if you don't, or I don't know if you do, do you use AI much?"
+    },
+    {
+      "start": 1267.34,
+      "end": 1293.96,
+      "text": "If so, I'm curious how you guys leverage AI, whether it's just simple workflows or like using more agentic AI. So we are using AI at resident on the creative side a lot. We have a very robust naming protocol for our ads because with selling mattresses or furniture, you can't really do A-B tests, A-B-C tests."
+    },
+    {
+      "start": 1294.98,
+      "end": 1324.18,
+      "text": "You can't spend enough money because there's not enough signal on those cells. So what we want to do is understand the elements of the ads and what is working rolled up to those elements across everything. So if we parse out incoming data by room color, beats per minute of the music, actually the angle of the mattress is something we test. Wow. So you parse that data out and then combine it and see what the trends are across everything."
+    },
+    {
+      "start": 1324.18,
+      "end": 1352.24,
+      "text": "So understand at a broad level what's working. And that naming convention is crazy. So we're using AI to modify that and work on naming that as well as creative generation as well. And, you know, there are some things I've used AI for recently. One of the major tent poles for, I think it was Memorial Day weekend. Results were phenomenal. And I wanted to make sure that I knew as much of a reason for why."
+    },
+    {
+      "start": 1352.36,
+      "end": 1381.96,
+      "text": "So, of course, there is different platform changes year over year. There's different results year over year. There's different sales year over year. But I wanted to broaden that and see, is there anything that happened last year for Memorial Day weekend that was different from this year? And it turned out last year was terrible weather. So, you know, that was a reason why people were out and shopping this Memorial Day weekend, which I would not have thought of on my own. I mean, it was a simple example. But it's sort of those off the cuff when it's not real regimented, like the creative stuff I mentioned."
+    },
+    {
+      "start": 1382.1,
+      "end": 1410.66,
+      "text": "It's real just off the cuff and trying to ask questions and trying to explain some of the things that I may not know why things happen. Yeah, totally. Do you use like in that workflow of understanding the creative that's working or not? Do you also use AI's computer vision to like to watch those videos and come up with those naming conventions? So we're starting to. So we're starting to. We would. So we think there's value in computer vision to understanding the elements and you're breaking that out into tags."
+    },
+    {
+      "start": 1410.82,
+      "end": 1437.66,
+      "text": "You know, what is this ad? Is it other people and other pets in it? You know, is it lifestyle? Is it not? Things like that. So that's actually that's what I'd like to get to because we do that manually by naming these ads. We have people on our teams dedicated to naming ads. Um, which in today's day and age certainly sounds like something that could be improved upon. I'm not looking to replace them."
+    },
+    {
+      "start": 1437.78,
+      "end": 1467.7,
+      "text": "I'm looking to make their jobs easier by using tools like that. But yeah, something like that. Totally. Any any, uh, in general, any cool tools you've seen that have caught your eye? Well, you don't have to name them or just talk about like what they do that that's interesting to you. Some of the stuff you mentioned. Um, so it's, you know, it's identifying what's working from a creative standpoint. Now, a lot of the limitations I find there are that, um, those results are pulled from platform unless you are hooking up your source of truth or your MTA and you're feeding that"
+    },
+    {
+      "start": 1467.7,
+      "end": 1496.24,
+      "text": "back to the platform, which in turn, uh, you know, that could cause different sorts of problems. Um, so I think tools like that are useful. And then if you take that a step further, there are tools out there in the creative world that will actually develop briefs for you, you know, based on that stuff, uh, as well as do competitive analyses. So, you know, I think that's a classic use case. Um, you know, we are, we're also experimenting with, um, VO3 to try and simply. You play with Nano Banana?"
+    },
+    {
+      "start": 1496.24,
+      "end": 1523.74,
+      "text": "Well, I haven't gotten there yet, uh, but I'll get there, but to try and re I've asked my team to try and recreate a successful ad using VO3. Um, just now I think it's six to eight seconds that you can only do in the beginning. So really for the hooks, to be honest with you and see if they can recreate a hook that we've spent studio time and money on in terms of developing. And if we can do that with people that are not experts in this, I'm talking about like"
+    },
+    {
+      "start": 1523.74,
+      "end": 1553.4,
+      "text": "my growth team, some of the creative operations and optimizations team. And if they can do that, um, then that to me, it leads me to the thought process of there's a job here where someone focuses on their entire time. And instead of spitting out a handful of hooks, uh, you know, per brand per week or whatever, I mean, you can do this, you know, a hundred of these things, but I need to prove it first. And that's what I'm working on is, is, is proving that we can recreate these with VO3. Yeah. Uh, two things you said that I loved. One is that workflow of like understanding ads that work."
+    },
+    {
+      "start": 1553.74,
+      "end": 1580.66,
+      "text": "Running that through, um, you know, some sort of a model that understands what's working, what's not and why, and then being able to write full on briefs that then get dropped in Slack is an amazing workflow that I love. Yep. Um, and the second one that you just mentioned is now slipping my mind cause I'm talking, um, of, uh, what was it? VO3 or? VO3, yeah. Okay. Yeah. Um, you know, just being able to like create these, these, um, hooks, like you said, I mean,"
+    },
+    {
+      "start": 1580.66,
+      "end": 1605.12,
+      "text": "especially in a world of, of, um, catalog ads, you know, there's easily a world where you can have a hundred thousand product hooks that are all different and instantly created within minutes, which is crazy. And actually, you know, catalog ads, you, you hit on this earlier with Ashley catalog ads are a big, a much bigger part of that business than, than for resident. And so our internal, we have an internal creative team that is, um, you know, uh, servicing Ashley as well."
+    },
+    {
+      "start": 1605.5,
+      "end": 1633.6,
+      "text": "And we have made huge strides in, um, coming up with, you know, um, uh, AI generated images or improving images via the tools that are out there as opposed to just photo shoots. Um, and it has made a huge difference in performance, but I mean, the implications of that there's tens of thousands of these products, uh, that go into these feeds. Like if we can make those kinds of strides on all of those, that, that is, uh, has a huge, huge potential impact. Yeah, totally."
+    },
+    {
+      "start": 1634.26,
+      "end": 1663.76,
+      "text": "Um, one thing I've seen that's pretty cool is using, like using one of these LLMs to actually write the prompt that then goes into VO3 has, has made those even stronger, which is cool. But, um, yeah, I'm, I'm shocked. We don't see more like AI ads in our Instagram feeds yet. I remember, uh, I get ads for Jolie all the time, the filter showerhead. Yeah. And, uh, they lean into it really hard. They'll have like the Vincent van Gogh painting with a Jolie in the painting or Mona Lisa showering under a Jolie."
+    },
+    {
+      "start": 1664.14,
+      "end": 1689.32,
+      "text": "Um, I'm shocked more people haven't started using VO3 for their hooks. Uh, even if it's like taking a winning UGC and trying to find a hook that has a higher hook rate, you know? Yeah, sure. Now, I mean, I, I, we talked about a gent for a second there and I, I don't want to, uh, gloss over that. We, we are, you know, someone in my team is actually strung together a bunch of, a bunch of agents, he calls it his creative robot, uh, where he will have a prompt that prompt and kicks off a series of agents."
+    },
+    {
+      "start": 1689.6,
+      "end": 1718.2,
+      "text": "One is I think going out and seeing, uh, what's in the marketplace at this point in time for this type of competitor. Uh, then it is, um, coming up with, uh, the brief itself and then headlines, uh, storyboards and ultimately like a full blown script. And it's a, he walked me through it the other day. It was very impressive. And this is someone that hasn't had this experience in the past that was just, you know, uh, uh, you know, uh, dedication to making something work. And it's really, really, I mean, I'd love to be able to do some of the stuff that he's doing with it."
+    },
+    {
+      "start": 1718.38,
+      "end": 1740.44,
+      "text": "Uh, and I will, uh, but I gotta find some more time in my day. Yeah, totally. Um, okay. Amazing. I want to chat, uh, Black Friday. So you've got, um, these two brands, Ashley with massive catalog and resident, uh, with its own set of brands as well. How do you think about, um, Black Friday for both, or we can start with one and then move to the other?"
+    },
+    {
+      "start": 1741,
+      "end": 1769.52,
+      "text": "Um, well, for resident, um, we, you know, we think about Black Friday, you know, the good thing about resident is it's very, uh, process oriented. Um, and as much money as we spend and as chaotic that, that may sound, we spend a couple hundred millions of dollars a year in, in, you know, immediate spend, which can seem daunting and, and, you know, a lot going on, but we are so regimented in our processes"
+    },
+    {
+      "start": 1769.52,
+      "end": 1796.08,
+      "text": "where it's almost like a rinse and repeat because it's, it's very, it's, it obviously it's way more scale than, than traditional what we call tent poles via president's day, Memorial day and labor day. And those are the holidays that people in America are conditioned to buy furniture and mattresses. So it's almost like a rinse and repeat. It's what's the creative strategy. It's when should you start spending in advance? Cause to know that that's going to pay off on the holiday itself, like you can get, we"
+    },
+    {
+      "start": 1796.08,
+      "end": 1825.74,
+      "text": "know that we're going to be very uncomfortable with our efficiency metrics for the first, you know, leading up to the holiday itself, but that'll all get right-sized as you get through the holiday. And that's, you know, not everybody has, uh, you know, the intestinal fortitude to, to look at those numbers and say, Oh yeah, it's going to get better. It's going to get better. But it always does. And we know that because of the processes we have, um, you know, for Ashley, it's a little different because we are taking our cues from, uh, from their brand team, uh, and their promo team with respect to what's going to be in market. What's the idea? What are the ideas? What's the promotion?"
+    },
+    {
+      "start": 1825.98,
+      "end": 1853.82,
+      "text": "And we're really, you know, uh, we're really executing, um, a good portion of that, but we're taking our cues from them as opposed to, let's say, making our own offers or, or, or making our own, uh, uh, you know, come to the table with our own. And of course we do, but, um, it's, it's those two things need to fit together because you can't have what we're doing on our own. And then what Ashley is doing on their own, those things just won't work in the marketplace together. Totally. What, um, channels are you going to be activating on for black Friday this year?"
+    },
+    {
+      "start": 1854.46,
+      "end": 1883.68,
+      "text": "Um, so for us, um, all the traditional digital channels, um, and then with, on the resident side of the business, um, over these temple holidays, we do activate connected TV, um, we're, we're generally, you know, we're usually not on connected TV until you get to one of these holidays, because the way I look at it is no one is really browsing a mattress site for the sake of it. You know, it's not like I'm looking for a sweatshirt or a t-shirt or something."
+    },
+    {
+      "start": 1883.76,
+      "end": 1913.16,
+      "text": "And I can go look at many sites and browse and maybe I'll, you know, maybe I'm interested, maybe I'm not. If you're on a mattress site, you need a mattress. So if, you know, the week of the, when the temple happens itself, it's usually for the current ones I mentioned, support a holiday from Friday to Monday. If someone has been on my site the prior week and has not purchased, and I can serve them a connected TV ad on a big screen TV in their living room. And they show that, and they see that rather than recognize that brand and say, Hey, I was just on their site. Uh, you know, maybe there is something to this, then they can come to the site and buy it."
+    },
+    {
+      "start": 1914.22,
+      "end": 1942.7,
+      "text": "Now that I, I, I deem that as marketing hygiene. Like it's just, it's the right thing to do, even though that is very, very difficult to measure, especially in the, in the, in the landscape of spending millions of dollars per day over those four days, because how are you going to pick out how to connect the TV spend? You're not right. Just know that it's part of the mix and that, you know, sometimes you just have to do the right thing and it makes sense. Totally. Um, I think app loving is one of your channels as well, right?"
+    },
+    {
+      "start": 1942.7,
+      "end": 1971.1,
+      "text": "That you're, that you're scaling on there. Uh, one of the partners this season, I'd love to know like your experience with app loving specifically. I think you were one of the earlier ones to app loving too. So, you know, they've obviously grown and developed the product a lot. They're about to come out with self-service shortly, but you know, when you were starting, there was no exclusions. I don't even think there was a UI for you to go into. Um, you're sort of working through a client partner. Like I'm sure you were skeptical. Uh, could you just talk a little bit about that?"
+    },
+    {
+      "start": 1971.1,
+      "end": 1996.98,
+      "text": "And like what then got you to, you know, see the other side? I was so skeptical that I almost didn't have a job because of it. Now that's, you know, a little tongue in cheek, but, uh, my CEO, uh, we had two CEOs at the time. One of them is, is no longer with us, but he came to me and he said, Hey, check this out. This is a platform. It's app loving. I heard it's working well. It's, it's, uh, it's, it's ads in mobile games. Like, come on, man, that's not going to work. Like, like, yeah, I've got a chance."
+    },
+    {
+      "start": 1997.28,
+      "end": 2021.2,
+      "text": "I'll bet my job that we can't sell mattresses on ads in mobile games. And lo and behold, we were able to, uh, much to my surprise. Uh, so I, I honestly was not expecting the results that we saw. Um, and you know, it is, we had a, like you said, uh, it was, um, handholding to begin with, uh, but the team was great. Uh, the services we've got were great. Uh, the recommendations we got were great."
+    },
+    {
+      "start": 2021.2,
+      "end": 2049.48,
+      "text": "Um, you know, there was an understanding of while the platform shows us this, what are we seeing in reality based on those internal tools I mentioned, you know, because it does drive clicks and we are very good at measuring platforms that drive clicks to our site and to our sites. So we were able to understand the relative performance of app loving to other, you know, other core platforms that were in our media mix and it kept growing and growing."
+    },
+    {
+      "start": 2049.48,
+      "end": 2077.08,
+      "text": "And it, you know, it's, it's a pretty decent part of our mix, uh, right now. So, uh, yeah, we're thrilled with which else we get from Apple. Are you able to share, uh, what percent or what, what it competes with in terms of spend for other channels? Yeah. So we lumped that into the bucket of paid social. Um, and you know, when we, when we look at what we're doing, um, we're always benchmarking performance in a given, uh, in a given timeframe versus each other. I don't necessarily care what happened period over period."
+    },
+    {
+      "start": 2077.08,
+      "end": 2105.04,
+      "text": "I don't care what, I don't have a goal for a platform. I know some companies operate that way and say, Hey, my goal for meta has to be, you know, 200% ROAS. My goal for, uh, uh, for AdWords has to be 300% ROAS, whatever the case may be. I don't really care what those are. I care how they do relative to each other so that I'm able to spend on the platforms that are working at that given point in time. Uh, so for ad, for app loving, the percentage, um, the relative, the performance relative to other platforms, it started out great."
+    },
+    {
+      "start": 2105.24,
+      "end": 2134.82,
+      "text": "And of course, as you scale, it's going to come down a little as you would expect, but it's still a healthy, more, a healthy part of the mix. And we really look at it as, you know, if you want to think about like an index basis, like meta is what we index all, you know, paid social against. Um, so we, we say if we're spending X percent of our dollars on meta, what percent of that should we spend on other social platforms? And app loving has, uh, has continually risen up the ranks of, uh, that ratio of, of, of meta to app loving has, has narrowed."
+    },
+    {
+      "start": 2134.82,
+      "end": 2162.5,
+      "text": "Now, you know, I mean, it's not as big as, as meta, but we're, we're happy with the results for sure. Totally. Why do you think a candy crush works so well to sell mattresses? You know, that's one. So one thing that I think is part of it is the creative is, you know, 30 seconds, it's not skippable. So, you know, one thing we do with, you know, based on what they had told us and advised us on is we really, one of the things we do is focus on the end cards, because if you can"
+    },
+    {
+      "start": 2162.5,
+      "end": 2189.56,
+      "text": "keep someone engaged for 28, 29 seconds, and then have an end card that really presents the offer in a compelling way. Um, I think that's very different than some of the other platforms out there. You're not guaranteed to have someone see your ad on some of these other platforms. So it is, it is different in that respect. And that is an air. I do think that helps. I mean, it's a captive audience too. Yeah. Yeah. And you feel like it was, uh, it was driving not the same audience as you would finding elsewhere, but incremental audiences."
+    },
+    {
+      "start": 2189.76,
+      "end": 2217.76,
+      "text": "I think it was incremental because, you know, we, you know, incrementality, yeah. In a perfect world, everyone's doing incrementality tests at all given point in times, but it can't be done. That's impossible. There are platforms out there that say they can do that and they just can't. So what we do is these tools I've mentioned we built are internal for us. The importance for us in, in, in, in measurement is if you do an analysis and you make adjustments, do you get what you expected in that future cycle?"
+    },
+    {
+      "start": 2218.02,
+      "end": 2243.58,
+      "text": "If you do great, then your tools work. Your analysis was correct. If you don't, then there's something wrong somewhere. So with respect to app love and, and any channel, frankly, we are able to analyze a prior period, take a look at the results and take a look at what a particular platform is doing versus other platforms. And if we, if we want to say, we want to increase spend by two X, three X, our tools would indicate that. And what do we see in the future?"
+    },
+    {
+      "start": 2243.58,
+      "end": 2271.76,
+      "text": "So with it, as opposed to incrementality, if for us, if everything converges to the same row as which it won't, but the closer you get to that, if you can have 80% of your spend within 10% of the average, then that balance is right. So if I increase a platform by a big amount and that falls out of that index, if it falls lower than let's say 15% below the average, then something was wrong somewhere or I increased spend too much."
+    },
+    {
+      "start": 2271.76,
+      "end": 2301.76,
+      "text": "So with app love in, in this particular instance, we kept increasing spend. It kept staying in that range. So, you know, it was, our analysis were predictive of, of, of what we expect in the future. Right. I'm curious, uh, you know, a bunch of advertisers, um, are probably going to jump on October 1st and spend their first 10 or $50,000 on the platform. You mentioned creative is, has been one of the biggest levers for you guys. What, what are some recommendations or insights for those who are, um, you know, about to start spending on the, on this channel?"
+    },
+    {
+      "start": 2302.12,
+      "end": 2329.98,
+      "text": "I'd say focus on the end cards for sure. Um, you know, think about that as the closer, it's almost the opposite of a hook. It's how are you going to close? Um, and then from what we've seen, it's not as simple as, you know, porting all of your, your, your nine by 16 creatives that, that, that work on, on, on meta or, or, or, or TikTok or other, or other platforms. That is easy to do when you can do that, but I would, I would say expand and use more creative because I think it really rewards creative diversity, um, and really picks up"
+    },
+    {
+      "start": 2329.98,
+      "end": 2359.5,
+      "text": "on what's working, uh, you know, quicker maybe than some other platforms. Um, so I'd say diversity of creative focus on the end card, um, you know, don't just assume that what's working on one and a particular social platform will work, uh, on that one. Yeah. Amazing. I'm, uh, I'm actually really pumped to see how many brands take the leap and, uh, start testing it out. So it's going to be exciting. Yeah. Um, last thing I wanted to chat through is more so around like teams. So you've been a part of, uh, the resident team for a while. Um, you obviously run all of that."
+    },
+    {
+      "start": 2359.68,
+      "end": 2388.86,
+      "text": "You've joined the Ashley team and have taken a leadership role there. I'm curious, like how you think about, uh, just more, you know, not necessarily tactical marketing, but like team motivation, keeping people inspired, excited, you know, any, any thoughts there, especially going into Q4 and the holidays, um, when, you know, it's essentially our Superbowl. Yeah. Um, it's, I'd say what's great about resident, um, inclusive of the team that I built to manage"
+    },
+    {
+      "start": 2388.86,
+      "end": 2413.32,
+      "text": "the Ashley, the Ashley spend. Everybody is of the same mindset. Everybody wants to perform. Everybody wants to kill it. We know, I don't remember when I had a holiday off. Like we know we're working every single holiday. Like the ones I mentioned, president's day, Memorial day, Labor day. And of course, black Friday, cyber Monday and July 4th, uh, you know, to a certain extent. So if you don't have that mindset, then you're not going to be successful here."
+    },
+    {
+      "start": 2413.6,
+      "end": 2441.68,
+      "text": "So it is a lot of like-minded people that are very driven and very smart and really, really want to see the impact of their performance and their effort on the business. Um, so I think it starts with culture and mindset like that and attracting the right people. You can't hide at resident. We are really, really lean. You cannot hide here. If you're not doing, you know, if you don't think that way, it'll show up in your work and it shows up. If you're not, you know, if your work product is not up to, uh, up to speed, it's going to show pretty quick."
+    },
+    {
+      "start": 2442.12,
+      "end": 2469.1,
+      "text": "Um, so, you know, and then you, you, you were very, um, there's access to results, to data, to anything anybody wants under the sun. Um, all it takes is some time and effort to figure it out and find it if a dashboard doesn't exist. And every day people are checking results and the impact of their work, especially over those tent poles and over those holidays. And we are, um, you know, when, when I say every day, I mean, like on those holidays, every"
+    },
+    {
+      "start": 2469.1,
+      "end": 2498.66,
+      "text": "hour, I mean, we, we are across the world in terms of, um, time zones where we work. We, I have people on my team from California to Tel Aviv. And the beauty of that is you're almost working 24 seven. Um, so when, you know, people are thinking about a race, you know, people are taking the baton when, uh, when they're, when they're, when their lap is over and someone else has taken it over. So it really is a mindset. Um, people are really, really driven to do well. And resident is amazing. Um, uh, in terms of, you know, we're warning people that do well and the company's been very successful."
+    },
+    {
+      "start": 2498.98,
+      "end": 2527.62,
+      "text": "Um, and I think people are very happy when they, you know, to work here. That's awesome. You know, that, um, the, the Tel Aviv hack is amazing. Like having a team that's overseas that can help cover nights and weekends. Um, I'm surprised more brands don't do that. Or, you know, even if it's not finding like top, top talent in Tel Aviv, you know, maybe you find a small team in India that can help manage like ad spend over the weekend. It's yeah, that is, I think companies do try and do that. Now we, our biggest office is in Tel Aviv."
+    },
+    {
+      "start": 2527.78,
+      "end": 2556.12,
+      "text": "Our, our data and analytics team is in Tel Aviv. Um, our, our product and development, our, our, our, our website product development team is there as well. There's a lot of, uh, you know, I saw him out, uh, you know, driven and intelligent people across the org. Uh, you know, Tel Aviv, it's even more concentrated. Like everyone there I talked to, it's like, Oh wait, I need to up my game here a little bit to deal with these things every day. Um, but like, so that's our, that literally is our largest office in the world. Um, so I go there once or twice a year. Um, and there are people now it's interesting."
+    },
+    {
+      "start": 2556.36,
+      "end": 2584.36,
+      "text": "The, the growth, um, uh, the, the growth, uh, you know, sphere isn't as developed as it is in the U S with respect to performance marketers. Uh, so that, that takes time to find those people, but when you find them, uh, they're, they're phenomenal. You know, what really, uh, sets us apart, I think, uh, is our, is our data and analytics team, uh, from data engineering to data scientists and data analysts that are all based out of, uh, out of Tel Aviv. Yeah."
+    },
+    {
+      "start": 2584.52,
+      "end": 2612.9,
+      "text": "I've heard they have the best Facebook reps too in Tel Aviv. So we, we, so we, we work with, uh, the meta team, uh, in Tel Aviv. We work, excuse me, with the Google team in Tel Aviv, the TikTok team in Tel Aviv. Um, you know, we, that we like to think, um, I'd rather be a, uh, you know, a bigger fish in a smaller pond than a medium sized fish in a really big pond. Yeah. A hundred percent agreed. Yeah. Yeah. Um, okay. Amazing. Well, Jared, thank you for coming on. Uh, this has been fun."
+    },
+    {
+      "start": 2613.02,
+      "end": 2640.16,
+      "text": "Thanks for letting me pick your brain and ask you a bunch of questions. Um, where can people find you or get in touch? Um, I am on LinkedIn. Um, I am, uh, you know, old enough that my profile is my name on a couple of different platforms out there. So, uh, you know, I'm not that active on X. Uh, I, I, I browse, I don't really, uh, really contribute that much, but you know, people can always reach out to me. They can find me if they want to via LinkedIn or, or, uh, my email at, uh, at resident. Uh, it's easy enough. Yeah. Amazing."
+    },
+    {
+      "start": 2640.48,
+      "end": 2659.32,
+      "text": "Well, thank you so much for coming on and, uh, we got to have you back. Well, I appreciate it. Thank you for having me. I'd love to come back. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

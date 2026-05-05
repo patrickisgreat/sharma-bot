@@ -1,0 +1,4569 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 24.64,
+      "text": "Do you know K-Jewelers, they sell diamond rings? Basically, K-Jewelers was selling diamond rings for $4,000 and every guy would take the warranty insurance because they're like, I'm buying my engagement ring. I want to make sure it doesn't get lost. The warranty insurance would be $200. The diamonds, they were making money but not a great margin. The $200 separate warranty was pure profit and it was never claimed because it's a diamond. It can't go bad. It doesn't get lost. That kind of stuff."
+    },
+    {
+      "start": 24.64,
+      "end": 30.4,
+      "text": "So he's like, no one understood that K-Jewelers was actually in the warranty business and not in the diamond business."
+    },
+    {
+      "start": 31.22,
+      "end": 38.66,
+      "text": "Welcome to season two of Limited Supply, the place for refreshingly real takes on what DTC is really like."
+    },
+    {
+      "start": 38.92,
+      "end": 43.14,
+      "text": "We're your hosts, Nick and Moyes. Let's get into it and start making money."
+    },
+    {
+      "start": 44.3,
+      "end": 50.54,
+      "text": "Growing your business is hard, but Triple Whale is all about scaling your Shopify store to the moon and doing it profitably."
+    },
+    {
+      "start": 50.54,
+      "end": 58.44,
+      "text": "Okay, what I'm supposed to read is it says use promo code SUPPLY15 to get 15% off when you sign up for Triple Whale at triplewhale.com."
+    },
+    {
+      "start": 58.7,
+      "end": 66.34,
+      "text": "But I really mean DM me on Twitter and I will get you 20%. I'm going to go fight the CEO and I'm going to be like, get 20% off of these guys."
+    },
+    {
+      "start": 66.8,
+      "end": 68.74,
+      "text": "So just DM me and I'll get you 20%."
+    },
+    {
+      "start": 69.38,
+      "end": 70.32,
+      "text": "Okay, Nick."
+    },
+    {
+      "start": 70.54,
+      "end": 70.92,
+      "text": "All right."
+    },
+    {
+      "start": 71.24,
+      "end": 75.78,
+      "text": "Season two, episode eight. First episode after Black Friday."
+    },
+    {
+      "start": 75.98,
+      "end": 76.3,
+      "text": "Black Friday."
+    },
+    {
+      "start": 76.3,
+      "end": 81.04,
+      "text": "Super excited. You know, the Super Bowl of e-commerce is in the rear view mirror."
+    },
+    {
+      "start": 81.36,
+      "end": 85.78,
+      "text": "And now it's time to find out who won and who lost and who's injured and who's still on the field."
+    },
+    {
+      "start": 86.22,
+      "end": 87.6,
+      "text": "Super excited about it."
+    },
+    {
+      "start": 88.04,
+      "end": 93.12,
+      "text": "Quick note before we start. Nick, you're in Thailand for Affiliate World. Is that right?"
+    },
+    {
+      "start": 93.7,
+      "end": 94.08,
+      "text": "Correct."
+    },
+    {
+      "start": 94.82,
+      "end": 100.02,
+      "text": "Okay. I'm excited to talk about that, but I will obviously save it for the next episode because I'm curious to hear what you learn."
+    },
+    {
+      "start": 100.54,
+      "end": 109.5,
+      "text": "I'm in Florida for Thanksgiving still, hanging out with my parents. So we're both remote. And so please forgive us if the quality of our recording isn't great."
+    },
+    {
+      "start": 109.76,
+      "end": 115.42,
+      "text": "I'm in the bedroom my brother sleeps in and it's, you know, it's the only room with a desk."
+    },
+    {
+      "start": 115.42,
+      "end": 115.84,
+      "text": "Very blue."
+    },
+    {
+      "start": 116,
+      "end": 118.14,
+      "text": "You'll have to forgive me. It is very blue. Yeah."
+    },
+    {
+      "start": 118.48,
+      "end": 121.58,
+      "text": "Yeah. We're trading quality for insights today."
+    },
+    {
+      "start": 122.12,
+      "end": 128.02,
+      "text": "You know, we were thinking about waiting and recording a few days later, but Black Friday just happened. We can't miss this date."
+    },
+    {
+      "start": 128.02,
+      "end": 132.16,
+      "text": "And so we really wanted to get this out. So let's start with a few things."
+    },
+    {
+      "start": 132.42,
+      "end": 136.08,
+      "text": "One is we're going to talk about all the emails and text messages people sent."
+    },
+    {
+      "start": 136.66,
+      "end": 142.08,
+      "text": "I've got some data from Triple Whale. I talked to Triple Whale basically before Black Friday."
+    },
+    {
+      "start": 142.24,
+      "end": 148.8,
+      "text": "And I was like, hey, on Sunday, I want to update of what you saw on Black Friday and give us the stats on an aggregate basis."
+    },
+    {
+      "start": 149.52,
+      "end": 155.04,
+      "text": "And they sent me a bunch of stats via over 2,500 stores, all based in the United States."
+    },
+    {
+      "start": 155.04,
+      "end": 158.8,
+      "text": "And so we're going to talk about what these guys saw on an aggregate basis."
+    },
+    {
+      "start": 159.6,
+      "end": 163.6,
+      "text": "We're also going to talk about some other... Tell me the data that you've got here, Nick."
+    },
+    {
+      "start": 164.16,
+      "end": 168.96,
+      "text": "Yeah, I've got category data. So basically a bunch of different categories of brands."
+    },
+    {
+      "start": 168.96,
+      "end": 174.42,
+      "text": "We saw some of this on Shopify's data stories, their visualization tool that they do for Black Friday."
+    },
+    {
+      "start": 174.66,
+      "end": 179.84,
+      "text": "But Northbeam went ahead and categorized a bunch of their clients for me and sent over some data."
+    },
+    {
+      "start": 179.84,
+      "end": 186.28,
+      "text": "So we can see basically the spend levels, how much more brands were spending and how much more they were increasing."
+    },
+    {
+      "start": 186.58,
+      "end": 192.54,
+      "text": "And hopefully we'll find some categories or some numbers that show that there's going to be some big growing categories next year."
+    },
+    {
+      "start": 193.16,
+      "end": 195.44,
+      "text": "I want to start out with this thing that I saw that was a trend."
+    },
+    {
+      "start": 195.44,
+      "end": 202.92,
+      "text": "So one is, you know, I'm sure you and I and everybody else was blasted with a ton of emails, a ton of text messages."
+    },
+    {
+      "start": 203.7,
+      "end": 207.44,
+      "text": "This podcast is going to drop Wednesday, November 30th."
+    },
+    {
+      "start": 207.66,
+      "end": 215.56,
+      "text": "So I guess one thing I want to make sure is everyone downgrades their Klaviyo system from whatever they were in the last week when, you know,"
+    },
+    {
+      "start": 215.56,
+      "end": 220.62,
+      "text": "they started spending a lot more money on texts and emails back down to where they will be in December."
+    },
+    {
+      "start": 220.94,
+      "end": 224.5,
+      "text": "And then again, probably in January, we should make the same reminder because, you know,"
+    },
+    {
+      "start": 224.56,
+      "end": 227.52,
+      "text": "I'm sure you went over the limit that you ordinarily need to be at."
+    },
+    {
+      "start": 227.96,
+      "end": 230.66,
+      "text": "And the other thing is I saw a bunch of emails."
+    },
+    {
+      "start": 230.84,
+      "end": 236.28,
+      "text": "I wonder if you have curious to see if you saw this, Nick, where people would say like the CEO of a brand would send out an email saying,"
+    },
+    {
+      "start": 236.28,
+      "end": 237.9,
+      "text": "Oh, my site went down."
+    },
+    {
+      "start": 238.16,
+      "end": 239.48,
+      "text": "I'm so sorry."
+    },
+    {
+      "start": 240.44,
+      "end": 245.98,
+      "text": "Holiday 25 for 25% off because, you know, we were because we made this mistake."
+    },
+    {
+      "start": 246.52,
+      "end": 248.84,
+      "text": "And like, you know, I was like, this is bullshit."
+    },
+    {
+      "start": 249.12,
+      "end": 251.44,
+      "text": "I saw so I saw them from away travel."
+    },
+    {
+      "start": 251.44,
+      "end": 255.16,
+      "text": "I saw it from this footwear company that I follow."
+    },
+    {
+      "start": 255.46,
+      "end": 256.78,
+      "text": "I saw a bunch of them actually."
+    },
+    {
+      "start": 257.04,
+      "end": 258.02,
+      "text": "Did you see any of these?"
+    },
+    {
+      "start": 258.48,
+      "end": 259.62,
+      "text": "Yeah, there was a few."
+    },
+    {
+      "start": 259.86,
+      "end": 265.2,
+      "text": "And in fact, when I was on my flight, I was so I was delirious because I traveled for basically,"
+    },
+    {
+      "start": 265.2,
+      "end": 267.04,
+      "text": "I didn't sleep for 27 hours."
+    },
+    {
+      "start": 267.2,
+      "end": 269.24,
+      "text": "So I was DMing with a bunch of people back and forth."
+    },
+    {
+      "start": 269.54,
+      "end": 272.32,
+      "text": "And somebody actually, I won't name who it is."
+    },
+    {
+      "start": 272.46,
+      "end": 279.96,
+      "text": "But one person was DMing me and saying, you know, like, would you would you support sending an email out like this?"
+    },
+    {
+      "start": 280.62,
+      "end": 285.04,
+      "text": "And I, you know, I have this thought that flashes in my head, which is what would Moise do?"
+    },
+    {
+      "start": 285.72,
+      "end": 289.94,
+      "text": "And Moise thought is, hey, if it makes money, send it and see what happens."
+    },
+    {
+      "start": 290.16,
+      "end": 290.3,
+      "text": "That's right."
+    },
+    {
+      "start": 290.94,
+      "end": 291.92,
+      "text": "So he sent it."
+    },
+    {
+      "start": 292,
+      "end": 293.9,
+      "text": "He sent it as a as a plain text email."
+    },
+    {
+      "start": 293.9,
+      "end": 299.58,
+      "text": "And basically said, you know, we're happy to report all our problems have been fixed."
+    },
+    {
+      "start": 299.92,
+      "end": 300.98,
+      "text": "We're good to go."
+    },
+    {
+      "start": 301.2,
+      "end": 302.66,
+      "text": "Click this link right here."
+    },
+    {
+      "start": 302.74,
+      "end": 304.2,
+      "text": "And he he highlighted it."
+    },
+    {
+      "start": 304.44,
+      "end": 312.16,
+      "text": "And three times the CTR compared to all the email, the highest email that they sent across the entire Black Friday period."
+    },
+    {
+      "start": 312.54,
+      "end": 313.96,
+      "text": "And so it worked out really well."
+    },
+    {
+      "start": 313.96,
+      "end": 320.2,
+      "text": "But the other thing was, I was looking at a lot of the stores that were doing this, and they were all basically non Shopify stores."
+    },
+    {
+      "start": 320.2,
+      "end": 331.9,
+      "text": "So my my guess is that it was probably like a payment processor that they use that went down or something within the the checkout process that was not working for a while."
+    },
+    {
+      "start": 331.9,
+      "end": 335.12,
+      "text": "And I think there was I did see a lot of people calling it out."
+    },
+    {
+      "start": 335.28,
+      "end": 338.6,
+      "text": "I imagine there was probably like three or four stores that were actually affected."
+    },
+    {
+      "start": 338.6,
+      "end": 345.46,
+      "text": "And then I think there was probably another handful or 10 people that tried to just, you know, get that higher click through rate on an email."
+    },
+    {
+      "start": 346,
+      "end": 349.6,
+      "text": "To be honest, I didn't even realize there was non Shopify stores doing this."
+    },
+    {
+      "start": 349.7,
+      "end": 352.68,
+      "text": "But you're right, like away travel did it that athletics did it."
+    },
+    {
+      "start": 353.02,
+      "end": 355.48,
+      "text": "And so I think both of those are non Shopify stores."
+    },
+    {
+      "start": 355.98,
+      "end": 357.84,
+      "text": "It could be a payment processor issue."
+    },
+    {
+      "start": 357.84,
+      "end": 367.62,
+      "text": "You know, Stripe said that they had 99.9999% API calls that went over successfully through Black Friday."
+    },
+    {
+      "start": 367.82,
+      "end": 370.5,
+      "text": "So basically zero degradation on Stripe."
+    },
+    {
+      "start": 370.64,
+      "end": 373.54,
+      "text": "Obviously, people saw a little degradation on Klaviyo."
+    },
+    {
+      "start": 374.24,
+      "end": 376.5,
+      "text": "But I saw a bunch of brands do this."
+    },
+    {
+      "start": 377.14,
+      "end": 378.2,
+      "text": "Same thing happened with me."
+    },
+    {
+      "start": 378.36,
+      "end": 380.48,
+      "text": "People email me and they're like, hey, we're seeing brands do this."
+    },
+    {
+      "start": 380.58,
+      "end": 381.18,
+      "text": "Should I do this?"
+    },
+    {
+      "start": 381.68,
+      "end": 384.76,
+      "text": "I was like, hey, I think, you know, all is fair in love and war."
+    },
+    {
+      "start": 385.08,
+      "end": 387.28,
+      "text": "And and people did it."
+    },
+    {
+      "start": 387.28,
+      "end": 389.9,
+      "text": "There was a company I know that did it on this on Saturday."
+    },
+    {
+      "start": 390.14,
+      "end": 392.52,
+      "text": "They're like, oh, our site went down on Black Friday."
+    },
+    {
+      "start": 392.72,
+      "end": 394.24,
+      "text": "We're up on Black on Saturday."
+    },
+    {
+      "start": 394.56,
+      "end": 395.36,
+      "text": "Please purchase again."
+    },
+    {
+      "start": 395.7,
+      "end": 400.8,
+      "text": "And they had more sales as a result of that plain text email on Saturday than they did on Black Friday."
+    },
+    {
+      "start": 400.96,
+      "end": 409.96,
+      "text": "Like they they increased their sales 10 percent because the open rate and click through rate of the plain text email was so much greater than the open rate and click through rate of the stylized email."
+    },
+    {
+      "start": 410.06,
+      "end": 411.14,
+      "text": "So we all sent out for Black Friday."
+    },
+    {
+      "start": 411.42,
+      "end": 414.34,
+      "text": "That was the most surprising thing that I saw all Black Friday."
+    },
+    {
+      "start": 414.48,
+      "end": 416.24,
+      "text": "Like usually I'm like, OK, I know what to expect."
+    },
+    {
+      "start": 416.9,
+      "end": 421.98,
+      "text": "Promos like, you know, I'm curious if it will be 20 percent, like, you know, 10 percent because everyone's super successful."
+    },
+    {
+      "start": 422.2,
+      "end": 423.34,
+      "text": "So they're not discounting the law."
+    },
+    {
+      "start": 423.72,
+      "end": 428.54,
+      "text": "20 to 30 percent because it's like a medium year or 50 percent because everyone's like, I've got too much inventory."
+    },
+    {
+      "start": 428.76,
+      "end": 429.94,
+      "text": "I need to get things out of here."
+    },
+    {
+      "start": 430.1,
+      "end": 433.44,
+      "text": "I saw the 25 to 30 percent range, a 20 to 30 percent range."
+    },
+    {
+      "start": 433.54,
+      "end": 434.54,
+      "text": "I thought that was pretty standard."
+    },
+    {
+      "start": 434.78,
+      "end": 437.4,
+      "text": "What was just shocking was all of those emails are coming out."
+    },
+    {
+      "start": 437.46,
+      "end": 440.34,
+      "text": "That was probably the biggest surprise that I saw during Black Friday."
+    },
+    {
+      "start": 440.8,
+      "end": 445.88,
+      "text": "Did you also see that Klaviyo was not working on Black Friday?"
+    },
+    {
+      "start": 446.38,
+      "end": 447.72,
+      "text": "Yeah, I tweeted about it."
+    },
+    {
+      "start": 447.82,
+      "end": 448.4,
+      "text": "Yeah, I saw it right."
+    },
+    {
+      "start": 448.56,
+      "end": 450.58,
+      "text": "I saw it right when it happened, basically."
+    },
+    {
+      "start": 450.88,
+      "end": 454.06,
+      "text": "But it was only a short period of time, probably 30, 40 minutes."
+    },
+    {
+      "start": 454.4,
+      "end": 455.74,
+      "text": "Emails were still being sent out."
+    },
+    {
+      "start": 456.02,
+      "end": 457.34,
+      "text": "It could have been a disaster."
+    },
+    {
+      "start": 457.9,
+      "end": 459.26,
+      "text": "There could have been so many disasters."
+    },
+    {
+      "start": 459.48,
+      "end": 463.82,
+      "text": "Shopify failing, Stripe failing, Klaviyo not sending out emails, Klaviyo failing."
+    },
+    {
+      "start": 463.82,
+      "end": 475.82,
+      "text": "Looking at everything that happened and the amount of sales that happened over the weekend, when it's smoothly as possible, I would have given it a B plus in terms of everyone having the ability to let you sell products."
+    },
+    {
+      "start": 476.14,
+      "end": 477.92,
+      "text": "No SaaS provider fucking you."
+    },
+    {
+      "start": 478.3,
+      "end": 492.24,
+      "text": "My understanding, too, of Klaviyo was it was actually more of a preventative measure that they restricted the ability for brands to go play on the front end so that the back end does not get affected."
+    },
+    {
+      "start": 492.24,
+      "end": 496.46,
+      "text": "So everything still went out and everything happened on schedule."
+    },
+    {
+      "start": 496.82,
+      "end": 506.52,
+      "text": "But they essentially made it so that you couldn't go click around and do a bunch of stuff that would overload their servers and then, as a result, cause emails to not go out."
+    },
+    {
+      "start": 506.6,
+      "end": 512.16,
+      "text": "So I thought it was actually kind of smart, but they should have explained it better because a lot of people didn't pick that up."
+    },
+    {
+      "start": 512.92,
+      "end": 514.28,
+      "text": "Yeah, they could have explained it better."
+    },
+    {
+      "start": 514.4,
+      "end": 514.66,
+      "text": "You know what?"
+    },
+    {
+      "start": 514.72,
+      "end": 515.64,
+      "text": "It was like 30 minutes."
+    },
+    {
+      "start": 515.82,
+      "end": 516.72,
+      "text": "Emails went out."
+    },
+    {
+      "start": 516.72,
+      "end": 526.52,
+      "text": "So I was like, look, if you needed these 30 minutes, if you were waiting to hit send, and I think it happened like around 1 p.m. Eastern, if you were waiting for that, like you were not prepared for Black Friday."
+    },
+    {
+      "start": 526.76,
+      "end": 527.94,
+      "text": "You should have been on top of this."
+    },
+    {
+      "start": 528.1,
+      "end": 529.22,
+      "text": "Oh, you should have been more on top of this."
+    },
+    {
+      "start": 529.96,
+      "end": 532.42,
+      "text": "Okay, let's go over some stats."
+    },
+    {
+      "start": 532.88,
+      "end": 537.54,
+      "text": "Let me start with some advertising stats, if that's okay with you."
+    },
+    {
+      "start": 537.54,
+      "end": 542.04,
+      "text": "And then we'll go into the other stats that we talked about."
+    },
+    {
+      "start": 542.3,
+      "end": 554.44,
+      "text": "So I guess the stats that I saw from – I have like an email from an ad agency that comes to me every week talking about what Facebook CPMs and TikTok CPMs look like week over week."
+    },
+    {
+      "start": 554.52,
+      "end": 557.2,
+      "text": "So this is not specific to Black Friday."
+    },
+    {
+      "start": 557.42,
+      "end": 561.58,
+      "text": "This is the week of Black Friday versus the week before Black Friday."
+    },
+    {
+      "start": 561.58,
+      "end": 567.74,
+      "text": "And so there was an increase in Facebook CPMs of 22% week over week."
+    },
+    {
+      "start": 567.88,
+      "end": 575.9,
+      "text": "So basically the week before Black Friday was 22% cheaper than the week of Black Friday, which I thought was really interesting and, you know, frankly, a lot of money."
+    },
+    {
+      "start": 576.14,
+      "end": 578.12,
+      "text": "And TikTok was an 8% difference."
+    },
+    {
+      "start": 578.38,
+      "end": 583.66,
+      "text": "So TikTok was 8% more expensive the week of Black Friday than the week before Black Friday."
+    },
+    {
+      "start": 584.12,
+      "end": 591.7,
+      "text": "I heard from a lot of people that Facebook actually overperformed from what a lot of people had anticipated it would do."
+    },
+    {
+      "start": 591.84,
+      "end": 604.24,
+      "text": "I know for some of the brands we were running media for, Facebook did extremely well, whereas TikTok, which was kind of initially thought to be the one that would help with scale, didn't perform as well."
+    },
+    {
+      "start": 604.96,
+      "end": 613.3,
+      "text": "And it sounds like from people I've talked to, they're not planning to use TikTok in high promo periods like this because it doesn't scale that well."
+    },
+    {
+      "start": 614.02,
+      "end": 615.52,
+      "text": "That makes sense to me as well."
+    },
+    {
+      "start": 615.78,
+      "end": 621.42,
+      "text": "You know what was also crazy was seeing how many people had like million or $3 million days or something like that."
+    },
+    {
+      "start": 621.52,
+      "end": 626.18,
+      "text": "Like I think I saw a couple of people on Twitter say, hey, I'm trying to get a $3 million day today."
+    },
+    {
+      "start": 626.48,
+      "end": 628.94,
+      "text": "And first I'm like, how seasonal are these?"
+    },
+    {
+      "start": 629.12,
+      "end": 633.26,
+      "text": "Like, you know, they're not really clear about how seasonal the products are, but I'm like, how seasonal is this product?"
+    },
+    {
+      "start": 633.26,
+      "end": 642.68,
+      "text": "If you're looking for a three, either you are doing, you know, $150 million in revenue yearly, which is already a ton of money or $3 million means you're quite seasonal."
+    },
+    {
+      "start": 642.96,
+      "end": 650.68,
+      "text": "But in any case, really, it is also a signal to me that like the e-commerce industry is really mature and people are looking for e-commerce emails."
+    },
+    {
+      "start": 650.8,
+      "end": 653.92,
+      "text": "Like, you know, direct to consumer brand emails on Black Friday."
+    },
+    {
+      "start": 654.12,
+      "end": 656.74,
+      "text": "They're not necessarily being like, what is Best Buy discounting?"
+    },
+    {
+      "start": 656.82,
+      "end": 657.8,
+      "text": "What is Target discounting?"
+    },
+    {
+      "start": 657.92,
+      "end": 659.34,
+      "text": "What do those doorbusters look like?"
+    },
+    {
+      "start": 659.34,
+      "end": 663.22,
+      "text": "Not no longer waiting in line for Black Friday at the store."
+    },
+    {
+      "start": 663.7,
+      "end": 668.84,
+      "text": "They're looking for these emails because these direct to consumer businesses can have $3 million Black Fridays."
+    },
+    {
+      "start": 669.42,
+      "end": 674.04,
+      "text": "Before we get into the stats, actually, have you ever waited in line on Black Friday for anything?"
+    },
+    {
+      "start": 674.54,
+      "end": 675.4,
+      "text": "Like, have you gone out?"
+    },
+    {
+      "start": 675.64,
+      "end": 676.54,
+      "text": "Oh, have I waited in line?"
+    },
+    {
+      "start": 677.1,
+      "end": 678.62,
+      "text": "It's in my DNA, boys."
+    },
+    {
+      "start": 678.8,
+      "end": 680.2,
+      "text": "It's in our Indian DNA."
+    },
+    {
+      "start": 680.4,
+      "end": 682.22,
+      "text": "Go get that TV at a discount."
+    },
+    {
+      "start": 683.48,
+      "end": 687.7,
+      "text": "Well, when I was younger, actually, I thought about this a couple years ago."
+    },
+    {
+      "start": 687.88,
+      "end": 690.02,
+      "text": "It's all the things that now are in our iPhone."
+    },
+    {
+      "start": 690.16,
+      "end": 692.54,
+      "text": "So it was like CD-Rs, USB sticks."
+    },
+    {
+      "start": 693.16,
+      "end": 697.38,
+      "text": "It was, you know, webcams, you know, keyboards and mouses."
+    },
+    {
+      "start": 697.76,
+      "end": 700.88,
+      "text": "It's all the things that like you don't necessarily need to buy anymore."
+    },
+    {
+      "start": 701.98,
+      "end": 708.84,
+      "text": "And Black Friday and retail, like I even, I go to Best Buy every year on Black Friday just to see what the foot traffic is like."
+    },
+    {
+      "start": 708.84,
+      "end": 711.28,
+      "text": "I got to say, I was in Austin this year for Black Friday."
+    },
+    {
+      "start": 711.76,
+      "end": 718.24,
+      "text": "Almost every store was pretty empty from Everlane and Madewell all the way to Best Buy to Target."
+    },
+    {
+      "start": 718.5,
+      "end": 721.14,
+      "text": "Like nobody was really in the stores, which was kind of surprising."
+    },
+    {
+      "start": 721.74,
+      "end": 725.44,
+      "text": "But yeah, I mean, I love going on Black Friday just to see."
+    },
+    {
+      "start": 725.6,
+      "end": 730.4,
+      "text": "It used to be the 128 megabyte USB flash drive."
+    },
+    {
+      "start": 730.5,
+      "end": 732.12,
+      "text": "That was like the Black Friday steal."
+    },
+    {
+      "start": 732.54,
+      "end": 734.52,
+      "text": "But yeah, now I don't wait."
+    },
+    {
+      "start": 734.52,
+      "end": 741.6,
+      "text": "I think the last time I like waited outside 5 a.m. at Best Buy or 4 a.m. was probably a decade ago."
+    },
+    {
+      "start": 742,
+      "end": 742.72,
+      "text": "What about you?"
+    },
+    {
+      "start": 742.84,
+      "end": 743.2,
+      "text": "Do you go?"
+    },
+    {
+      "start": 743.78,
+      "end": 745.24,
+      "text": "I usually don't go anymore."
+    },
+    {
+      "start": 745.46,
+      "end": 749.7,
+      "text": "Basically, because I wouldn't expect a line at Everlane or Madewell or even Best Buy."
+    },
+    {
+      "start": 750.24,
+      "end": 753.88,
+      "text": "Certainly Everlane and Madewell because I'm like both those guys are going to have their best sales online."
+    },
+    {
+      "start": 754.34,
+      "end": 761.5,
+      "text": "At Best Buy, I might expect like a TV that's only available in store or that's discounted an extra $50 if you line up."
+    },
+    {
+      "start": 761.74,
+      "end": 763.4,
+      "text": "But I'm not sure that's the case."
+    },
+    {
+      "start": 763.4,
+      "end": 765.26,
+      "text": "I'm not sure if I should expect that or not."
+    },
+    {
+      "start": 765.68,
+      "end": 771.16,
+      "text": "I remember my first year of law school, I waited in line at Best Buy to buy a plasma screen TV."
+    },
+    {
+      "start": 771.32,
+      "end": 772.38,
+      "text": "It's a Panasonic TV."
+    },
+    {
+      "start": 772.6,
+      "end": 773.36,
+      "text": "It was so stupid."
+    },
+    {
+      "start": 773.38,
+      "end": 774.72,
+      "text": "I bought the warranty as well."
+    },
+    {
+      "start": 775.16,
+      "end": 777.34,
+      "text": "And, you know, I'm waiting in line."
+    },
+    {
+      "start": 777.52,
+      "end": 779.48,
+      "text": "And I get there at 5 in the morning."
+    },
+    {
+      "start": 779.76,
+      "end": 780.8,
+      "text": "It's freezing cold."
+    },
+    {
+      "start": 780.88,
+      "end": 782.1,
+      "text": "It's my first year of law school."
+    },
+    {
+      "start": 782.58,
+      "end": 786.24,
+      "text": "I didn't go home for the holidays because I was like, I really want to study and do well in law school."
+    },
+    {
+      "start": 786.66,
+      "end": 788.7,
+      "text": "I don't have a TV, so I'm finally getting one."
+    },
+    {
+      "start": 788.94,
+      "end": 790.78,
+      "text": "And I'm like behind in the line."
+    },
+    {
+      "start": 790.96,
+      "end": 792.14,
+      "text": "And they're like, here are the cards."
+    },
+    {
+      "start": 792.14,
+      "end": 794.64,
+      "text": "Everyone gets like the first 30 people will get this TV."
+    },
+    {
+      "start": 794.9,
+      "end": 800.74,
+      "text": "And the first 30 people, basically the first 30 people got access to everything and no one behind them got access to anything."
+    },
+    {
+      "start": 800.96,
+      "end": 802.68,
+      "text": "So I was like, should I leave or should I wait?"
+    },
+    {
+      "start": 802.78,
+      "end": 804.26,
+      "text": "Because it sounds like I'm not going to get anything."
+    },
+    {
+      "start": 804.54,
+      "end": 805.68,
+      "text": "And of course, they opened the door."
+    },
+    {
+      "start": 805.9,
+      "end": 807.54,
+      "text": "And like the first 30 people want something else."
+    },
+    {
+      "start": 807.62,
+      "end": 808.24,
+      "text": "They don't want the TV."
+    },
+    {
+      "start": 808.44,
+      "end": 811.22,
+      "text": "They just took the sheet of paper that said you can get the TV."
+    },
+    {
+      "start": 811.72,
+      "end": 812.92,
+      "text": "So I ended up getting it."
+    },
+    {
+      "start": 813,
+      "end": 816.22,
+      "text": "But I was like, this is a ridiculous process of like giving out these sheets of paper."
+    },
+    {
+      "start": 816.68,
+      "end": 818.24,
+      "text": "But, you know, it's a fun experience."
+    },
+    {
+      "start": 818.3,
+      "end": 818.9,
+      "text": "I miss it."
+    },
+    {
+      "start": 818.96,
+      "end": 821.48,
+      "text": "Like, you know, for me, it sort of starts the Christmas season."
+    },
+    {
+      "start": 821.62,
+      "end": 822.16,
+      "text": "And I'm like, great."
+    },
+    {
+      "start": 822.5,
+      "end": 827.32,
+      "text": "Now we can play Mariah Carey and like, you know, Whitney Houston and all those songs."
+    },
+    {
+      "start": 827.84,
+      "end": 828.96,
+      "text": "I sort of miss that."
+    },
+    {
+      "start": 829.1,
+      "end": 832.1,
+      "text": "But, you know, it's also a busy day now for everyone in e-commerce."
+    },
+    {
+      "start": 832.3,
+      "end": 835.54,
+      "text": "I feel like, you know, people like us probably don't have the time to wait in line anymore."
+    },
+    {
+      "start": 835.54,
+      "end": 837.62,
+      "text": "We're sort of like, we have to be at work on Black Friday."
+    },
+    {
+      "start": 837.92,
+      "end": 845.36,
+      "text": "From what I saw, a lot of the brands that were selling like high AOV, over $250 AOVs,"
+    },
+    {
+      "start": 845.46,
+      "end": 850,
+      "text": "they actually did extremely well compared to the brands that have lower AOVs."
+    },
+    {
+      "start": 850.08,
+      "end": 856.84,
+      "text": "I think a lot of people were kind of like waiting out on making bigger purchases this year until Black Friday."
+    },
+    {
+      "start": 857.12,
+      "end": 864.96,
+      "text": "We even saw, I mean, one of our higher AOV brands did $5.5 million in revenue just on Black Friday."
+    },
+    {
+      "start": 864.96,
+      "end": 866.84,
+      "text": "The majority of that coming in the evening."
+    },
+    {
+      "start": 867.2,
+      "end": 868.04,
+      "text": "Yeah, crazy."
+    },
+    {
+      "start": 868.14,
+      "end": 868.74,
+      "text": "That's insane."
+    },
+    {
+      "start": 869.7,
+      "end": 876.56,
+      "text": "And then we also saw conversion rate go up pretty high where on our landing pages,"
+    },
+    {
+      "start": 876.74,
+      "end": 883.84,
+      "text": "we saw a 6.5% conversion rate, which is pretty crazy for something selling over $400 or $500."
+    },
+    {
+      "start": 884.7,
+      "end": 887.98,
+      "text": "The brand that did over $5 million sells a product over $500?"
+    },
+    {
+      "start": 888.92,
+      "end": 890.46,
+      "text": "Over $400, I would say."
+    },
+    {
+      "start": 890.84,
+      "end": 891.18,
+      "text": "Wow."
+    },
+    {
+      "start": 891.4,
+      "end": 891.56,
+      "text": "Wow."
+    },
+    {
+      "start": 891.56,
+      "end": 892.24,
+      "text": "That's a lot."
+    },
+    {
+      "start": 892.68,
+      "end": 892.92,
+      "text": "Fuck."
+    },
+    {
+      "start": 893.6,
+      "end": 897.8,
+      "text": "Let me share the data that I got from the guys at Triple Whale."
+    },
+    {
+      "start": 898.16,
+      "end": 900.96,
+      "text": "So let me start by saying I've got two sets of data."
+    },
+    {
+      "start": 901.18,
+      "end": 905.82,
+      "text": "One is Black Friday only, and the other is October 1 to November 20th."
+    },
+    {
+      "start": 905.98,
+      "end": 907.84,
+      "text": "So let's start with Black Friday only."
+    },
+    {
+      "start": 908.22,
+      "end": 910.2,
+      "text": "There's 2,500 stores in this data."
+    },
+    {
+      "start": 910.38,
+      "end": 911.94,
+      "text": "They're U.S. stores only."
+    },
+    {
+      "start": 912.2,
+      "end": 917.98,
+      "text": "And we're comparing the sales from these 2,500 stores this year versus the 2,500 last year."
+    },
+    {
+      "start": 918.12,
+      "end": 920.4,
+      "text": "So we're not looking at new stores."
+    },
+    {
+      "start": 920.4,
+      "end": 924.14,
+      "text": "We're only looking at the same store sales."
+    },
+    {
+      "start": 924.34,
+      "end": 928.32,
+      "text": "And the reason that this is really good is because basically you're comparing apples to apples."
+    },
+    {
+      "start": 928.5,
+      "end": 935.32,
+      "text": "You're saying, okay, how much does this company sell in Black Friday, November 2021 versus Black Friday 2022?"
+    },
+    {
+      "start": 936.02,
+      "end": 938.06,
+      "text": "So you have like an apples to apples comparison."
+    },
+    {
+      "start": 938.28,
+      "end": 942.96,
+      "text": "Like whenever Walmart releases their earnings, they're like, this is how same store sales did."
+    },
+    {
+      "start": 943.06,
+      "end": 944.08,
+      "text": "They're not like, you know what?"
+    },
+    {
+      "start": 944.12,
+      "end": 948.44,
+      "text": "We added 20 new stores and store sales are up 2% because that's like an unfair comparison."
+    },
+    {
+      "start": 948.44,
+      "end": 956.26,
+      "text": "You want to know across Walmart's 4,400 stores, how did they do last year or last quarter or last year versus how they did this year?"
+    },
+    {
+      "start": 956.8,
+      "end": 960.82,
+      "text": "You know, granted you've added – like, you know, if you think about like Glossier, right?"
+    },
+    {
+      "start": 960.98,
+      "end": 964.96,
+      "text": "If Glossier only had two stores – let's say Glossier is Sephora."
+    },
+    {
+      "start": 965.24,
+      "end": 966.18,
+      "text": "Sephora is a better example."
+    },
+    {
+      "start": 966.48,
+      "end": 967.78,
+      "text": "Sephora has 400 stores."
+    },
+    {
+      "start": 967.78,
+      "end": 971.22,
+      "text": "I want to know how those 400 stores did this year versus last year."
+    },
+    {
+      "start": 971.44,
+      "end": 975.04,
+      "text": "Not the fact that they gained another 200 stores and so now they're at 600."
+    },
+    {
+      "start": 975.3,
+      "end": 976.26,
+      "text": "Of course sales are up."
+    },
+    {
+      "start": 976.36,
+      "end": 977.56,
+      "text": "You have 600 stores now."
+    },
+    {
+      "start": 977.8,
+      "end": 979.92,
+      "text": "How did those 400 compare to last year?"
+    },
+    {
+      "start": 980.54,
+      "end": 984.34,
+      "text": "So, okay, so let's go Black Friday 2021 to Black Friday 2022."
+    },
+    {
+      "start": 984.84,
+      "end": 986.78,
+      "text": "2,500 stores, U.S. only."
+    },
+    {
+      "start": 987.42,
+      "end": 992.66,
+      "text": "Sales were up 28% this year compared to last year's Black Friday."
+    },
+    {
+      "start": 992.9,
+      "end": 995.06,
+      "text": "Again, that's 28%."
+    },
+    {
+      "start": 995.06,
+      "end": 997.68,
+      "text": "Orders were up 18%."
+    },
+    {
+      "start": 997.68,
+      "end": 1000.42,
+      "text": "So orders are up 18%."
+    },
+    {
+      "start": 1000.42,
+      "end": 1002.98,
+      "text": "Number of orders is up 18% this year."
+    },
+    {
+      "start": 1003.62,
+      "end": 1011.14,
+      "text": "AOV is up and Black Friday AOV across these 2,500 stores is $106, which is a lot of money."
+    },
+    {
+      "start": 1011.6,
+      "end": 1014.94,
+      "text": "And then I've also got stats based on advertising spend."
+    },
+    {
+      "start": 1015.1,
+      "end": 1018.14,
+      "text": "So how much were people spending on ads this year versus last year?"
+    },
+    {
+      "start": 1018.52,
+      "end": 1020.6,
+      "text": "Facebook up 24%."
+    },
+    {
+      "start": 1020.6,
+      "end": 1022.88,
+      "text": "23.3% actually."
+    },
+    {
+      "start": 1023.02,
+      "end": 1023.18,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 1023.3,
+      "end": 1024.48,
+      "text": "23.3%."
+    },
+    {
+      "start": 1024.48,
+      "end": 1027.4,
+      "text": "Google up 43.5%."
+    },
+    {
+      "start": 1027.4,
+      "end": 1031.58,
+      "text": "Basically, people are spending 50% more on Google this year than last year."
+    },
+    {
+      "start": 1031.72,
+      "end": 1032.98,
+      "text": "So a lot more on Google."
+    },
+    {
+      "start": 1033.56,
+      "end": 1035.26,
+      "text": "TikTok up 25%."
+    },
+    {
+      "start": 1035.26,
+      "end": 1036.4,
+      "text": "That doesn't blow my mind."
+    },
+    {
+      "start": 1036.52,
+      "end": 1039,
+      "text": "I feel like a lot of people are like, hey, I should be on TikTok."
+    },
+    {
+      "start": 1039.36,
+      "end": 1041.4,
+      "text": "And TikTok only going up 25%."
+    },
+    {
+      "start": 1041.4,
+      "end": 1048.28,
+      "text": "If it blows my mind, it's that TikTok ad spend only went up 25% year over year."
+    },
+    {
+      "start": 1048.28,
+      "end": 1049.78,
+      "text": "Pinterest ad spend."
+    },
+    {
+      "start": 1050.1,
+      "end": 1054.42,
+      "text": "Pinterest ad spend up 29%, which is a lot more than Facebook ad spend."
+    },
+    {
+      "start": 1055.14,
+      "end": 1057.62,
+      "text": "Snapchat ad spend down 30%."
+    },
+    {
+      "start": 1057.62,
+      "end": 1059.46,
+      "text": "So Snap is down 30%."
+    },
+    {
+      "start": 1059.46,
+      "end": 1061.1,
+      "text": "So let me go over that again."
+    },
+    {
+      "start": 1061.34,
+      "end": 1064.38,
+      "text": "28% more revenue across these 2,500 stores."
+    },
+    {
+      "start": 1064.7,
+      "end": 1066.46,
+      "text": "Average number of orders is up 18%."
+    },
+    {
+      "start": 1067.06,
+      "end": 1068.4,
+      "text": "AOV is $106."
+    },
+    {
+      "start": 1069.12,
+      "end": 1075.9,
+      "text": "Ad spend across every platform is up between 23% and 44%, except Snapchat."
+    },
+    {
+      "start": 1076.14,
+      "end": 1077.48,
+      "text": "Snapchat is down 30%."
+    },
+    {
+      "start": 1078.24,
+      "end": 1079.78,
+      "text": "I thought that was crazy."
+    },
+    {
+      "start": 1080.24,
+      "end": 1083.28,
+      "text": "Especially the 28% increase in sales on Black Friday."
+    },
+    {
+      "start": 1083.42,
+      "end": 1085.06,
+      "text": "That's a really healthy increase."
+    },
+    {
+      "start": 1085.28,
+      "end": 1086.28,
+      "text": "Way more than I thought."
+    },
+    {
+      "start": 1086.44,
+      "end": 1091.6,
+      "text": "I saw a lot of big sales who were sort of like, we're up, but we're not meeting our forecast."
+    },
+    {
+      "start": 1091.92,
+      "end": 1093.62,
+      "text": "And this is actual sales."
+    },
+    {
+      "start": 1093.78,
+      "end": 1097.12,
+      "text": "And so obviously, people could be like, look, we grew a ton more in 2022."
+    },
+    {
+      "start": 1097.16,
+      "end": 1098.46,
+      "text": "We're spending more on ads."
+    },
+    {
+      "start": 1098.54,
+      "end": 1099.48,
+      "text": "We're doing a bigger promo."
+    },
+    {
+      "start": 1099.74,
+      "end": 1101.14,
+      "text": "This doesn't include any of that."
+    },
+    {
+      "start": 1101.14,
+      "end": 1106.66,
+      "text": "And so take this for what it's worth, which is take it with a grain of salt, really."
+    },
+    {
+      "start": 1107.04,
+      "end": 1111.96,
+      "text": "But I think it's really interesting that stores are up 28%, a lot more than I thought they would be,"
+    },
+    {
+      "start": 1112.08,
+      "end": 1115.32,
+      "text": "based on some of the WhatsApp messages and Twitter DMs I was getting."
+    },
+    {
+      "start": 1115.68,
+      "end": 1119.7,
+      "text": "There were a couple of businesses that I talked to that are $100 million plus businesses."
+    },
+    {
+      "start": 1119.7,
+      "end": 1122.86,
+      "text": "And they were like, this is our best Black Friday ever."
+    },
+    {
+      "start": 1123.48,
+      "end": 1124.88,
+      "text": "There's a business that's in e-commerce."
+    },
+    {
+      "start": 1125.12,
+      "end": 1126.3,
+      "text": "It's a nine-figure business."
+    },
+    {
+      "start": 1126.48,
+      "end": 1127.96,
+      "text": "It's been in business since 2010."
+    },
+    {
+      "start": 1127.96,
+      "end": 1131.56,
+      "text": "And they DM me on Twitter, and they're like, we're up north of 20%."
+    },
+    {
+      "start": 1131.56,
+      "end": 1135.78,
+      "text": "There's another business that I know that's an apparel business, nine-figure business."
+    },
+    {
+      "start": 1135.9,
+      "end": 1138.28,
+      "text": "They're like, we're going to double last year's Black Friday."
+    },
+    {
+      "start": 1138.5,
+      "end": 1143.16,
+      "text": "So it was all over the place, at least from what I got on Twitter DMs."
+    },
+    {
+      "start": 1143.46,
+      "end": 1146.94,
+      "text": "About 28% is what Triple Whale saw across 2,500 stores."
+    },
+    {
+      "start": 1147.64,
+      "end": 1150.56,
+      "text": "Yeah, that sounds pretty accurate for Black Friday."
+    },
+    {
+      "start": 1150.72,
+      "end": 1152.54,
+      "text": "I think I saw very similar numbers."
+    },
+    {
+      "start": 1153.34,
+      "end": 1156.66,
+      "text": "Snap ad spend going down 30% is really interesting."
+    },
+    {
+      "start": 1156.66,
+      "end": 1161.38,
+      "text": "It seems like TikTok basically ate that up with a combination of TikTok and Pinterest."
+    },
+    {
+      "start": 1161.78,
+      "end": 1167.6,
+      "text": "The Facebook one and Google one don't surprise me as much just because I think people realize"
+    },
+    {
+      "start": 1167.6,
+      "end": 1169.9,
+      "text": "that Facebook gets super efficient this time of year."
+    },
+    {
+      "start": 1170.04,
+      "end": 1171.96,
+      "text": "I mean, for this period, the shopping holiday."
+    },
+    {
+      "start": 1172.46,
+      "end": 1175.34,
+      "text": "And when that happens, Google, obviously, you want to be there."
+    },
+    {
+      "start": 1175.42,
+      "end": 1176.86,
+      "text": "You don't want to give that up."
+    },
+    {
+      "start": 1177.32,
+      "end": 1178.28,
+      "text": "So yeah, that's awesome."
+    },
+    {
+      "start": 1178.42,
+      "end": 1182.78,
+      "text": "I saw on some accounts too, Amazon was spending super efficiently as well"
+    },
+    {
+      "start": 1182.78,
+      "end": 1187.04,
+      "text": "for brands that were running on Amazon and running Amazon ads."
+    },
+    {
+      "start": 1187.76,
+      "end": 1193.64,
+      "text": "Yeah, there's a brand I own that has just tilted on Amazon on Black Friday."
+    },
+    {
+      "start": 1194.1,
+      "end": 1194.68,
+      "text": "I really crushed it."
+    },
+    {
+      "start": 1194.78,
+      "end": 1195.3,
+      "text": "It was incredible."
+    },
+    {
+      "start": 1195.84,
+      "end": 1197.96,
+      "text": "And everyone's just in the buying spirit."
+    },
+    {
+      "start": 1198.3,
+      "end": 1199.06,
+      "text": "That's the difference."
+    },
+    {
+      "start": 1199.82,
+      "end": 1203.5,
+      "text": "And I think the week before Black Friday, you should expect lower sales,"
+    },
+    {
+      "start": 1203.52,
+      "end": 1205.42,
+      "text": "not just because it's Thanksgiving and people are traveling,"
+    },
+    {
+      "start": 1205.54,
+      "end": 1206.34,
+      "text": "but because people are like,"
+    },
+    {
+      "start": 1206.34,
+      "end": 1210.04,
+      "text": "if you haven't started your Black Friday sale, I'm waiting for your Black Friday sale."
+    },
+    {
+      "start": 1210.34,
+      "end": 1213.66,
+      "text": "Actually, that may be the other thing that I saw is everyone started Black..."
+    },
+    {
+      "start": 1213.66,
+      "end": 1217.62,
+      "text": "You know, over the last few years, I feel like a couple people have moved Black Friday earlier."
+    },
+    {
+      "start": 1217.86,
+      "end": 1220.24,
+      "text": "And now everyone's moving Black Friday earlier."
+    },
+    {
+      "start": 1220.4,
+      "end": 1224.9,
+      "text": "But Black Friday starts the week before Thanksgiving, which is way better, honestly,"
+    },
+    {
+      "start": 1225.06,
+      "end": 1228.62,
+      "text": "because in reality, it makes operations and customer service way easier."
+    },
+    {
+      "start": 1229.02,
+      "end": 1233.16,
+      "text": "You know, there was a year where we had 25,000 orders on a Black Friday"
+    },
+    {
+      "start": 1233.16,
+      "end": 1237.12,
+      "text": "and Fulfillment Works took two weeks to ship out those orders."
+    },
+    {
+      "start": 1237.52,
+      "end": 1238.42,
+      "text": "People were like, why is my..."
+    },
+    {
+      "start": 1238.42,
+      "end": 1239.36,
+      "text": "I ordered on Black Friday."
+    },
+    {
+      "start": 1239.52,
+      "end": 1240.36,
+      "text": "It's now near Christmas."
+    },
+    {
+      "start": 1240.5,
+      "end": 1241.6,
+      "text": "When is this package going out?"
+    },
+    {
+      "start": 1241.96,
+      "end": 1244.82,
+      "text": "And, you know, I was like, it's never going out, basically."
+    },
+    {
+      "start": 1245.2,
+      "end": 1247.24,
+      "text": "And like, you know, that was hard because we started..."
+    },
+    {
+      "start": 1247.24,
+      "end": 1251.4,
+      "text": "Like everyone back then was starting Black Friday sales on Black Friday."
+    },
+    {
+      "start": 1251.74,
+      "end": 1255.62,
+      "text": "Now everyone's moving away much earlier, which I think is really great for 3PLs"
+    },
+    {
+      "start": 1255.62,
+      "end": 1256.92,
+      "text": "because they're like, we're going to have..."
+    },
+    {
+      "start": 1257.6,
+      "end": 1259.98,
+      "text": "It's going to be a lot easier for us to ship out this product"
+    },
+    {
+      "start": 1259.98,
+      "end": 1264.54,
+      "text": "because, you know, we can do this on a sustained basis rather than have 100 orders on..."
+    },
+    {
+      "start": 1264.54,
+      "end": 1268.6,
+      "text": "100 orders Wednesday, 100 orders Thursday, 25,000 orders Friday."
+    },
+    {
+      "start": 1268.74,
+      "end": 1270,
+      "text": "It's a lot easier for them."
+    },
+    {
+      "start": 1270.42,
+      "end": 1271.52,
+      "text": "Yeah, I couldn't agree more."
+    },
+    {
+      "start": 1271.78,
+      "end": 1276.32,
+      "text": "At first, I wasn't like super on board with Black Friday starting so early."
+    },
+    {
+      "start": 1276.52,
+      "end": 1280.92,
+      "text": "But I think for next year, I'm definitely on board with it."
+    },
+    {
+      "start": 1280.98,
+      "end": 1284.6,
+      "text": "I also think for the brands that sell more expensive products,"
+    },
+    {
+      "start": 1284.6,
+      "end": 1290.42,
+      "text": "it's like it gives you a second as a consumer to go through that exercise in your head"
+    },
+    {
+      "start": 1290.42,
+      "end": 1294.42,
+      "text": "of getting retargeted and going through the whole like purchase journey"
+    },
+    {
+      "start": 1294.98,
+      "end": 1299.64,
+      "text": "within that discount period, which obviously works in favor of both the brand and the customer."
+    },
+    {
+      "start": 1300.52,
+      "end": 1303.88,
+      "text": "This is the first year I'm traveling for a bit longer during Black Friday."
+    },
+    {
+      "start": 1304.02,
+      "end": 1306.28,
+      "text": "And I'm like, I ordered a bunch of stuff and I'm like, it's going to get there"
+    },
+    {
+      "start": 1306.28,
+      "end": 1307.22,
+      "text": "and I'm not going to be there."
+    },
+    {
+      "start": 1307.36,
+      "end": 1309.48,
+      "text": "And there are going to be a bunch of porch pirates who just steal it all."
+    },
+    {
+      "start": 1310.04,
+      "end": 1313.46,
+      "text": "I love what Amazon does, which is like, what day do you want this delivered?"
+    },
+    {
+      "start": 1313.8,
+      "end": 1316.88,
+      "text": "Or like, you know, I wish I could be like, don't ship this for a week to everybody"
+    },
+    {
+      "start": 1317.28,
+      "end": 1319.1,
+      "text": "so I can get home and not have it stolen."
+    },
+    {
+      "start": 1319.2,
+      "end": 1321.26,
+      "text": "But, you know, not really able to do that."
+    },
+    {
+      "start": 1321.74,
+      "end": 1323.84,
+      "text": "But yeah, I'm also game for Black Friday starting early."
+    },
+    {
+      "start": 1323.92,
+      "end": 1325.08,
+      "text": "I hated it for a while too."
+    },
+    {
+      "start": 1325.2,
+      "end": 1326.24,
+      "text": "And now I'm like, this is crazy."
+    },
+    {
+      "start": 1326.42,
+      "end": 1327.84,
+      "text": "You can send out more emails."
+    },
+    {
+      "start": 1328.12,
+      "end": 1330.3,
+      "text": "You can retarget people who open up emails."
+    },
+    {
+      "start": 1330.62,
+      "end": 1333.1,
+      "text": "You don't have as big of a 3PL headache as you used to have."
+    },
+    {
+      "start": 1333.14,
+      "end": 1335.18,
+      "text": "You don't have as big of a customer service headache either."
+    },
+    {
+      "start": 1335.38,
+      "end": 1337.12,
+      "text": "Because like, you know, we would like a native,"
+    },
+    {
+      "start": 1337.12,
+      "end": 1341.08,
+      "text": "we'd open up our customer service inbox and we'd have 3,000 emails on Black Friday."
+    },
+    {
+      "start": 1341.26,
+      "end": 1344.18,
+      "text": "And we're like, how are we going to, we have to delay this by 48 hours"
+    },
+    {
+      "start": 1344.18,
+      "end": 1347.06,
+      "text": "because we can't ship orders because you're going to have to change an address"
+    },
+    {
+      "start": 1347.06,
+      "end": 1348.44,
+      "text": "or a cent or something to that effect."
+    },
+    {
+      "start": 1348.46,
+      "end": 1350.42,
+      "text": "So I'm in favor of it starting early as well."
+    },
+    {
+      "start": 1351.06,
+      "end": 1353.26,
+      "text": "I'd love to go over the North B numbers you got,"
+    },
+    {
+      "start": 1353.44,
+      "end": 1355.36,
+      "text": "but just one second before I do that."
+    },
+    {
+      "start": 1355.76,
+      "end": 1359.04,
+      "text": "You know, the CEO of Ship Hero, he came to one of my e-commerce brunches."
+    },
+    {
+      "start": 1359.12,
+      "end": 1360.3,
+      "text": "I follow him on Twitter and he's like,"
+    },
+    {
+      "start": 1360.82,
+      "end": 1364.76,
+      "text": "three and a half percent of Black Friday orders on Shopify ship out through Ship Hero,"
+    },
+    {
+      "start": 1365.16,
+      "end": 1366.04,
+      "text": "which is insane."
+    },
+    {
+      "start": 1366.22,
+      "end": 1366.96,
+      "text": "That is a lot."
+    },
+    {
+      "start": 1367.6,
+      "end": 1368.1,
+      "text": "That's crazy."
+    },
+    {
+      "start": 1368.7,
+      "end": 1372.5,
+      "text": "I wonder what percentage ship out through Shopify fulfillment network."
+    },
+    {
+      "start": 1372.7,
+      "end": 1374.12,
+      "text": "I would guess a lot less."
+    },
+    {
+      "start": 1374.84,
+      "end": 1377.56,
+      "text": "Yeah, maybe 0.3%."
+    },
+    {
+      "start": 1377.56,
+      "end": 1378.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 1378.5,
+      "end": 1378.9,
+      "text": "0.1%."
+    },
+    {
+      "start": 1378.9,
+      "end": 1379.78,
+      "text": "I guess it's a lot less too."
+    },
+    {
+      "start": 1380.84,
+      "end": 1381.02,
+      "text": "Okay."
+    },
+    {
+      "start": 1381.1,
+      "end": 1382.38,
+      "text": "Should we go over the Black Friday,"
+    },
+    {
+      "start": 1382.86,
+      "end": 1384.98,
+      "text": "I'm sorry, the North B numbers that you got here?"
+    },
+    {
+      "start": 1385.66,
+      "end": 1386.18,
+      "text": "All right."
+    },
+    {
+      "start": 1386.3,
+      "end": 1387.28,
+      "text": "So I'm going to read,"
+    },
+    {
+      "start": 1387.46,
+      "end": 1389.5,
+      "text": "these are week over week numbers."
+    },
+    {
+      "start": 1389.5,
+      "end": 1396.68,
+      "text": "So week of November 21st versus week of November 14th using a one day click attribution model."
+    },
+    {
+      "start": 1397.2,
+      "end": 1401.12,
+      "text": "I'm going to read basically a bunch of categories of shopping."
+    },
+    {
+      "start": 1401.62,
+      "end": 1406.48,
+      "text": "And then I'll tell you the week over week spend increase and the week over week revenue increase."
+    },
+    {
+      "start": 1406.94,
+      "end": 1410.48,
+      "text": "And this is actually pretty consistent with what I was seeing as well."
+    },
+    {
+      "start": 1410.48,
+      "end": 1412.88,
+      "text": "So first category is shoes."
+    },
+    {
+      "start": 1413.34,
+      "end": 1417.78,
+      "text": "Shoes was only up in spend about half a percent week over week."
+    },
+    {
+      "start": 1417.9,
+      "end": 1422.72,
+      "text": "However, revenue was up almost 62%, which isn't that surprising."
+    },
+    {
+      "start": 1422.72,
+      "end": 1425.88,
+      "text": "And I wish I had gotten year over year data here."
+    },
+    {
+      "start": 1426.1,
+      "end": 1430.36,
+      "text": "But I think for shoes, a lot of shoe companies were starting their sales early."
+    },
+    {
+      "start": 1430.6,
+      "end": 1434.46,
+      "text": "So I'm going to take the spend increase with a grain of salt."
+    },
+    {
+      "start": 1435.2,
+      "end": 1442.78,
+      "text": "Home goods was up 52% and their revenue was up 52%, which feels kind of low to be honest."
+    },
+    {
+      "start": 1442.96,
+      "end": 1447.68,
+      "text": "I would have thought that home goods would be up much higher in revenue than it would be over spend,"
+    },
+    {
+      "start": 1447.68,
+      "end": 1453.4,
+      "text": "just given some of the stuff that we saw selling mattresses and cookware and things of that nature."
+    },
+    {
+      "start": 1453.62,
+      "end": 1455.68,
+      "text": "We were having some pretty efficient sales there."
+    },
+    {
+      "start": 1457.5,
+      "end": 1459.2,
+      "text": "Furniture spend is up 26%."
+    },
+    {
+      "start": 1459.2,
+      "end": 1460.66,
+      "text": "Revenue is up 40%."
+    },
+    {
+      "start": 1461.54,
+      "end": 1462.84,
+      "text": "Very similar to the home goods."
+    },
+    {
+      "start": 1463.58,
+      "end": 1465.9,
+      "text": "These are basically brands that they..."
+    },
+    {
+      "start": 1465.9,
+      "end": 1466.52,
+      "text": "Gotcha."
+    },
+    {
+      "start": 1466.7,
+      "end": 1467.8,
+      "text": "Okay, these are individual brands."
+    },
+    {
+      "start": 1467.88,
+      "end": 1468.26,
+      "text": "Brands that they took."
+    },
+    {
+      "start": 1468.28,
+      "end": 1468.78,
+      "text": "Okay, gotcha."
+    },
+    {
+      "start": 1468.88,
+      "end": 1469.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 1469.28,
+      "end": 1470.12,
+      "text": "And they just..."
+    },
+    {
+      "start": 1470.12,
+      "end": 1471.24,
+      "text": "Yeah, so I read that wrong."
+    },
+    {
+      "start": 1471.34,
+      "end": 1472.08,
+      "text": "It's not the categories."
+    },
+    {
+      "start": 1472.24,
+      "end": 1473.36,
+      "text": "It's individual brands."
+    },
+    {
+      "start": 1473.52,
+      "end": 1475,
+      "text": "And then they just basically take the name out."
+    },
+    {
+      "start": 1476.1,
+      "end": 1476.38,
+      "text": "Okay, gotcha."
+    },
+    {
+      "start": 1476.38,
+      "end": 1481.38,
+      "text": "Electronics accessory brand up 50% in spend and up 62% in revenue."
+    },
+    {
+      "start": 1481.86,
+      "end": 1484.24,
+      "text": "The 50% increase in spend is..."
+    },
+    {
+      "start": 1484.24,
+      "end": 1487.82,
+      "text": "That means they spent 50% more on ads and generated 62% more revenue?"
+    },
+    {
+      "start": 1488.36,
+      "end": 1488.88,
+      "text": "Correct."
+    },
+    {
+      "start": 1489.2,
+      "end": 1490.98,
+      "text": "That does not sound good, by the way."
+    },
+    {
+      "start": 1491.18,
+      "end": 1493.88,
+      "text": "Like, you know, Black Friday, you know, that sounds terrible."
+    },
+    {
+      "start": 1494.34,
+      "end": 1496.84,
+      "text": "Yeah, some of these don't actually sound that good at all."
+    },
+    {
+      "start": 1497.56,
+      "end": 1497.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 1497.7,
+      "end": 1500.32,
+      "text": "A food condiment brand surprised me the most."
+    },
+    {
+      "start": 1500.32,
+      "end": 1508.92,
+      "text": "Almost a 92% increase and 100% revenue increase, which is not that surprising to me."
+    },
+    {
+      "start": 1509.24,
+      "end": 1514.06,
+      "text": "Generally, I found that on Black Friday, food and supplements are two really hard categories"
+    },
+    {
+      "start": 1514.06,
+      "end": 1516.82,
+      "text": "to sell, especially if it's a healthy food."
+    },
+    {
+      "start": 1517,
+      "end": 1519.32,
+      "text": "No one's thinking about healthy food on Black Friday."
+    },
+    {
+      "start": 1519.32,
+      "end": 1521.38,
+      "text": "And no one's thinking about healthy food in Q4."
+    },
+    {
+      "start": 1521.92,
+      "end": 1527.02,
+      "text": "And everybody in supplements always tells me that, you know, you got to wait till January 1st."
+    },
+    {
+      "start": 1527.08,
+      "end": 1528.38,
+      "text": "That's the real Black Friday."
+    },
+    {
+      "start": 1528.48,
+      "end": 1528.78,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 1528.9,
+      "end": 1529.5,
+      "text": "New year, new year."
+    },
+    {
+      "start": 1529.5,
+      "end": 1530.16,
+      "text": "For healthy food."
+    },
+    {
+      "start": 1530.32,
+      "end": 1530.62,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 1530.68,
+      "end": 1531.04,
+      "text": "Exactly."
+    },
+    {
+      "start": 1531.4,
+      "end": 1531.82,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 1531.86,
+      "end": 1532.64,
+      "text": "Never gets old."
+    },
+    {
+      "start": 1533.98,
+      "end": 1536.84,
+      "text": "Cookware brand here did extremely well."
+    },
+    {
+      "start": 1542.84,
+      "end": 1550,
+      "text": "Another cookware brand up 48% in spend and up 111% in revenue."
+    },
+    {
+      "start": 1550.26,
+      "end": 1556.96,
+      "text": "I'll tell you the difference between the one that did 165% and the one that did 111% is"
+    },
+    {
+      "start": 1556.96,
+      "end": 1561,
+      "text": "the 165% cookware brand, I believe, is actually a Sharma client."
+    },
+    {
+      "start": 1561.54,
+      "end": 1565.1,
+      "text": "So not saying there's any coincidence there, but there might be."
+    },
+    {
+      "start": 1565.1,
+      "end": 1573.66,
+      "text": "Then we have two apparel brands, both spent an increase of about 20% more week over week."
+    },
+    {
+      "start": 1573.84,
+      "end": 1576.76,
+      "text": "One saw a revenue increase of 235%."
+    },
+    {
+      "start": 1576.76,
+      "end": 1579.14,
+      "text": "The other saw an increase of 117%."
+    },
+    {
+      "start": 1579.14,
+      "end": 1585.18,
+      "text": "We actually have a huge apparel client that we work with that had a really successful Black"
+    },
+    {
+      "start": 1585.18,
+      "end": 1589.1,
+      "text": "Friday, I think over 12 or 13 million in revenue."
+    },
+    {
+      "start": 1589.1,
+      "end": 1596.78,
+      "text": "But the interesting thing about apparel was apparel is like a lot more of a commodity type"
+    },
+    {
+      "start": 1596.78,
+      "end": 1603.86,
+      "text": "of product in these big sales than something like cookware or furniture, even like electronics,"
+    },
+    {
+      "start": 1604.08,
+      "end": 1604.24,
+      "text": "right?"
+    },
+    {
+      "start": 1604.46,
+      "end": 1609,
+      "text": "It's basically like you're buying shirts, jeans, you're kind of buying this category of product."
+    },
+    {
+      "start": 1609.24,
+      "end": 1615,
+      "text": "And with apparel, we saw that the competitors to our clients started running their Black Friday"
+    },
+    {
+      "start": 1615,
+      "end": 1617.74,
+      "text": "significantly earlier at a much higher discount."
+    },
+    {
+      "start": 1618.04,
+      "end": 1623.86,
+      "text": "And what happened was they basically led the category on Black Friday simply because"
+    },
+    {
+      "start": 1623.86,
+      "end": 1629.42,
+      "text": "their jeans were cheaper than, you know, brand A's jeans were cheaper than brand B, C, and D."
+    },
+    {
+      "start": 1629.74,
+      "end": 1635.18,
+      "text": "And people didn't necessarily care about the brand as much as just the fact that, oh, I can get a"
+    },
+    {
+      "start": 1635.18,
+      "end": 1637.84,
+      "text": "better discount on my jeans if I go with brand A."
+    },
+    {
+      "start": 1637.84,
+      "end": 1640.92,
+      "text": "And so we saw a huge drop in conversion rate."
+    },
+    {
+      "start": 1641.06,
+      "end": 1645.54,
+      "text": "And then you couple that with what a lot of brands do, which is a lot of apparel brands"
+    },
+    {
+      "start": 1645.54,
+      "end": 1651.12,
+      "text": "do, which is like they focus a little bit too much on design and aesthetics and brand versus,"
+    },
+    {
+      "start": 1651.54,
+      "end": 1654.42,
+      "text": "you know, let's focus on conversion rate and performance marketing."
+    },
+    {
+      "start": 1654.9,
+      "end": 1657.28,
+      "text": "You know, apparel was definitely a tough one this year."
+    },
+    {
+      "start": 1657.74,
+      "end": 1663.42,
+      "text": "Swimwear brand up 22% in spend and up 55% in revenue."
+    },
+    {
+      "start": 1663.42,
+      "end": 1671.58,
+      "text": "And then the last one here is a coffee brand that was up 54% in spend and up 214% in revenue,"
+    },
+    {
+      "start": 1671.7,
+      "end": 1672.26,
+      "text": "which is awesome."
+    },
+    {
+      "start": 1672.7,
+      "end": 1673.44,
+      "text": "That's awesome."
+    },
+    {
+      "start": 1673.68,
+      "end": 1677.2,
+      "text": "So overall, it looks like it was a pretty, pretty solid Black Friday."
+    },
+    {
+      "start": 1677.34,
+      "end": 1681.24,
+      "text": "It seems like food, beverage, and supplements."
+    },
+    {
+      "start": 1681.54,
+      "end": 1685.02,
+      "text": "I was looking into a few of those Shopify stores that I have access to."
+    },
+    {
+      "start": 1685.52,
+      "end": 1690.36,
+      "text": "They definitely had a harder time, but I'm hopeful that if we take the learnings from other"
+    },
+    {
+      "start": 1690.36,
+      "end": 1695.08,
+      "text": "brands and apply it to New Year's for these brands, that they'll have a killer New Year's"
+    },
+    {
+      "start": 1695.08,
+      "end": 1695.88,
+      "text": "kind of Black Friday."
+    },
+    {
+      "start": 1696.94,
+      "end": 1699.4,
+      "text": "Growing your direct consumer business can be tough."
+    },
+    {
+      "start": 1699.7,
+      "end": 1702.78,
+      "text": "Having out of date or inaccurate data makes it even harder."
+    },
+    {
+      "start": 1703,
+      "end": 1704.54,
+      "text": "That's why I'm using Triple Whale."
+    },
+    {
+      "start": 1704.8,
+      "end": 1709.62,
+      "text": "Their customer insights, attribution, and profit tracking means I can scale my Shopify stores"
+    },
+    {
+      "start": 1709.62,
+      "end": 1710.12,
+      "text": "to the moon."
+    },
+    {
+      "start": 1710.5,
+      "end": 1713.78,
+      "text": "Get a walkthrough on how Triple Whale can help you scale your store."
+    },
+    {
+      "start": 1714.06,
+      "end": 1719.22,
+      "text": "Use promo code SUPPLY15 to get 15% off when you sign up at triplewhale.com."
+    },
+    {
+      "start": 1719.22,
+      "end": 1722.08,
+      "text": "Or you can DM me on Twitter and I'm going to fight for 20% off."
+    },
+    {
+      "start": 1723.14,
+      "end": 1724.32,
+      "text": "I'd love to do two things."
+    },
+    {
+      "start": 1724.46,
+      "end": 1728.88,
+      "text": "One, I'd love to talk about some best practices that we saw or things that we've learned during"
+    },
+    {
+      "start": 1728.88,
+      "end": 1729.5,
+      "text": "Black Friday."
+    },
+    {
+      "start": 1729.98,
+      "end": 1731.52,
+      "text": "And then two, I'd love to discuss..."
+    },
+    {
+      "start": 1731.52,
+      "end": 1734.36,
+      "text": "I got a little bit more data from Triple Whale about the quarter."
+    },
+    {
+      "start": 1734.7,
+      "end": 1739.78,
+      "text": "And then maybe we can talk a little bit about Black Friday is over, but it slows down before"
+    },
+    {
+      "start": 1739.78,
+      "end": 1740.46,
+      "text": "you get to Christmas."
+    },
+    {
+      "start": 1740.78,
+      "end": 1744.52,
+      "text": "But it starts picking back up for a lot of brands when it comes to January 1st."
+    },
+    {
+      "start": 1744.88,
+      "end": 1747.32,
+      "text": "And so I'd love to discuss things that people could do."
+    },
+    {
+      "start": 1747.44,
+      "end": 1751.24,
+      "text": "And probably it's just the best practices that I'd love to go through."
+    },
+    {
+      "start": 1751.76,
+      "end": 1752.88,
+      "text": "So let's start there."
+    },
+    {
+      "start": 1753.1,
+      "end": 1757.62,
+      "text": "One is there were a lot of people on Twitter shitting on people who are discounting, which"
+    },
+    {
+      "start": 1757.62,
+      "end": 1758.98,
+      "text": "I think is absolutely ridiculous."
+    },
+    {
+      "start": 1759.74,
+      "end": 1761.88,
+      "text": "Everyone expects discounts on Black Friday."
+    },
+    {
+      "start": 1762.5,
+      "end": 1766.08,
+      "text": "And if you're discounting on Black Friday, it is not harming your brand."
+    },
+    {
+      "start": 1766.26,
+      "end": 1769.06,
+      "text": "If you're discounting 90%, yeah, it can harm your brand."
+    },
+    {
+      "start": 1769.16,
+      "end": 1771.1,
+      "text": "If you're discounting 60%, it can harm your brand."
+    },
+    {
+      "start": 1771.1,
+      "end": 1775.72,
+      "text": "If you're offering a 20% off sale on Black Friday, welcome to the club, buddy."
+    },
+    {
+      "start": 1775.96,
+      "end": 1776.8,
+      "text": "Everyone is doing it."
+    },
+    {
+      "start": 1776.9,
+      "end": 1777.94,
+      "text": "Don't feel bad about it."
+    },
+    {
+      "start": 1778.22,
+      "end": 1781.58,
+      "text": "This guy on Twitter was like, oh, your brand is shit if you're discounting on Black Friday."
+    },
+    {
+      "start": 1781.72,
+      "end": 1783.28,
+      "text": "I was like, okay, I guess Apple is dead then."
+    },
+    {
+      "start": 1783.64,
+      "end": 1785.74,
+      "text": "Apple is offering discounts on Black Friday."
+    },
+    {
+      "start": 1785.84,
+      "end": 1787.62,
+      "text": "And usually they only offer them on Friday."
+    },
+    {
+      "start": 1788.02,
+      "end": 1792.12,
+      "text": "This is the first year I ever saw Apple offer discounts from Friday through Monday."
+    },
+    {
+      "start": 1792.28,
+      "end": 1794.02,
+      "text": "So they offered it all weekend long."
+    },
+    {
+      "start": 1794.18,
+      "end": 1797.52,
+      "text": "And it's not like Apple has a hard time getting people to buy iPhones."
+    },
+    {
+      "start": 1797.52,
+      "end": 1801.16,
+      "text": "They're still offering discounts because that's what you should expect."
+    },
+    {
+      "start": 1801.34,
+      "end": 1802.54,
+      "text": "And that's what everyone wants."
+    },
+    {
+      "start": 1802.9,
+      "end": 1805.34,
+      "text": "And everyone loves to go shopping."
+    },
+    {
+      "start": 1805.42,
+      "end": 1810.62,
+      "text": "And you're encouraging that behavior and participating in American culture, honestly, by discounting."
+    },
+    {
+      "start": 1811.26,
+      "end": 1814.54,
+      "text": "Kevin from Emmy, I'm an investor at Emmy, so let me get that out of the way."
+    },
+    {
+      "start": 1814.64,
+      "end": 1816.94,
+      "text": "But he put this thing on Twitter where he's like, we didn't discount."
+    },
+    {
+      "start": 1817.08,
+      "end": 1820.02,
+      "text": "And that was a big mistake because this is exactly what people expect."
+    },
+    {
+      "start": 1820.42,
+      "end": 1821.8,
+      "text": "It doesn't tarnish your brand."
+    },
+    {
+      "start": 1821.8,
+      "end": 1825.64,
+      "text": "And it's just participating in the, you know, like it's like Christmas carol."
+    },
+    {
+      "start": 1825.68,
+      "end": 1827.74,
+      "text": "Like you participate or you can be Scrooge."
+    },
+    {
+      "start": 1828.08,
+      "end": 1829.2,
+      "text": "You know, participate."
+    },
+    {
+      "start": 1829.46,
+      "end": 1829.84,
+      "text": "It's great."
+    },
+    {
+      "start": 1830.32,
+      "end": 1834.46,
+      "text": "And so I think the people who are shitting on other people for discounting are completely wrong."
+    },
+    {
+      "start": 1834.92,
+      "end": 1839.92,
+      "text": "And so I think one is best practice for Black Friday is to offer discounts."
+    },
+    {
+      "start": 1840.76,
+      "end": 1845.42,
+      "text": "Two I wanted to talk about was just like how we like, you know, how people do this."
+    },
+    {
+      "start": 1845.66,
+      "end": 1847.92,
+      "text": "You know, obviously you're sending out emails and text messages."
+    },
+    {
+      "start": 1847.92,
+      "end": 1854.02,
+      "text": "Nick, I think one thing that you mentioned earlier, which was you should retarget people who open up emails and then don't make a purchase."
+    },
+    {
+      "start": 1854.18,
+      "end": 1855.16,
+      "text": "I think that's a great idea."
+    },
+    {
+      "start": 1855.56,
+      "end": 1861.5,
+      "text": "So a bunch of my brands, what I advise them to do is if you send out an email on a Tuesday, don't retarget starting Tuesday."
+    },
+    {
+      "start": 1861.7,
+      "end": 1863.14,
+      "text": "Don't even retarget starting Wednesday."
+    },
+    {
+      "start": 1863.36,
+      "end": 1868.9,
+      "text": "Give them that 36-hour period between when you sent the email and the end of Wednesday to make that purchase."
+    },
+    {
+      "start": 1869.08,
+      "end": 1872.74,
+      "text": "But by Wednesday, if they have not made that purchase, start retargeting them on Thursday."
+    },
+    {
+      "start": 1873.06,
+      "end": 1875.68,
+      "text": "And then like, you know, do it for three days and the email."
+    },
+    {
+      "start": 1875.86,
+      "end": 1877.16,
+      "text": "And then you're going to start another one anyway."
+    },
+    {
+      "start": 1877.16,
+      "end": 1878.96,
+      "text": "You're sending out another email to Black Friday."
+    },
+    {
+      "start": 1879.3,
+      "end": 1881.04,
+      "text": "You know, I know you're sending everyone sending out a ton."
+    },
+    {
+      "start": 1881.4,
+      "end": 1882.36,
+      "text": "Do the same thing with that email."
+    },
+    {
+      "start": 1882.44,
+      "end": 1886.9,
+      "text": "So if you start the week before Black Friday, let's say you start the Tuesday before the week of Black Friday."
+    },
+    {
+      "start": 1887.12,
+      "end": 1888.48,
+      "text": "You know, send out that email Tuesday."
+    },
+    {
+      "start": 1888.72,
+      "end": 1890.6,
+      "text": "Start out Thursday, the week before Thanksgiving."
+    },
+    {
+      "start": 1890.94,
+      "end": 1891.84,
+      "text": "Go through Sunday."
+    },
+    {
+      "start": 1892.02,
+      "end": 1893.48,
+      "text": "You're going to send out another email then."
+    },
+    {
+      "start": 1893.74,
+      "end": 1897.52,
+      "text": "Then do the same thing and start retargeting people who've opened up emails but not made purchases."
+    },
+    {
+      "start": 1897.94,
+      "end": 1900.16,
+      "text": "Those are cheap tax and will get people to purchase."
+    },
+    {
+      "start": 1900.46,
+      "end": 1903.74,
+      "text": "And even from a last-click attribution perspective, it's super powerful."
+    },
+    {
+      "start": 1904.46,
+      "end": 1905.94,
+      "text": "A couple other things I want to go over."
+    },
+    {
+      "start": 1907.14,
+      "end": 1909.26,
+      "text": "Like, I tested this a while ago."
+    },
+    {
+      "start": 1909.62,
+      "end": 1913.06,
+      "text": "And like, you know, for a long time, I didn't use recipient's time zone."
+    },
+    {
+      "start": 1913.2,
+      "end": 1915.1,
+      "text": "And I think this is a big failing inside Klaviyo."
+    },
+    {
+      "start": 1915.26,
+      "end": 1923.98,
+      "text": "If you want to send something, like in Klaviyo, if you want to determine the recipients when you're sending an email, you cannot also schedule it for the recipient's time zone."
+    },
+    {
+      "start": 1923.98,
+      "end": 1928.72,
+      "text": "So you can't be like, okay, I want to send this email at 9 a.m. in the recipient's time zone."
+    },
+    {
+      "start": 1929.08,
+      "end": 1932.98,
+      "text": "Decide who the recipients will be, you know, at 9 a.m. Eastern or something like that."
+    },
+    {
+      "start": 1933.06,
+      "end": 1934.04,
+      "text": "No, you can't do that."
+    },
+    {
+      "start": 1934.16,
+      "end": 1936.46,
+      "text": "And I think that's a big failing inside Klaviyo."
+    },
+    {
+      "start": 1936.56,
+      "end": 1937.6,
+      "text": "And I wish they would fix that."
+    },
+    {
+      "start": 1937.6,
+      "end": 1944,
+      "text": "But I think it's better to send things at an optimal send time that Klaviyo allows or, you know, decent time for the recipient."
+    },
+    {
+      "start": 1944.36,
+      "end": 1946.58,
+      "text": "Don't just send everything at 7 a.m. Eastern."
+    },
+    {
+      "start": 1946.88,
+      "end": 1950.38,
+      "text": "The people on the West Coast are going to get buried in emails on Black Friday."
+    },
+    {
+      "start": 1950.38,
+      "end": 1958.98,
+      "text": "So try and get to the time where they would wake up and look at emails, not necessarily like, you know, 7 a.m. Eastern, send it out to everyone on your list."
+    },
+    {
+      "start": 1959.36,
+      "end": 1961.06,
+      "text": "You should do it based on people's time zone."
+    },
+    {
+      "start": 1961.56,
+      "end": 1962.58,
+      "text": "Yeah, I couldn't agree more."
+    },
+    {
+      "start": 1962.74,
+      "end": 1965.94,
+      "text": "On that note, Klaviyo does collect, I believe, IP address."
+    },
+    {
+      "start": 1966.12,
+      "end": 1975.36,
+      "text": "So it actually would be super easy for them to help segment that and get a pretty good idea, at least for, you know, whenever somebody signed up, what the time is there in their time zone."
+    },
+    {
+      "start": 1975.48,
+      "end": 1976.42,
+      "text": "But I couldn't agree more."
+    },
+    {
+      "start": 1976.42,
+      "end": 1998.64,
+      "text": "I don't know if there's any truth to this, but I've always just thought that when you schedule emails or schedule Facebook posts, Instagram posts, anything that you schedule, if you schedule it right at a time, like a 7 a.m. on the dot or something that's fairly generic on the dot, I have this feeling that, well, one, you just get buried because everybody does that."
+    },
+    {
+      "start": 1998.64,
+      "end": 2000.66,
+      "text": "So like you stand no chance."
+    },
+    {
+      "start": 2000.84,
+      "end": 2007.02,
+      "text": "But the second one is, I think the platforms kind of realize also like, oh, okay, this is just kind of generic."
+    },
+    {
+      "start": 2007.22,
+      "end": 2009.02,
+      "text": "So I always try to do something off."
+    },
+    {
+      "start": 2009.18,
+      "end": 2014.14,
+      "text": "Like if I was trying to hit 7, I would hit like 7.03 or 7.07 a.m. instead."
+    },
+    {
+      "start": 2014.72,
+      "end": 2018.4,
+      "text": "But the other thing I always think about is basically PST and EST."
+    },
+    {
+      "start": 2018.74,
+      "end": 2020.24,
+      "text": "What are people doing at that time?"
+    },
+    {
+      "start": 2020.24,
+      "end": 2027.32,
+      "text": "So if you're sending at 7 a.m. EST, there is no shot people in the West Coast are going to get that because by the time they wake up, it's buried."
+    },
+    {
+      "start": 2027.86,
+      "end": 2038.62,
+      "text": "And I've also found that for Cyber Week, which is this week, so people sending emails this week, majority of the sales come after 4 or 5 p.m. Eastern because people are getting off work."
+    },
+    {
+      "start": 2038.62,
+      "end": 2040.52,
+      "text": "And then that's when they're going home and checking emails."
+    },
+    {
+      "start": 2040.76,
+      "end": 2051.16,
+      "text": "And so I actually think that basically just figuring out what are your people doing when you're sending the email is overlooked and something that people should think about more when they send an email."
+    },
+    {
+      "start": 2051.28,
+      "end": 2059.18,
+      "text": "It's the same reason why when I send my newsletter, I send it on a Sunday because I know nobody's getting blasted with emails on a Sunday."
+    },
+    {
+      "start": 2059.26,
+      "end": 2063.56,
+      "text": "And I send it at 7.15 p.m. because I know on the East Coast, people are just literally chilling."
+    },
+    {
+      "start": 2063.86,
+      "end": 2067.08,
+      "text": "And on the West Coast at 4 in the afternoon, people are also just chilling."
+    },
+    {
+      "start": 2067.08,
+      "end": 2071.06,
+      "text": "So that's a great point and completely understand why you'd send it Sunday at that time."
+    },
+    {
+      "start": 2071.54,
+      "end": 2078.16,
+      "text": "I think if you're sending a Cyber Monday email, which is today, and you're sending it at 7 in the morning across the country, it's crazy."
+    },
+    {
+      "start": 2078.42,
+      "end": 2081.72,
+      "text": "I get the Klaviyo issue why they can't determine the recipient's time zone."
+    },
+    {
+      "start": 2082.26,
+      "end": 2086.52,
+      "text": "You can't say, OK, determine the recipients at the time of sending and do it at 9 a.m."
+    },
+    {
+      "start": 2086.54,
+      "end": 2090.78,
+      "text": "Because you're like, well, what if this person purchased at 10 a.m.?"
+    },
+    {
+      "start": 2090.78,
+      "end": 2091.86,
+      "text": "Which time zone are they in?"
+    },
+    {
+      "start": 2091.92,
+      "end": 2095.58,
+      "text": "I get the complexity here, but they should figure out a way to do this."
+    },
+    {
+      "start": 2095.58,
+      "end": 2101.8,
+      "text": "At least they determine the recipients at 7 a.m. Eastern time or whatever it is and then send out that email."
+    },
+    {
+      "start": 2101.92,
+      "end": 2103.6,
+      "text": "So I think that is a failing on Klaviyo's part."
+    },
+    {
+      "start": 2103.76,
+      "end": 2105.18,
+      "text": "But yeah, you're absolutely right."
+    },
+    {
+      "start": 2105.28,
+      "end": 2108.78,
+      "text": "Think about what your customer is doing or the recipient of that email is doing."
+    },
+    {
+      "start": 2108.96,
+      "end": 2115.54,
+      "text": "Try not to let them get buried and try to send it at a time where they'd be looking at email and be in a position to make a purchase."
+    },
+    {
+      "start": 2116.2,
+      "end": 2118.72,
+      "text": "I think a few other things I want to offer here."
+    },
+    {
+      "start": 2118.9,
+      "end": 2120.68,
+      "text": "One is how you're discounting."
+    },
+    {
+      "start": 2120.82,
+      "end": 2123.8,
+      "text": "I think a great thing that people are doing is gift cards."
+    },
+    {
+      "start": 2124.2,
+      "end": 2128.36,
+      "text": "Buy $100 and get a $20 gift card that you can use in December."
+    },
+    {
+      "start": 2128.92,
+      "end": 2132.18,
+      "text": "One, you're encouraging sales in December or January or whatever you want."
+    },
+    {
+      "start": 2132.3,
+      "end": 2133.96,
+      "text": "So you're pushing sales into the future."
+    },
+    {
+      "start": 2134.78,
+      "end": 2138.02,
+      "text": "Two is you're getting cash up front because that gift card doesn't cost you anything today."
+    },
+    {
+      "start": 2138.18,
+      "end": 2139.46,
+      "text": "It's a future liability."
+    },
+    {
+      "start": 2139.68,
+      "end": 2141.02,
+      "text": "You've got cash up front."
+    },
+    {
+      "start": 2141.02,
+      "end": 2146.54,
+      "text": "And three, a bunch of those gift cards will never get redeemed so you can claim a bunch of profit on it right out of the gate."
+    },
+    {
+      "start": 2146.96,
+      "end": 2153.44,
+      "text": "Like Starbucks says that for every $100 in gift cards that they sell, something like $0.10 or so is never redeemed."
+    },
+    {
+      "start": 2153.76,
+      "end": 2160.02,
+      "text": "So if they sell you a $10 gift card, immediately they know that on average $1 of that gift card will get thrown in the garbage."
+    },
+    {
+      "start": 2160.14,
+      "end": 2163.5,
+      "text": "Because you'll purchase two coffees and you're like, well, I got $0.75 here."
+    },
+    {
+      "start": 2163.62,
+      "end": 2164.16,
+      "text": "Let me throw it away."
+    },
+    {
+      "start": 2164.24,
+      "end": 2165.06,
+      "text": "Or $1.25."
+    },
+    {
+      "start": 2165.06,
+      "end": 2166.2,
+      "text": "You're like, let me throw it away."
+    },
+    {
+      "start": 2166.44,
+      "end": 2169.14,
+      "text": "And so they know that $1 will never get used."
+    },
+    {
+      "start": 2169.14,
+      "end": 2171,
+      "text": "And they get to claim that as profit."
+    },
+    {
+      "start": 2171.28,
+      "end": 2173.42,
+      "text": "So that's what people get to do with gift cards."
+    },
+    {
+      "start": 2173.56,
+      "end": 2174.32,
+      "text": "It's really amazing."
+    },
+    {
+      "start": 2175.14,
+      "end": 2180.2,
+      "text": "On a side note, Nick, once I saw this Twitter thread, this guy was talking about K Jewelers."
+    },
+    {
+      "start": 2180.46,
+      "end": 2181.42,
+      "text": "Do you know K Jewelers?"
+    },
+    {
+      "start": 2181.5,
+      "end": 2182.54,
+      "text": "They sell like diamond rings."
+    },
+    {
+      "start": 2182.88,
+      "end": 2185.5,
+      "text": "And he's like, I realized I was investing in K Jewelers."
+    },
+    {
+      "start": 2185.52,
+      "end": 2189.48,
+      "text": "He's like, I realized back in 2005, the K Jewelers was not in the jewelry business."
+    },
+    {
+      "start": 2189.72,
+      "end": 2191.4,
+      "text": "It was in the insurance business."
+    },
+    {
+      "start": 2191.4,
+      "end": 2194.96,
+      "text": "Basically, K Jewelers was selling diamond rings for $4,000."
+    },
+    {
+      "start": 2195.5,
+      "end": 2199.56,
+      "text": "And every guy would take the warranty insurance because they're like, I'm buying my engagement ring."
+    },
+    {
+      "start": 2199.68,
+      "end": 2200.74,
+      "text": "I want to make sure it doesn't get lost."
+    },
+    {
+      "start": 2200.98,
+      "end": 2202.96,
+      "text": "And the warranty insurance would be $200."
+    },
+    {
+      "start": 2203.54,
+      "end": 2206.1,
+      "text": "And the diamonds that were making money, but not a great margin."
+    },
+    {
+      "start": 2206.24,
+      "end": 2209.08,
+      "text": "The $200 separate warranty was pure profit."
+    },
+    {
+      "start": 2209.08,
+      "end": 2211.18,
+      "text": "And it was never claimed because it's a diamond."
+    },
+    {
+      "start": 2211.36,
+      "end": 2212.04,
+      "text": "It can't go bad."
+    },
+    {
+      "start": 2212.2,
+      "end": 2212.8,
+      "text": "It doesn't get lost."
+    },
+    {
+      "start": 2212.94,
+      "end": 2213.66,
+      "text": "I mean, that kind of stuff."
+    },
+    {
+      "start": 2214,
+      "end": 2219.34,
+      "text": "So he's like, no one understood that K Jewelers was actually in the warranty business and not in the diamond business."
+    },
+    {
+      "start": 2219.86,
+      "end": 2224.74,
+      "text": "And so he's like, they would sell these warranties and they wouldn't be able to claim technically based on accounting rules."
+    },
+    {
+      "start": 2225.06,
+      "end": 2226.78,
+      "text": "You can't claim the profit year one."
+    },
+    {
+      "start": 2226.98,
+      "end": 2231.2,
+      "text": "You have to spread that profit over multiple years, the $200 of warranty insurance."
+    },
+    {
+      "start": 2231.44,
+      "end": 2234.38,
+      "text": "So he's like, they were collecting a ton of cash and sitting on a ton of cash."
+    },
+    {
+      "start": 2234.48,
+      "end": 2236.16,
+      "text": "But they couldn't say that there was profit."
+    },
+    {
+      "start": 2236.16,
+      "end": 2240.88,
+      "text": "But they had to spread it out over multiple years because it's a warranty and they're insuring this product for a decade."
+    },
+    {
+      "start": 2241.3,
+      "end": 2246.38,
+      "text": "And so he's like, I realized that this was a warranty business and not a diamond business."
+    },
+    {
+      "start": 2246.52,
+      "end": 2250.4,
+      "text": "And so he basically invested a ton of money in K Jewelers and the financial crisis hit."
+    },
+    {
+      "start": 2250.46,
+      "end": 2251.04,
+      "text": "And he's like, fuck."
+    },
+    {
+      "start": 2251.2,
+      "end": 2256.9,
+      "text": "Even though I was right about my thesis and K Jewelers should have made money, the financial crisis hit and I got fucked."
+    },
+    {
+      "start": 2257.58,
+      "end": 2260.06,
+      "text": "I got a couple more notes on this stuff too."
+    },
+    {
+      "start": 2260.78,
+      "end": 2264.22,
+      "text": "So one of the brands that didn't discount was Jolie, the showerhead."
+    },
+    {
+      "start": 2264.86,
+      "end": 2271.32,
+      "text": "Ryan, who's the CEO, said that their revenue was up 117%, even with no discount."
+    },
+    {
+      "start": 2272.06,
+      "end": 2273.5,
+      "text": "They've never discounted before."
+    },
+    {
+      "start": 2273.66,
+      "end": 2274.82,
+      "text": "You don't get any kind of promo."
+    },
+    {
+      "start": 2275.1,
+      "end": 2277.08,
+      "text": "There's no card abandonment discount that they give."
+    },
+    {
+      "start": 2277.36,
+      "end": 2282.04,
+      "text": "And their model, again, is you buy the showerhead and you get a filter on subscription every quarter."
+    },
+    {
+      "start": 2282.28,
+      "end": 2288.02,
+      "text": "What was interesting though, even though revenue wasn't up a crazy amount, it was up 117%, which I guess is pretty good."
+    },
+    {
+      "start": 2288.02,
+      "end": 2293.56,
+      "text": "But what was interesting was CPA was down 47% for them on Black Friday."
+    },
+    {
+      "start": 2293.94,
+      "end": 2303.58,
+      "text": "So I think even brands that didn't go crazy on discounting, but were smart about how they were spending to drive that traffic, also did a good job."
+    },
+    {
+      "start": 2303.7,
+      "end": 2307.54,
+      "text": "I know Viore also had a similar thing where they didn't run a discount."
+    },
+    {
+      "start": 2307.54,
+      "end": 2313.7,
+      "text": "They give you a free hat when you reached an AOV threshold, which some people were upset about."
+    },
+    {
+      "start": 2313.92,
+      "end": 2321.68,
+      "text": "But the thing that they were saying was, you can't just keep increasing your discount every year because at some point it gets a little crazy."
+    },
+    {
+      "start": 2322.14,
+      "end": 2324.44,
+      "text": "Although I think some discount would have been fine."
+    },
+    {
+      "start": 2324.9,
+      "end": 2334.04,
+      "text": "Some other things that I saw that brands that did really well that they were doing, one was they basically played it, treated this like a content game."
+    },
+    {
+      "start": 2334.04,
+      "end": 2346.12,
+      "text": "So they realized that, all right, if our Black Friday period is, instead of just Black Friday and Cyber Monday, if it's actually a two-week promo, we need to be smart about putting out more content."
+    },
+    {
+      "start": 2346.38,
+      "end": 2353.02,
+      "text": "So the brands that did really well were doing really well with this in terms of they had a ton of ad creative they were running."
+    },
+    {
+      "start": 2353.02,
+      "end": 2367.74,
+      "text": "So they weren't just running like a handful of ads that went to a URL like nick.co slash email, and then that would change the redirect every day, which is what a lot of brands do because the idea is you get your ads out of the learning phase."
+    },
+    {
+      "start": 2368.14,
+      "end": 2372.82,
+      "text": "And you can rely on these ads being approved and you just change the redirect on the back end."
+    },
+    {
+      "start": 2373.02,
+      "end": 2380.1,
+      "text": "The brands that did well were actually putting tons of ads in and constantly turning them on and off after they were approved."
+    },
+    {
+      "start": 2380.1,
+      "end": 2383.02,
+      "text": "The other thing that they did was they were constantly launching."
+    },
+    {
+      "start": 2383.02,
+      "end": 2389,
+      "text": "So like almost every other day or every couple days, they would launch new bundles or new variations."
+    },
+    {
+      "start": 2389,
+      "end": 2396.26,
+      "text": "So they would take the same exact products they have and just like rename a bundle or create a new bundle or re-merchandise the homepage."
+    },
+    {
+      "start": 2396.26,
+      "end": 2404.88,
+      "text": "And on the site itself also make it exciting with, you know, pop-ups that say, you know, Black Friday special or header bars that say Black Friday special."
+    },
+    {
+      "start": 2405.04,
+      "end": 2410.7,
+      "text": "More so than just like explaining it on the ad or the email and then getting to the site and it's the same site as before."
+    },
+    {
+      "start": 2411.12,
+      "end": 2413.22,
+      "text": "So those were a couple things that I saw."
+    },
+    {
+      "start": 2413.4,
+      "end": 2423.98,
+      "text": "One last thing I'll say is the brands that did really well made sure to clearly explain how the purchase that you're about to make is not a stupid purchase."
+    },
+    {
+      "start": 2423.98,
+      "end": 2440.18,
+      "text": "Meaning like brands that, you know, if you were buying something for a couple hundred bucks or a few hundred bucks, they would literally show you exactly how it goes from being a product in the box to something where it's like now you see it in the ad that you clicked on that was so enticing."
+    },
+    {
+      "start": 2440.62,
+      "end": 2445.36,
+      "text": "And, you know, I think a lot of gifts or a lot of things that are bought on Black Friday also end up becoming gifts."
+    },
+    {
+      "start": 2445.56,
+      "end": 2456.32,
+      "text": "And so I think that helps a ton with conversion rate because the biggest thing that always stops people is, wait, am I about to buy something and make myself look stupid or look stupid in front of somebody else?"
+    },
+    {
+      "start": 2456.46,
+      "end": 2461.28,
+      "text": "And so the brands that explained that and really showed that visually also did really well."
+    },
+    {
+      "start": 2461.96,
+      "end": 2464.68,
+      "text": "That's first appreciate all that context."
+    },
+    {
+      "start": 2464.8,
+      "end": 2465.26,
+      "text": "That was great."
+    },
+    {
+      "start": 2465.62,
+      "end": 2467.52,
+      "text": "I'm surprised that Jolie didn't discount."
+    },
+    {
+      "start": 2467.82,
+      "end": 2468.38,
+      "text": "Blows my mind."
+    },
+    {
+      "start": 2468.38,
+      "end": 2472.12,
+      "text": "And Viore discounts, Viore says like 20% off first time purchasers."
+    },
+    {
+      "start": 2472.52,
+      "end": 2476.04,
+      "text": "So I think that's crazy that they didn't do like a percent off."
+    },
+    {
+      "start": 2476.2,
+      "end": 2477.68,
+      "text": "But like, you know, free gift counts."
+    },
+    {
+      "start": 2477.78,
+      "end": 2479.56,
+      "text": "I mean, a free hat isn't the best thing in the whole world."
+    },
+    {
+      "start": 2479.72,
+      "end": 2482.72,
+      "text": "But like free gifts definitely count as discounting in my opinion."
+    },
+    {
+      "start": 2483.08,
+      "end": 2484.56,
+      "text": "I think it's always a curious."
+    },
+    {
+      "start": 2485.12,
+      "end": 2486.9,
+      "text": "To be honest, I love free gifts as a discount."
+    },
+    {
+      "start": 2487.06,
+      "end": 2489.12,
+      "text": "Like the perceived value is so high."
+    },
+    {
+      "start": 2489.26,
+      "end": 2492.28,
+      "text": "You can be like, hey, this free hat from Viore is worth $30."
+    },
+    {
+      "start": 2492.7,
+      "end": 2495.98,
+      "text": "So we're giving you $30 on any purchase of $50 or more."
+    },
+    {
+      "start": 2495.98,
+      "end": 2499.52,
+      "text": "And in reality, the cost of that hat for Viore is $1.75."
+    },
+    {
+      "start": 2499.86,
+      "end": 2505.32,
+      "text": "So they're like, you know, this perceived value is, you know, 15 times the actual cost of the product."
+    },
+    {
+      "start": 2505.62,
+      "end": 2508.48,
+      "text": "So I think the free gifts is a great idea."
+    },
+    {
+      "start": 2508.48,
+      "end": 2510.98,
+      "text": "And it certainly helps you maintain AOV, right?"
+    },
+    {
+      "start": 2511.1,
+      "end": 2515.62,
+      "text": "Because you're not just giving 20% off the, you know, $100 purchase you already have."
+    },
+    {
+      "start": 2515.68,
+      "end": 2517.5,
+      "text": "And everyone went from $100 to $80."
+    },
+    {
+      "start": 2518.34,
+      "end": 2522.44,
+      "text": "But that transitions well into the next point I want to talk about, which is where you set that threshold."
+    },
+    {
+      "start": 2523.1,
+      "end": 2533,
+      "text": "You know, I think the brands that did really well, to borrow your phrase, are brands that set that threshold of larger discounts or free hats or whatever it was just above ordinary AOV."
+    },
+    {
+      "start": 2533.26,
+      "end": 2537.66,
+      "text": "Like if you set that discount really low, you're just everyone's just going to be using it."
+    },
+    {
+      "start": 2537.66,
+      "end": 2544.16,
+      "text": "And it's not going to like, you know, if you set it at $50 and your AOV is $50, well, you're cannibalizing some sales, all that kind of stuff."
+    },
+    {
+      "start": 2544.24,
+      "end": 2549.7,
+      "text": "If you set it at $75, you're encouraging people to build that basket and maintain that $50 AOV."
+    },
+    {
+      "start": 2550.18,
+      "end": 2553.7,
+      "text": "And so I think that's what, like brands that I saw do really well, did that well."
+    },
+    {
+      "start": 2553.7,
+      "end": 2558.8,
+      "text": "Like I saw cuts do something where they're like, if you spend $300, you get this jacket for free."
+    },
+    {
+      "start": 2558.9,
+      "end": 2560.04,
+      "text": "And I was like, wow, that's pretty awesome."
+    },
+    {
+      "start": 2560.14,
+      "end": 2560.74,
+      "text": "Like a jacket."
+    },
+    {
+      "start": 2560.9,
+      "end": 2563.12,
+      "text": "And that's a high AOV and pushed me towards that."
+    },
+    {
+      "start": 2563.68,
+      "end": 2568.84,
+      "text": "The brands that have a $50 AOV and set a big discount of like 30% off over $200."
+    },
+    {
+      "start": 2569.28,
+      "end": 2571.06,
+      "text": "I'm like, you're just begging to lose."
+    },
+    {
+      "start": 2571.24,
+      "end": 2578.54,
+      "text": "You're going to lose Black Friday because you want people to spend this much, $200 and your AOV is $50."
+    },
+    {
+      "start": 2578.76,
+      "end": 2580.5,
+      "text": "There's just no way they can climb to that amount."
+    },
+    {
+      "start": 2580.94,
+      "end": 2587.66,
+      "text": "If you set the discount at a more reasonable threshold, like $100 or $150 and you offer a big skew assortment, it's much more feasible."
+    },
+    {
+      "start": 2587.94,
+      "end": 2596.8,
+      "text": "And so brands who set that discount just above AOV, I think do a really good job or seem to win more often on Black Friday than brands who set it too low or really high."
+    },
+    {
+      "start": 2597.54,
+      "end": 2605.22,
+      "text": "My rule of thumb has always been if you're doing a tiered promo, it should be, you know, the first tier should be super achievable."
+    },
+    {
+      "start": 2605.22,
+      "end": 2610.74,
+      "text": "The second tier should be about 50% higher and the third tier should be like one to two times higher."
+    },
+    {
+      "start": 2611.44,
+      "end": 2621,
+      "text": "And if you're running like a big bundle, you should try to go 2 to 3x over the – 2 to 3x, your current AOV should be the new price point."
+    },
+    {
+      "start": 2621.1,
+      "end": 2626.24,
+      "text": "But you should also discount pretty heavily, meaning like, you know, 20 to maybe 40%."
+    },
+    {
+      "start": 2626.24,
+      "end": 2629.32,
+      "text": "So you really encourage people to get to that AOV."
+    },
+    {
+      "start": 2629.94,
+      "end": 2632.52,
+      "text": "Let's switch gears and I want to talk about two things."
+    },
+    {
+      "start": 2632.76,
+      "end": 2637.18,
+      "text": "One is numbers that I got from Triple Whale that are basically Q4 to today."
+    },
+    {
+      "start": 2637.48,
+      "end": 2643.46,
+      "text": "What are brands experiencing from October 1st, which is when Q4 started, to November 20th?"
+    },
+    {
+      "start": 2644.02,
+      "end": 2645.24,
+      "text": "So just before Black Friday."
+    },
+    {
+      "start": 2645.38,
+      "end": 2645.94,
+      "text": "I shouldn't say today."
+    },
+    {
+      "start": 2646.28,
+      "end": 2648.24,
+      "text": "October 1st to just before Black Friday."
+    },
+    {
+      "start": 2648.38,
+      "end": 2649.1,
+      "text": "How are brands doing?"
+    },
+    {
+      "start": 2649.68,
+      "end": 2653.06,
+      "text": "And then I want to talk about any brands that you purchase from on Black Friday, Nick."
+    },
+    {
+      "start": 2653.06,
+      "end": 2657.16,
+      "text": "So this is Triple Whale data, same 2,500 stores."
+    },
+    {
+      "start": 2657.64,
+      "end": 2660.5,
+      "text": "GMV for Q4 so far is up 20%."
+    },
+    {
+      "start": 2660.5,
+      "end": 2662.68,
+      "text": "Again, this is the week before Black Friday."
+    },
+    {
+      "start": 2662.82,
+      "end": 2663.98,
+      "text": "So Black Friday doesn't count."
+    },
+    {
+      "start": 2664.52,
+      "end": 2666.02,
+      "text": "Orders are up 10%."
+    },
+    {
+      "start": 2666.02,
+      "end": 2672.32,
+      "text": "Aggregate ad spend is up 25%, 24% really, but let's say 25% for even numbers."
+    },
+    {
+      "start": 2672.78,
+      "end": 2674.02,
+      "text": "AOV is up 8%."
+    },
+    {
+      "start": 2674.02,
+      "end": 2677.58,
+      "text": "The biggest numbers are Facebook ad spend is up 23%."
+    },
+    {
+      "start": 2677.58,
+      "end": 2680.34,
+      "text": "And TikTok spend is up 81%."
+    },
+    {
+      "start": 2680.34,
+      "end": 2682.06,
+      "text": "Snap spend is down."
+    },
+    {
+      "start": 2682.06,
+      "end": 2684.06,
+      "text": "So I thought that was really interesting."
+    },
+    {
+      "start": 2684.38,
+      "end": 2691.18,
+      "text": "On average, brands are doing 20% better in Q4 the week before Black Friday, but in Q4"
+    },
+    {
+      "start": 2691.18,
+      "end": 2692.68,
+      "text": "than they were the previous year."
+    },
+    {
+      "start": 2693.02,
+      "end": 2695.12,
+      "text": "Their number of orders is up 10%."
+    },
+    {
+      "start": 2695.12,
+      "end": 2696.96,
+      "text": "Average AOV is up."
+    },
+    {
+      "start": 2697.14,
+      "end": 2702.82,
+      "text": "Aggregate ad spend is up 24%, with Facebook being 23%, TikTok being 81%."
+    },
+    {
+      "start": 2703.44,
+      "end": 2713.06,
+      "text": "I'm excited to see how TikTok continues to either grow or not grow in terms of taking share of the media budget."
+    },
+    {
+      "start": 2713.3,
+      "end": 2719.22,
+      "text": "I think a lot of brands this year use TikTok really as just, you know, why wouldn't we turn it on and try it out?"
+    },
+    {
+      "start": 2719.54,
+      "end": 2720.78,
+      "text": "Because it's Black Friday."
+    },
+    {
+      "start": 2720.94,
+      "end": 2723.68,
+      "text": "And if we're going to test now, it's probably the best time to test it."
+    },
+    {
+      "start": 2723.68,
+      "end": 2732.1,
+      "text": "But given the performance of TikTok, I'm curious to see next year if brands decide, you know, it wasn't really worth it, so we're not going to focus on it."
+    },
+    {
+      "start": 2732.68,
+      "end": 2735.2,
+      "text": "Or, you know, we figured out a better way to do it."
+    },
+    {
+      "start": 2735.52,
+      "end": 2737.7,
+      "text": "Or maybe they just make improvements in the platform."
+    },
+    {
+      "start": 2738.32,
+      "end": 2738.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 2738.92,
+      "end": 2743.36,
+      "text": "And always, like, whenever things like this happen, I'm always like, wow, Facebook is incredible."
+    },
+    {
+      "start": 2743.36,
+      "end": 2752.1,
+      "text": "Like, the people and team and algorithm and understanding of, like, ads at Facebook is best in class."
+    },
+    {
+      "start": 2752.34,
+      "end": 2757.08,
+      "text": "And, you know, everyone's like, yeah, TikTok is an up-and-coming competitor, and no question that it is."
+    },
+    {
+      "start": 2757.66,
+      "end": 2761.96,
+      "text": "Facebook remains head and shoulders above everybody else, and it's not even close still."
+    },
+    {
+      "start": 2762.1,
+      "end": 2764.04,
+      "text": "Like, you know, Pinterest has been around for years."
+    },
+    {
+      "start": 2764.18,
+      "end": 2765.32,
+      "text": "Snap has been around for years."
+    },
+    {
+      "start": 2765.32,
+      "end": 2766.74,
+      "text": "It's not even close."
+    },
+    {
+      "start": 2767.22,
+      "end": 2769.58,
+      "text": "Facebook's algorithm is better than everybody else's."
+    },
+    {
+      "start": 2769.66,
+      "end": 2771.1,
+      "text": "Their reach is better than everyone else's."
+    },
+    {
+      "start": 2771.12,
+      "end": 2773.16,
+      "text": "Their scale is better than everyone else's."
+    },
+    {
+      "start": 2773.36,
+      "end": 2778.62,
+      "text": "And, like, you know, if you're looking for one ad platform to spend time or money on, it still is Facebook."
+    },
+    {
+      "start": 2778.98,
+      "end": 2783.86,
+      "text": "May not be the case two years from now, but today I think that there's literally no competitor."
+    },
+    {
+      "start": 2784.34,
+      "end": 2789.32,
+      "text": "Like, there's competitors, but, like, nobody who will allow you to reach the scale that you can reach out Facebook."
+    },
+    {
+      "start": 2790.14,
+      "end": 2792.2,
+      "text": "What purchases did you make on Black Friday?"
+    },
+    {
+      "start": 2792.86,
+      "end": 2794.66,
+      "text": "I purchased a bunch from 10,000."
+    },
+    {
+      "start": 2795.3,
+      "end": 2801.2,
+      "text": "Honestly, I purchased a bunch of them from last year, and a lot of their clothing has not held up, frankly, which isn't the best."
+    },
+    {
+      "start": 2801.3,
+      "end": 2802.66,
+      "text": "But I'm like, I like wearing it."
+    },
+    {
+      "start": 2802.68,
+      "end": 2803.12,
+      "text": "So you're back."
+    },
+    {
+      "start": 2803.82,
+      "end": 2804.4,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 2804.62,
+      "end": 2805.54,
+      "text": "I'm like, I like going to the gym."
+    },
+    {
+      "start": 2805.7,
+      "end": 2808.1,
+      "text": "Like, when I go to the gym in 10,000, I always feel better."
+    },
+    {
+      "start": 2808.24,
+      "end": 2814.06,
+      "text": "And I'm like, yeah, these shorts have torn in three places and are pilling, and it's not the best quality, but I still want it."
+    },
+    {
+      "start": 2814.9,
+      "end": 2816.76,
+      "text": "And ironically, Keith mentioned it as well."
+    },
+    {
+      "start": 2816.88,
+      "end": 2817.64,
+      "text": "I know you wear it as well."
+    },
+    {
+      "start": 2817.7,
+      "end": 2819.28,
+      "text": "I know we did a bunch of rumble in various places."
+    },
+    {
+      "start": 2819.28,
+      "end": 2820,
+      "text": "Yeah, I love 10,000."
+    },
+    {
+      "start": 2820.08,
+      "end": 2820.48,
+      "text": "10,000."
+    },
+    {
+      "start": 2820.56,
+      "end": 2821.34,
+      "text": "I love it as well."
+    },
+    {
+      "start": 2821.92,
+      "end": 2823.8,
+      "text": "Keith mentioned it when we did the pod with him as well."
+    },
+    {
+      "start": 2824,
+      "end": 2826.02,
+      "text": "But anyway, I bought 10,000."
+    },
+    {
+      "start": 2826.14,
+      "end": 2826.94,
+      "text": "I bought Big Favorite."
+    },
+    {
+      "start": 2827.48,
+      "end": 2831.16,
+      "text": "One of my close friends from law school, his wife started Big Favorite."
+    },
+    {
+      "start": 2831.5,
+      "end": 2832.66,
+      "text": "So I love supporting it."
+    },
+    {
+      "start": 2832.66,
+      "end": 2833.8,
+      "text": "But I also love their clothing."
+    },
+    {
+      "start": 2833.82,
+      "end": 2835.74,
+      "text": "And I was waiting for the Black Friday sale."
+    },
+    {
+      "start": 2835.74,
+      "end": 2838.36,
+      "text": "I tweeted at them, and I was like, I'm waiting for a Black Friday sale."
+    },
+    {
+      "start": 2838.42,
+      "end": 2839.34,
+      "text": "You never discount it."
+    },
+    {
+      "start": 2839.58,
+      "end": 2841.4,
+      "text": "And they're like, millionaires pay full price."
+    },
+    {
+      "start": 2841.5,
+      "end": 2843.62,
+      "text": "And I was like, I feel really bad now."
+    },
+    {
+      "start": 2844.04,
+      "end": 2846.86,
+      "text": "But I still waited for the Black Friday sale, and I think it was worth it."
+    },
+    {
+      "start": 2847.02,
+      "end": 2848.7,
+      "text": "I bought some MeUndi socks."
+    },
+    {
+      "start": 2849.3,
+      "end": 2850.96,
+      "text": "I have the same problem with MeUndi socks."
+    },
+    {
+      "start": 2851.3,
+      "end": 2853.24,
+      "text": "Every single one of my pairs has a hole in it."
+    },
+    {
+      "start": 2853.3,
+      "end": 2856.74,
+      "text": "So I've got to wait until Black Friday to purchase 50 new pairs, and they'll start getting holes."
+    },
+    {
+      "start": 2857.06,
+      "end": 2857.76,
+      "text": "You know, I don't know."
+    },
+    {
+      "start": 2858.2,
+      "end": 2859.5,
+      "text": "The quality just isn't there."
+    },
+    {
+      "start": 2859.58,
+      "end": 2862,
+      "text": "But again, I just like the plushness for a while."
+    },
+    {
+      "start": 2862.38,
+      "end": 2864.4,
+      "text": "And I'm in the market for a new MacBook Pro, I think."
+    },
+    {
+      "start": 2864.5,
+      "end": 2865.76,
+      "text": "Mine's about four or five years old."
+    },
+    {
+      "start": 2865.82,
+      "end": 2867.5,
+      "text": "So I think I'm going to pick one of those up as well."
+    },
+    {
+      "start": 2867.84,
+      "end": 2870.52,
+      "text": "More Black Friday shopping than I've done in the past, for sure."
+    },
+    {
+      "start": 2870.86,
+      "end": 2876.3,
+      "text": "In part, it's because COVID is over, and I have a house, or I'm renting a house that's pretty steady now."
+    },
+    {
+      "start": 2876.3,
+      "end": 2879.58,
+      "text": "And so I have an address that I'm going to be at in five days."
+    },
+    {
+      "start": 2880.02,
+      "end": 2887.38,
+      "text": "And in the past, when Thanksgiving was there, I'm like, I don't know where I'm moving to come Monday on Black Friday."
+    },
+    {
+      "start": 2887.58,
+      "end": 2888.76,
+      "text": "And so I was like, I can't order anything."
+    },
+    {
+      "start": 2888.88,
+      "end": 2889.82,
+      "text": "I don't have an address yet."
+    },
+    {
+      "start": 2889.82,
+      "end": 2892.5,
+      "text": "So it probably gave me a little bit more opportunity to spend."
+    },
+    {
+      "start": 2892.74,
+      "end": 2893.34,
+      "text": "How about yourself?"
+    },
+    {
+      "start": 2893.38,
+      "end": 2894.04,
+      "text": "Where did you buy from?"
+    },
+    {
+      "start": 2894.5,
+      "end": 2895.96,
+      "text": "I didn't buy a ton of stuff."
+    },
+    {
+      "start": 2896.1,
+      "end": 2902.2,
+      "text": "To be honest, I feel like in New York, my apartment is already so cramped, and I can't fit more stuff in there."
+    },
+    {
+      "start": 2902.36,
+      "end": 2904.9,
+      "text": "But I bought some of the House of Wise sleep gummies."
+    },
+    {
+      "start": 2905.04,
+      "end": 2905.84,
+      "text": "Those were half off."
+    },
+    {
+      "start": 2906.3,
+      "end": 2910.68,
+      "text": "I bought some more of the Beam Dream Powder, which is also just a sleep product."
+    },
+    {
+      "start": 2910.96,
+      "end": 2914.14,
+      "text": "There was a brand called Rainer Watch that I found on Twitter."
+    },
+    {
+      "start": 2914.68,
+      "end": 2916.36,
+      "text": "I bought a couple things from them."
+    },
+    {
+      "start": 2916.68,
+      "end": 2921.14,
+      "text": "And then I bought some shirts from True Classic Tees just to see what that hype's about."
+    },
+    {
+      "start": 2921.96,
+      "end": 2922.36,
+      "text": "Okay, yeah."
+    },
+    {
+      "start": 2922.44,
+      "end": 2923.58,
+      "text": "Let me know what that hype is about."
+    },
+    {
+      "start": 2924.06,
+      "end": 2925.16,
+      "text": "Did you buy anything else?"
+    },
+    {
+      "start": 2925.3,
+      "end": 2926.14,
+      "text": "And then I'm hijacking it."
+    },
+    {
+      "start": 2926.42,
+      "end": 2927.58,
+      "text": "No, that was pretty much it."
+    },
+    {
+      "start": 2928.04,
+      "end": 2931.56,
+      "text": "Did you see anyone who increased their offer during the Black Friday sale?"
+    },
+    {
+      "start": 2931.56,
+      "end": 2933.8,
+      "text": "I'm curious if anyone offered 20% off."
+    },
+    {
+      "start": 2934.02,
+      "end": 2937.56,
+      "text": "It's basically saying, hey, Black Friday sale starts November 15th."
+    },
+    {
+      "start": 2938.34,
+      "end": 2942.16,
+      "text": "And then on Black Friday, they're like, hey, Black Friday is 30% off."
+    },
+    {
+      "start": 2942.3,
+      "end": 2945.64,
+      "text": "All the people who bought at 20% off aren't going to get this email."
+    },
+    {
+      "start": 2945.86,
+      "end": 2948.36,
+      "text": "But now we're increasing the discount to 30%."
+    },
+    {
+      "start": 2948.36,
+      "end": 2949.42,
+      "text": "Did you see anyone do that?"
+    },
+    {
+      "start": 2949.98,
+      "end": 2951.26,
+      "text": "A few of our clients."
+    },
+    {
+      "start": 2951.44,
+      "end": 2953.26,
+      "text": "Sounds like a Sean McGrann did that."
+    },
+    {
+      "start": 2954.7,
+      "end": 2960.18,
+      "text": "A few of our clients did it where every week we had a different lander with different offers."
+    },
+    {
+      "start": 2960.48,
+      "end": 2962.76,
+      "text": "So some were like, buy one, get one."
+    },
+    {
+      "start": 2963.12,
+      "end": 2967.74,
+      "text": "A different day, it was like 30% off this entire list of products."
+    },
+    {
+      "start": 2967.9,
+      "end": 2968.9,
+      "text": "So some of that stuff."
+    },
+    {
+      "start": 2969.06,
+      "end": 2973,
+      "text": "But we never did anything that would piss a customer off."
+    },
+    {
+      "start": 2973.1,
+      "end": 2977.28,
+      "text": "I saw some stuff where somebody bought a t-shirt, it's 20% off on Friday."
+    },
+    {
+      "start": 2977.5,
+      "end": 2980.04,
+      "text": "Then their Cyber Monday sales, like 35% off."
+    },
+    {
+      "start": 2980.04,
+      "end": 2983.36,
+      "text": "That would just piss me off, especially if the product hasn't shipped."
+    },
+    {
+      "start": 2983.62,
+      "end": 2985.16,
+      "text": "But we didn't do anything like that."
+    },
+    {
+      "start": 2985.3,
+      "end": 2990.46,
+      "text": "I do think though, back to what we were saying earlier about what brands did well,"
+    },
+    {
+      "start": 2990.72,
+      "end": 2993.64,
+      "text": "or the brands that did well on Black Friday, they were doing this."
+    },
+    {
+      "start": 2993.76,
+      "end": 2995.12,
+      "text": "Like every day was different deals."
+    },
+    {
+      "start": 2995.34,
+      "end": 2997.4,
+      "text": "Almost thinking of it like an advent calendar,"
+    },
+    {
+      "start": 2997.82,
+      "end": 3001.08,
+      "text": "keeping things fresh and exciting and new things to look at."
+    },
+    {
+      "start": 3001.22,
+      "end": 3007.86,
+      "text": "Otherwise, we have another client where they basically ran one or two versions of ad creative"
+    },
+    {
+      "start": 3007.86,
+      "end": 3009.54,
+      "text": "and then just kept changing the URL."
+    },
+    {
+      "start": 3010.04,
+      "end": 3013.48,
+      "text": "And it was very obvious that after a few days, people just stopped clicking"
+    },
+    {
+      "start": 3013.48,
+      "end": 3017.58,
+      "text": "because they get retargeted with the same exact video every single time."
+    },
+    {
+      "start": 3017.72,
+      "end": 3018.84,
+      "text": "There's nothing new to look at."
+    },
+    {
+      "start": 3018.98,
+      "end": 3021.6,
+      "text": "And nor can you actually see what the offer is."
+    },
+    {
+      "start": 3022.26,
+      "end": 3024.94,
+      "text": "So yeah, I do think the advent calendar approach is great."
+    },
+    {
+      "start": 3025.78,
+      "end": 3027.7,
+      "text": "If you're an apparel brand, I think it's great."
+    },
+    {
+      "start": 3027.94,
+      "end": 3029.02,
+      "text": "Today, we're just going to do shorts."
+    },
+    {
+      "start": 3029.14,
+      "end": 3031.86,
+      "text": "Tomorrow's shirts, the next day's socks, the next day's underwear,"
+    },
+    {
+      "start": 3032.18,
+      "end": 3034.4,
+      "text": "and the next day, a combination of all of it."
+    },
+    {
+      "start": 3034.74,
+      "end": 3035.52,
+      "text": "It's always hard."
+    },
+    {
+      "start": 3035.52,
+      "end": 3037.44,
+      "text": "But if you're like a native, I was like, what can we do?"
+    },
+    {
+      "start": 3037.84,
+      "end": 3040.26,
+      "text": "We don't have like, you know, 20% off."
+    },
+    {
+      "start": 3040.5,
+      "end": 3042.16,
+      "text": "Okay, the three pack is discounted."
+    },
+    {
+      "start": 3042.28,
+      "end": 3043.2,
+      "text": "What else we got here?"
+    },
+    {
+      "start": 3043.6,
+      "end": 3045.64,
+      "text": "You know, buy one random cent, get this up."
+    },
+    {
+      "start": 3045.74,
+      "end": 3047.84,
+      "text": "You know, it was just like, we didn't have enough SKUs."
+    },
+    {
+      "start": 3048.04,
+      "end": 3048.94,
+      "text": "And so it was really tough."
+    },
+    {
+      "start": 3049.48,
+      "end": 3052.66,
+      "text": "It's hard to feel bad for brands on Black Friday because everyone's doing well."
+    },
+    {
+      "start": 3053.2,
+      "end": 3056.08,
+      "text": "But it's always really tough when you're Black Friday,"
+    },
+    {
+      "start": 3056.14,
+      "end": 3058,
+      "text": "you're just like, I don't have this SKU assortment here."
+    },
+    {
+      "start": 3058.28,
+      "end": 3059.78,
+      "text": "Like those brands do better in January."
+    },
+    {
+      "start": 3059.78,
+      "end": 3061.9,
+      "text": "Like the supplement brands, you know, how many things can they do?"
+    },
+    {
+      "start": 3062.04,
+      "end": 3063.2,
+      "text": "Buy one, get one free."
+    },
+    {
+      "start": 3063.34,
+      "end": 3064.18,
+      "text": "Buy two, get one free."
+    },
+    {
+      "start": 3064.4,
+      "end": 3065.42,
+      "text": "One for 20% off."
+    },
+    {
+      "start": 3065.74,
+      "end": 3067.44,
+      "text": "There just aren't enough SKUs there."
+    },
+    {
+      "start": 3067.56,
+      "end": 3070.5,
+      "text": "So I'm always jealous of apparel brands when it comes to that kind of stuff."
+    },
+    {
+      "start": 3070.72,
+      "end": 3074.4,
+      "text": "But if you did run a sale like that, you know, 20% off starting Tuesday,"
+    },
+    {
+      "start": 3074.88,
+      "end": 3078.3,
+      "text": "then 30% off starting Thursday, please reach out to me on Twitter."
+    },
+    {
+      "start": 3078.52,
+      "end": 3079.76,
+      "text": "I'd love to talk to you about it."
+    },
+    {
+      "start": 3079.84,
+      "end": 3080.66,
+      "text": "We can keep it anonymous."
+    },
+    {
+      "start": 3081.2,
+      "end": 3084.04,
+      "text": "You know, we haven't mentioned any brands here unless they gave us their permission"
+    },
+    {
+      "start": 3084.04,
+      "end": 3084.98,
+      "text": "to mention those brands."
+    },
+    {
+      "start": 3085.58,
+      "end": 3088.34,
+      "text": "You know, I'd love to understand, hey, was that, did it work?"
+    },
+    {
+      "start": 3088.34,
+      "end": 3091.88,
+      "text": "It is a form of price discrimination that I think is really powerful."
+    },
+    {
+      "start": 3092.14,
+      "end": 3094,
+      "text": "Like, you know, we have the ability to be like, hey,"
+    },
+    {
+      "start": 3094.08,
+      "end": 3097.54,
+      "text": "when someone walks into a store at Best Buy and someone's willing to pay $50"
+    },
+    {
+      "start": 3097.54,
+      "end": 3101.16,
+      "text": "for something versus $40 for something, we're in a unique position of being able"
+    },
+    {
+      "start": 3101.16,
+      "end": 3103.38,
+      "text": "to be like, someone took the 20% offer."
+    },
+    {
+      "start": 3103.72,
+      "end": 3104.64,
+      "text": "It's now Black Friday."
+    },
+    {
+      "start": 3104.82,
+      "end": 3108.7,
+      "text": "We can offer them 30% off because a bunch of people still have not taken the"
+    },
+    {
+      "start": 3108.7,
+      "end": 3112.32,
+      "text": "offer and, you know, they want a bigger offer and maybe that'll get them to"
+    },
+    {
+      "start": 3112.32,
+      "end": 3112.62,
+      "text": "purchase."
+    },
+    {
+      "start": 3112.92,
+      "end": 3114.54,
+      "text": "I don't know if it's the right thing to do."
+    },
+    {
+      "start": 3114.54,
+      "end": 3118.56,
+      "text": "I am curious to see if anyone has done it in the past and how it worked."
+    },
+    {
+      "start": 3119.2,
+      "end": 3122.64,
+      "text": "Everyone I talked to was like, we thought about it and we didn't do it."
+    },
+    {
+      "start": 3122.72,
+      "end": 3124.64,
+      "text": "So if you did do it, please reach out to us."
+    },
+    {
+      "start": 3124.74,
+      "end": 3127.16,
+      "text": "We'd love to have a chat about it."
+    },
+    {
+      "start": 3127.76,
+      "end": 3127.94,
+      "text": "Cool."
+    },
+    {
+      "start": 3128.06,
+      "end": 3131.72,
+      "text": "So next week, we'll talk through Affiliate World."
+    },
+    {
+      "start": 3131.88,
+      "end": 3136.1,
+      "text": "I'm speaking tomorrow, the first day of Affiliate World on conversion"
+    },
+    {
+      "start": 3136.1,
+      "end": 3136.68,
+      "text": "optimization."
+    },
+    {
+      "start": 3137.34,
+      "end": 3139.38,
+      "text": "One talk is around conversion optimization."
+    },
+    {
+      "start": 3139.38,
+      "end": 3140.74,
+      "text": "The second talk is about TikTok."
+    },
+    {
+      "start": 3141.3,
+      "end": 3146.26,
+      "text": "So I'm excited to meet a bunch of people, take a bunch of notes, and I'll just have"
+    },
+    {
+      "start": 3146.26,
+      "end": 3148.4,
+      "text": "a big knowledge bomb to drop next week."
+    },
+    {
+      "start": 3148.9,
+      "end": 3149.86,
+      "text": "Looking forward to it."
+    },
+    {
+      "start": 3150.12,
+      "end": 3152.8,
+      "text": "Hope you guys had a great Black Friday and Cyber Monday."
+    },
+    {
+      "start": 3153.26,
+      "end": 3155.02,
+      "text": "Looking forward to episode nine."
+    },
+    {
+      "start": 3155.44,
+      "end": 3155.94,
+      "text": "Thanks, guys."
+    },
+    {
+      "start": 3156.4,
+      "end": 3156.72,
+      "text": "Awesome."
+    },
+    {
+      "start": 3156.94,
+      "end": 3157.36,
+      "text": "See you there."
+    },
+    {
+      "start": 3158.12,
+      "end": 3159.02,
+      "text": "Thanks for tuning in."
+    },
+    {
+      "start": 3159.16,
+      "end": 3162.76,
+      "text": "We'll be back next time to cut through the noise in CPG, retail, and e-commerce."
+    },
+    {
+      "start": 3163.1,
+      "end": 3166.46,
+      "text": "And if you enjoyed this episode, then why not share it with a friend?"
+    },
+    {
+      "start": 3166.6,
+      "end": 3170.28,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    },
+    {
+      "start": 3170.74,
+      "end": 3171.42,
+      "text": "Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 27.38,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.38,
+      "end": 55.2,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. All year long, everyone has been talking about measurement and incrementality, specifically making sure that your customer acquisition channels are actually driving incremental customers. This year, everyone was looking for a new channel that has scale and drives actual impact. And at Sharma Brands, we test everything for clients. One that actually works and I'm excited to partner with for Limited Supply is AppLovin."
+    },
+    {
+      "start": 55.2,
+      "end": 82.8,
+      "text": "Starting October 1st, AppLovin will be onboarding new advertisers who will be able to reach over 1 billion daily active users globally, with over 150 million of those in the US alone. Think about everybody who plays Wordscapes or Candy Crush, for example. AppLovin integrates your ads into their game experience where it feels natural. To stay in the loop about product features, creative best practices, and how other advertisers are using the platform, go to nik.co slash AppLovin."
+    },
+    {
+      "start": 82.96,
+      "end": 102.9,
+      "text": "That's N-I-K dot C-O slash A-P-P-L-O-V-I-N. Welcome back to another episode of Limited Supply. Today is actually a fun one, a very tactical one. I'm going to be going through a 15-page email that I wrote all about Black Friday, Cyber Monday."
+    },
+    {
+      "start": 103.16,
+      "end": 125.76,
+      "text": "Everything from promotional strategy, paid media, site optimizations, legal disclaimers, paid email and SMS, customer service, all of it. So that's what today's podcast is going to be about. I'd imagine that you've already got some of this stuff going or cooking already. It's September 9th or September 10th."
+    },
+    {
+      "start": 126.08,
+      "end": 152.28,
+      "text": "So the goal is that there's one or two nuggets in here that you can pick up and contribute to your broader Black Friday strategy. So today's episode is going to be the first of a couple that I do over the next couple of weeks, really just talking about Black Friday. I've got a pretty in-depth Black Friday kind of guide or just doc I've built out, which is about 15 pages long."
+    },
+    {
+      "start": 152.7,
+      "end": 181.16,
+      "text": "So I've broken it out into a few different sections and essentially want to go through these different sections with you. Kind of just talk through them and just make sure that you do everything to maximize your Black Friday. I'm sure you've already started kind of this process. So there's probably hopefully one or two nuggets in here of things that maybe you've missed or things that you can do in addition that will really kind of help you generate as much revenue as possible. So let's get started."
+    },
+    {
+      "start": 181.16,
+      "end": 208.08,
+      "text": "So the first thing is your promotional strategy. Now, the promotion strategy is kind of your overarching strategy as it relates to all the days and all the promos. So I don't just mean your Black Friday bundle, right, or like your Black Friday site-wide offer. But I mean what is it that you're doing for subscribers in the week leading into Black Friday? Is there anything you're doing the week before to prep people for Black Friday coming up?"
+    },
+    {
+      "start": 208.08,
+      "end": 233.94,
+      "text": "You know, are you doing any sort of a list, a wait list, SMS list, a Facebook Messenger type thing, a Facebook event, a calendar invite with an event, anything like that. But back to promotional strategy, it's everything from the night before Black Friday if you have an offer for subscribers. It's your Thursday, Friday offer. It's your small business Saturday offer."
+    },
+    {
+      "start": 234.12,
+      "end": 257.46,
+      "text": "It's your Sunday offer, your Cyber Monday offer, your Giving Tuesday offer, you know, the rest of your Cyber Week offer if there's anything that you're doing there. And all of that is kind of what this promotional strategy is. You want to make sure it's done in a way where you're not necessarily competing with each other, right? You're not going to have a crazier deal for the same product on Monday than you do on Friday. You don't want to have upset customers."
+    },
+    {
+      "start": 257.46,
+      "end": 282.32,
+      "text": "That's what leads to just upset customers, emailing customer service, wanting a refund after something is already shipped or, you know, wanting to process a return. And it's just it's just not necessary and it's easily avoidable. So choosing the right offer, you want to make sure that you've got something that's compelling. You know, it's pretty normal to see 20, 30, 40, even 50 percent off. You can do something that's even more aggressive."
+    },
+    {
+      "start": 282.32,
+      "end": 311.8,
+      "text": "You know, typically what I've seen is that the higher the AOV is compared to what a brand normally sells, the larger the discount tends to be. So if somebody is going to spend a bunch of money, then they're usually getting a larger discount. These are great for, you know, what I call clearing the funnels or flushing the toilet where you've got this massive buildup of people who've kind of been on the fence for the last few months to make a purchase. And now you give them that opportunity with a really good deal, higher AOV, but also much higher discount."
+    },
+    {
+      "start": 312.42,
+      "end": 334.24,
+      "text": "So, you know, they're getting a good deal. You get efficiencies out of it having more items in the cart and items in the box that are being shipped out. You know, offer wise, I've seen everything from bundles that are Black Friday specific bundles to buy more, save more, you know, buy one, get one free. I've seen flash sales. I've seen site-wide percentage off."
+    },
+    {
+      "start": 334.24,
+      "end": 358.66,
+      "text": "I've seen, you know, buy, spend 200, get 20%, spend 300, get 30%, spend 400, get 40 plus percent. You know, something like that, or sorry, 400 plus, get 40%, something like that. But you can kind of figure out between all the different days what you want to do. You might decide that your Black Friday is going to focus on your best selling products because that's really the kind of the flagship day."
+    },
+    {
+      "start": 358.66,
+      "end": 386.32,
+      "text": "And then, you know, maybe small business Saturday or Sunday, you focus on different bundles, things that were not focused on what you did on Friday. You know, I find that the year after people tend to remember that and then they actually make sure they buy that Black Friday deal. And then the other thing is for Cyber Monday, I tend to be a big fan of like something like a buy more, save more."
+    },
+    {
+      "start": 386.78,
+      "end": 414,
+      "text": "You know, if you basically make it optional for the entire site to be on sale and the more they spend, the more they're going to save. That I find is a very good strategy. It keeps that Black Friday deal very special and sacred. It keeps Saturday and Sunday to be complimentary to Friday, not competitive to Friday. And then Monday, if nobody, you know, has made kind of their Black Friday purchase from your brand but they want to, then they can kind of see what the options are out of the whole catalog."
+    },
+    {
+      "start": 415.4,
+      "end": 445.16,
+      "text": "If you're not going to do a discount on a product, which, you know, there are some brands that do that. Last year, I remember Jones Road. They did a Black Friday deal where instead of necessarily giving a discount, they offered these limited edition mini miracle bombs, which I think were actually one of the biggest. It was one of the biggest stores on Shopify doing Black Friday, one of the most successful SKUs. So that obviously works. Jolie, which is the, you know, beauty slash filtered showerhead brand."
+    },
+    {
+      "start": 445.78,
+      "end": 475.68,
+      "text": "They never do discounts ever outside of Prime Day, which was actually their first time ever doing a discount. But last year, they did a free tote bag as a gift. This year, I'm actually not sure if they're going to do the tote bag or if because they tested Prime Day with a discount and did so well, if they're going to continue to do that instead. The thing you want to also just take into account is as you're building out these offers and, you know, deciding who are you going to give a discount to? Is there going to be discounts given to subscribers?"
+    },
+    {
+      "start": 475.68,
+      "end": 500.9,
+      "text": "How are they going to react or how do you anticipate to make sure that, you know, they are not going to be upset or bothered by, you know, the fact that maybe there's a 50% site wide or a 50% bundle discount available and they're only getting it for 15% off. Right. So whether that's something you plan in advance where you maybe email your subscribers and say, hey, just so you're aware, you know, this is a Black Friday offer we're running, you know, we don't want you to cancel."
+    },
+    {
+      "start": 501.18,
+      "end": 530.9,
+      "text": "So instead, you click this magic button and, you know, we're going to apply this discount to your next subscription order. Right. If you do something like that, you're not only giving them the opportunity to participate in the sale, but also do it in a way that, you know, kind of does it in a convenient way for them. So they don't have to go in, cancel their subscription, get the bundle when that runs out, resubscribe. Right. I see that happen a lot. I used to work at a beverage company and that was pretty common, but especially because in the summer, Amazon would price match retail stores and they would be a dollar a bottle versus online."
+    },
+    {
+      "start": 530.9,
+      "end": 559.24,
+      "text": "It was like, you know, a dollar 60, a dollar 70 maybe. But all that said, you know, you want to think about what you can do for your subscribers, your high LTV customers, any sort of like loyalty segments that, you know, do really well from a revenue standpoint. And, um, just kind of be ahead of that. Um, and then the last piece is from a promotional standpoint, you want to make sure that you're not doing anything that's going to discount your, um, your repeat purchase."
+    },
+    {
+      "start": 559.4,
+      "end": 580.32,
+      "text": "Meaning, you know, don't, don't make this feel, uh, like you are just trying to get one sale and never talk to these people again. Right. Make sure that as you're doing this, you're also doing something to build the brand, um, and, um, you know, keep people around. So one way I've seen this happen is that they will, uh, be a lot harder on email and SMS."
+    },
+    {
+      "start": 580.66,
+      "end": 609.6,
+      "text": "So, you know, we know you came in on a promotion, you know, here's another thing to kind of ease you into the brand, whether that's, Hey, come, come and subscribe to us because subscription has the best offer. Um, which looks like X, Y, and Z. It might be that, you know, you've tried our, uh, let's say you tried, I'm just pulling a random brand. And I say on my desk, gray matter, you tried our gray matter, um, cognitive, uh, powder. Um, you bought it at 50% off. Well, why don't you subscribe? If you subscribe and commit for three months, we'll give you another 50% off for that."
+    },
+    {
+      "start": 609.74,
+      "end": 626.18,
+      "text": "So, you know, trying to think about like, how do you slowly bring people in after the promotional period, knowing that there's that majority of people who come in through black Friday are just there to kind of look for a deal. So all that said, that is kind of what I think about when I think about the promotional strategy."
+    },
+    {
+      "start": 626.62,
+      "end": 654.42,
+      "text": "Um, you know, at the end of the day, um, building these promotions is, um, I would say tough in the sense that you don't want to, um, cannibalize another channel or another source of revenue like subscriptions, um, or, you know, a loyalty program. But at the same time, you have to think about all of these people who know the brand, who want the brand, who want to try the brand and just haven't kind of made that next step. So that's where you can activate a nice deal, uh, in order to get those people in."
+    },
+    {
+      "start": 655.3,
+      "end": 682.54,
+      "text": "One other thing you can do is try to create, um, like these kind of hidden offers. So think about, uh, you know, let's just take this example of what I just said. You've got all these people who've given you their email, uh, throughout from the pop-up, but have not converted. And maybe, you know, your black Friday deal is more kind of broad and meant for the average consumer, um, who maybe already, uh, who, who, who has, not purchased or, you know, whatever it may be."
+    },
+    {
+      "start": 682.62,
+      "end": 712.12,
+      "text": "And so you want to create something very special and very secretive just for these people who've given you their email. You know that they're interested. They just have not made the purchase for some reason. You can create an offer like a hidden offer and hidden landing page and just send it by email and SMS to these guys and try to get them to convert on something different. Um, you know, not, not sure that, uh, it makes sense for every brand, but if you have a bunch of SKUs, uh, it could be something kind of fun and interesting to test out and also pretty low lift to do."
+    },
+    {
+      "start": 712.3,
+      "end": 740.82,
+      "text": "Either you can isolate, build a landing page as a collections page, you know, with tagging products or just use a landing page template you have and just change some of the copy and creative. You know me, I only like to share things that are tactical, practical, and actually work. So that's why I'm excited to talk about app loving today. You've likely heard of app loving, but let me tell you why it's an exciting ads platform too. Starting October 1st, app loving will be onboarding new advertisers and soft launching their self-service platform."
+    },
+    {
+      "start": 741.08,
+      "end": 766.98,
+      "text": "That means that by October 1st, you'll be able to reach over a billion daily active users daily. This season on limited supply, I interviewed Miranda who scaled in a thousand dollar a day ad spend to $70,000 a day in app loving ad spend. The channel actually has real scale to stay in the loop about creative best practices, new product features, and see how other advertisers are leveraging the platform to prepare for October 1st. Go to nick.co slash app loving."
+    },
+    {
+      "start": 767,
+      "end": 795.42,
+      "text": "That's N I K dot C O slash A P P L O V I N. Okay, so that's all I've got for promotional strategy. The next one I want to move to is website prep. Website prep is, you know, first of all, your website's basically the epicenter of all your Black Friday traffic. And so I have a bunch of notes of things that, you know, I like to make sure are done and done well ahead of Black Friday."
+    },
+    {
+      "start": 795.42,
+      "end": 824.76,
+      "text": "Okay, so the first thing is homepage banners and announcements. Now, you would be shocked how many brands don't do a good job loudly screaming what their Black Friday deal is. Everything from, you know, well, obviously the design of the homepage should be altered for Black Friday. Your pop-up should be altered. Some brands like Ridge does a really good job of this. They kind of holiday-ify depending on what the holiday is. They'll holiday-ify their homepage. So if it's a winter thing, you might see snow coming down."
+    },
+    {
+      "start": 825,
+      "end": 853,
+      "text": "If it's a Black Friday thing, you might see a gift box pop up when you hover over the CTA. They're always doing something kind of interesting and fun. But it makes it very obvious that, hey, this is Black Friday. This is the sale. Here's where you click. Go get it right now. And I think that that's something that most brands don't do enough of because they try to play this game of, oh, well, we don't want to be like a promotional brand. Well, you want revenue? You should make it loud and proud. So make it very obvious. Make the text big, bold."
+    },
+    {
+      "start": 853.2,
+      "end": 882.94,
+      "text": "Call out Black Friday sale, 30% off. Offer lasts 24 hours or offer ends Friday night, whatever it is. And include a huge CTA button that leads to that sale or a bestseller's collections page. And then I would also add a site-wide notification bar at the very top. Might even be, I've seen some brands do it in addition to their normal notification bar, just so that there's sort of like double understanding that there's a huge sale going on. This is so important."
+    },
+    {
+      "start": 883.04,
+      "end": 911.64,
+      "text": "We had to add another announcement bar. But if not adding a double one, then at least make sure your main one includes what the sale is and has a button within it that you can click or something that is hyperlinked that you can click within that announcement bar. You want to make it dead simple for anyone at any point on the website to immediately find what you're promoting for that day or for that week or whatever, whatever your ongoing kind of promotion is. Right?"
+    },
+    {
+      "start": 911.68,
+      "end": 934.86,
+      "text": "If it's that small business Saturday, that should be front and center. If it's Cyber Monday or Cyber Week, it should be that front and center. Next one is to make sure you're just ready from a speed standpoint. So there's obviously, you can use something like a Nostra where you basically use their servers to make sure that your site is imaged in more places around the country so that it pops up faster on people's phones."
+    },
+    {
+      "start": 935.04,
+      "end": 959.24,
+      "text": "But the other thing you can do is just make sure you remove any sort of crazy scripts, apps, plugins, any pop-ups, unused tracking pixels, anything that would slow down your site. Or cause load speed to be slightly slower. Get rid of them. You know, you should do that in a way where you're also testing and making sure you're not breaking something as a part of doing that. But you're going to want to make sure that your site is loading extremely fast."
+    },
+    {
+      "start": 959.46,
+      "end": 986.12,
+      "text": "I always have what I call the grandma test, which translates to, you know, make sure that if you've got a tiny iPhone screen that is maybe four or five years old, you know, so think of it having like an older cell car, a cell or data card, whatever antenna. You know, is it still able to load your site quickly? If you look at, if you go to the Jolie website on your phone, you'll notice like they use Nostra. It loads instantly, right?"
+    },
+    {
+      "start": 986.12,
+      "end": 1015.86,
+      "text": "And so that's basically what you want is for everything to load super instantly, not to have any lag. Any sort of lag, as you know, increases the chance of somebody leaving. But on Black Friday, it triples that. It's way more important. Mobile first, obviously. Make sure your phone or sorry, your site design is ready from a mobile standpoint. And really, that just means that making sure all your banners, all your announcement bars, all of your, you know, any sort of anywhere,"
+    },
+    {
+      "start": 1016.08,
+      "end": 1042.96,
+      "text": "anything that you're adding to the site to make it more Black Friday friendly, just make sure you do that in a mobile first way. Think about the mobile above the fold versus what's below the fold. Think about making sure that things are easy to read within one line or two lines. You know, you don't want to have one line full and one word on line number two, right? So making sure that everything feels mobile first and kind of organized there. The next one is the coupon codes and discounts."
+    },
+    {
+      "start": 1043.22,
+      "end": 1072.9,
+      "text": "So you want to make sure that all of your discount codes are set up ahead of time and that you have somebody who's constantly testing them. The worst thing that can happen is that, you know, you don't test a code and all of a sudden it's not working. You're driving traffic. You're wondering why things aren't working. Your customer service thing starts blowing up and that's how you figure out, right? Because once a customer service ticket gets filed, that probably means that a ton of other people have already experienced that and just bounced. They're never coming back."
+    },
+    {
+      "start": 1073.12,
+      "end": 1096.76,
+      "text": "So my recommendation is generate all the codes. Make sure you have all the exclusions properly set up or inclusions depending on what the promo is. So, for example, if you have a buy X, get Y, right? That's like a specific code set up within Shopify. So that applies properly. It displays in the cart properly in an easy way for consumers to understand as well."
+    },
+    {
+      "start": 1097.4,
+      "end": 1114.16,
+      "text": "If you've got, for example, some kind of a special fancy offer that requires, you know, four items to be in there for numbers five and six to be free, you know, you should make sure that all of these are properly done, whether it's through the regular coupon building tool or you're creating some custom scripts."
+    },
+    {
+      "start": 1114.84,
+      "end": 1140.86,
+      "text": "The other thing I like to do is, you know, all of the links that you put out, whether it's an email, whether it's an SMS, whether it's Facebook, Instagram, whether it's Instagram stories on the organic side, whether it's, you know, a founder's Instagram, whether it's whatever it is. Literally, anytime you have a URL, I've mentioned before, I'm a huge fan of using vanity URLs. So, for example, joleyskincode.com slash BFCM, right?"
+    },
+    {
+      "start": 1141.24,
+      "end": 1167.7,
+      "text": "Or, or sorry, and the thing that I like to do on top of that for Black Friday is make sure that all the coupon codes are inserted within that URL so that when a consumer clicks the link and they land on the brand's website, the Shopify site already now knows to add that code to the checkout. So, you know, I can make a link that's like joleyskincode.com slash Black Friday."
+    },
+    {
+      "start": 1168.1,
+      "end": 1189.38,
+      "text": "And let's say I'm using a 10% discount for Black Friday. You know, it'll include the discount within that URL that redirects to or that gets redirected to from joleyskincode.com slash Black Friday. And then when a consumer goes to the cart, they already see that the code has been added in checkout. So it says the code right there. It says the discount."
+    },
+    {
+      "start": 1189.62,
+      "end": 1215.88,
+      "text": "They don't have to remember to include the code because if they do, you know, people tend to maybe forget, especially on Black Friday where they got a ton of things going on, a ton of notifications popping down from their phone. They might forget. You don't want them to leave because they forgot. So just try to make things as easy as possible. That's why we call that one right there, Sharma Logistics. Do something for somebody where they don't even anticipate they want it done, but you get it done in front of them."
+    },
+    {
+      "start": 1216.2,
+      "end": 1242.62,
+      "text": "And, you know, obviously that helps conversion rate and lowers the risk of somebody leaving because they didn't remember the code. Next to that is the email capture. So your email pop-up that you use on the day of Black Friday. First of all, your email pop-up should be completely optimized. You know, make sure that pre-Black Friday you're in the range of 12% to 15% opt-in and collecting a bunch of emails."
+    },
+    {
+      "start": 1242.86,
+      "end": 1271.02,
+      "text": "But your Black Friday email pop-up should actually focus on the Black Friday offer. So change whatever the imagery is, the text is. Focus entirely on the offer. You want to position it to be something like, hey, you know, Black Friday sale up to 55% off. Enter your email to participate or enter your email to get the discount, right? You frame it as give us your email. We give you a fat discount for Black Friday."
+    },
+    {
+      "start": 1271.72,
+      "end": 1299.18,
+      "text": "Your opt-in rate is going to double, maybe triple for Black Friday. And you're going to get a ton of emails. You want to make sure that those emails are being segmented to a different Klaviyo segment or segment of ESP that you're using. And the reason is that, again, these people are coming in on a very high discount period. So you cannot treat them like normal clients or normal customers. You want to make sure that you give them some sort of a slightly altered treatment."
+    },
+    {
+      "start": 1299.18,
+      "end": 1326.48,
+      "text": "Maybe it's introducing them to the brand in a bit of a more kind of storytelling way. Maybe it's, you know, you basically just want to figure out like, okay, this guy came in from a huge discount. Normally our customers come in because they spend some time figuring out the brand. And then maybe they click an ad or they come in through an influencer or something else, right? So they have a better understanding of the brand coming in. You got to figure out with these guys, they're coming in on a heavy discount. They're really here because of the discount, not just because of what the product will do for them."
+    },
+    {
+      "start": 1326.66,
+      "end": 1353.68,
+      "text": "So you need to sort of massage that into their customer journey. And I would recommend doing it. I mean, the easiest way to do it, like low lift is add a plain text founder email that comes from the founder. So once you sign up, it's just like, hey, you know, obviously this depends on your brand and how big it is. But you can say something to the extent of, hey, I just saw you signed up for our Black Friday deal. You know, it's been my dream to have this brand see the world and all that."
+    },
+    {
+      "start": 1353.68,
+      "end": 1381.84,
+      "text": "But, you know, here's a quick, you know, you can include a quick anecdote about what got you to start the brand or what makes you so passionate about being a founder behind the brand. And, you know, if you have any questions, just reply to this email. I'm the founder. Also, here's your discount code for 50% off. You know, something like that. Just you put that before the normal welcome flow that somebody would get from the pop up. And I bet you'd increase the stickiness of that customer and also just the percent chance of those people shopping."
+    },
+    {
+      "start": 1383.54,
+      "end": 1409.8,
+      "text": "Okay, another thing around the site is I'm a huge fan of little UX tactical designs, little squares you can add, little sections, little graphics, any sort of overlays, any sort of copy, maybe a timer. You know, I just saw last night I was watching TV and I got this ad on ESPN for some testosterone supplement."
+    },
+    {
+      "start": 1409.96,
+      "end": 1439.58,
+      "text": "You could tell it was one of those, you know, they just plug an ad in one of these big TV campaign companies and just start running the ad to a landing page. But one thing I saw that was cool was in the product name, they just put like the product, they put the product name. Let's just say it's called like, you know, Cutie Pill. And then they'll put in parentheses in stock. So that's now the product name in the back end of Shopify is Cutie Pill in parentheses in stock. And then what does that do in the cart?"
+    },
+    {
+      "start": 1439.82,
+      "end": 1466.74,
+      "text": "Well, when the customer goes to the cart or they're checking out, it says right there, you know, Cutie Pill in stock. So any sort of things you can do like that. If you can add an overlay that says something like, you know, only 14 left in stock. If you can add a tag like holiday bestseller. If, you know, if you can add a countdown timer of when the deal is expiring. Any sort of kind of fun things that drive urgency, 100% do them."
+    },
+    {
+      "start": 1466.92,
+      "end": 1490.82,
+      "text": "They're super easy to design and also super easy to develop. You know, if you don't have necessarily developers that can help you do it. One, you can obviously use ChatGPT or any of these other tools to help you do the development and figure out where it goes. You can also use something like Replit and just code a small app that does this for you."
+    },
+    {
+      "start": 1491.42,
+      "end": 1520.02,
+      "text": "If you remember a few podcast episodes ago, I had Billy Howell on from Stupid Simple Apps. And he's done a ton of these. We actually just did one of these sessions at Shopify where we brought like 200 founders in and just live coded a Shopify app together. But, you know, I recommend listening to that episode I did with Billy. By the end of the episode, you will be able to create your own apps. Okay, last three things I want to add here on the website."
+    },
+    {
+      "start": 1520.92,
+      "end": 1547.4,
+      "text": "Number one is reviews and social proof. So you need to think about the fact that these people coming to the site are coming because of a deal. They're not coming just because of the product and the brand and the story. So slightly alter any of the reviews or social proof that you're featuring to make sure it, you know, relates back to this consumer who's now coming. It's slightly different than the normal. The second thing is your post-purchase survey."
+    },
+    {
+      "start": 1547.62,
+      "end": 1576.64,
+      "text": "Make sure that you sort of tweak the post-purchase survey to, you know, ask questions like what made you decide to shop with us today? Or what could we do to keep you coming back after the sale? Right? Anything that's your normal stuff that had you hear about us or, you know, if they clicked influencer and you want to see which influencer. Keep those, but keep those after. Just ask one or two questions up front specifically catering toward people coming in on a huge sale."
+    },
+    {
+      "start": 1576.96,
+      "end": 1600.28,
+      "text": "And then the third thing and final thing on the website piece is, and shockingly, most brands do not do this unless they're like, you know, owned by Unilever or something. Is disclaimers and, like terms and conditions for the sales. Making sure that those are on all of the sale pages for Black Friday. And ideally, you have it somewhere within your cart or your checkout as well."
+    },
+    {
+      "start": 1601.58,
+      "end": 1628.18,
+      "text": "This disclaimer is essentially something that outlines very clearly in, you know, almost like legal-like language that says something to the extent of, you know, offer, you know, offers valid while supplies last. You know, offer includes X, Y, and Z. Discount is valid up to X. Offer ends on X date at X time."
+    },
+    {
+      "start": 1628.68,
+      "end": 1650.64,
+      "text": "You know, see terms and conditions or restrictions may apply. Whatever it may be. You need to have something in there that protects you in case. Well, not in case. People will definitely email after and, you know, say something or the other about what they want as a return or a refund or this or that or another discount applied, whatever it is. Or maybe they just feel like they misunderstood what the discount was."
+    },
+    {
+      "start": 1650.9,
+      "end": 1676.16,
+      "text": "But you want to have these terms and conditions or a disclaimer, something of that sort on your landing page or your collections page for wherever you're driving your traffic. Don't hide it. Don't try to make it tiny and at the bottom. Make it very clear. You know, you want to sort of like proactively be transparent about this stuff versus anybody feeling like they got tricked. Okay. That's what I've got for promotion and website."
+    },
+    {
+      "start": 1676.56,
+      "end": 1700.18,
+      "text": "So for next week's episode, we're going to go through email and SMS and then all of paid media, creative, pixels, tracking, measurement. And then hopefully we'll be able to get organic social affiliates and customer service in there as well. But that will then conclude the Black Friday playbook. I'm also going to go ahead and make this entire thing available to you."
+    },
+    {
+      "start": 1700.38,
+      "end": 1729.64,
+      "text": "So if you go to nick.co slash BFCM, N-I-K dot C-O slash BFCM, you will see this 15-page doc or 14-page doc where I go through basically everything I'm talking about here in greater detail. So if there's anything you missed as I was talking about it or if I was jumbling my words because my thoughts are always ahead of my words coming out of my mouth, you can look at that and see if there's anything there. If you have any questions as you're going through it, just feel free to DM me on Twitter or email me."
+    },
+    {
+      "start": 1730,
+      "end": 1758.12,
+      "text": "And, you know, I'll try to get those answered as quick as possible. But I hope this was a helpful episode and, you know, led you to at least one nugget. I think the biggest nugget that I would perceive to be in here is actually the terms and conditions of the sales. That tends to avoid a lot of chargebacks slash customer service issues post-sale. And yeah, so that's today's podcast episode."
+    },
+    {
+      "start": 1758.54,
+      "end": 1774.82,
+      "text": "Shoot me an email with any questions. Otherwise, I will see you next week. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

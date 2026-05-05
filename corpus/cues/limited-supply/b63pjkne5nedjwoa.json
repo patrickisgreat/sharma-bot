@@ -1,0 +1,529 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.67,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co.com slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.67,
+      "end": 53.49,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. You may have heard of AppLovin before, or maybe not, but let me tell you why you need to pay attention. Whether or not you realize it, you've interacted with AppLovin as a consumer. They're the largest ad network for mobile games, reaching 150 million people per day. Not per month, not per week, but per day."
+    },
+    {
+      "start": 53.49,
+      "end": 82.35,
+      "text": "The network has grown so much that they reached a billion dollar run rate in AppLovin just from e-commerce spend. It's the fastest growing ad platform for D2C brands, and it allows you to drive measurable performance at scale. Sign up to be the first to know when AppLovin can onboard you and get to the front of the line with my special link. It's nik.co slash app beta. See why brands like Hexclad and Ridge rely on AppLovin. Go to nik.co slash app beta."
+    },
+    {
+      "start": 82.55,
+      "end": 104.16,
+      "text": "That's nik.co slash app beta to see when you can get onboarded to AppLovin. Hello, and welcome back to another episode of Limited Supply. We are in season 13, and today we've got a really fun interview."
+    },
+    {
+      "start": 105.48,
+      "end": 128.04,
+      "text": "A good friend that I met recently, Billy Howell, is known as the vibe coder in our world of e-commerce and really on Twitter. He's actually a great follow on Twitter. If vibe coding or building apps to automate things or make processes faster, or even for example, let's say you have a back in stock app that's charging you 50 bucks a month,"
+    },
+    {
+      "start": 128.04,
+      "end": 157.34,
+      "text": "or a bundle building app that charges you as you scale your monthly orders, those are all things that Billy can help you turn into an app that you build once and you no longer pay these monthly fees for. So there's a lot of interesting ways that vibe coding, which is really just AI-assisted coding, can make its way into the world of e-commerce. So anyways, today I spent about 40 minutes interviewing Billy, talking all about what is vibe coding?"
+    },
+    {
+      "start": 157.52,
+      "end": 187.3,
+      "text": "How do you get started? How did Billy get started? Because I think it just illustrates how easy it is for somebody to get going. What can e-commerce brands gain out of it? Who add e-commerce brands, whether it's the operations, the supply chain, the marketing, the creative team, whoever it is, how can they take advantage of it? And then we dove into the exact softwares and how you do it. So it's a really good episode. My goal is that by the end of this episode, you're actually going and developing an app yourself."
+    },
+    {
+      "start": 187.7,
+      "end": 210.9,
+      "text": "If you do, send it to myself or send it to Billy on Twitter or by email, and we'd love to feature it. And yeah, if you've got any questions, I've got Billy's information in the description below. He also mentions it at the end, but you can hit him up by email or his company is called Stupid Simple Apps. You can also hit me by email or by Twitter. And yeah, I hope you enjoy the episode."
+    },
+    {
+      "start": 211.1,
+      "end": 240.12,
+      "text": "If you like this and you like the whole vibe coding side or even just the more kind of, you know, how do we leverage AI better side of content? Let me know because there's a lot to go deep on here. And I would love to get more experts on and go really deep around how you can just be leveraging it a lot more. So I hope you enjoy this episode and let me know what you think. All right, Billy, thank you so much for joining us today on Limited Supply. It's the first time you're on and probably not going to be the last."
+    },
+    {
+      "start": 240.24,
+      "end": 267.78,
+      "text": "So excited to have you here. Hey, Nick, good to see you. First time, long time, long time, first time. I'm one of those. I'm really excited to kind of talk about vibe coding and help people kind of cut their teeth and show that it's approachable. Amazing. Yeah, we got to meet through the AI Summit. My friend Troy, I think, did a consulting session with you and was blown away by what he was able to go and build after spending like an hour with you."
+    },
+    {
+      "start": 268.16,
+      "end": 296.88,
+      "text": "And then we thought, you know, we got to have this guy at the AI Summit and not just talk about AI, but like show people. And you ended up building an app on stage. And it was our most talked about session of the day. So thanks for doing that. And now I'm excited to take that and bring that to everybody in the Limited Supply community. So just to give us a little background, Billy, can you just talk about, you know, you're known for vibe coding. But this is obviously a term that just kind of became popular."
+    },
+    {
+      "start": 297.16,
+      "end": 326.14,
+      "text": "So just give us a brief background on who you are and how you got here, because I also want to illustrate how accessible this can be for somebody who's listening to start leveraging or getting into the world of vibe coding. I think kind of the most important thing that has kind of kept me interested in coding my whole life as like a non-coder, a non-technical person is just kind of like the apps I used growing up. And so like going up, like, you know, the iPod Touch came out. And so the App Store just blew me away."
+    },
+    {
+      "start": 326.32,
+      "end": 354.56,
+      "text": "And the whole Facebook story and Snapchat, I was fascinated by Snapchat. And so I always wanted to kind of build something with code. I just didn't really know what it would be. Kind of, you know, would take, would watch YouTube videos and take courses, but would always kind of tap out after a certain point of just Googling questions and not knowing what was going wrong. I took, actually took a coding class in college and got a C plus."
+    },
+    {
+      "start": 354.9,
+      "end": 377.94,
+      "text": "So I'm by no means a technical. If only you got a C plus plus. There we go. Now we're cooking. And I guess professionally, I started in consulting, doing kind of DOD consulting in DC. And then I quit during the pandemic to kind of start my own business, doing some SEO consulting with startups."
+    },
+    {
+      "start": 379.48,
+      "end": 406.06,
+      "text": "And when ChatGPT came out, I just naturally started trying to use it to help my clients and improve my own workflows. I was pasting in like Google Apps Scripts, asking ChatGPT to debug them and then going and testing them. And then Replit came out. And so if ChatGPT was like a zero to one for my coding, like Replit would be like a one to 10 because I was able to, you know, contain all of those things in self-deployed apps."
+    },
+    {
+      "start": 406.06,
+      "end": 430.74,
+      "text": "And just iterate like at the speed of light. And so then it was just kind of an obsession where I was building every idea I'd had over the last, I don't know, 20 years. I've been thinking about apps, just throwing it into Replit, Cursor, Lovable and seeing what I could bring to life. And then continuing to just build useful stuff for my existing clients."
+    },
+    {
+      "start": 431.54,
+      "end": 455.9,
+      "text": "And then it all kind of came to this point where I was looking for new SEO clients on Upwork. And I saw a guy who needed something unrelated to SEO, like something with Airtable, like data entry. And I was like looking at his stack and because I was really familiar with the technology, I was like, this is going to come out to be like $250 a month in software for something really basic, like just a data entry app."
+    },
+    {
+      "start": 456.34,
+      "end": 480.22,
+      "text": "And so I kind of recorded a loom and pitched him on like a prototype I made of his app in like 30 minutes and was like, I could do what you asked for and use Airtable and software, but it's going to cost you this month. But I could also make you your own custom branded one that looks like this. And, you know, I didn't get into, I didn't say like, this is built on Replit and this is what AI coding is because he doesn't care. He just cares if it works. And he said, I like your version better, Billy."
+    },
+    {
+      "start": 480.22,
+      "end": 508.3,
+      "text": "And that was kind of the impetus for my agency, Stupid Simple Apps was finding people who didn't even know they needed an app, but all of the parts were there for us to kind of piece together that story. And so now, yeah, I run Stupid Simple Apps and we make startups, small businesses, venture studios. We make apps for all sorts of people. Yeah, it seems like too, you're not just, you're not making iPhone apps here."
+    },
+    {
+      "start": 508.46,
+      "end": 537.3,
+      "text": "You're really figuring out workflows and processes that can be better, more efficiently conducted and turning those into an app. Is that right? This is exactly true. They're web apps. And the process thing is interesting that you say that because a lot of this was kind of before it was so easy to vibe code apps. I would make these long, complicated workflows in like Zapier or make.com for clients. And those can be really useful."
+    },
+    {
+      "start": 537.78,
+      "end": 566.7,
+      "text": "But what it teaches you is that there's API endpoints for everything and you just need code to talk to them. So you can build, you can take any of those workflows and turn it into an app. So I think that's really cool. Yeah. And so just to make sure that everybody follows along. So some of those tools you mentioned like Cursor, Replit, we'll get into those in a second. But can you explain what an API is? I think people have seen API and, you know, some people may understand it's sort of like a connector."
+    },
+    {
+      "start": 566.86,
+      "end": 594,
+      "text": "But what's the best way to explain an API so people can understand it for this conversation? Yeah. So it's usually a library of like endpoints. And you can think of the endpoints as, I don't know, like different stores you go to. Like each one is going to have different data or capabilities. So one API endpoint might retrieve user data. One API endpoint might take data and turn it into an image or transform it in some way."
+    },
+    {
+      "start": 594.72,
+      "end": 621.62,
+      "text": "And so when you look at like a make.com or Zapier, any of those nodes that you see in there, that usually means that there's an API that you could just use in your app. So if you're ever unsure of if something can be done or a certain use case can be done, it's good to go shopping in kind of these hubs for solutions. Or you could go to somewhere like Rapid API or Appify and take a poke around and see which ones are available."
+    },
+    {
+      "start": 622.26,
+      "end": 651.6,
+      "text": "But basically how it works is there's a URL and your app sends it a packet of data, including usually an API key, which is what lets you get your unique data or just attach you to like a billing account. Because most APIs, you probably have to be paying to use them, right? And so you send the API who you are and what you're asking for. And then it'll send it back in what's called JSON format."
+    },
+    {
+      "start": 651.6,
+      "end": 675.92,
+      "text": "And you can make your app read that and use it. So there's tons of them out there, like basketball reference. If you're into like the NBA, like that would be a really cool one to plug into. But I actually don't know if it's public. So maybe that's a path of the sample. But any... So it's almost like ways to integrate another app's data or information and make it easily digestible within your app. So you can leverage it or visualize it or pull stats or whatever it may be."
+    },
+    {
+      "start": 675.92,
+      "end": 705.02,
+      "text": "Yeah. And you can think of it, it's useful because instead of me having to store every single NBA player's data point on my own server, someone else is doing that for me so I can just query it. And beyond data, they also can do things like generate videos, generate images, like actually like manipulate things. Wow. So like OpenAPI has an API where you send it a prompt and it'll generate back a result and then send it to you. Right."
+    },
+    {
+      "start": 705.02,
+      "end": 733.64,
+      "text": "Yeah. And even like Triplewell, for example, they plug in a bunch of models. So essentially they're using APIs from other models to enable their workflows to do what we want it to do. Yeah, that's kind of the secret sauce of every AI coding platform, like Cursor, Replit, Lovable. Basically what they've done is they've taken all of the models and found out which ones are best at which tasks. So they'll see Billy asked to build a database."
+    },
+    {
+      "start": 733.64,
+      "end": 762.66,
+      "text": "Well, we know that Gemini is the best at building databases right now. So we're going to send them this request and we're going to prompt it in exactly the right way to get that output that we want to then turn into code. Right. So that's just kind of some of the secret sauce there. Yeah. Okay. Amazing. I want to dive into, so like what is vibe coding? So coding, you know, when I was a kid, I remember, do you ever, do you ever remember using an app called Dreamweaver? It was like part of the Adobe suite back in the day to build websites."
+    },
+    {
+      "start": 763.12,
+      "end": 787.7,
+      "text": "It was a terrible website builder for somebody who doesn't know much code. But between Dreamweaver and then I started to use WordPress and learned a little bit of HTML there. You know, that was probably the extent of my coding. And today I can kind of like read code because it does for, it follows this like legal type of format where everything's predefined before you get to it. But then you have to kind of remember what it defines as you go down."
+    },
+    {
+      "start": 788.08,
+      "end": 810.8,
+      "text": "But vibe coding is something that, I mean, you built an app and demoed it on stage and people then built an app with you within an hour. So it's much easier and it seems like you don't need to actually necessarily know the code. So how would you describe vibe coding? Yeah. So I think it kind of, to start, like people, it was like a pejorative term where it was, they're kind of making fun of people."
+    },
+    {
+      "start": 810.8,
+      "end": 838.36,
+      "text": "But I think it's back again, it has like a positive connotation and it's just kind of like a way of like being flippant about coding and saying, you know, like, instead of planning out this multi-step thing and putting it in a Jira board, like a proper software engineer, I'm just going to go off vibes and tell the AI to build me this. And if it doesn't work, tell them to fix it and just kind of go, kind of go that way and build in any order."
+    },
+    {
+      "start": 839.84,
+      "end": 869.8,
+      "text": "And I think it's funny because you do actually learn by osmosis doing this. Not in a traditional way, but you learn because you're able to rapidly iterate and just, you know, when Cursor first came out, like I was able to start working on, you know, like two to three apps every weekend. Whereas like in the previous, when I was just Googling stuff on Stack Overflow, it would take me like a month to like get even close to finishing a project."
+    },
+    {
+      "start": 869.8,
+      "end": 898.3,
+      "text": "So that rapid kind of iterative learning, building an app, then going and building it in a different platform or starting over and building it better using what you've learned. Now I understand like the React, like web framework, React and Node is what most people use for web apps. I understand it like pretty well now. And going into it, I had no idea what any of the folders meant or really how they were intended to work. So you do learn from it."
+    },
+    {
+      "start": 899.42,
+      "end": 925.48,
+      "text": "Yeah, I agree. I think even with like the same thing goes for building a website, like or any other, even ads manager, the more you're just in it, the more you're just going to observe like, oh, if I do this, the reaction is this. Okay. Now I know that next time I do this, you know how it's going to work. Yeah. I mean, it's like one of the only things that one of the only skills that maybe you can like, you get enough feedback that you can brute force your way into learning."
+    },
+    {
+      "start": 925.48,
+      "end": 954.44,
+      "text": "Like you probably wouldn't be able to do the same thing like with like golf, like, trust me, I've tried like, like you need good feedback. Right. But because like the agent makes the correct fix for you and tells you where you went wrong, you can learn that way. I bet you can make a cool golf swing watching app that just watches your swing and immediately gives you feedback. There's actually some really cool ones already. It's insane. They like put you on like a plane."
+    },
+    {
+      "start": 954.44,
+      "end": 982.4,
+      "text": "Like they put an access through you. And so they'll say like, your shoulders are misaligned by 10% or like you're coming this far up. It's really cool. Yeah. It's crazy when, well, maybe we're getting ahead of ourselves, but it's crazy to think that like the concept of being able to build apps now in such a rapid amount of time is going, I mean, I'm just so curious about what it's going to do to the average consumer of apps. Because this, you know, like, have you heard of Flowcode by any chance? Yeah."
+    },
+    {
+      "start": 983.2,
+      "end": 1013.02,
+      "text": "Flowcode is like, Flowcode crushes because they're locked in with the massive companies that have huge procurement and privacy and data and security teams. But for the average person who's just downloading an app or wants to use an app like this, you know, like whoever had the number one spot in the app store before, you know, it's probably not going to last because now anybody can make their own version of this app just tailored to them. Or take a version of the app that's already made and then enhance it to be just tailored around them. Yeah. Yeah."
+    },
+    {
+      "start": 1013.12,
+      "end": 1042.56,
+      "text": "I think we're probably going to reach a point one day where you can just hand your login credentials to an AI and it could go in and reverse engineer the whole app and like rebuild it. That's crazy. That'd be nuts. How, yeah. How, how do you, how have you seen e-commerce brands, whether it's on the, you know, the op side, whether it's on the marketing side or whether it's just a founder who's trying to be more efficient? Like what kind of problems have you seen get solved with vibe coding so far?"
+    },
+    {
+      "start": 1042.98,
+      "end": 1066.88,
+      "text": "Yeah, I think there's two main ones. One is pulling all of your data into one place. This is a huge need for like, I get this all the time from e-commerce operators. Maybe, you know, their marketing data is in one place. Their Shopify data is in one place. You know, there's so many dashboards. So they really just want to connect to those APIs and pull it into one report."
+    },
+    {
+      "start": 1068.06,
+      "end": 1096.28,
+      "text": "Sometimes throw AI on top of that to get quick insights on like, hey, you know, tell me some trends about like our marketing spend and how it relates to like our inventory. Or maybe make some suggestions based on like inventory we're high on and maybe could like discount. So there's a lot of interest in stuff like that. And then also, you know, how e-com operators are like they have multiple brands, right? So even just rolling up because you may have used, you know, Shopify for one brand, WooCommerce for another. And maybe those don't play nice together."
+    },
+    {
+      "start": 1096.46,
+      "end": 1123.32,
+      "text": "So making your own custom kind of data viz for that. And everyone has their own KPIs that they find are most important. So yeah, bringing data into one place. And then the other one is e-com operators are shrewd, right? And so they're realizing like, hey, I shouldn't be paying $50 a month for this like out of stock widget on Shopify. I'm just going to build my own waitlisting. Anything with inventory management."
+    },
+    {
+      "start": 1123.6,
+      "end": 1151.74,
+      "text": "So like at the conference, like this guy was... And I talked to him last week about it, about tracking like shipping containers. And then how that updates, how many pre-orders can go out in Shopify. It just doesn't connect. And every single brand is unique. And their workflows are unique, which means they all have these unique problems. And so smart e-com operators have been able to use AI to cut out those SaaS costs that stack up."
+    },
+    {
+      "start": 1151.98,
+      "end": 1177.84,
+      "text": "And then also just unify their data. Yeah. To your point too, like a lot of these, you know, if somebody's using like NetSuite for their ERP and they're using, you know, another company where they're tracking their shipments in or containers in from China and they're using Shopify. And then they're also running Facebook ads. Like some of these platforms will not be talking to each other for the next two to three years. But eventually they will because they will have to."
+    },
+    {
+      "start": 1178.54,
+      "end": 1208.26,
+      "text": "And I think this use case too is so great because you can just connect these apps without having to use like a body to do that. Right now you have to have a person who's manually doing all this. But, you know, to your point just now, like tracking shipping containers and then justifying pre-orders per day, allowable pre-orders per day is such a great use case of two apps that for the next two years will probably not have an integration together. Like the shipping containers and Shopify have no need to talk to each other. But in this case, it's a great example."
+    },
+    {
+      "start": 1208.44,
+      "end": 1237.04,
+      "text": "Well, and I think going further than that, it's not so much a question of like, can it be done or will it be done in the next two years? Will the data all roll up? There's a million products out there for integrating your data together. Looker Studio or like DataBox, different things like that. But because each business has its own unique problems, like even these sprawling platforms can't anticipate your needs. And also to do exactly what you want, it gets so fiddly. You know what I mean? Like I'd filter it so it's only for this quarter, but only orders like this."
+    },
+    {
+      "start": 1237.2,
+      "end": 1266.2,
+      "text": "You might as well be coding at that point if you're putting that much complexity into filters. Totally. Can you talk through like the tech stack here? So, you know, somebody listening is like, okay, that's a great use case. Or, you know, maybe I should create a widget for my product page that, you know, adds an upsell or whatever it may be. What kind of tech stack are we looking at and how complex is it? You know, I'm like the one Indian who doesn't know how to code. So, you know, say it for somebody like me."
+    },
+    {
+      "start": 1266.94,
+      "end": 1294.92,
+      "text": "Yeah, I think having a chat GPT and Replit is all you need. That's like mainly my stack. Sometimes I'll use V0 or Lovable to kind of make a pretty front end. They make really pretty UI. But at the end of the day, just need chat GPT for kind of planning and maybe troubleshooting. And then Replit or I would say like Cursor is also a good alternative. Now that's a local coding IDE, right? So it's going to be a little more intimidating."
+    },
+    {
+      "start": 1295.42,
+      "end": 1323.4,
+      "text": "Whereas something like Replit or Lovable is all in the browser. And all the code is stored in the cloud. So you don't have to worry about installing things like dependencies for specific integrations to work on your laptop. But I started with Cursor and then I went to Replit. And depending on like the size and the type of task, I'll flip between those two. I think Cursor is going to be more custom. Like do anything you ask."
+    },
+    {
+      "start": 1323.56,
+      "end": 1350.92,
+      "text": "Whereas anything in the cloud is going to use the stacks that it's kind of trained to be best on. Like does that make sense? Yeah, totally. Yeah. So like Cursor, if you want to be really custom, you're doing something that's kind of atypical or has lots of moving parts. Maybe you want to go slower even. Replit or Lovable if you want to get to like a quick prototype, proof of concept, something super easy like a database with username and login. But you can build way more complex apps in there and I do. Right."
+    },
+    {
+      "start": 1351.2,
+      "end": 1377.36,
+      "text": "And so how do you use ChatGPT versus going into a Cursor or Lovable or Replit? Yeah. So I just go in there and I use this app called Super Whisper, which I need to get a referral code too because I keep plugging it in all these calls. But it's super cool. Yeah. I have the Replit one. Throw that in the bio. I will. With Super Whisper, it's voice-to-text. And I think it's, I'm still on their free plan."
+    },
+    {
+      "start": 1377.64,
+      "end": 1401.24,
+      "text": "And so I find that when you're talking to AI, it's more helpful to be verbose, right? Like super helpful to be verbose. And you're just limited by how fast you can type. So I go into ChatGPT and I just describe the app like I would describe it to you here. And then if I have kind of unknown things, like if I'm not sure how the apps should look or how we should do something, I'll ask it to do that research."
+    },
+    {
+      "start": 1401.42,
+      "end": 1426.18,
+      "text": "And then at the end, I'll ask it for what's called a PRD, which is a product requirements document, which is kind of something I've stolen from like software, like real software engineers, right? Not five computers. And I just list like, here's all the features. Here's all the screens, like the pages we need. And here's like the integrations we're going to use. And then I'll just take a look at that and pop it into like Replit or cursor and tell it to get to work."
+    },
+    {
+      "start": 1426.96,
+      "end": 1455.94,
+      "text": "And I find that makes your starting point a lot better because if you start out incorrectly at the gate, and I think this is where a lot of people get stuck, right? They've got an idea that's like, and they put in a sentence or two. And then the idea doesn't look anything like what they pictured in their head. So they're like trying to unwind all this code, you know, hundreds of lines of code. So you want to spend two minutes to get closer to a fully fleshed out idea before you start these."
+    },
+    {
+      "start": 1456.38,
+      "end": 1483.04,
+      "text": "It'll save you two hours of time. We just onboarded two brands who are new to AppLovin, but very heavy Facebook spenders. One is a high AOV in-home product, and one is a supplement brand. Now why? Well, AppLovin sees 150 million active users per day. The same way you'd want to test a channel like Snap is the same way we approach testing AppLovin. So far, the onboarding was super smooth."
+    },
+    {
+      "start": 1483.18,
+      "end": 1512.94,
+      "text": "We've been able to ramp up spend in just a short amount of time, and I think we're still hitting our planned ROAS targets. Candidly, I haven't seen many platforms able to ramp up this quickly, and I'm excited to continue investing into the channel. Throughout the season, I'm going to keep you updated with how our results are going. But right now, you can get updates on AppLovin's e-commerce beta and be the first to know when opportunities become available at nick.co.appbeta. That's n-i-k.co.appbeta."
+    },
+    {
+      "start": 1513.12,
+      "end": 1536,
+      "text": "Check it out. Yeah, so two things I picked up since we started. Like, two things that matter a lot. One is organization of data, and the second one is the prompting, like the inputs you give it. You know, have you figured out any tricks to make prompting better, smarter, more accurate?"
+    },
+    {
+      "start": 1536.22,
+      "end": 1559.98,
+      "text": "Like, I was even scrolling Twitter yesterday, and I'm sure you saw, like, the videos of the Ikea, the VO3 Ikea ad. Did you see that? Where, like, out of a box, it just all opens up and everything animates perfectly. And the way that it's written, like the prompt going into VO almost looks like code. You know, it's like camera shot equals this, you know, this height, this, this."
+    },
+    {
+      "start": 1561.64,
+      "end": 1587.94,
+      "text": "So I'm wondering, like, are there tools to prompt better, or are there tricks to prompt better? Because, you know, most people, they tend to assume, and this happens in marketing too. This is why so many brands don't take off from a marketing standpoint. But they assume because they're drinking the Kool-Aid, whoever they're speaking to also understands the same level of context. And I don't think, like, ChatGPT does a really good job asking questions unless you tell it to ask you questions."
+    },
+    {
+      "start": 1588.8,
+      "end": 1617.9,
+      "text": "So have you figured out any tricks or are there tools that exist to do better prompting? There probably are tools. I don't use them because there's just too many. I don't have the time to go experiment with them. You can get good enough on your own. So one of the things I do, it's funny that you say about questions, is in my system problem in ChatGPT, I ask it to ask me three clarifying questions every time I send a prompt. And that just really helps get it thinking, get me thinking. So that's, like, number one. I would do that."
+    },
+    {
+      "start": 1617.9,
+      "end": 1644.94,
+      "text": "And then whenever I'm coding with, like, an AI, like, coding agent, and I'm working on, like, adding a new feature or fixing something, I tell it to, I'll explain the problem. I'll say, like, diagnose the problem and find the solution. Then walk me through it. But don't write any code. Because if you think about it, when you send a request, ChatGPT has got, say, it's got 100% of brain bandwidth."
+    },
+    {
+      "start": 1645.12,
+      "end": 1666.04,
+      "text": "It's going to spend 40% on thinking about the problem, then 60% on coding, because it's going to think and then code. But if you just tell it to walk me through the problem, it's going to use 100% of that bandwidth to find the solution. For you, it's going to poke around more, because it's not thinking about, like, saving tokens. So I found that really helps. Oh, that's really interesting."
+    },
+    {
+      "start": 1666.42,
+      "end": 1693.04,
+      "text": "That's, uh, so, so the loophole there is you're basically telling it to conserve tokens, because it itself is trying to be efficient on the output. Yeah. And I even will tell it, if I know something is going to be, like, a multi-step thing, like, it's going to build something out to come back to me to build more. I'm going to say, don't worry about tokens, like, we can do this in multi-steps. I don't know enough to know if that makes a difference, but I suspect it does."
+    },
+    {
+      "start": 1694.48,
+      "end": 1715.76,
+      "text": "And the other neat thing about, let's see, Windsurf is kind of like Cursor. I think Cursor even has this now, but you can toggle in the chat, in the input, rather, whether you want to chat or edit code. So you can just cut it off from coding, which is really useful. And I recommend doing that. Interesting. Mm-hmm."
+    },
+    {
+      "start": 1716.46,
+      "end": 1740.28,
+      "text": "And then the other big thing is, if something breaks after the agent has coded something, don't add more code on top of it. Roll it back. Most of these AI coding softwares have the ability to, like, roll back to a checkpoint. So roll it back and then try again. Don't keep putting good code on top of bad code. Being disciplined about that makes a really big difference. Yeah."
+    },
+    {
+      "start": 1740.62,
+      "end": 1768.46,
+      "text": "How easy is it to now take, let's say you were able to build this web app, and now, you know, you have a dev team at your brand, for example, and they want to go and modify the design or the CSS or whatever it is. How easy is that? Design in CSS is really easy. Like, in Replit, in most of them, you can just, like, even click, like, a little pin button and then select elements on the page. You can manually edit it in the chat. Like, it'll show you all the CSS values."
+    },
+    {
+      "start": 1769.04,
+      "end": 1796.36,
+      "text": "Or you can say, like, delete it or modify it in this way or do this. So non-technical people can very easily edit the design if you just, like, add them to a repo. So that's a good question. No one's ever asked me that before. Yeah. Because I always think, like, a lot of times people will think, well, you know, let's say I make an app, you know, is it easy to continue innovating? Or a year later, let's say somebody new joins the marketing team and I'm gone. You know, are they going to be able to go and take that from where it is and innovate?"
+    },
+    {
+      "start": 1796.36,
+      "end": 1823.06,
+      "text": "Or do they have to go back into the, you know, the text, the chat interface to make an app to that, whatever it may be? Yeah. Yeah. I might even be able to just show you one. It's really, like, you can literally just, like, you're in, like, a bubble or Webflow. Just click in into the preview, in Replit at least, and change it. So that's a good point because, yeah, you're going to have a lot of different teammates working on these sites. Totally."
+    },
+    {
+      "start": 1823.06,
+      "end": 1852.08,
+      "text": "Another good practice is to separate the app from the actual landing page or, like, the marketing pages. So at the beginning of the prompt, tell it, like, specifically say don't build a landing page. This is just the app. And then you can deploy that to, like, app.your subdomain. And then you can make a landing page either separately in a different AI or just, like, in Webflow or ClickFunnels or whatever you want to use."
+    },
+    {
+      "start": 1852.08,
+      "end": 1881.73,
+      "text": "I feel like probably people might not think of that, but that's definitely something you could do. No, totally. Makes a lot of sense. What are some, like, what are some scrappy use cases you've seen being built very quickly and adding a ton of value? Like, lowest investment required for a pretty high value output? Probably what I'm doing, right? Like, B2B. Yeah. Yeah."
+    },
+    {
+      "start": 1882.63,
+      "end": 1911.97,
+      "text": "Finding people with, like, hot pain point problems at their business and then building them a custom solution rapidly. You know, three to four weeks, right? I think that's the quickest path to, like, getting outsized returns on Vibe Coding versus making a D2C app and then having to figure out the marketing and the distribution, right? So I'm always going to preach to go B2B first, especially if you've never done either."
+    },
+    {
+      "start": 1912.87,
+      "end": 1941.19,
+      "text": "Because the average deal size is higher. It's more relationship-based, one-on-one versus D2C where, you know, you might have, like, 50 customers, but they're all paying you $10. And it's hard to separate signal from noise on what to build. And so I think, like, for example, like, AI receptionists for local businesses, building those custom or even just setting those up from an existing product as a big opportunity."
+    },
+    {
+      "start": 1943.45,
+      "end": 1972.83,
+      "text": "Um, chatbots that are trained on companies' data. Like, we had a guy who manages, like, a restaurant group that does this charity thing every week. And he wanted his menus digitized so that people can go on the site and be like, I'm in Fort Lauderdale on Thursday and I want steak. Like, which one can I go to for this charity event? Um, so, yeah, little custom AI bots for people's data. Definitely useful. Um, and that's big in e-com too, right?"
+    },
+    {
+      "start": 1973.45,
+      "end": 2000.47,
+      "text": "Shopping assistants. Have you started to see, uh, like, an internal full-time role of AI coders or optimizers? Or I'm not really sure, like, what the title would be. But somebody who's going into a company and saying, wait a second, we've got all these processes that are being manually done. And, you know, we can start turning these into apps or, um, you know, web apps to really, uh, save time or just make things a lot more efficient."
+    },
+    {
+      "start": 2001.31,
+      "end": 2019.35,
+      "text": "I don't know that I'm aware of that being like an internal role anywhere, but I think you certainly could make the case for yourself at your job and be that person. Um, because it just doesn't take that much time to spin up something that's like visually impressive and like demonstrates the value."
+    },
+    {
+      "start": 2019.81,
+      "end": 2046.63,
+      "text": "Um, and, you know, since I've done a bunch of these podcast interviews, people DM me and be like, hey, I sold these like AI coding solutions to my boss, like to my CEO for 20K, 30K. Right. And their approach was basically build it out. Some of them built out the whole thing. I would build out just like a demo and then take a loom and send it to the CEO or set a meeting with the CEO and demo it for them there and see if you can get buy-in."
+    },
+    {
+      "start": 2046.63,
+      "end": 2075.25,
+      "text": "And even if they don't like that particular solution, they know, all right, I've got Billy in my back pocket now. And they'll come back to you when they see something in a couple of weeks that they think could be automated. Um, so yeah, I just, I used to do this when I worked in consulting was try to automate stuff in Excel when we were doing repetitive data entry. Um, and I got me on some cool projects and meet some cool people in the company I wouldn't have. So, um, I think it's a great idea. Yeah."
+    },
+    {
+      "start": 2075.39,
+      "end": 2091.47,
+      "text": "I feel like in the next like two to five years, there's going to be, there will definitely be, I, if not an AI team, I think a lot of brands or a lot of companies are going to have some sort of like AI, you know, consultant or a full-time, you know, one person who's constantly trying to figure out how to make things more efficient."
+    },
+    {
+      "start": 2091.47,
+      "end": 2120.31,
+      "text": "Um, you know, I even remember like when notion started to become really big, this whole crowd of notion consultants and, uh, and whatnot became really big because it was like, wait a second, we can make information a lot more efficient within the company. And I think that's going to happen here. Yeah. And it's going to get to a point where it's so accessible that you're going to need an expert to point to that can say no to everyone being like, we should automate the coffee machine. You know? Yeah. Yeah."
+    },
+    {
+      "start": 2120.55,
+      "end": 2141.07,
+      "text": "When I wake up, it should know that 37 minutes later, I should be at my coffee machine. Yeah. Um, okay, cool. I'm curious. Um, so like with all the apps that exist today, Shopify, Klaviyo, you know, PostScript for SMS or, um, Triple Whale, like a lot of these apps are starting to build AI."
+    },
+    {
+      "start": 2141.07,
+      "end": 2169.85,
+      "text": "Where do you see like the path, you know, the way I kind of see it as I feel like a lot of these apps are going to try to build AI or leverage, um, APIs of different models within their apps. And then, um, as that becomes more familiar, we're going to start to see like marketplaces where I can go and download, you know, Billy's apps and just use them in my own store, or I can subscribe to Billy's bot or something of that nature. How do you kind of see this playing out? Yeah."
+    },
+    {
+      "start": 2169.85,
+      "end": 2199.77,
+      "text": "I, I think to me, the interesting thing is most of these products use these generalized LLMs, right? Because they're like pretty good. And I think we'll see, I think we'll see a gold rush maybe of truly custom LLMs that are really actually trained on your data or data from your industry. Right. That's making them really good at understanding like, you know, I don't know, SKUs for like fashion rental companies, like pricing strategies for, um,"
+    },
+    {
+      "start": 2200.23,
+      "end": 2227.13,
+      "text": "I don't know, painting contractors. Right. I think that would be a huge value add. And I think it's something that I think it's something that people aren't focusing on now. Like at, like at all. Right. And I think that's kind of where the AI stuff started was everyone's going to have their own AI that's trained on their subject matter. And somehow we've just kind of blown past that. And we're using the, cause the generalized ones are so good and they do, they're trained on like the whole internet, uh, theoretically."
+    },
+    {
+      "start": 2227.13,
+      "end": 2238.15,
+      "text": "Um, but I, I think we're going to move towards like customize, like this is an LLM that's trained on like my data and people in my industry. And it's really good at doing like these four things I needed to do."
+    },
+    {
+      "start": 2266.73,
+      "end": 2294.85,
+      "text": "Yeah. And then somebody who's running like Ben at Latiko could just be like, wait, I'm just going to subscribe to this guy's app now. Yeah. And use all of his learnings to make sure that mine is perfect. That would be really cool. I'm like picturing, like you do a video call once a week to just like brain drain yourself. And it asks you smart questions to train. And then it comes back, it tries to solve problems. It comes back and then you can just kind of train it passively over the course of like a year. And you'd have a really well-trained bot."
+    },
+    {
+      "start": 2295.61,
+      "end": 2320.47,
+      "text": "Is there, um, any sort of like, how, how have you best seen a way to like download your brain? I think people are doing cool stuff with like notion or like obsidian, like taking in all their apps. Um, I use granola lately, which like records all my calls and then I can search in there."
+    },
+    {
+      "start": 2320.89,
+      "end": 2349.13,
+      "text": "But like, as far as my brain, I would have to take in like all my video content, all my written content, all my emails, and then synthesize that somehow. Synthesize. Synthesize. Um, I, I don't know. Have you seen something in this that's useful? No, I haven't. But, um, you know, I've done, I've done the thing where you try to upload as much, you know, as many podcast transcripts or newsletters or that kind of stuff."
+    },
+    {
+      "start": 2349.31,
+      "end": 2366.21,
+      "text": "But like, to your point of the models, you know, like the, whatever model it is that you upload into, it does not understand tonality. Like the same way that if you were to voice record in chat GPT, that understands tonality, which is really interesting."
+    },
+    {
+      "start": 2366.21,
+      "end": 2394.97,
+      "text": "So like, there's, um, so like there are definitely ways to upload and then search, but it's still, at least from what I've seen, it's, it's still not like, uh, like for example, we, we have this thing called Nick bot in our Sharma brand Slack. And it's basically got everything that I've put out on the internet uploaded into it. And it's, it's pretty solid. And we've done a lot of work to try to make it more and more accurate, but it's still not, uh, like near perfect, I would say. Yeah."
+    },
+    {
+      "start": 2395.39,
+      "end": 2422.95,
+      "text": "Cause it's got a, it's got a cheat, right? It's got to run like SQL queries in the backend to find, oh, he's asking about this podcast. Let's search the transcript. It can't, the context windows, like, I just shows you how complex the human brain is, right? Like these things are really smart. They're not anywhere close to what our brains can do. Yeah. Well, our, our brains too, I think are like the more I, the more I use AI or the more I see people using AI, whether successfully or unsuccessfully."
+    },
+    {
+      "start": 2422.95,
+      "end": 2447.81,
+      "text": "Successfully the real kind of a secret sauce is in knowing where to turn and navigate and where to go next versus just grabbing the answer and then figuring out what to do with it. Like, you know, okay, if this doesn't work, then the AI is not going to know what to do next. But if you know what to do next, like that's kind of that secret sauce. Yeah, absolutely. You can think of them as like a really smart, like high school intern or something. Yeah."
+    },
+    {
+      "start": 2448.07,
+      "end": 2477.11,
+      "text": "I feel like the notion that AI is going to make people dumber is, it could be argued against pretty heavily the same way that like Wikipedia would. Yeah. I think it's going to make people crazier though. For sure. For sure. The way it kind of just affirms. Yeah. Impatient is right. Every time I build out one of these apps and I'm doing it with my buddies and I'm like, oh man, it's taking like five minutes to spin up this app. And it's like a miracle."
+    },
+    {
+      "start": 2477.37,
+      "end": 2497.31,
+      "text": "Like a year ago or two years, whatever. I'm copying and pasting stuff one file at a time into chat GPT and now we're getting impatient. That's funny. No, totally. Or even the, you know, chat GPT just unlocked agents and I was running an agent yesterday and it took 13 minutes and I was like, are you kidding me? This is what I'm paying for? 13 minutes? Yeah."
+    },
+    {
+      "start": 2498.51,
+      "end": 2527.11,
+      "text": "Well, I was going to say that on the brain thing, I saw a good tweet today that was like, why isn't there a chat GPT for my life where I can just be like, what does my neighbor do for work again? Yeah. Stuff like that. But I'm kind of working on like a solution for someone that pulls in from their Google calendar and their email. How, like when's the last time I was at an event or had a meeting with them? How many times do I email them this month? And it gives them like a weighted score. I'm like, this person's really hot or this person's colder."
+    },
+    {
+      "start": 2527.11,
+      "end": 2553.67,
+      "text": "Um, I think that is, it's not a way to download your, your brain per se, but I think that's a really useful use case. Just knowledge base of your friends and your family or. Yeah. Yeah. I agree. I was even, um, I was thinking last week I was, uh, abroad and I met so many cool people, you know, anybody from like a security person at a venue to a bartender to somebody who's also vacationing."
+    },
+    {
+      "start": 2554.17,
+      "end": 2583.31,
+      "text": "And, uh, you know, I probably collected like 30, 40 Instagrams, but the problem is like, I don't remember where I met them or in what context, or, you know, I'm sure I took a selfie with half of them to remember, but those were not attached to their Instagram or their WhatsApps or, uh, and whatnot. And, um, yeah, so many use cases like that, that I think are just going to be instantly solved. That, that, I mean, same thing that I always forget to do the selfie thing. It's so smart, but I was, I was digging for this guy's number that I wanted to follow up with."
+    },
+    {
+      "start": 2583.31,
+      "end": 2601.31,
+      "text": "Um, I was looking on like LinkedIn and stuff to find him. I had his number on my phone. He called me like the next week and I was like, I, it's just a first name and last name. It wasn't connected to like your business or anything. So, um, some sort of AI. Yeah. Like personal assistant, like that would be great. It would be crazy."
+    },
+    {
+      "start": 2601.31,
+      "end": 2622.93,
+      "text": "I remember back in the day, there were so many of these like, um, AI, uh, you know, calendar scheduling assistants that would, that were basically like if then scripts. Um, but I can't imagine like what that next generation is going to be with the ability to now plug all these different models in."
+    },
+    {
+      "start": 2623.09,
+      "end": 2651.43,
+      "text": "The main thing I think is for stuff like this, like it needs to be like in the primitive apps that you use, like Google calendar, iMessage, telegram, whatever. Anytime you've got to download a separate app or like open a separate tab, like it's just making it kind of more of a pain. Like it needs to work with the primitives of like your OS, like your contacts thing. Um, so yeah, come on, Apple, open all that up more."
+    },
+    {
+      "start": 2652.07,
+      "end": 2681.99,
+      "text": "I know it's really like, uh, Apple is really a gatekeeper of that. I mean, even like I'm a, I use iMessage as a, as a, as like a business app constantly. Like I need iMessage pro, but that's never going to come with Apple. Yeah. Yeah. That's a good point. Yeah. Um, okay, Billy, uh, first of all, thank you for coming on and, and, uh, just like, filling my brain with excitement about AI. I feel like now I want to run through a wall and build some apps. Yeah."
+    },
+    {
+      "start": 2682.39,
+      "end": 2709.51,
+      "text": "Um, but where can people, like people want to hit you up if they want to hire you to build an app, if they want to, you know, jump on a call like Troy did and just consult with you for an hour about what, what they can do, how do they find you? Um, and, uh, how do they get in touch with you? Yeah. Uh, stupid, simple apps is my agency. So if you Google it, stupid hyphen, it's got hyphens in there, stupid, simple apps.com. Uh, you could fill out a form for us to build your nap on Twitter. I'm Billy J Howell."
+    },
+    {
+      "start": 2709.85,
+      "end": 2737.39,
+      "text": "And I've got a link in there to like account only if you want to do like a one-on-one strategy call. Um, but yeah, go, go watch my YouTube channel too. It's the same app. I've got kind of my strategy for building and selling your first apps in there. It's really approachable. Um, and you can do it. Like I promise just people don't follow through. Right. So like you have to be the one that does it. Um, but there's a huge, we didn't even talk about like Upwork, but there's just like people"
+    },
+    {
+      "start": 2737.39,
+      "end": 2765.75,
+      "text": "sitting there ready to pay you money to build custom software. And I just think that's so crazy and exciting. Totally. Yeah. I will say, um, your content online is insanely tactical. Uh, and it's very much like somebody can look at it on the left screen and they can execute on the right screen. So I highly advise that you guys check it out. And, um, if you have any questions, like the call you book with Billy is going to be the highest ROI call of your life. So highly recommend doing that too. Thanks. Thanks. Yeah."
+    },
+    {
+      "start": 2766.57,
+      "end": 2793.99,
+      "text": "Everyone super happy from it. And I just want to help people execute on this stuff and make like a plan to go build and like sell apps because I promise you can do it. Like I'm not that smart and like I figured it out. You just, you just have to execute on it in practice. I mean, that's the, that's the crux of where we live with, uh, how like, you know, bountiful the internet and software is now is you can build anything. You got to just have someone tell you, Hey, dum-dum build this and then build this, right?"
+    },
+    {
+      "start": 2794.19,
+      "end": 2823.93,
+      "text": "It's not going to be a hit right away, but you're going to learn from this and then you'll get towards whichever one makes you muddy. Right. Totally. And the seventh, the seventh thing they build is going to be amazing. Yeah. On the seventh day. Yeah. Amazing. Cool. Well, Billy, thank you so much for jumping on and, uh, I'm sure we're going to have you back soon. Awesome, man. Good to talk to you, Nick. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever"
+    },
+    {
+      "start": 2823.93,
+      "end": 2825.43,
+      "text": "you listen so you don't miss the next one."
+    }
+  ]
+}

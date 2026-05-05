@@ -1,0 +1,654 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 5,
+      "text": "Warren Buffett has this great saying, which is when it's raining opportunity, don't put out thimbles, put out buckets."
+    },
+    {
+      "start": 5,
+      "end": 11,
+      "text": "If Facebook is working for you, usually when I see people who are trying to diversify away from Facebook,"
+    },
+    {
+      "start": 11,
+      "end": 16,
+      "text": "and it's not working for you, and that's why you're doing it, if it was working, you should be doing the opposite."
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "text": "We'll just focus on it."
+    },
+    {
+      "start": 17,
+      "end": 23,
+      "text": "Yeah, because of the reality is, especially if you're an earlier-stage company or you have a smaller team,"
+    },
+    {
+      "start": 23,
+      "end": 102.159,
+      "text": "you have limited resources, you can split that by 66% and use their suite of tools to improve your contribution margin by up to 10%. Book your demo with tandem and see how branded payments can level up your business. If you go to ddc.creditcard in your browser, you'll even get $100 Amazon gift card to take a demo. That's dtc.creditcard."
+    },
+    {
+      "start": 102.159,
+      "end": 103.959,
+      "text": "And book a demo to see how you can maximize"
+    },
+    {
+      "start": 103.959,
+      "end": 105.76,
+      "text": "contribution margin."
+    },
+    {
+      "start": 105.76,
+      "end": 180.159,
+      "text": "All right, we are back with another episode growth and direct to consumer. So I actually started out of school doing like healthcare consulting. We'd help hospitals get rid of their paper and scan it in and go digital, which was a good job out of college and then got very boring over time. Yeah. And I was also on the sales side and it took forever to get something done."
+    },
+    {
+      "start": 180.159,
+      "end": 181.68,
+      "text": "You'd pitch them one, it would take two years"
+    },
+    {
+      "start": 181.68,
+      "end": 182.56,
+      "text": "to sign a contract."
+    },
+    {
+      "start": 182.56,
+      "end": 185.319,
+      "text": "And then I started to hear about the internet."
+    },
+    {
+      "start": 185.319,
+      "end": 186.159,
+      "text": "You got, I don't know if you guys"
+    },
+    {
+      "start": 186.159,
+      "end": 187.439,
+      "text": "are familiar with internet."
+    },
+    {
+      "start": 187.439,
+      "end": 188.28,
+      "text": "Very hot right now."
+    },
+    {
+      "start": 188.28,
+      "end": 342.079,
+      "text": "It's hard about it. my full-time job still on Trim Hit was from that, like every single day you had to send an email out. Every single day people would buy or not buy. So you're like happy or sad that day. And how are you getting buyers? Really, really slowly and organically. We had no money to do marketing. I didn't know what I was doing. We wound up really hustling to build the email newsletter because it's mostly about email."
+    },
+    {
+      "start": 342.079,
+      "end": 345.519,
+      "text": "And so we wound up seeing there was this opportunity,"
+    },
+    {
+      "start": 345.519,
+      "end": 420.839,
+      "text": "especially with like me and my buddy. Like give the restaurant an iPad and also they do a deal with us. Yeah. Because it was group promising that we were hitting them up, you know, living social."
+    },
+    {
+      "start": 420.839,
+      "end": 422.839,
+      "text": "There was like tons and tons of clones out there."
+    },
+    {
+      "start": 422.839,
+      "end": 424.56,
+      "text": "How big did the email list get?"
+    },
+    {
+      "start": 424.56,
+      "end": 426.16,
+      "text": "Our email list wasn't huge."
+    },
+    {
+      "start": 426.16,
+      "end": 501.68,
+      "text": "It was under 100K. a good list, you have to have high engagement, you have to put good creative together. And if you do that and you couple that with good product or a good deal, you will probably sell well that day. Yeah. So I just love how quickly you could like put something out there and then get feedback. Sure. Immediately like if someone buys within 10 seconds of an email going out, you're like, hell yeah. And what year was this?"
+    },
+    {
+      "start": 501.68,
+      "end": 503.36,
+      "text": "It was 2009."
+    },
+    {
+      "start": 503.36,
+      "end": 505.56,
+      "text": "So how would you process payments?"
+    },
+    {
+      "start": 505.56,
+      "end": 507,
+      "text": "Was it Stripe?"
+    },
+    {
+      "start": 507,
+      "end": 580.279,
+      "text": "This is pretty stripe. And I was just trying to sell the company. And so got really lucky when I'm selling to a competitor in New York actually called KGB, KGB deals. And we sold the company in 2011. And I was just really happy to be like out of that game. It didn't necessarily feel like it was going to be sustainable over the long term."
+    },
+    {
+      "start": 580.279,
+      "end": 584.639,
+      "text": "And it felt like a nice chapter in my career"
+    },
+    {
+      "start": 584.639,
+      "end": 586.44,
+      "text": "where I could pivot from like,"
+    },
+    {
+      "start": 586.44,
+      "end": 660.919,
+      "text": "I used to be doing healthcare consulting basically an app called Chirp Guide. And the whole idea was like, I wanna do TV Guide for Twitter. So like everyone's live tweeting real housewives or sports, like should be a place where you can go, and you can put together your own stream. I want a comedian and an ex-athlete, and you know, sports commentators. I wanna see a live tweet stream of those people while I watch this game."
+    },
+    {
+      "start": 660.919,
+      "end": 662.48,
+      "text": "And then if I watch it later,"
+    },
+    {
+      "start": 662.48,
+      "end": 663.72,
+      "text": "if I'm watching it two days later,"
+    },
+    {
+      "start": 663.72,
+      "end": 665.519,
+      "text": "I wanna be able to play back that stream,"
+    },
+    {
+      "start": 665.519,
+      "end": 666.36,
+      "text": "just like it's live."
+    },
+    {
+      "start": 666.36,
+      "end": 742.2,
+      "text": "It's not a bad idea. helping in many ways. Like you need a salesperson, you need a marketer, you need like a co-founder. And people were like, I don't really know if this guy is really good at anything specific. So the turning point for me was like, actually did some teaching at General Assembly here in New York. And I was wound up on the user acquisition management team,"
+    },
+    {
+      "start": 742.2,
+      "end": 745.72,
+      "text": "working with my friend, now good friend Kate Hewitt"
+    },
+    {
+      "start": 745.72,
+      "end": 747.039,
+      "text": "over at Bombas."
+    },
+    {
+      "start": 747.039,
+      "end": 820.679,
+      "text": "And what I realized I was like a user acquisition management expert. And that's when I then realized that it was probably time to get a job because I had tried a bunch of these different ideas. I was just getting married, I had wasted some money and I was like, it's probably time to get a job."
+    },
+    {
+      "start": 820.679,
+      "end": 821.679,
+      "text": "So I'm gonna go out there now"
+    },
+    {
+      "start": 821.679,
+      "end": 824.72,
+      "text": "as like this user acquisition management professional."
+    },
+    {
+      "start": 824.72,
+      "end": 826.679,
+      "text": "You know, put it on my business suit."
+    },
+    {
+      "start": 826.679,
+      "end": 827.759,
+      "text": "You're teaching it so you're like,"
+    },
+    {
+      "start": 827.759,
+      "end": 900.08,
+      "text": "now I'm the perfect, I tech person. And I've always been a dog person, my wife and I are big dog people. And just really liked what they're building. And I love the idea of being able to advertise with dogs. Like that's kind of cheating, right? We can use that. Yeah, sure. Pictures and videos of dogs as you're at creative."
+    },
+    {
+      "start": 900.08,
+      "end": 903.639,
+      "text": "So I met with them and they're like a fun, quirky,"
+    },
+    {
+      "start": 903.639,
+      "end": 907.72,
+      "text": "weird bunch who kind of hit it off pretty quickly."
+    },
+    {
+      "start": 907.72,
+      "end": 983.36,
+      "text": "And they said, yeah, you't look him in the eyes. And then he got up to the sixth floor and you're not liking this kind of startup space. Yeah. And so, went up there and viewed, and that's where we were for the first, like, maybe year, year and a half. And it was just kind of this right place, right time, experience where 2013 is when it all started to happen."
+    },
+    {
+      "start": 983.36,
+      "end": 986.879,
+      "text": "Like, I remember Facebook news feed ads launched"
+    },
+    {
+      "start": 986.879,
+      "end": 1061.2,
+      "text": "a couple months in,, they were like, oh look, there's nobody who's engaging with these ads. Like, you know, our ads are kind of terrible. And he's like, why don't we just put them in the news feed? Like just do that. And rather than say one other thing, which is what they've always wanted that, right? Cause this is where everyone's gonna click ads. They just got up and left. Cause they're like, if we say one more thing,"
+    },
+    {
+      "start": 1061.2,
+      "end": 1062.44,
+      "text": "he might take it back."
+    },
+    {
+      "start": 1062.44,
+      "end": 1065.68,
+      "text": "So just leave right now, do not say one more word"
+    },
+    {
+      "start": 1065.68,
+      "end": 1067.359,
+      "text": "and let's get the news feed ads going."
+    },
+    {
+      "start": 1067.359,
+      "end": 1140.599,
+      "text": "Really change the history of Facebook. a few years ago and I was looking at our initial email exchanges, which is hilarious. Yeah. But yeah, I have like Hannah Morezoume and followed up and waiting to hear back. And what was the interview process like when there was an interview process was like, I remember it was Matt Henrik and Carly are three co-founders and we were just all in a room and I don't think I'd talked all that much."
+    },
+    {
+      "start": 1140.599,
+      "end": 1222.2,
+      "text": "They were just kind of like, shooting on each other and being weird and like they're Unique anyway, anyway you slice it. That's amazing. Yeah, I actually tried to raise money from Henrik at pre hype with native, you know Long long time. Well, did he give you money? He didn't you I remember I sent him a sample and he's like this gave me a rash I'm not gonna use this and I'm gonna I got it. I mean, that's that is fair feedback. Yeah, I can buy it. You know, I don't blame him, but it's still a mess"
+    },
+    {
+      "start": 1222.68,
+      "end": 1300.4,
+      "text": "And so like I looked at bark boxes number so bark box was like, God damn it, I should have just tripled down on this channel and we would have seen it. I went through that too at one point. I'm sure you did too. I think everybody like finds success on Facebook"
+    },
+    {
+      "start": 1300.4,
+      "end": 1303.24,
+      "text": "and then it's like, now we gotta diversify."
+    },
+    {
+      "start": 1303.24,
+      "end": 1304.88,
+      "text": "And then you go try to find the next,"
+    },
+    {
+      "start": 1304.88,
+      "end": 1305.839,
+      "text": "it just doesn't exist."
+    },
+    {
+      "start": 1305.839,
+      "end": 1307.319,
+      "text": "And it's not always Facebook, right?"
+    },
+    {
+      "start": 1307.319,
+      "end": 1380,
+      "text": "It's like whatever channel Facebook is working for you, like usually when I see people who are like trying to diversify away from Facebook, and like it's not working for you, and that's why you're doing it, if it was working,"
+    },
+    {
+      "start": 1380,
+      "end": 1381.119,
+      "text": "you should be doing the opposite."
+    },
+    {
+      "start": 1381.119,
+      "end": 1382.559,
+      "text": "We'll just focus on it."
+    },
+    {
+      "start": 1382.559,
+      "end": 1384.64,
+      "text": "Yeah, because the reality is,"
+    },
+    {
+      "start": 1384.64,
+      "end": 1386.88,
+      "text": "especially if you're an earlier stage company"
+    },
+    {
+      "start": 1386.88,
+      "end": 1461.64,
+      "text": "or you have a $25 million run rate. All of a sudden, you guys are launching an insane number of products. There's Bark Box, there's Bark Post. Do you remember Bark Post? Oh, absolutely. Bark Care, Bark Buddy, Bark Cam. Yeah, oh, you've gone deep. Is it sort of like you feel invincible? Is the company feeling invincible? I feel like that's what happens when people are like,"
+    },
+    {
+      "start": 1461.64,
+      "end": 1463.64,
+      "text": "you know, Casper, when they were out there,"
+    },
+    {
+      "start": 1463.64,
+      "end": 1465.68,
+      "text": "and they also took advantage of this early days of film."
+    },
+    {
+      "start": 1465.68,
+      "end": 1466.519,
+      "text": "Oh, yeah. Oh, yeah."
+    },
+    {
+      "start": 1466.519,
+      "end": 1543.279,
+      "text": "They were like, let's launch that, let's formalize that. There was a bunch of interesting things in there. Like Bark Buddy was kind of like a little skunk project, but that was like essentially tinder for dog adoption. Just like, Hey, there's dogs in your area, you want to adopt it?"
+    },
+    {
+      "start": 1543.279,
+      "end": 1620.839,
+      "text": "So it's kind of like a fun, like a fun thing. And then't work, but a lot of good lessons, I think, out of taking away, again, time sensitivity, and urgency, and marketing strategy, and operations. So no qualms about that, but plenty of swings and misses along the way. Yeah, and a lot of ideas that, you know, like, you're right, bark care is sort of like a business,"
+    },
+    {
+      "start": 1620.839,
+      "end": 1622.559,
+      "text": "can be a huge business today,"
+    },
+    {
+      "start": 1622.559,
+      "end": 1625.319,
+      "text": "but it's also very hard to be like a segment of a business,"
+    },
+    {
+      "start": 1625.319,
+      "end": 1627.519,
+      "text": "because like local logistics, you know,"
+    },
+    {
+      "start": 1627.519,
+      "end": 1703.359,
+      "text": "like look at it with DoorDash, AOV, higher customer loyalty, and a higher repeat purchase rate. Tandem allows any Shopify brand to build their own branded credit card system. Previously, you had to be a billion dollar a year brand to go to a big bank and build a branded credit card with them. I've actually gone down that path to see what's possible and that's how I actually discovered Tandem. The same team that built this at Capital One for brands is now making it so"
+    },
+    {
+      "start": 1703.359,
+      "end": 1780.759,
+      "text": "that any DTC brand can gonna launch a box for cats? Yeah. Yeah. And the reality was like, the founding team was always very clear."
+    },
+    {
+      "start": 1780.759,
+      "end": 1782.839,
+      "text": "Like we're building a company for dogs."
+    },
+    {
+      "start": 1782.839,
+      "end": 1785.24,
+      "text": "This is not a pet company."
+    },
+    {
+      "start": 1785.24,
+      "end": 1863.44,
+      "text": "This is not like you don't necessarily realize it. It's looking back. It's like, oh man. I feel like when I was at Hint and we were scaling so fast,"
+    },
+    {
+      "start": 1863.44,
+      "end": 1866.24,
+      "text": "I felt like I was on drugs for two years straight."
+    },
+    {
+      "start": 1866.24,
+      "end": 1867.24,
+      "text": "Well, you were also."
+    },
+    {
+      "start": 1867.24,
+      "end": 1868.079,
+      "text": "Yeah."
+    },
+    {
+      "start": 1868.079,
+      "end": 1943.2,
+      "text": "That's the best part. There's expectations and we needed to build out plans etc But it was a very nimble and flexible based on what was going on a small team and really out there to like win in this space so it was a good combination I think of like quick nimble able to make fast decisions but also have real, you know money behind it and expectations came along with it"
+    },
+    {
+      "start": 1943.2,
+      "end": 2020.92,
+      "text": "Yeah, I'm sorry. So yeah, you said the early days and reselling them. And now it's at the scale where you're sending to millions and millions of people a month where actually creating our own, creating barks own treats, own toys. They're all themed, like you have to have scale"
+    },
+    {
+      "start": 2020.92,
+      "end": 2022.079,
+      "text": "in order to really do that"
+    },
+    {
+      "start": 2022.079,
+      "end": 2024.44,
+      "text": "or else you can't kind of create this magical experience."
+    },
+    {
+      "start": 2024.44,
+      "end": 2026.44,
+      "text": "Early on, were you actually like going to PetSmart"
+    },
+    {
+      "start": 2026.44,
+      "end": 2101.519,
+      "text": "to buy them and doing, you know,"
+    },
+    {
+      "start": 2101.519,
+      "end": 2102.36,
+      "text": "out of home."
+    },
+    {
+      "start": 2102.36,
+      "end": 2103.199,
+      "text": "Yep."
+    },
+    {
+      "start": 2103.199,
+      "end": 2104.559,
+      "text": "And were all these like 10K tests"
+    },
+    {
+      "start": 2104.559,
+      "end": 2106.32,
+      "text": "that you just kept scaling?"
+    },
+    {
+      "start": 2106.32,
+      "end": 2180.32,
+      "text": "It's funny, TV, you need to really put money in the game and it saves you money in the long run. So every quarter you're not doing the same thing, we're going to do another 25. Oh, we'll do 35. And then you fast forward a year. You've spent 150k, but you haven't done it in a frequency enough or at a high enough level. We actually know, should I just get rid of that"
+    },
+    {
+      "start": 2180.32,
+      "end": 2262.639,
+      "text": "whole team or get rid of that agency? Or should I just exploded every time we hit the favorite page. So we built that account up and we were getting so much engagement and so many different opportunities that came out of that. That's to your second question, Nick. Like, can you do this anymore? Like that arbitrage doesn't exist anymore. Yeah, like that has been closed. Like the full blanket. Yeah. But we were able to really lean into organic social"
+    },
+    {
+      "start": 2262.639,
+      "end": 2266.88,
+      "text": "and content and video and we had these like fun creators"
+    },
+    {
+      "start": 2266.88,
+      "end": 2341.76,
+      "text": "who were there that would shoot weird video. So we created Bark Pack, we gave them each individual codes. They would all post at the same time and kind of like flood the internet all at once. Hashtag Bark Box. Firefait style. Yeah, it was the Thunderclap right there. I mean, I think it definitely had an impact. I think things got murky with code redemptions and things showing up on coupon websites, blah, blah, blah. But like net net, it was a positive."
+    },
+    {
+      "start": 2342.4,
+      "end": 2420.76,
+      "text": "I think we would have done differently if don't know a lot about marketing. So they would always come over like, hey, how do you do Facebook? What does the land, like how do we land a page optimization? And we started talking, and then I had to be in a bar for about five years, and I was kind of getting itchy for something entrepreneurial again."
+    },
+    {
+      "start": 2420.76,
+      "end": 2423.239,
+      "text": "And they were looking to start this company,"
+    },
+    {
+      "start": 2423.239,
+      "end": 2425.599,
+      "text": "and we met a couple times,"
+    },
+    {
+      "start": 2425.599,
+      "end": 2427.32,
+      "text": "we talked about different ideas,"
+    },
+    {
+      "start": 2427.32,
+      "end": 2501.82,
+      "text": "and I was like very and doing this and let the Bark Team know and they were super supportive there. First checks in, first checks in to the business. Wow, the Bark Team. The Bark Team, yeah. And felt really good, because that's where I grew up. And I felt very supported and I felt a lot of legions towards that team as well."
+    },
+    {
+      "start": 2501.82,
+      "end": 2503.98,
+      "text": "And so yeah, started kind of like doing double duty"
+    },
+    {
+      "start": 2503.98,
+      "end": 2506.38,
+      "text": "a little bit in 2017."
+    },
+    {
+      "start": 2506.38,
+      "end": 2583.36,
+      "text": "And the first thing we did was we actually got an office I was like, keep track of that guy. And he introduced me to Z. Z had been through Y Combinator. He had a company called Shout that he actually closed down. And then he was kind of like hanging around. And so Pre-Hype, they joke it's kind of like a halfway house for co-founders. And so the two of them were like hanging around and they needed like a complimentary third stool"
+    },
+    {
+      "start": 2583.36,
+      "end": 2585.48,
+      "text": "to leg to the stool."
+    },
+    {
+      "start": 2585.48,
+      "end": 2587.36,
+      "text": "And that was what attracted me to them as well."
+    },
+    {
+      "start": 2587.36,
+      "end": 2660.199,
+      "text": "It was like the jump going from a Bark Box e-commerce. Yeah, can do it. Where you want to a highly regulated, you know, there's state regulations at pharmacy state regulations on the medical side,"
+    },
+    {
+      "start": 2660.199,
+      "end": 2662.84,
+      "text": "FDA regulations, a whole bunch of stuff."
+    },
+    {
+      "start": 2662.84,
+      "end": 2665.719,
+      "text": "So we started just building the pharmacy in New York."
+    },
+    {
+      "start": 2665.719,
+      "end": 2667.36,
+      "text": "We hired our first pharmacist, Colin,"
+    },
+    {
+      "start": 2667.36,
+      "end": 2742.88,
+      "text": "who is licensed in New York, Pennsylvania. our true pill? Yes, legit script was actually one of the first accreditation. We got that helped give the networks more comfort. Yeah. But we did not get an opportunity like, Facebook and lettuce run ads, Instagram, when you know, Facebook, Instagram, when was run ads, Google, we've got shut down every couple weeks. So it was this constant cat and mouse where like, I remember we've been live for like a month, and"
+    },
+    {
+      "start": 2742.88,
+      "end": 2745.28,
+      "text": "we're coming up on like holiday weekend, it was Thanksgiving."
+    },
+    {
+      "start": 2746,
+      "end": 2822.519,
+      "text": "Google just shut down the that. And so it took a lot of work to get people comfortable with what we were doing. And once we were able to unlock the channels, you could start to deploy the playbook. But that was one of the big early challenges is just no one wanted to run our type of ads. And so once we were able to kind of get that moving, things really started to take off."
+    },
+    {
+      "start": 2822.519,
+      "end": 2823.92,
+      "text": "And so now has that been unlocked?"
+    },
+    {
+      "start": 2823.92,
+      "end": 2825.92,
+      "text": "You're able to run Google ads, Facebook ads,"
+    },
+    {
+      "start": 2825.92,
+      "end": 2902.039,
+      "text": "anything you want. to bring in great people. And so there's people that have been there four, five, six years still that I think are the best at their function in the country. And it comes to growth. I think what was really unique, especially at that time, and even now, you don't see a lot of people to founder level that come through growth that have that type of background."
+    },
+    {
+      "start": 2902.039,
+      "end": 2981.44,
+      "text": "And so I felt like I was able to And I wanted someone that was like a true ninja on the search side. And he had spent like 15 years of his career just doing Google search."
+    },
+    {
+      "start": 2981.44,
+      "end": 2982.44,
+      "text": "And I was like, wow."
+    },
+    {
+      "start": 2982.44,
+      "end": 2986.76,
+      "text": "I'm pretty confident that if search is going to work, we want a guy like this who like"
+    },
+    {
+      "start": 2986.76,
+      "end": 3060.96,
+      "text": "knows what he's doing. to tell that story. I think it's also even more important to be buttoned up in this highly regulated environment and making sure you're putting ad copy out there has a doctor reviewed it, has a lawyer reviewed it. We want to make sure that we're putting things out in the world that we stand behind because every single thing gets scrutinized and you assume that any ad you"
+    },
+    {
+      "start": 3060.96,
+      "end": 3142.099,
+      "text": "put out there, someone at a regulatory body is You don't do it. You know what never happens is we launch something and I get in trouble. If we do do it and something goes wrong, I can get in trouble. So lawyers are always like, no, don't do it. Yeah, and it took an evolution of not just the people, but the process and defining the risk tolerance"
+    },
+    {
+      "start": 3142.099,
+      "end": 3143.46,
+      "text": "at certain levels for the company."
+    },
+    {
+      "start": 3143.46,
+      "end": 3145.019,
+      "text": "And the risk tolerance is very low."
+    },
+    {
+      "start": 3145.019,
+      "end": 3224.519,
+      "text": "It's very conservative and always wanna make sure Got it. I know we got to wrap up in a couple of minutes. I just want to ask a couple of last questions. One is, why did you leave, bro? You said you've been out of the day to day. I know you're on the board, but you're no longer like, you know, day to day. I think. Yeah. Why is that the case? Yeah, you know, been almost what do you, what would you say you do? So you know, it'd been almost six years and an incredible run and like wouldn't change"
+    },
+    {
+      "start": 3224.519,
+      "end": 3380.88,
+      "text": "it for the best. And, you know, I have young kids and just decided, you know what, there's never a good time to do anything. I'm gonna take a breath and I'm gonna step back from day to day. I'm gonna try and focus on being a human being again and with teams and leagues. Then I'm working on Snagged. Snagged as Nick knows is my domain acquisition business. That's just something I've always been a real nerd about. I love helping people get hard to find digital assets. Do you have any cool domain stories in your back pocket? I have so many."
+    },
+    {
+      "start": 3380.88,
+      "end": 3381.88,
+      "text": "I have so many."
+    },
+    {
+      "start": 3381.88,
+      "end": 3384.32,
+      "text": "What's the most expensive domain you've like?"
+    },
+    {
+      "start": 3384.32,
+      "end": 3386.639,
+      "text": "I'm not sure if you're acquiring them in the resell."
+    },
+    {
+      "start": 3386.639,
+      "end": 3460.539,
+      "text": "I'm mostly helping companies that say like, hey, we're a series B now. and updates and we did that in exchange for this asset. It was like kind of wild where, what? I mean, sometimes you just have to go really deep and be super creative to get these things because they're like the original NFTs. Like I've heard that people will get other people's kids in the college to get a domain. Wow, I've heard that story."
+    },
+    {
+      "start": 3460.539,
+      "end": 3463.579,
+      "text": "I mean, yeah, they also have to be a rower."
+    },
+    {
+      "start": 3463.579,
+      "end": 3464.42,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 3464.42,
+      "end": 3466.42,
+      "text": "If you have a photo of crew, too."
+    },
+    {
+      "start": 3466.42,
+      "end": 3468.78,
+      "text": "And it's only USC."
+    }
+  ]
+}

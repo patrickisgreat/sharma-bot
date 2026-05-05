@@ -1,0 +1,434 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 56.15,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. Think about your best friend and how they shop. It's vastly different than how you might shop online, and you both should never get the same card reminder emails. That's where Instant AI takes over. In the last few weeks, Instant rolled out AI flows for over 500 brands. The momentum is crazy, and one of my favorite brands tripled their email revenue in just 60 days. That's one of hundreds of wins they've had so far."
+    },
+    {
+      "start": 56.15,
+      "end": 85.99,
+      "text": "Here's why it works. Instant can immediately understand who's on your site and what all they've been looking at. The discount, the copy, the imagery, the on-site promotion, all of that's pulled dynamically into personal email flows. Then it sends it at the exact moment that the shopper is ready to buy. Black Friday is basically tomorrow, and every hour you wait is money you'll never get back. Don't let your retention emails stay old and lame while everyone else cashes in. Book a demo by November 28th and get 50% off your first 60 days at instant.one slash sharma."
+    },
+    {
+      "start": 86.15,
+      "end": 106.03,
+      "text": "Do it now and turn this Q4 into your biggest ever. All right, Golshan, welcome to Limited Supply. Excited to have you here. I think first official Brown member joining the podcast after Moyes. How are you? I'm great, man. Thank you for having me on."
+    },
+    {
+      "start": 106.03,
+      "end": 129.05,
+      "text": "Of course. I'm excited to jam. One of the things that is fun about our story is we only met just recently. We met through our mutual friend, Ben Soffer, who created Spirit Society and has the – I forget the name of his podcast, but he's got the podcast with Josh. Good guys. Josh. Good guys podcast. Good guys. Yeah, it's hilarious. Yeah."
+    },
+    {
+      "start": 129.05,
+      "end": 154.21,
+      "text": "And so we met through Ben, met up for coffee in Austin, and then we just clicked. And I was a huge fan of the way that you think about building brands and distribution, really, and even how you came to Swishables, which we'll get into in a second. So I'm excited to have you here because I think you'll also bring a very different perspective than what I normally always talk about, which is really just e-commerce and direct-to-consumer."
+    },
+    {
+      "start": 154.43,
+      "end": 181.87,
+      "text": "So you're like more omni-channel. Obviously, direct-to-consumer is still a big part of the work you do. But yeah, I'm excited to have you here and excited to dive into it. So to start, why don't you just give a quick intro of yourself? Brag as if there's an auntie bragging about you at some dinner party. So thanks for having me, Nick. To introduce myself, my name is Gulsion Kumar. I'm the CEO and co-founder of Swishables."
+    },
+    {
+      "start": 182.45,
+      "end": 211.07,
+      "text": "What is Swishables? Swishables is liquid mouthwash pre-filled in a sachet that's 100% recyclable. The way we think about this business is we're not the brand that's going to sit on your bathroom countertop that you typically use for your morning and nighttime routines. It's all the moments that happen in between that, right? So once you leave your house, think post-coffee, post-launch, before a date, before a meeting. You want a quick refresher after you've had a cup of coffee and you're walking into a meeting."
+    },
+    {
+      "start": 211.35,
+      "end": 231.45,
+      "text": "We are that hero product that we want consumers to really utilize, right? You can think of it as an extension of government, just a different vehicle. Also probably a little bit more portable than those and a little bit more refreshing. Amazing. And I'm curious too."
+    },
+    {
+      "start": 231.63,
+      "end": 258.59,
+      "text": "So like, you know, one of the things that I loved about Swishables was how thoughtful it was, like in every which way, from the packaging to the distribution to the name to, you know, really everything. Even the pieces around it, like the holder, for example, very thoughtful, right? What are some of the things that like from prior businesses you brought into day zero at Swishables or like decided you wanted to build from the ground up?"
+    },
+    {
+      "start": 258.73,
+      "end": 282.81,
+      "text": "And then I want to get into how you think about what constitutes as a good idea. Yeah, I love that. To answer your first question, you know, I think number one, what I took, what I'm taking into this business from the previous business is definitely our distribution strategy, right? I would say 70 to 80% of our distribution strategy is going to be very similar."
+    },
+    {
+      "start": 283.17,
+      "end": 312.61,
+      "text": "And we can kind of get into my past previous experience and the past brand I've helped build before Swishables. But I think obviously when you're building a CPG brand, anybody who's in this business is going to tell you it's distribution, distribution, distribution, right? I think the way that we approach it because of my past experience, which was selling bottled water for almost a decade, is I probably have a little bit of a different outlook on it."
+    },
+    {
+      "start": 312.61,
+      "end": 338.71,
+      "text": "You know, I always tell people because we sold bottled water for so long and because that category is the category, meaning bottled water exists everywhere, right? So when you're selling bottled water and you have a product that's in high demand and everybody's caring about sustainability, what I learned firsthand was how many places that a product can be sold and offered, a.k. scale, right?"
+    },
+    {
+      "start": 338.71,
+      "end": 362.95,
+      "text": "So when I've now, anytime I'm thinking of a product or a business, obviously like the first question that I'm pressure testing in my head is how scalable is this really? Right. So that question really came into mind. And based on my experience, like I said, 70 to 80% of my distribution footprint and roadmap was going to be very similar."
+    },
+    {
+      "start": 362.95,
+      "end": 391.37,
+      "text": "So to me, I got the green light on is this scalable because a lot of the places I sold water, I could actually sell not wash. And when you say scalable, like can you define that? Does that mean like easy to manufacture? It's reliable to manufacture and fulfill? Like what does scalable mean? Yeah, it definitely has different definitions, right? When I talk about the word scalable is how many places can I sell it, right? Okay. How many distribution points? How many distribution points can I have for this product?"
+    },
+    {
+      "start": 391.57,
+      "end": 419.93,
+      "text": "In terms of manufacturing and stuff, we'll figure that out. If the demand is there, we'll get a million manufacturers if we need to, right? But it's how many distribution points can we build with a product? That's my first question. Amazing. What was your second question? Sorry, I forgot. Really just, okay. So, well, I think it's unique how you think about like what constitutes as a good idea because because of your kind of distribution first approach to even the thinking of it."
+    },
+    {
+      "start": 420.11,
+      "end": 450.09,
+      "text": "So I'm curious, like when you think about like as you were thinking about, you know, what this next idea was that you were going to chase and build, like what factors for you equate to a good business idea? Like what do you look for? What check marks do you want to hit? Like, you know, the Jolie guy said that he wants to make sure that's consumable. You know, it fits into a routine. You know, it ships at an economical cost. Like what do you look for? Yeah. No, another great question."
+    },
+    {
+      "start": 450.29,
+      "end": 478.53,
+      "text": "And, you know, I think the number one thing is in order to have a good business idea, you still have to have a good business, right? And having a good business, it, for me, that definition and answer can mean different things for different people and different entrepreneurs. But I think having a good business really means the financial validity of the business, right? The unit economics of it. So when I'm starting an idea and thinking about a business, number one, it's what are"
+    },
+    {
+      "start": 478.53,
+      "end": 508.09,
+      "text": "the unit economics and how can we make this profitable, right? Going from, again, coming from the water business for shipping, having liquid and using aluminum that is insanely priced, especially now with tariffs, right? It really makes you double click on those parts of the business and ensure like, hey, do we really want to go forward with this? Because these are the challenges, right? So like we can, I pretty much have a magnifying glass if I'm going to pick a product and I could see down the road, like these are the challenges and hurdles we're going to overcome because"
+    },
+    {
+      "start": 508.09,
+      "end": 531.73,
+      "text": "of this business idea that we were thinking about, right? So the evaluation process of moving forward with an idea is a key factor in decision making of whether I actually want to move forward. So in the switchables case, you know, going from a super heavy aluminum bottle of water to a sachet that's super light, that factor was easily checked off right away."
+    },
+    {
+      "start": 531.87,
+      "end": 561.65,
+      "text": "Because once I understood the unit economics and obviously easy to ship, manufacturing, it's made a lot of sense to me to move forward. Yeah. And then the other thing that you like to talk about is the white space, like finding the white space. Like how do you think about finding the white space or identifying the white space? Yeah. You know, finding the white space for me is like, it's not competing on the shelf. It's how do you create space on the shelf, right?"
+    },
+    {
+      "start": 562.37,
+      "end": 590.25,
+      "text": "That's how I identify with the white space. It's also, it's not on the shelf, creating space outside of the shelf. Is there another opportunity? I'll give you an example, right? Like with the switchables business, or if you're in any CPG company, typically you're going to start D2C and then try to go to retail. Or if you have retail experience, you can go to retail and try to get stores. Right. But those are realistically only two channels. Right."
+    },
+    {
+      "start": 590.37,
+      "end": 615.23,
+      "text": "But most people, because that's the way it's been done, it follows the status quo. It's like those are the only two channels we're going to focus on. Um, but for the way I look at it is like, those are more red ocean, right? Versus blue ocean strategies are like, you are creating channels where there's way less competition, which gives you a higher probability to succeed. Right. Um, what's an example of that?"
+    },
+    {
+      "start": 615.63,
+      "end": 642.57,
+      "text": "Um, I can give you golf courses or restaurants where they offer mint in, at the checkout or in the bathroom where now we're re-imagining what a mint looks like and having a mouthwash there. Right. That to me is like a blue ocean strategy. Sure. It might not net you like same amount of revenue as target, but it's that type of thinking that allows you to kind of unlock scale and distribution and build brand moat. Right."
+    },
+    {
+      "start": 642.73,
+      "end": 672.35,
+      "text": "That most, I feel most founders don't really think about, like I said, they're either focusing on D2C or focusing on retail and it's not bad to focus on those two. That's not what I'm saying. I think what I'm saying is that it's, there's, it goes back to the scale question, but also like where else just be curious, be so curious to understand where your brand can fit. Right. And make space, make space, like reimagine the space is kind of, and that again, is this,"
+    },
+    {
+      "start": 672.35,
+      "end": 701.61,
+      "text": "it's about being uber curious. And when you say that, like you're talking about all of these, all the fun spots that you can place swishables, like airlines, clubs, wherever. Right. Yep. Like kind of just how can your product fit in? Golf courses. Right. Just there's, I could list, I could rattle off like 20, but I would be giving you our playbook. So we're not going to do that, but yeah, but there's a lot, there's a lot."
+    },
+    {
+      "start": 701.61,
+      "end": 728.35,
+      "text": "And, and like, I feel like the perception for a lot of these places though, is that it's very like pay to play. Like I remember when I worked at Hint, you know, Pandora always was trying to get Hint in the fridges there and they were like, oh, but you got to pay off the distributor, you know, and then getting their good graces. And then they'll maybe start slipping you into the, into the fridge. Is that, is that how it works? Or is that just how, like, is that just one way to do it? No, I mean, it's definitely one way to do it and look like I've had so much experience"
+    },
+    {
+      "start": 728.35,
+      "end": 755.63,
+      "text": "with that, not just pay to play, but even with the pay to play option, there was so much red tape because when you're selling bottled water and you're going up against Coke and Pepsi and you're trying to win an arena or a stadium and you just don't have the amount of resources and you can't compete from a marketing dollar per dollar perspective, where that really matters on the beverage side, right? Like that's, that's what really matters. If you want to become a big brand, like on the beverage by setting the water category"
+    },
+    {
+      "start": 755.63,
+      "end": 782.89,
+      "text": "and penetrate some of those channels, then you, it is pay to play only is the option. For this category, again, another key factor in going into decision-making before, hey, do we want to click the button, hit forward on this? It's not. Pay to play is not an option here, which is amazing. And the reason why is because, you know, the pricing to the customer or the wholesaler is just not what a beverage is, right?"
+    },
+    {
+      "start": 782.89,
+      "end": 809.37,
+      "text": "So there's no pay to play option here. Although I like, we are creating that, you know, we are creating that pay to play option for this category because it hasn't existed yet. But what that triggers to me is that it just shows you the lack of innovation in this category, right? Because I've already, I've already gotten asked twice from two huge, large clients in"
+    },
+    {
+      "start": 809.37,
+      "end": 835.57,
+      "text": "our pipeline for a pay to play model because it doesn't exist with the current solution that they have now because it's a generic mouthwash. But now we're coming in as like a mainstream brand that we're building. And now I'm being asked that. And it, but the funny thing is it's never existed in this category, right? So I think that will change because of brands like ours. But the typical model is not pay to play for, for an HBC product like this."
+    },
+    {
+      "start": 835.75,
+      "end": 865.73,
+      "text": "Are you, are you concerned that like, as soon as Swishables really attacks the retail floors, you're going to see a bunch of copycats start to pop up? I wouldn't say concerned. I think, you know, in the water business we started and there was two aluminum brands. And when we left, there was one, there was 20, right? So that's inevitable. Um, the, the more important thing you should be concerned about and focusing your time on is how do you build brand mode? Because there will be copycats."
+    },
+    {
+      "start": 865.89,
+      "end": 892.53,
+      "text": "That's inevitable, right? That just means your product is good, right? Imitation is the biggest form of flattery. So the product is good. People are going to copy, but you can't focus your time and energy on that. It's about building brand mode and talking about those alternative channels that I was talking about, right? Like that's where you should be spending your time and energy on. Um, it's hard to, you know, build like IP around something like this, but like scaling"
+    },
+    {
+      "start": 892.53,
+      "end": 920.59,
+      "text": "quickly, building brand mode, getting diverse distribution, having the right team involved is really what separates you from the copycats, right? I mean, you know this, like you can have the same product, um, with two different teams and you have five people on each team. One team with the five people has done it before the other team. Maybe it's their first time or they've sold in a different category or whatever. You're going to have two very different results, right?"
+    },
+    {
+      "start": 920.83,
+      "end": 947.99,
+      "text": "So it's, it's all the nuances of building the brand, like team channel, all the things I mentioned that's really going to separate you. And that's what you need to spend your time on. Yeah. Um, what about like getting into retail? So like these alternative channels we just talked about, but like when it comes to retail, um, you know, do you think it's start, it's smart to start in retail? Like, how do you think about driving sell through, you know, for direct consumer brands, they're"
+    },
+    {
+      "start": 947.99,
+      "end": 977.17,
+      "text": "always thinking, well, we can't go to retail until we feel confident we can sell what's on the shelf. But, um, you know, I feel like more and more brands are now starting in retail and sort of building e-commerce as like it exists, but it's not where they're starting. Yeah, no, it's a really good question. And honestly, I don't think there's a right or wrong answer. I think if you, and it also depends if it's your first business and who you have around the, you know, around the table with you on your team, if it's your first business or second business, all these factors matter."
+    },
+    {
+      "start": 977.93,
+      "end": 1005.31,
+      "text": "Um, I personally think it's funny that you say that because I feel it's actually the opposite. I feel like more like brands are still going D to C, uh, first because when you go to a retailer, unless you have relationships or know actually how to get into the retailers, fortunately we do because it's our second time we've done it, but it's not easy. Either way is not easy. Um, retailers accepting you without any data is tricky, right?"
+    },
+    {
+      "start": 1005.57,
+      "end": 1034.49,
+      "text": "Like if you go to them and you're not selling online and you're like, Hey, I have this cool idea. Do you want to slot me in? Well, that's not really how it works. You might get a couple too. If you, if it's your first time. Um, so I actually do think that the DDC model first is a little bit more strategic. Um, and then going to a retailer or a specific region and having targets there, right?"
+    },
+    {
+      "start": 1034.51,
+      "end": 1064.27,
+      "text": "It's more like that inch wide, mile deep approach, right? Like the one thing that I think that's interesting is like, especially the, um, the co-creator economy when they, you know, you have an influencer behind the brand and the first account that they go to is Walmart, the largest retailer in the world. That's great. But I think what they fail to realize is like, you are setting your price floor for all the other retailers there. Totally. Yeah. They're the lowest. Once you get into Walmart, then you're going to have like a stop and shop wherever you are"
+    },
+    {
+      "start": 1064.27,
+      "end": 1089.65,
+      "text": "in the country at whatever grocery go to. It's like, Hey, what's your pricing on Walmart? I need to be within 15% of that. And that's something that don't really think about. They just thinking at like the big shiny object, like, and the post of, Oh, Hey, I'm in Walmart 4,000 stores. So I really think that that needs to be like double clicked on and like understanding what you're actually doing for the longterm. Um, so that's another reason why I wouldn't go into retail first."
+    },
+    {
+      "start": 1089.79,
+      "end": 1115.03,
+      "text": "I would go into DDC first, understand the data, use the data to tell you like where you're winning and where you're not, what you can improve on. And then I would go to retail because it's just two different beast. You know what I mean? It's two different beasts. Um, it's two different unit economic models. It's two different resources that you're going to need to build out each. Um, so that's why I say like focus is definitely important for us."
+    },
+    {
+      "start": 1115.15,
+      "end": 1144.81,
+      "text": "It's a little different because, um, me and my other co-founder, like we managed two different, very separate divisions of, of the business before. And that's kind of, we're utilizing our relationship experience to do that. And, you know, for e-com, I'm bringing in amazing gangsters like you and some other people that really help support on the DDC side. So, um, yeah, I think it's, I would personally start DDC first if it was, if it was my first brand and I was starting new, but also get the right people around you and then go to retail."
+    },
+    {
+      "start": 1145.69,
+      "end": 1170.25,
+      "text": "Brands like Third Love, Liquid IV and NeuroGum all swear by instant. They've tripled their email revenue and some like Karen Kane even see a 5X increase. Why? Well, because AI can build hundreds of versions that you'll never have time to make. While you're running your brand, instant is running all the experiments, figuring out what works and then continuously optimizing those to keep the conversions growing. Last chance. Don't get left behind while everyone else goes AI."
+    },
+    {
+      "start": 1170.63,
+      "end": 1195.74,
+      "text": "Book a demo by November 28th and get 50% off your first 60 days at instant.one slash Sharma. Go lock it in and crush BFCM. Um, and how do you think about marketing for retail? Like what were some of the more successful marketing initiatives you've seen work well for retail? Yeah. I mean, you know, it's, there's so many things I could say here, but I think I'll give you"
+    },
+    {
+      "start": 1195.74,
+      "end": 1225.1,
+      "text": "kind of a peek into how we, how everything we do in the business should relate to building velocity off shelf at retail. Right. So like with swishables in our previous business, um, we looked at, we sold in retail and food service, food service, meaning like hotels, airports, airlines, et cetera. Right. Those are actually awareness and marketing channels that create flywheels for retail."
+    },
+    {
+      "start": 1225.58,
+      "end": 1255.04,
+      "text": "Right. What do I mean by that? Those are discovery channels, right? So like if somebody goes to a hotel and they discover our product and get to try it for free and then they go home the next week and, uh, go to the grocery store, wherever they're shopping at, they're going to number one, have tried our product and seen our product. Then they're probably more, there's a higher probability that if they liked it, they're going to pick it up and throw it in the cart. Right. So it's not even just like spending on coupons and doing all this stuff at the retailer."
+    },
+    {
+      "start": 1255.2,
+      "end": 1284.14,
+      "text": "It's what are you doing outside to drive that consumer in the store and have them already be familiar with your brand. Right. So that's one. Number two, it's, it goes back to like, look, retailers are at the end of the day, they're real estate firms, right? Every square inch of space has a high dollar value per square foot. Um, so like, how are you buying space or getting space at a retailer is really gonna,"
+    },
+    {
+      "start": 1284.5,
+      "end": 1308.66,
+      "text": "it's what's going to separate you. I think, in my opinion, um, there's so many ways, like for our product. Whether you do clip strips or you do POPs and you're, you know, thinking like outside of just the normal shelf that your product lives on is how you should be thinking. Like just to exist on the shelf is not the game, right? The game is to get off the shelf."
+    },
+    {
+      "start": 1309.42,
+      "end": 1338.2,
+      "text": "So in order to get off the shelf, like just you being there is not enough. So what are some creative ways that you could think to like, not just be on the shelf, right? Again, I could, I could rattle off a bunch, but I'm not going to give you our playbook, but I don't want to be a gatekeeper too. Yeah. Yeah. No. What do you think of like, you know, like Poppy, for example, they perfected the, uh, flavor plus celebrity, um, plus timely moment."
+    },
+    {
+      "start": 1338.36,
+      "end": 1368.3,
+      "text": "Like that's kind of their strategy, right? Have you seen anything interesting like that, that you think is like, wow, that's, that's something, you know, I'm going to put it in the swipe file for later. Yeah. I mean, you know, that's a great example. Uh, Ellen, Ellensworth, right. I think, um, she had talked about like building and investing in brand. And I think it's a hard, hard concept for founders to really understand because like, you're not going to see immediate ROI and it's hard to track, right?"
+    },
+    {
+      "start": 1368.68,
+      "end": 1393.9,
+      "text": "Just spending those dollars on community. Um, but it is so important and they executed it so well. And honestly, I, I was, uh, I've seen that firsthand because, you know, living in Austin, obviously they're based here. Um, you go on Congress where we met and any weekend there's a gang of people just handing out poppies, whether it's for a Harry Styles pop-up, right. Or this or that."
+    },
+    {
+      "start": 1394.06,
+      "end": 1416.44,
+      "text": "So like, that's the investment in brand that she's talking about that relates to the retail velocity. Um, another brand that I think has done phenomenal, um, that just sold this year that I like to use an example of like how we like to think about our business a little bit is touch land right here, the hand sanitizer."
+    },
+    {
+      "start": 1417.18,
+      "end": 1445.16,
+      "text": "Um, when you talk about brand mode and simple innovation in that old commodity category, like, like hand sanitizers, um, I think they've just done an incredible job in building brand community and really just like a cult following with an insane demo, which is teenage girls around the country. It's so powerful. It's so powerful. Yeah, no, it is super interesting. Touch land too. Like I remember as soon as they came out, you're right."
+    },
+    {
+      "start": 1445.3,
+      "end": 1471.84,
+      "text": "It was like a cult like adoption of the product. And those people are still using touch land today. Yeah, I use it. And you know, it's like, it's meant for, it's really, I feel like it's skewed towards female, but I mean, I use this right. Like it stays in my backpack. Um, because I don't like using the boring Purell gel bottles that leak and you have to squeeze and it looks medical. Right. So like, I always like to relate our product to that because like we're taking the tiny"
+    },
+    {
+      "start": 1471.84,
+      "end": 1500.16,
+      "text": "3.2 ounce Crest or scope bottles, and then we're re-imagining what that looks like and having a more premium feeling for consumers and making it more portable, convenient, and sexy and better for you. Right. Yeah. I love that. Yeah. Can you explain how, how brands get into retail? Is it, do you have to sell to distributors or do you have to go sell to retailers? And you know, same goes for like local accounts, you know, around like bodegas around New York, for example, how does, how does all that work?"
+    },
+    {
+      "start": 1500.28,
+      "end": 1524.56,
+      "text": "Like, um, cause I know there's, there are brokers that exist, right? And like, what do brokers do? They basically just promise you you're going to get a meeting or they push the deal across the finish line. Can you just break this down? Getting into retailers is, it's pretty simple. Um, but it's not, no, but realistically it's really simple, right? Like the retailer has a buyer, the buyer has a certain review period."
+    },
+    {
+      "start": 1524.56,
+      "end": 1549.9,
+      "text": "And your job is to get a meeting with that buyer and get your samples on their desk so they can review your product during the review window, which is really like once a quarter out of the year. Um, how the product gets there is through the distributor. That's it. The distributor is not selling for you. They're just holding your inventory and distributing your product when the retailer buys it. Right? So the real question is how do you get to the buyers?"
+    },
+    {
+      "start": 1550.18,
+      "end": 1578.34,
+      "text": "Um, it's a super archaic industry and we've found that the best way to get to these retailers with our previous business and this business is using brokers. Now there's large national brokers. There's mobile, more boutique brokers. Uh, that depends on your strategy, right? Like, where do you want to go? Who do you want to use? What's your budget? All that stuff obviously matters."
+    },
+    {
+      "start": 1579.06,
+      "end": 1605.26,
+      "text": "Um, but brokers is probably going to be your best bet. How does that work? You pay a simple retainer. You might play retainer plus little commission. You can, you can work out a deal if you work out a deal, however you want. Um, but they're the broker's job is to get you a meeting with the retail buyer. Now what happened, like prepare you and get you the meeting. Obviously, if you know what you're talking about, know how to run promos and know what"
+    },
+    {
+      "start": 1605.26,
+      "end": 1635.2,
+      "text": "the retail buyer wants to hear, which is how are you going to move this product off my shelf? Right. That's, that's the only thing they care about because if they pick your brand and you didn't sell that retail buyer has a target to hit, right? There is their responsibility to hit their categories target. And if they don't do that because your brand underperform, well, guess what? You're going to be off the shelf probably in 12 months. So use a broker to get you the meetings."
+    },
+    {
+      "start": 1635.68,
+      "end": 1665.56,
+      "text": "But again, that's just the first step, right? Yeah. Getting on the shelf. And in those meetings is the value like from the broker, is it getting the actual meeting or is it like being in the meeting and kind of being the adult in the room that the buyer is like, all right, these guys know what they're talking about. They're going to run promos. They're going to buy in retail media. And like, they know how to speak to all that. Yeah. I mean, look, relationships help, right? Like I've, I've had some meetings where our broker just had an, like has an amazing relationship with the buyers and they've worked together for 15 years."
+    },
+    {
+      "start": 1665.78,
+      "end": 1694.28,
+      "text": "And if the broker's like, you need to bring this in and here's how they're going to run their programs and promos. And this is what they're going to do to support you. Obviously it makes the conversation so easy, right? It makes the conversation so much easier. Yeah. It's kind of like an agency for retail. Yeah. A hundred percent. But you know, the retail buyer still has to feel confident about your product that it's innovative and it fits in their set and it's what they're looking for. Even if they have a great relationship with the, with the, with the broker, excuse me. Right."
+    },
+    {
+      "start": 1694.48,
+      "end": 1723.88,
+      "text": "So all those things matter. You know what I mean? You still have to have a good product at the end of the day, has to taste good, has to fit into the set. Like MSRP has to be there. Can't be insanely overpriced. Um, but the broker should, um, definitely help you and support you and prepare you for that meeting and give you guidance as to, you know, certain buyers like different things, right? She likes maybe two months of promo instead of four months of promo and likes, you know, X, Y, Z."
+    },
+    {
+      "start": 1724.06,
+      "end": 1752.26,
+      "text": "There's a bunch of different things I can list off, but that's probably the quickest way to get into retail. Um, but again, it's a different business, you know, financial model than e-com, right? Instead of paying for ads, you're paying for brokers and retainers, right? So it's like, you have to really understand what those models look like and make the best decision for your business. And then do you feel like you still need to run like some level of ads marketing on top?"
+    },
+    {
+      "start": 1752.94,
+      "end": 1782.72,
+      "text": "I don't think it hurts. I don't think it hurts. It's like what you could do is have directed ads towards, let's just say you get a specific retailer in a region and you're running ads towards that region, right? Consumers in that region. Um, you're just redirecting like what you're doing towards that retailer to help support. Yeah. Um, okay. I want to talk about the, uh, the emotional side. So one thing that you, um, I've noticed love is like repackaging the benefits as something"
+    },
+    {
+      "start": 1782.72,
+      "end": 1811.28,
+      "text": "that people feel emotionally. So can you break that down and, um, and then talk through some examples? A hundred percent. I think, you know, ultimately what I believe in my philosophy is that I think good brands sell features and benefits, but great brands sell emotional outcomes, right? What does that mean? Like our product is dye free and alcohol free. We're selling liquid mouthwash, but truly what I always tell people is we're actually in the confidence business, right?"
+    },
+    {
+      "start": 1811.68,
+      "end": 1837.16,
+      "text": "We want people to feel confident and not worry about their breath after they've just had a cup of coffee and they're walking into a business meeting, right? Like that level of confidence, having that, this hero product with them as a hero to save them from having bad breath going into the meeting is an emotional side, right? One of my, I have two, I mean, I have like three favorite brands that do this, that give you."
+    },
+    {
+      "start": 1837.36,
+      "end": 1863.32,
+      "text": "And when I say the, when I say these brands, I think you're going to like get it right away. Number one is Corona, right? Whenever you see a Corona ad, it's on the beach and it's the sounds of the waves. It's very sensory level. Like you get us there, you get us this like this emotional sensation of like, it takes you to that place immediately, even if you're watching it through a screen. Another example is Nike."
+    },
+    {
+      "start": 1865.52,
+      "end": 1895.5,
+      "text": "Like anytime, like for me personally, like if I wear some Nike running shoes, I feel like I'm going to run the fastest mile I have. Right. It's just like a feeling that I get. Um, and then I would say the last, one of my favorite examples is Apple. Um, I mean, from the time you walk into their store, you feel like you're in the future a little bit, right? It's just, it's a, it's a feeling that you get. It's the emotion that you get with it. And that's, that's the brand mode that I was talking about earlier."
+    },
+    {
+      "start": 1895.66,
+      "end": 1921.44,
+      "text": "That's like what a super insanely strategic, like that's not random, right? That that's over years of thinking, how do I get the consumer to feel this way through products, through everything, anything related to the brand. That's all towards the North star of that emotion, you know? So it's like, that's why I kind of really hint on it because that is essentially the brand mode is the feeling that you can give a consumer."
+    },
+    {
+      "start": 1921.62,
+      "end": 1949.1,
+      "text": "And if you can give that a feeling, that feeling to a consumer, then that will have them, um, you know, your LTV will be forever infinity. Right. Like, and that's the goal from, for every brand I feel is just like, how do you, it's not even just retention. It goes more than that. Like it's, you know, um, features and benefits, like I said, are cool, but it's, it's all about how can I create this emotion for the consumer and have them relate."
+    },
+    {
+      "start": 1949.1,
+      "end": 1976.28,
+      "text": "And then, you know, um, they can take it from wherever they want to take it from there and build their own use cases of how it makes them feel. But that's why I'm really, I'm so focused on that critical piece of the brand of how do we make people feel. Totally. And I feel like too, a good test for that is like the consumer feeling like, thank God I found this product because of this, you know, a hundred percent, a hundred percent. Um, okay."
+    },
+    {
+      "start": 1976.44,
+      "end": 2004.96,
+      "text": "So, um, you know, as you're starting to scale, um, a brand up, um, I'm curious, what are some of your first few hires? Great question. Um, I think for every business that will look a little different based on the structure, you know, for us it's because we have like, we have experience. And like I mentioned before, in these two macro channels that are diverse retail and food service, or you can call it alternative channels."
+    },
+    {
+      "start": 2005.16,
+      "end": 2030.68,
+      "text": "We're not necessarily going to go out and hire more people for those channels because we essentially have the experts, right. Um, or people that have done it same with DTC. Um, so I think it's going to be more backend versus front end for us, it would be ops. So as we scale, we have the ability to do that and nothing is constraining us. That's super critical. Right."
+    },
+    {
+      "start": 2031.1,
+      "end": 2059.98,
+      "text": "Um, so ops is going to be, and it could be, you know, this can be full-time. It could be fractional that all that stuff is based on where your business is today and what you think it's going to be in the next 12 months. Um, ops is definitely a critical role that we probably looking to hire. Um, and then I would say another role, definitely somebody on the e-com side to kind of help support."
+    },
+    {
+      "start": 2059.98,
+      "end": 2078.68,
+      "text": "We've had conversations about this, right. Um, kind of a liaison that can help support the backend. But you know, the way that we've structured this company from the cap table down is everybody provides value and has precise value in a different area of the business."
+    },
+    {
+      "start": 2079.28,
+      "end": 2107.34,
+      "text": "So those essentially, those people act as team members, employees, partners, an extension of our sales force. Right. So then we don't have to go out and hire as many people as most companies might need, because everybody who's involved in this business has a specific role. And even investors on the cap table, no one is passive, right? Um, that's our entire cap tables like that."
+    },
+    {
+      "start": 2107.46,
+      "end": 2134.04,
+      "text": "It's not a huge cap table, but our entire team is focusing on something or working on something. Um, so that allows us to scale too, in a way, cause it saves on overhead. We have, and these aren't just people, these are, you know, experts and pros and what they've done. That's what we've talked about building a team of Avengers, right? Like that all goes into like building team, right?"
+    },
+    {
+      "start": 2134.06,
+      "end": 2162.34,
+      "text": "I think the way I look at team is like, I, it's building the product. The team is a product that you're building, right? It's just like this tangible product that you see right here. The team is the same thing. Um, you focus on every part of the team, just like you focus on every part of the actual physical product itself, the experience, what it's, what's good, what it's lacking. Right. So, um, that's how we've kind of built the overall company."
+    },
+    {
+      "start": 2162.8,
+      "end": 2192.6,
+      "text": "So future hires would definitely queued ops and somebody on econ for now, most immediately. Amazing. Um, okay. Last thing I'm curious, what's your most overrated metric for early stage CPG that you think people focus on? You know, I'll answer this in two ways. The one that I think they should focus on and they don't is, uh, profitability. Just like, it doesn't have to be contribution margin, but like your actual margins, right? Right."
+    },
+    {
+      "start": 2198.78,
+      "end": 2227,
+      "text": "Early stage founders, it's, it's more growth orientated mindset. We'll make the money back later. We're going to raise and it's going to be all good. And then tariffs come at 50% on aluminum and like that mindset has gone out the window and then you're scrambling. Um, so profitability, EBITDA contribution margin should be always a focus, even with the growth mindset, um, path to profitability is, has to be there."
+    },
+    {
+      "start": 2227.66,
+      "end": 2254.86,
+      "text": "Um, I think, you know, obviously new time founders, especially if they're starting D2C, like you're, I don't think, I think ROAS is, is complete BS. I don't think it should be return on ad spend. It should be profit on ad spend. So it should be POAS. Um, it just goes back to my profitability kind of metric. Right. I think that is, it should be a different focus. It shouldn't be on the return."
+    },
+    {
+      "start": 2255.08,
+      "end": 2284.52,
+      "text": "It should be on the profit made, which is, it's two different KPIs. Right. Um, so that's, that's probably what I would say is, is the most one that I hear like change the ROAS, POAS. Do you know why that is? Do you agree? I'm actually curious to hear your opinion. Yeah, we do. Uh, we have, we have a metric that we started using called pro as a couple of years ago, which is basically that like profitable return on ad spend. Yeah. So like what's ad spend to profit returned? Yeah. I think that's like, it's, it's so insanely critical."
+    },
+    {
+      "start": 2285,
+      "end": 2313.74,
+      "text": "Yeah. Some, some businesses have a different, like a supplement brand might measure it. Uh, you know, there's CPA against a three month return factoring in, you know, that, that factors in some percentage of customers who subscribe, some commit to, you know, only buy once, some buy once and then come back and buy a second time. Um, but yeah, I think every business kind of has to figure out their own version. ROAS is too broad. It's too broad. It's overused. It's too easy to hide. It's too easy to hide."
+    },
+    {
+      "start": 2314.62,
+      "end": 2343.48,
+      "text": "I mean, it doesn't help them in the long run, right? Like they're looking at a KPI that actually is like not accurate to their business. Exactly. In the long, long run ends up hurting them. So exactly. Yeah. I think that's probably my number one. Amazing. Well, Goulshon, it's been great having you here. Thank you for jamming with us. Uh, you're going to have to come back. Swishables starts to get bigger and takes over more of the world. A hundred percent. Uh, I appreciate you having me on Nick. You are my brother."
+    },
+    {
+      "start": 2343.82,
+      "end": 2367.4,
+      "text": "So anything for you, I would love to come back on. Maybe, uh, let's do it 12 months from now and see where the business is. I love that. And that we'll go from there. Amazing. Thank you. All right, dude. Thank you. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 29.8,
+      "text": "Welcome back to another episode of Limited Supply. This week is going to be a fun episode. We go super tactical and also very psychological into the world of CRO, that's conversion rate optimization. I brought on a friend of mine, Dylan Ander, who he's been doing CRO his whole life. And now he sees billions of data points with Heatmap. And we just talked to all things CRO, what are the low hanging fruit things you should focus on? You know, what actually from a rebrand drives conversion increase?"
+    },
+    {
+      "start": 29.8,
+      "end": 59.78,
+      "text": "on new websites? Or what are the what are the long term things you can focus on to drive conversion versus the short term things? We spend about an hour going through all of it. And honestly, it was a really fun conversation. It'll feel like you've got you're like a fly on the wall in the room with me and Dylan just shooting the shit on CRO. So check out the episode, let me know what you think. And honestly, I hope you hear something in here that's going to make you an extra 30 40 50 grand. I think you will. Dylan's got a lot of good tips in here. So enjoy the episode. Let me know what you think. And"
+    },
+    {
+      "start": 59.78,
+      "end": 68.04,
+      "text": "Dylan. And as always, I'll see you next week. All right, Dylan, welcome to limited supply. This is this is the first time you're on limited supply, right?"
+    },
+    {
+      "start": 68.04,
+      "end": 97.7,
+      "text": "First time first to many. Amazing. Cool. Well, you know, a lot of people know you as the CRO guy. I know you as a friend. But during nine to five, I know you as the CRO guy. And I'm always text, we're always texting about new CRO ideas. And so I thought why not have a fun discussion where we bring you on and just chat all things CRO kind of dive into your brain of how you think about site optimization or user psychology. So we're going to do that today. But"
+    },
+    {
+      "start": 98.04,
+      "end": 127.88,
+      "text": "before we get started, you want to give everybody who's listening just a quick intro of yourself. You know, essentially, this intro, I want you to give yourself the credibility as to why people should listen to the rest of this episode. Happy to. Well, everyone. Hello, my name is Dylan. I like websites. Websites are how you guys are going to make the most money. You can sit in your meta ads manager all day. But if people don't click the buy now button, you're not going to make a dollar. So I focus on websites. I built my first two e-com stores in my freshman year."
+    },
+    {
+      "start": 127.88,
+      "end": 153.04,
+      "text": "I actually exited one of them before I graduated college and then one shortly after. So I've been doing e-com for longer than I'm proud to admit that I hit my 30th recently. So we've been doing it for a minute. After that, I built an agency, NextCore Media, had several failed ventures between, you know, this is my current business, heatmap.com where, you know, this is business number eight."
+    },
+    {
+      "start": 153.04,
+      "end": 182.56,
+      "text": "So my biggest achievement to date before I built heatmap was split testing.com. We were the largest CRO agency in the e-com space. Clients like True Classic and Hexclad and, you know, Claire's. So a lot of the awesome brands that you guys, you know, have probably bought from before, I split tested you and thank you for the data. So we optimized billions in e-com revenue. Now on heatmap, we're collecting trillions and I can go more into that, but that's primarily the background."
+    },
+    {
+      "start": 182.78,
+      "end": 207.56,
+      "text": "I mean, I've done SEO for Geico. We had, you know, six figure monthly contracts. We've done it for Planet Fitness. So it does stem a lot beyond e-com, but it's all I focus on pretty much the whole time. Yeah. You're basically, you're like an internet kid for 12, 15 years. And you've just built a lot of stuff and seen a lot of things. Who are you calling kid? You're a 30-year-old kid, Dylan. Yeah, I'm just a kid."
+    },
+    {
+      "start": 209.1,
+      "end": 235.16,
+      "text": "Why do you think, like, why do you think CRO is so important? You talked a little bit about, you know, you can sit in meta ads manager all day, but if you don't optimize where they're going to, like what, you know, most agencies, most performance marketing, it's entirely focused on meta ads, you know, ad creative, testing, you know, tons of different ad variations, but it rarely ever happens on the website side. Yep. So it's really like the purpose of each, right?"
+    },
+    {
+      "start": 235.4,
+      "end": 264.26,
+      "text": "So yeah, there's some legendary advertisements that like people remember forever, but let's be honest, none of those are like Facebook ads unless you're a marketer, right? So like some of the like legendary Apple ones, the Coke and Snapple ones, Doritos, like they've got a ton of amazing ads that were absolutely legendary and people remember. But those are typically like Super Bowl ads and TV ones, you know, those aren't like in meta, right?"
+    },
+    {
+      "start": 264.26,
+      "end": 293.44,
+      "text": "Like, like no one's really going to remember that. So the purpose of an ad in, you know, e-commerce is just to get someone to your website. Like, you know, after you purchase or, you know, hopefully purchase, like you're not going to think back and be like, wow, like I really bought that product because I love the ad. Yeah, totally. That's not how it goes, right? So the purpose of the ad is just to get the click, but a qualified click. So the purpose of the ad is to find the right people, which hopefully Zmet is doing."
+    },
+    {
+      "start": 294.1,
+      "end": 324.02,
+      "text": "You're therefore targeting with your ad creative. You're getting them interested in something that they care about. And the cool thing is once someone gets to your website, they actually have something called confirmation bias. And confirmation bias is that they clicked on this ad because they thought it would be something they're interested in. And guess what? Humans like being right. So when they get to your website, you have confirmation bias to actually buy the product of the ad you just clicked on. So it's kind of like years to lose at that point, unless they're just unqualified people that got to your website."
+    },
+    {
+      "start": 324.3,
+      "end": 350.4,
+      "text": "So now once they get to the website, the purpose of the website, if you're an e-commerce, it's your only salesman, right? Like you run an agency. It's amazing, by the way, if you guys haven't already, I literally see the metrics of Sharma Brands customers and it's outstanding. But for you, like you're going and selling, right? Your website on its own can't collect agency revenue. It's, you know, you got to go sell it. But for e-commerce, your website is your only salesman."
+    },
+    {
+      "start": 350.7,
+      "end": 372.96,
+      "text": "So if your only salesman is terrible at closing, you're not going to close and you're probably going to struggle to get new clients. So that's why if you don't click buy now, the salesman can't close. Yeah. When I was at Hintwater, you know, in beverage, there's basically a couple players that dominate the whole space. It's like Coke, Pepsi, and Keurig, Dr. Pepper, Snapple."
+    },
+    {
+      "start": 375.4,
+      "end": 403.12,
+      "text": "And there's no way you can get shelf space in some of the, like frozen is another category, insanely hard to get shelf space. Beverage is one, insanely hard to get shelf space. But we used to crush on e-commerce. And it was because I always thought of e-commerce as like the shelf space where you get, it's not about owning the shelf space or the real estate on the shelf space. It's about who's the best at getting you to that digital shelf space. And it's very similar to what you're thinking. I want to come back to the product launch in a second."
+    },
+    {
+      "start": 403.12,
+      "end": 432.24,
+      "text": "But the way that you think about the funnel is almost exactly how I feel like you built this new analytics product with the funnel mapping and all of that. Is that right? A hundred percent. There's a phrase I give at like almost the top of all my keynotes, which is ask your customers what they want, give them what they want, and you get what you want, which is money. So it's like whoever understands their customers the best wins. A lot of people, you know, focus on the UX. Should we have the sticky out to car bar?"
+    },
+    {
+      "start": 432.44,
+      "end": 461.02,
+      "text": "What flies out in the navigation? All that type of stuff. But at Split Testing, we literally ran over 4,000 split tests. Eighty percent of those were just based on copywriting and changing images. That's the 80-20. It's like that's the content of your website. How you present the content is nowhere near as important. Like maybe with the exception of like bundle builders and things to increase your AOV. But other than that, it's really just the message that you're giving."
+    },
+    {
+      "start": 461.3,
+      "end": 490.82,
+      "text": "So with Heatmap, the way I look at CRO and like websites, it's kind of like what is happening? So it's like the way to think about it is you should care more where you're losing money than where you're making money, right? Because you could do like more of what's making you money. But like if you figure out what's not making you money, a heck ton of everything else is going to make you way more money. So it's kind of like in CRO, I always want to find the problems. So like we have AI recommendations inside of Heatmap and they're actually based on this is underperforming. This is underperforming."
+    },
+    {
+      "start": 490.92,
+      "end": 519.84,
+      "text": "But if I had AI Insight saying, hey, great job. The CTA is doing really well. You're not going to be able to do anything, right? So if you think about the what, the what comes from web analytics, which we did just announce literally two hours ago. I'm happy to go in, but web analytics kind of shares like the what is happening on your website. Heatmaps and screen recordings tell you where the problems are happening. Then how are they happening is like to ultimately go into those."
+    },
+    {
+      "start": 520.04,
+      "end": 548.84,
+      "text": "And then the why is actually based on customer feedback surveys, which we also have on the platform. Kind of funnels or where. And then ultimately like go and do it is like once you understand the problem and you understand why it's a problem at the top of that pyramid. Now you can go in and, you know, actually make meaningful change and super meaningful revenue from your website. Yeah. It's funny because there's, you know, like we get hired to do new website launches or relaunch a site."
+    },
+    {
+      "start": 548.84,
+      "end": 575.2,
+      "text": "And, you know, with the goal of really increasing revenue per visitor or conversion rate and so much of it. I mean, you know, a lot of what we do is like first we just look at what's working and we do those things. The heat maps, the screen recordings, the scroll depth maps, et cetera. And but so much of really fine tuning and increasing click through, whether it's from homepage to collections, to product, to cart through checkout is what you said,"
+    },
+    {
+      "start": 575.2,
+      "end": 604.68,
+      "text": "which is sometimes it's very basic UX, just making things easier to find, easier to click, more obvious or it's changes in positioning. And like, what is the angle of selling the product? Exactly. The angle is, you know, 100. It's 100 to 1. So what it is all in all my experience. Yeah. 10 years of split testing because in college I did actually start split testing. Shout out Ezra Firestone on Zipify when we used to be able to split test on those."
+    },
+    {
+      "start": 604.68,
+      "end": 632.54,
+      "text": "Because that was my first one a minute ago. But the same way you look at websites has always been the same way I look at it as well. I've got a little bit of a hot take actually for you on full website redesigns. Amazing. So I am actually, if you are, you know, a decently sized brand, call it like an eight figure e-com brand. I actually recommend not rebuilding your website. So super hot take. Okay. But I'll tell you why it's actually not that hot and it's kind of correct."
+    },
+    {
+      "start": 633.14,
+      "end": 662.56,
+      "text": "In split testing, one of our like, you know, selling angles is that what we called it is evolutionary redesign. So if you're going to redesign your website, it's going to be like four, four-ish months. If it's like a really deep one, really big launch, you're already, you know, making 100 million a year. You don't want to just flip it on in two weeks, right? It could take four to six months to build. But if we start aggressively split testing, let's try several new layouts. Let's test several new angles. Let's test several new hero images."
+    },
+    {
+      "start": 662.82,
+      "end": 689.96,
+      "text": "Let's test, you know, several different collections page, like layouts, arrangements, which products should be there. It's called what we would call evolutionary redesign. That if you stuck with us for those same six months that you might need to rebuild your website, data step by step in split testing, you're never going to implement something you don't know is a revenue increase. So you should be like improving your website over time."
+    },
+    {
+      "start": 690.12,
+      "end": 718.76,
+      "text": "And I always said, yeah, we'll be running four split tests a month, but you're not going to recognize your website in six months. And it'll be all backed by data, all scientific, all proven, only revenue increase over time that we know once you have a new website, there's really no difference. Like unless you're making a big marketing angle of it, like, hey, like here's a whole new angle. Like, you know, AG1 had like a legendary one where they totally did. That's one of those few that I'll say, like they did stick the landing tremendously."
+    },
+    {
+      "start": 719.14,
+      "end": 740.74,
+      "text": "But usually I say, no, don't rebuild your website. Use some evolutionary redesign and rebuild your website that way. Yeah, I would say I like that approach. Typically, like we have clients that some like, you know, Parachute Home, for example, we entirely redesigned that and relaunched it."
+    },
+    {
+      "start": 741.42,
+      "end": 763.7,
+      "text": "I think we first launched it with a split test of traffic like 90-10, just to make sure everything was working and then 50-50 and then fully 100%. And we were insanely confident in the uptick that would come from it. But then we have other clients like, you know, when we rebuilt SolarWave's website or Salud's website, we were running all of their paid as well."
+    },
+    {
+      "start": 763.8,
+      "end": 788.1,
+      "text": "So we were building landers and testing the new branding and different content modules within landers, seeing what worked, and then basically using that to build the new website. And then 100% of all ad traffic went to the website. You're killing it. That's why I said, you guys do great work. That's, you know, a couple of ways to do it. But yeah, it should be in steps and not just in the blind. We think this looks good. We think this looks good."
+    },
+    {
+      "start": 788.22,
+      "end": 817.48,
+      "text": "Like if you're not literally going to the point of picking up the phone and calling some customers to ask them, I always say you didn't go far enough. Yeah. On that note, what are some like, you know, I think a lot of people think about CRO and they think about, okay, I'm going to change my button color, try an outline, you know, try different CTA copy. Like what are some of the misconceptions you see about CRO versus what are the actual things to focus on? Totally. So I know I've been speaking about split testing a lot, but people think that CRO and split testing are synonymous."
+    },
+    {
+      "start": 817.8,
+      "end": 846.16,
+      "text": "That is like the biggest falsity. People are like, oh, I can't work on CRO yet because I don't have enough traffic to split test. But that's crap. That's not true. So there's so many things that you could do in the, because like, I also hate the name CRO because it's conversion rate optimization. First off, fuck conversion rate. It's the worst metric. It's a vanity metric. Cut off all your ads and send three emails. I want to come back to that in a second. Yeah, please. Like, well, so conversion rate is a terrible one. So I hate the name."
+    },
+    {
+      "start": 846.26,
+      "end": 875.16,
+      "text": "It's kind of like revenue optimization or like profit optimization, business optimization. That's really the way to look at it. So it's like the CROs, like more so than the media buyers, we're typically the ones sending customer feedback surveys to understand more about the customer. Site speed, we all know it's mission critical. That's CRO work, right? Building new landing pages, that's CRO work. Working on different angles and copywriting, CRO work."
+    },
+    {
+      "start": 875.54,
+      "end": 904.52,
+      "text": "But what the true is CROs do. It's like what happens on your website is going to work everywhere else. Like it's proven every time. So if a really good headline or an angle works on a landing page, go put that in your emails. Go run some ads that are similar to that. If you're making blogs for SEO, go make content around that angle. If you're doing influencers, like their content should be more towards that angle that worked stemmed from your website. So there's also something called live testing, which most people don't know about."
+    },
+    {
+      "start": 904.74,
+      "end": 934.52,
+      "text": "There's split testing and there's live testing. Live testing just means putting something live on your website and monitoring heavily. I'm not against live testing. It has higher risk, but it's a lot faster and doesn't require a lot of traffic. So you can implement and wait. I'm not like a split test or die type of person. You know, it's like you can go in and implement things in your website and see it. So you can run live tests. What's an example of something you would split test versus live test? Really good question."
+    },
+    {
+      "start": 934.6,
+      "end": 960.14,
+      "text": "Never been asked that one. Because like split test, I could see, you know, maybe you're split testing an offer or a gift with purchase or something. But live test, would that just be like a net new thing? Like adding a bundle builder to the hero section of a homepage to see if you're driving click through and conversion that way? Yeah. So one thing also is you do need to think of actually hot take, the limitations of split testing as a technology."
+    },
+    {
+      "start": 960.46,
+      "end": 983.52,
+      "text": "If you're trying to build a whole brand new bundle builder, you can URL redirects like a 301. But 301 redirects take like a full second to load. That actually, if you do a URL redirect test, it's actually going to slow down your performance of your variant and not perform as well as it could live on your site. So those ones that are really code heavy, I find that you kind of have to like run ads to it."
+    },
+    {
+      "start": 983.62,
+      "end": 1011.52,
+      "text": "And this is another one also that even if you're in smaller traffic, what I recommend is instead of a URL redirect, let's say you have two landing pages or two versions of a PDP you send traffic to. And one, you want to change the buy box or a bundle builder, take identical ads in two different ad sets and run them. That's the only way to get a true A-B test with no other things in there. So that's kind of like a live test that also CRO, again, it's not just split testing."
+    },
+    {
+      "start": 1011.7,
+      "end": 1038.3,
+      "text": "You can actually test with your ads two different things in your website, which is something that no one speaks about in CRO. Yeah, a lot of CRO I feel like is on the website side is where the testing is done versus in the actual split on ads manager. But I think that's because like Meta is the only ads manager you can rely on to do that. 100%. The others you can't really rely on. Yeah, maybe Google a bit, but that's about it. Yeah."
+    },
+    {
+      "start": 1038.3,
+      "end": 1067.3,
+      "text": "Another thought that just came to mind is, so like for some clients we've done this where if they're catalog traffic, if they get a lot of success with catalog traffic, you know, PDPs are generally lighter in information than like a landing page. But landing pages convert better for prospecting traffic, but catalog ads go to PDPs. So we put them together and we'll just build a separate duplicate of PDPs that are made for catalog ads."
+    },
+    {
+      "start": 1067.48,
+      "end": 1093.8,
+      "text": "Have you done that before? So I have in specific to catalog ads. Drop some knowledge to everyone on the pod. It's not just about me. Well, you know, basically just the same way I think that like every source of traffic should have its own version of a page. Either because A, you know, if you're coming from like a app loving, you have a different user experience that you've been familiar with before you get to the site. Same with TikTok."
+    },
+    {
+      "start": 1094.1,
+      "end": 1114.16,
+      "text": "You know, TikTok, it's a different user experience, very fast paced and quick. And so if you're not fast paced and quick on your site, you're going to lose the person. You know, somebody coming from like an advertorial, they can have a much longer form thing. They're a lot slower paced. All that to say, you know, catalog ad traffic. If you're prospecting with catalog ads, people are just going straight to a PDP."
+    },
+    {
+      "start": 1114.78,
+      "end": 1143.4,
+      "text": "And if you don't have, you know, all of the things that a landing page would have to educate and let somebody decide if they're going to convert or not, you know, you're likely going to lose that given 99% of PDPs are very minimal. You know, product information up top, maybe some, you know, maybe some content in the middle and then usually just reviews. And so sometimes we'll make duplicates of PDPs where they're just essentially landing pages, but they're still product pages fed into the catalog. 100%. Yeah, I love it."
+    },
+    {
+      "start": 1143.82,
+      "end": 1170.7,
+      "text": "Catalog ads have been something that I think is pretty mind bending, like huge opportunity. A lot of people are missing out on those when they've got a lot of SKUs. So you actually asked me something before of live testing versus not. How do you approach that, right? Because you're able to run split tests in the agency. You're able to just implement things on the site. So I'm curious how you look at that one. No one's asked me that question before. So that's why I'm interested to get your take as well."
+    },
+    {
+      "start": 1171.22,
+      "end": 1200.98,
+      "text": "Yeah, honestly, I wouldn't say there's like a defined, you know, decision tree around what to split or live test. But I would say if it's something like, you know, where we want to test an updated design of the variant selector on a PDP or, you know, flavor selector or a different design of the bundle builder to see if we can get, you know, six bags in versus the normal four. Those, I feel like are good split tests."
+    },
+    {
+      "start": 1200.98,
+      "end": 1229.62,
+      "text": "But if we were to, you know, redesign, you know, if we were to relaunch the, if we, if we saw that for a brand, you know, there was a higher than normal percent of traffic going to the about page or, or the story page or the science page, you know, to learn about how the products are created. Like those are pages. I feel like if you redesign, you're probably redesigning it with a thesis of, okay, if we do this, we're going to increase, you know, we can start to increase conversion or start driving sales from here."
+    },
+    {
+      "start": 1229.9,
+      "end": 1257.98,
+      "text": "Those are things I feel like you could live test and just swap out pretty confidently. Or if it was like a, you know, like a content module, you know, on parachute, if it's a content module showing how the sheets are made and put together. And it was really just obviously better. I feel like those are things you can kind of live test versus split test. I fully agree. So I actually remembered what I was going to say before, because you were talking about, you know, the different forms of traffic and like where they come from."
+    },
+    {
+      "start": 1258.16,
+      "end": 1286.96,
+      "text": "I'm about to drop a little bit of a knowledge bomb that I don't think anyone has shared big data on yet. So at Heatmap, we've collected trillions of data points. We have native ad integrations. So we actually know a lot more than a traditional Heatmap that's just tracking UTMs. So we actually have a ton of data on that. What would you guess? So like I looked at about like 20 websites. I just put it on a spreadsheet, like I didn't query the database. So like I'll get more data, but just based on those alone, the data was pretty like constant across them."
+    },
+    {
+      "start": 1287.82,
+      "end": 1317.58,
+      "text": "So for Meta and TikTok, because I found they were the same. What do you think the average time on site is of someone who comes from Meta? And this is just last click, right? This is not like, you know, advanced. This is just someone came from Meta. I don't care if it's first time returning, whatever. Someone that comes from Meta, on average, how long does their session last? Two seconds? No, no, no, no. So like on average, it's so for them, it's 53 seconds is what I found. Oh, okay. Wow."
+    },
+    {
+      "start": 1317.58,
+      "end": 1347.24,
+      "text": "A good session. Well, actually, so in Heatmap, we actually scrap all the crappy traffic. It's called junk traffic. That's a big term. Oh, okay. I was thinking about all the sessions that come and leave too. Like majority is that. But yeah, it makes sense. 100%. That's actually a value prop that we have at Heatmap, which is there's definition of junk traffic. You can look it up where junk traffic is bot spam filter, like Shopify, it's good and bad because they are server side tracking because we're client side tracking."
+    },
+    {
+      "start": 1347.24,
+      "end": 1375.68,
+      "text": "Like if someone instant like bounces, like someone clicks the ad and instantly leaves, that's counted by almost every other, you know, analytics platform. And I'm like, I don't want that in my data. I don't want that in my client's data. So like we discard it. Can you explain server side and client side? Somebody actually asked me what one of the softwares we use is, and I didn't know how to answer that. Yeah. Let me roof on this one because I've got a one, two on the time on site. So TikTok, how long do you think the average is?"
+    },
+    {
+      "start": 1377.04,
+      "end": 1405.74,
+      "text": "TikTok. Discarding all the crappy ones. 13 seconds. So 41. Wow. And again, you know, that's for, that's for like a quality session that for us, if they're above five seconds is the only time we count them. Got it. So, you know, these are like true ones, engaged sessions. So now for Google, what do you think average time on site is of engaged sessions? A minute. Two minutes and 20 seconds. Wow. So it shows the intent."
+    },
+    {
+      "start": 1406.1,
+      "end": 1435.22,
+      "text": "So the reason why, like in those ad platforms, TikTok is so fast. It's the shortest sessions because that's the nature of the content. And also I forget the name, but you might know it. It's where like, it's almost like inbound ads where Google, someone was searching for something and then therefore they went and found the proper solution, which is probably yours. And now they were already there with intention to shop and buy. They go and buy more frequently. Conversion rate is almost like triple what meta is as well. Maybe not four or five times."
+    },
+    {
+      "start": 1435.38,
+      "end": 1464.86,
+      "text": "So that's an interesting one that I found that, yeah, that was just because we were talking time on site. So it's like a meta and TikTok, people aren't there to go try and find your ad, but on Google, they are. So that's really like a big difference there. So just a fun nerd fact. We debuted it here. I don't think anyone has ever shared that data before. Well, it would be. So are you collecting this traffic? This is all through UTMs, right? Are you able to see referring URL as well, even if it doesn't have a UTM?"
+    },
+    {
+      "start": 1464.86,
+      "end": 1494.4,
+      "text": "Because I'd be curious to know what Reddit's time on site would be, not through an ad, but like as a referring URL coming from Reddit. Reddit is a tiny fraction. But Reddit is also wicked powerful. Ecom is absolutely sleeping on Reddit, like tremendously. It's pretty high as well. I saw it in like two or three of them and they were looking like a minute and a half to two minutes because it's definitely like more trusted, verified traffic. You know, people aren't pitching their stuff on Reddit."
+    },
+    {
+      "start": 1494.62,
+      "end": 1521.14,
+      "text": "So like that's a pretty good one. You know, one thing you said, talking about the Google click time brought a thought in my head that I'm curious what... I'm just curious what you think about this thought. I feel like there's always two funnels that you're constantly building. One funnel is like basically selling the reason why you need this product."
+    },
+    {
+      "start": 1521.36,
+      "end": 1551.22,
+      "text": "You know, it tells you, well, you're kind of always prone to being sick. That's why you need colostrum. Or, you know, you want to stop growing white hairs, you need colostrum. And then the second funnel is why is this one better than the others? Or why is this one the one you should buy? Interesting. So it's... Are you familiar with the different buying journeys? Like the stages of the buying journeys? Like the ADA funnel? Yeah. Like, you know, awareness, interest."
+    },
+    {
+      "start": 1551.5,
+      "end": 1580.2,
+      "text": "Interest. The ADA funnel. Do you want to explain the ADA funnel to those who don't know it? Because then I'll tie it to the websites. Okay, perfect. The ADA funnel is... It stands for... It's a four-part funnel at the very top awareness. Then, you know, awareness helps you drive interest. Interest helps you drive desire, which is intent. And then desire drives conversion. But for the record, I think this is outdated. I don't fully disagree. But I think the foundations... Like, yeah, you can add in..."
+    },
+    {
+      "start": 1580.2,
+      "end": 1608.02,
+      "text": "Like some people add social proof as one of those and that type of thing. But there's the, you know, awareness phase, the buying phase. Like, you know, the interest phase. Like, whether they're on your page or not. So when someone's first coming... Like, you know, again, on meta TikTok where most people discover you, which is top of funnel. They're not on TikTok to find you, right? So you got to take them away from their day and just educate the heck out of them. That's just all info."
+    },
+    {
+      "start": 1608.16,
+      "end": 1637.78,
+      "text": "That's that copywriting and images I always come back to. So that's the top of funnel. And then once they return, maybe someone else mentions it. They might go direct traffic, which is more traffic percentage than most people think, even for the big brands. And then they'll go in and the website kind of does the rest. Like you said, that second half that just kind of swoops up the conversions because more top of funnel. It's like, of course, people want a first time meta user to buy. But like, that's not... If you're thinking in the grand scheme of things, that's not really the goal."
+    },
+    {
+      "start": 1638.54,
+      "end": 1664.56,
+      "text": "So that's where like those two types of pages that you shared are kind of like... There's really three technically, if you want to go into those. Where it's just, you know, the different stages of awareness. That's the type of pages that they have to match the, you know, how many times they've been on the website. If they're getting retargeted, they might be a little bit more direct response versus informational. And it's, you know, matched to where they are on the buying journey. Yeah, that's actually very true. I fully agree with that."
+    },
+    {
+      "start": 1665.02,
+      "end": 1692.98,
+      "text": "My thought earlier around, you know, ADA being outdated is like going back to like you mentioned Coke earlier. In, you know, 1960, Coke had to run different stuff at billboards, different things on radio. You know, they... Like the funnel was really defined there because it was like different platforms are basically exclusively different parts of that. But today, whether it's TV or TikTok or YouTube or meta or a bus wrap ad with a QR code on it,"
+    },
+    {
+      "start": 1692.98,
+      "end": 1718.18,
+      "text": "like almost all these placements have to be like full funnel, whether you're... You have no idea what the product is or you're ready to make a purchase right now. These... All of these ads and placements have to work as upper, middle and lower funnel. Do you agree? Can you elaborate for why they have to be all of them? Yeah. Well, they don't have to. But like, if you look at like a brand like Viore, right?"
+    },
+    {
+      "start": 1718.58,
+      "end": 1746.32,
+      "text": "Like they run their TV ads as a performance channel or like, you know, even when I was at Hint, we used to run our TV ads as a performance channel. But at the same time, it was also an amazing awareness play for retail. But if it was only created to be a awareness ad, then it wouldn't have also given the benefit on the, you know, direct response side. But what I'm trying to say is like every..."
+    },
+    {
+      "start": 1746.32,
+      "end": 1774.62,
+      "text": "Whether it's a billboard or a TV ad or a TikTok ad, it almost has to work in the sense of it has to educate you and it has to make you want it. And then it has to give you something, you know, where you're excited to buy it and then give you the opportunity to go and buy it or click that button. I will hard disagree. Okay, tell me. So if you're on a billboard, probably driving in a car or you're a passenger in a car, you're not whipping open your phone. For sure."
+    },
+    {
+      "start": 1775.02,
+      "end": 1801.28,
+      "text": "There's a reason why there's top, middle and bottom of funnel. There's different purpose, right? Like I would say that yours would hold true if you use the same ad creative everywhere. But because there's a need for different ad creatives on not just a singular platform, which has top, middle, bottom of funnel, but nonetheless different mediums and physical life and digital. Those require different efforts, right?"
+    },
+    {
+      "start": 1801.28,
+      "end": 1821.24,
+      "text": "Like if there was a QR code on a billboard, that'd be a pretty shitty creative. But if you're on a bus and you're sitting it outside of like a concert and you want their merch, you can click it and it could be to your house and that QR code might be amazing. So getting that awareness, like there are different purposes for different touch points."
+    },
+    {
+      "start": 1821.24,
+      "end": 1850.4,
+      "text": "Like I believe you, you might, you might, you can check me on this, but I believe true classic, they started making brick and mortar, but they have it lined as a marketing expense. Right. Not for the purpose of driving revenue, but for the purpose of you're, you know, in Soho in New York city and you're looking at a bunch of different places and they're like, oh, true classic. I've heard of them. They might walk in, take it top of funnel. Most people in re in retail don't actually buy just like websites."
+    },
+    {
+      "start": 1850.4,
+      "end": 1875.56,
+      "text": "So same thing happens that it's for brand awareness. So I think that every form of any property that has your brand on it has a completely different purpose. I don't, I don't disagree with you. I think what I'm saying is, I guess what I'm saying is like almost whether the channel is considered a view through channel, like a TV billboard, YouTube, or a click through channel, the creative still has to educate."
+    },
+    {
+      "start": 1875.56,
+      "end": 1903.08,
+      "text": "Educate and get you excited to buy versus like, just be a beautiful picture with a logo on it. Couldn't agree more. Yeah. I call it like more of the concept of, I guess, performance branding, like building brand equity, but on the back of like a hardworking media. Hardworking direct response. Or you're just always trying to make the media work as hard as it can. Yeah, exactly. Couldn't agree more. Yeah. Okay. Where should we go next?"
+    },
+    {
+      "start": 1903.08,
+      "end": 1925.26,
+      "text": "I feel like we totally derailed what we were going to talk about. We tend to do this. Okay. Wait, can we talk about the, the site analytics? So you just launched, basically you, you took everything from the original GA Google analytics, relaunched it. You added the funnel piece, which used to be, I used, that used to be my favorite feature in Facebook ads manager. They used to have a site analytics."
+    },
+    {
+      "start": 1925.26,
+      "end": 1954.58,
+      "text": "This was pre Cambridge Analytica and you could see basically from every click where the drop-off happens and then just go diagnose the problem wherever you see the drop-off. It was amazing. But that was taken out after Cambridge stuff. But why don't you just talk a little bit about the new product or like, you know, what drove you to create it? I know you've been working on it too for a long time. Yeah. It's no shortage of effort and, you know, saggy eyes. But so for those who don't know, I'm the founder of heatmap.com."
+    },
+    {
+      "start": 1954.68,
+      "end": 1984.48,
+      "text": "We're the only revenue-based heatmap in the world. So like, I'm sure you guys have heard of Clarity or Hotjar. I mean, if you haven't heard of heatmap.com before and you're in e-commerce, like, you know, you're definitely using Hotjar or Clarity at the moment. They just show you clicks. And clicks don't pay the bills. Revenue does. That's kind of like our catchphrase a little bit. So it's like down to every single pixel, like I can query the pixel of 729, 42 and literally see a pixel. And that's the type of technology that we have. So you're able to see on your navigation."
+    },
+    {
+      "start": 1984.8,
+      "end": 2011.22,
+      "text": "If you're on your homepage, users who click the navigation, do they make more money than someone who scrolls all the way down and sees a content section? Both rationally in your head could make a lot of money, but one is going to make more based on it. So like clicks are very misleading. Like I could even make the case that click maps are like borderline unethical for e-commerce because they're so misleading that like you look at clicks, but are they leading to revenue or not? You don't know."
+    },
+    {
+      "start": 2011.4,
+      "end": 2041.18,
+      "text": "So it could be leading you completely wrong if you don't have revenue tied to it. Then we build screen recordings. Those also need to be tied to revenue. Very important, right? You can like filter for AOV and also we built every bit of custom dimensions that Google Analytics has. So like you want to see first time, came from meta, you know, purchased for an AOV above a certain amount. What did those people do on my website? So like your whales first time come from meta, really valuable people. What did they go and do?"
+    },
+    {
+      "start": 2041.4,
+      "end": 2070.22,
+      "text": "You can see funnel drop off analysis. We built all of that. And for literally 29 bucks a month, we just launched like two hours ago, web analytics. So like getting your good old universal analytics back, everything just works straight out the box. So with GA4, I'm sure you guys are super frustrated with it. I've been for years. Custom code, manual tags. You hope you're like, you shouldn't need a developer just to see your freaking data, right? Like that's kind of bonkers to me to think."
+    },
+    {
+      "start": 2070.36,
+      "end": 2098.6,
+      "text": "Like if it wasn't free, I don't think there's a single human being on the planet that would use it. Or it's tied to Google Ads. It's the only reason. But other than that, yeah, like, you know, our AI also crushes. Like a lot of people say they have AI. That's cool. But like we're like obnoxiously specific about like, hey, your people are scrolling down on your PDPs a lot, but they're bouncing at a certain section. That means you need to work on your copywriting in this and this section. So it's like wicked specific."
+    },
+    {
+      "start": 2098.86,
+      "end": 2127.92,
+      "text": "Like my goal is like hopefully my brain is like for everyone for like a stupidly low price. Like that's kind of what we're going for there. So the web analytics just really plug and play just like universal analytics used to be. You've got more than enough data. You've got more than enough AI to tell you what to do. So it's like I'd like to think a no-brainer. And like for the same thing, other companies would be charging like, I don't know, $5,000 a month and like really preying on the bigger companies. But I hate that. Like it should be affordable. That's, you know, stupid. And it's just $29,000 no matter how big you are?"
+    },
+    {
+      "start": 2128.2,
+      "end": 2157.24,
+      "text": "For the web analytics. It starts at $149,000 for the full behavioral suite and goes up to, you know, some clients are paying $1,000, $1,500 a month. But those are your nine-figure companies. Right, right, right. That's still wicked cheap. What's the setup process? Is it quick? Shopify app? So I'm proud to say my mom installed it on a Shopify store as my test to see if our onboarding was good. So if that works, then I'm pretty confident you guys are watching Limited Supply right now."
+    },
+    {
+      "start": 2157.4,
+      "end": 2184.5,
+      "text": "So yeah, it's literally two minutes and you're done forever. Sick. Yeah, we've been using it. And we installed this on client sites when we roll them out. And it's been really helpful. And it's also been interesting because we used to use Clarity. So to see the difference between the clicks and the clicks driving revenue has been a big, honestly, probably the biggest benefit of using Heatmap. A hundred percent. That's how we built it. That's why I have an original screenshot of my current CTO. They were a dev team for hire."
+    },
+    {
+      "start": 2184.76,
+      "end": 2214.16,
+      "text": "And originally I was like, hey, is there a reason people aren't doing this? He's like, I don't know. Like, I don't know if this is possible or not. We actually have two tech patents. We actually did like pulled off the impossible. Like everyone's like, oh, well, that's like, you know, why didn't I think of that? It's like one of those cool ideas that you think of. But like the reason is it's really freaking hard to build. We've got 32 developers working away. They're amazing. And they're the only reason why this thing literally even exists. So like, you know, we've been out for, you know, a year, a year and change."
+    },
+    {
+      "start": 2214.32,
+      "end": 2243.5,
+      "text": "And like, I'm like, how come all the other Heatmaps haven't done this? It seems pretty obvious to me. It's because they'd have to rebuild their whole platform. Like they can. Yeah. The Heatmap site is also just a good landing page for like B2B companies. Thank you. Okay. I'm curious where you see the role. Like we, we obviously see AI a bunch. We have the Ecom AI Summit coming up on June 25th. Where do you see AI's role in CRO? And even just outside of Heatmap, like where do you think, what are some crazy ideas of how"
+    },
+    {
+      "start": 2243.5,
+      "end": 2268.1,
+      "text": "you think AI is going to come in? Like, you know, one, one thought I had the other day was instantly generative landing pages or instantly generative even like product pages, depending on the source of the traffic the location of the person, you know, the IP address. You can get a rough address. You can understand their income. You might, you know, change what kind of content is on the page. Where do you think AI is coming in?"
+    },
+    {
+      "start": 2268.1,
+      "end": 2297.5,
+      "text": "So first I'm going to give one disclaimer that I'm starting to hate the word AI. Why? You don't like anonymous Indians? Yeah. It's, there's, there's not much difference in between, um, advanced logic and decision trees and AI. Agreed. A lot of it is just if then statements. It's just if then statements. So I'm like, if you just have like 300 if then statements, congrats, you have something that feels like AI. So it's like, AI is bull crap."
+    },
+    {
+      "start": 2297.64,
+      "end": 2324.28,
+      "text": "It's just NLP, which is natural language processing, which is like chat talking to you and it feeling that way. That's the only innovation. All this other shit has been around forever. So that's kind of number one. So number two, um, the self-optimizing website is the thing that everyone's going after. There's companies like data milk. Um, I think, uh, like they're, they're like an Australian company, not super well known in the U S like they do crush, but what they do is they take certain widgets and then"
+    },
+    {
+      "start": 2324.28,
+      "end": 2353.76,
+      "text": "they like optimize it for every single bit that you're, you're talking about right now. Like what UTMs are they coming from? What ad are they coming from? Where are they based? Uh, well, you know, what's their age gender? Like if they do have that type of PII and then, you know, they just are like split testing it on their own, but that's limited to widgets. That's cool. Um, I'm not going to lie. I kind of pitched a version of the whole self-optimizing websites, my investors a year and a half ago, um, because I thought that was the way, but I realized analytics is never going away because it's always going to need to be there."
+    },
+    {
+      "start": 2353.84,
+      "end": 2380.24,
+      "text": "Uh, which was super interesting. They're like, so you were launching Google analytics and not like self-optimizing websites. I'm like, hell yeah. So that's been, that's been a change. But so AI inside of CRO, um, you need, you know, the ICP like of the customer, you need to know about them. So if you don't have customer feedback surveys, you don't have heat maps and screen recordings telling you what they're doing on the website. And then, uh, you know, like then eventually you'll be able to go there."
+    },
+    {
+      "start": 2380.42,
+      "end": 2408.4,
+      "text": "So shout out to shoplift of the, you know, um, of the split testing platforms, uh, visually.io. They're also doing this as well. Um, they're, they're doing a lot of, um, you know, automated testing, but again, that's not AI. That's the future of CRO. CRO is way too complex that like, you know, yeah, you can make like, you know, landing page builders that happen right away, but the self-optimizing website, which is like, logically that's what everyone's running for."
+    },
+    {
+      "start": 2409.72,
+      "end": 2439.34,
+      "text": "That's, you know, that's its own thing. And I don't think that will actually ever come true. It's always going to be deterministic trees that just tell you, oh, this person came from this ad. We should put this product to the top of the collection page or move this down. And like those are merchandising platforms. And what I really think is like, just going to be this amalgamation of like all these different ones. And then what I'm not going to tell you, or I'll tell you offline is, uh, what we've got coming up, which I think will change the game, remove the need for split testing,"
+    },
+    {
+      "start": 2439.44,
+      "end": 2469.16,
+      "text": "remove the need for personalization. And I think we can actually do all of it without ever touching the website. So that's all I can give guys. But like, uh, yeah, like just even if you don't sign up for EMAP, just like follow me on Twitter or some shit. Like it's going to be wild in about six months. You guys are going to, yeah, it's, I'm bumped. Yeah. One, one other idea I had was like an agent where it basically, it quickly looks at where the traffic is coming from. Um, and you know, I don't know how fast this can, I'm like the Indian who doesn't know how to code."
+    },
+    {
+      "start": 2469.28,
+      "end": 2498.6,
+      "text": "So I'm just talking out of my ass, but like, you know, imagine if you could see where the traffic is coming from immediately scour Reddit, look at what the conversation is around the type of people for where the traffic is coming from, and then immediately split test headlines, uh, on a landing page or something. Like, I think there's going to be some crazy, there's also going to be some crazy ways that agents are built to help people who are doing CRO on a daily basis. Couldn't agree more. Uh, we're building them just like, you know, most others. Uh, there's a lot of workflows."
+    },
+    {
+      "start": 2498.8,
+      "end": 2526.36,
+      "text": "Like if you guys like sign up for N8N or make.com or any of these, like Nick, I could, I could literally build what you're asking right now. Uh, probably in like three or four hours, like an MVP. Yeah. So it's like the access is there and I'm like a six out of 10 Jewish developer, not a zero out of 10 Indian developers. So, um, you know, I, I can code. I'm just not the best, but yeah, we're, we're pretty good."
+    },
+    {
+      "start": 2526.46,
+      "end": 2553.16,
+      "text": "But like, yeah, a lot of that exists if you just pull it together. And the other cool thing is like, if you guys go and actually do get your hands dirty inside of make.com, like it's really just a more advanced Zapier to be honest. And I'm sure everyone here knows Zapier. Um, like every single one of those workflows that you build, you can just commoditize into a SAS and you'll make money for the next like three years. After that, you'll be bust. Cause like most people won't get their hands dirty. They just want to like click and like it works. So like most people won't do that."
+    },
+    {
+      "start": 2553.3,
+      "end": 2579.46,
+      "text": "So just go and build out a whole bunch of workflows, no matter what industry you're in, to be honest. And just, you can probably, you know, productize it and sell it as a SAS and boom, there you go. It's, that's it. I even think like, did you ever use power editor back in the day when that, when it existed? Oh, what a deep cut. Right. Like power editor kind of forced you to learn all the pieces of what ads manager is built"
+    },
+    {
+      "start": 2579.46,
+      "end": 2602.8,
+      "text": "up of and having used power editor, you kind of deconstruct the final product into a bunch of Lego pieces, but it allows you to use the final product later with 10 times more clarity because you know how everything works. And I think it's very similar here. The people who, you know, the next, like the next six months, every big software company is going to integrate AI and agents and all these workflows within it."
+    },
+    {
+      "start": 2602.9,
+      "end": 2632.24,
+      "text": "But if you, if people don't spend even six hours max between now and the next month building these N8N workflows and understanding how the pieces work, they're not going to have a lot of clarity when in six months, it's all just done by a couple of clicks and you know, they don't understand how the workflows actually work. And then I think the six months after that, there's going to be marketplaces that pop up where I can build a suite of agents and people can pay me a licensing fee. To download them or use them or, or somehow, I don't know how that's going to work."
+    },
+    {
+      "start": 2632.36,
+      "end": 2657.86,
+      "text": "Dude, they're giving them out for free right now. Who is? Like there's so many people on like Twitter and LinkedIn that just do the like and comments and like give the N8N templates. All you have to do is like insert your API key, which you just go to open AI, just put it in and like, you pretty much have them. Totally. So like that, that reality is already here. I think there's going to be like a proper consumer, like retail consumer, like retail"
+    },
+    {
+      "start": 2657.86,
+      "end": 2686.74,
+      "text": "investor, quote unquote, friendly marketplace with nice UI where like my mom goes and downloads an agent and pays 99 cents a month to have this agent do whatever it's supposed to do. So there's, uh, the name escapes me. There's, there's a whole bunch of companies. Just like I was saying, the self-optimizing website, ton of companies gunning for the AI executive assistant. That's actually like a huge category investors are throwing money into."
+    },
+    {
+      "start": 2686.98,
+      "end": 2716.88,
+      "text": "So that's what I found interesting. So like, that's kind of like, you know, I already have one. It's called Ramiz. Oh, shout out Ramiz. I hope you're watching this, dude. You're amazing. Um, the tools you're also great. Uh, Ramiz is the OG no, but, uh, if you guys ever get the pleasure of interacting with Nick, just ask to talk to Ramiz instead of Nick. It's great. Okay, Dylan, before we wrap up, what's one easy fix that every, every listener should, um, implement on their website."
+    },
+    {
+      "start": 2717.56,
+      "end": 2742.76,
+      "text": "Run a customer feedback survey, but let them tell you what to make your copy and just do it. Hmm. And what do you ask in there to get that as a, as what comes back? Questions that start with what and how, uh, it's negotiating tactic from never split the difference by Chris Voss. So, uh, what are you looking for? Like, like people are like, why did you choose us over others? Say no. What made you choose us over a competitor?"
+    },
+    {
+      "start": 2743.32,
+      "end": 2769.76,
+      "text": "What do you look for when buying like, you know, uh, supplements, for example, or sneakers, right? Uh, uh, how, what is most important? Yeah. Like what's most important when buying for them? Um, like, uh, how do you think about buying sneakers? Uh, you know, and like, you can find things that are, you know, unique to them. They give you your USP. It's like you guys as the founders, you may work really hard to make the certain material, but like the customers don't give a heck about it. Like that's it."
+    },
+    {
+      "start": 2769.9,
+      "end": 2799.28,
+      "text": "So like, just let your customers tell them, like, ask them what they want, tell them what they want and give them what they want, which is money. The only, the only best practice CRO in the world is just asking your customers, looking at data and just fucking doing it. Couldn't agree more. And that data you can then leverage in subject lines, ad copy, site copy, everything. Everywhere. Like if, if honestly, uh, if, if, if you have like a media buying agency and like, they're not running some form of feedback, switch to Sharma brands."
+    },
+    {
+      "start": 2800.96,
+      "end": 2829.16,
+      "text": "Love it. Amazing. Well, Dylan, where can people find you, hit you up, learn about heat map, try heat map. So, uh, the domain's really hard to remember. It's a heat map.com. No, I love my domains. Uh, so yeah, go to heat map.com. Check it out. Look all around. You can join conversion party. If you scroll down to the bottom, I actually do write our newsletters. So like I'll be giving CRO advice all the time, uh, every Wednesday. So join conversion party. Super fun. Um, add Dylan and her on all socials."
+    },
+    {
+      "start": 2829.26,
+      "end": 2857.44,
+      "text": "And also I've got a book. I'm dropping the name right here. Wow. It's called billion dollar websites. Amazing. And lessons from optimizing 5 billion. So, uh, it's literally with the publishers right now. Uh, just got interior book designs. It's all looking good. We're shipping it to, uh, printing in about like early next week. So that'll take about six weeks. I'll send some early copies out. So if you guys want DM me, uh, I'll put you guys on a little list and, uh, we'll get them out together."
+    },
+    {
+      "start": 2857.8,
+      "end": 2886.75,
+      "text": "Literally every bit of knowledge I have, I put 2000 hours into that shit. So like any question you could ask me is in that book and it'll be like 20 bucks. So like, um, pump for everyone to have billion dollar websites. Amazing. Well, Dylan, thank you for coming on. Pleasure, Nick. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

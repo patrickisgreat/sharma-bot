@@ -1,0 +1,359 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned, the wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 55.71,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. Here's a lazy retention strategy. Send every shopper the same abandoned cart email and hope it works. Most brands still do that and it makes no sense. Your shoppers are not the same. They look at different products, different colors, different price points, and they all need a different reason to come back. Instant does the opposite. It looks at what each shopper actually did on your site, then sends the email that person should get."
+    },
+    {
+      "start": 55.71,
+      "end": 83.09,
+      "text": "The right product, the right message, the right offer. It's like you had somebody manually writing the perfect follow-up for every single shopper, except it all runs automatically. That's why brands like ThirdLove, Nuro, Kind Patches, and TRX all trust Instant. And why brands are using it to drive millions of dollars in incremental revenue. We're talking 3 to 5x increases. Go to instant.one slash Sharma and check it out today. All right. How we doing, Jared? Doing great. How are you doing?"
+    },
+    {
+      "start": 83.59,
+      "end": 109.51,
+      "text": "I'm doing good. I woke up in my comfort sweats. I got some IM8 this morning. I washed my face with some glow recipe and I swiped my flex card to get here. Your affiliate card is amazing. Just a quick introduction for those who don't know. Nik is the founder of Sharma Brands. He is the behind-the-scenes engine for Feastables, Hexclad, Carraway, Chamberlain Coffee, Judy, and 80 more brands. Nik has truly done it in the game."
+    },
+    {
+      "start": 110.09,
+      "end": 138.67,
+      "text": "You know, he has created so many different AI implementation tools and different playbooks that he's going to share today. Nik, if you want to just give a quick background on yourself, and we'll start from there. Yeah. So, my background is a little non-tra...well, it's not that non-traditional in this room because everybody's background here is a non-traditional, which is awesome. My background is mainly that, you know, I was a kid not doing well in school and got into the game of social media as a result, thinking that I could go run people's accounts for a couple grand a month and pay my bills that way."
+    },
+    {
+      "start": 138.67,
+      "end": 165.27,
+      "text": "And I found myself stumbling into the world of e-commerce just by way of being on Twitter and meeting another founder whose product I really enjoyed. Ended up going to that company. It was called Hint Water, flavored water company, and built their e-commerce business, led them through a rebrand, brought them on Shopify, and then I turned 21 over there. So, I got to do a lot of learning on my way at Hint, and then joined an agency in New York, found out the corporate life is really not one I'm meant to live,"
+    },
+    {
+      "start": 165.27,
+      "end": 194.89,
+      "text": "and ended up doing some consulting, which turned into a growth agency. And at this growth agency, the entire idea was just productizing what I did at the beverage company. So, three main things, acquisition, retention, and web experience. So, those are the three things I feel like I'm good at and I'm here to talk about, but I feel like a bit of an imposter in this room because everybody here is wildly more successful, wildly more handsome, wildly more good looking. And so, if I've got a couple nuggets here, I'll be happy for you, but yeah, excited to be here."
+    },
+    {
+      "start": 195.89,
+      "end": 223.23,
+      "text": "Okay. So, let's start with a lot of brands in this room, they're doing between 5 and 20 million. And they want to understand how to get to 50 or 100 million. You know, what's the number one execution trap that kills the momentum after their first few wins? And what's the re-scoping playbook that you kind of consult with brands on, and how do you get them to the next level? So, you know, a lot of times I, so on the side I do some, like, consulting with brands."
+    },
+    {
+      "start": 223.49,
+      "end": 251.07,
+      "text": "And a lot of times I feel like, I feel like the dentist, you know when you go to the dentist and you ask the dentist, how are my teeth? And they go, well, have you been flossing? And you say, no. Okay. Have you been brushing multiple times a day with a good brush and good toothpaste? Eh, kinda. You know, that's the kind of diagnosis I see. People come in and they say, okay, what's wrong here? How come I'm stuck at this level? Or how come I'm not able to break past this level? And a lot of times it's just almost like a common sense checklist of, okay, well, you know, most times you get to that level, it's a few wins in."
+    },
+    {
+      "start": 251.45,
+      "end": 277.73,
+      "text": "And you think that because your few wins have gotten you to that 5 million or that 7 million mark, you just need to keep doing that. So it's just more ads and more creative and pushing it harder and spending it more and finding new channels. But in reality, a lot of times it's also building the rest of the platform. And the rest of that platform usually gets forgotten, which is, you know, the retention side, the website, the landing pages side, the merchandising side, the offer side, the subscription side."
+    },
+    {
+      "start": 278.01,
+      "end": 301.95,
+      "text": "You know, how do you turn churn or cancellation flows back into another funnel to bring people back? And so these are all the things that I try to look at and just try to identify, you know. Are we spending $50,000 on a programmatic vendor test because we think programmatic display is gonna help our CPA or drive new audiences? Well, that's probably just a waste of time when we can go and figure out how to crack a new audience within Meta."
+    },
+    {
+      "start": 302.27,
+      "end": 327.97,
+      "text": "And so, you know, when I like to look at these companies, the first thing I look at is, okay, where's the opportunity that they're not focusing on? And I just think back to my own personal pattern matching and the things I've done. A lot of times it's really dependent around Meta, the website, merchandising, the offer, and then figuring out what happens to that customer as soon as they buy. And too often it's just focused on the ads. And specifically, a lot of times just on the creative and getting the clicks from creative to the site."
+    },
+    {
+      "start": 329.63,
+      "end": 357.33,
+      "text": "So I would say the answer to that is basically just figuring out, like, what are the things that are working? What are the things that aren't working? Are we proactively cutting the things that aren't working? Are we figuring out how we build up the rest of that platform around it? Or are we just trying to focus on one thing because we think that's what got us here? It should get us to the next level. So let's talk about landing pages. People want to know, is it better to send to the PDP or is it better to send to a lander that's similar to the ad?"
+    },
+    {
+      "start": 357.45,
+      "end": 382.23,
+      "text": "Or can you maybe talk about when they would use a landing page versus sending traffic directly to a PDP? Yeah. So my suggestion is always test everything. You should test the home page or collections page or PDP. You should test landing pages. And within landing pages, there's advertorials, there's listicles, there's, you know, a hero offer that you're trying to push. And you just have educational content around that. You got to test them all."
+    },
+    {
+      "start": 382.33,
+      "end": 410.05,
+      "text": "You might find that one specific audience of moms responds better to a collections page because that's just how they're trained to shop, right? They like looking at options and then going in and figuring out what caught their eye and how that might work. You might find that a different audience would rather see a listicle. You know, guys buying IM8 might want to just see a listicle and realize that there's enough proof points that they should go buy the product and it will work for them. They don't need to go and do their own research about it. So my recommendation is always test it."
+    },
+    {
+      "start": 410.41,
+      "end": 435.29,
+      "text": "And, you know, I'm, again, I come from the school of thought of like test everything and just throw things at the wall. Like the beauty of meta or really any digital channel is you've got this really tight feedback loop, whether that's understanding if people are clicking, people are landing on the site, people are staying on the site, people are scrolling halfway down, people are spending 30 seconds on the site, people are clicking the CTA to the next page. These are all events that are easily trackable."
+    },
+    {
+      "start": 435.29,
+      "end": 462.57,
+      "text": "And so because you have that feedback loop, there's no need to not test everything and see which one works. You know, some brands will find that they'll test everything and they'll say, well, for us, PDP is the best thing. And that might be true for a certain selection of products or a certain audience you're going after. But it might be completely different for a different audience or a different product you're selling among your catalog. So let's go back to the moms example. You found that moms work for you."
+    },
+    {
+      "start": 463.19,
+      "end": 493.17,
+      "text": "We just, we, you know, we just read in the last 72 hours this guy who grew to a billion in sales for his telehealth company with, you know, very shady but affiliate focused driven tactics. And when you talk, okay, moms work really well for my brand. They're going to this advertorial. That works well. From there, how do you find the mom creator community and how do you exploit that and target them to then maximize that sales for your brand with that landing page? Like, how do you grow from there once they hit that mark?"
+    },
+    {
+      "start": 493.75,
+      "end": 519.37,
+      "text": "So, I mean, there's definitely softwares that exist to go find influencers. My personal way of where I like to go find influencers that I've done for 10 years is I just go on TikTok or go on YouTube shorts or go on reels. And I go find, you know, let's say we're selling flavored water, hint water, right? I might go to TikTok and look for a mom who's talking about quitting Diet Coke or look for somebody who's talking about transitioning to a healthier lifestyle."
+    },
+    {
+      "start": 519.37,
+      "end": 547.29,
+      "text": "And then whoever's got good engagement there, regardless of how many followers they have or how many times they've posted, you know, on behalf of other brands, I'm going to go and find people who are just basically good at talking to a camera. A lot of times these used to be YouTubers because, you know, vlogging was basically speaking to the camera and resonating with the person on the other side. But now you can find a lot of these people on TikTok or YouTube still or Instagram wherever. And for me, I personally still like to do it the manual way."
+    },
+    {
+      "start": 547.49,
+      "end": 567.01,
+      "text": "I think that you, at least for your seed audience of creators you work with, if you do it manually, you can, one, you just hone in a little bit better on who these people are, especially if they're your first 50 to 100 people you're working with. But two is you can also generate a feedback loop with creators. Like, you know, one of my favorite examples is Sephora."
+    },
+    {
+      "start": 567.27,
+      "end": 594.81,
+      "text": "Sephora has a contractual meeting with all their creators on a quarterly basis to just hear what their audience is asking them for or telling them about or what kind of questions they want to learn about skincare products and whatnot. So, yeah. Okay. Okay. So, you're speaking at NRF on the top 10 retention tactics. You know, maybe you could share some of that today and what brands are doing to increase retention. You also have your own AI advertorial creator, right?"
+    },
+    {
+      "start": 594.93,
+      "end": 620.03,
+      "text": "So, you're super familiar with Claude and Claudebot, I think, as well. You know, are you doing anything on the retention side with Claude or Claudebot to increase LTV and increase retention lifecycle? Yeah. I mean, there's been – you guys have probably started to see there's now, you know, ESPs aren't fully doing this yet, but there's layers on top of ESPs you can add where you can add a model layer."
+    },
+    {
+      "start": 620.35,
+      "end": 645.37,
+      "text": "So, you know, if you come to my website and I see you looked at the black jeans in size, you know, 32, when I email you back, I'm going to speak about that in the actual text, not just a catalog-looking, you know, swap-in for the product you were looking at. And we're kind of in this space right now where – well, first of all, to answer your question, the top retention tactic is just speak more personally, be more personalized."
+    },
+    {
+      "start": 645.87,
+      "end": 666.99,
+      "text": "And, you know, in my mind, retention has always just been a battle of being a top five placeholder in somebody's mind. So whether you're selling SaaS or whether you're selling jeans or whether you're selling a supplement, it's all about how do you just make sure that you are constantly top five or top ten so the person who's consuming it is reminded of the benefits and why they started in the first place and they keep coming back."
+    },
+    {
+      "start": 666.99,
+      "end": 695.31,
+      "text": "The best way I've been approaching this is basically – by a show of hands, how many guys are using AI right now or tinkering with AI and plugging in models? And then how many of you guys are using it in a way where you're actually grabbing API keys from models and putting it into your own software stacks? Okay, amazing. So that's where I think – so, you know, AI, when it started, was anonymous Indians, right? It was just a bunch of Indian guys doing things based on what they saw on a camera."
+    },
+    {
+      "start": 695.55,
+      "end": 723.89,
+      "text": "Then we went to chat GPT and it was more generative AI. And now we're at this point where you can just pull out the models specifically for what you need. So you can create a flow that's, okay, Jared hits the site, the pixel identifies him, goes and matches him in a database, uses that information to write an email, send that back to Klaviyo, and then send it out to Jared. And that type of – those types of workflows are, I think, where we're going in the next, I don't know, two to four months, maybe even sooner with how fast things are coming out."
+    },
+    {
+      "start": 724.27,
+      "end": 752.49,
+      "text": "And where I think brands will have the biggest advantages in terms of time and resources saved to do more work and work harder for you. There's a platform called Out something. Outer Signal. Outer Signal, right? And so what Cody is doing or what he posted on Twitter was that he's taking all that customer data, feeding into Claude, and then generating specific customer-centric Klaviyo retention emails with different flows."
+    },
+    {
+      "start": 752.85,
+      "end": 781.65,
+      "text": "So that was really cool to see. Yeah, honestly, the cool part is like – so I'll say it'll take you, for those who didn't raise your hands to the second question, it'll take you two hours to go from not knowing anything about how to use these platforms to being able to do that. And that two-hour investment will get you to unlock things like what Cody's doing or, you know, there's tons of models. The ones we hear about are Claude and Gemini and OpenAI. But, you know, there's a bunch of Chinese models you've never heard about. There's a bunch of Indian models you've never heard about."
+    },
+    {
+      "start": 781.89,
+      "end": 811.65,
+      "text": "And the ability to understand how to construct models in a workflow is probably going to be the single biggest thing you could do in the next three months. What is this $500 fake brand test? So the $500 fake brand test is basically what it sounds like. It's how can I test something for as cheap as possible and understand if there's room here or if there's legs here to continue. And so, you know, that number's probably gone up a little bit now. Maybe it's $5,000."
+    },
+    {
+      "start": 811.65,
+      "end": 841.25,
+      "text": "Maybe it's $500,000. But you can still, you know, if you call it all in, maybe $40,000, $50,000, you can pretty much test and even launch a brand with physical product if you wanted to. The entire idea behind that is basically, you know, you have these feedback loops that are so tight and so quick. You can spend $500 and understand, okay, is headline one, two, or three going to get the best click for my messaging? Okay, now I've locked in headline one. Now let's go to the next thing. From a creative standpoint, should we focus on video?"
+    },
+    {
+      "start": 841.37,
+      "end": 869.89,
+      "text": "Should we focus on lifestyle video, studio shot, UGC, founder-centric? And what's going to get the best click through? And boom, you've understood that. Basically, the entire idea is just quickly testing things to understand, okay, is there, does this product or does this brand that I want to try to put out have legs? And if it does, you'll see those numbers come through in the $500 test, right? Even if you're not acquiring a ton of customers and $500, you can see that the CPMs are there. You can see the click through rate. You can understand your bounce rate."
+    },
+    {
+      "start": 870.09,
+      "end": 897.23,
+      "text": "You can understand your opt-in rate for email. And you can use a lot of these numbers to kind of judge and figure out whether something has legs or not. I would say the $500 has probably gone up a little bit now. But, you know, for the most part, the concept is still there where you can test something and if it's got legs, hit the gas pedal. Can you talk about one time pre-sale where you thought your business was going to end and what you did about it? Yeah."
+    },
+    {
+      "start": 897.23,
+      "end": 915.47,
+      "text": "I mean, there was a celebrity makeup brand that we launched last year at Sharma Brands. And before it launched, you know, we were, the CEO of this brand is kind of like a more traditional CPG background in beauty and personal care."
+    },
+    {
+      "start": 915.47,
+      "end": 943.77,
+      "text": "And so everything we were doing pre-launch directed by them was like forecasts and what's our cost per click and what's our bounce rate going to be and what's our, you know, all these things that us as like in the weeds marketers were like, why is the CFO even wasting time trying to calculate number of sessions we're getting in the next quarter? And it was a huge, like, influencer slash celebrity brand. So part of the risk there was also like, okay, this is a big influencer but can she move units?"
+    },
+    {
+      "start": 943.91,
+      "end": 971.59,
+      "text": "Can she actually move products and drive sales? And, you know, in that case, there wasn't anything too specific we did that was not, you know, to counter the thought that we didn't think it was going to sell. We just really doubled down on all the fundamentals, right? Is our opt-in really good when we launch? Is the UX of the site really good? Is it really easy to understand knowing that these are going to be majority, maybe, you know, 15 to 30-year-olds coming from TikTok traffic, maybe in a TikTok browser or an Instagram browser?"
+    },
+    {
+      "start": 972.11,
+      "end": 1000.77,
+      "text": "And it turns out it was one of the biggest Shopify launches ever. Time for the retention tip of the week brought to you by Instant. If you're running a beauty brand and you're not building flows around product replenishment cycles, you're leaving serious money on the table. Here's the move. Look at your average product's usage life. Moisturizer lasts about 60 days. A serum, maybe 45. A cleanser, about 30. Now, take that data and build triggered email flows that hit five to seven days before the product runs out."
+    },
+    {
+      "start": 1000.89,
+      "end": 1025.91,
+      "text": "Not generic, hey, comeback emails, specific ones. Your daily glow serum is probably running low. Here's 10% off your refill. The brands that are doing this well aren't guessing. They're using more purchase data to time to send perfectly. And the conversion rates on these replenishment emails crush every other flow because the intent is already there. You're not creating demand. You're just catching it. If you want to automate this without building it all yourself, check out Instant at Instant.one."
+    },
+    {
+      "start": 1026.13,
+      "end": 1056.09,
+      "text": "They use AI to personalize these flows at the individual shopper level so every email hits the right time with the right product. Head to Instant.one slash Sharma to learn more. What contributed to the launch that crushed it? The biggest part was a pre-signup list. So almost every day for about 14 days prior, we had a different kind of hero piece of content go out from the creator. And there was something, not the exact same piece, but something similar to it that went out from the brand page."
+    },
+    {
+      "start": 1056.09,
+      "end": 1085.17,
+      "text": "And we just basically built up this very quick trust between the creator and the brand name by pushing out a bunch of content the two weeks leading up. I think we collected something like 300,000 to 400,000 email addresses as a result. Where did you put the creators? Discord, WhatsApp? How did you manage them? So the creator I'm talking about now is almost like one famous influencer. Got it. Okay. Big YouTuber. And then after that, they started to take their creators they were working with in a bigger way and put them into Discord."
+    },
+    {
+      "start": 1085.17,
+      "end": 1110.83,
+      "text": "But for this case, it was really like collab posts from the influencer with the brand on a daily basis with really, really high quality content. That was one of the things that I thought was interesting was, you know, everybody's always about like low quality content at a high volume, which I think works once you're in the game, your foot's in the door and you're established to some degree. Like people know you're there. But to get in the door, the high quality content is really what took the lead."
+    },
+    {
+      "start": 1110.83,
+      "end": 1139.14,
+      "text": "Out of everybody you consult for, all these really incredible brands, what is something they are doing with Claude or Claudebot that we might not be aware of that hasn't been shared on Twitter because nobody wants to share what's actually working. They just want to talk about how it doesn't work. What is working that you're seeing? And yeah, I want to start with that."
+    },
+    {
+      "start": 1139.58,
+      "end": 1165.5,
+      "text": "Yeah, well, it's funny. I saw that thread on Twitter yesterday. And basically, if you guys didn't see it, it's just people being like, is there any real use here? Or are we just making things and then we don't use them after 24 hours, which is probably majority of the tools. Which to the first point I'll say, there's a lot of value in that. There's a lot of value in going and making something for 24 hours and never touching it again. Because you're understanding the guardrails and the how of everything works, right?"
+    },
+    {
+      "start": 1165.84,
+      "end": 1194.58,
+      "text": "Like the way you use AI today is like the equivalent of using Facebook Power Editor, you know, 10 years ago. Because you're seeing how all the pieces work together. In six months from now, more of these pieces are going to be hidden because they're just going to keep happening on their own. So the more you do today, the more context you have. For me, I found that there's not like a... It's not as easy as just out hiring a role by creating some piece of AI or creating some sort of workflow or process."
+    },
+    {
+      "start": 1194.84,
+      "end": 1224.08,
+      "text": "I found that it's more like the people who are doing things at a high level can now do them at an even higher level. So for example, if you have somebody whose entire job is CRO, right, on the website. You now don't need to wait, you know, a week to go get your designer to design something and then another week to develop it, right? You can get that done instantly. If you're putting up a new advertorial, you don't need to wait, you know, three days for somebody to turn that around and then go through a day's worth of edits and then another day of revision."
+    },
+    {
+      "start": 1224.1,
+      "end": 1249.46,
+      "text": "And then it comes back, gets final approval from the brand team. And then it goes live. But oh, wait, now you need to optimize the publisher site because there's a weird pop-up or the button you want is not there. That can all be done in a matter of, you know, 40 minutes now, right? And so I think a lot of the steps that used to take, you know, multiple days are what now is getting shrunk. Whether it's... Computer use. Yeah. So computer use is really cool for those of you who don't know."
+    },
+    {
+      "start": 1249.92,
+      "end": 1277.52,
+      "text": "It can just take over your computer and let's say you're QC-ing on or QAQ-ing on Shopify, any landing pages or anything that you want in your app or whatever it is. It will debug it in real time and then fix the errors and relaunch it and completely QC everything that you're doing. And it's the coolest thing ever when you see it actually do it and give you a full report that's 10 pages long that you'll never read. And it's truly incredible. Yeah. I mean, I..."
+    },
+    {
+      "start": 1277.52,
+      "end": 1306.84,
+      "text": "You know, there's one prompt I love using, which is after I have a live link, I'll say, all right, generate five QA agents with five completely... Five completely different personalities and archetypes and personas based on who is likely to come to my site and run a few full QA tests. So you might have one going through desktop in a way that's a little more frantic. You might have one on mobile that's, you know, more of an older person. But similar point here, at the end, you get a QA list that, again, would have costed you more and would have taken you more time."
+    },
+    {
+      "start": 1308.18,
+      "end": 1337.86,
+      "text": "So I think that with a lot of these workflows, I mean, I've built a full AI advertorial creator, which has all of the learnings that I want in any good advertorial. And I can immediately now host an advertorial. So if we write an advertorial on IM8, for example, we can immediately host it on, you know, fitthingsdaily.com. No need to go and talk to the publisher. No need to do anything. That's where I think AI is super beneficial. You should basically just think about what are the things that you are doing that are taking too long?"
+    },
+    {
+      "start": 1338.08,
+      "end": 1359.7,
+      "text": "Is it, you know, is the QA part of a website before it goes live with a new theme, is that taking too long? Well, you could build an app that has, you know, 100 different personas where it QAs constantly. You know, are you trying to figure out how you make emails better or more personalized? Well, you can build a better email creator. What makes your AI advertorial creator so good? Like, what's it trained off of?"
+    },
+    {
+      "start": 1359.84,
+      "end": 1388.42,
+      "text": "Well, you know, for me, now looking back on it, I feel extremely fortunate that for the last three, four years, I spoke for an hour on a weekly basis about something that was really relevant in e-commerce with my podcast. I've been doing the same thing with the newsletter for maybe four or five years. I have, and then I've done a ton of other podcasts for other people. And, you know, the great thing is those are basically all my active thoughts over the last four or five years on e-commerce, whatever I think is good."
+    },
+    {
+      "start": 1388.78,
+      "end": 1412.8,
+      "text": "And those are now all consolidated into like 8,000 pages in a markdown file where any agent... Can you explain what a markdown file is? Yeah, so a markdown file is like a TXT file but read by agents, meaning, you know, Claude, Manus, OpenAI, et cetera. And a markdown file is only different from a TXT file in the sense that you can actually, you know, a TXT file is just plain text, no formatting."
+    },
+    {
+      "start": 1413.1,
+      "end": 1438.34,
+      "text": "A markdown file has some, you know, it's got like two hashtags to indicate that that's a headline one or a headline two, whatever it may be. So it's basically a plain text document that is extremely easy to consume and learn from for these agents. So then they can use that as a filter. So, for example, if we were to write an advertorial with ChatGPT and then you write a parallel advertorial with Scriven, which is the app that I made,"
+    },
+    {
+      "start": 1438.5,
+      "end": 1466.24,
+      "text": "then you would see right away the differences in maybe the length, the tone of voice, how long before the brand gets introduced, you know, how we bring the founder story in, how we go and source reviews or posts from Grok or from Reddit or wherever and bring those in. And the other thing too is when you have your own app or you create your own app, you can also like plug in multiple models. You might have Grok to go and do research. You might have Gemini to synthesize a bunch of recorded calls that you have,"
+    },
+    {
+      "start": 1466.34,
+      "end": 1494.36,
+      "text": "which are also a great source of training data for anything that you do because it's actively talking about how you're thinking. And then you bring it all together and create sort of a final product. Really cool. What questions do we have for Nick? The one thing we didn't talk about, which I think is actually a huge force multiplier, is offshore talent, which I know is, you know, plug to activate talent, share whatever."
+    },
+    {
+      "start": 1494.36,
+      "end": 1519.36,
+      "text": "But I'm telling you guys, offshore talent runs circles around onshore talent when you find the right people. And I'm talking about somebody who is maybe making, you know, anywhere from 1 to 4K a month around the world, is competing at a level of somebody here making 150 to 300K annually. The same level of output."
+    },
+    {
+      "start": 1519.84,
+      "end": 1549.58,
+      "text": "And you add AI and not only add AI and, you know, give them the abilities to use the software, but like actually teach them, spend time with them, and grow them in terms of what is possible from an AI standpoint. And I'm convinced that is the next big break. Like that's our number one role is the chief of staff or an EA that we train on Claude and then place in the companies. Or we just did one for HexClaude, and we placed their implementer, essentially. And he's got an incredible background."
+    },
+    {
+      "start": 1549.74,
+      "end": 1561.84,
+      "text": "He comes from Salesforce and amazing. But I totally agree with you, 100%. Anyways, what questions do you have for Nick? Anything is on the table. You can ask anything. Yeah. Why don't you just stand up, and I'll repeat it. Go ahead."
+    },
+    {
+      "start": 1587.28,
+      "end": 1614.26,
+      "text": "Yeah, it's a good question. So how do you almost weaponize your creative strategist in a more effective way, either leveraging AI or maybe some other tools, right? So, you know, I think one is like just immerse them within all the platforms and let them go and learn the models, right? Like I said earlier, all the models have different strengths. And sometimes there's little nuggets just within that that you can pull from."
+    },
+    {
+      "start": 1614.44,
+      "end": 1637.78,
+      "text": "But to me, the whole opportunity here is one is, you know, one is obviously like using AI to just bounce things back and forth or share ideas and sort of give it. Like one way I like using AI is giving it an idea, and then it comes back to me with 10 more, almost like a, I call it like the lookalike idea generator, right? So, like how do you give it something and get something back?"
+    },
+    {
+      "start": 1637.78,
+      "end": 1665.6,
+      "text": "But the other thing is then, how do you actually get these creative strategists and try to download their brain as much as you can into AI? But the way I'm thinking about it is like ideally you're using not just a regular closed source platform like a regular Claude. You might be using something like an OpenClaw where you're able to download it into there and save it to a local memory file or some sort of a markdown file, which then you can use elsewhere."
+    },
+    {
+      "start": 1667.3,
+      "end": 1686.94,
+      "text": "To be honest, I don't have like a specific format of doing this. My best way so far of doing it has been, you know, trying to figure out a series of questions. You can produce from the model to then ask your strategist. And it's a bit of a, like it is essentially an interviewing process to some degree."
+    },
+    {
+      "start": 1687.32,
+      "end": 1714.74,
+      "text": "But the more you can kind of make that a part of a daily ritual, like for example, every night my Claude bot, his name is Jet, he asked me three really deep questions that sort of help him understand more of how I think. So, you know, I can just quickly pull up last night's questions as an example. And just while he's pulling it up, like the most incredible thing he said is the more you fill the markdown file, the more you spend time on the markdown file, the better output you're going to have. 100%."
+    },
+    {
+      "start": 1714.74,
+      "end": 1744.42,
+      "text": "So, last night I was doing too much. Talk to us, Jet. Okay, so Jet asked three questions. One, when you're evaluating a new opportunity, a deal, a brand, a partnership, what's the internal filter? What makes you say yes versus no? The second one, what's the annoying thing I do or bots like me do that annoys you most that you haven't told me yet? And the third one is where do you want to be in 12 months? Not the business, but you personally. So now these three questions, right, if it's asking me three questions, in your case it might be more around the creative side. It might be, hey, take a look at this ad and give me your opinion."
+    },
+    {
+      "start": 1744.68,
+      "end": 1771.36,
+      "text": "It might be the other way around. It might be, hey, let's build a swipe file of stuff and submit it and try to identify patterns. There's another thing I built because for that same reason called swipe.nick.co. And it's basically just a collection of swipe files of landing pages. So anybody in my audience can go submit a landing page and immediately, once I approve it as a good landing page, it pulls out everything that's good about it, everything that's bad about it,"
+    },
+    {
+      "start": 1772.12,
+      "end": 1799.14,
+      "text": "what's consistent across other landing pages that are good that it also does. And basically, you know, again, it just kind of like makes that process a little bit faster. But I guess the short answer for you is like figure out that knowledge transfer process. And, you know, the way that I think about using Jet or, you know, your AI is try to think of it more as like a second brain. So how are you able to give it more context so it understands more?"
+    },
+    {
+      "start": 1799.28,
+      "end": 1828.82,
+      "text": "So your creative strategist, if they use Fireflies or Otter or Granola, one of these call recorders, all those transcripts should be pushed in. That's where the real sauce is. One more. Go ahead. Yeah. So I'm curious. You talked a lot about AI, like workflows and things like that, like Claude and OpenClaude and things like that. I'm curious about your opinion on like the brands in the room using software. Like obviously I'm the co-founder of a software company. Should they use software like mine or should they just like not pay me and automate it all themselves?"
+    },
+    {
+      "start": 1829.02,
+      "end": 1851.04,
+      "text": "Like what is the balance there? When do you try to automate stuff yourself using Claude versus using software like mine? Like Cody asked me like four times a week for an API, for example, because he wants to just do it himself. So I'm curious on your thoughts on that. Yeah, I mean I think the, you know, I think like if you're a software company, you're sort of now service with a software. There's got to be more I think you have to provide."
+    },
+    {
+      "start": 1851.18,
+      "end": 1880.8,
+      "text": "Like if I'm thinking as a founder in this room specifically, everybody here is extremely cost conscious and knows exactly where every last penny is spent. And that's probably how they're looking at this and approaching it. But I would imagine there's also a world where a lot of people are going to say, oh, let me go do this on my own. And then when it doesn't work, I'm going to come back to you. So yeah, I don't really have a great answer there. I think the API is an easy unlock for you to bridge the gap between the two because people can bring your, the goodness of your product into theirs."
+    },
+    {
+      "start": 1880.8,
+      "end": 1910.14,
+      "text": "Which is I think where a lot of software is going is going to be built, you know, by companies themselves or brands themselves with APIs being plugged in. But at the same time, I still think we're in a spot where people are, you know, out of convenience, people will come and work with you directly too. Amazing. Let's give a round of applause for Nick. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail and e-commerce. If you enjoyed this episode, why not share it with a friend?"
+    },
+    {
+      "start": 1910.38,
+      "end": 1913.34,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

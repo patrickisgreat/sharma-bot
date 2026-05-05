@@ -1,0 +1,6989 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 26.14,
+      "text": "Well, I mean, actually, it's amazing. You are a power user. The reason I'm sitting here is because you use Shopify, the stress, the pressure, the requirements you put on Shopify is fucking amazing because it makes us better. It makes us think about what are we missing. Sometimes we, you know, we're in our minds building this great software, trying to figure out how to make it easy, how to make it extensible. But it's actually like that is one of the best parts of founder led companies at scale."
+    },
+    {
+      "start": 30,
+      "end": 59.98,
+      "text": "Many real takes on what D2C is really like. We're your hosts, Nick and Moyes. Let's start talking about money. Building a code free app is super hard, but Tapcart's drag and drop builder makes it possible. Used by direct to consumer brands like Princess Polly, Figs, and Nick's own brand Long Weekend, Shopify brands on Tapcart have done over 3.4 billion via their apps. In five years, people will be kicking themselves for not owning their mobile commerce and customer experience through a mobile app with Tapcart."
+    },
+    {
+      "start": 60,
+      "end": 72.38,
+      "text": "Today, limited supply listeners get two months free so you've got nothing to lose as you check it out for your store. Head to tapcart.com slash limited to book your demo and get started. That's tapcart.com slash limited."
+    },
+    {
+      "start": 75.17,
+      "end": 89.81,
+      "text": "All right, everybody, we're back with a very special episode, a very special guest, somebody who I put in the same category as Moyes, like the people I'd get starstruck around, Harley Finkelstein, the president of Shopify. So Moyes, what are we doing today?"
+    },
+    {
+      "start": 89.81,
+      "end": 102.75,
+      "text": "Super excited to have you. Nick and I have been doing this podcast for a little bit now, and we don't take any guests, basically, because we found that they don't have the energy or insight or like excitement that we do have about e-commerce."
+    },
+    {
+      "start": 103.39,
+      "end": 122.73,
+      "text": "And when you offered to join, we're like, this is the only person in the world we can have as a guest. So super excited to have you. Maybe we could start a little bit with your background. I'd love to understand how, you know, you were telling us just before we started that you were a lawyer and you had a mentor who told you to go to law school to learn more about business, which is the first time I've ever heard anyone say go to law school to learn about business."
+    },
+    {
+      "start": 122.73,
+      "end": 139.67,
+      "text": "Yeah. This particular mentor, who's a career lawyer, really took a mentor's wing, particularly when my father wasn't around anymore. And he just had this belief that law school could be like finishing school for entrepreneurship, that the skills that I could acquire there would be incredibly valuable for building a business."
+    },
+    {
+      "start": 140.51,
+      "end": 148.11,
+      "text": "And he decided at that point he would teach law at the University of Ottawa for one year, take a year off from working and teach because it's something he always wanted to do."
+    },
+    {
+      "start": 148.51,
+      "end": 157.07,
+      "text": "And so I applied to one law school, University of Ottawa, and somehow got in because I spent most of my undergrad, you know, selling t-shirts, not studying, getting good grades."
+    },
+    {
+      "start": 157.99,
+      "end": 160.35,
+      "text": "But I ended up applying to the University of Ottawa and getting in."
+    },
+    {
+      "start": 161.23,
+      "end": 165.83,
+      "text": "In 2005, September, I moved from Montreal to Ottawa to start law school."
+    },
+    {
+      "start": 165.83,
+      "end": 170.43,
+      "text": "And again, this whole thing was all about entrepreneurship and it was all about becoming a better entrepreneur."
+    },
+    {
+      "start": 170.57,
+      "end": 180.05,
+      "text": "And so a lot of the anxiety that I think most people have when they're starting a new curriculum or a new program or a new experience, you know, I need to get good grades."
+    },
+    {
+      "start": 180.05,
+      "end": 181.53,
+      "text": "I need to make sure I'm in the right classes."
+    },
+    {
+      "start": 181.71,
+      "end": 186.73,
+      "text": "I didn't have any of that because the law school for me was incredibly transactional."
+    },
+    {
+      "start": 186.89,
+      "end": 190.11,
+      "text": "I was giving the law school money by way of tuition."
+    },
+    {
+      "start": 190.41,
+      "end": 194.19,
+      "text": "And in return, my expectation was that they were going to give me skills."
+    },
+    {
+      "start": 194.19,
+      "end": 196.43,
+      "text": "And the onus was on me to pick up those skills."
+    },
+    {
+      "start": 196.59,
+      "end": 199.83,
+      "text": "But, you know, I was looking for a good return on my investment."
+    },
+    {
+      "start": 200.67,
+      "end": 206.63,
+      "text": "And so even from day one, there was a certain ease or certain laid back is the wrong term."
+    },
+    {
+      "start": 206.75,
+      "end": 211.27,
+      "text": "But I approached law school and the curriculum as what can I take from every class?"
+    },
+    {
+      "start": 211.37,
+      "end": 212.73,
+      "text": "What can I take from every interaction?"
+    },
+    {
+      "start": 213.21,
+      "end": 214.49,
+      "text": "And in that way, it was really valuable."
+    },
+    {
+      "start": 214.65,
+      "end": 215.77,
+      "text": "And in fact, you know, he was right."
+    },
+    {
+      "start": 215.93,
+      "end": 219.61,
+      "text": "I mean, law school, just to fast forward for a second, law school was incredibly valuable for me."
+    },
+    {
+      "start": 219.79,
+      "end": 222.77,
+      "text": "I went to like one of the best public high schools in South Florida."
+    },
+    {
+      "start": 222.77,
+      "end": 224.89,
+      "text": "I went to South Florida."
+    },
+    {
+      "start": 225.01,
+      "end": 225.55,
+      "text": "I grew up in South Florida."
+    },
+    {
+      "start": 225.95,
+      "end": 227.53,
+      "text": "I went to Spanish River High School in Boca Raton."
+    },
+    {
+      "start": 227.67,
+      "end": 228.09,
+      "text": "OK, gotcha."
+    },
+    {
+      "start": 228.25,
+      "end": 228.63,
+      "text": "Where did you grow up?"
+    },
+    {
+      "start": 228.85,
+      "end": 229.91,
+      "text": "Pineview in Sarasota, Florida."
+    },
+    {
+      "start": 230.07,
+      "end": 230.47,
+      "text": "OK, nice."
+    },
+    {
+      "start": 230.77,
+      "end": 231.57,
+      "text": "So West Coast."
+    },
+    {
+      "start": 231.77,
+      "end": 231.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 232.05,
+      "end": 232.25,
+      "text": "OK."
+    },
+    {
+      "start": 232.55,
+      "end": 235.95,
+      "text": "So I was sort of, you know, not too far from north of Miami, north of Fort Lauderdale."
+    },
+    {
+      "start": 236.13,
+      "end": 236.39,
+      "text": "It was Boca."
+    },
+    {
+      "start": 236.71,
+      "end": 239.21,
+      "text": "So I went to a great public high school, but didn't learn how to write well."
+    },
+    {
+      "start": 239.59,
+      "end": 243.33,
+      "text": "Went to McGill, you know, one of the best universities in Canada, one of the best universities in the world."
+    },
+    {
+      "start": 243.61,
+      "end": 244.47,
+      "text": "Didn't learn how to write well."
+    },
+    {
+      "start": 245.13,
+      "end": 249.27,
+      "text": "So law school fundamentally, one of the biggest takeaways was you write a lot, as you know."
+    },
+    {
+      "start": 249.27,
+      "end": 251.91,
+      "text": "I mean, you went to Harvard Law, so that's a whole different level of law school."
+    },
+    {
+      "start": 252.45,
+      "end": 253.99,
+      "text": "But you learn how to write a lot."
+    },
+    {
+      "start": 254.13,
+      "end": 261.81,
+      "text": "You also learn something that I think is really valuable, which is to read thousands and thousands of pages and pick out the one or two things that really matter most."
+    },
+    {
+      "start": 262.49,
+      "end": 264.93,
+      "text": "And in law school, they call it the ratio desidenti, right?"
+    },
+    {
+      "start": 265.01,
+      "end": 267.45,
+      "text": "Like the one lesson from that particular case."
+    },
+    {
+      "start": 267.45,
+      "end": 274.53,
+      "text": "And that ability to sift through a ton of data and pick out the one thing that's going to have the biggest impact or value."
+    },
+    {
+      "start": 274.81,
+      "end": 276.85,
+      "text": "I mean, we all use that every single day now."
+    },
+    {
+      "start": 277.25,
+      "end": 282.51,
+      "text": "And probably the third thing that I thought was really valuable was this idea of like really good debate."
+    },
+    {
+      "start": 282.79,
+      "end": 290.01,
+      "text": "That you have an idea, you have a concept or a belief, and you have two sides to debate the belief, one for, one against."
+    },
+    {
+      "start": 290.35,
+      "end": 293.61,
+      "text": "And in undergrad, you know, there was debating, debate club."
+    },
+    {
+      "start": 293.61,
+      "end": 296.83,
+      "text": "But in law school, there was moot court, which you probably did a bunch of too."
+    },
+    {
+      "start": 297.11,
+      "end": 301.75,
+      "text": "So in actuality, law school was incredibly valuable to me from sort of a finished school perspective."
+    },
+    {
+      "start": 302.13,
+      "end": 302.97,
+      "text": "But I moved to Ottawa."
+    },
+    {
+      "start": 303.19,
+      "end": 303.97,
+      "text": "I'd never been there."
+    },
+    {
+      "start": 304.03,
+      "end": 305.87,
+      "text": "I had no friends, had no family there whatsoever."
+    },
+    {
+      "start": 307.39,
+      "end": 313.09,
+      "text": "And one of the things that I learned about myself early on in undergrad was that my tribe were entrepreneurs."
+    },
+    {
+      "start": 313.33,
+      "end": 317.37,
+      "text": "I mean, the reason I'm sitting here is because, you know, like Nick, you reach out and you're like, hey, I get this podcast."
+    },
+    {
+      "start": 317.53,
+      "end": 318.07,
+      "text": "And we started talking."
+    },
+    {
+      "start": 318.21,
+      "end": 321.17,
+      "text": "Like, we've never met in person, I think, until now, right?"
+    },
+    {
+      "start": 321.17,
+      "end": 322.49,
+      "text": "I DMed for probably a couple of years now."
+    },
+    {
+      "start": 322.51,
+      "end": 323.25,
+      "text": "Wow, many, many years, right."
+    },
+    {
+      "start": 323.25,
+      "end": 323.41,
+      "text": "Two or three years."
+    },
+    {
+      "start": 324.01,
+      "end": 325.57,
+      "text": "And you've been super helpful all the time."
+    },
+    {
+      "start": 325.57,
+      "end": 326.69,
+      "text": "Oh, thank you for saying that."
+    },
+    {
+      "start": 327.11,
+      "end": 329.29,
+      "text": "Well, just because I connect with entrepreneurs."
+    },
+    {
+      "start": 329.45,
+      "end": 330.59,
+      "text": "I understand entrepreneurs."
+    },
+    {
+      "start": 331.17,
+      "end": 335.87,
+      "text": "No matter where you're from, no matter what industry you're in, I have always found that that's kind of, those are my people."
+    },
+    {
+      "start": 336.31,
+      "end": 339.07,
+      "text": "And so I began to ask in Ottawa, where do the entrepreneurs hang out?"
+    },
+    {
+      "start": 339.35,
+      "end": 341.73,
+      "text": "And I was directed to a local coffee shop in Ottawa."
+    },
+    {
+      "start": 341.93,
+      "end": 342.67,
+      "text": "It's called Bridgehead."
+    },
+    {
+      "start": 342.79,
+      "end": 343.27,
+      "text": "It's still there today."
+    },
+    {
+      "start": 343.75,
+      "end": 348.33,
+      "text": "And I walk in, and there were a group of entrepreneurs that effectively were showing up every Friday night."
+    },
+    {
+      "start": 348.33,
+      "end": 353.27,
+      "text": "We called ourselves the Young Entrepreneurs Club, which was a totally lame."
+    },
+    {
+      "start": 353.27,
+      "end": 355.67,
+      "text": "Did you meet Toby in a coffee shop randomly?"
+    },
+    {
+      "start": 355.91,
+      "end": 356.93,
+      "text": "And one of those entrepreneurs."
+    },
+    {
+      "start": 357.09,
+      "end": 357.87,
+      "text": "I can tell you the rest of the group."
+    },
+    {
+      "start": 357.95,
+      "end": 360.07,
+      "text": "The group was, it was Sam Zaid who was running Get Around."
+    },
+    {
+      "start": 360.27,
+      "end": 360.57,
+      "text": "Yeah."
+    },
+    {
+      "start": 360.57,
+      "end": 361.09,
+      "text": "In San Francisco."
+    },
+    {
+      "start": 361.39,
+      "end": 365.71,
+      "text": "It was Aiden Merzahi who had Fluid, who now has Fellow app."
+    },
+    {
+      "start": 365.83,
+      "end": 366.05,
+      "text": "Sure."
+    },
+    {
+      "start": 366.21,
+      "end": 370.47,
+      "text": "It was Luke Levesque from TravelPod, who's now chief growth officer at Shopify."
+    },
+    {
+      "start": 370.85,
+      "end": 373.97,
+      "text": "He sold TravelPod to TripAdvisor, ran TripAdvisor for a while."
+    },
+    {
+      "start": 374.49,
+      "end": 375.01,
+      "text": "And it was Toby."
+    },
+    {
+      "start": 375.41,
+      "end": 377.53,
+      "text": "And so this small group of entrepreneurs."
+    },
+    {
+      "start": 377.53,
+      "end": 380.81,
+      "text": "Whoa, it's like a Shopify mafia, like a PayPal mafia from Canada."
+    },
+    {
+      "start": 380.93,
+      "end": 381.61,
+      "text": "But it's reverse, right?"
+    },
+    {
+      "start": 381.77,
+      "end": 385.13,
+      "text": "Like at that point, like nobody, like we were all kind of just building our stuff together."
+    },
+    {
+      "start": 385.45,
+      "end": 387.27,
+      "text": "And we all started hanging out."
+    },
+    {
+      "start": 387.43,
+      "end": 388.59,
+      "text": "And I met Toby."
+    },
+    {
+      "start": 388.69,
+      "end": 390.67,
+      "text": "And Toby, this is around 2005 or so."
+    },
+    {
+      "start": 390.81,
+      "end": 393.95,
+      "text": "So he was just transitioning from selling snowboards."
+    },
+    {
+      "start": 394.19,
+      "end": 395.19,
+      "text": "He started the snowboard shop."
+    },
+    {
+      "start": 395.35,
+      "end": 396.69,
+      "text": "This is a very famous story now."
+    },
+    {
+      "start": 396.95,
+      "end": 399.05,
+      "text": "Wrote the code base for what is now Shopify."
+    },
+    {
+      "start": 399.27,
+      "end": 399.97,
+      "text": "Started selling snowboards."
+    },
+    {
+      "start": 400.07,
+      "end": 402.67,
+      "text": "And then people started asking him to use the software."
+    },
+    {
+      "start": 403.09,
+      "end": 403.97,
+      "text": "Here's the cool part."
+    },
+    {
+      "start": 403.97,
+      "end": 408.87,
+      "text": "So my teacher business worked really well in undergrad because in undergrad, you don't have to go to class."
+    },
+    {
+      "start": 409.45,
+      "end": 413.17,
+      "text": "I'm not sure how your law school experience was, but at my law school, they took attendance."
+    },
+    {
+      "start": 413.53,
+      "end": 416.53,
+      "text": "That was part of the overall grading schema."
+    },
+    {
+      "start": 416.69,
+      "end": 416.93,
+      "text": "Wow."
+    },
+    {
+      "start": 416.93,
+      "end": 418.09,
+      "text": "It was also based on attendance."
+    },
+    {
+      "start": 418.23,
+      "end": 422.25,
+      "text": "And also, they did sort of the Socratic method thing where they'd call out a random name."
+    },
+    {
+      "start": 422.29,
+      "end": 425.21,
+      "text": "And if you weren't in class and you didn't answer the question, not a good thing."
+    },
+    {
+      "start": 425.95,
+      "end": 427.19,
+      "text": "Did you learn that the hard way?"
+    },
+    {
+      "start": 427.85,
+      "end": 432.33,
+      "text": "I didn't because I was too – like, again, I was trying to derive as much value from law school as possible."
+    },
+    {
+      "start": 432.47,
+      "end": 434.67,
+      "text": "So showing up to class was kind of like a thing to do."
+    },
+    {
+      "start": 434.73,
+      "end": 435.03,
+      "text": "Part of it, yeah."
+    },
+    {
+      "start": 435.31,
+      "end": 437.57,
+      "text": "It wasn't just about getting good grades to get a good job."
+    },
+    {
+      "start": 437.73,
+      "end": 440.35,
+      "text": "I wanted to actually, you know, learn – get knowledge from it."
+    },
+    {
+      "start": 440.35,
+      "end": 442.27,
+      "text": "And so I had to go to class."
+    },
+    {
+      "start": 442.39,
+      "end": 450.53,
+      "text": "And so I actually sort of recognized very early on in law school that the wholesale promotional product business that I had in undergrad was not going to work well in law school."
+    },
+    {
+      "start": 450.65,
+      "end": 457.17,
+      "text": "That I needed to kind of shift towards a more digital version and do retail that ran concurrently while sitting in class."
+    },
+    {
+      "start": 457.17,
+      "end": 464.41,
+      "text": "And because of my relationships in Montreal and sort of the schmutz business, I had some connections to people that had big licenses."
+    },
+    {
+      "start": 464.77,
+      "end": 467.99,
+      "text": "So licenses to Batman or Spider-Man or Superman, a bunch of other things."
+    },
+    {
+      "start": 468.09,
+      "end": 468.99,
+      "text": "Paul Frank was one of them."
+    },
+    {
+      "start": 469.05,
+      "end": 469.79,
+      "text": "I remember Paul Frank."
+    },
+    {
+      "start": 469.95,
+      "end": 470.87,
+      "text": "And so I was like, you know what?"
+    },
+    {
+      "start": 470.87,
+      "end": 471.93,
+      "text": "I'm going to set up an online store."
+    },
+    {
+      "start": 472.25,
+      "end": 473.33,
+      "text": "It'll be direct-to-consumer."
+    },
+    {
+      "start": 473.39,
+      "end": 474.37,
+      "text": "It's going to be a virtual store."
+    },
+    {
+      "start": 474.57,
+      "end": 478.09,
+      "text": "And this way, I can actually go to class and make money, you know, while I was learning."
+    },
+    {
+      "start": 478.47,
+      "end": 481.39,
+      "text": "I ended up becoming – I think it was store 137."
+    },
+    {
+      "start": 481.71,
+      "end": 482.05,
+      "text": "Wow."
+    },
+    {
+      "start": 482.51,
+      "end": 484.61,
+      "text": "Plus or minus like two on Shopify."
+    },
+    {
+      "start": 484.81,
+      "end": 485.57,
+      "text": "And what was this one called?"
+    },
+    {
+      "start": 485.69,
+      "end": 486.41,
+      "text": "It was called Smoofer."
+    },
+    {
+      "start": 487.17,
+      "end": 487.67,
+      "text": "Remember your shop."
+    },
+    {
+      "start": 487.75,
+      "end": 488.53,
+      "text": "I do."
+    },
+    {
+      "start": 488.65,
+      "end": 489.39,
+      "text": "I'm not going to tell you what it is."
+    },
+    {
+      "start": 490.85,
+      "end": 494.41,
+      "text": "But it's – although smoofer.com is not – it doesn't exist at all."
+    },
+    {
+      "start": 494.47,
+      "end": 495.89,
+      "text": "I checked it a couple of months ago."
+    },
+    {
+      "start": 496.05,
+      "end": 497.09,
+      "text": "It's some random site."
+    },
+    {
+      "start": 497.33,
+      "end": 499.29,
+      "text": "But it was a really fun experience for me."
+    },
+    {
+      "start": 499.51,
+      "end": 506.03,
+      "text": "And I spent all of the rest of the law school, you know, taking as much value from the law school curriculum, but also building Smoofer."
+    },
+    {
+      "start": 507.19,
+      "end": 508.85,
+      "text": "And I did a joint law MBA."
+    },
+    {
+      "start": 509.01,
+      "end": 510.35,
+      "text": "So I finished law school, finished business school."
+    },
+    {
+      "start": 510.53,
+      "end": 513.43,
+      "text": "Went to Toronto to practice law for 10 months."
+    },
+    {
+      "start": 513.91,
+      "end": 515.01,
+      "text": "And I absolutely hated it."
+    },
+    {
+      "start": 515.01,
+      "end": 518.51,
+      "text": "I thought it was – it was the antithesis of entrepreneurship."
+    },
+    {
+      "start": 519.05,
+      "end": 520.79,
+      "text": "Entrepreneurship is meritocratic."
+    },
+    {
+      "start": 521.07,
+      "end": 523.39,
+      "text": "It's about, you know, how much value you add."
+    },
+    {
+      "start": 523.47,
+      "end": 525.53,
+      "text": "No one cares about your last name or how long you've been there."
+    },
+    {
+      "start": 525.67,
+      "end": 526.79,
+      "text": "They care about how much value you add."
+    },
+    {
+      "start": 526.97,
+      "end": 529.95,
+      "text": "And the law firm environment was just the opposite of that."
+    },
+    {
+      "start": 530.01,
+      "end": 531.55,
+      "text": "It was almost unbearable."
+    },
+    {
+      "start": 532.19,
+      "end": 533.47,
+      "text": "So I made it 10 months."
+    },
+    {
+      "start": 533.89,
+      "end": 542.97,
+      "text": "And towards the end of that 10 months, I called Toby and I said, I would really, really love to come help you and a handful of others, mostly engineers at that point, build Shopify."
+    },
+    {
+      "start": 543.49,
+      "end": 544.95,
+      "text": "And that was about 13 years ago."
+    },
+    {
+      "start": 545.11,
+      "end": 546.35,
+      "text": "And how many people were at Shopify?"
+    },
+    {
+      "start": 547.01,
+      "end": 551.01,
+      "text": "At that point when I first spoke to him, there was under maybe six or eight."
+    },
+    {
+      "start": 551.27,
+      "end": 554.43,
+      "text": "And by the time I joined, I think there maybe was closer to 16."
+    },
+    {
+      "start": 554.89,
+      "end": 557.97,
+      "text": "And like you guys had a real office at that point, once it was six people?"
+    },
+    {
+      "start": 558.09,
+      "end": 558.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 558.19,
+      "end": 559.49,
+      "text": "I mean, working out of that same coffee shop."
+    },
+    {
+      "start": 559.63,
+      "end": 563.29,
+      "text": "We were – at that point, Toby had moved out of a coffee shop to a much smaller office."
+    },
+    {
+      "start": 563.45,
+      "end": 563.59,
+      "text": "Yeah."
+    },
+    {
+      "start": 563.65,
+      "end": 567.71,
+      "text": "And then when I joined, we were on top of this restaurant, a buffet restaurant in Ottawa."
+    },
+    {
+      "start": 568.07,
+      "end": 569.49,
+      "text": "It's called Tucker's Marketplace."
+    },
+    {
+      "start": 570.25,
+      "end": 572.13,
+      "text": "And then I joined in early 2010."
+    },
+    {
+      "start": 572.51,
+      "end": 573.87,
+      "text": "And what was the first day like?"
+    },
+    {
+      "start": 574.01,
+      "end": 577.47,
+      "text": "So it's you and, you know, a dozen engineers and maybe a couple other people."
+    },
+    {
+      "start": 577.71,
+      "end": 578.61,
+      "text": "What's the first day like?"
+    },
+    {
+      "start": 578.71,
+      "end": 580.43,
+      "text": "It was amazing."
+    },
+    {
+      "start": 580.43,
+      "end": 585.09,
+      "text": "It was – I mean, you both remember the early days of, you know, of starting."
+    },
+    {
+      "start": 585.91,
+      "end": 589.57,
+      "text": "You are driven by sheer –"
+    },
+    {
+      "start": 589.57,
+      "end": 590.45,
+      "text": "Force of will."
+    },
+    {
+      "start": 590.65,
+      "end": 591.13,
+      "text": "Ambition."
+    },
+    {
+      "start": 591.29,
+      "end": 591.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 591.51,
+      "end": 593.01,
+      "text": "Like the excitement of the group."
+    },
+    {
+      "start": 593.21,
+      "end": 593.51,
+      "text": "Yeah."
+    },
+    {
+      "start": 593.63,
+      "end": 596.05,
+      "text": "The unknown of what is possible."
+    },
+    {
+      "start": 596.27,
+      "end": 596.35,
+      "text": "Right."
+    },
+    {
+      "start": 596.63,
+      "end": 600.95,
+      "text": "There is no room for, you know, pessimism or skepticism."
+    },
+    {
+      "start": 601.45,
+      "end": 603.25,
+      "text": "There's so much interesting opportunity."
+    },
+    {
+      "start": 603.25,
+      "end": 607.35,
+      "text": "And when you're in a room like that with a bunch of other people who you deeply respect"
+    },
+    {
+      "start": 607.35,
+      "end": 610.61,
+      "text": "and you all have one clear mission, there's nothing like it."
+    },
+    {
+      "start": 611.05,
+      "end": 617.43,
+      "text": "And I think my first – you know, the first year or so, I felt that my job was simply to"
+    },
+    {
+      "start": 617.43,
+      "end": 619.93,
+      "text": "be a Swiss Army knife, to add as much value as I could."
+    },
+    {
+      "start": 620.07,
+      "end": 623.67,
+      "text": "I was sort of technically – we didn't have a CFO."
+    },
+    {
+      "start": 623.81,
+      "end": 624.63,
+      "text": "We didn't have a CMO."
+    },
+    {
+      "start": 624.85,
+      "end": 626.79,
+      "text": "We didn't have like – we had nothing."
+    },
+    {
+      "start": 626.79,
+      "end": 633.45,
+      "text": "Like I was fresh out of getting my law degree and being called to the bar, although I was"
+    },
+    {
+      "start": 633.45,
+      "end": 634.33,
+      "text": "a terrible lawyer."
+    },
+    {
+      "start": 634.55,
+      "end": 637.99,
+      "text": "But if anything – you know, anything needs to get done on the business side or operational"
+    },
+    {
+      "start": 637.99,
+      "end": 641.35,
+      "text": "side or legal side or financial side, we kind of just all figured it out together."
+    },
+    {
+      "start": 641.35,
+      "end": 645.61,
+      "text": "I think Shopify's finance department at that point was literally ran by a Ruby script"
+    },
+    {
+      "start": 645.61,
+      "end": 646.55,
+      "text": "that Toby had written."
+    },
+    {
+      "start": 646.67,
+      "end": 646.95,
+      "text": "Wow."
+    },
+    {
+      "start": 647.17,
+      "end": 651.57,
+      "text": "To do reconciliation and make sure we were able to have some semblance of integrity with"
+    },
+    {
+      "start": 651.57,
+      "end": 652.13,
+      "text": "our finances."
+    },
+    {
+      "start": 652.33,
+      "end": 653.99,
+      "text": "We had not raised any money at that point."
+    },
+    {
+      "start": 653.99,
+      "end": 658.61,
+      "text": "And so we had a couple – we had one or two angel investors, one of which was Toby's"
+    },
+    {
+      "start": 658.61,
+      "end": 659.15,
+      "text": "father-in-law."
+    },
+    {
+      "start": 660.15,
+      "end": 660.87,
+      "text": "But that was it."
+    },
+    {
+      "start": 660.87,
+      "end": 660.97,
+      "text": "That was a guy."
+    },
+    {
+      "start": 661.67,
+      "end": 663.27,
+      "text": "And yeah, those guys did very well."
+    },
+    {
+      "start": 663.99,
+      "end": 669.15,
+      "text": "But it was some of the most fun, interesting, and difficult, challenging times of my life."
+    },
+    {
+      "start": 669.19,
+      "end": 670.35,
+      "text": "And I wouldn't have traded for anything."
+    },
+    {
+      "start": 670.59,
+      "end": 674.53,
+      "text": "And how did you get like the – you know, you had 100-some stores on Shopify at that"
+    },
+    {
+      "start": 674.53,
+      "end": 674.77,
+      "text": "point."
+    },
+    {
+      "start": 674.81,
+      "end": 676.75,
+      "text": "How did you start getting new ones on there?"
+    },
+    {
+      "start": 676.87,
+      "end": 677.87,
+      "text": "Was it like organic?"
+    },
+    {
+      "start": 678.11,
+      "end": 682.03,
+      "text": "Everyone was just like hanging – like hears about you guys in this coffee shop and building"
+    },
+    {
+      "start": 682.03,
+      "end": 683.09,
+      "text": "snowboards and they're like –"
+    },
+    {
+      "start": 683.09,
+      "end": 683.93,
+      "text": "A lot of it was organic."
+    },
+    {
+      "start": 684.05,
+      "end": 687.35,
+      "text": "A lot of it was – I mean, you know, one of the cool parts about the Shopify early"
+    },
+    {
+      "start": 687.35,
+      "end": 690.53,
+      "text": "day story was that Toby was writing this code in Ruby on Rails."
+    },
+    {
+      "start": 691.09,
+      "end": 694.81,
+      "text": "And there were really only three or four companies at the time that were really building anything"
+    },
+    {
+      "start": 695.15,
+      "end": 697.07,
+      "text": "of meaningful scale using Ruby on Rails."
+    },
+    {
+      "start": 697.33,
+      "end": 700.39,
+      "text": "It was 37 Signalup guys, David Hennemir Hansen, Jason Freed."
+    },
+    {
+      "start": 700.55,
+      "end": 701.81,
+      "text": "It was Twitter, I believe."
+    },
+    {
+      "start": 702.51,
+      "end": 703.43,
+      "text": "I think that was it."
+    },
+    {
+      "start": 703.49,
+      "end": 704.65,
+      "text": "I think Shopify was sort of the third."
+    },
+    {
+      "start": 704.77,
+      "end": 707.95,
+      "text": "So one of the things that was really cool was people that were deeply involved in the"
+    },
+    {
+      "start": 707.95,
+      "end": 709.05,
+      "text": "Ruby on Rails community."
+    },
+    {
+      "start": 709.29,
+      "end": 711.21,
+      "text": "And Toby was a core contributor of that community."
+    },
+    {
+      "start": 711.81,
+      "end": 712.89,
+      "text": "They were following along."
+    },
+    {
+      "start": 713.11,
+      "end": 714.67,
+      "text": "So that was sort of one aspect of it."
+    },
+    {
+      "start": 715.17,
+      "end": 720.83,
+      "text": "Another aspect that I recognized fairly early on was that I think just before we started"
+    },
+    {
+      "start": 720.83,
+      "end": 723.19,
+      "text": "rolling, we talked about Pointer and your work with Chris."
+    },
+    {
+      "start": 723.37,
+      "end": 725.53,
+      "text": "And Chris is a local Ottawa partner."
+    },
+    {
+      "start": 725.73,
+      "end": 728.87,
+      "text": "And I'm not sure he was around then, but there were a couple agencies and freelancers"
+    },
+    {
+      "start": 728.87,
+      "end": 734.85,
+      "text": "that just very serendipitously found Shopify and began to do a couple builds for their merchants"
+    },
+    {
+      "start": 734.85,
+      "end": 737.15,
+      "text": "and brands, which was really, really cool."
+    },
+    {
+      "start": 737.15,
+      "end": 739.31,
+      "text": "But at that point, it was mostly word of mouth."
+    },
+    {
+      "start": 739.69,
+      "end": 743.59,
+      "text": "The one thing that happened early on, which was really cool, you guys may remember this."
+    },
+    {
+      "start": 743.69,
+      "end": 744.93,
+      "text": "People listening may remember this too."
+    },
+    {
+      "start": 745.09,
+      "end": 747.91,
+      "text": "We created the Build a Business competition in 2010."
+    },
+    {
+      "start": 748.15,
+      "end": 748.67,
+      "text": "You guys remember that?"
+    },
+    {
+      "start": 748.73,
+      "end": 748.91,
+      "text": "Yeah."
+    },
+    {
+      "start": 749.29,
+      "end": 750.13,
+      "text": "And that was really neat."
+    },
+    {
+      "start": 750.67,
+      "end": 755.49,
+      "text": "It was sort of an idea that we, you know, dreamt up with Tim Ferriss."
+    },
+    {
+      "start": 756.15,
+      "end": 759.57,
+      "text": "Tim had learned about Shopify and, you know, thought Shopify was really cool."
+    },
+    {
+      "start": 759.57,
+      "end": 764.41,
+      "text": "But his sort of, his one issue with Shopify back in 2010 was, okay, you guys are making"
+    },
+    {
+      "start": 764.41,
+      "end": 766.75,
+      "text": "entrepreneurship seem really easy and very affordable."
+    },
+    {
+      "start": 766.93,
+      "end": 769.01,
+      "text": "But for most people, it's not either of those things."
+    },
+    {
+      "start": 769.07,
+      "end": 770.47,
+      "text": "It is complicated and expensive."
+    },
+    {
+      "start": 771.07,
+      "end": 775.29,
+      "text": "And so the intention with the Build a Business competition in the early days was really to"
+    },
+    {
+      "start": 775.29,
+      "end": 779.21,
+      "text": "get to a point whereby we would almost, we would give people a proverbial kick in the"
+    },
+    {
+      "start": 779.21,
+      "end": 780.41,
+      "text": "butt to get started now."
+    },
+    {
+      "start": 780.81,
+      "end": 784.35,
+      "text": "And the way we did it was we said, hey, sign up for a new store on Shopify."
+    },
+    {
+      "start": 784.35,
+      "end": 789.21,
+      "text": "After six months, we will review everyone in that cohort and the store with the highest"
+    },
+    {
+      "start": 789.21,
+      "end": 791.23,
+      "text": "GMV would win $100,000."
+    },
+    {
+      "start": 792.63,
+      "end": 796.59,
+      "text": "And at the time, I don't even think we had $100,000 in our bank account."
+    },
+    {
+      "start": 796.71,
+      "end": 800.49,
+      "text": "So we were hoping that by the time the competition was over, that we would eventually have that"
+    },
+    {
+      "start": 800.49,
+      "end": 801.47,
+      "text": "type of money to pay it out."
+    },
+    {
+      "start": 802.67,
+      "end": 806.15,
+      "text": "And I'm going to get this number wrong, but it's in, it was in the vicinity of like,"
+    },
+    {
+      "start": 806.19,
+      "end": 810.31,
+      "text": "I think it was like 1,200 stores that signed up in that period of time."
+    },
+    {
+      "start": 810.31,
+      "end": 815.89,
+      "text": "And the winner was a company called Dodo Case out of San Francisco, who they had recognized"
+    },
+    {
+      "start": 815.89,
+      "end": 820.65,
+      "text": "that in downtown San Francisco, there was a tradition of old school bookbinding."
+    },
+    {
+      "start": 821.37,
+      "end": 825.45,
+      "text": "And these bookbinders were not actually, you know, that business, that industry was not"
+    },
+    {
+      "start": 825.45,
+      "end": 826.01,
+      "text": "going very well."
+    },
+    {
+      "start": 826.09,
+      "end": 827.59,
+      "text": "And so they went and found these great bookbinders."
+    },
+    {
+      "start": 827.71,
+      "end": 830.83,
+      "text": "And instead of creating books from their bookbinding techniques, they created iPad cases."
+    },
+    {
+      "start": 831.37,
+      "end": 834.97,
+      "text": "And I think Obama, I think it was Obama, had one."
+    },
+    {
+      "start": 835.09,
+      "end": 837.41,
+      "text": "And it was in a famous photograph of his."
+    },
+    {
+      "start": 837.81,
+      "end": 839.65,
+      "text": "And after that, that business did really well."
+    },
+    {
+      "start": 839.73,
+      "end": 842.19,
+      "text": "And Dodo Case ended up winning the Build a Business competition."
+    },
+    {
+      "start": 842.47,
+      "end": 844.01,
+      "text": "And so a lot of it was-"
+    },
+    {
+      "start": 844.01,
+      "end": 844.91,
+      "text": "And they're still on Shopify."
+    },
+    {
+      "start": 845.07,
+      "end": 845.87,
+      "text": "Yeah, still on Shopify."
+    },
+    {
+      "start": 846.21,
+      "end": 846.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 846.65,
+      "end": 850.97,
+      "text": "I haven't checked in them in a couple of years, but they were a great business."
+    },
+    {
+      "start": 851.15,
+      "end": 852.13,
+      "text": "They had an amazing product."
+    },
+    {
+      "start": 853.07,
+      "end": 854.79,
+      "text": "They showed scale on Shopify."
+    },
+    {
+      "start": 854.91,
+      "end": 855.59,
+      "text": "They showed creativity."
+    },
+    {
+      "start": 856.11,
+      "end": 861.17,
+      "text": "And I think it was interesting because while they were building Dodo Case, you know, in"
+    },
+    {
+      "start": 861.17,
+      "end": 864.51,
+      "text": "a very scrappy, non-scalable way, we were kind of the same with Shopify."
+    },
+    {
+      "start": 864.65,
+      "end": 865.37,
+      "text": "We were doing this at scale."
+    },
+    {
+      "start": 865.57,
+      "end": 866.39,
+      "text": "We were creating competitions."
+    },
+    {
+      "start": 866.39,
+      "end": 869.43,
+      "text": "We were, you know, trying to get word of mouth spinning."
+    },
+    {
+      "start": 869.85,
+      "end": 873.37,
+      "text": "And it wasn't until a year or two after that where we raised venture capital."
+    },
+    {
+      "start": 873.47,
+      "end": 874.29,
+      "text": "We brought in a CFO."
+    },
+    {
+      "start": 874.45,
+      "end": 878.63,
+      "text": "We brought in our first chief marketing officer that, you know, we really created a scalable"
+    },
+    {
+      "start": 878.63,
+      "end": 879.57,
+      "text": "way to grow the business."
+    },
+    {
+      "start": 879.57,
+      "end": 881.39,
+      "text": "But those early days were unbelievable."
+    },
+    {
+      "start": 881.61,
+      "end": 882.05,
+      "text": "Yeah, amazing."
+    },
+    {
+      "start": 882.31,
+      "end": 887.55,
+      "text": "When did you, like, realize that Shopify was going to be what it is today?"
+    },
+    {
+      "start": 887.75,
+      "end": 890.95,
+      "text": "Like, you know, we were talking just before we started rolling where your mother was like,"
+    },
+    {
+      "start": 890.95,
+      "end": 893.61,
+      "text": "okay, this is going to work out like the day before the IPO."
+    },
+    {
+      "start": 893.87,
+      "end": 894.05,
+      "text": "Yeah."
+    },
+    {
+      "start": 894.33,
+      "end": 896.93,
+      "text": "Well, when did you realize where you're like, you know what?"
+    },
+    {
+      "start": 896.97,
+      "end": 901.69,
+      "text": "We might have started this in a coffee shop in, you know, Canada, but this is going to"
+    },
+    {
+      "start": 901.69,
+      "end": 902.69,
+      "text": "be a massive business."
+    },
+    {
+      "start": 903.27,
+      "end": 908.61,
+      "text": "The reason that I wanted to join Shopify, the reason that I called Toby was partially because"
+    },
+    {
+      "start": 908.61,
+      "end": 912.77,
+      "text": "I knew that I wasn't going to be a lawyer long term, partially because I love the idea"
+    },
+    {
+      "start": 912.77,
+      "end": 913.37,
+      "text": "of entrepreneurship."
+    },
+    {
+      "start": 913.65,
+      "end": 918.83,
+      "text": "But I would say the majority of the reason that I called him was I had that experience"
+    },
+    {
+      "start": 918.83,
+      "end": 919.31,
+      "text": "for myself."
+    },
+    {
+      "start": 919.55,
+      "end": 924.95,
+      "text": "The fact that I was able to launch a beautiful, scalable, unique online business sitting in"
+    },
+    {
+      "start": 924.95,
+      "end": 931.83,
+      "text": "tax law class that and effectively within with that one click of the launch button was able"
+    },
+    {
+      "start": 931.83,
+      "end": 934.01,
+      "text": "to sell to a massive audience."
+    },
+    {
+      "start": 934.19,
+      "end": 936.45,
+      "text": "That was fairly profound."
+    },
+    {
+      "start": 936.63,
+      "end": 936.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 937.03,
+      "end": 941.67,
+      "text": "That experience of starting a business that otherwise would not have happened if it wasn't"
+    },
+    {
+      "start": 941.67,
+      "end": 943.53,
+      "text": "for this incredible piece of software and technology."
+    },
+    {
+      "start": 943.67,
+      "end": 944.39,
+      "text": "It was that."
+    },
+    {
+      "start": 944.47,
+      "end": 947.83,
+      "text": "It was I wanted to join Shopify because I knew the potential shop."
+    },
+    {
+      "start": 947.89,
+      "end": 953.11,
+      "text": "And ultimately what it came down to was this was the first time I really saw what the potential"
+    },
+    {
+      "start": 953.11,
+      "end": 958.77,
+      "text": "of truly democratizing the entrepreneurial journey, because prior to that, and if you go back"
+    },
+    {
+      "start": 958.77,
+      "end": 965.11,
+      "text": "like 20 years, 200 years, 2000 years, starting a business, the main ingredient had always historically"
+    },
+    {
+      "start": 965.11,
+      "end": 965.71,
+      "text": "been capital."
+    },
+    {
+      "start": 966.05,
+      "end": 967.41,
+      "text": "That was it needed money."
+    },
+    {
+      "start": 967.55,
+      "end": 976.27,
+      "text": "It's the reason why so many people were there was this tension or this apprehension to start"
+    },
+    {
+      "start": 976.27,
+      "end": 976.69,
+      "text": "a business."
+    },
+    {
+      "start": 976.87,
+      "end": 979.75,
+      "text": "It wasn't because you didn't have people that were ambitious or people wanted to be entrepreneurs."
+    },
+    {
+      "start": 979.75,
+      "end": 985.51,
+      "text": "It was because they were nervous and scared that if it didn't work out, the cost of failure"
+    },
+    {
+      "start": 985.51,
+      "end": 987.99,
+      "text": "would be so high that it would change."
+    },
+    {
+      "start": 988.31,
+      "end": 991.27,
+      "text": "You know, they may lose their house or they may lose their they wouldn't be able to put"
+    },
+    {
+      "start": 991.27,
+      "end": 991.87,
+      "text": "food on their table."
+    },
+    {
+      "start": 992.91,
+      "end": 996.21,
+      "text": "And for the first time ever, entrepreneurship was more accessible."
+    },
+    {
+      "start": 996.41,
+      "end": 999.13,
+      "text": "The cost of failure was as close as yours ever before."
+    },
+    {
+      "start": 999.29,
+      "end": 1002.77,
+      "text": "And it was all possible because of this piece of software that Toby had written."
+    },
+    {
+      "start": 1003.19,
+      "end": 1004.79,
+      "text": "That's when I knew it'd be a bigger deal."
+    },
+    {
+      "start": 1004.79,
+      "end": 1010.05,
+      "text": "Now, whether it would take five years, 10 years or 50 years to realize that vision, I"
+    },
+    {
+      "start": 1010.05,
+      "end": 1012.55,
+      "text": "didn't know enough about it because I was a I was a merchant on the platform."
+    },
+    {
+      "start": 1012.71,
+      "end": 1013.89,
+      "text": "But I knew this is profound."
+    },
+    {
+      "start": 1014.11,
+      "end": 1014.29,
+      "text": "Wow."
+    },
+    {
+      "start": 1014.45,
+      "end": 1018.03,
+      "text": "OK, so you knew when you were starting your own store, basically before you joined the"
+    },
+    {
+      "start": 1018.03,
+      "end": 1021.63,
+      "text": "business where you're like this this type of business is going to be revolutionized"
+    },
+    {
+      "start": 1021.63,
+      "end": 1022.13,
+      "text": "entrepreneurship."
+    },
+    {
+      "start": 1022.83,
+      "end": 1023.05,
+      "text": "Totally."
+    },
+    {
+      "start": 1023.29,
+      "end": 1026.19,
+      "text": "Because, again, it's it wasn't just about the cost or the effort."
+    },
+    {
+      "start": 1026.35,
+      "end": 1030.05,
+      "text": "It was the fact that even if you'd never started a business before, you were able to build"
+    },
+    {
+      "start": 1030.05,
+      "end": 1031.79,
+      "text": "something that looked incredible, professional."
+    },
+    {
+      "start": 1031.79,
+      "end": 1036.33,
+      "text": "It made it feel like, you know, your total adjustment market was not just your little"
+    },
+    {
+      "start": 1036.33,
+      "end": 1037.79,
+      "text": "city or town you were in."
+    },
+    {
+      "start": 1037.93,
+      "end": 1040.25,
+      "text": "I was in Ottawa, Canada, sitting in tax law class."
+    },
+    {
+      "start": 1040.35,
+      "end": 1042.33,
+      "text": "And my total adjustment market was Canada."
+    },
+    {
+      "start": 1042.55,
+      "end": 1042.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 1043.01,
+      "end": 1044.57,
+      "text": "That was something that was amazing."
+    },
+    {
+      "start": 1044.77,
+      "end": 1047.07,
+      "text": "My grandparents could never have even envisioned something like that."
+    },
+    {
+      "start": 1047.11,
+      "end": 1047.27,
+      "text": "Yeah."
+    },
+    {
+      "start": 1047.51,
+      "end": 1050.93,
+      "text": "I'll tell you, like I started e-commerce because of one of the same reasons you mentioned,"
+    },
+    {
+      "start": 1051.07,
+      "end": 1053.75,
+      "text": "which was the cost of like losing was so low."
+    },
+    {
+      "start": 1054.13,
+      "end": 1058.33,
+      "text": "You know, the cost is so high with SaaS businesses like Shopify because you invest so much time"
+    },
+    {
+      "start": 1058.33,
+      "end": 1059.71,
+      "text": "building that software."
+    },
+    {
+      "start": 1059.71,
+      "end": 1061.99,
+      "text": "With e-commerce, you're like, let's see if this works."
+    },
+    {
+      "start": 1062.09,
+      "end": 1064.35,
+      "text": "If it doesn't, I'll shut it down and start another business."
+    },
+    {
+      "start": 1064.51,
+      "end": 1064.71,
+      "text": "Right."
+    },
+    {
+      "start": 1064.81,
+      "end": 1066.05,
+      "text": "You know, 48 hours later."
+    },
+    {
+      "start": 1066.31,
+      "end": 1068.09,
+      "text": "And it really reduces that cost of entrepreneurship."
+    },
+    {
+      "start": 1068.09,
+      "end": 1069.41,
+      "text": "It's really amazing."
+    },
+    {
+      "start": 1069.93,
+      "end": 1074.63,
+      "text": "But that's a great segue into the next thing I want to talk about, which is what Shopify"
+    },
+    {
+      "start": 1074.63,
+      "end": 1075.29,
+      "text": "is today."
+    },
+    {
+      "start": 1075.45,
+      "end": 1075.49,
+      "text": "Yeah."
+    },
+    {
+      "start": 1076.07,
+      "end": 1080.73,
+      "text": "You know, I talked to the guys at Klaviyo and they basically told me that recently they've"
+    },
+    {
+      "start": 1080.73,
+      "end": 1081.85,
+      "text": "shifted their strategy."
+    },
+    {
+      "start": 1081.85,
+      "end": 1086.17,
+      "text": "And they're like, our target is no longer to go after entrepreneurs, although we're"
+    },
+    {
+      "start": 1086.17,
+      "end": 1087.25,
+      "text": "constantly serving them."
+    },
+    {
+      "start": 1087.37,
+      "end": 1091.97,
+      "text": "But now it's to move upstream in the market and to go after small and medium sized businesses"
+    },
+    {
+      "start": 1091.97,
+      "end": 1094.13,
+      "text": "north of 10, north of $20 million."
+    },
+    {
+      "start": 1095.27,
+      "end": 1098.89,
+      "text": "I read the Shopify 10K multiple times and I was like, you know what?"
+    },
+    {
+      "start": 1098.99,
+      "end": 1101.63,
+      "text": "You guys talk about starting with entrepreneurs and that makes a ton of sense."
+    },
+    {
+      "start": 1101.75,
+      "end": 1106.99,
+      "text": "And to be honest, as an entrepreneur, I can't imagine like you guys don't have a monopoly"
+    },
+    {
+      "start": 1106.99,
+      "end": 1111.27,
+      "text": "technically, but in reality, there's no other option than Shopify if you're starting an e-commerce"
+    },
+    {
+      "start": 1111.27,
+      "end": 1111.69,
+      "text": "business."
+    },
+    {
+      "start": 1112.37,
+      "end": 1113.91,
+      "text": "What about a J.Crew?"
+    },
+    {
+      "start": 1114.13,
+      "end": 1115.59,
+      "text": "Is J.Crew going to be on Shopify?"
+    },
+    {
+      "start": 1116.53,
+      "end": 1118.19,
+      "text": "Why isn't Nordstrom on Shopify?"
+    },
+    {
+      "start": 1118.39,
+      "end": 1120.09,
+      "text": "Why isn't Dick's Sporting Goods?"
+    },
+    {
+      "start": 1120.21,
+      "end": 1121.23,
+      "text": "I mean, I think they should be."
+    },
+    {
+      "start": 1121.43,
+      "end": 1124.65,
+      "text": "But let me, there's a couple assumptions in that question that I want to unpack first."
+    },
+    {
+      "start": 1124.67,
+      "end": 1130.57,
+      "text": "First of all, I don't think entrepreneurship is one specific GMV band."
+    },
+    {
+      "start": 1130.95,
+      "end": 1133.77,
+      "text": "I know people that started their businesses three months ago, they're entrepreneurs."
+    },
+    {
+      "start": 1133.77,
+      "end": 1140.21,
+      "text": "And I can tell you, you know, if you look at Ben at Gymshark or Ronnie at Kith or Kylie"
+    },
+    {
+      "start": 1140.21,
+      "end": 1146.67,
+      "text": "at Kylie Cosmetics or Rich at Fashion Nova or Dave at Bombas or, you know, Tim and Joey"
+    },
+    {
+      "start": 1146.67,
+      "end": 1147.19,
+      "text": "at Allbirds."
+    },
+    {
+      "start": 1147.61,
+      "end": 1152.61,
+      "text": "These are all companies that are, in my opinion, and I think a lot of people, most people would"
+    },
+    {
+      "start": 1152.61,
+      "end": 1156.13,
+      "text": "agree with this, are vertical leaders in their particular category."
+    },
+    {
+      "start": 1156.59,
+      "end": 1158.93,
+      "text": "In some cases, they're multibillion dollar public traded companies."
+    },
+    {
+      "start": 1159.37,
+      "end": 1162.69,
+      "text": "They are unequivocally, they unequivocally self-identifies entrepreneurs."
+    },
+    {
+      "start": 1162.69,
+      "end": 1166.49,
+      "text": "So I don't actually think there's like this, like, band where you're an entrepreneur here,"
+    },
+    {
+      "start": 1166.63,
+      "end": 1167.53,
+      "text": "you're a small business here."
+    },
+    {
+      "start": 1167.63,
+      "end": 1172.25,
+      "text": "But the key to Shopify, just to answer your question directly, is that we want to have"
+    },
+    {
+      "start": 1172.25,
+      "end": 1174.55,
+      "text": "the widest top of funnel possible."
+    },
+    {
+      "start": 1174.69,
+      "end": 1179.01,
+      "text": "We want to make it so that anyone that has an idea in the shower in the morning, so I'm"
+    },
+    {
+      "start": 1179.01,
+      "end": 1183.77,
+      "text": "talking about aspirational entrepreneurship, we recognize not all of them will succeed."
+    },
+    {
+      "start": 1184.13,
+      "end": 1188.75,
+      "text": "However, the ones that do from a business perspective will offset the cost of the ones that don't."
+    },
+    {
+      "start": 1188.75,
+      "end": 1195.43,
+      "text": "And more importantly, over time, as their needs grow, as the complexity of their business"
+    },
+    {
+      "start": 1195.43,
+      "end": 1201.75,
+      "text": "increases, the value of Shopify reveals itself or unveils itself to them as they need it."
+    },
+    {
+      "start": 1201.97,
+      "end": 1207.59,
+      "text": "And so initially, if we just sort of look at Shopify Plus, for example, Plus was started"
+    },
+    {
+      "start": 1207.59,
+      "end": 1212.19,
+      "text": "as a graduation for the most successful merchants on Shopify."
+    },
+    {
+      "start": 1212.19,
+      "end": 1216.27,
+      "text": "As they got bigger and bigger, they needed new things, whether it was new functionality,"
+    },
+    {
+      "start": 1216.39,
+      "end": 1217.53,
+      "text": "new features, new APIs."
+    },
+    {
+      "start": 1218.17,
+      "end": 1221.17,
+      "text": "They wanted larger, you know, API call limits."
+    },
+    {
+      "start": 1221.35,
+      "end": 1222.95,
+      "text": "They wanted more stuff from us."
+    },
+    {
+      "start": 1223.63,
+      "end": 1226.57,
+      "text": "And so this idea of this graduation, that's what it was for."
+    },
+    {
+      "start": 1226.71,
+      "end": 1228.59,
+      "text": "It was for homegrown success stories."
+    },
+    {
+      "start": 1228.79,
+      "end": 1231.39,
+      "text": "And that's all the stories I just mentioned are homegrown success stories."
+    },
+    {
+      "start": 1231.65,
+      "end": 1232.41,
+      "text": "Figs, for example."
+    },
+    {
+      "start": 1232.57,
+      "end": 1236.15,
+      "text": "Like these types of brands that start with us that go really large, never leave the platform."
+    },
+    {
+      "start": 1236.15,
+      "end": 1241.81,
+      "text": "But something quite remarkable happened in the last five or so years and much more so in the last,"
+    },
+    {
+      "start": 1241.81,
+      "end": 1247.61,
+      "text": "you know, two to three years, which is that a lot of larger existing companies, whether it's Mattel"
+    },
+    {
+      "start": 1247.61,
+      "end": 1254.85,
+      "text": "or it's Crayola or it's Procter \u0026 Gamble or it's Staples or Spanx, companies that already had"
+    },
+    {
+      "start": 1254.85,
+      "end": 1258.27,
+      "text": "existing large businesses migrated to Shopify Plus."
+    },
+    {
+      "start": 1258.61,
+      "end": 1262.91,
+      "text": "And so that's not to say, I don't know, maybe J.Crew will come to Shopify at some point."
+    },
+    {
+      "start": 1262.99,
+      "end": 1263.85,
+      "text": "I don't know why they wouldn't."
+    },
+    {
+      "start": 1263.85,
+      "end": 1267.81,
+      "text": "I don't understand all the puts and takes of the Nordstrom business model."
+    },
+    {
+      "start": 1268.01,
+      "end": 1273.33,
+      "text": "But my hope is that at some point, all those brands, if you are running a modern brand"
+    },
+    {
+      "start": 1273.33,
+      "end": 1277.97,
+      "text": "and you are multi-channel and you want to future-proof your business operations,"
+    },
+    {
+      "start": 1278.47,
+      "end": 1281.77,
+      "text": "my hope is that one day it is a bad idea to not use Shopify."
+    },
+    {
+      "start": 1282.17,
+      "end": 1286.41,
+      "text": "A few weeks ago, I got a call from the chairman of Tom Ford."
+    },
+    {
+      "start": 1286.59,
+      "end": 1290.57,
+      "text": "And he was basically saying that their UK store needed some assistance."
+    },
+    {
+      "start": 1290.57,
+      "end": 1296.47,
+      "text": "And he was like, you know, can you put together a quick presentation, come to our office and present it."
+    },
+    {
+      "start": 1296.81,
+      "end": 1298.47,
+      "text": "And so I did that."
+    },
+    {
+      "start": 1298.69,
+      "end": 1299.43,
+      "text": "I get there."
+    },
+    {
+      "start": 1299.63,
+      "end": 1302.63,
+      "text": "And I'm like, your first mistake is you're not on Shopify Plus."
+    },
+    {
+      "start": 1302.87,
+      "end": 1303.65,
+      "text": "You're on Salesforce."
+    },
+    {
+      "start": 1303.99,
+      "end": 1308.25,
+      "text": "And you can't use a Salesforce store without three clicks to check out."
+    },
+    {
+      "start": 1308.45,
+      "end": 1311.53,
+      "text": "You're probably losing millions of dollars just with that one issue there."
+    },
+    {
+      "start": 1311.53,
+      "end": 1311.77,
+      "text": "Yeah."
+    },
+    {
+      "start": 1312.61,
+      "end": 1314.05,
+      "text": "First, I completely agree with you."
+    },
+    {
+      "start": 1314.19,
+      "end": 1320.55,
+      "text": "It's amazing to see the small businesses that you guys have fostered grow into and really help – really grow into Shopify."
+    },
+    {
+      "start": 1320.55,
+      "end": 1323.87,
+      "text": "And I think also help Shopify build new features as they need them, right?"
+    },
+    {
+      "start": 1323.93,
+      "end": 1325.27,
+      "text": "Like the Allbirds and Biggs."
+    },
+    {
+      "start": 1325.49,
+      "end": 1326.99,
+      "text": "Because they pull us into categories."
+    },
+    {
+      "start": 1327.17,
+      "end": 1327.27,
+      "text": "Definitely."
+    },
+    {
+      "start": 1327.39,
+      "end": 1329.71,
+      "text": "That we ourselves may have not gone to ourselves."
+    },
+    {
+      "start": 1329.75,
+      "end": 1333.13,
+      "text": "It's our merchants that are saying, look, you thought this was a nice-to-have."
+    },
+    {
+      "start": 1333.15,
+      "end": 1334.19,
+      "text": "This is actually a must-have."
+    },
+    {
+      "start": 1334.31,
+      "end": 1335.55,
+      "text": "And then we go to work building it."
+    },
+    {
+      "start": 1335.71,
+      "end": 1335.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 1335.93,
+      "end": 1337.25,
+      "text": "I'm glad you said that."
+    },
+    {
+      "start": 1337.69,
+      "end": 1342.29,
+      "text": "Because I've got a few – look, there are brands that have gotten to a certain size and then switched away from Shopify."
+    },
+    {
+      "start": 1342.83,
+      "end": 1346.05,
+      "text": "Like Away Travel and Ritual Vitamins."
+    },
+    {
+      "start": 1346.29,
+      "end": 1349.95,
+      "text": "Why do you think those brands switch away from Shopify instead of staying within the ecosystem?"
+    },
+    {
+      "start": 1349.99,
+      "end": 1353.31,
+      "text": "You've proven that publicly traded companies can sit on the Shopify platform."
+    },
+    {
+      "start": 1353.47,
+      "end": 1357.49,
+      "text": "You've named two brands that – those are very, very rare cases."
+    },
+    {
+      "start": 1357.77,
+      "end": 1359.21,
+      "text": "It happens from time to time."
+    },
+    {
+      "start": 1359.33,
+      "end": 1362.71,
+      "text": "And those two brands in particular, I suspect, at some point will come back to Shopify."
+    },
+    {
+      "start": 1363.01,
+      "end": 1364.51,
+      "text": "In fact, I'm certain of it."
+    },
+    {
+      "start": 1364.51,
+      "end": 1368.11,
+      "text": "And I hope they're listening because I would love to re-migrate them over if I can."
+    },
+    {
+      "start": 1368.49,
+      "end": 1372.23,
+      "text": "But that almost – to be totally – this is enough flex of Shopify."
+    },
+    {
+      "start": 1372.45,
+      "end": 1373.57,
+      "text": "But that almost never happens."
+    },
+    {
+      "start": 1373.99,
+      "end": 1376.97,
+      "text": "In the case where it does – I mean, Tommy John."
+    },
+    {
+      "start": 1378.03,
+      "end": 1386.21,
+      "text": "Someone convinced Tom that he should leave Shopify and go to what I guess this person thought was a good idea, go to BigCommerce."
+    },
+    {
+      "start": 1386.47,
+      "end": 1387.73,
+      "text": "So he left in February."
+    },
+    {
+      "start": 1388.09,
+      "end": 1390.63,
+      "text": "And as of last week, he re-migrated back to Shopify."
+    },
+    {
+      "start": 1390.63,
+      "end": 1398.07,
+      "text": "So we do see some times where someone gets hired in a company and they want to sort of substantiate or demonstrate their value."
+    },
+    {
+      "start": 1398.23,
+      "end": 1404.51,
+      "text": "And so – especially if they're like running e-commerce, they're like, we need to do something big and let's get them off Shopify onto something else."
+    },
+    {
+      "start": 1405.61,
+      "end": 1408.07,
+      "text": "More times than not, they come back to the platform."
+    },
+    {
+      "start": 1408.73,
+      "end": 1411.91,
+      "text": "Kylie went to Magento and didn't work."
+    },
+    {
+      "start": 1411.97,
+      "end": 1414.69,
+      "text": "She couldn't do the flash sales on Magento and came to Shopify."
+    },
+    {
+      "start": 1414.69,
+      "end": 1416.91,
+      "text": "So we see this fairly often."
+    },
+    {
+      "start": 1417.13,
+      "end": 1422.93,
+      "text": "But I would say the reason that people don't is, one, they don't have a full understanding of what the actual platform can do or the capabilities."
+    },
+    {
+      "start": 1423.15,
+      "end": 1424.23,
+      "text": "And by the way, that's not their fault."
+    },
+    {
+      "start": 1424.29,
+      "end": 1424.83,
+      "text": "That's our fault."
+    },
+    {
+      "start": 1424.95,
+      "end": 1432.91,
+      "text": "We have to do a better job of articulating why there are companies building multibillion-dollar long-term businesses entirely in the Shopify stack, first thing."
+    },
+    {
+      "start": 1432.91,
+      "end": 1435.89,
+      "text": "The second thing is there was a period of time – I believe it's over."
+    },
+    {
+      "start": 1436.27,
+      "end": 1443.89,
+      "text": "Both of you would be more familiar with this concept than I would where private equity was getting deeply involved in e-commerce and buying these direct-to-consumer brands."
+    },
+    {
+      "start": 1444.11,
+      "end": 1449.51,
+      "text": "And part of that pitch was like we should think about more enterprise-grade solutions."
+    },
+    {
+      "start": 1449.79,
+      "end": 1454.03,
+      "text": "That's over now because Shopify is enterprise-grade."
+    },
+    {
+      "start": 1454.21,
+      "end": 1456.71,
+      "text": "And if you – I spoke to Andy Dunn about this recently."
+    },
+    {
+      "start": 1456.99,
+      "end": 1460.07,
+      "text": "Andy built two companies, Bonobos, obviously, and then AYR."
+    },
+    {
+      "start": 1460.07,
+      "end": 1464.73,
+      "text": "When Bonobos was built, it was pre-Shopify Plus, and so he built that whole stack himself."
+    },
+    {
+      "start": 1464.97,
+      "end": 1469.41,
+      "text": "When AYR was built, Shopify Plus existed, and he built the entire thing on Shopify Plus."
+    },
+    {
+      "start": 1469.67,
+      "end": 1473.05,
+      "text": "And so some of it was we talked so much about entrepreneurship."
+    },
+    {
+      "start": 1473.05,
+      "end": 1474.63,
+      "text": "We talked so much about small businesses."
+    },
+    {
+      "start": 1474.75,
+      "end": 1486.57,
+      "text": "We are the entrepreneurship company to many people that I think some of these big companies assume, like your point, Nick around, Tom Ford, that we are only for entrepreneurs and smaller entrepreneurs, and that's just not the case."
+    },
+    {
+      "start": 1486.57,
+      "end": 1496.91,
+      "text": "Your favorite brands, for anyone who buys products online, your favorite brands, if it's a great experience and it's not a marketplace, there's a very, very high likelihood it's on Shopify."
+    },
+    {
+      "start": 1497.27,
+      "end": 1503.19,
+      "text": "And we've earned the right, and we will continue to earn the right to get those brands because we keep finding ways to add more value."
+    },
+    {
+      "start": 1503.35,
+      "end": 1509.91,
+      "text": "And it's the reason why Shopify is – like if I was on your show eight years ago, and you said, what does Shopify do?"
+    },
+    {
+      "start": 1509.91,
+      "end": 1511.19,
+      "text": "I'd be like, well, e-commerce."
+    },
+    {
+      "start": 1511.53,
+      "end": 1516.37,
+      "text": "And then seven years ago, I would say, well, we're e-commerce, but we're not just for small business, we're also for larger companies."
+    },
+    {
+      "start": 1516.75,
+      "end": 1519.43,
+      "text": "And six years ago, I would have said, well, we're also for physical retail."
+    },
+    {
+      "start": 1519.89,
+      "end": 1524.61,
+      "text": "And four years ago, I would have said, well, we're also doing this thing called merchant solutions where we'll do payments and capital."
+    },
+    {
+      "start": 1525.03,
+      "end": 1527.81,
+      "text": "And then, you know, two years ago, I'd say, well, we're also doing other stuff."
+    },
+    {
+      "start": 1527.95,
+      "end": 1532.89,
+      "text": "We're doing some fulfillment and shipping as well, and we're also allowing it to cross-sell across a whole bunch of different new channels."
+    },
+    {
+      "start": 1532.89,
+      "end": 1537.37,
+      "text": "And so over time, if you zoom out, in my view, I think it's simple."
+    },
+    {
+      "start": 1537.47,
+      "end": 1539.23,
+      "text": "Shopify is building a retail operating system."
+    },
+    {
+      "start": 1539.49,
+      "end": 1548.17,
+      "text": "But the role that we play in the lives of every different merchant on our platform is unique, which makes it more challenging to explain it in a fortune cookie-type explanation."
+    },
+    {
+      "start": 1548.37,
+      "end": 1550.63,
+      "text": "And I think that creates some confusion in the market."
+    },
+    {
+      "start": 1550.63,
+      "end": 1552.79,
+      "text": "So people think, well, Shopify is only for small businesses."
+    },
+    {
+      "start": 1553.03,
+      "end": 1558.05,
+      "text": "Well, anyone that says it's only for small businesses, like you should look at our top 100 merchants."
+    },
+    {
+      "start": 1558.15,
+      "end": 1560.61,
+      "text": "They are doing – they are, I think, the most important brands in the world."
+    },
+    {
+      "start": 1560.61,
+      "end": 1563.25,
+      "text": "I don't think anybody says Shopify is for small businesses today."
+    },
+    {
+      "start": 1563.41,
+      "end": 1571.65,
+      "text": "I think everyone is like, Shopify can run a billion-dollar top-line business, all direct-to-consumer, all without issue."
+    },
+    {
+      "start": 1571.85,
+      "end": 1578.01,
+      "text": "I don't think anyone would – I think if you believe that or if you think that people would say that, it's because you've been working at Shopify for so long."
+    },
+    {
+      "start": 1578.09,
+      "end": 1578.19,
+      "text": "Good."
+    },
+    {
+      "start": 1578.19,
+      "end": 1581.61,
+      "text": "You remember it was a small business-focused entity."
+    },
+    {
+      "start": 1582.07,
+      "end": 1583.75,
+      "text": "Today, nobody would ever say that."
+    },
+    {
+      "start": 1583.91,
+      "end": 1587.91,
+      "text": "I do think, though, back to your point about people that leave Shopify, it really doesn't happen very often."
+    },
+    {
+      "start": 1587.91,
+      "end": 1594.05,
+      "text": "When it does, there's something there that is usually not around product or around technology or around software."
+    },
+    {
+      "start": 1594.27,
+      "end": 1600.09,
+      "text": "It's often that someone got hired or someone took investment from a company and they have a relationship with somebody else."
+    },
+    {
+      "start": 1600.61,
+      "end": 1600.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 1600.93,
+      "end": 1605.59,
+      "text": "I can tell you the two companies that I mentioned, Away and Ritual, I'm very familiar with them."
+    },
+    {
+      "start": 1605.85,
+      "end": 1611.77,
+      "text": "And I remember when Ritual left, it was several years ago, and it generally was around product."
+    },
+    {
+      "start": 1611.97,
+      "end": 1613.15,
+      "text": "And I'm glad we're going to talk about product."
+    },
+    {
+      "start": 1613.15,
+      "end": 1615.77,
+      "text": "I think what you said was a great segue into product."
+    },
+    {
+      "start": 1616.15,
+      "end": 1621.07,
+      "text": "And as a Shopify user, and Nick is a Shopify user, I think we both felt frustration."
+    },
+    {
+      "start": 1621.59,
+      "end": 1626.65,
+      "text": "Well, let me start by saying first that neither Nick nor I would be where we are today without Shopify."
+    },
+    {
+      "start": 1626.99,
+      "end": 1627.71,
+      "text": "That's a great deal to me."
+    },
+    {
+      "start": 1627.71,
+      "end": 1628.87,
+      "text": "And so when we say this, we come –"
+    },
+    {
+      "start": 1628.87,
+      "end": 1629.27,
+      "text": "No, no, please."
+    },
+    {
+      "start": 1629.43,
+      "end": 1631.69,
+      "text": "When I say this, I come from a place of like –"
+    },
+    {
+      "start": 1631.69,
+      "end": 1632.73,
+      "text": "Love and care and support."
+    },
+    {
+      "start": 1632.91,
+      "end": 1632.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 1633.15,
+      "end": 1633.59,
+      "text": "Lots of love."
+    },
+    {
+      "start": 1633.61,
+      "end": 1634.99,
+      "text": "Toronto is my Mecca."
+    },
+    {
+      "start": 1635.11,
+      "end": 1638.85,
+      "text": "You know, that's where I pray five times a day and not into Saudi Arabia."
+    },
+    {
+      "start": 1638.85,
+      "end": 1645.45,
+      "text": "So I say this from a place of I want to improve the product and not from a place of like what the fuck is going on."
+    },
+    {
+      "start": 1645.71,
+      "end": 1655.09,
+      "text": "But from a place of to the extent that Nick and I represent entrepreneurs and a bunch of direct-to-consumer businesses, frustrations that I think they all feel."
+    },
+    {
+      "start": 1655.09,
+      "end": 1663.19,
+      "text": "And we have a unique audience with somebody who has the power to like, you know – you're basically the president of the United States to us in our community."
+    },
+    {
+      "start": 1663.37,
+      "end": 1663.51,
+      "text": "Wow. Okay."
+    },
+    {
+      "start": 1663.61,
+      "end": 1669.41,
+      "text": "And so you're the one who is able to snap their fingers and make it so that healthcare is free in the United States."
+    },
+    {
+      "start": 1669.51,
+      "end": 1672.53,
+      "text": "And so I'm going to ask you about a bunch of things when it comes to your product."
+    },
+    {
+      "start": 1672.95,
+      "end": 1673.61,
+      "text": "Let's talk about it."
+    },
+    {
+      "start": 1673.61,
+      "end": 1680.07,
+      "text": "Before you do, I mean, one thing that I think is important is that it is easier to build software that does everything for everyone."
+    },
+    {
+      "start": 1680.43,
+      "end": 1688.93,
+      "text": "It is far more difficult to create software that is opinionated to the point where getting started, it's easy, it's simple."
+    },
+    {
+      "start": 1689.17,
+      "end": 1691.37,
+      "text": "It's almost a delight to start a business on Shopify."
+    },
+    {
+      "start": 1691.37,
+      "end": 1703.13,
+      "text": "But that same code base as you scale and you're doing billions of dollars of sales and you need things like cross-border task compliance or some sort of, you know, crazy subscription model, it also works as well."
+    },
+    {
+      "start": 1703.33,
+      "end": 1720.67,
+      "text": "And so part of the challenge that we have – it's the challenge that drives us more than pretty much everything else is how do we make software that is so good for that person that has the idea in the shower but also good enough that American Girl can use or, you know, Spanx can use or any of these –"
+    },
+    {
+      "start": 1720.67,
+      "end": 1722.19,
+      "text": "Rebecca Minkoff can use as well."
+    },
+    {
+      "start": 1723.21,
+      "end": 1725.23,
+      "text": "And that's where it becomes quite challenging."
+    },
+    {
+      "start": 1725.45,
+      "end": 1730.73,
+      "text": "And certain times, you know, we've been pulled into directions whereby merchants want us to do something."
+    },
+    {
+      "start": 1731.43,
+      "end": 1734.53,
+      "text": "And it is not what merchants – most merchants need most of the time."
+    },
+    {
+      "start": 1734.59,
+      "end": 1738.03,
+      "text": "And so we'll say, look, we may create some APIs and let third parties build on top of it."
+    },
+    {
+      "start": 1738.37,
+      "end": 1748.57,
+      "text": "But if you're a merchant who expects or is used to being delivered something on a silver platter as opposed to reading some API documentation, it could be frustrating."
+    },
+    {
+      "start": 1748.75,
+      "end": 1749.89,
+      "text": "And I totally recognize that."
+    },
+    {
+      "start": 1749.89,
+      "end": 1759.53,
+      "text": "And I hope that the solution or the product that we talk about is not the, you know, 5% of people who need things, but it's the 90% of people who are begging for things."
+    },
+    {
+      "start": 1759.83,
+      "end": 1768.59,
+      "text": "And let me start with one of those 90% things, which – and this is not the order that I had it written in, but I want to start with this one because it's the largest problem, I think."
+    },
+    {
+      "start": 1769.11,
+      "end": 1769.81,
+      "text": "Sales tax."
+    },
+    {
+      "start": 1770.13,
+      "end": 1773.63,
+      "text": "You know, I think that Shopify says, hey, you need to start collecting sales tax here."
+    },
+    {
+      "start": 1773.83,
+      "end": 1777.89,
+      "text": "There are two massive platforms that are built on this, Avalara and TaxJar."
+    },
+    {
+      "start": 1777.89,
+      "end": 1780.43,
+      "text": "Are TaxJar is owned by Stripe, which you guys partner with?"
+    },
+    {
+      "start": 1780.91,
+      "end": 1781.67,
+      "text": "But like –"
+    },
+    {
+      "start": 1781.67,
+      "end": 1783.23,
+      "text": "And we partnered with Avalara for a long time too."
+    },
+    {
+      "start": 1783.29,
+      "end": 1783.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 1783.57,
+      "end": 1783.87,
+      "text": "Yeah."
+    },
+    {
+      "start": 1783.91,
+      "end": 1784.25,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 1784.35,
+      "end": 1786.67,
+      "text": "I just meant like the Stripe partnership is deep."
+    },
+    {
+      "start": 1787.61,
+      "end": 1790.87,
+      "text": "Are you guys thinking about doing a sales tax solution or are we on our own for that?"
+    },
+    {
+      "start": 1792.73,
+      "end": 1795.05,
+      "text": "Well, hopefully you're not on your own for anything."
+    },
+    {
+      "start": 1795.27,
+      "end": 1797.79,
+      "text": "But I think sales tax in particular is challenging for a couple reasons."
+    },
+    {
+      "start": 1797.79,
+      "end": 1814.31,
+      "text": "One, in 2022, pretty much every entrepreneur's ambition is to be default global, which means that it's – for every merchant on the platform, their version of sales tax compliance or their version of sales tax remittance is very, very different."
+    },
+    {
+      "start": 1814.57,
+      "end": 1816.07,
+      "text": "But, you know, I read your 10K."
+    },
+    {
+      "start": 1816.29,
+      "end": 1819.27,
+      "text": "55% of your stores are US-based."
+    },
+    {
+      "start": 1819.37,
+      "end": 1819.71,
+      "text": "Yes."
+    },
+    {
+      "start": 1819.83,
+      "end": 1819.95,
+      "text": "Okay."
+    },
+    {
+      "start": 1820.79,
+      "end": 1823.99,
+      "text": "So now that means that the other 45% are not –"
+    },
+    {
+      "start": 1823.99,
+      "end": 1824.11,
+      "text": "Sure."
+    },
+    {
+      "start": 1824.21,
+      "end": 1825.59,
+      "text": "And need a bunch of other things as well."
+    },
+    {
+      "start": 1826.69,
+      "end": 1828.37,
+      "text": "I think on the tax thing, we can do better there."
+    },
+    {
+      "start": 1828.47,
+      "end": 1829.09,
+      "text": "There's no question about it."
+    },
+    {
+      "start": 1829.11,
+      "end": 1832.35,
+      "text": "In fact, one of the reasons I want to come on the show is to actually hear from you."
+    },
+    {
+      "start": 1832.45,
+      "end": 1837.83,
+      "text": "And I know we user-generated a bunch of – like a lot of these questions came from Twitter and stuff."
+    },
+    {
+      "start": 1837.95,
+      "end": 1840.93,
+      "text": "I want to know what people feel are deeply missing."
+    },
+    {
+      "start": 1840.93,
+      "end": 1844.25,
+      "text": "And I also want to feel like there's not going to be an easy solution."
+    },
+    {
+      "start": 1844.35,
+      "end": 1845.05,
+      "text": "Yeah, we're just going to build."
+    },
+    {
+      "start": 1845.15,
+      "end": 1846.05,
+      "text": "It's going to be really, really simple."
+    },
+    {
+      "start": 1846.31,
+      "end": 1853.97,
+      "text": "But partially, like what I want to come back with to the team and say, hey, look, the community of people that really use Shopify that are sort of power users – and I don't mean GMV."
+    },
+    {
+      "start": 1854.07,
+      "end": 1860.41,
+      "text": "I just mean the people that spend most of their time in the admin, in the APIs, in the SDKs, like building stuff on top of Shopify."
+    },
+    {
+      "start": 1860.55,
+      "end": 1861.61,
+      "text": "This is what they want to hear."
+    },
+    {
+      "start": 1861.87,
+      "end": 1866.73,
+      "text": "So sales tax is one that I think is really difficult because depending on the jurisdiction you're in, it's completely different."
+    },
+    {
+      "start": 1867.01,
+      "end": 1870.71,
+      "text": "Sales tax remittance in a place like Germany is very, very complicated."
+    },
+    {
+      "start": 1870.93,
+      "end": 1873.45,
+      "text": "It's a lot simpler in a place like Canada or even the U.S."
+    },
+    {
+      "start": 1873.71,
+      "end": 1874.53,
+      "text": "Can we do a better job there?"
+    },
+    {
+      "start": 1874.65,
+      "end": 1874.87,
+      "text": "Probably."
+    },
+    {
+      "start": 1875.33,
+      "end": 1880.89,
+      "text": "In that case, there are also – if you go to the Shopify app store and you type in taxes, you will see a variety of apps that do a bunch of different things."
+    },
+    {
+      "start": 1881.05,
+      "end": 1881.25,
+      "text": "Yeah."
+    },
+    {
+      "start": 1881.39,
+      "end": 1881.53,
+      "text": "Right."
+    },
+    {
+      "start": 1882.43,
+      "end": 1883.47,
+      "text": "I love Tapcart."
+    },
+    {
+      "start": 1883.63,
+      "end": 1886.27,
+      "text": "Low cost, low effort to manage, and gives you more control."
+    },
+    {
+      "start": 1886.71,
+      "end": 1889.49,
+      "text": "Plug and play means setup takes hours, not weeks."
+    },
+    {
+      "start": 1889.85,
+      "end": 1894.65,
+      "text": "And you'll join a roster of brands on board, including Princess Polly, Figs, and Fashion Nova."
+    },
+    {
+      "start": 1895.13,
+      "end": 1900.37,
+      "text": "On average, merchants are seeing an average 43X ROI and super high conversion rates."
+    },
+    {
+      "start": 1900.93,
+      "end": 1903.39,
+      "text": "Easy and no downside to building your own app."
+    },
+    {
+      "start": 1903.75,
+      "end": 1906.81,
+      "text": "Give your shoppers a seamless and VIP experience on mobile."
+    },
+    {
+      "start": 1906.81,
+      "end": 1911.45,
+      "text": "Start building with their demo plus two months free at tapcart.com slash limited."
+    },
+    {
+      "start": 1913.05,
+      "end": 1914.99,
+      "text": "Let me tell you why I think it's so important."
+    },
+    {
+      "start": 1915.27,
+      "end": 1919.55,
+      "text": "You know, it's easy for brands like Native and it's easy for brands like Allbirds and Figs."
+    },
+    {
+      "start": 1919.83,
+      "end": 1928.07,
+      "text": "And, you know, if I had to guess, I would say that Amazon was like – when the Wayfly was coming out, they're like, go ahead and fuck every entrepreneur and help us build this moat because –"
+    },
+    {
+      "start": 1928.07,
+      "end": 1928.71,
+      "text": "I'm taking notes, by the way."
+    },
+    {
+      "start": 1928.75,
+      "end": 1929.15,
+      "text": "I hope it's okay."
+    },
+    {
+      "start": 1929.31,
+      "end": 1929.75,
+      "text": "Yeah, of course."
+    },
+    {
+      "start": 1929.89,
+      "end": 1937.55,
+      "text": "You know what's great for Amazon is complexity for e-commerce businesses because they can solve it with the trillions of dollars that they have."
+    },
+    {
+      "start": 1937.69,
+      "end": 1944.89,
+      "text": "But it's really – and it's easy for Native because we've got the benefit of P\u0026G and it's easy for Allbirds because they've got the benefit of accountants and lawyers and all that stuff."
+    },
+    {
+      "start": 1944.89,
+      "end": 1948.61,
+      "text": "It's really hard for the 10-person entrepreneur who's like, you know what?"
+    },
+    {
+      "start": 1948.69,
+      "end": 1952.85,
+      "text": "I'm doing $8 million a year with $1 million in EBITDA."
+    },
+    {
+      "start": 1952.97,
+      "end": 1957.91,
+      "text": "The business is growing but, you know, I can't let my, you know, customer service person figure this out."
+    },
+    {
+      "start": 1957.99,
+      "end": 1962.87,
+      "text": "I've got to figure this out and it takes me months to understand what jurisdictions should I be collecting in."
+    },
+    {
+      "start": 1963.17,
+      "end": 1966.95,
+      "text": "Basically, you're arming us with all of the – you know, you're talking about arming the rebels."
+    },
+    {
+      "start": 1967.19,
+      "end": 1971.09,
+      "text": "This is something that we need help in because we've got knives."
+    },
+    {
+      "start": 1971.47,
+      "end": 1974.67,
+      "text": "And, you know, Amazon has made this a war with nuclear weapons."
+    },
+    {
+      "start": 1974.67,
+      "end": 1983.49,
+      "text": "Yeah, so you're suggesting that actually this is sort of where the playing field is not level because bigger companies have an unfair advantage by virtue of the fact that they're part of a large organization."
+    },
+    {
+      "start": 1983.63,
+      "end": 1984.25,
+      "text": "They can afford accountants."
+    },
+    {
+      "start": 1984.67,
+      "end": 1985.65,
+      "text": "That is exactly where we want to go."
+    },
+    {
+      "start": 1985.81,
+      "end": 1993.25,
+      "text": "Now, what I'm not sure about and I need to do some work on this is figure out like why are the things available right now not good enough?"
+    },
+    {
+      "start": 1993.37,
+      "end": 1995.35,
+      "text": "Because there is not just a few apps."
+    },
+    {
+      "start": 1995.39,
+      "end": 1999.47,
+      "text": "There's a lot of apps and a lot of third parties that do this exact thing including TaxJar and Avalara."
+    },
+    {
+      "start": 1999.59,
+      "end": 1999.73,
+      "text": "Yeah."
+    },
+    {
+      "start": 1999.81,
+      "end": 2003.71,
+      "text": "So what is missing that is not available through those particular products?"
+    },
+    {
+      "start": 2003.71,
+      "end": 2009.85,
+      "text": "Yeah, I think understanding like when you should do it because you have a real-time insight into saying, hey, you got to start collecting taxes in this church."
+    },
+    {
+      "start": 2009.93,
+      "end": 2013.07,
+      "text": "Oh, so you're talking about a trigger that says, hey, you are above a threshold."
+    },
+    {
+      "start": 2013.19,
+      "end": 2015.01,
+      "text": "But you have that trigger which nobody else has."
+    },
+    {
+      "start": 2015.07,
+      "end": 2015.21,
+      "text": "Got it."
+    },
+    {
+      "start": 2015.21,
+      "end": 2025.95,
+      "text": "And like, you know, if you're a young entrepreneur who's starting out, you know, if you're 20 years old selling when you're an undergrad at University of Florida, which where I went, you know, you're not like, you know what?"
+    },
+    {
+      "start": 2026.01,
+      "end": 2028.53,
+      "text": "I just crossed the $2,500 threshold."
+    },
+    {
+      "start": 2028.67,
+      "end": 2029.63,
+      "text": "Yeah, that is an important threshold."
+    },
+    {
+      "start": 2029.87,
+      "end": 2030.13,
+      "text": "Fuck!"
+    },
+    {
+      "start": 2031.17,
+      "end": 2036.11,
+      "text": "So there are certain things also that eventually I think just like should get easier."
+    },
+    {
+      "start": 2036.39,
+      "end": 2038.21,
+      "text": "Selling cross-border should get easier."
+    },
+    {
+      "start": 2038.39,
+      "end": 2038.45,
+      "text": "Definitely."
+    },
+    {
+      "start": 2038.45,
+      "end": 2039.25,
+      "text": "We can talk about that a little bit."
+    },
+    {
+      "start": 2039.55,
+      "end": 2042.53,
+      "text": "I think tax, sort of the tax concept should get easier."
+    },
+    {
+      "start": 2042.81,
+      "end": 2046.73,
+      "text": "Remember also why it's even more important for us is that a lot of our merchants are first-time entrepreneurs."
+    },
+    {
+      "start": 2047.05,
+      "end": 2049.81,
+      "text": "And I think for a first-time entrepreneur, it's even more difficult to understand that."
+    },
+    {
+      "start": 2049.81,
+      "end": 2050.19,
+      "text": "Agreed."
+    },
+    {
+      "start": 2050.19,
+      "end": 2051.27,
+      "text": "I'm glad you mentioned that."
+    },
+    {
+      "start": 2051.43,
+      "end": 2051.77,
+      "text": "I have a note."
+    },
+    {
+      "start": 2051.91,
+      "end": 2052.19,
+      "text": "Sales tax."
+    },
+    {
+      "start": 2052.35,
+      "end": 2052.59,
+      "text": "Fantastic."
+    },
+    {
+      "start": 2052.77,
+      "end": 2053.91,
+      "text": "Second one, analytics."
+    },
+    {
+      "start": 2054.91,
+      "end": 2059.67,
+      "text": "Please, for the love of God, create an analytics solution."
+    },
+    {
+      "start": 2059.73,
+      "end": 2061.59,
+      "text": "Which is one of the most liked questions by Jack."
+    },
+    {
+      "start": 2062.37,
+      "end": 2064.03,
+      "text": "You know, I think that –"
+    },
+    {
+      "start": 2065.67,
+      "end": 2070.19,
+      "text": "Wait, let's talk about the repeat rate chart because that fucks a lot of people in my opinion."
+    },
+    {
+      "start": 2070.31,
+      "end": 2070.65,
+      "text": "Tell me about that."
+    },
+    {
+      "start": 2071.03,
+      "end": 2073.53,
+      "text": "So, Moyes, do you want to define what you think repeat rate should be?"
+    },
+    {
+      "start": 2073.53,
+      "end": 2079.31,
+      "text": "You know, like when I hear from entrepreneurs because I invest in a lot of e-commerce businesses, they say, hey, Moyes, it's September."
+    },
+    {
+      "start": 2079.31,
+      "end": 2080.03,
+      "text": "Guess what?"
+    },
+    {
+      "start": 2080.09,
+      "end": 2086.61,
+      "text": "In August, we had $300,000 in revenue and 30% of our customers are repeat customers."
+    },
+    {
+      "start": 2086.89,
+      "end": 2087.81,
+      "text": "And I'm like, that's great."
+    },
+    {
+      "start": 2087.87,
+      "end": 2088.51,
+      "text": "That's good retention."
+    },
+    {
+      "start": 2088.65,
+      "end": 2089.81,
+      "text": "Or they'll say 45%."
+    },
+    {
+      "start": 2089.81,
+      "end": 2091.15,
+      "text": "I'm like, that's amazing retention."
+    },
+    {
+      "start": 2091.63,
+      "end": 2093.93,
+      "text": "And then I dig into the numbers and I'm like, no, no."
+    },
+    {
+      "start": 2094.11,
+      "end": 2099.01,
+      "text": "45% of your revenue from last month was returning customer revenue."
+    },
+    {
+      "start": 2099.51,
+      "end": 2102.39,
+      "text": "Not 45% of your customers come back and repeat."
+    },
+    {
+      "start": 2102.91,
+      "end": 2104.95,
+      "text": "And like, you know, there's no cohort analysis."
+    },
+    {
+      "start": 2105.37,
+      "end": 2108.39,
+      "text": "And you know what I love about – like all the solutions we're trying to provide,"
+    },
+    {
+      "start": 2108.39,
+      "end": 2110.15,
+      "text": "Nick and I are trying to provide are software solutions."
+    },
+    {
+      "start": 2110.29,
+      "end": 2110.41,
+      "text": "Sure, of course."
+    },
+    {
+      "start": 2110.69,
+      "end": 2114.19,
+      "text": "We – like, you know, you guys are a software business and I hope there's a ton of engineers."
+    },
+    {
+      "start": 2114.47,
+      "end": 2117.11,
+      "text": "And Toby wrote this on Rails and you're talking about how important this is."
+    },
+    {
+      "start": 2117.29,
+      "end": 2121.27,
+      "text": "This is a software of like, here's a cohort analysis of when do your customers come back?"
+    },
+    {
+      "start": 2121.43,
+      "end": 2122.95,
+      "text": "And you're suggesting that the existing –"
+    },
+    {
+      "start": 2122.95,
+      "end": 2123.79,
+      "text": "The numbers are wrong."
+    },
+    {
+      "start": 2123.89,
+      "end": 2124.35,
+      "text": "The existing products there –"
+    },
+    {
+      "start": 2124.35,
+      "end": 2125.67,
+      "text": "The calculation is not right."
+    },
+    {
+      "start": 2125.73,
+      "end": 2126.33,
+      "text": "I'm suggesting –"
+    },
+    {
+      "start": 2126.33,
+      "end": 2127.55,
+      "text": "I'm suggesting this is –"
+    },
+    {
+      "start": 2127.55,
+      "end": 2128.21,
+      "text": "This is really cool."
+    },
+    {
+      "start": 2128.27,
+      "end": 2129.55,
+      "text": "This is sort of like getting feedback."
+    },
+    {
+      "start": 2129.75,
+      "end": 2131.29,
+      "text": "This is like a public forum for feedback."
+    },
+    {
+      "start": 2131.41,
+      "end": 2131.87,
+      "text": "This is amazing."
+    },
+    {
+      "start": 2132.03,
+      "end": 2136.15,
+      "text": "Okay, so you're suggesting the numbers are actually wrong on returning customers."
+    },
+    {
+      "start": 2136.31,
+      "end": 2137.19,
+      "text": "I'm not sure that's the case."
+    },
+    {
+      "start": 2137.27,
+      "end": 2138.99,
+      "text": "I mean, I also run a Shopify store myself."
+    },
+    {
+      "start": 2138.99,
+      "end": 2139.91,
+      "text": "No, no, I'm not suggesting –"
+    },
+    {
+      "start": 2139.91,
+      "end": 2140.09,
+      "text": "Yeah."
+    },
+    {
+      "start": 2140.19,
+      "end": 2141.55,
+      "text": "I'm not suggesting that because you're –"
+    },
+    {
+      "start": 2141.55,
+      "end": 2145.45,
+      "text": "I'm just saying what you're defining as returning customers isn't as relevant as the"
+    },
+    {
+      "start": 2145.45,
+      "end": 2146.23,
+      "text": "way we're defining it."
+    },
+    {
+      "start": 2146.25,
+      "end": 2146.45,
+      "text": "Got it."
+    },
+    {
+      "start": 2146.45,
+      "end": 2147.47,
+      "text": "I'm not saying your number is wrong."
+    },
+    {
+      "start": 2147.47,
+      "end": 2151.85,
+      "text": "So what you're suggesting actually is that the modern – like the modern way or the versions"
+    },
+    {
+      "start": 2151.85,
+      "end": 2155.45,
+      "text": "of returning customers, the definition of it, you think needs to actually have"
+    },
+    {
+      "start": 2155.45,
+      "end": 2156.19,
+      "text": "more inputs to it."
+    },
+    {
+      "start": 2156.25,
+      "end": 2158.21,
+      "text": "It's because not everyone defines it the same way."
+    },
+    {
+      "start": 2158.21,
+      "end": 2160.55,
+      "text": "I think that's the case, but I think that's the tip of the iceberg."
+    },
+    {
+      "start": 2160.89,
+      "end": 2163.83,
+      "text": "Like have you seen the new apps that have come out for Shopify analytics?"
+    },
+    {
+      "start": 2164.01,
+      "end": 2164.05,
+      "text": "Yes."
+    },
+    {
+      "start": 2164.33,
+      "end": 2165.17,
+      "text": "Like Triple Whale and NorthBeam?"
+    },
+    {
+      "start": 2165.45,
+      "end": 2166.21,
+      "text": "Have you –"
+    },
+    {
+      "start": 2166.21,
+      "end": 2167.09,
+      "text": "I know Triple Whale."
+    },
+    {
+      "start": 2167.19,
+      "end": 2167.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 2167.83,
+      "end": 2169.21,
+      "text": "And what do you think of those solutions?"
+    },
+    {
+      "start": 2169.43,
+      "end": 2169.83,
+      "text": "They're doing an amazing job."
+    },
+    {
+      "start": 2169.95,
+      "end": 2170.83,
+      "text": "I think Triple Whale is really cool."
+    },
+    {
+      "start": 2171.43,
+      "end": 2176.59,
+      "text": "We've experimented with it for FireBelly, which is my little side hustle that I use myself."
+    },
+    {
+      "start": 2176.69,
+      "end": 2180.39,
+      "text": "By the way, one of the reasons that I started FireBelly Tea was for this exact reason."
+    },
+    {
+      "start": 2180.43,
+      "end": 2180.67,
+      "text": "Yeah, of course."
+    },
+    {
+      "start": 2180.67,
+      "end": 2184.37,
+      "text": "That is one thing for me to actually like be in the company, present the company, talk to the"
+    },
+    {
+      "start": 2184.37,
+      "end": 2186.47,
+      "text": "world about the company, but actually using it as a user."
+    },
+    {
+      "start": 2186.47,
+      "end": 2190.65,
+      "text": "So we are now – we'll get to fulfillment and logistics later on, I'm sure."
+    },
+    {
+      "start": 2190.79,
+      "end": 2194.23,
+      "text": "But one of the reasons that I wanted to do this was I wanted dog food, everything myself."
+    },
+    {
+      "start": 2194.27,
+      "end": 2199.83,
+      "text": "So actually I'm now watching from like literally from factory to the end consumer, the entire"
+    },
+    {
+      "start": 2199.83,
+      "end": 2202.05,
+      "text": "stack of shipping and fulfillment on FireBelly."
+    },
+    {
+      "start": 2202.17,
+      "end": 2206.39,
+      "text": "The only way for me to tell people, hey, that Shopify logistics can be like world-class,"
+    },
+    {
+      "start": 2206.43,
+      "end": 2209.37,
+      "text": "can help you not have to think about it anymore is for me to actually experience it myself."
+    },
+    {
+      "start": 2209.81,
+      "end": 2212.07,
+      "text": "So the analytics side of things, I have not experienced that."
+    },
+    {
+      "start": 2212.07,
+      "end": 2215.81,
+      "text": "I actually find that our analytics does – gives me way more information than I think I"
+    },
+    {
+      "start": 2215.81,
+      "end": 2216.41,
+      "text": "actually need."
+    },
+    {
+      "start": 2216.55,
+      "end": 2220.67,
+      "text": "But what you're suggesting is for some businesses, they actually need a different definition of"
+    },
+    {
+      "start": 2220.67,
+      "end": 2221.01,
+      "text": "what it is."
+    },
+    {
+      "start": 2221.05,
+      "end": 2225.01,
+      "text": "And so if we're determining, hey, this is what returning customer looks like and they're"
+    },
+    {
+      "start": 2225.01,
+      "end": 2227.57,
+      "text": "thinking it's a different definition, that doesn't make it helpful."
+    },
+    {
+      "start": 2227.57,
+      "end": 2228.41,
+      "text": "That's a good piece of feedback."
+    },
+    {
+      "start": 2228.47,
+      "end": 2229.61,
+      "text": "So I guess here's another question."
+    },
+    {
+      "start": 2229.69,
+      "end": 2233.35,
+      "text": "At FireBelly Tea, do you know how many customers from August 2021 have purchased again?"
+    },
+    {
+      "start": 2233.71,
+      "end": 2233.95,
+      "text": "Yes, they do."
+    },
+    {
+      "start": 2233.95,
+      "end": 2234.77,
+      "text": "Like what percentage of customers?"
+    },
+    {
+      "start": 2234.77,
+      "end": 2234.99,
+      "text": "Yes, they do."
+    },
+    {
+      "start": 2235.05,
+      "end": 2236.09,
+      "text": "And you get that through Shopify?"
+    },
+    {
+      "start": 2236.23,
+      "end": 2236.63,
+      "text": "Yes, they did."
+    },
+    {
+      "start": 2236.77,
+      "end": 2237.27,
+      "text": "Okay, gotcha."
+    },
+    {
+      "start": 2237.71,
+      "end": 2237.99,
+      "text": "And then –"
+    },
+    {
+      "start": 2237.99,
+      "end": 2240.19,
+      "text": "I'm not sure what your definition of returning – because I'm basically –"
+    },
+    {
+      "start": 2240.19,
+      "end": 2241.91,
+      "text": "I'm just looking at their email addresses."
+    },
+    {
+      "start": 2242.39,
+      "end": 2246.43,
+      "text": "So one of the things that I pull out and we just put into a spreadsheet is to look at"
+    },
+    {
+      "start": 2246.43,
+      "end": 2248.05,
+      "text": "returning customers for two reasons."
+    },
+    {
+      "start": 2248.19,
+      "end": 2250.43,
+      "text": "One, obviously, those are our best customers."
+    },
+    {
+      "start": 2250.57,
+      "end": 2253.15,
+      "text": "We want to make sure they get early access to stuff and show them the love."
+    },
+    {
+      "start": 2253.29,
+      "end": 2257.77,
+      "text": "But also, in many cases, the cost of customer acquisition was paid a year ago."
+    },
+    {
+      "start": 2257.89,
+      "end": 2259.83,
+      "text": "I'm not actually spending any more money to get them again."
+    },
+    {
+      "start": 2259.99,
+      "end": 2262.07,
+      "text": "Yeah, that's the best part about returning customers."
+    },
+    {
+      "start": 2262.07,
+      "end": 2266.21,
+      "text": "And the best part about running businesses that have returning customers is that."
+    },
+    {
+      "start": 2266.43,
+      "end": 2270.41,
+      "text": "I guess what I'm saying is, let's say 100 people purchased August 2021."
+    },
+    {
+      "start": 2270.65,
+      "end": 2274.43,
+      "text": "You can tell how many people have purchased again – how many of those 100 people have"
+    },
+    {
+      "start": 2274.43,
+      "end": 2277.15,
+      "text": "purchased again using the Shopify Analytics dashboard without exporting."
+    },
+    {
+      "start": 2277.99,
+      "end": 2278.53,
+      "text": "Without anything else."
+    },
+    {
+      "start": 2278.71,
+      "end": 2282.95,
+      "text": "Yeah, because there is literally a section in the admin that says returning customers or"
+    },
+    {
+      "start": 2282.95,
+      "end": 2283.61,
+      "text": "your best customers."
+    },
+    {
+      "start": 2283.75,
+      "end": 2287.79,
+      "text": "But you're suggesting actually that that is missing some input, some variable."
+    },
+    {
+      "start": 2287.89,
+      "end": 2289.25,
+      "text": "Yeah, we'll get into more detail about it."
+    },
+    {
+      "start": 2289.25,
+      "end": 2290.29,
+      "text": "I'll get into more detail about it."
+    },
+    {
+      "start": 2290.67,
+      "end": 2293.13,
+      "text": "But I guess here's – so I think analytics is super helpful."
+    },
+    {
+      "start": 2293.31,
+      "end": 2293.87,
+      "text": "Salesforce, yeah."
+    },
+    {
+      "start": 2294.05,
+      "end": 2297.45,
+      "text": "And I think the reason that Triple Whale and NorthBeam and all the analytics solutions"
+    },
+    {
+      "start": 2297.45,
+      "end": 2303.09,
+      "text": "are on fire as businesses is because people are saying, hey, I'm missing this from a"
+    },
+    {
+      "start": 2303.09,
+      "end": 2303.79,
+      "text": "Shopify perspective."
+    },
+    {
+      "start": 2304.03,
+      "end": 2306.73,
+      "text": "But just to be clear, though, because I know we're not talking about just partnerships"
+    },
+    {
+      "start": 2306.73,
+      "end": 2307.31,
+      "text": "here in general."
+    },
+    {
+      "start": 2307.47,
+      "end": 2311.89,
+      "text": "But one of the things I do want to point out is that that actually is functioning kind of"
+    },
+    {
+      "start": 2311.89,
+      "end": 2316.91,
+      "text": "the way we want it to, which is that we want to create software where it pretty much"
+    },
+    {
+      "start": 2316.91,
+      "end": 2319.89,
+      "text": "gives most people most of the time everything they need."
+    },
+    {
+      "start": 2320.23,
+      "end": 2324.49,
+      "text": "For more of the power users or more of the pro users or more of the plus users or whatever"
+    },
+    {
+      "start": 2324.49,
+      "end": 2327.93,
+      "text": "you want to call them, shop 80% of what you need you get out of the box."
+    },
+    {
+      "start": 2327.93,
+      "end": 2328.63,
+      "text": "It's world class."
+    },
+    {
+      "start": 2328.95,
+      "end": 2334.41,
+      "text": "I mean, that's everything from all the stuff that like the storefront, that's inventory,"
+    },
+    {
+      "start": 2334.65,
+      "end": 2335.79,
+      "text": "that's the way you do checkout."
+    },
+    {
+      "start": 2335.97,
+      "end": 2337.65,
+      "text": "That is the stuff that really, really matters."
+    },
+    {
+      "start": 2338.47,
+      "end": 2341.79,
+      "text": "That last 20% is going to be very unique to every particular business."
+    },
+    {
+      "start": 2341.79,
+      "end": 2346.57,
+      "text": "And actually, not only do we want to encourage third parties to build on it, we love that"
+    },
+    {
+      "start": 2346.57,
+      "end": 2347.67,
+      "text": "those third parties do."
+    },
+    {
+      "start": 2347.85,
+      "end": 2348.05,
+      "text": "Of course."
+    },
+    {
+      "start": 2348.11,
+      "end": 2353.33,
+      "text": "In 2021, Shopify did approximately, I don't know, $5 billion in revenue."
+    },
+    {
+      "start": 2353.69,
+      "end": 2356.51,
+      "text": "Our partners did $32 billion in revenue."
+    },
+    {
+      "start": 2356.83,
+      "end": 2359.63,
+      "text": "Our partner ecosystem employs something in the neighborhood."
+    },
+    {
+      "start": 2359.71,
+      "end": 2361.13,
+      "text": "I actually wrote this down because it's such an amazing number."
+    },
+    {
+      "start": 2361.45,
+      "end": 2364.87,
+      "text": "Something in the neighborhood of 650,000 people in the Shopify ecosystem."
+    },
+    {
+      "start": 2365.13,
+      "end": 2370.57,
+      "text": "In many ways, now, that being said, if there are deficiencies in the product, we obviously"
+    },
+    {
+      "start": 2370.57,
+      "end": 2371.65,
+      "text": "want to fix those things too."
+    },
+    {
+      "start": 2371.87,
+      "end": 2376.45,
+      "text": "But what you're describing, Moise, is that ultimately, I want to have partners build on"
+    },
+    {
+      "start": 2376.45,
+      "end": 2379.63,
+      "text": "top of the platform because it extends the platform."
+    },
+    {
+      "start": 2379.73,
+      "end": 2382.71,
+      "text": "And it means that every single person has 100% product market fit."
+    },
+    {
+      "start": 2383.03,
+      "end": 2388.09,
+      "text": "Now, sometimes, and maybe we'll get to this also, there's something that a third party"
+    },
+    {
+      "start": 2388.09,
+      "end": 2392.87,
+      "text": "has built for us that actually, because it's a dynamic definition of what most merchants"
+    },
+    {
+      "start": 2392.87,
+      "end": 2393.49,
+      "text": "need most of the time."
+    },
+    {
+      "start": 2393.63,
+      "end": 2396.05,
+      "text": "It becomes something that actually should be built into core."
+    },
+    {
+      "start": 2396.15,
+      "end": 2397.73,
+      "text": "And then we will begin to build."
+    },
+    {
+      "start": 2397.73,
+      "end": 2400.85,
+      "text": "I mean, Shopify email, for example, is a good example of that."
+    },
+    {
+      "start": 2400.93,
+      "end": 2404.47,
+      "text": "For a long time, we relied entirely on third party for email marketing."
+    },
+    {
+      "start": 2404.75,
+      "end": 2408.25,
+      "text": "And there was a particular point where we realized there are some staples of email marketing that"
+    },
+    {
+      "start": 2408.25,
+      "end": 2409.31,
+      "text": "everyone wants to use."
+    },
+    {
+      "start": 2409.41,
+      "end": 2410.55,
+      "text": "And so we built Shopify email."
+    },
+    {
+      "start": 2410.79,
+      "end": 2413.91,
+      "text": "There's still lots of space in the email marketing world for Klaviyos and tons of other"
+    },
+    {
+      "start": 2413.91,
+      "end": 2414.83,
+      "text": "companies to build on top of."
+    },
+    {
+      "start": 2414.95,
+      "end": 2416.53,
+      "text": "But we have to do that really, really well."
+    },
+    {
+      "start": 2416.67,
+      "end": 2420.67,
+      "text": "In the case of analytics, maybe that falls into the category as well."
+    },
+    {
+      "start": 2420.81,
+      "end": 2425.27,
+      "text": "But someone building, like triple whale building on top of Shopify is actually how it's intended."
+    },
+    {
+      "start": 2425.67,
+      "end": 2426.95,
+      "text": "I couldn't agree more with that."
+    },
+    {
+      "start": 2427.11,
+      "end": 2429.29,
+      "text": "And I guess, when is that, Mark?"
+    },
+    {
+      "start": 2429.53,
+      "end": 2431.05,
+      "text": "Like, when do you think?"
+    },
+    {
+      "start": 2431.37,
+      "end": 2435.85,
+      "text": "One question I have is like, so you know that like the First Amendment in the US is like,"
+    },
+    {
+      "start": 2435.95,
+      "end": 2438.93,
+      "text": "you have freedom of speech until it imposes on somebody else's freedom of speech."
+    },
+    {
+      "start": 2439.47,
+      "end": 2442.87,
+      "text": "And I think where Moyes is going to is like, where's the limit for that?"
+    },
+    {
+      "start": 2442.97,
+      "end": 2447.85,
+      "text": "For example, with Recharge, they provide subscription, they charge a monthly fee, and then they charge"
+    },
+    {
+      "start": 2447.85,
+      "end": 2449.07,
+      "text": "a per transaction fee."
+    },
+    {
+      "start": 2449.07,
+      "end": 2454.39,
+      "text": "Like, where's the limit until where Shopify says, okay, if there's 10,000 merchants paying"
+    },
+    {
+      "start": 2454.39,
+      "end": 2460.79,
+      "text": "500 bucks a month and 20 cents for every transaction and 1% for every transaction, that's not arming"
+    },
+    {
+      "start": 2460.79,
+      "end": 2461.83,
+      "text": "the rebels in my opinion."
+    },
+    {
+      "start": 2462.29,
+      "end": 2462.97,
+      "text": "What do you think?"
+    },
+    {
+      "start": 2463.21,
+      "end": 2465.39,
+      "text": "Okay, so subscriptions is a good example."
+    },
+    {
+      "start": 2465.55,
+      "end": 2467.67,
+      "text": "In 2020, we announced our subscriptions API."
+    },
+    {
+      "start": 2467.95,
+      "end": 2472.81,
+      "text": "I think it was at, or it was reunited sort of in the middle of COVID or at the onset of COVID."
+    },
+    {
+      "start": 2473.23,
+      "end": 2478.87,
+      "text": "But today, sitting here in September 2022, there are, I think, like a dozen subscription"
+    },
+    {
+      "start": 2478.87,
+      "end": 2479.59,
+      "text": "apps built on top."
+    },
+    {
+      "start": 2479.79,
+      "end": 2483.27,
+      "text": "Now, I won't necessarily speak to all the price amount of all of them, because I'm not"
+    },
+    {
+      "start": 2483.27,
+      "end": 2484.53,
+      "text": "aware of how everyone prices."
+    },
+    {
+      "start": 2484.89,
+      "end": 2491.33,
+      "text": "But fundamentally, that's kind of the idea, is that we have this incredible place, platform,"
+    },
+    {
+      "start": 2491.53,
+      "end": 2494.49,
+      "text": "API, whatever you want to call it, where these third parties can come and build on top"
+    },
+    {
+      "start": 2494.49,
+      "end": 2494.67,
+      "text": "of."
+    },
+    {
+      "start": 2494.81,
+      "end": 2497.19,
+      "text": "And you may not want to use one of them because it's too expensive for you."
+    },
+    {
+      "start": 2497.27,
+      "end": 2501.03,
+      "text": "But maybe there's a piece of functionality in that particular example you just gave that"
+    },
+    {
+      "start": 2501.03,
+      "end": 2505.09,
+      "text": "some merchants really, really want, and they're willing to pay for it."
+    },
+    {
+      "start": 2505.27,
+      "end": 2508.23,
+      "text": "In other cases, other merchants may say, that is way too expensive."
+    },
+    {
+      "start": 2508.43,
+      "end": 2512.03,
+      "text": "Either I'm going to build some sort of private app for myself, or I'm going to find an app"
+    },
+    {
+      "start": 2512.03,
+      "end": 2512.91,
+      "text": "that is less expensive."
+    },
+    {
+      "start": 2513.07,
+      "end": 2518.57,
+      "text": "But providing that variety and optionality in the app ecosystem is how it's designed to"
+    },
+    {
+      "start": 2518.57,
+      "end": 2518.89,
+      "text": "operate."
+    },
+    {
+      "start": 2519.11,
+      "end": 2522.01,
+      "text": "Now, to answer your question directly, there is a threshold."
+    },
+    {
+      "start": 2522.29,
+      "end": 2523.55,
+      "text": "You know, I mentioned email marketing before."
+    },
+    {
+      "start": 2523.69,
+      "end": 2529.09,
+      "text": "Email marketing is a good example of that, because the threshold was most merchants most of"
+    },
+    {
+      "start": 2529.09,
+      "end": 2531.83,
+      "text": "the time needed basic functionality around email marketing."
+    },
+    {
+      "start": 2532.09,
+      "end": 2535.61,
+      "text": "That was the threshold for us to say, let's start building it."
+    },
+    {
+      "start": 2536.15,
+      "end": 2538.49,
+      "text": "And prior to that, we just weren't seeing that as much."
+    },
+    {
+      "start": 2538.55,
+      "end": 2540.67,
+      "text": "It just wasn't as prevalent, so we relied on third parties."
+    },
+    {
+      "start": 2540.83,
+      "end": 2545.85,
+      "text": "But even in the case of email marketing, we still left so much room and so much space in"
+    },
+    {
+      "start": 2545.85,
+      "end": 2547.15,
+      "text": "the ecosystem for third parties."
+    },
+    {
+      "start": 2547.35,
+      "end": 2550.41,
+      "text": "Like, all these email marketing companies are still doing very, very well."
+    },
+    {
+      "start": 2550.51,
+      "end": 2551.71,
+      "text": "That is very much intentional."
+    },
+    {
+      "start": 2551.93,
+      "end": 2556.23,
+      "text": "So the threshold is, it's not necessarily a particular number or a particular percentage"
+    },
+    {
+      "start": 2556.23,
+      "end": 2556.79,
+      "text": "of merchants."
+    },
+    {
+      "start": 2556.79,
+      "end": 2558.81,
+      "text": "It's just, we have a really good feedback."
+    },
+    {
+      "start": 2558.95,
+      "end": 2563.65,
+      "text": "The reason, like, I come on these podcasts and I speak to both of you regularly on Twitters,"
+    },
+    {
+      "start": 2563.83,
+      "end": 2567.97,
+      "text": "I think we have a really good feedback cycle, more so than most companies we actually listen."
+    },
+    {
+      "start": 2568.21,
+      "end": 2572.79,
+      "text": "And you can sort of tell both from analytics and data, but also anecdotally, okay, this"
+    },
+    {
+      "start": 2572.79,
+      "end": 2574.15,
+      "text": "has now jumped the threshold."
+    },
+    {
+      "start": 2574.31,
+      "end": 2575.69,
+      "text": "It is now something we have to build ourselves."
+    },
+    {
+      "start": 2575.89,
+      "end": 2576.13,
+      "text": "Got it."
+    },
+    {
+      "start": 2576.27,
+      "end": 2579.01,
+      "text": "I'll tell you from my perspective, and I think from a lot of e-commerce perspective,"
+    },
+    {
+      "start": 2579.19,
+      "end": 2580.15,
+      "text": "first, that's fantastic."
+    },
+    {
+      "start": 2580.39,
+      "end": 2583.27,
+      "text": "I'm glad that you're listening to consumers like that and merchants like that."
+    },
+    {
+      "start": 2583.39,
+      "end": 2583.87,
+      "text": "That's amazing."
+    },
+    {
+      "start": 2583.87,
+      "end": 2586.45,
+      "text": "Um, and we really appreciate it."
+    },
+    {
+      "start": 2586.51,
+      "end": 2592.75,
+      "text": "Uh, but I would say that you're probably 18 months to two years too late for most merchants"
+    },
+    {
+      "start": 2592.75,
+      "end": 2594.43,
+      "text": "who have those hair on fire problems."
+    },
+    {
+      "start": 2594.49,
+      "end": 2598.69,
+      "text": "Like the subscription app platform, uh, when you open up the subscriptions, that was amazing."
+    },
+    {
+      "start": 2598.93,
+      "end": 2600.79,
+      "text": "There are a bunch of different competitors now."
+    },
+    {
+      "start": 2600.97,
+      "end": 2604.05,
+      "text": "I think everyone would love Shopify to build their own."
+    },
+    {
+      "start": 2604.05,
+      "end": 2607.57,
+      "text": "And I'm not, you know, when I, um, how long, when was the first iPhone you bought?"
+    },
+    {
+      "start": 2608.23,
+      "end": 2608.85,
+      "text": "Oh, I don't know."
+    },
+    {
+      "start": 2608.91,
+      "end": 2609.55,
+      "text": "Probably 2011."
+    },
+    {
+      "start": 2609.77,
+      "end": 2610.91,
+      "text": "Do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I, do I,"
+    },
+    {
+      "start": 2610.91,
+      "end": 2612.13,
+      "text": "I bought the first one that came out."
+    },
+    {
+      "start": 2612.27,
+      "end": 2615.91,
+      "text": "I remember waiting in line and paying like, you know, Steve Jobs announced it and I went"
+    },
+    {
+      "start": 2615.91,
+      "end": 2616.31,
+      "text": "and got it."
+    },
+    {
+      "start": 2616.43,
+      "end": 2617.43,
+      "text": "I'd like, it's like 07, I think."
+    },
+    {
+      "start": 2617.51,
+      "end": 2617.67,
+      "text": "Yeah."
+    },
+    {
+      "start": 2617.77,
+      "end": 2618.97,
+      "text": "I think it was 06."
+    },
+    {
+      "start": 2619.17,
+      "end": 2619.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 2619.35,
+      "end": 2620.15,
+      "text": "It was so much money."
+    },
+    {
+      "start": 2620.35,
+      "end": 2623.85,
+      "text": "And at that time you had to download an app for 99 cents or a couple of years later to"
+    },
+    {
+      "start": 2623.85,
+      "end": 2624.51,
+      "text": "have a flashlight."
+    },
+    {
+      "start": 2624.91,
+      "end": 2629.45,
+      "text": "And today there's a, all those flashlight apps are dead and the flashlight works and it's"
+    },
+    {
+      "start": 2629.45,
+      "end": 2630.85,
+      "text": "natively integrated into the iPhone."
+    },
+    {
+      "start": 2631.23,
+      "end": 2633.93,
+      "text": "And I think no one blames Apple for natively integrating."
+    },
+    {
+      "start": 2633.95,
+      "end": 2634.63,
+      "text": "No, I agree with that."
+    },
+    {
+      "start": 2634.73,
+      "end": 2637.81,
+      "text": "Actually, although you're, that's a really good example, which is that I had a flashlight"
+    },
+    {
+      "start": 2637.81,
+      "end": 2638.07,
+      "text": "app."
+    },
+    {
+      "start": 2638.17,
+      "end": 2640.97,
+      "text": "In fact, I had a flashlight app that did a strobe light cause I used to DJ."
+    },
+    {
+      "start": 2641.17,
+      "end": 2643.35,
+      "text": "And so when I had to have house parties, I'd actually use it."
+    },
+    {
+      "start": 2643.85,
+      "end": 2647.55,
+      "text": "Um, I actually wish there were still some flashlight apps for different use cases."
+    },
+    {
+      "start": 2647.57,
+      "end": 2651.11,
+      "text": "Like I would love one that actually somehow figured out a way to change color or provided,"
+    },
+    {
+      "start": 2651.13,
+      "end": 2654.75,
+      "text": "um, I have a six year old and she, there's a really great book that we read together"
+    },
+    {
+      "start": 2654.75,
+      "end": 2657.77,
+      "text": "whereby I attach like a viewfinder on my flashlight."
+    },
+    {
+      "start": 2658.11,
+      "end": 2659.19,
+      "text": "Uh, have you seen these sorts of things?"
+    },
+    {
+      "start": 2659.19,
+      "end": 2661.49,
+      "text": "They sort of clip on and you sort of present something on the ceiling."
+    },
+    {
+      "start": 2661.81,
+      "end": 2662.51,
+      "text": "It's really, really cool."
+    },
+    {
+      "start": 2662.67,
+      "end": 2667.19,
+      "text": "But actually those require different types of like flashlights and different strobing,"
+    },
+    {
+      "start": 2667.39,
+      "end": 2670.09,
+      "text": "which is totally possible with the hardware doesn't exist anymore."
+    },
+    {
+      "start": 2670.35,
+      "end": 2674.41,
+      "text": "So actually in that, in that particular case, and the flashlight is, is an obvious one"
+    },
+    {
+      "start": 2674.41,
+      "end": 2677.33,
+      "text": "because like most people like don't really need anything beyond that."
+    },
+    {
+      "start": 2677.71,
+      "end": 2682.89,
+      "text": "But the email marketing thing is perfect because what you really want that, that, you know,"
+    },
+    {
+      "start": 2682.95,
+      "end": 2686.19,
+      "text": "to use your metaphor of the flashlight, the flashlight is built into Shopify."
+    },
+    {
+      "start": 2686.53,
+      "end": 2689.99,
+      "text": "But if you want to do some other things that are completely different, or you want to do"
+    },
+    {
+      "start": 2689.99,
+      "end": 2694.81,
+      "text": "batch emails, or you want to do some sort of segmented discounting, you can do that on"
+    },
+    {
+      "start": 2694.81,
+      "end": 2695.15,
+      "text": "Shopify."
+    },
+    {
+      "start": 2695.15,
+      "end": 2697.43,
+      "text": "And I'm not sure most merchants need that most of the time."
+    },
+    {
+      "start": 2697.69,
+      "end": 2701.53,
+      "text": "And the risk of it is that fundamentally, if we build everything into the, to the core"
+    },
+    {
+      "start": 2701.53,
+      "end": 2707.03,
+      "text": "product, Shopify becomes so complicated that you don't have like, I don't know this for"
+    },
+    {
+      "start": 2707.03,
+      "end": 2708.27,
+      "text": "a fact, but I'm just going to say this."
+    },
+    {
+      "start": 2708.77,
+      "end": 2712.39,
+      "text": "I'll say this now and, and, and someone could, you know, John Donahoe or someone from Nike"
+    },
+    {
+      "start": 2712.39,
+      "end": 2713.03,
+      "text": "can correct me."
+    },
+    {
+      "start": 2713.27,
+      "end": 2719.77,
+      "text": "I suspect at some point in a Nike board meeting, someone brought up Gymshark at some point,"
+    },
+    {
+      "start": 2720.05,
+      "end": 2721.31,
+      "text": "maybe it was a story comment, right?"
+    },
+    {
+      "start": 2721.91,
+      "end": 2722.13,
+      "text": "Okay."
+    },
+    {
+      "start": 2722.39,
+      "end": 2726.69,
+      "text": "That is a company that did not exist a decade ago that is now being brought up as a potential"
+    },
+    {
+      "start": 2726.69,
+      "end": 2728.59,
+      "text": "threat in a Nike board meeting."
+    },
+    {
+      "start": 2728.83,
+      "end": 2734.11,
+      "text": "The reason that Ben and Noel and that team was able to build Gymshark is not, not because"
+    },
+    {
+      "start": 2734.11,
+      "end": 2737.59,
+      "text": "of Shopify, but what Shopify enabled, they, they built it because they're really good"
+    },
+    {
+      "start": 2738.27,
+      "end": 2742.57,
+      "text": "but Shopify enabled was at the right time, we delivered the right product to them and we"
+    },
+    {
+      "start": 2742.57,
+      "end": 2743.35,
+      "text": "didn't confuse them."
+    },
+    {
+      "start": 2743.57,
+      "end": 2744.41,
+      "text": "We didn't overwhelm them."
+    },
+    {
+      "start": 2744.53,
+      "end": 2746.07,
+      "text": "We didn't create this sort of paradox of choice."
+    },
+    {
+      "start": 2746.09,
+      "end": 2747.53,
+      "text": "We said, this is what you need now."
+    },
+    {
+      "start": 2747.71,
+      "end": 2748.43,
+      "text": "This is what you need now."
+    },
+    {
+      "start": 2748.53,
+      "end": 2749.13,
+      "text": "And this is what you need now."
+    },
+    {
+      "start": 2749.37,
+      "end": 2753.09,
+      "text": "And eventually they got to a scale like you have, both of you have where you guys want"
+    },
+    {
+      "start": 2753.09,
+      "end": 2754.03,
+      "text": "full flexibility."
+    },
+    {
+      "start": 2754.25,
+      "end": 2758.23,
+      "text": "And the reason you're seeing us do things like Shopify functions and things like headless,"
+    },
+    {
+      "start": 2758.33,
+      "end": 2762.89,
+      "text": "like oxygen and hydrogen is because fundamental, we know that there are now users who want"
+    },
+    {
+      "start": 2762.89,
+      "end": 2767.29,
+      "text": "full flexibility, but most merchants, you know, every 60 seconds or so a brand new"
+    },
+    {
+      "start": 2767.29,
+      "end": 2768.59,
+      "text": "entrepreneur gets their very first sale."
+    },
+    {
+      "start": 2768.87,
+      "end": 2773.21,
+      "text": "And the key to, I think the Shopify story is that we make it really easy to get started."
+    },
+    {
+      "start": 2773.25,
+      "end": 2776.61,
+      "text": "So we make the important things incredibly easy, but everything else possible."
+    },
+    {
+      "start": 2777.21,
+      "end": 2780.69,
+      "text": "Sometimes that everything else possible means you do have to build some stuff yourself."
+    },
+    {
+      "start": 2780.89,
+      "end": 2785.33,
+      "text": "You have to do some research on third-party apps, but that's, that allows us to be the"
+    },
+    {
+      "start": 2785.33,
+      "end": 2787.97,
+      "text": "best place to get started and the best place to scale."
+    },
+    {
+      "start": 2788.43,
+      "end": 2789.61,
+      "text": "I think that's great."
+    },
+    {
+      "start": 2789.89,
+      "end": 2793.37,
+      "text": "And I have your notes here, like analytics and sales tracks."
+    },
+    {
+      "start": 2793.57,
+      "end": 2796.35,
+      "text": "Like I will, like, this is something I will go back to the team about because this"
+    },
+    {
+      "start": 2796.35,
+      "end": 2798.25,
+      "text": "is the type of feedback we need, but just, you know-"
+    },
+    {
+      "start": 2798.25,
+      "end": 2799.59,
+      "text": "University of Ottawa is a very good law school."
+    },
+    {
+      "start": 2800.25,
+      "end": 2807.19,
+      "text": "Maybe, but there is, thank you for saying that, but there is truly value in having this"
+    },
+    {
+      "start": 2807.19,
+      "end": 2810.45,
+      "text": "ability to stretch up market, not necessarily shift up market."
+    },
+    {
+      "start": 2810.65,
+      "end": 2815.83,
+      "text": "If you look at every other platform that saw sort of the up market as being incredibly valuable,"
+    },
+    {
+      "start": 2815.89,
+      "end": 2819.37,
+      "text": "which it is, and has shifted, they missed out on the most important thing, which is where"
+    },
+    {
+      "start": 2819.37,
+      "end": 2820.05,
+      "text": "do people get started?"
+    },
+    {
+      "start": 2820.33,
+      "end": 2821.61,
+      "text": "I couldn't agree more with that."
+    },
+    {
+      "start": 2821.61,
+      "end": 2826.45,
+      "text": "And I guess the way I'm trying to think about it is what are, uh, what is you like, what"
+    },
+    {
+      "start": 2826.45,
+      "end": 2827.45,
+      "text": "is universally needed?"
+    },
+    {
+      "start": 2827.63,
+      "end": 2829.45,
+      "text": "I'm talking about universality and-"
+    },
+    {
+      "start": 2829.45,
+      "end": 2830.71,
+      "text": "Checkout is universality, right?"
+    },
+    {
+      "start": 2830.81,
+      "end": 2831.37,
+      "text": "Yeah, checkout is universality."
+    },
+    {
+      "start": 2831.37,
+      "end": 2834.23,
+      "text": "You're going to have the most beautiful storefront is universally important."
+    },
+    {
+      "start": 2834.59,
+      "end": 2839.39,
+      "text": "The, the, the fact you have to have a fast, uh, online store that operates quickly, that's"
+    },
+    {
+      "start": 2839.39,
+      "end": 2844.81,
+      "text": "universal, but sales taxes in America, one is not universal because a lot of people have"
+    },
+    {
+      "start": 2844.81,
+      "end": 2845.85,
+      "text": "third parties helping with it."
+    },
+    {
+      "start": 2846.05,
+      "end": 2848.15,
+      "text": "Uh, in other cases they're below the threshold."
+    },
+    {
+      "start": 2848.15,
+      "end": 2851.91,
+      "text": "In other cases, they're not selling in the U S so that is not universal, but it should"
+    },
+    {
+      "start": 2851.91,
+      "end": 2852.51,
+      "text": "be made easier."
+    },
+    {
+      "start": 2852.69,
+      "end": 2853.69,
+      "text": "And so point taken."
+    },
+    {
+      "start": 2853.83,
+      "end": 2853.95,
+      "text": "Okay."
+    },
+    {
+      "start": 2854.11,
+      "end": 2858.89,
+      "text": "I think analytics is somewhat universal and I'll tell you why it's not necessarily because"
+    },
+    {
+      "start": 2858.89,
+      "end": 2861.33,
+      "text": "these people don't really like the solutions are not available."
+    },
+    {
+      "start": 2861.41,
+      "end": 2862.51,
+      "text": "Triple will is available."
+    },
+    {
+      "start": 2862.71,
+      "end": 2865.61,
+      "text": "And, and, and, and by the way, a bunch of other people just dump all their analytics"
+    },
+    {
+      "start": 2865.61,
+      "end": 2868.85,
+      "text": "into like a tap, like something else anyways, and they want to do it themselves too."
+    },
+    {
+      "start": 2869.11,
+      "end": 2873.51,
+      "text": "But, but, but it should be, the analytics should be like so good that you shouldn't have"
+    },
+    {
+      "start": 2873.51,
+      "end": 2876.01,
+      "text": "to use anything else until you get to a particular point."
+    },
+    {
+      "start": 2876.01,
+      "end": 2881.45,
+      "text": "I think we're really where I'm coming from is, um, you know, the way I built native was"
+    },
+    {
+      "start": 2881.45,
+      "end": 2884.65,
+      "text": "I would constantly go to better websites and be like, what are these guys doing?"
+    },
+    {
+      "start": 2884.75,
+      "end": 2885.49,
+      "text": "Cause they're spending money."
+    },
+    {
+      "start": 2885.65,
+      "end": 2885.67,
+      "text": "Sure."
+    },
+    {
+      "start": 2885.97,
+      "end": 2889.81,
+      "text": "And, uh, what, what, like, how do I, um, do the same conversion rate optimization?"
+    },
+    {
+      "start": 2890.03,
+      "end": 2890.09,
+      "text": "That's right."
+    },
+    {
+      "start": 2890.23,
+      "end": 2892.31,
+      "text": "How do I understand the analytics that they're talking about?"
+    },
+    {
+      "start": 2892.59,
+      "end": 2896.31,
+      "text": "And I think, uh, that, that was easier for me because we had some investors who were"
+    },
+    {
+      "start": 2896.31,
+      "end": 2900.11,
+      "text": "based in San Francisco and surrounded by a bunch of other entrepreneurs, but it's more"
+    },
+    {
+      "start": 2900.11,
+      "end": 2904.55,
+      "text": "difficult for the, uh, guy who runs a Shopify store in Omaha, Nebraska."
+    },
+    {
+      "start": 2904.55,
+      "end": 2906.09,
+      "text": "And he says analytics."
+    },
+    {
+      "start": 2906.53,
+      "end": 2908.91,
+      "text": "I didn't know that this was, you don't know what you don't know."
+    },
+    {
+      "start": 2909.03,
+      "end": 2910.93,
+      "text": "And I didn't know these analytics were important."
+    },
+    {
+      "start": 2911.17,
+      "end": 2915.83,
+      "text": "I didn't know that I should email my customers 120 days after they purchase because they're"
+    },
+    {
+      "start": 2915.83,
+      "end": 2917.91,
+      "text": "most likely to place a second purchase then."
+    },
+    {
+      "start": 2918.05,
+      "end": 2918.17,
+      "text": "Yes."
+    },
+    {
+      "start": 2918.39,
+      "end": 2921.15,
+      "text": "But, but that's just starting to interrupt you, but, but that is the reason why in"
+    },
+    {
+      "start": 2921.15,
+      "end": 2926.65,
+      "text": "your admin, you see this beautiful block that says, these are your best customers."
+    },
+    {
+      "start": 2926.83,
+      "end": 2927.67,
+      "text": "You should send them an email."
+    },
+    {
+      "start": 2927.97,
+      "end": 2931.99,
+      "text": "Now that doesn't necessarily work when you're at a particular skill because now you have thousands"
+    },
+    {
+      "start": 2931.99,
+      "end": 2936.15,
+      "text": "of best customers and stuff like that also, but that entry, that gateway into entrepreneurship,"
+    },
+    {
+      "start": 2936.15,
+      "end": 2937.49,
+      "text": "we're trying to make it really easy."
+    },
+    {
+      "start": 2937.75,
+      "end": 2939.67,
+      "text": "But I think you guys have done a fantastic job with that."
+    },
+    {
+      "start": 2939.71,
+      "end": 2940.91,
+      "text": "I'm not trying to say you haven't done that."
+    },
+    {
+      "start": 2940.91,
+      "end": 2941.17,
+      "text": "It has to scale better."
+    },
+    {
+      "start": 2941.41,
+      "end": 2941.57,
+      "text": "Yeah."
+    },
+    {
+      "start": 2941.63,
+      "end": 2945.57,
+      "text": "I'm trying to say that you look that, uh, the bottom, the person who has an idea in"
+    },
+    {
+      "start": 2945.57,
+      "end": 2949.17,
+      "text": "their shower comes to Shopify and is incredibly happy with Shopify."
+    },
+    {
+      "start": 2949.59,
+      "end": 2952.53,
+      "text": "Uh, and I'm not trying to say that you're not servicing them."
+    },
+    {
+      "start": 2952.71,
+      "end": 2955.41,
+      "text": "You're servicing them better than they could have ever imagined."
+    },
+    {
+      "start": 2955.43,
+      "end": 2957.51,
+      "text": "Like they're going to get out of the shower and be like, holy cow."
+    },
+    {
+      "start": 2957.51,
+      "end": 2958.17,
+      "text": "I did not realize."
+    },
+    {
+      "start": 2958.43,
+      "end": 2958.71,
+      "text": "Can we do better?"
+    },
+    {
+      "start": 2959.07,
+      "end": 2960.01,
+      "text": "We absolutely can do better."
+    },
+    {
+      "start": 2960.07,
+      "end": 2963.63,
+      "text": "I think once they start scaling a little bit, they're like, wow, there's, I don't know what"
+    },
+    {
+      "start": 2963.63,
+      "end": 2964.07,
+      "text": "I don't know."
+    },
+    {
+      "start": 2964.17,
+      "end": 2965.75,
+      "text": "And here, like, I'll give you one more example."
+    },
+    {
+      "start": 2966.09,
+      "end": 2971.75,
+      "text": "Um, when native, uh, launched, we were on WooCommerce and, uh, we created, why did you"
+    },
+    {
+      "start": 2971.75,
+      "end": 2972.41,
+      "text": "decide WooCommerce?"
+    },
+    {
+      "start": 2972.77,
+      "end": 2974.05,
+      "text": "Um, a couple of reasons."
+    },
+    {
+      "start": 2974.25,
+      "end": 2974.95,
+      "text": "One, it was free."
+    },
+    {
+      "start": 2975.25,
+      "end": 2977.15,
+      "text": "Uh, and two, it was more customizable."
+    },
+    {
+      "start": 2977.39,
+      "end": 2981.59,
+      "text": "And this is exactly the, here's, let me tell you what literally changed the business."
+    },
+    {
+      "start": 2981.91,
+      "end": 2984.77,
+      "text": "Um, and made me, uh, well, let me just get into the details."
+    },
+    {
+      "start": 2984.77,
+      "end": 2988.57,
+      "text": "Uh, one time we decided to launch a post-purchase upsell."
+    },
+    {
+      "start": 2988.93,
+      "end": 2991.17,
+      "text": "And so what would happen is you've completed checkout."
+    },
+    {
+      "start": 2991.55,
+      "end": 2993.39,
+      "text": "I've got all of your, uh, payment information."
+    },
+    {
+      "start": 2993.41,
+      "end": 2994.75,
+      "text": "I've got your Stripe token."
+    },
+    {
+      "start": 2994.99,
+      "end": 2995.93,
+      "text": "I've got your address."
+    },
+    {
+      "start": 2996.49,
+      "end": 2998.87,
+      "text": "Um, there, you can't do anything to back out of the order."
+    },
+    {
+      "start": 2998.89,
+      "end": 2999.87,
+      "text": "And you already know what they purchased."
+    },
+    {
+      "start": 2999.99,
+      "end": 3000.31,
+      "text": "Most important."
+    },
+    {
+      "start": 3000.39,
+      "end": 3001.31,
+      "text": "I've already know what they purchased."
+    },
+    {
+      "start": 3001.45,
+      "end": 3005.59,
+      "text": "And now what I do is I say, hey, uh, buy a travel size deodorant for $3."
+    },
+    {
+      "start": 3006.33,
+      "end": 3008.47,
+      "text": "I'm already shipping this package to this customer."
+    },
+    {
+      "start": 3008.63,
+      "end": 3010.97,
+      "text": "So the travel size deodorant costs me 70 cents."
+    },
+    {
+      "start": 3011.11,
+      "end": 3011.21,
+      "text": "Yeah."
+    },
+    {
+      "start": 3011.33,
+      "end": 3012.75,
+      "text": "It doesn't cost me more than 70 cents."
+    },
+    {
+      "start": 3013.09,
+      "end": 3013.35,
+      "text": "It's very little."
+    },
+    {
+      "start": 3013.49,
+      "end": 3014.63,
+      "text": "It's just the 70 cents."
+    },
+    {
+      "start": 3014.77,
+      "end": 3017.33,
+      "text": "Um, and then I've got your Stripe token."
+    },
+    {
+      "start": 3017.53,
+      "end": 3018.57,
+      "text": "And so I'm sitting on that."
+    },
+    {
+      "start": 3019.25,
+      "end": 3019.87,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 3020.09,
+      "end": 3025.15,
+      "text": "And so I can either like, you know, I'm going to be charged 2.9% of that 70 cents, but I'm"
+    },
+    {
+      "start": 3025.15,
+      "end": 3026.87,
+      "text": "not going to pay another 30 cent transaction fee."
+    },
+    {
+      "start": 3027.03,
+      "end": 3029.17,
+      "text": "And so, uh, I'm sitting on this."
+    },
+    {
+      "start": 3029.25,
+      "end": 3031.91,
+      "text": "Uh, and so native launched us on WooCommerce."
+    },
+    {
+      "start": 3032.21,
+      "end": 3039.07,
+      "text": "We probably did $500,000 of sales on these travel sizes a month, uh, which was, uh, you"
+    },
+    {
+      "start": 3039.07,
+      "end": 3041.57,
+      "text": "know, generating us $300,000 in EBITDA."
+    },
+    {
+      "start": 3041.57,
+      "end": 3046.83,
+      "text": "Uh, out of our $800,000 in EBITDA, $300,000 was coming from this post-purchase upsell,"
+    },
+    {
+      "start": 3046.95,
+      "end": 3049.17,
+      "text": "which was, uh, you know, a godsend."
+    },
+    {
+      "start": 3049.23,
+      "end": 3049.67,
+      "text": "Yes, of course."
+    },
+    {
+      "start": 3049.83,
+      "end": 3051.01,
+      "text": "You know, and that was per month."
+    },
+    {
+      "start": 3051.13,
+      "end": 3053.05,
+      "text": "I was just like, this thing is making us a fortune."
+    },
+    {
+      "start": 3053.59,
+      "end": 3055.87,
+      "text": "And it was because we could do a post-purchase upsell."
+    },
+    {
+      "start": 3056.15,
+      "end": 3059.57,
+      "text": "And the reason I found out about it was because I was networking with a bunch of e-commerce"
+    },
+    {
+      "start": 3059.57,
+      "end": 3060.91,
+      "text": "entrepreneurs and trying to figure this out."
+    },
+    {
+      "start": 3061.03,
+      "end": 3065.49,
+      "text": "But if I was in Omaha, Nebraska, or at University of Florida, sitting in class trying to create"
+    },
+    {
+      "start": 3065.49,
+      "end": 3067.29,
+      "text": "a product, I would not have thought about this."
+    },
+    {
+      "start": 3067.39,
+      "end": 3070.21,
+      "text": "But if Shopify had been like, hey, we have this post-purchase upsell, it's really easy"
+    },
+    {
+      "start": 3070.21,
+      "end": 3070.67,
+      "text": "to integrate."
+    },
+    {
+      "start": 3070.97,
+      "end": 3074.01,
+      "text": "Just decide what product you want to, like, what do they buy and what product you want to"
+    },
+    {
+      "start": 3074.01,
+      "end": 3074.57,
+      "text": "sell to them?"
+    },
+    {
+      "start": 3074.97,
+      "end": 3075.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 3075.45,
+      "end": 3078.15,
+      "text": "Although I, I, so by the way, it's, it's, it's, it's, it's incredible."
+    },
+    {
+      "start": 3078.15,
+      "end": 3080.79,
+      "text": "The Airbnb goes up 1% by having the right post-purchase."
+    },
+    {
+      "start": 3080.97,
+      "end": 3081.07,
+      "text": "Yeah."
+    },
+    {
+      "start": 3081.27,
+      "end": 3082.71,
+      "text": "1% across all merchants."
+    },
+    {
+      "start": 3082.91,
+      "end": 3083.51,
+      "text": "The only I will."
+    },
+    {
+      "start": 3083.51,
+      "end": 3085.95,
+      "text": "And I'll bet you $1,000 today that that happens if you integrate it."
+    },
+    {
+      "start": 3086.01,
+      "end": 3087.05,
+      "text": "What I, what I."
+    },
+    {
+      "start": 3087.07,
+      "end": 3087.55,
+      "text": "10,000 actually."
+    },
+    {
+      "start": 3087.63,
+      "end": 3090.87,
+      "text": "What I actually, the only I disagree with on that is, is I actually don't think the"
+    },
+    {
+      "start": 3090.87,
+      "end": 3094.37,
+      "text": "person in Nebraska or in Gainesville, is that where it is?"
+    },
+    {
+      "start": 3094.87,
+      "end": 3096.47,
+      "text": "Is Gainesville is at a disadvantage."
+    },
+    {
+      "start": 3096.63,
+      "end": 3101.95,
+      "text": "I actually think one of the best parts of a building right now is that the, like, we've"
+    },
+    {
+      "start": 3101.95,
+      "end": 3103.97,
+      "text": "all been friends and yet we never met each other."
+    },
+    {
+      "start": 3104.17,
+      "end": 3104.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 3104.43,
+      "end": 3107.97,
+      "text": "And so less and less do I actually think cities make it, give you an advantage."
+    },
+    {
+      "start": 3108.15,
+      "end": 3111.71,
+      "text": "I think maybe you had more, like you can hire more engineers that are local here, but, but"
+    },
+    {
+      "start": 3111.71,
+      "end": 3115.31,
+      "text": "I, so I'm not sure I fully agree on sort of that, that locality geography matters, but"
+    },
+    {
+      "start": 3115.31,
+      "end": 3119.59,
+      "text": "I do absolutely agree that there's a particular point where post-purchase upsell is really,"
+    },
+    {
+      "start": 3119.67,
+      "end": 3121.81,
+      "text": "really important, but that's why the app store exists."
+    },
+    {
+      "start": 3121.93,
+      "end": 3122.11,
+      "text": "Yeah."
+    },
+    {
+      "start": 3122.11,
+      "end": 3125.67,
+      "text": "So you can come to Shopify and say, there's a particular thing I want that doesn't come"
+    },
+    {
+      "start": 3125.67,
+      "end": 3128.81,
+      "text": "out of the box, but you have full extensibility and that matters."
+    },
+    {
+      "start": 3128.97,
+      "end": 3132.57,
+      "text": "Now there's probably going to be a point where let's just say post-purchase upsell becomes"
+    },
+    {
+      "start": 3132.57,
+      "end": 3134.51,
+      "text": "a thing that everybody wants all the time."
+    },
+    {
+      "start": 3134.73,
+      "end": 3136.67,
+      "text": "We will likely start building that into Shopify."
+    },
+    {
+      "start": 3137.03,
+      "end": 3140.81,
+      "text": "Instead, we now make the checkout a lot more extensible so that you can play with that."
+    },
+    {
+      "start": 3140.97,
+      "end": 3143.93,
+      "text": "But there's also something that we haven't really talked about, which is sort of this"
+    },
+    {
+      "start": 3143.93,
+      "end": 3145.33,
+      "text": "idea of like opinionated software."
+    },
+    {
+      "start": 3145.73,
+      "end": 3149.35,
+      "text": "And I just, I have to sort of spend a second on this because there's sort of two ways"
+    },
+    {
+      "start": 3149.35,
+      "end": 3153.75,
+      "text": "to look at shop if I say like the product and say, well, you don't do these sort of"
+    },
+    {
+      "start": 3153.75,
+      "end": 3153.97,
+      "text": "things."
+    },
+    {
+      "start": 3154.13,
+      "end": 3155.63,
+      "text": "You, you, you rely on third parties."
+    },
+    {
+      "start": 3155.69,
+      "end": 3159.03,
+      "text": "And I can say, well, we like that because third parties allow us to extend the platform"
+    },
+    {
+      "start": 3159.03,
+      "end": 3161.69,
+      "text": "in ways we never would have thought it means everyone gets product market fit."
+    },
+    {
+      "start": 3161.69,
+      "end": 3165.83,
+      "text": "But there also is this thing about when you build opinionated software, if you do it for"
+    },
+    {
+      "start": 3165.83,
+      "end": 3167.49,
+      "text": "the right reasons, it's actually really valuable."
+    },
+    {
+      "start": 3167.73,
+      "end": 3173.11,
+      "text": "What I mean by that is if too early on in someone's journey as a merchant, as an entrepreneur,"
+    },
+    {
+      "start": 3173.81,
+      "end": 3178.03,
+      "text": "if what would happen is we would give them too much customization or something like checkout,"
+    },
+    {
+      "start": 3178.51,
+      "end": 3180.81,
+      "text": "a lot of people would break the checkout or worse."
+    },
+    {
+      "start": 3180.99,
+      "end": 3181.27,
+      "text": "Sure."
+    },
+    {
+      "start": 3181.29,
+      "end": 3182.79,
+      "text": "If you break the checkout, you know, things happen."
+    },
+    {
+      "start": 3182.93,
+      "end": 3183.03,
+      "text": "Yeah."
+    },
+    {
+      "start": 3183.17,
+      "end": 3183.41,
+      "text": "You don't fix it."
+    },
+    {
+      "start": 3183.59,
+      "end": 3187.11,
+      "text": "What's way worse is that you, you, you don't optimize it properly."
+    },
+    {
+      "start": 3187.11,
+      "end": 3191.97,
+      "text": "In fact, it's, it's at a point where you're making sales, but you are losing so much opportunity."
+    },
+    {
+      "start": 3192.29,
+      "end": 3195.91,
+      "text": "And those are some of the things where when you're a big company, when you're native, you"
+    },
+    {
+      "start": 3195.91,
+      "end": 3198.69,
+      "text": "know, you can go in with your team and you can say, look, I'm going to make some changes"
+    },
+    {
+      "start": 3198.69,
+      "end": 3199.69,
+      "text": "here and it's all going to be fixed."
+    },
+    {
+      "start": 3199.85,
+      "end": 3203.51,
+      "text": "When you're a small business, that may be the difference between actually succeeding"
+    },
+    {
+      "start": 3203.51,
+      "end": 3204.11,
+      "text": "or not succeeding."
+    },
+    {
+      "start": 3204.33,
+      "end": 3208.19,
+      "text": "And so there are certain areas of Shopify that you've seen that are incredibly opinionated."
+    },
+    {
+      "start": 3208.79,
+      "end": 3211.85,
+      "text": "Opinionated is really important because it means we want to lead people to make really"
+    },
+    {
+      "start": 3211.85,
+      "end": 3213.15,
+      "text": "good decisions to build their business."
+    },
+    {
+      "start": 3213.15,
+      "end": 3217.31,
+      "text": "But the key to it is that there's an asterisk after that census, which is, but also allow"
+    },
+    {
+      "start": 3217.31,
+      "end": 3219.81,
+      "text": "them full extensibility where they can build it themselves."
+    },
+    {
+      "start": 3220.53,
+      "end": 3224.57,
+      "text": "So what we're talking about here, I think is a really important philosophical aspect of"
+    },
+    {
+      "start": 3224.57,
+      "end": 3228.41,
+      "text": "the Shopify product, which is we want people to be successful."
+    },
+    {
+      "start": 3228.57,
+      "end": 3230.45,
+      "text": "We want to help them make really, really good decisions."
+    },
+    {
+      "start": 3230.59,
+      "end": 3235.27,
+      "text": "But at a particular point, what's cool about the software is that it opens up so that you"
+    },
+    {
+      "start": 3235.27,
+      "end": 3237.97,
+      "text": "can do all types of gnarly, interesting, unique things."
+    },
+    {
+      "start": 3238.31,
+      "end": 3240.07,
+      "text": "But sometimes you do have to do it on your own."
+    },
+    {
+      "start": 3240.07,
+      "end": 3244.21,
+      "text": "And I think over time, you will see the product get better in doing those things on your own."
+    },
+    {
+      "start": 3244.45,
+      "end": 3245.39,
+      "text": "We'll help guide you more."
+    },
+    {
+      "start": 3245.79,
+      "end": 3250.03,
+      "text": "Things like analytics, for example, where most people get most of what they need from analytics."
+    },
+    {
+      "start": 3250.55,
+      "end": 3252.63,
+      "text": "But you're an e-commerce pro."
+    },
+    {
+      "start": 3252.81,
+      "end": 3257.93,
+      "text": "You guys are both Olympians in this sort of sport that we call modern retail, modern entrepreneurship."
+    },
+    {
+      "start": 3258.21,
+      "end": 3263.37,
+      "text": "And for you, you need to read API docs and you have to go build custom apps."
+    },
+    {
+      "start": 3263.47,
+      "end": 3267.99,
+      "text": "And that doesn't always feel great, but it allows us to do both things, which is make it really"
+    },
+    {
+      "start": 3267.99,
+      "end": 3269.83,
+      "text": "easy to get started and then make it fully extensible."
+    },
+    {
+      "start": 3270.07,
+      "end": 3275.91,
+      "text": "What percentage of merchants today have done less than 10 million or less than 1 million"
+    },
+    {
+      "start": 3275.91,
+      "end": 3276.39,
+      "text": "in revenue?"
+    },
+    {
+      "start": 3276.55,
+      "end": 3277.47,
+      "text": "We don't break it out like that."
+    },
+    {
+      "start": 3277.65,
+      "end": 3277.81,
+      "text": "Okay."
+    },
+    {
+      "start": 3277.99,
+      "end": 3278.07,
+      "text": "Yeah."
+    },
+    {
+      "start": 3278.59,
+      "end": 3278.65,
+      "text": "Yeah."
+    },
+    {
+      "start": 3278.83,
+      "end": 3282.15,
+      "text": "And the reason we don't break it out like that is because, I mean, you know, the GMV of Shopify"
+    },
+    {
+      "start": 3282.15,
+      "end": 3286.37,
+      "text": "is last year, 600 million consumers bought off a Shopify store."
+    },
+    {
+      "start": 3286.43,
+      "end": 3291.55,
+      "text": "We're about to eclipse, I think, $500 billion in total GMV on the platform, lifetime GMV on the"
+    },
+    {
+      "start": 3291.55,
+      "end": 3291.91,
+      "text": "platform."
+    },
+    {
+      "start": 3292.11,
+      "end": 3294.85,
+      "text": "But the reason we don't break it out that way, and this is actually really, really important."
+    },
+    {
+      "start": 3295.57,
+      "end": 3299.03,
+      "text": "We're all very ambitious, and I think most people on Shopify are very ambitious."
+    },
+    {
+      "start": 3299.45,
+      "end": 3303.49,
+      "text": "But often what I find companies do when they do this, I think this is a bad thing to do"
+    },
+    {
+      "start": 3303.49,
+      "end": 3308.27,
+      "text": "is they basically say, well, they're making, that customer is doing $20,000 and therefore"
+    },
+    {
+      "start": 3308.27,
+      "end": 3309.07,
+      "text": "it's not working."
+    },
+    {
+      "start": 3309.35,
+      "end": 3313.17,
+      "text": "For a lot of people, the reason they set up a store on Shopify, one is they just want to"
+    },
+    {
+      "start": 3313.97,
+      "end": 3317.63,
+      "text": "experiment or they want to, you know, they want to supplement their income or they want"
+    },
+    {
+      "start": 3317.63,
+      "end": 3320.93,
+      "text": "to be able to put a little more food in their table or they want to, you know, take their"
+    },
+    {
+      "start": 3320.93,
+      "end": 3323.45,
+      "text": "side hustle from a hobby and commercialize it a little bit more."
+    },
+    {
+      "start": 3323.61,
+      "end": 3324.81,
+      "text": "And so we don't break it out in that way."
+    },
+    {
+      "start": 3325.01,
+      "end": 3329.65,
+      "text": "We have over 14,000 merchants on Shopify Plus and the rest are kind of the long tail,"
+    },
+    {
+      "start": 3329.79,
+      "end": 3330.21,
+      "text": "the platform."
+    },
+    {
+      "start": 3330.75,
+      "end": 3336.01,
+      "text": "The cool part is we are seeing a lot more merchants get big much faster, which I think speaks"
+    },
+    {
+      "start": 3336.01,
+      "end": 3339.25,
+      "text": "to not just the idea of Shopify, but what is happening right now in direct to consumer."
+    },
+    {
+      "start": 3339.99,
+      "end": 3340.39,
+      "text": "Yeah."
+    },
+    {
+      "start": 3340.93,
+      "end": 3342.45,
+      "text": "I think you're right about all that."
+    },
+    {
+      "start": 3342.65,
+      "end": 3347.05,
+      "text": "And, you know, there's on Instagram, once you get 10,000 followers, and I know this from"
+    },
+    {
+      "start": 3347.05,
+      "end": 3351.17,
+      "text": "native, like they open up a lot more options to you because they're like, look, you must"
+    },
+    {
+      "start": 3351.17,
+      "end": 3351.91,
+      "text": "be sophisticated."
+    },
+    {
+      "start": 3352.13,
+      "end": 3353.19,
+      "text": "You're using this platform."
+    },
+    {
+      "start": 3353.51,
+      "end": 3353.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 3353.53,
+      "end": 3356.15,
+      "text": "Like, you know, Lincoln, you know, like the Lincoln bio thing."
+    },
+    {
+      "start": 3356.25,
+      "end": 3358.63,
+      "text": "Now you can actually put the link directly in your story."
+    },
+    {
+      "start": 3358.79,
+      "end": 3359.47,
+      "text": "That's exactly right."
+    },
+    {
+      "start": 3359.59,
+      "end": 3364.03,
+      "text": "Although I would say also that in some ways, you know, you also have some scale then you"
+    },
+    {
+      "start": 3364.03,
+      "end": 3365.11,
+      "text": "have more people following you."
+    },
+    {
+      "start": 3365.41,
+      "end": 3367.29,
+      "text": "Instagram wants you to see obviously more people."
+    },
+    {
+      "start": 3367.29,
+      "end": 3370.37,
+      "text": "Well, in our case, we want people to move through the journey."
+    },
+    {
+      "start": 3370.47,
+      "end": 3371.53,
+      "text": "We want people to start."
+    },
+    {
+      "start": 3371.65,
+      "end": 3372.97,
+      "text": "So this is like a really cool story."
+    },
+    {
+      "start": 3373.07,
+      "end": 3375.63,
+      "text": "I mean, FIG started with us in 2013 on the basic plan."
+    },
+    {
+      "start": 3376.19,
+      "end": 3377.89,
+      "text": "2014, they upgraded to the advanced plan."
+    },
+    {
+      "start": 3378.15,
+      "end": 3379.77,
+      "text": "2015, they added Shopify payments."
+    },
+    {
+      "start": 3380.49,
+      "end": 3383.49,
+      "text": "17, they added point of sale to some of their pop-ups."
+    },
+    {
+      "start": 3383.79,
+      "end": 3389.61,
+      "text": "They upgraded to plus, I think, in 2019, added shop pay installments in 2020 and then went"
+    },
+    {
+      "start": 3389.61,
+      "end": 3390.33,
+      "text": "public last year."
+    },
+    {
+      "start": 3390.53,
+      "end": 3390.67,
+      "text": "Wow."
+    },
+    {
+      "start": 3390.67,
+      "end": 3396.73,
+      "text": "That journey from like, like literally first sale to full scale and it sounds cheesy."
+    },
+    {
+      "start": 3397.67,
+      "end": 3399.89,
+      "text": "That is our favorite stories on our platform."
+    },
+    {
+      "start": 3399.99,
+      "end": 3400.61,
+      "text": "Yeah, that's amazing."
+    },
+    {
+      "start": 3400.95,
+      "end": 3405.55,
+      "text": "And, and, and, but because of that, the product has to work a particular way, which is always"
+    },
+    {
+      "start": 3405.55,
+      "end": 3407.03,
+      "text": "going to be frustrating sometimes."
+    },
+    {
+      "start": 3408.27,
+      "end": 3409.73,
+      "text": "But we give a shit about this stuff."
+    },
+    {
+      "start": 3409.83,
+      "end": 3413.17,
+      "text": "And by the way, like I'm not taking notes just for, for like dramatic effect here."
+    },
+    {
+      "start": 3413.25,
+      "end": 3414.39,
+      "text": "Like this is real good feedback."
+    },
+    {
+      "start": 3414.41,
+      "end": 3414.71,
+      "text": "Yeah, great."
+    },
+    {
+      "start": 3414.85,
+      "end": 3415.41,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "start": 3415.41,
+      "end": 3415.57,
+      "text": "Yeah."
+    },
+    {
+      "start": 3415.97,
+      "end": 3419.15,
+      "text": "And the reason that I'm saying that thing about Instagram is you're saying, Hey, look,"
+    },
+    {
+      "start": 3419.23,
+      "end": 3422.33,
+      "text": "we need to protect consumers who want to do this, you know, as a side hustle and make"
+    },
+    {
+      "start": 3422.33,
+      "end": 3423.15,
+      "text": "it really simple for them."
+    },
+    {
+      "start": 3423.27,
+      "end": 3426.29,
+      "text": "I wonder if there's a place where you're like, this guy got to 5 million in revenue."
+    },
+    {
+      "start": 3426.51,
+      "end": 3428.81,
+      "text": "Are there other features because he's spending a lot more time on it?"
+    },
+    {
+      "start": 3428.81,
+      "end": 3428.89,
+      "text": "I mean, ultimately."
+    },
+    {
+      "start": 3429.13,
+      "end": 3429.81,
+      "text": "I don't know what it looks like."
+    },
+    {
+      "start": 3429.97,
+      "end": 3430.31,
+      "text": "Two things."
+    },
+    {
+      "start": 3430.45,
+      "end": 3431.63,
+      "text": "I would say functions does that."
+    },
+    {
+      "start": 3431.81,
+      "end": 3431.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 3432.33,
+      "end": 3432.65,
+      "text": "Fundamentally."
+    },
+    {
+      "start": 3433.09,
+      "end": 3433.63,
+      "text": "No pun intended."
+    },
+    {
+      "start": 3433.87,
+      "end": 3435.81,
+      "text": "And also I think hydrogen does that."
+    },
+    {
+      "start": 3436.09,
+      "end": 3440.27,
+      "text": "A lot of people want to be able to just do some crazy custom stuff."
+    },
+    {
+      "start": 3440.81,
+      "end": 3441.93,
+      "text": "You know, think about it like this."
+    },
+    {
+      "start": 3442.67,
+      "end": 3446.53,
+      "text": "This is how I've always sort of understood this kind of headless hydrogen thing."
+    },
+    {
+      "start": 3447.13,
+      "end": 3449.41,
+      "text": "Shopify right now is like a bullet train as a product."
+    },
+    {
+      "start": 3449.59,
+      "end": 3451.71,
+      "text": "It goes from like, you know, have you guys been to Japan?"
+    },
+    {
+      "start": 3452.03,
+      "end": 3452.13,
+      "text": "Yeah."
+    },
+    {
+      "start": 3452.25,
+      "end": 3454.01,
+      "text": "You've been to like, like the bullet trains are unbelievable."
+    },
+    {
+      "start": 3454.15,
+      "end": 3454.71,
+      "text": "They're super fast."
+    },
+    {
+      "start": 3455.05,
+      "end": 3456.97,
+      "text": "And for the most part, they don't get off every stop."
+    },
+    {
+      "start": 3457.11,
+      "end": 3458.77,
+      "text": "They kind of anticipate where you want to go."
+    },
+    {
+      "start": 3458.93,
+      "end": 3462.85,
+      "text": "It's like Tokyo to Hokkaido to Osaka, but you're not getting off in small little towns."
+    },
+    {
+      "start": 3462.99,
+      "end": 3463.29,
+      "text": "Okay."
+    },
+    {
+      "start": 3463.63,
+      "end": 3466.39,
+      "text": "So that's sort of like Shopify core product."
+    },
+    {
+      "start": 3466.59,
+      "end": 3468.01,
+      "text": "It's the best of what it does."
+    },
+    {
+      "start": 3468.47,
+      "end": 3472.55,
+      "text": "There's another version, which is like, you know, out there building your own custom,"
+    },
+    {
+      "start": 3472.55,
+      "end": 3473.87,
+      "text": "you know, headless stack."
+    },
+    {
+      "start": 3474.31,
+      "end": 3478.17,
+      "text": "And that's kind of like, like you're in the jungle and like you have a machete and you're"
+    },
+    {
+      "start": 3478.17,
+      "end": 3479.73,
+      "text": "trying to like carve your way through the jungle."
+    },
+    {
+      "start": 3480.07,
+      "end": 3484.83,
+      "text": "What hydrogen does that I think is really neat is it allows you almost to build your own"
+    },
+    {
+      "start": 3484.83,
+      "end": 3485.81,
+      "text": "bullet train."
+    },
+    {
+      "start": 3485.95,
+      "end": 3490.93,
+      "text": "It allows you to create more stops on that, you know, that Japan metaphor that I'm using."
+    },
+    {
+      "start": 3491.07,
+      "end": 3494.43,
+      "text": "It allows you to say, I actually want it to go sideways here and this way there."
+    },
+    {
+      "start": 3494.43,
+      "end": 3496.27,
+      "text": "And so it's the best of both worlds."
+    },
+    {
+      "start": 3496.43,
+      "end": 3500.39,
+      "text": "It's the best of like the greatest infrastructure, but also for more customization."
+    },
+    {
+      "start": 3500.71,
+      "end": 3504.87,
+      "text": "And actually I think more and more you'll see some of our biggest brands like Skims is"
+    },
+    {
+      "start": 3504.87,
+      "end": 3506.03,
+      "text": "using hydrogen right now."
+    },
+    {
+      "start": 3506.19,
+      "end": 3508.39,
+      "text": "Some of the Allbirds sites are using hydrogen now."
+    },
+    {
+      "start": 3508.67,
+      "end": 3511.45,
+      "text": "I actually went to go look prior to this at some others that are using it too."
+    },
+    {
+      "start": 3511.65,
+      "end": 3516.99,
+      "text": "So we have some really big stores that are now using hydrogen and they're able to have"
+    },
+    {
+      "start": 3516.99,
+      "end": 3517.85,
+      "text": "full flexibility."
+    },
+    {
+      "start": 3518.07,
+      "end": 3521.07,
+      "text": "And I think that's a lot what we're talking about right now, which is like, when do you kind"
+    },
+    {
+      "start": 3521.07,
+      "end": 3521.59,
+      "text": "of upgrade there?"
+    },
+    {
+      "start": 3521.69,
+      "end": 3523.65,
+      "text": "And so we want prior to this, we didn't have that."
+    },
+    {
+      "start": 3524.43,
+      "end": 3527.71,
+      "text": "You wanted headless and we should talk about headless because I think, by the way, this"
+    },
+    {
+      "start": 3527.71,
+      "end": 3529.71,
+      "text": "term is totally ran away from us."
+    },
+    {
+      "start": 3529.81,
+      "end": 3534.27,
+      "text": "I think that now you have a lot of people selling quote unquote headless and it sounds fancy"
+    },
+    {
+      "start": 3534.27,
+      "end": 3537.43,
+      "text": "and it sounds like it sounds really good for a lot of people."
+    },
+    {
+      "start": 3537.57,
+      "end": 3540.83,
+      "text": "But actually most merchants would be much better off not using headless system."
+    },
+    {
+      "start": 3540.97,
+      "end": 3541.61,
+      "text": "Fully agreed."
+    },
+    {
+      "start": 3541.97,
+      "end": 3542.93,
+      "text": "Let me switch gears."
+    },
+    {
+      "start": 3543.17,
+      "end": 3543.33,
+      "text": "Sorry."
+    },
+    {
+      "start": 3544.09,
+      "end": 3548.51,
+      "text": "Just to keep us a little bit on track in terms of apps, which we talked a lot about."
+    },
+    {
+      "start": 3548.61,
+      "end": 3549.69,
+      "text": "And I appreciate all that context."
+    },
+    {
+      "start": 3549.69,
+      "end": 3552.97,
+      "text": "Um, and you know, when you say, Hey, we need universality."
+    },
+    {
+      "start": 3553.19,
+      "end": 3556.85,
+      "text": "And what I think is universality is not, you know, it makes me think, Oh fuck, maybe I"
+    },
+    {
+      "start": 3556.85,
+      "end": 3557.71,
+      "text": "am wrong about all that."
+    },
+    {
+      "start": 3557.83,
+      "end": 3558.11,
+      "text": "Well, I know."
+    },
+    {
+      "start": 3558.19,
+      "end": 3559.21,
+      "text": "I mean, actually it's amazing."
+    },
+    {
+      "start": 3559.33,
+      "end": 3560.17,
+      "text": "You are a power user."
+    },
+    {
+      "start": 3560.29,
+      "end": 3565.43,
+      "text": "The reason I'm sitting here is because you use Shopify, the stress, the pressure, the requirements"
+    },
+    {
+      "start": 3565.43,
+      "end": 3566.25,
+      "text": "you put on Shopify."
+    },
+    {
+      "start": 3566.25,
+      "end": 3569.27,
+      "text": "Shopify is fucking amazing because it makes us better."
+    },
+    {
+      "start": 3569.47,
+      "end": 3571.51,
+      "text": "It makes us think about what are we missing?"
+    },
+    {
+      "start": 3572.07,
+      "end": 3576.09,
+      "text": "Sometimes we, you know, we're in, in our minds building this great software, trying to"
+    },
+    {
+      "start": 3576.09,
+      "end": 3577.95,
+      "text": "figure out how to make it easy, how to make it extensible."
+    },
+    {
+      "start": 3578.21,
+      "end": 3583.45,
+      "text": "But it's, it's actually like, that is one of the best parts of founder led companies"
+    },
+    {
+      "start": 3583.45,
+      "end": 3583.99,
+      "text": "at scale."
+    },
+    {
+      "start": 3584.19,
+      "end": 3587.87,
+      "text": "And there's not many of them, but when you were dealing with a founder led company and a"
+    },
+    {
+      "start": 3587.87,
+      "end": 3591.65,
+      "text": "company, I mean, if you look across our, you know, audiences is like, you know, ran"
+    },
+    {
+      "start": 3591.65,
+      "end": 3595.09,
+      "text": "by a founder shop is ran inside of shop is ran by a founder."
+    },
+    {
+      "start": 3595.09,
+      "end": 3600.09,
+      "text": "Like most of our, uh, our core product is ran by a founder by Glenn Coates who, you"
+    },
+    {
+      "start": 3600.09,
+      "end": 3601.35,
+      "text": "know, created a handshake."
+    },
+    {
+      "start": 3601.65,
+      "end": 3605.51,
+      "text": "This is a company that is, is founder led built by founders."
+    },
+    {
+      "start": 3605.81,
+      "end": 3608.01,
+      "text": "And because of that, we really give a shit about this stuff."
+    },
+    {
+      "start": 3608.15,
+      "end": 3609.09,
+      "text": "Are we going to get it right?"
+    },
+    {
+      "start": 3609.21,
+      "end": 3612.69,
+      "text": "No, we won't always get it right, but that's why this is crystal clear that you care."
+    },
+    {
+      "start": 3613.01,
+      "end": 3616.07,
+      "text": "Um, so let me ask you one thing about, uh, Shopify apps."
+    },
+    {
+      "start": 3616.39,
+      "end": 3620.87,
+      "text": "Uh, you know, I've never heard of, we talked about the flashlight example before, uh, and"
+    },
+    {
+      "start": 3620.87,
+      "end": 3623.21,
+      "text": "how Apple, you know, decided to build their own flashlight."
+    },
+    {
+      "start": 3623.21,
+      "end": 3624.63,
+      "text": "Apple decided to build calendars."
+    },
+    {
+      "start": 3624.75,
+      "end": 3625.97,
+      "text": "I think a better example than almost right."
+    },
+    {
+      "start": 3626.13,
+      "end": 3627.19,
+      "text": "There were a ton of these calendar apps."
+    },
+    {
+      "start": 3627.19,
+      "end": 3629.23,
+      "text": "Now Apple calendar is about as good as it gets."
+    },
+    {
+      "start": 3629.69,
+      "end": 3634.09,
+      "text": "Um, but I've never heard of Apple really investing in one of their apps."
+    },
+    {
+      "start": 3634.29,
+      "end": 3638.11,
+      "text": "They buy the apps and I'm not sure if shop, uh, you know, I know Shopify has bought, uh,"
+    },
+    {
+      "start": 3638.35,
+      "end": 3640.67,
+      "text": "several delivery platforms and we'll get to that in a minute."
+    },
+    {
+      "start": 3641.23,
+      "end": 3644.29,
+      "text": "Does, uh, does Shopify buy apps or do they just invest in apps?"
+    },
+    {
+      "start": 3644.35,
+      "end": 3644.83,
+      "text": "We bought apps."
+    },
+    {
+      "start": 3644.91,
+      "end": 3648.55,
+      "text": "I mean, um, about Michael Perry's company when he was building a kit."
+    },
+    {
+      "start": 3648.55,
+      "end": 3651.57,
+      "text": "Uh, we've bought apps before and sometimes it's exactly what we're talking about here."
+    },
+    {
+      "start": 3651.89,
+      "end": 3655.25,
+      "text": "There are, there's a particular point where that threshold is crossed."
+    },
+    {
+      "start": 3655.51,
+      "end": 3656.65,
+      "text": "Most merchants most of the time need it."
+    },
+    {
+      "start": 3656.91,
+      "end": 3658.17,
+      "text": "And then we look at two options."
+    },
+    {
+      "start": 3658.27,
+      "end": 3661.89,
+      "text": "Option one is we feel like we can build it ourself really, really well."
+    },
+    {
+      "start": 3662.09,
+      "end": 3666.15,
+      "text": "Option two is there are someone out there that is just doing it so much better than we"
+    },
+    {
+      "start": 3666.15,
+      "end": 3666.29,
+      "text": "are."
+    },
+    {
+      "start": 3666.39,
+      "end": 3666.55,
+      "text": "Yeah."
+    },
+    {
+      "start": 3666.55,
+      "end": 3669.75,
+      "text": "And I know we'll talk about shipping a little bit later, but that was the case of deliver."
+    },
+    {
+      "start": 3670.01,
+      "end": 3674.63,
+      "text": "I mean, we were trying to build delivers fundamentally balancing software to, to anticipate where,"
+    },
+    {
+      "start": 3674.77,
+      "end": 3678.85,
+      "text": "like from, from port to where fulfillment, what fulfillment center it should go to."
+    },
+    {
+      "start": 3679.09,
+      "end": 3679.19,
+      "text": "Right."
+    },
+    {
+      "start": 3679.41,
+      "end": 3681.83,
+      "text": "Well, actually before porch, cause there's sort of three phases of fulfillment."
+    },
+    {
+      "start": 3682.61,
+      "end": 3685.53,
+      "text": "There's factory to port, there's port to fulfillment, and then there's fulfillment"
+    },
+    {
+      "start": 3685.53,
+      "end": 3685.99,
+      "text": "to porch."
+    },
+    {
+      "start": 3686.17,
+      "end": 3690.05,
+      "text": "So that middle part, which is, it gets to the port of long beach, for example, and has"
+    },
+    {
+      "start": 3690.05,
+      "end": 3692.43,
+      "text": "to figure out where to go from a fulfillment center perspective."
+    },
+    {
+      "start": 3692.85,
+      "end": 3694.29,
+      "text": "Deliver was doing that better than anyone else."
+    },
+    {
+      "start": 3694.29,
+      "end": 3696.43,
+      "text": "And so at that point we could have built it ourself."
+    },
+    {
+      "start": 3696.57,
+      "end": 3697.21,
+      "text": "They were doing it better."
+    },
+    {
+      "start": 3697.37,
+      "end": 3698.27,
+      "text": "Our merchants were loving it."
+    },
+    {
+      "start": 3698.77,
+      "end": 3701.23,
+      "text": "Merchants using it, that we're using it, that we're our merchants, we're really enjoying"
+    },
+    {
+      "start": 3701.23,
+      "end": 3701.39,
+      "text": "it."
+    },
+    {
+      "start": 3701.49,
+      "end": 3704.29,
+      "text": "And also like that was product acceleration."
+    },
+    {
+      "start": 3704.57,
+      "end": 3705.31,
+      "text": "So that's where we bought it."
+    },
+    {
+      "start": 3705.49,
+      "end": 3707.35,
+      "text": "In other cases, we like what they're doing."
+    },
+    {
+      "start": 3707.51,
+      "end": 3710.37,
+      "text": "We want, we believe that app should exist in the world, but it hasn't really crossed the"
+    },
+    {
+      "start": 3710.37,
+      "end": 3713.63,
+      "text": "threshold yet in terms of, do we want to have it part of the core Shopify?"
+    },
+    {
+      "start": 3713.85,
+      "end": 3715.67,
+      "text": "And in those cases we will make an investment."
+    },
+    {
+      "start": 3715.93,
+      "end": 3720.51,
+      "text": "And then what benefits does a company, aside from cash and possibly like, you know, getting"
+    },
+    {
+      "start": 3720.51,
+      "end": 3725.69,
+      "text": "to text you once in a while, what benefits does a portfolio company of Shopify have?"
+    },
+    {
+      "start": 3726.03,
+      "end": 3729.47,
+      "text": "I mean, in some cases that money is the difference of them continuing or not, right?"
+    },
+    {
+      "start": 3729.51,
+      "end": 3730.43,
+      "text": "They can use that money to hire."
+    },
+    {
+      "start": 3730.67,
+      "end": 3733.49,
+      "text": "They can use that money to, you know, add more servers."
+    },
+    {
+      "start": 3733.87,
+      "end": 3734.45,
+      "text": "Cash, cash."
+    },
+    {
+      "start": 3734.71,
+      "end": 3734.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 3735.11,
+      "end": 3735.75,
+      "text": "That's a big one."
+    },
+    {
+      "start": 3735.97,
+      "end": 3739.31,
+      "text": "Another one of this is, I think it can be somewhat of an endorsement to that company"
+    },
+    {
+      "start": 3739.31,
+      "end": 3740.95,
+      "text": "that, hey, what we're doing is really, really good."
+    },
+    {
+      "start": 3741.07,
+      "end": 3741.45,
+      "text": "Keep going."
+    },
+    {
+      "start": 3741.79,
+      "end": 3745.33,
+      "text": "And I know that, you know, all these apps in the app store all kind of see the same,"
+    },
+    {
+      "start": 3745.41,
+      "end": 3747.51,
+      "text": "but like in one category, they may all kind of look the same."
+    },
+    {
+      "start": 3747.51,
+      "end": 3749.67,
+      "text": "But in some cases, these are not huge companies."
+    },
+    {
+      "start": 3749.93,
+      "end": 3753.37,
+      "text": "These are companies with very, you know, small group of people that are working really, really"
+    },
+    {
+      "start": 3753.37,
+      "end": 3753.65,
+      "text": "hard."
+    },
+    {
+      "start": 3753.75,
+      "end": 3756.55,
+      "text": "In some cases, they're working like 24-7 to keep this app going."
+    },
+    {
+      "start": 3756.79,
+      "end": 3760.45,
+      "text": "And an investment from Shopify may be not just the cash they need to survive, but the"
+    },
+    {
+      "start": 3760.45,
+      "end": 3762.71,
+      "text": "endorsement that what they were working on is really, really valuable."
+    },
+    {
+      "start": 3763.33,
+      "end": 3763.69,
+      "text": "Okay."
+    },
+    {
+      "start": 3763.85,
+      "end": 3765.27,
+      "text": "I guess, let me ask another example."
+    },
+    {
+      "start": 3765.45,
+      "end": 3768.85,
+      "text": "So when Shopify invests in Yopo or in Klaviyo."
+    },
+    {
+      "start": 3768.85,
+      "end": 3769.83,
+      "text": "I was waiting to bring this up."
+    },
+    {
+      "start": 3770.11,
+      "end": 3773.99,
+      "text": "You know, what should another, like, you know, if I'm building a competitor, if I'm in the"
+    },
+    {
+      "start": 3773.99,
+      "end": 3779.59,
+      "text": "Shopify app store and I'm building a competitor to Klaviyo or Yopo, should I just be like,"
+    },
+    {
+      "start": 3779.69,
+      "end": 3780.01,
+      "text": "you know what?"
+    },
+    {
+      "start": 3780.23,
+      "end": 3780.53,
+      "text": "Fuck it."
+    },
+    {
+      "start": 3780.61,
+      "end": 3782.69,
+      "text": "They've made their decision and this is it."
+    },
+    {
+      "start": 3782.83,
+      "end": 3784.23,
+      "text": "Oh, just, I mean, I hope you're not."
+    },
+    {
+      "start": 3784.43,
+      "end": 3785.15,
+      "text": "Just the opposite."
+    },
+    {
+      "start": 3785.27,
+      "end": 3787.67,
+      "text": "That would be the most pessimistic reading of that situation."
+    },
+    {
+      "start": 3787.83,
+      "end": 3791.77,
+      "text": "I would say Shopify actually, if you build a product that is valuable, truly valuable"
+    },
+    {
+      "start": 3791.77,
+      "end": 3795.25,
+      "text": "to the merchants on Shopify that use it, Shopify not only will ensure you have a distribution"
+    },
+    {
+      "start": 3795.25,
+      "end": 3799.51,
+      "text": "channel through the app store, they may even invest in that company, which could"
+    },
+    {
+      "start": 3799.51,
+      "end": 3800.35,
+      "text": "be a really great thing."
+    },
+    {
+      "start": 3800.63,
+      "end": 3802.41,
+      "text": "There may be companies that say, we don't want your investment."
+    },
+    {
+      "start": 3802.49,
+      "end": 3803.29,
+      "text": "We don't need your motivation."
+    },
+    {
+      "start": 3803.29,
+      "end": 3804.25,
+      "text": "We don't need your money."
+    },
+    {
+      "start": 3804.43,
+      "end": 3806.23,
+      "text": "We actually want to stay independent and that's okay too."
+    },
+    {
+      "start": 3806.37,
+      "end": 3810.81,
+      "text": "But I would, I hope that that investment, what we're doing with those investments would"
+    },
+    {
+      "start": 3810.81,
+      "end": 3813.03,
+      "text": "be regarded as something incredibly positive for the ecosystem."
+    },
+    {
+      "start": 3813.21,
+      "end": 3815.31,
+      "text": "You know, even to competitors of that product."
+    },
+    {
+      "start": 3815.53,
+      "end": 3820.21,
+      "text": "So if you invest in Yopo and I'm building a, you know, I've got a Yopo competitor or if"
+    },
+    {
+      "start": 3820.21,
+      "end": 3824.65,
+      "text": "you invest in Klaviyo and I'm attentive, if you are building a better version of like of"
+    },
+    {
+      "start": 3824.65,
+      "end": 3830.57,
+      "text": "any of these products, number one, the platform itself will reward you for that."
+    },
+    {
+      "start": 3831.05,
+      "end": 3831.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 3831.45,
+      "end": 3834.09,
+      "text": "I mean, I don't just mean from ratings or ranking."
+    },
+    {
+      "start": 3834.29,
+      "end": 3838.79,
+      "text": "I just mean generally the apps that do best are the ones that are the most valuable apps."
+    },
+    {
+      "start": 3838.87,
+      "end": 3842.51,
+      "text": "And so, um, I mean, I speak, we have more than 8,000 apps in the app store."
+    },
+    {
+      "start": 3842.59,
+      "end": 3845.45,
+      "text": "I don't know every single app, but I would say that, you know, I've been around for a long"
+    },
+    {
+      "start": 3845.45,
+      "end": 3845.79,
+      "text": "time."
+    },
+    {
+      "start": 3845.79,
+      "end": 3849.37,
+      "text": "Uh, and, and one of the first things they did at Shopify was actually, you know, help build"
+    },
+    {
+      "start": 3849.37,
+      "end": 3850.77,
+      "text": "this, this app ecosystem."
+    },
+    {
+      "start": 3851.13,
+      "end": 3855.97,
+      "text": "Um, I would say that the vast majority of apps that I speak to view some of these investments"
+    },
+    {
+      "start": 3855.97,
+      "end": 3856.99,
+      "text": "incredibly positive."
+    },
+    {
+      "start": 3856.99,
+      "end": 3859.81,
+      "text": "To your point, most companies don't do that."
+    },
+    {
+      "start": 3860.47,
+      "end": 3861.09,
+      "text": "Don't do what?"
+    },
+    {
+      "start": 3861.27,
+      "end": 3862.15,
+      "text": "Don't invest in there."
+    },
+    {
+      "start": 3862.25,
+      "end": 3865.19,
+      "text": "I mean, you brought the Apple example and said, Apple didn't invest in any of the flashlight"
+    },
+    {
+      "start": 3865.19,
+      "end": 3865.45,
+      "text": "apps."
+    },
+    {
+      "start": 3865.59,
+      "end": 3866.31,
+      "text": "I'm not actually sure."
+    },
+    {
+      "start": 3866.55,
+      "end": 3867.21,
+      "text": "I don't have any."
+    },
+    {
+      "start": 3867.43,
+      "end": 3867.75,
+      "text": "Sure."
+    },
+    {
+      "start": 3867.89,
+      "end": 3869.43,
+      "text": "I have no data on whether or not they did that or not."
+    },
+    {
+      "start": 3869.43,
+      "end": 3874.17,
+      "text": "But for us, it is, it is an endorsement that we like something that they are doing."
+    },
+    {
+      "start": 3874.35,
+      "end": 3879.19,
+      "text": "And the, the, the hope is that others see that and say, Hey, that is like maybe one"
+    },
+    {
+      "start": 3879.19,
+      "end": 3881.13,
+      "text": "day Shopify invest in mine if we need to."
+    },
+    {
+      "start": 3881.47,
+      "end": 3884.15,
+      "text": "Um, but I would, I would say that is incredibly positive thing for the ecosystem."
+    },
+    {
+      "start": 3884.43,
+      "end": 3884.57,
+      "text": "Yeah."
+    },
+    {
+      "start": 3884.65,
+      "end": 3888.17,
+      "text": "I think it's tough if I'm a building a Klaviyo competitor, I sort of feel like a body blow"
+    },
+    {
+      "start": 3888.17,
+      "end": 3889.01,
+      "text": "where I'm like, you know what?"
+    },
+    {
+      "start": 3889.01,
+      "end": 3891.13,
+      "text": "I guess they've picked the horse that they're going to ride."
+    },
+    {
+      "start": 3891.25,
+      "end": 3892.77,
+      "text": "But if you were, if you were building, let's just use Klaviyo."
+    },
+    {
+      "start": 3892.87,
+      "end": 3895.63,
+      "text": "If you're building a Klaviyo competitor, the way to win is not to get investment from"
+    },
+    {
+      "start": 3895.63,
+      "end": 3895.95,
+      "text": "Shopify."
+    },
+    {
+      "start": 3896.15,
+      "end": 3897.43,
+      "text": "It's to build a product better than Klaviyo."
+    },
+    {
+      "start": 3897.43,
+      "end": 3898.55,
+      "text": "Uh, I agree with that."
+    },
+    {
+      "start": 3898.67,
+      "end": 3902.37,
+      "text": "Uh, but it hurts like, you know, it's sort of like, Hey, this is the ecosystem that I'm"
+    },
+    {
+      "start": 3902.37,
+      "end": 3902.89,
+      "text": "playing in."
+    },
+    {
+      "start": 3903.05,
+      "end": 3906.13,
+      "text": "And you guys have, uh, you know, with your Midas finger picked Klaviyo."
+    },
+    {
+      "start": 3906.31,
+      "end": 3909.85,
+      "text": "But Klaviyo, you know, in that example, you know, that was a more recent investment for"
+    },
+    {
+      "start": 3909.85,
+      "end": 3910.31,
+      "text": "a long time."
+    },
+    {
+      "start": 3910.39,
+      "end": 3911.65,
+      "text": "We did not invest in Klaviyo."
+    },
+    {
+      "start": 3911.89,
+      "end": 3913.09,
+      "text": "We had invested in other companies."
+    },
+    {
+      "start": 3913.21,
+      "end": 3913.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 3913.43,
+      "end": 3916.03,
+      "text": "I'm not sure Klaviyo felt that that was a body blow."
+    },
+    {
+      "start": 3916.15,
+      "end": 3919.13,
+      "text": "I feel like that was, you know, they kept doing their thing and they kept adding more"
+    },
+    {
+      "start": 3919.13,
+      "end": 3919.65,
+      "text": "value to merchants."
+    },
+    {
+      "start": 3919.79,
+      "end": 3919.91,
+      "text": "Yeah."
+    },
+    {
+      "start": 3920.01,
+      "end": 3921.33,
+      "text": "But you didn't invest in another email provider."
+    },
+    {
+      "start": 3921.39,
+      "end": 3922.17,
+      "text": "But it doesn't mean we never will."
+    },
+    {
+      "start": 3922.29,
+      "end": 3922.43,
+      "text": "Yeah."
+    },
+    {
+      "start": 3922.71,
+      "end": 3922.99,
+      "text": "Okay."
+    },
+    {
+      "start": 3923.09,
+      "end": 3925.17,
+      "text": "And then is there any benefit for the, on the app store?"
+    },
+    {
+      "start": 3925.17,
+      "end": 3928.21,
+      "text": "Like if I'm Klaviyo, do I get a badge or there's no benefit?"
+    },
+    {
+      "start": 3928.33,
+      "end": 3932.65,
+      "text": "No, there's no chosen, uh, there's no favoritism in the app store based on Shopify."
+    },
+    {
+      "start": 3932.91,
+      "end": 3935.69,
+      "text": "We would lose all credibility if there was any favoritism."
+    },
+    {
+      "start": 3935.79,
+      "end": 3938.87,
+      "text": "And I think the reason that people trust the app store, they trust the reviews, they trust"
+    },
+    {
+      "start": 3938.87,
+      "end": 3943.55,
+      "text": "the rankings is because this is a place where you win by being too good to ignore."
+    },
+    {
+      "start": 3943.67,
+      "end": 3944.43,
+      "text": "You win by adding value."
+    },
+    {
+      "start": 3944.61,
+      "end": 3945.97,
+      "text": "You do not win by having a relationship."
+    },
+    {
+      "start": 3946.31,
+      "end": 3947.91,
+      "text": "I mean, forget investment for a second."
+    },
+    {
+      "start": 3948.07,
+      "end": 3951.37,
+      "text": "You know, I've been sort of co-hosting Shopify Unites for a long time."
+    },
+    {
+      "start": 3951.55,
+      "end": 3953.49,
+      "text": "I mean, you know, Nick, you've been coming to a lot of those."
+    },
+    {
+      "start": 3953.49,
+      "end": 3956.15,
+      "text": "Um, there are people at Shopify Unites that I would see year after year."
+    },
+    {
+      "start": 3956.49,
+      "end": 3959.23,
+      "text": "They have no other, they have no advantage on any other apps."
+    },
+    {
+      "start": 3959.41,
+      "end": 3963.03,
+      "text": "It is about as objective as it gets because it doesn't really matter what I think."
+    },
+    {
+      "start": 3963.15,
+      "end": 3963.71,
+      "text": "It matters."
+    },
+    {
+      "start": 3964.05,
+      "end": 3964.99,
+      "text": "What are you doing for our merchants?"
+    },
+    {
+      "start": 3965.23,
+      "end": 3965.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 3965.89,
+      "end": 3966.37,
+      "text": "Uh, okay."
+    },
+    {
+      "start": 3966.47,
+      "end": 3966.69,
+      "text": "Fantastic."
+    },
+    {
+      "start": 3966.89,
+      "end": 3968.05,
+      "text": "I really appreciate you saying that."
+    },
+    {
+      "start": 3968.05,
+      "end": 3971.51,
+      "text": "Uh, I think a lot of people on the app store, a lot of app providers that I talk"
+    },
+    {
+      "start": 3971.51,
+      "end": 3973.09,
+      "text": "to have a little bit of concern about that."
+    },
+    {
+      "start": 3973.17,
+      "end": 3974.81,
+      "text": "Uh, so I appreciate that type of clarity."
+    },
+    {
+      "start": 3975.09,
+      "end": 3975.87,
+      "text": "Um, good question."
+    },
+    {
+      "start": 3975.89,
+      "end": 3980.35,
+      "text": "I mean, this is, you know, I, I didn't come here to have like a, uh, you know, uh, like all hugs"
+    },
+    {
+      "start": 3980.35,
+      "end": 3983.75,
+      "text": "and rainbows and butterfly discussion, but these are the type of things that if they're"
+    },
+    {
+      "start": 3983.75,
+      "end": 3987.51,
+      "text": "on your minds and they're on our ecosystem, our partner's minds, I really love having these"
+    },
+    {
+      "start": 3987.51,
+      "end": 3987.89,
+      "text": "conversations."
+    },
+    {
+      "start": 3988.11,
+      "end": 3989.09,
+      "text": "I'm very glad to hear that."
+    },
+    {
+      "start": 3989.29,
+      "end": 3991.71,
+      "text": "Um, we're going to switch to the second episode."
+    },
+    {
+      "start": 3991.95,
+      "end": 3993.85,
+      "text": "Uh, so we're going to wrap this up."
+    },
+    {
+      "start": 3993.95,
+      "end": 3994.83,
+      "text": "Uh, the next episode."
+    },
+    {
+      "start": 3994.99,
+      "end": 3995.79,
+      "text": "We're staying here for a week, right?"
+    },
+    {
+      "start": 3995.93,
+      "end": 3996.81,
+      "text": "Yeah, we're staying here."
+    },
+    {
+      "start": 3996.93,
+      "end": 3998.23,
+      "text": "We're going to record the second episode."
+    },
+    {
+      "start": 3998.31,
+      "end": 3998.53,
+      "text": "All right."
+    },
+    {
+      "start": 3998.67,
+      "end": 4001.23,
+      "text": "The second episode, I just want to preview it for some of our listeners."
+    },
+    {
+      "start": 4001.47,
+      "end": 4002.63,
+      "text": "We're going to talk about marketing."
+    },
+    {
+      "start": 4003.07,
+      "end": 4006.57,
+      "text": "We're going to talk about some rapid fire questions for you and we're going to put on"
+    },
+    {
+      "start": 4006.57,
+      "end": 4010.21,
+      "text": "a shareholder ad, or I'm going to put on a shareholder ad at least because I'm a big"
+    },
+    {
+      "start": 4010.21,
+      "end": 4011.37,
+      "text": "investor in Shopify."
+    },
+    {
+      "start": 4011.61,
+      "end": 4015.03,
+      "text": "And I can tell you right after this conversation, I'm going to be a larger investor in Shopify."
+    },
+    {
+      "start": 4015.31,
+      "end": 4018.47,
+      "text": "I really believe in when I talk to you, I believe in the business even more."
+    },
+    {
+      "start": 4018.63,
+      "end": 4019.89,
+      "text": "Uh, so we're going to get into that."
+    }
+  ]
+}

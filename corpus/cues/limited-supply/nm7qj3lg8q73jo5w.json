@@ -1,0 +1,989 @@
+{
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 27.38,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights. Also, you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.38,
+      "end": 57.36,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. All year long, everyone has been talking about measurement and incrementality, specifically making sure that your customer acquisition channels are actually driving incremental customers. This year, everyone was looking for a new channel that has scale and drives actual impact. And at Sharma Brands, we test everything for clients. One that actually works and I'm excited to partner with for Limited Supply is AppLovin. Starting October 1st, AppLovin was a"
+    },
+    {
+      "start": 57.38,
+      "end": 87.22,
+      "text": "will be onboarding new advertisers who will be able to reach over 1 billion daily active users globally with over 150 million of those in the US alone. Think about everybody who plays Wordscapes or Candy Crush, for example. AppLovin integrates your ads into their game experience where it feels natural. To stay in the loop about product features, creative best practices, and how other advertisers are using the platform, go to nik.co slash applovin. That's n-i-k dot c-o slash a-p-l-o-v-i-n."
+    },
+    {
+      "start": 87.22,
+      "end": 111.36,
+      "text": "We are diving into the world of marketing, branding, D to C, which is direct to consumer for folks that aren't as up to speed as our guest here. Some retail and generally just how to crush all things marketing and make good on your customer promise."
+    },
+    {
+      "start": 111.36,
+      "end": 136.94,
+      "text": "And many of you know Nick Sharma, but I'm super excited to, or know of him or follow him, but I'm super excited to have him on the Highland podcast, if you will, or Fireside. He's one of the most influential voices in e-com and digital marketing today. He's known as the D to C guy. I don't know if he made up that nickname himself or someone called him that, but it's still pretty cool."
+    },
+    {
+      "start": 137.1,
+      "end": 164.08,
+      "text": "He's the D to C guy, so we're going to have to ask him about that. But on a serious note, he runs like a really successful full service digital agency or consultancy, and he works with some of the best brands, consumer brands in the world. I'll just name a few, and he can add on to it. Rare Beauty, Feastables, Brightland. We actually carry Brightland in the Haskell Creek store, by the way. And then I saw Taco Bell. Is that true? Do you work with Taco Bell?"
+    },
+    {
+      "start": 164.12,
+      "end": 193.7,
+      "text": "It is true. Yeah, we get contracted to do different project work for them. Most recently, it was creative to drive app installs. Okay, cool. And Nick also has a really awesome podcast that I started to listen to since we reconnected and invited you to Highland, and it's quite awesome. It's called Limited Supply, so I definitely recommend you guys check that out. So, big digital round of applause for Nick Sharma. Welcome, man. What's going on?"
+    },
+    {
+      "start": 195.52,
+      "end": 221.48,
+      "text": "Thank you for having me. For those who don't know, I've been a huge fan of Scott for like seven years now, back when he was at Classy. And yeah, it was sick. I remember messaging you on LinkedIn like seven years ago. And yeah, it's just cool to see where everything has gone. So, did you have a non-profit on Classy? Is that how I got on your radar? Because I was kind of like not – I mean, I was like sort of man behind the curtain."
+    },
+    {
+      "start": 221.48,
+      "end": 246.02,
+      "text": "And I wasn't really very well known personally. That's actually one of my questions, by the way, is the founder getting out front later on. But in my day, when I'm old, the founder wasn't really out front at all. You know what I mean? Yeah. No, it was – I was working with somebody who had a non-profit. And me, just being me, I was thinking, you know, what are the better platforms we could use?"
+    },
+    {
+      "start": 246.02,
+      "end": 276.02,
+      "text": "Or what are things we can be doing to drive more donations? And Classy was the thing that had all the features that we wanted. And so, that's how I found you, actually. That's cool. So, last night at the dinner table, we were talking about – somehow Highland came up. And I was forced into a conversation to explain like what I do to my kids. My kids are 12 and 10. And this came up. And they were like, what's Highland? You know, because we had this summit here. And so, your name came up. And I was like, well, you know, it's partly I teach. And then, you know, partly I interview people."
+    },
+    {
+      "start": 276.08,
+      "end": 301.98,
+      "text": "And they're like, who are you interviewing? I'm like, this guy, Nick Sharma. So, I told him what you did. And so, the first question is actually from my son, my 10-year-old son. And he wanted me to ask if he could get Mr. Beast's autograph. Because he worked with – It's so funny. That's always the first – I knew it was going to be Mr. Beast's question. Yeah, right? Yeah, that's funny. Okay, so we're going to – I want to dive right into the meat. And we're not going to do like – you know, this isn't like how I built this type of thing. I want to get right to the value."
+    },
+    {
+      "start": 301.98,
+      "end": 329.98,
+      "text": "But I do just want to spend like a minute or two on how you went from – did you grow up in New York? I was born in New York. When I was three, I moved to San Diego. And then when I was 17, I moved to San Francisco. That's where I started working for that guy who had the nonprofit. And then I was there until 2019 for about five years. And then moved here back to New York City. Okay, so I mean you're labeled the D2C guy. Like how did you go from that to becoming such an expert in all things D2C?"
+    },
+    {
+      "start": 330.1,
+      "end": 358.26,
+      "text": "Like give us a little bit of that journey and like how you ended up – as Jim Collins would say, and this actually changed the way I looked at Classy and even my own career. So what can you be best in the world now? It seems like you've really like attached to this particular, you know, skill set. And I'm just curious like how you evolved into that. So when I joined this company, Hint Water, which is a flavored water company in San Francisco,"
+    },
+    {
+      "start": 359.32,
+      "end": 386.92,
+      "text": "I didn't know anything about e-commerce or direct consumer. My only background was working at an ad tech company and working with publishers to drive a bunch of traffic to their sites. So everything from, you know, the clickbait of – that you see at the bottom of articles. Like you won't believe what this celebrity looks like 20 years later. All the way to working with – Oh, guilty as charged. Yeah, exactly. And then you get there and it's littered with ads, right? And they're making four cents as you're there. And the goal is that I can get them a click for two cents."
+    },
+    {
+      "start": 387.58,
+      "end": 408.26,
+      "text": "And then all the way to Refinery29, you know, driving traffic to the 29 peppermint products you need this Christmas. And that's another slideshow littered with ads. And so I really got good at marketing or I should say like paid advertising by driving traffic with them from Facebook to their sites."
+    },
+    {
+      "start": 409.54,
+      "end": 432,
+      "text": "And then that's kind of how I learned media buying and really just thinking about creative and click-through rate and what gets people to click and what gets – how do you get people to stay or go through a couple slides. And then from there, when I joined Hintwater, my CFO was like, hey, no one lasts in this job. You know, go get 5,000 new customers or, you know, we're moving to somebody else."
+    },
+    {
+      "start": 432,
+      "end": 456.88,
+      "text": "And so my – initially going in, I saw, you know, these guys, a good day for them was 80 customers at an $80 acquisition cost. And they were like, you know, if we hit that, like that's a solid day. And so I was thinking, you know, these guys are spending on ads. They're spending $5 a click to get somebody from Facebook to click an ad that says buy watermelon still and sparkling get 20% off."
+    },
+    {
+      "start": 456.88,
+      "end": 485.32,
+      "text": "But there's no sort of like – there's nothing, you know, coming from the world where I was basically clickbait farming on Facebook. I was like, this has no pattern match to good clickbait. And so I thought, what is clickbait that is not necessarily clickbait? It's still, you know, it still delivers on the promise. And so we had created this article with – the hustle was just launching at the time. And I went to them and I said, hey, I have this founding story of the brand. We want to write it and put it up on the site. We'll drive traffic to the site."
+    },
+    {
+      "start": 485.9,
+      "end": 512.84,
+      "text": "You can collect emails. I think they collected 150,000 emails as a result from people coming to the site. But we're going to drive all of our traffic to the hustles article. And then from there, people will read it. They're going to want to click the link. Every time we mention hint, it'll be hyperlinked to a landing page where they get an offer for a variety pack. And, you know, I thought this could work because it's the same thing of like instead of going to a product page and saying, you know, try these things and get X percent off."
+    },
+    {
+      "start": 512.84,
+      "end": 541.2,
+      "text": "It's like, hey, meet the founder, you know, meet the female founder who built this $100 million business after a Coke exec called her sweetie. You know, something like that. It was very dramatic. And so within two weeks of that article going up, we're doing two, three, four, 5,000 new customers a day at like a $30, $40 CPA. And there were days I'd wake up and we've already spent 150 grand on Facebook, super efficiently brought in an insane amount of customers."
+    },
+    {
+      "start": 542.04,
+      "end": 571.02,
+      "text": "And so that was kind of how I learned e-commerce. Like I figured that out. That became a little honey hole. That gave me kind of the autonomy within the company. Keep in mind, I can't even drink alcohol at this point. I'm 20 years old when I joined as their director of performance marketing. So I didn't go to college. So I have four years of a head start basically. So I joined this company. I can't even drink alcohol. All of a sudden we're doing 5,000 new customers a day. The whole business is ripping. This causes the Amazon business to blow up, the retail business to blow up."
+    },
+    {
+      "start": 571.18,
+      "end": 599.36,
+      "text": "We end up doing a whole rebrand. And I had the most autonomy in the world, which meant that I basically got to like learn everything on their dime, which was pretty amazing. So that's kind of how I learned e-commerce was just being thrown into it and being told that I'm going to be fired if I don't hit a certain number. And then from there, I learned everything about performance marketing with Meta and with Google and building out new sites on Shopify and how email works and promotions."
+    },
+    {
+      "start": 599.36,
+      "end": 629.32,
+      "text": "And how does this all interface with the operations and supply chain side and all of that kind of stuff. So I did all that. And then from there, I got brought out to – and actually, when I was at Hint, one thing that I used to always do – so when I was in high school, I did social media for different celebrities. And by the time I left high school, I was doing Facebook and Twitter management. Instagram wasn't really a thing for Pitbull and Priyanka Chopra, this band called Magic, this dude Frankie J."
+    },
+    {
+      "start": 630.96,
+      "end": 660.82,
+      "text": "And so when I was doing that, I would always test stuff on my own Twitter account or my own Facebook account. It might be an app. It might be a growth app, whatever it is. And so part of that, I used to also do – or when I got to Hint, I thought, well, let me just take whatever my learnings are, whatever does really well. I'll just talk about it on Twitter. And maybe I'll find other cool people who are doing things. Because in San Francisco, there was like Hintwater that was doing direct-to-consumer. There was Third Love. There was Madison Reed. And there was Stitch Fix."
+    },
+    {
+      "start": 660.82,
+      "end": 690.32,
+      "text": "There was really no other high-performing e-commerce businesses there at the time. And so anyways, I started tweeting about the things that were working, like this style of campaign works, this approach to creative works, this type of a landing page outperformed the other one. And all of a sudden, I started meeting all these other really smart people. When I'd come to New York, all these people wanted to grab coffee. And I just thought, oh, this is a total hack to build a network. Like I'll just talk about the things that did well."
+    },
+    {
+      "start": 690.52,
+      "end": 720.1,
+      "text": "If other people can replicate it and benefit from it, then they want to hang out. And so that is how I started just naturally building a following. No intention to build a following. In fact, I think people who try to build a following end up becoming very corny as a result. But I think this like no intention to build something and just putting winnings out there and everything being tactical really helped to build that following. And then there was actually this guy, David Perel, who I consider one of the smartest people in the world. Amazing writer."
+    },
+    {
+      "start": 720.92,
+      "end": 750.14,
+      "text": "He's the one who said, you should call yourself the DTC guy. And then somebody on an Adweek podcast mentioned it. And very quickly after they put that out, if you Google the DTC guy, that Adweek article would pop up. And it would say Nick Sharma. And now if you Google, it's like I'm the only thing that comes up. That's pretty sweet. Love it. So speaking of not being able to drink alcohol or drinking alcohol, I want to talk about drunk grandmas. And everyone that's listening is probably like, what in the hell are you? What did you just say?"
+    },
+    {
+      "start": 750.22,
+      "end": 776.92,
+      "text": "I love drunk grandmas. All right, cool. So this is a framework I heard of yours on some podcast or something. Maybe it was yours. But I think it was actually an interview where you were talking about the clarity of the message, the external message. And so you just talked a lot about writing. I mean, what stood out about what you just said was, okay, yeah, there's a lot of iteration and stuff. And you had to learn how to write in a way, at least copyright. Right. And that's something that I've been working on for years and years and years, but I've had to spend the last couple of years, especially honing the skill."
+    },
+    {
+      "start": 777.06,
+      "end": 805.26,
+      "text": "And I can't say I'm a pro or anything, but it's something that you're just always kind of working on. So when people come to you, and this is similar to Highland too, where a company will enter. And we focus more on internal communications here, not necessarily external, but the internal drives the external, the mission, the values, the vision, like clarity of who you are essentially makes it much easier to clarify your external voice. And you're just talking about it in ad copies."
+    },
+    {
+      "start": 805.4,
+      "end": 834.58,
+      "text": "So you don't necessarily need to go as deep here, but you're also working with folks on their entire website and their whole presence at this point. So explain what the drunk grandma test or framework is. By the way, I'm not even sure you call it that. I just, I know it's two different things, but it just sounds cool. The drunk, the drunk grandma test. So explain what you do with clients and like how you help them clarify their external message. Yeah. So the drunk grandma thing."
+    },
+    {
+      "start": 834.76,
+      "end": 861.66,
+      "text": "So I always say that, so I have this thing called the grandma test and it's evolved from the mom test because now moms have fast phones and generally have good internet connection. Grandma is not always. And so it's actually, there's, I always say there's two, two people. You have to make sure that your website, your ad, your email, your messaging, positioning, whatever it is, needs to appeal to. One is somebody who's had a few drinks."
+    },
+    {
+      "start": 861.66,
+      "end": 888.9,
+      "text": "So somebody who's had a couple of whiskeys, they get to your site, they click an ad, you know, if they can't understand, this could even be a podcast ad read, right? Like this morning I was listening to a podcast. HubSpot had an ad in there and it was like, get back to data-driven, efficient marketing with tactics inside the HubSpot. It's like, what the fuck are you guys talking about? You know, just tell me what you're doing. Like, is it a better CRM? Like, that's all I need to know. So one is like somebody who's drunk."
+    },
+    {
+      "start": 889.02,
+      "end": 908.92,
+      "text": "The other one is a grandma, you know, can your grandma understand exactly what you're selling, what you're saying, whether it's B2B, whether it's direct-to-consumer, whether it's poopery, whether it's protein powder, whatever it is. If a grandma can't understand it, then it's probably too complicated. And then the layer behind that is also within the context."
+    },
+    {
+      "start": 909.18,
+      "end": 936.28,
+      "text": "So if somebody's listening to it, if a grandma's listening to it and she hears a podcast ad read, is the URL something that she can easily remember or say to somebody else or know how to spell when she hears it? If it's a website, does the page load fast enough to where on a phone that may not be connected to Wi-Fi and have shitty internet or might be a tiny iPhone, does the thing load properly? So it's really just like thinking about putting yourself in their shoes, really, understanding their context."
+    },
+    {
+      "start": 936.48,
+      "end": 962.94,
+      "text": "You know, whenever we, and by we, I think I mean everybody, like, you know, everybody's always drinking their own Kool-Aid. And when you drink your own Kool-Aid, you tend to have a higher floor of knowledge than the person who is probably consuming what you are putting out. And, and so you have to be, you have to basically just have empathy for whoever is consuming your content, your ad, your product, your, you know, whatever it is."
+    },
+    {
+      "start": 962.94,
+      "end": 991.56,
+      "text": "Um, and so the drunk grandma test is basically is, is this easy enough for somebody to understand? And, um, and the drunk test literally came about because at, when I was at Hint, after I could legally drink, we would do this in the office at nights where we would pour some whiskey and then give somebody an ad and a landing page journey and see if they could figure it out or give them an advertorial to read an article. And what, if, if you had a couple of whiskeys in you, could you still follow the article and understand it?"
+    },
+    {
+      "start": 992.08,
+      "end": 1020.16,
+      "text": "Um, it also, the last part of this I'll say is like, everything I love to write is at a fifth grade level or below. So a fifth grader or younger should be able to read this and understand it. Um, which is just another, become another good little trick or hack for copywriting. Yes. It's very, very mad men of you. I love it. And I don't know if we just elevated the test to drunken grandma. So if your grandma's drunk, can she understand it? I mean, that's next level. That's the ultimate test. That's the ultimate test."
+    },
+    {
+      "start": 1020.3,
+      "end": 1050.24,
+      "text": "I'm not sure we can, anyone can get to that level. It's like, it's a very pro move. Um, okay. So, you know, I want to, I want to jump into the, the, to really the, the deeper value and try to, um, extract some learnings and some insights and tips and stuff, uh, for the founders on the call. And then we're going to open it up to questions and I'm going to, I'm going to reserve a good amount of time more than normal actually for questions because this, this particular topic is so tactical. And I want the founders to start thinking about questions now and how to bring their own company into the conversation."
+    },
+    {
+      "start": 1050.24,
+      "end": 1076.1,
+      "text": "But generally speaking, um, I've always thought of the marketing game as essentially two sides or two strategies, um, that, you know, are sort, sort of independent, um, maybe play off each other. And that's part of the question, but you have organic on one side and you have paid advertising on the other. Uh, I want to hit both. Um, but I want to start with a baseline question, which is really just about where you're trying to drive people in the first place."
+    },
+    {
+      "start": 1076.1,
+      "end": 1102.78,
+      "text": "And, and the way I think about it, I want you just to react because you obviously you're way more, um, you're, you're way deeper in this. I think of social selling, which is like a funnel through a social platform. Like you can actually convert through the platform. You're not brought to something else or it's deeply integrated, at least Shopify selling, which I guess is just anything off the website. And other paid ads and whatever. And then Amazon selling, which feels like its own channel and its own distinct strategy."
+    },
+    {
+      "start": 1103.5,
+      "end": 1129.34,
+      "text": "Did I, I mean, I just want to like, it's a really baseline question, but I think a lot of folks, um, would love to hear your thoughts on those three. Are those three distinct things? Do they tie into each other? Like, how do you think about that? And do you do, do you devise strategies for each of those, um, funnels essentially? Or how do you, how do you think about that? And those three, you mean like organic paid and then where you send the traffic? Not even organic paid. We'll get to that. I mean like the actual like conversion funnel."
+    },
+    {
+      "start": 1129.56,
+      "end": 1155.86,
+      "text": "So like, like, like, you know, converting through Instagram, for example, um, or converting through a Shopify site or converting through Amazon, like almost different channels. And then on top of that would be paid in organic and we'll get to that. But I'm just curious if, am I thinking about those three sort of main conversion for any D2C brand correctly? Yeah. I mean, like with D2C, I mean, in anything, honestly, B2B, D2C, you know, um, whatever it may be."
+    },
+    {
+      "start": 1156.48,
+      "end": 1181.68,
+      "text": "Um, I always think you sort of have to figure out like where, in what context are you meeting this person? Um, and then how are you bringing them in differently? So for example, if you're running an ad on Instagram or you're driving traffic from Instagram, you know, it's probably going to speak to somebody differently than if they're coming in from an email they clicked on or a newsletter of a complimentary brand. You know, that's also driving traffic."
+    },
+    {
+      "start": 1182.34,
+      "end": 1211.92,
+      "text": "Um, a lot of times too, you can make, uh, the place you're driving traffic to more efficient by, you know, if you know that somebody has higher intent, you can remove some of the things that are maybe more education focused and vice versa. If you know that somebody is coming in with a lower intent to buy, or maybe isn't as familiar, then you can focus on the things that, you know, are going to get somebody to convert or, you know, be smarter about how you merchandise product, knowing that this is a first time customer versus somebody who, you know, understands the brand."
+    },
+    {
+      "start": 1212.52,
+      "end": 1233.58,
+      "text": "Um, most, most companies will have a generic website that they drive all of their traffic to, and they tend to drive their traffic either to three places, the homepage, the collections page, which is a grid with multiple products. That they choose from, or a product page. And when you drive to the homepage, um, you know, you're basically speaking one way."
+    },
+    {
+      "start": 1233.68,
+      "end": 1260.24,
+      "text": "Your homepage speaks in one narrative with one message and kind of holds one thing on a pedestal, um, which usually is the most universal thing, but it's not. Then if you're running advertising to specific communities or audiences, it's not targeted in that sense where, you know, you might be selling a Jolie showerhead and your ad might be talking about eczema, but then they get to the homepage and it just talks about filtered water. It doesn't, doesn't connect back to eczema."
+    },
+    {
+      "start": 1260.86,
+      "end": 1290.12,
+      "text": "Um, if you go to the collections page or the product page, those are, those are, um, generally where most people drive traffic to, but then they don't, again, speak to the education point. A collections page is generally just like, Hey, you clicked an ad and boom, which product do you want to click on to buy? Or you get to the product page and it's like right at the top, there's a huge shop section. Uh, and you know, right below it, a lot of times there's not enough information to give context on what is the product? Where is it sourced from? How does it work? What comes inside?"
+    },
+    {
+      "start": 1290.28,
+      "end": 1302.42,
+      "text": "How does it compare to other products on the market? All that kind of stuff. Um, so that said, I know a unique landing page. Are you talking about basically a unique landing page for that specific, whatever the call to action or product was on the front end?"
+    },
+    {
+      "start": 1302.42,
+      "end": 1327.56,
+      "text": "Um, yeah, either, either a unique landing page, you know, honestly, I think every, every place you drive traffic from, whether it's an influencer, an email, an Instagram ad, organic social, like your link in bio, they should all go to, to separate, uh, URLs either because it's a, it's just a, it's a generic URL with some sort of a tracking parameter on it, or you just isolate the traffic and send it to a specific landing page based on where the traffic is coming from."
+    },
+    {
+      "start": 1329.8,
+      "end": 1353.48,
+      "text": "Um, but, but then there's also like, you know, there's a bunch of brands like, uh, that are just more high performance Facebook brands typically where they will then build their PDP, their product pages into, you know, basically full on landing pages. Um, and I can pull up a quick example here. Uh, so, so, so is Amazon a completely different animal? Like, how do you think about that? That was kind of what at the root of my question."
+    },
+    {
+      "start": 1353.48,
+      "end": 1383.24,
+      "text": "It's almost like as a, as a, as a person doing content, you know, it's like kind of easy to do the LinkedIn thing, the X thing, sort of the Instagram thing. But then like YouTube's its own animal. Like if you decide to go on YouTube, that's like a big deal. It's a big decision. Like it's a whole nother production process. So I'm, I was just curious, like more of as, again, as a baseline, like a lot of the work you do is drive or, you know, driving organic or paid traffic to landing page to the website, whatever they're converting. Then you have this Amazon thing. Like how do you, how and when does that come into play? If at all."
+    },
+    {
+      "start": 1383.64,
+      "end": 1409.42,
+      "text": "Um, yeah, I mean, for Amazon, you know, Amazon's a lot like going into target in the sense that when you get in, you sort of have to make a splash. And if you don't make a splash and move your rankings up, um, you know, then you're sort of, uh, I mean, you, you, you can still move it up. Basically the thing is you don't want to move up in rankings and then fall out. You don't want to get in, sell a bunch of product and not be able to continue fulfilling it."
+    },
+    {
+      "start": 1409.76,
+      "end": 1427.42,
+      "text": "Um, it's also a game of like reviews and just, you know, it's, it's slightly different content that you're putting up. Um, yeah, I'm, I'm a fan of Amazon. There used to be a lot of like, I think debate between Amazon versus direct to consumer. You know, Amazon doesn't give you a lot of customer data, um, direct to consumer, you get all the customer data."
+    },
+    {
+      "start": 1428.02,
+      "end": 1457.68,
+      "text": "Um, but at the same time, I think that you, as much as you want to isolate, you know, where customers are making a purchase, like they're going to have exponentially more trust when they're on the Amazon site than your own website. And they're giving their credit card information. Um, you know, people, Amazon's already built a brand around customer service and fast delivery and, you know, not ripping people off. So you've got that trust in that brand already. And, um, I mean, you, you sort of got to just meet consumers where they are."
+    },
+    {
+      "start": 1457.78,
+      "end": 1484.22,
+      "text": "You can't really force them, uh, to, to just go to your site. You can do things like, you know, if you've got 25 flavors of something or 25 colors or, you know, different variations of a product, you can have your top three to five best sellers on Amazon. So you capture the demand that goes there and then have the alternatives on your website. So you're still, you're fulfilling the Amazon customer, but you're also giving them a reason to come back to your site. Um, and that tends to work pretty well."
+    },
+    {
+      "start": 1484.76,
+      "end": 1514.08,
+      "text": "Um, but yeah, the other, other consideration for Amazon is like, if you're a grocery product and you're selling in target and you happen to run a sale during the summer in target, uh, then Amazon's going to match your target price and potentially, uh, cannibalize some of your direct consumer sales. Hmm. Interesting. So we'll get to the multi-channel thing in a second. Cause I have, I have more questions, but I want to go into the organic. First paid, uh, conversation. Cause I think there's a lot, a lot in there."
+    },
+    {
+      "start": 1514.44,
+      "end": 1542.7,
+      "text": "Um, I mean, I come from obviously B2B, uh, sort of like the HubSpot playbook. You write blog articles, you create free guides or templates. People give you their email address. You grow your lead list or your newsletter from there. I mean, people are still running this playbook today and very, and, and variations. Um, and classy is so successful. It took a long time, but classy was so successful at this, that our blog is more popular than every trade publication in the nonprofit space combined. But it took like 10 years. It took forever. You know what I mean?"
+    },
+    {
+      "start": 1542.88,
+      "end": 1569.72,
+      "text": "So like half, you know, in the beginning we're like, God, why are we doing this? I mean, we, we did hire two writers before we even hired our first sales person. We were that dedicated to content early on. And I think it was a big reason why ultimately we kind of just like, you know, kind of exploded at some point. Um, and I see people doing this formula and it still seems to work. I mean, I mean, I write really long articles on purpose still for like sort of long tail SEO. Um, but it's still, it feels a little old school."
+    },
+    {
+      "start": 1569.92,
+      "end": 1595.06,
+      "text": "And then I, like, um, I wanted to ask you, like, is that a playbook that's still working for brands in general, whether it's B2B or B2C, just like, just like deeper, richer content creation, whether it's on a blog or, or the equivalent, um, and driving people through sort of education and that type of content. Or are you seeing a mix of that plus like sort of new age social media or like, how are you, how do you, when you go into a brand, you're talking about organic, like first, Hey, how do you think about an organic strategy?"
+    },
+    {
+      "start": 1595.06,
+      "end": 1621.74,
+      "text": "And what's sort of a tried and true playbook, um, that may, may work across a broad swath of customers? Yeah, it's a good question. I mean, for, I think it's different for B2B versus B2C on the B2C side. I, I'm a huge fan of trying to crack the code on, on organic because essentially if you're running ads, it's, it's a supplement for not getting eyeballs another way, right? Running ads is just basically, you're paying for eyeballs."
+    },
+    {
+      "start": 1621.96,
+      "end": 1644.08,
+      "text": "You're forcing, uh, eyeballs to look at the, the content you're putting out and brands that can crack the organic side are, you know, like we have, we have some clients that get a hundred to 500 million views organically. Which saves them anywhere from, you know, uh, it's really a couple million bucks worth of advertising dollars, uh, in eyeballs that they're getting."
+    },
+    {
+      "start": 1645.1,
+      "end": 1673.34,
+      "text": "And, uh, the other reason that organic is, is, uh, is, well, it's hard to crack because on the paid side, you just push, push stuff out there and you put dollars behind it. And there's no, there's no, uh, you know, like you don't know what's better until you see it. But if you're just putting out mediocre content and you're getting some CPA or acquisition costs close to what you're happy with, you're not going to really improve it on the organic side. If you don't have good content, it's just not going to work. And you have to keep trying to figure out what works until it works."
+    },
+    {
+      "start": 1673.46,
+      "end": 1695.24,
+      "text": "And then it resonates with, uh, who is consuming it. And, um, if you can crack the organic side, it makes it a hundred times more efficient to crack the paid side because organic is really, if you, if you do it well, organic is, is laying the foundation and the awareness for the paid side to go after in a more targeted and, you know, more lower funnel manner. Um,"
+    },
+    {
+      "start": 1697.06,
+      "end": 1725.8,
+      "text": "When you say organic, Nick, like today, like if we're thinking of like an organic piece of content, like what are some examples of that? I know it's like basic, but is that a social post to you? Is that like a blog? Yeah. I'm, I'm mainly thinking like in the B2C world, uh, I'm thinking like short form video. That is probably the easiest way to get eyeballs is just cracking the code on short form video. Um, you know, from there, Instagram or just multi-channel."
+    },
+    {
+      "start": 1726.2,
+      "end": 1754.64,
+      "text": "Instagram, TikTok and YouTube shorts. Uh, and honestly, even LinkedIn, like LinkedIn is cranking right now on the video side, but, um, um, short form video is probably the easiest way to get eyeballs with. It's like the intersection of, uh, most eyeballs for least amount of work you have to put in is short form video. Um, and it's, it's virtually free cause you can just do it on your iPhone and put it out. So who does short term video or short form video? Well, is there like an example that pops into your head?"
+    },
+    {
+      "start": 1754.72,
+      "end": 1782.72,
+      "text": "Like, cause I think when people get in front of the camera, they don't know what to do. You know what I mean? Totally. It sounds easy once you get into a groove, but like to these founders that, and we've seen it, this work in B2B too. So it's not just B2C, but like, I'd love to hear maybe an example or two of people doing it well, or what you would consider a good short form video for specifically for selling. Yeah, totally. Um, well, that's the other part is sometimes it's not necessarily, yeah, maybe you're not selling. It's like, you're just putting the, the awareness out there."
+    },
+    {
+      "start": 1782.86,
+      "end": 1812.82,
+      "text": "One brand that comes to mind is, is called Waterboy. Uh, they're an electrolyte brand based out of Austin. They'll do, um, you know, double digit millions in sales and barely spend any real dollars on advertising. It's all because of the awareness they generate on TikTok, which has then gotten them into, uh, some great retail relationships. Um, another one is a bikini brand called Strawberry Milk Mob, um, which is, is huge on TikTok, uh, as a result of just creating content."
+    },
+    {
+      "start": 1813.02,
+      "end": 1839.64,
+      "text": "Her goal is to wake up and post 20 TikToks as fast as she possibly can. Um, some other brands that do- And these are the founders post, sorry to interrupt, but these are the founders like posting them themselves, which comes back to my original question, which we didn't really get to. It was like, I, as a founder, granted I was B2B, but I wasn't, I wasn't out in front. I wasn't like a personality for my brand. In today's world, do you feel like that's a prerequisite for companies, especially in the, in the D2C or B2C side?"
+    },
+    {
+      "start": 1839.8,
+      "end": 1869.62,
+      "text": "And if not, what's the importance of having like a partner or an influencer or someone that can be that person in front of, of your brand? Yeah. I don't think you necessarily need to have a person in front, but I do think that like, um, you know, the same way that like the, the same way that you could see, see the rise in like alternative media channels, podcasts, uh, YouTube shows, live streams, things like that. I think that's happening on the B2B side with a bunch of more like B2B focused content creators."
+    },
+    {
+      "start": 1870.08,
+      "end": 1898.76,
+      "text": "You know, if, if, um, if Shopify, like, like Shopify will usually, if they have some big updates, they want to route that in through my newsletter because it's, uh, it's, it's something that people, they know people will read versus, you know, who's going to go to emarketer.com and read like Shopify's press release. Um, I, I think that thing is definitely happening on the B2B side, but I don't think you necessarily need to have a face. Like I think of this company Okendo, which is like a reviews app that I invested in on Shopify and, you know, they have no face."
+    },
+    {
+      "start": 1898.86,
+      "end": 1925,
+      "text": "The founder isn't really well known. Uh, his name isn't super talked about, but they just have a strong, they have strong brand. They do good, a good job with showing up at events. They do a good job with partnerships with other companies. Um, you know, there's basically like a few different levers and I think you don't necessarily have to pull on all of them. You know, if you pull on a few that you find work really well for yourself, I do think like the advantage of, of your face being out there."
+    },
+    {
+      "start": 1925.4,
+      "end": 1952.16,
+      "text": "Uh, and this is just speaking from my own experience is that everything that I put out, you know, I put it out with the intention of reaching either a founder of a new company who's bootstrapped and has no money to, to go and pay for things. So, you know, that persona I write for is like super tactical things they can do today that they don't have to spend money on. One is a CMO of a company that's doing over 50 million. So those are things that are generally more focused on scaling customer acquisition, et cetera."
+    },
+    {
+      "start": 1952.78,
+      "end": 1982.72,
+      "text": "And then the third one is, is an investor into, uh, these direct consumer brands where in theory they should, I should have something that is very tactical and they can forward it to somebody and say, Hey, this, you know, do this or take a look at this or look at this part. And execute that. So I think like what, what that does is, um, it just gets, you know, when it's coming from a person rather than coming from my company, it makes it feel a lot more like personalized or human or one-to-one. Um, and it just kind of adds that like personality to it."
+    },
+    {
+      "start": 1982.82,
+      "end": 2012.82,
+      "text": "Whereas, you know, if a, if a company is writing with some sort of a personality, it's like, I don't know if you, you would trust it as much. Mm-hmm. Yeah, that's actually, that's awesome. So you're talking about basically almost content buckets around personas. And I think people really get stuck there kind of on the starting line of like, what do I write? Or what do I even talk about? Cause if you're not, if you're not gonna, you don't want to oversell, you don't want to just talk about, Hey, buy this thing, obviously. Um, but then you need something on the periphery that's sort of related to the product that kind of makes sense."
+    },
+    {
+      "start": 2013.06,
+      "end": 2042.5,
+      "text": "Like, how do you, for you, you just described yours, but, um, do you advise some of your clients on like how to figure that out? Like how to actually figure out what to talk about? That's, that's sort of tangential, but relevant. Like how does a founder go about doing that? Yeah. Um, well there, there was actually this, uh, so there's, there's a few, there's a few writing courses I took that were really helpful. In, in, in figuring out frameworks and whatnot to have like unlimited things to write about."
+    },
+    {
+      "start": 2042.76,
+      "end": 2066.76,
+      "text": "Uh, one of them is this one, which I'm posting a link for, which also they talk about their, uh, frameworks to create endless content. Um, another one was Sean Puri's power writing course. And then the third one was David Perel's, uh, rite of passage course. All three are very different, but sort of get to the punchline of like, here's how you create a bunch of content that is, you know, essentially going to perform well."
+    },
+    {
+      "start": 2068.1,
+      "end": 2094.16,
+      "text": "Um, I would say, you know, it kind of depends like for the, for the brands we work with, it's probably different. It's more focused on what is working in their category or what are we seeing things? What are, what are more macro things that are working on the B2B side? I think it's straightforward. It's just like, okay, what is something where somebody can read it on the left side of their screen? And then on the right side of the screen, do something about it. And ideally it rewards them in some way, either it saves them time. It makes them money. It does, you know, it does something."
+    },
+    {
+      "start": 2094.82,
+      "end": 2119.88,
+      "text": "Um, so whenever I create content, you know, I'll, I'll, no one knows anything about my personal life on the internet because I don't think they care or, you know, really would want to care either. I think they only want to see stuff that they read it and then it can make money. Um, and so I'm, I'm a fan of like everything being actionable or tactical on the B2B side. I think anything else that you post is pretty useless and it, it just doesn't get engagement."
+    },
+    {
+      "start": 2120.32,
+      "end": 2149.16,
+      "text": "Um, on the B2C side, I think it's all around understanding that people are consuming content. You know, they're, they're not going to, they're not going to open TikTok for the purpose of, you know, they're not like, I really want to learn something today. And they open TikTok or YouTube or Instagram. They're, they're there cause they want to be entertained. And so I think from that standpoint, you want to create content that is either a entertaining or B something that gets thrown into a group chat. Um, and, uh, yeah, drives shares."
+    },
+    {
+      "start": 2150.38,
+      "end": 2175.92,
+      "text": "So short form video is like a really far distance from like a podcast. If you know, those are completely different content types. Um, and, and with a completely different preparation process, everything's different. How do you like if, if short form isn't speaking to someone, like, they're just like, that's just not me. Or like, I mean, I'm kind of in that bucket. I've tried short form. I just have a much better. And granted it's just, it's, it's only a couple of us doing my, this Highland right now."
+    },
+    {
+      "start": 2176.14,
+      "end": 2201.24,
+      "text": "Um, but you know, I am out in front with Highland and it feels way more natural to do longer pieces of content, way more natural to do stuff like this. Like almost podcasts for me personally. But when you're meeting with founders and stuff, like, is it, is, is short form just so effective that you're like, no, you need to figure out a way to do this? Or is it sort of like a, oh, well, if your personality type is this, maybe lean into the long form stuff. Like, how do you, how do you advise around that? Yeah."
+    },
+    {
+      "start": 2201.3,
+      "end": 2222.58,
+      "text": "I mean, I think if, uh, if, if you're more suited for long form stuff, you should totally do long form stuff. Um, I feel like, you know, as long as content is good, it will always get consumed. You know, if you look at Netflix document, you know, people are like, oh, there's no attention span. Look at how many Netflix documentaries absolutely rip globally. Those are, you know, one to three hours long."
+    },
+    {
+      "start": 2223.18,
+      "end": 2252.68,
+      "text": "Um, same thing with like, if you look at some of these, like more guru type people on YouTube, these guys have built followings with long form content. It's not that long form content won't work, but I think the key is that you have to figure out how are you driving eyeballs back for people to discover it in a way that is convenient to them. And that is usually taking long form content and transcribing it. Like a lot of times I'll take a podcast episode and turn that into a newsletter because I know people love consuming the newsletter and that might drive traffic back to the episode."
+    },
+    {
+      "start": 2252.68,
+      "end": 2275.06,
+      "text": "Or you do it with, uh, you know, you, you, you plant certain clips inside, um, inside the podcast that become clippable and, uh, you know, do well on the short form platforms to then drive traffic to the longer form piece of content. Um, and if you're doing those things, I mean, do you always look for like sponsors or other ways to monetize that?"
+    },
+    {
+      "start": 2275.06,
+      "end": 2299.46,
+      "text": "Or is it more, um, you know, if, if like a brand has a podcast is it's like, it's kind of all about them or how do you think about that? Yeah, I would. Um, so for me personally, I, uh, I have sponsors on my podcast, uh, every season we have a different sponsor and, um, and it's always a, uh, a vendor or a partner that we work with at my company."
+    },
+    {
+      "start": 2299.88,
+      "end": 2328.68,
+      "text": "Um, so it's never like a random company, but if I, you know, if I was like, um, if I was a tech company and I had a podcast, I probably wouldn't have any sponsors on it. Um, if anything, I would maybe flip it and say, you know, who are, who's like one customer we can bring on and talk about every time or, or something of that nature. Um, but, um, but yeah, for me, I mean, I started the newsletter and podcast really as like me versus coming from my company. So initially I would just fake the sponsorships."
+    },
+    {
+      "start": 2328.84,
+      "end": 2355.72,
+      "text": "I just companies I invested in, I'd, I'd put them as the sponsor and then that started to get people interested in, Oh, I wonder if I can sponsor that. And, um, and then slowly started getting inquiries about sponsorship. And now there's a, there's like a partnerships team that handles it all. You know, me, I only like to share things that are tactical, practical, and actually work. So that's why I'm excited to talk about app loving today. You've likely heard of app loving, but let me tell you why it's an exciting ads platform."
+    },
+    {
+      "start": 2355.72,
+      "end": 2382.34,
+      "text": "Starting October 1st, app loving will be onboarding new advertisers and soft launching their self-service platform. That means that by October 1st, you'll be able to reach over a billion daily active users daily. This season on limited supply, I interviewed Miranda who scaled in a thousand dollar a day ad spend to $70,000 a day in app loving ad spend. The channel actually has real scale to stay in the loop about creative best practices, new product features,"
+    },
+    {
+      "start": 2382.34,
+      "end": 2406.19,
+      "text": "and see how other advertisers are leveraging the platform to prepare for October 1st. Go to nick.co slash app loving. That's N I K dot C O slash A P P L O V I N. All right, let's jump over to, to paid. We kind of hit, hit organic pretty well. Um, so obviously paid is when you're paying for an advertisement across whatever platform,"
+    },
+    {
+      "start": 2406.19,
+      "end": 2427.25,
+      "text": "trying to convert them right there or soon thereafter, I would imagine was retargeting or, or, or, you know, other strategies like that. Like, um, I guess for everyone on the, on, on the call, I know that people struggle with like when to start paid and how to start it. Maybe we just, we just tee that question up for you. Like when should, when should someone go, okay, now's the right time to start paid advertising and, and how do you start?"
+    },
+    {
+      "start": 2428.15,
+      "end": 2450.05,
+      "text": "Yeah. I mean, for me, if, if I'm doing paid, uh, you know, first I want to make sure that wherever I'm deciding to drive traffic to is like fully buttoned up. Ideally it's been validated through other traffic sources, whether it's organic social or email or, you know, you're, that's just the link that you tend to give out to people to sign up or, or leave a, leave a info on a form, whatever it is."
+    },
+    {
+      "start": 2450.61,
+      "end": 2480.01,
+      "text": "Um, on the paid side, if you're going B to C, you know, you want to make sure you have a decent enough budget to test things because you're, you're basically looking to, you know, paid is like, think of it as like the jackpot or like a casino slot machine. You really have to get five things lined up in a row for paid to work really well. It's gotta be, you know, your positioning of the brand and the product. It's gotta be what the creative looks like. It's gotta be the copy within the creative. It's gotta be the landing page you drive traffic to. It's gotta be the offer you're driving traffic to."
+    },
+    {
+      "start": 2480.27,
+      "end": 2508.91,
+      "text": "It's gotta be an efficient, you know, checkout process. So all five things have to line up for paid to click. And it's rare that it just happens out the gate. In fact, the only real time it'll happen right out the gate is if a brand has amazing brand awareness. It's like a Kate Spade or or gain protein or something that's been ripping on organic and just has a lot of relevance. If you're just starting paid though, and you don't have that base, which is majority of people, then you sort of have to make sure you have enough budget to properly test things, you know,"
+    },
+    {
+      "start": 2509.25,
+      "end": 2527.63,
+      "text": "different messaging, different creative, different hooks, different copy, different offers, different AOVs, all that kind of stuff. And so depending on like how much your product is, you can get specific around how, you know, like specific around how much budget you need."
+    },
+    {
+      "start": 2527.63,
+      "end": 2549.85,
+      "text": "You know, Facebook, for example, says that for every audience you target, in order for us to understand if we, if we, if we feel confident in this campaign, being able to scale within a specific audience, you have to get 50 sales within a seven day period. And that's like the bare minimum. So sometimes it's, it's more like 85 sales is really what you need for that platform to feel comfortable."
+    },
+    {
+      "start": 2551.23,
+      "end": 2572.77,
+      "text": "So, I mean, typically for our clients, I'm like, Hey, if you don't have 30 K set aside, like a thousand bucks a day, doesn't mean you're going to spend a thousand dollars on day one, but it means that you have the ability to continue testing and learning and iterating. And then if you find something that works, you can scale on the B2B side, it's a lot simpler because, you know, it's generally around lead collection. You're not really going for a purchase per se."
+    },
+    {
+      "start": 2573.49,
+      "end": 2588.31,
+      "text": "You're more so trying to get lead opt-ins or form fills and, and B2B also, I think like there's, there's an art to do it well, which is still that you, you know, you've got to have some, something valuable or something convenient for that person to want to get the click."
+    },
+    {
+      "start": 2588.31,
+      "end": 2612.11,
+      "text": "For us, I've, you know, previously done like, you know, I've been like, Hey, here's a 40 page deck of how you, I think even now, if you go to nick.co slash email, it's like, I'm, I'm looking to build my subscriber base with that landing page, but immediately I'm going to give you a 40 page deck on launching a brand or other variations we've done is like, you know, here's a 30 page deck of how you build landing pages."
+    },
+    {
+      "start": 2612.55,
+      "end": 2638.55,
+      "text": "Um, and so it's like, you're going to sign up and get something immediately, but then I'm also then going to put you on my newsletter and continue to watch you as a, as a user opening and clicking. Um, but typically, yeah, I guess the keep going. I was going to say the same kind of framework I think still applies where you create something interesting, you drive traffic to it. Um, and ideally you're getting a form fill or a download request, something like that."
+    },
+    {
+      "start": 2638.97,
+      "end": 2666.19,
+      "text": "Um, but I think where most companies go wrong is there'll be like, you know, sign up for a demo. And it's like, you're getting, it's like the same thing as that hint. You're going straight to that by watermelon for 20% off. You're not whining and dining this person before you're, you know, asking them out or whatever. Yeah. That makes a ton of sense. And we learned that lesson the hard way at classy. Um, and we were found much more success driving people into the newsletter and, and really free resources and guides were the number one thing."
+    },
+    {
+      "start": 2666.19,
+      "end": 2693.37,
+      "text": "Not only, not only paid advertising, but also in or mixed into organic content. So if you had a long blog, someone was reading, you'd have the free offer that was layered through the blog. And that worked super well. I know that's again, kind of old school, but there's flavors of that all over the place. It's still work. It seemed to work at least really well. We had a question from Cassie that is relevant. Cause I was going to ask basically the same thing. What, when you say like, um, you need a decent budget, like, what do you mean by that?"
+    },
+    {
+      "start": 2693.37,
+      "end": 2716.57,
+      "text": "And what would be considered, I guess you could answer it two ways, just like in an absolute value sense, or also as relative to their overall revenue, you know, like how, how would a founder think about that? Before they sort of get into the reckless zone, they're just like burning, burning money on fire. You know what I mean? Like, how do you do that? Go ahead. Sorry, quick clarify. I'm definitely, he definitely said like minimum budget already."
+    },
+    {
+      "start": 2716.57,
+      "end": 2740.89,
+      "text": "So I'm more interested in as a percentage of overall revenue expectations from a D2C channel, um, how much of your marketing budget should be allocated to paid spend versus organic. Um, and how do you balance those? I mean, I've read a lot of, you know, LinkedIn posts over the last couple of years about, you know, investing in organic is the cheapest way to acquire customers if you do it right."
+    },
+    {
+      "start": 2740.89,
+      "end": 2751.85,
+      "text": "But, and the most enduring, but, um, yeah, how do you look at balancing your organic versus paid spend, especially as a percentage of revenue?"
+    },
+    {
+      "start": 2752.61,
+      "end": 2776.02,
+      "text": "Totally. So I would say like, uh, the shitty answer is it depends, but it's, it's like, if you're scaling, I would say for brands that are scaling heavily, um, if it's like floor on the gas pedal, it's usually a pretty high percentage of your, of your gross revenue. Um, in your case, I believe you're selling apparel, right?"
+    },
+    {
+      "start": 2776.78,
+      "end": 2798.74,
+      "text": "Yeah. I'm outdoor technical outdoor apparel. So our price points higher. Um, it's not such a impulse purchase. Yeah. So we, we worked with a similar brand selling outdoor apparel and for them, our goal was always to be at a two to three X return from meta. Um, and, and we sort of just continued to scale as long as we were within that range."
+    },
+    {
+      "start": 2798.74,
+      "end": 2817.28,
+      "text": "So for them, it was less about like, what is our budget, but more so within, within constraints of a return, how much more can we continue to push the gas pedal? Um, if you're just starting, I would say, I mean, a 10, $10,000 budget is probably a fair place to start and test, um, at a minimum."
+    },
+    {
+      "start": 2817.28,
+      "end": 2844.86,
+      "text": "But at the same time, you know, I would also think about like your, the places you're driving traffic to, whether it's the product page of, um, you know, the batty bib or whatever, or, or even like a collections page. Like, I think you're still missing some level of customer education, or this is why wild rise different. You know, this is why you should shop from us versus a competitor. This is what makes this, this is why we created this product specifically because it solves for this problem."
+    },
+    {
+      "start": 2845.34,
+      "end": 2868.34,
+      "text": "Um, and I would probably get that on there before I spend on driving traffic. The other thing you can do is, is there's a tool we love using called heatmap.com and heatmap allows you to basically throw a pixel onto your site and it'll fully track everything. So it'll, it'll track heat maps. It'll track how deep people are scrolling and where they drop off. It'll track user recordings of people interacting on your site on mobile and desktop."
+    },
+    {
+      "start": 2868.34,
+      "end": 2891.52,
+      "text": "It'll just help you really understand like, okay, you know, for example, uh, we see that there's a lot of people who, um, are clicking into the fit and sizing drawer and they tend to stop on the, you know, the gloves or maybe like the bottom sizing piece, but it's so hidden and far down that maybe we need to move that up. Like that's what heatmap.com will help you understand."
+    },
+    {
+      "start": 2892,
+      "end": 2914.72,
+      "text": "Um, but, but yeah, I think for, for your question, I would say like for, for your category, you know, if, if it's like something that is not a high, high repeat purchase or like high consumption in the sense that you run out and you need to buy it again, you probably want to figure out what is that number where you're at, you know, either a two to three X is what I would imagine for you."
+    },
+    {
+      "start": 2914.72,
+      "end": 2930.82,
+      "text": "Um, where you can acquire customers, you know, not feel like you're losing money on that customer, make some profit, um, and, and, uh, scale that way. Whereas like, if you're a supplement brand or a beverage company, you're reliant on these people coming back."
+    },
+    {
+      "start": 2930.94,
+      "end": 2959.98,
+      "text": "And so you might spend at a one X row as, or when we were at hint, we knew that if we were at a 0.7 or 0.6 row as we would actually break even online, knowing that the retail sales and the, you know, purchases that come down the line are all going to basically get baked back into that. Yeah. Kyle had a clarifying question on, on this too. Um, Kyle, if you want to jump in. Yeah, sure. Hey, this is Kyle sleeper. Uh, I have a skincare company called Rosebud woman."
+    },
+    {
+      "start": 2960.22,
+      "end": 2980.54,
+      "text": "Um, we definitely get tripped up on all the different reporting tools. Things are saying, you know, you'll, your row as on Facebook might be a one five or it might be a two nine, or it might be a 0.1. And then we have a completely different report coming through Google analytics or from Shopify native."
+    },
+    {
+      "start": 2980.54,
+      "end": 3000.5,
+      "text": "And so we have been told by other data tracking people like triple whale or whatever might be that, you know, Oh, you need to track customer journey. Merz is the new row as row as doesn't really matter, et cetera. And I would be curious because of how much money you guys are spending every month to give you context."
+    },
+    {
+      "start": 3000.64,
+      "end": 3029.24,
+      "text": "We spend about, you know, between 50 and $70,000 a month across meta and Google ads and trying to figure out how to scale more effectively because we are in that, you know, gas pedal category. I would say we're spending a little bit more than I'd like to, um, for the return. So just want some light on that row as verse Merz conversation. Totally. Um, what are all the places you're selling? Like, is it mainly just the e-commerce website or are you selling Amazon? We're, we're at an interesting point."
+    },
+    {
+      "start": 3029.38,
+      "end": 3051.6,
+      "text": "Cause we, we were in, uh, Neiman Nordstrom anthropology, Saks, Bloomingdale's, Bergdorf detox market, like a bunch of places at the shop. And we pulled off of them because we were losing money and our direct consumer store. Uh, you know, we do a couple million dollars a year there in sales, but now, you know, Amazon's booming."
+    },
+    {
+      "start": 3051.78,
+      "end": 3080.32,
+      "text": "We've grown 60% this year on Amazon, but Shopify has been flat, but it's also stayed at like a, we're at like a 70% return customer rate on Shopify. Like we are not getting new customers as quickly as we would like to there. And so it's this, it's this weird dynamic where there's, uh, new competitors in the market. People are coming on. It was an emerging space. Now it's a little bit more, uh, crowded. Amazon seems to be easy to, to get new traffic and to grow."
+    },
+    {
+      "start": 3080.56,
+      "end": 3105.8,
+      "text": "Uh, but to our other channels, there's just more competition. And I guess we, by pulling out of retail, we also made a choice to not be discovered at the shelf. There's a lot going on. I don't need it to turn into like a rosebud conversation. Um, okay, cool. So, um, okay."
+    },
+    {
+      "start": 3105.92,
+      "end": 3133.74,
+      "text": "So the way just from like looking at this, how are you guys currently like getting new eyeballs? Is it mainly just Facebook ads? Uh, Facebook and, and Google ads for sure. Facebook and Google ads. Okay. The current Facebook ads that you have are, are more so, um, like they look more like, uh, either dynamic product ads or they come off to me as ads that are like relevant to somebody who already knows what the brand is. Right."
+    },
+    {
+      "start": 3133.74,
+      "end": 3160.92,
+      "text": "The, the ads don't necessarily speak to, um, you know, a few main questions, which is like, what is the brand? Why does it exist? What problem does it solve? Um, you know, how does this compare to others on the market? And, you know, the last one is usually for a product page, which is like, if I order this right now, when does it arrive? Um, or even like, you know, what happens if I don't like it? Um, so I feel like if your ads shifted more toward that, you would, you know, I'd imagine like your ads would start to perform a little bit better."
+    },
+    {
+      "start": 3161.32,
+      "end": 3190.4,
+      "text": "Um, the, it looks like your products are clearly loved. Like you have a lot of really good ratings, uh, on the site and, and, um, people seem to love it. I would say it's really, it's probably just a more matter of like figuring out that funnel, that new customer acquisition funnel. I think a lot of people tend to focus on like selling individual products, but like, you know, maybe there's a place to start or a bundle to start or a collection of two or three products you buy as a new customer to sort of get a sample of what the brand is before you get into."
+    },
+    {
+      "start": 3190.4,
+      "end": 3213.14,
+      "text": "You know, buying more individual products, um, from more like tactical or creative side. I think your, you know, dynamic product ads, for example, are great. Um, but they're not, uh, they don't do a good job. Like, um, uh, sorry, I'm just trying to find this link that I can share here. They don't do a good job of explaining the product or speaking to some of the benefits."
+    },
+    {
+      "start": 3213.14,
+      "end": 3234.14,
+      "text": "Whereas if you use a tool like this right here called Marpipe, you know, you can take these plain dynamic product ads, create a template, and then it still runs through the feed, which is great because it's very targeted product ads. But they're just more enhanced from a creative standpoint and sort of it adds the brand, which adds to the trust, um, which affects everything else down the funnel."
+    },
+    {
+      "start": 3234.52,
+      "end": 3251.94,
+      "text": "Um, I also think some of the products you, some of the product pages you drive to, um, you know, when you, when you talk about like competing brands coming up on the market, like they're definitely looking at where the opportunity is from a landing page standpoint or a creative standpoint or copywriting standpoint or offer standpoint. To steal market share."
+    },
+    {
+      "start": 3280.76,
+      "end": 3303.42,
+      "text": "Um, and, and I would imagine that just some tweaks within your creative and the page you're driving traffic to is probably going to do well. Maybe there's also like an offer, you know, between the soothe common cream and, um, you know, the, um, the, the, the, the vulval vaginal dryness."
+    },
+    {
+      "start": 3303.42,
+      "end": 3331.8,
+      "text": "Like maybe there's gotta be products that people are buying together often or buying back to back within the first like 45, 60 days that you could probably put together and create a new offer with. All right, cool. We've got tons of questions coming in. I'm just going to jump to another one. Um, Ryan, you want to, you want to ask yours the, the, um, the one about converting and then how it sort of falls off, uh, as you scale. Yeah. Great. Thanks Scott. Nick, Ryan Thompson from 10th mountain whiskey."
+    },
+    {
+      "start": 3332.24,
+      "end": 3360.66,
+      "text": "Uh, we've been, uh, uh, advertising online, mostly, uh, meta, uh, uh, 90% Facebook, 10% Instagram. Uh, we have ads that start converting at a decent clip and then we try to scale it and it starts falling off. Uh, and it stops converting when we try to scale. And I've heard that's a challenge, uh, just in the industry in general. What, what do you do to combat that? Um, how often are you testing new creatives?"
+    },
+    {
+      "start": 3361.48,
+      "end": 3390.81,
+      "text": "Uh, a couple of weeks. And how much are you spending? Uh, about, uh, 10,000 a month. Okay. So, um, 10,000 a month. So about 300 bucks a day. Right. I would say, um, you know, first of all, like only 10% of creatives you put into the account are ever going to reach scale. Um, so sometimes it becomes a numbers game of rotating new creative in."
+    },
+    {
+      "start": 3391.07,
+      "end": 3416.25,
+      "text": "I would, I would create some sort of, uh, um, a creative. Well, the other problem is you, you, you may have, uh, like for creative testing to really work, you have to have a decent amount of budget behind it. So it can see those eyeballs and properly run its test. If you don't have much budget going to new creative, uh, because you have it on whatever seems to be working now, then you're, you might be like skewing the results of those tests."
+    },
+    {
+      "start": 3416.57,
+      "end": 3442.97,
+      "text": "Um, for us, what we try to do is we'll take a percentage of the budget, um, usually anywhere from 10 to 20% and just put it towards a rigorous creative testing process where initially we, we run, we, we input new creative on a weekly basis. It runs two days against, um, uh, against three different two days each per three different audience. One is basically like, uh, dude, what is it?"
+    },
+    {
+      "start": 3443.11,
+      "end": 3472.37,
+      "text": "It's, uh, it's some form of like you test interest. Oh yeah. You test a broad. If broad doesn't work, you test, uh, lookalikes. If lookalikes don't work, you test interest audiences. And within six or seven days, if that doesn't work, you kill it completely. Um, and, uh, and if it does work, then you move it into whatever your scaling campaign is. My guess is there's probably not enough dollars behind like what you're testing. Um, and, uh, and do you use any sort of like creative analytics tools?"
+    },
+    {
+      "start": 3473.53,
+      "end": 3501.67,
+      "text": "Uh, not necessarily. No. So it might be, it might be too, well, I think these guys have a free plan that you can try, but there's, this is what we use. Like all of our designers develop our designers, video editors, animators, copywriters use. It lets you sort of splice up data from your ad creative in Facebook in different ways. So you can see, okay, this one has had a really good click-through rate. Uh, this one had a really good hook, but the rest of the video didn't perform that well."
+    },
+    {
+      "start": 3501.99,
+      "end": 3531.79,
+      "text": "Um, you know, this one drove purchases, even though the hook was really low. So maybe there's something interesting there we need to extract. Um, so this might be helpful. And then outside of that, I would, um, you know, a lot of it just might be that your, your creative just isn't hitting the mark. It might work with a very, um, a very like, um, you know, an audience that, that Facebook already knows your brand, but maybe it's that it's not doing a good job getting past the people who already know your brand. Right."
+    },
+    {
+      "start": 3532.43,
+      "end": 3562.27,
+      "text": "Okay. Uh, this is another thing where like cracking the organic code. If you take, for example, stuff that does well organically, it crushes on the paid side. And so this might also be a good, a good thing to like, see if there's something you can crack on the organic side and then bring that over to the paid side. We actually, we used to run ads for this brand called 21 seeds, which is a tequila brand. And what we found was that our best, anything that did well on TikTok organically, we would bring that over to Facebook and it would destroy on Facebook."
+    },
+    {
+      "start": 3562.53,
+      "end": 3589.55,
+      "text": "Have a five or 6% click-through rate, which is almost unheard of. Right. Okay. Great. Thanks, Nick. Appreciate it. Of course. And again, just to clarify that last, that last comment, Nick, when you said bring it over from TikTok, is that video about the product or is about something tangential to the product? Like, is it actually directly about the product? Okay. Directly about the product. Um, it's either like explaining, you know, it might be that it's a, it's a video of the brand put out, or it might just be that somebody else who's tried the product and put"
+    },
+    {
+      "start": 3589.55,
+      "end": 3617.61,
+      "text": "up a review on TikTok, you know, that might, and, and it did well on TikTok, bringing that over to Facebook ads. This kind of touches on Georgia Grace's question. Um, Georgia Grace, are you there? You want to ask it? Yeah, sure. Um, so you mentioned a few trends that are working across organic and paid and we keep a viral real tracker. So anything that blows up on social that we quantify as like a million views or over, we automatically turn into an ad."
+    },
+    {
+      "start": 3618.75,
+      "end": 3645.71,
+      "text": "Um, and I'm curious about what trends you're seeing that you think are here to stay versus the ones that are going to be short lived. So for example, like trending audio has always worked for us across TikTok, across Instagram, but now we're seeing, um, other brands do a lot of voiceover videos or just doing like a flat lit picture of their apparel lineup. We're in, um, technical women's apparel too, that has a patented zipper technology for answering nature's call."
+    },
+    {
+      "start": 3645.71,
+      "end": 3673.99,
+      "text": "Um, quite literally, but we have super limited, um, budget for testing things. So we really just use organic for testing as opposed to dumping 30 K into tests. Um, so that's kind of at the root of this question. Totally. Um, I think, well, I think with organic, so, you know, the way that organic social has shifted has gone from this like feed approach where your feed has to look pretty and beautiful"
+    },
+    {
+      "start": 3673.99,
+      "end": 3701.71,
+      "text": "and on brand to throw a bunch of shit out and see what sticks on it within the algorithm. Cause that's going to get views and rarely do people ever click over to the profile. Um, so with that said, I think the reason these trends have, they go so fast is a trend, go, you know, pookie becomes a thing, a bunch of people make pookie related content. And two weeks later it's gone. And, and then the next trend comes up and it's brat and then it's, it's gone. And then it's demure and then it's gone."
+    },
+    {
+      "start": 3701.85,
+      "end": 3730.99,
+      "text": "And then it's, uh, AI voiceover and then it's gone. And I think it's like, you, you know, you just basically have to keep writing that. Um, whereas, um, whereas like stuff you might think of in terms of a podcast or a YouTube channel is as much more like longer form. Um, that's more pillar related content. In fact, I just see in the, in the chat here, somebody mentioned JT Barnett. I have a really good deck that JT shared with me a while ago that I'm going to try to pull"
+    },
+    {
+      "start": 3730.99,
+      "end": 3753.89,
+      "text": "up here and give you guys the link to, but he talks all about how to create this like pillar versus short form content. Um, JT. Um, and oh yeah, here it is. Tik Tok PDF. Okay. Is it Tik Tok PDF and a Tik Tok masterclass? Uh, I think it's the same thing. Okay. Let me just grab a link."
+    },
+    {
+      "start": 3755.05,
+      "end": 3783.21,
+      "text": "And so if you grab this, you can download this deck, uh, or PDF, but it's one that JT put together a while back. And it talks all about like, you know, figuring out how you find your sort of pillar content or your evergreen kind of always on content. But then at the same end, water boy actually does a really good job of this too. And then at the same time, they are also pushing forward on the trend stuff, the stuff that's like really hot. And that also only works when you catch it early. If you catch it too late, then, then it's not going to pop as much."
+    },
+    {
+      "start": 3783.65,
+      "end": 3813.58,
+      "text": "Um, but yeah, I don't think any of these trends are here to stay, to be honest. Um, you know, we can't even figure out if we like skinny jeans or, or loose jeans. So these Tik Tok trends are definitely not even here to stay. Uh, but you got to just take advantage of them. I think as soon as you see them, especially if you can see your brand play a role in it, like, you know, the banana taped to the wall selling for some crazy amount that becoming in the news cycle, like, you know, tape your protein bar up against the wall and take a picture, um, whatever it may be. Thanks."
+    },
+    {
+      "start": 3814.28,
+      "end": 3843.94,
+      "text": "Of course. Yeah. All that stuff kind of drives me wild. I don't even know how you would keep track of it all, but, um, and I, I don't know where you fall in the skinny jeans, loose jeans thing, but I'm, I'm, I'm really confused right now, uh, as well. I'm good with relaxed jeans. Okay. Got big thighs. Fair enough. Um, uh, this is a good one from Spencer. Uh, Spencer, you want to ask the, the one about testing price testing? Yeah, absolutely. Um, and I got, I work with Mark over at launch boom. Uh, so we help new products come to market."
+    },
+    {
+      "start": 3843.94,
+      "end": 3871.12,
+      "text": "Uh, and one thing that we've kind of always. Failed to find like a really clean way to, to achieve is price testing. You know, the very easy to get the data really muddy unless you can kind of create like two completely isolated things. So just wondering, cause you talked about, you know, offer, uh, creation and price testing a little earlier, just wondering if you had like a good framework or kind of some best practices that you follow when you're looking at, you know, that initial stage of crafting"
+    },
+    {
+      "start": 3871.12,
+      "end": 3900.02,
+      "text": "the offer, testing the different bundles or just, um, any sort of price testing in general. Um, yeah, it's, it's tough. Uh, but I would say the way I've always done it before, I think now there's like tools you could AB test with. Um, even though, you know, that's probably not the most efficient way to do it. The way I've always done it before is like create, um, just create a split test of landing pages."
+    },
+    {
+      "start": 3900.22,
+      "end": 3925.1,
+      "text": "So, you know, you drive, like we, I remember we did this with a cleaning brand. We drove it to a generic landing page with a starter kit, but we had three different price points across three different landing pages. We'd split the traffic evenly between the three and just look at which one had the most efficient conversion rate, uh, or, you know, had the highest take rate. Um, that's one way to do it. The other, the other way is just like you start high and then slowly incrementally go lower."
+    },
+    {
+      "start": 3925.64,
+      "end": 3954.66,
+      "text": "Um, there are, there are some apps like IntelliGems is a Shopify friendly app where you can do price testing within the theme, um, of a Shopify site. Um, but yeah, I'm, I'm, I'm always a fan of like start high on the higher end of where you think you're at and then go lower slowly. I think once you go low, it's impossible to go back high. Um, especially if people remember that."
+    },
+    {
+      "start": 3956.5,
+      "end": 3981.9,
+      "text": "Awesome. Yeah. Thank you. I think we've been very much aligned with like the start high and get lower over time. Um, just way easier to work down than work up. Yeah. It's, there's also probably some like level of intuition in it in terms of like, what's the market charging for this product or service or, or related product or service? And then that combined with whatever additional benefits we have, you know, does that help you justify a higher price point or similar price point?"
+    },
+    {
+      "start": 3983.08,
+      "end": 4011.38,
+      "text": "Actually, that's another place too, where like these intro offers or intro bundles do a great job because you can create a high perceived value, uh, with intro offers or bundles. And, you know, it might be like, um, let's just say, for example, you're selling a skincare and you've got, you know, three creams and a dop kit, a little travel bag that comes with it. You know, the dop kit might be valued at $29, but it costs you a dollar 60 per bag to source landed at your warehouse."
+    },
+    {
+      "start": 4011.62,
+      "end": 4040.48,
+      "text": "So you're adding this additional kind of perceived margin or a deal, a perceived deal that somebody's saving 20, you know, 29 bucks, but really it's only costing you a dollar to get that. I have a question for you, Nick, and it's sort of like the intersection of retail and DTC. Um, I know there's a lot of folks, um, on the call that either do both, um, where they have a DTC brand, but they're also in, in some sort of retailer or they own retail and they"
+    },
+    {
+      "start": 4040.48,
+      "end": 4067.02,
+      "text": "work with DTC brands that put their product in their store. Haskell Creek being one, my, my company, um, Caldera labs comes to mind for me as a brand that's been like heavy DTC, um, the, you know, the men's skincare brand that probably spams you on Instagram. Um, so, you know, we started carrying them in the Haskell Creek store and I think we're the second retailer in the country to carry them. They're like exclusively DTC. Um, but we, we sometimes have issues with those types of brands because they have such"
+    },
+    {
+      "start": 4067.02,
+      "end": 4096.66,
+      "text": "a strong online audience that it's hard for the retailer to sort of catch up if you will, or to, to match discounting or all these different things that are happening with their strong online audience. So that's sort of from the retailer's perspective. It's really cool, but not always as successful because they're so good online that it sort of sucks the oxygen out of the room to some degree, um, for the retail presence. My question is really like, how do you see the best brands of the world balancing those two things? I, obviously my question was from the retailer's perspective, but more like how do you balance"
+    },
+    {
+      "start": 4096.66,
+      "end": 4125.2,
+      "text": "the DTC and retail world and how do you get those left arm, right arm to like coordinate correctly? Yeah. I mean, um, you know, the, the, from a retailer standpoint, you're sort of in a pickle between the wholesale cost and the suggested retail price. And, um, and, and it sucks because you've got credit card fees, you've got your overhead and you've got any sort of discount that, that you need to push the product. And that all comes out of your cut basically."
+    },
+    {
+      "start": 4125.2,
+      "end": 4151.66,
+      "text": "Um, what the larger retailers do is, um, they will demand that those discounts be applied. You know, if they're running a promotion on, um, like, like if they're, if they're going to run a promotion, they're going to go to the brand and say, well, we need you to pay for the discounts here, or you're paying for, for, uh, you know, the discount that we're offering. Like I remember when hint would go on sale during summer and target be a dollar a bottle."
+    },
+    {
+      "start": 4152.02,
+      "end": 4180.1,
+      "text": "Um, and that was on hint to pay the difference, but in exchange they would give better placement and there would be a lot more units moved. So it was like a volume play. Um, so that's one way is you just demand it from the brand. Most retailers also like, uh, larger retailers, but I'm sure maybe some smaller ones too. They'll charge some sort of like a slotting fee or marketing fee. Um, but you know, there has to be the pull from the brand to want to be in the retailer to do that versus vice versa."
+    },
+    {
+      "start": 4180.76,
+      "end": 4210.54,
+      "text": "Um, but in overall thinking about like e-commerce and retail working together, you know, I think pricing wise, you have to be pretty consistent across the board because regardless of the margins or, or who's paying for the discounting at the consumer's eyesight or at their, at their, from their viewpoint, they're just looking at what's more convenient. Do I go to Best Buy and buy the product or is it cheaper on Amazon? But if also, if I go to Best Buy and price match it to Amazon, they're going to give me the same price too."
+    },
+    {
+      "start": 4211.14,
+      "end": 4239.48,
+      "text": "Um, so I think it's on the brand to make sure that the pricing is consistent. Um, and, and at the end of the day, it's like, yeah, I still think that there's, it's hard to do the battle of, should we be pushing retail? Should we be pushing online? You should really just be pushing where your product is more likely to get picked up. There was a toothpaste brand, for example, that I advised they had no shot at winning online because when you run out of toothpaste, you're not going to go place an order on Shopify and wait two days for it to come."
+    },
+    {
+      "start": 4239.72,
+      "end": 4267,
+      "text": "You have to go to retail to get that toothpaste. Whereas, uh, you know, if it's cookware, you might say, well, I'll buy this one online because it looks nicer than what's in the retail. Um, I feel like now I'm just rambling, but essentially I think it's like, you've got to, yeah, you've got to figure out where the balance is from the consumer standpoint. And then if you're, you know, if you're a marketer and you're like, well, how do I understand what my ads are doing for the retail side? Then you've got to figure out some way of understanding incrementality that's driven"
+    },
+    {
+      "start": 4267,
+      "end": 4294.5,
+      "text": "into retail or Amazon or other wholesalers as a result of the actions you're doing online. Yeah. Yeah. Sometimes from a retail perspective, we get the sense from some brands that like the retail side is sort of an afterthought and it's like, they're not their core. And so they'll run discounts, they'll do, do aggressive, whatever. And we're just at the whim of like, we're just basically floundering around trying to figure it out. And our customers then maybe go online, maybe purchase online and become a repeat online purchaser versus coming to our store consistently."
+    },
+    {
+      "start": 4294.78,
+      "end": 4323.56,
+      "text": "Um, it's not like, you know, a catastrophic thing, but it's, it's like always this turbulence that sort of exists between the retailer and, and, and the, and the part in the product company, which is unfortunate. You'd want potentially some coordination, but I could, I could see how that would be really difficult too. Um, so, you know, I'd be interested to hear from some others who are in, are in both, but, um, I go, we've got two big ones. One from Georgia Grace, why don't you tee up this Amazon question? Because I did want to jump into Amazon and just talk about that strategy. Yeah."
+    },
+    {
+      "start": 4323.7,
+      "end": 4352.52,
+      "text": "We launched on Amazon almost midway through this year and it's been growing really quickly, but we have yet to spend any money on it. Um, so I'm wondering what you'd suggest as a super beginner friendly strategy for scaling on that, um, platform. Um, I would say, you know, definitely like beef up on the reviews, um, so that you're maximizing again, the, I always have this framework in my head called like the best possible at bat."
+    },
+    {
+      "start": 4352.68,
+      "end": 4381.22,
+      "text": "It's like when you walk up to the home plate to hit that ball, you want to make sure your shoes are tied, you know, your shin guards are tightly wrapped on your gloves are snug, your helmets on nice. You give yourself the best possible shot to hit a home run. You know, you don't leave any stone unturned there. I would do the same thing here. Like make sure you've got, uh, maybe run a couple of reviews campaigns either through Amazon or like, you know, privately among friends and family, um, to get the review numbers up. Um, and then I would probably start testing. You could either go either way, right?"
+    },
+    {
+      "start": 4381.22,
+      "end": 4408.84,
+      "text": "Organic or paid, you could start testing some of the stuff on the organic side where you're pushing, you're creating, you know, maybe short form content and talking about the fact that you got it on Amazon, or I think now on TikTok, you can even link to Amazon or you start on the paid side and, uh, you start running some Amazon ads based on their DSP, which should do well. If you're already doing well without running ads, you should do really well when you run some Amazon ads. Um, and for review campaigns, like I have a lot of friends in the CPG space."
+    },
+    {
+      "start": 4408.84,
+      "end": 4438.64,
+      "text": "So for food, it's easy to be like, Hey, if you buy this, I'll reimburse you. If you leave a review, I can't do that with a hundred plus dollar products. What's another good way to get reviews. And we've had friends like add a couple, but, um, if it's not a verified purchase, they don't always get approved. Yeah. Um, I don't know that there is another way. Uh, a friend of mine runs a company, like a beauty device tool. He did the same thing. It was like, you know, basically reimbursed everybody 200 bucks."
+    },
+    {
+      "start": 4438.84,
+      "end": 4463.1,
+      "text": "Through Venmo, they filled out a Google form. You know, they upload their receipt. He sends them a Venmo. Um, I don't know that there is another way you could probably do like the Amazon programs, but I think that's the same thing. You're basically like giving the product for free and they're trying it out. Okay. Yeah. Cassie, do you have anything? I saw you, um, type the blurb in the chat too. Did you have anything on top of that? Amazon related?"
+    },
+    {
+      "start": 4467.4,
+      "end": 4490.88,
+      "text": "No, that's a, that's a great help. We're sort of in the same boat. We actually launched it as a clearance channel initially, but, um, are starting to work in more evergreen styles into our merchandising on Amazon because we understand that when things are out, it's bad for the algorithm. Um, we also are starting to think about starting to invest in the Amazon channel and making it a real customer acquisition channel for us."
+    },
+    {
+      "start": 4491.1,
+      "end": 4520.34,
+      "text": "Um, and, but yeah, I mean, I think just the reviews note first, making sure that that's an order and is really helpful. Easy first step before investing. I see that. I do have a question. Um, are there any like strategies to Amazon creative that you'd suggest that's different from meta creative, for example? Uh, in terms of ads or like what's on the product page and store page? Ads. Ads in particular."
+    },
+    {
+      "start": 4522.5,
+      "end": 4549.94,
+      "text": "Um, you know, I'll be honest, we don't make a lot of Amazon related ad creative, but I would go and look at like, I would go look at brands that do sell well on Amazon and just copy the front, you know, you can usually see like the framework of creative. Generally Amazon ad creative looks more like a muted TV commercial. So it's like, it has a similar approach to like a TV commercial would. I always think of like the TV at the gym is cause they're on kind of generic, uh, cable channels, that style of creative."
+    },
+    {
+      "start": 4550.3,
+      "end": 4576.66,
+      "text": "What, but instead, because you can't have a voiceover, you've got all the text overlaid and things, you know, popping up as, as text overlays or like calling out, you know, this material and, you know, you drag a little arrow out and it says what it is. Um, that's usually the type of Amazon creative that works really well. You have to also remember that it's on, it's on a really, really tiny screen. And so, uh, that whole video might just be this big. And so making sure that it's very clear to understand going back to that drunk grandma"
+    },
+    {
+      "start": 4576.66,
+      "end": 4605.34,
+      "text": "framework of thinking, like is, is a grandma able to read that with her eyesight, uh, in that little Amazon video window. Um, after five whiskeys. After five whiskeys. She's still alive. I have terrible eyesight. So I'm going to test myself. Yeah. Perfect. But yeah, I would, I would just copy what's, what's already working for, you know, if you know that, um, some, some brand is doing really well on Amazon ads, just cop, you know, good artists copy, great artists steal."
+    },
+    {
+      "start": 4607.56,
+      "end": 4632.16,
+      "text": "Perfect. Uh, another question came in from, uh, Rishi, uh, it was how often do you update creative for seasonal businesses? And I sort of had an extension to that question, which is like, how do you think about, uh, creative fatigue or ad fatigue? And how do you just generally think about switching out creative? But then I guess that links into seasonal. Can you use seasonality as a way to refresh things? And I guess, how do you think about that cycle? Yeah."
+    },
+    {
+      "start": 4632.44,
+      "end": 4661.68,
+      "text": "I mean, you know, my philosophy on creative for media buying is that you should, you should try to, um, rotate new creative in on a regular cadence. Um, I like to recommend that every week you're rotating a new creative and, um, and, and testing pretty rigorously, like what's working, what's not working. Of course you have to have a decent budget to be able to do that. Cause you want to make sure whatever is working is getting enough budget, but then you also"
+    },
+    {
+      "start": 4661.68,
+      "end": 4691.4,
+      "text": "have some budget to drive new stuff. Uh, I'm going to quickly pull up a slide where I have our creative testing, um, our thing, like what we recommend. Um, but yeah, I think like weekly creative testing is a good practice. Um, and you know, I also think that there's, there's, there's some creative testing where it's like, Hey, based off of what we know is working, let's go ahead and make iterations of that or, you know, if we know that this hook works, maybe let's make another"
+    },
+    {
+      "start": 4691.4,
+      "end": 4720.9,
+      "text": "creative that's more aligned with the hook itself. But I think there's also value in, let's just go completely off the walls and try something random and new and, and, uh, you know, out of the ordinary. Um, and I think both are required. Um, okay. So does that rule apply to organic content as well? Or do you feel like, I mean, weekly would be pretty aggressive, but do you feel like switching out the style and the, and the types of content is important with organic as well? Yeah. Yeah."
+    },
+    {
+      "start": 4721,
+      "end": 4751,
+      "text": "Like I think if, uh, I think that if, if you're definitely, if you're not getting results on the, on the organic side, then a hundred percent, um, a hundred percent swap it out and test new stuff. Like, you know, if you're, if you're on episode or if you've put out your 55th video and you're still getting 137 views, it's not that the algorithm hasn't caught up to you. It's that your shit sucks. Or if you're putting out content and it's just not getting engagement, like just switch"
+    },
+    {
+      "start": 4751,
+      "end": 4777.08,
+      "text": "it up, you know? Um, the beauty of, of some of these platforms today is because everything is now become engineered to the same way ads are served, which is just based on interests, demographics, psychographics, et cetera. It's very easy to figure out if something is going to hit or not. It's not like you have to go build a following and then test stuff first. Um, so yeah, these platforms will fully tell you what works and what doesn't work."
+    },
+    {
+      "start": 4777.34,
+      "end": 4802.92,
+      "text": "And you just have to make sure you're able to, uh, you know, you're, you're there to listen to that. On that point. Can I just ask, do you judge success on any other metrics other than cost for conversion? We obviously track that one, but when you're testing these other things, are you looking at all of this one generate a ton of impressions or like, what are the key metrics that you're looking at to kind of be the leading indicator that something's going to be successful? Totally. Yeah. Great question. So there's a few."
+    },
+    {
+      "start": 4803.08,
+      "end": 4828.78,
+      "text": "So, so typically I'll customize the ads manager dashboard and Facebook to see all these numbers and keep in mind that the ads manager is just, those numbers are just modeled. Those are not necessarily real. A lot of the clicks can be looked at as real, but like everything else is just based off a model. So, uh, which is another flag. You want to make sure that the inputs to Facebook are correct. So checking things like what is your AOV, for example, is, is a huge indicator because"
+    },
+    {
+      "start": 4828.78,
+      "end": 4856.64,
+      "text": "a lot of times Facebook might misrepresent what the AOV is on your website, which means that their model that they're running numbers into and then displaying numbers on the ads managers is wrong. Uh, tick tock is a huge culprit of this. You might have a product doing 150 AOV, but it'll show a 96 AOV and, um, yeah, just something to flag. But the way I would go about this is, um, I tend to look at CPM. So that tells me how much does the platform agree with what I'm showing?"
+    },
+    {
+      "start": 4856.68,
+      "end": 4886.44,
+      "text": "If it's a really high CPM, it, there's a huge mismatch between what I've put in and what the platform wants me to put in. Um, and if it's a really good CP, really low CPM, it means that whatever I've put in, like the platform likes the next one is, um, like duration watch duration. So if you've got a video, you want to try to understand against your baseline. Um, you know, is somebody watching above or below your baseline? And that depends per brand. Some brands have a, you know, like we have one brand where their best ad is a 10 minute long video ad."
+    },
+    {
+      "start": 4886.66,
+      "end": 4915.98,
+      "text": "And, you know, as long as they're at a three minute watch time, like we consider that good, but for other brands, it might be a three second watch time. Or five second watch time. So you can kind of understand above or below. And again, these are just signals. It's not that if it's above or below, it's going to make or break the ad, but it's just a signal for you to intake. The next one would be click through rate. So what percentage of people who view the ad are clicking it? Um, uh, after click through rate, it's, I tend to look at, you know, who's reaching the site, who is, uh, adding to cart or sorry, how many people reach the site?"
+    },
+    {
+      "start": 4916.06,
+      "end": 4943.2,
+      "text": "How many people add to cart? How many people begin checkout and how many people actually purchase? And then if you have a subscription, how many people end up subscribing out of that? Um, and that sort of gives you a, a, a high level funnel overview to help you understand where's the problem. If you have a really high, high CPM and low click through rate, it's the creative. You can't even blame the website or the product page you're going to. If you have a high click through rate and your ads are getting decent clicks, but then people don't add to cart. That's where your problem is."
+    },
+    {
+      "start": 4943.28,
+      "end": 4972.7,
+      "text": "It's in the shop section or whatever page you're driving to. If people add the product to cart, but they're not checking out, it's because you need to reiterate trust and, uh, you know, do some more trust building so that when they are checking out and giving you their credit card number, they don't think you're getting, they're getting scammed out of it. Um, so all of that, uh, is stuff I would look at. There's, uh, obviously there's different tools. You know, if you're running the best, the best time to do this and really figure out like your funnel is right kind of close to the beginning."
+    },
+    {
+      "start": 4972.9,
+      "end": 5000.1,
+      "text": "If you're, if you're too, if you're selling in too many places, it makes it hard to really understand like where the issues are. But, um, you know, if you do this with Facebook alone, you don't have to use any sort of fancy apps or attribution software. You can usually get a pretty good idea of where the issues are. And then you couple that with something like heatmap.com or the free version of that is Microsoft clarity. And, uh, you can really like, if you see, okay, a lot of people are clicking, their creative is good, but then they get to the site. We don't know why they're dropping."
+    },
+    {
+      "start": 5000.32,
+      "end": 5029.04,
+      "text": "You can use heat map to actually watch the recordings and see where people are dropping off or what it is that they're not clicking or what it is that they're not seeing there. Um, so that's how I'd go about it. And then the last thing is, uh, post-purchase surveys. So get, ask, ask as many questions as you possibly can. Uh, you know, maybe 30% of people end up completing it, but 60% of people get halfway through it. Um, and you know, you ask them, how'd you find us? How long ago did you hear about us before you made a purchase?"
+    },
+    {
+      "start": 5029.22,
+      "end": 5058.16,
+      "text": "Who are you buying for? You know, whatever questions you want to know that are going to help you inform the, what creative you make or, or how you position it differently. You know, you might think that you're selling to, uh, you're selling to people like me, but in reality, you're actually selling to moms. And so that will be, uh, you know, it's a good insight for you to do that. Or, or you might see that, um, you know, people hear about your product and then it takes them 14 days in order to then make a purchase. And if that's very common, then you understand that you need to be a little smarter about the"
+    },
+    {
+      "start": 5058.16,
+      "end": 5085,
+      "text": "middle of funnel or where you're nurturing people. So yeah, those are kind of the high level metrics I'd look at. That's amazing. Thank you. Does it change in Google in any way? Um, does it change in Google? Yeah. I think you could look at a lot of those similar metrics, um, and understand that way. Um, and same thing with TikTok too. Okay. Perfect. Thank you. One last, one last question because we got like three minutes."
+    },
+    {
+      "start": 5085.16,
+      "end": 5112.08,
+      "text": "I think about half the Highland community wants to work with you now. Uh, so. I love it. We're just going to put you on the spot and ask for a bundle discount of some sort for everyone in Highland. But, uh, in all honesty, maybe you can follow what we'll connect and we'll get your information to share with folks. And, and, and, you know, maybe there is some, some sort of sweetener there, but either way, like, I think these guys are interested in like how much, like what, what, what type of customer that you normally work with all, you know, a lot of the founders on the phone"
+    },
+    {
+      "start": 5112.08,
+      "end": 5139.72,
+      "text": "or base or on the, on the line here, like one to 10 million in revenue, maybe a little, some, a little smaller, some, a little bigger, but mostly one to 10 million in revenue. And all looking to scale. So I don't know what type, obviously you're working with huge, huge guys like Taco Bell. Um, but do you, do you ever work with smaller startups as well? Yeah. I mean, our, our minimums are, our minimums on the friendly friend and family rate is probably like 15 K a month to work with us on, on, uh, customer acquisition with the funnel."
+    },
+    {
+      "start": 5139.84,
+      "end": 5169.52,
+      "text": "That's media buying that's, uh, ad creative that's reporting that's sometimes building out or modifying site experiences. Um, and with that too, uh, so, you know, essentially if you're spending more than I would say 150, 180 K a month in ads, it's probably, that's probably a good deal. Um, if you're spending less than I would say, uh, there's either, there's either people I could recommend you to a lot of times people just email me and they're like, here's all"
+    },
+    {
+      "start": 5169.52,
+      "end": 5196.8,
+      "text": "the context. Can we work with you? Or do you have somebody else we should work with given our stage? Or, um, I also do like consulting calls, one-off consulting calls where people will just buy my time and we'll go through everything from their funnels or, you know, whatever they want to go through. And we can pull you as a repeat guest. So they'll just get it for free to 100%. Yeah, totally. Yeah. I mean, I feel like, sorry, just to chime in real quick. Like we have a performance guy who's wonderful and inexpensive and affordable and all that jazz,"
+    },
+    {
+      "start": 5196.8,
+      "end": 5225.92,
+      "text": "but, um, he pulls the levers, but getting the advice on landing pages and how to set up to be successful in, um, you know, meta and make your ads more successful. Like that's the type of advice and feedback that I'm specifically looking for. So if consulting is an option, that would be super interesting. Yeah, totally. Um, yeah. If anybody emails me, happy to send you more info. It's just n at sharma.com. Um, we'll put it in Slack."
+    },
+    {
+      "start": 5225.94,
+      "end": 5252.78,
+      "text": "There's also, um, there's a, I send a newsletter every Sunday. It goes to about a hundred thousand people and everything, everything that I would create or basically like you, you should never have to book a call with me. If you, if you read the newsletter, like everything that I have, I put out in there. Um, and so there's, and there's always a bunch of different like, um, guides, but also like decks I'll make. I'm trying to find one, for example, on landing pages, since you just mentioned that."
+    },
+    {
+      "start": 5253.32,
+      "end": 5281.44,
+      "text": "Um, but yeah, uh, if you sign up to that or if you email me, I can always help. Awesome. Thank you so much. Well, we're exactly on time. This has got to be a first, uh, it's 11, at least mountain time. Nick, just want to thank you. That was like an amazing session and really hit, uh, a piece of, uh, the whole scaling journey for folks that we haven't really dove into as specifically and acutely as we did with you. So I think it added a ton of value."
+    },
+    {
+      "start": 5281.58,
+      "end": 5309.76,
+      "text": "And just from some of the, we have a Slack channel for the community, just from a couple folks that had to jump, but like we're begging for the video. I think, uh, it was an awesome session. So thank you so much for coming. Yeah, of course. Uh, again, if anybody has questions, shoot me a, shoot me a note and I'm sure I'll be back soon. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

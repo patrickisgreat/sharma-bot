@@ -1,0 +1,1019 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 18.56,
+      "text": "30% of Timu's top-selling women's clothing is for sale on Etsy. And 19 of Timu's top 25 jewelry items also appear on Etsy, often at much higher prices. Etsy is becoming Timu, but far more expensive. Etsy used to do this a lot with Alibaba when I was running Caskers."
+    },
+    {
+      "start": 18.56,
+      "end": 27.52,
+      "text": "We'd try and sell all these niche-y products, and we'd buy them from Etsy and then resell them on our website. For the first six months we were doing that, and then six months into it, we're"
+    },
+    {
+      "start": 27.52,
+      "end": 38.96,
+      "text": "like, wait, all this is just from Alibaba. The Moscow Mule Bugs that we're selling for $40 that we're paying $10 for that some guy buys on Alibaba for a dollar. And they're literally the exact same"
+    },
+    {
+      "start": 38.96,
+      "end": 57.28,
+      "text": "mug. This is Limited Supply, the place for refreshingly real takes on what DTC is really like. We're your hosts, Nik and Moiz. Let's start talking about money. Hey guys, I'm super excited that this season's sponsor is Fufill.io. I'm an early investor in Fufill. I invested in about"
+    },
+    {
+      "start": 57.28,
+      "end": 73.12,
+      "text": "seven years ago. Back then the business was really nascent and they were working with smaller direct to consumer businesses. Now they work with huge brands, including Nectar and Ridge, Hexclad, Carraway. In fact, another brand that I've invested in, Cadence. It's a fantastic ERP."
+    },
+    {
+      "start": 73.12,
+      "end": 87.68,
+      "text": "The same thing that Klaviyo did to MailChimp in terms of building an email system made exclusively for our industry. Well, that's what Fufill is doing to NetSuite. They're making an ERP built exclusively for our industry. It's fantastic. It is a single source of truth for your business."
+    },
+    {
+      "start": 87.68,
+      "end": 103.52,
+      "text": "They offer everything from accounting to order management, inventory, warehouse management, EDI operations. Make sure you never miss a sale. Learn more at Fufill.io. Okay, Nik, we're back with season eight, episode nine, 89. Almost at the end."
+    },
+    {
+      "start": 104.16,
+      "end": 117.12,
+      "text": "Almost at the end of the season. You're heading to sub-summit in Dallas next week, is that right? Yep. I'm going to sub-summit. I'm going to go check on all your 30,000 houses that you own"
+    },
+    {
+      "start": 117.12,
+      "end": 134.32,
+      "text": "out there too. Going to get to hear the updates and see how people are talking about D2C and commerce and 3PLs all through the lens of a subscription business. I'm excited for that. Are you speaking at the summit? I'm always curious. If you're not speaking,"
+    },
+    {
+      "start": 134.32,
+      "end": 148.88,
+      "text": "are you just there or what do you do? Are you a speaker? Yeah, I'm speaking there twice actually. Then when I'm not speaking, I'll be honestly probably in my hotel room just working. What are the topics that you're speaking? I've never heard someone"
+    },
+    {
+      "start": 148.88,
+      "end": 167.68,
+      "text": "speak twice at a summit, but man. Yeah, they got to bring out the big guns. No, but we've got on Monday, I'm actually speaking with, I'm doing a fireside on the main stage with this guy Leo. He's the SVP of marketing at FabFitFun. Also the CEO of their"
+    },
+    {
+      "start": 167.68,
+      "end": 187.68,
+      "text": "blanket brand called Unhyde. Then on Tuesday, I'm doing a panel with Hattie. She's the director of operations at Wellbell, which is kind of like a Nutraful competitor supplement in the hair space. Wellbell. Okay, gotcha. How big is FabFitFun? In the billions."
+    },
+    {
+      "start": 188.8,
+      "end": 207.12,
+      "text": "In revenue? Well, FabFitFun is like, they've got the whole web of companies from Savage X Fenty to FabFitFun to Yiddy with Lizzo. It's like JF Brands, I think, is the holding company and they own all of the brands below."
+    },
+    {
+      "start": 207.12,
+      "end": 233.52,
+      "text": "FabFitFun is not that subscription box that you get every quarter? Yeah, it is. They own Fenty? They own, don't they own Savage X Fenty owners? Yeah, Textile, Textile Fashion Group. That's the parent company and Textile owns, they own Fabletics, JustFab, FabKids. Oh, this is not FabFitFun. Okay."
+    },
+    {
+      "start": 233.52,
+      "end": 246.72,
+      "text": "Yeah, totally wrong. But anyways, I'm really excited for that. I think that's going to be awesome conversation. They have a separate business that they've just spun out, which is basically just a personalized 3PL. And so I'm excited to learn more about that too."
+    },
+    {
+      "start": 247.44,
+      "end": 260.4,
+      "text": "Awesome. Yeah, I've got a few toilets that I need you to repair while you're out there. Amazing. Just give me some good knee protection. All right, well, let's get started. There's a bunch of stuff I want to talk about."
+    },
+    {
+      "start": 261.12,
+      "end": 275.12,
+      "text": "One is some acquisitions of some brands. Another is about Timu, Amazon Returns, and then finally, some Klaviyo and email tips if we can get to it. Maybe we can start with the acquisitions. A bunch of acquisitions were announced over the past 7,"
+    },
+    {
+      "start": 275.12,
+      "end": 288.16,
+      "text": "10 days. One was Feet Clothing, the Venice or Santa Monica-based clothing brand. Another was OMSUM. We'll get to that. But I want to start with consortium brand partners buying Outdoor Voices."
+    },
+    {
+      "start": 289.12,
+      "end": 298.4,
+      "text": "You and I have chatted with Ty on this podcast. We have an understanding. I'm a big fan. In fact, I'm wearing Outdoor Voices not because I thought of this, but just because I wear it all the time."
+    },
+    {
+      "start": 299.28,
+      "end": 309.68,
+      "text": "If you were buying Outdoor Voices today, we know they shut down all their stores. What would you do as the owner of OV? I'm curious to hear what changes you'd make or how you'd make"
+    },
+    {
+      "start": 309.68,
+      "end": 321.44,
+      "text": "this a successful brand. I don't know that I would do anything with the stores. I think I would go full online. I think I would try to go back and understand what were the core skews that"
+    },
+    {
+      "start": 321.44,
+      "end": 335.04,
+      "text": "probably built the brand in the early days. If those are still relevant, which I imagine they are, probably bring those back in the best possible way. Make sure the fabric is the best and the materials are the best because you want to really win people over."
+    },
+    {
+      "start": 335.92,
+      "end": 342.96,
+      "text": "And then I assume they're going to... I mean, if they bought this thing, hopefully they're going to put some real money into it and try to get some more eyeballs on the fact that they're"
+    },
+    {
+      "start": 342.96,
+      "end": 352.88,
+      "text": "back and maybe under new ownership. I think I would try to run it there. I would also probably try to see like, I wonder who else could sell this. Could Nordstrom sell Outdoor Voices? Could"
+    },
+    {
+      "start": 352.88,
+      "end": 369.6,
+      "text": "Amazon sell Outdoor Voices and try to just make it really omni-channel. Before it was always just, I think, sold by Outdoor Voices only. And maybe if you did a partnership with them, you sold a collaborative product. But yeah, I'd probably go omni-channel digital and then"
+    },
+    {
+      "start": 369.6,
+      "end": 383.84,
+      "text": "maybe even see... I don't see why Outdoor Voices couldn't be sold in Target. Probably the price point. I think that Target isn't generally in the business of being like, yeah, we're going to sell $80 athleisure pants. But you could change the price point if you want."
+    },
+    {
+      "start": 383.84,
+      "end": 399.12,
+      "text": "Yeah. Or maybe like a subline for Target. Yeah. So you keep the stores closed. And then can this brand advertise on Facebook? How do you market this thing to make it alive again? I haven't seen an Outdoor Voices ad in a really"
+    },
+    {
+      "start": 399.12,
+      "end": 414.88,
+      "text": "long time. How do you make it so that it's not a brand people may have recognized but is sort of in the back of your mind and not in the front of your mind? From a performance standpoint, probably your normal stuff, Facebook, probably heavily catalog."
+    },
+    {
+      "start": 415.92,
+      "end": 426.8,
+      "text": "But I think really what has to be done first is on the brand side, how do you make Outdoor Voices cool again? How do you make it exciting? I think with apparel, before somebody wants to"
+    },
+    {
+      "start": 426.8,
+      "end": 439.28,
+      "text": "buy from the brand, they want to know that it is cool or it's trendy or it's the right thing to get. So for that, I think you would probably need to get a pretty solid 360 campaign or some sort of a,"
+    },
+    {
+      "start": 439.28,
+      "end": 454.8,
+      "text": "hey, we're back type of campaign. Really good photography, something that builds that trust again. And then probably run the gamut, see if you can get some earned media, some influencers, content creators, and then yeah, start running some performance ads."
+    },
+    {
+      "start": 455.6,
+      "end": 462.72,
+      "text": "If you were to buy it, would you consider sort of saying, look, I'm going to buy it, I paid, and I'm just making up a number here. I don't have any inside information."
+    },
+    {
+      "start": 462.72,
+      "end": 475.28,
+      "text": "I paid $10 million for Outdoor Voices, including inventory. I bet I can make that back in two and a half years without doing much. Forget meta ads, we don't spend money. We'll keep three people on"
+    },
+    {
+      "start": 475.28,
+      "end": 485.6,
+      "text": "the team. We're going to launch some new products twice a year. We'll send out emails and text messages. We'll milk our email group. We'll milk our text message group. I think I can make $10"
+    },
+    {
+      "start": 485.6,
+      "end": 495.52,
+      "text": "million in two years back, and after that, it's just gravy. You're sort of saying, hey, look, this is how I make the brand big again. What about if you're like, forget the brand being big again,"
+    },
+    {
+      "start": 495.52,
+      "end": 510.08,
+      "text": "this is RadioShack. I'm going to sell batteries until nobody buys RadioShack batteries anymore. Would that cross your mind or is that a crazy idea? No, I don't think it's a crazy idea. It's definitely more of a conservative approach,"
+    },
+    {
+      "start": 510.08,
+      "end": 520.08,
+      "text": "I think. It's more of a cost prohibitive, I guess. You're not going to be spending as much. You kind of milk what's there. I think the way I was thinking about it was like, okay, let's say"
+    },
+    {
+      "start": 520.96,
+      "end": 534.08,
+      "text": "you want to try to expand income streams as much as possible, I think to get other retailers to pick you up or to get momentum on Amazon or to get Target to be down to do a lower price line with"
+    },
+    {
+      "start": 534.08,
+      "end": 545.84,
+      "text": "you where it's nice margin and Target sells it, I think you have to make the brand somewhat cool again. But I also think like Outdoor Voices and I don't know, maybe like, you know, Native is"
+    },
+    {
+      "start": 545.84,
+      "end": 555.12,
+      "text": "certainly past the stage where if Native went away today and came back in six years, everybody would still know exactly what Native is. But like, I don't know that that's the case for Outdoor Voices"
+    },
+    {
+      "start": 555.12,
+      "end": 563.84,
+      "text": "where if Outdoor Voices goes away today, and they try to be really conservative for the next two, three years, like I don't know if they'll have that opportunity to go and take advantage of"
+    },
+    {
+      "start": 563.84,
+      "end": 573.44,
+      "text": "the brand name that it is today. Like I feel like the store is just closed and girls are always still wearing the doing things hat or the tote bag. But you know, in six years, is that going"
+    },
+    {
+      "start": 573.44,
+      "end": 583.36,
+      "text": "to still be the case or four years when they try to clear the thing and come back? I mean, I'm actually really curious to see how they do it. We should keep track of it. But I would hope that"
+    },
+    {
+      "start": 583.36,
+      "end": 594.56,
+      "text": "they have like, you know, a few million bucks set aside to like really invest in pushing the brand and giving it like a real go. Have you ever seen how these buyers, because this, you said this was"
+    },
+    {
+      "start": 594.56,
+      "end": 604.4,
+      "text": "a private equity firm? Yeah. Ever seen like the deal side of these, like when they're coming up with this, are they taking into account the cost of campaigns to get things back? Or are they more"
+    },
+    {
+      "start": 604.4,
+      "end": 612.96,
+      "text": "on the side of like, let's just milk what they have? Really depends on the buyer and the brand. I think there's both of those happen. I think in this instance, they probably say,"
+    },
+    {
+      "start": 613.68,
+      "end": 622.24,
+      "text": "we're not just going to milk what they have. We think that like, you know, you're probably paying $10 million for this brand. So it's hard to get that back in two years, although I don't know any"
+    },
+    {
+      "start": 622.24,
+      "end": 632.56,
+      "text": "of the numbers. So it's not impossible. You know, in the past, outdoor voices, brick and mortar stores were actually the profitable element of OV. So I'm not sure what happened. If I were looking"
+    },
+    {
+      "start": 632.56,
+      "end": 642.48,
+      "text": "at this business first, let me say a few things. One is I knew that it was for sale and I intentionally passed on the business. I would almost never buy an apparel business unless it was"
+    },
+    {
+      "start": 642.48,
+      "end": 653.52,
+      "text": "Hermes. It's so hard to run an apparel business, in my opinion. The returns are insane. Inventory forecasting is really hard. You have to have a new collection that you drop every quarter."
+    },
+    {
+      "start": 654.08,
+      "end": 663.04,
+      "text": "And that new collection requires a lot of work on your end and then a lot of inventory forecasting. You have no idea if you're going to sell, you know, this is the cloud knit sweatshirt. You don't"
+    },
+    {
+      "start": 663.04,
+      "end": 671.44,
+      "text": "know if you're going to sell 100 of these or 100,000. And then you don't know if you're going to sell them in black or blue or gray or like, you know, some other colors. So I would almost"
+    },
+    {
+      "start": 671.44,
+      "end": 681.12,
+      "text": "never get involved in this unless it was a miracle. I do think that like you mentioned a lot of the things that I'd probably focus on if I did, which was wholesale right out of the gate. Like does a"
+    },
+    {
+      "start": 681.12,
+      "end": 690,
+      "text": "brand have enough brand equity value to launch that target line right now? Five years from now, it certainly won't. I'd be like, right now I might be able to go into Target."
+    },
+    {
+      "start": 690.64,
+      "end": 700.64,
+      "text": "Like, you know, if they say yes, I can spend money on marketing because, you know, I've got some guaranteed sales through Target and my brand might be relevant again. If the answer is no, I might"
+    },
+    {
+      "start": 700.64,
+      "end": 710.16,
+      "text": "say, okay, you know what? I'm pivoting my strategy or my thesis. And instead of trying to grow this brand, I might just milk it. Although I don't know if there's value in that. I just don't know the"
+    },
+    {
+      "start": 710.16,
+      "end": 719.68,
+      "text": "numbers. I'd probably focus on international sales as well. Like, hey, is there room in China? Or like are people interested in this in China or in Japan or somewhere else?"
+    },
+    {
+      "start": 720.56,
+      "end": 726.48,
+      "text": "And then the other thing I think, like I always thought one of the bad things that they did or one of the things they didn't do well, I shouldn't say bad things. One of the things they didn't do"
+    },
+    {
+      "start": 726.48,
+      "end": 736.96,
+      "text": "well was drop new collections. Like I was a huge fan of OV. I was constantly looking for new men's products. And once a quarter, I'd see like a new shirt and I'm like, this is not what I was hoping"
+    },
+    {
+      "start": 736.96,
+      "end": 746.8,
+      "text": "for. Like, you know, you really got to focus on drops per season. Like that's why they have fashion week in the fall and in the spring and swim. You know, like people are expecting new"
+    },
+    {
+      "start": 746.8,
+      "end": 760,
+      "text": "material. They want new clothing and new ideas. And I'm not sure that's easy to do when you're private equity owned. I'm not sure if you're really in growth mode or if you're in just survive mode. So I don't know what happens. It's certainly going to be interesting."
+    },
+    {
+      "start": 760,
+      "end": 772.72,
+      "text": "And you know, I'll be watching. I thought the woman who started Lunya, didn't she previously buy it? Is that who they bought this from? She did. I think they bought it out of bankruptcy. She was running the business for several years."
+    },
+    {
+      "start": 772.72,
+      "end": 788.88,
+      "text": "Yeah. And you know, it just didn't work out the way that it was going for her. Okay. Let's move on to the next one, which is Feet. Feet sold to 2.0 Ventures, undisclosed amount. I don't have much information. Feet had secured four rounds of funding in 2022."
+    },
+    {
+      "start": 789.52,
+      "end": 804.88,
+      "text": "You know, the apparel company was valued for $75 million at $75 million apparently, and over four rounds, they raised a total of $5 million. But they didn't raise much, although it wasn't a high valuation, like $5 million or $75 million valuation. Obviously,"
+    },
+    {
+      "start": 804.88,
+      "end": 820.88,
+      "text": "those were multiple rounds. So there could have been more dilution, but not a lot of fundraised. And what do you think of that brand? Like, you know, if you were running Feet, what would you do, I guess? I think where Feet and maybe a few other clothing brands"
+    },
+    {
+      "start": 820.88,
+      "end": 832.24,
+      "text": "took a turn was when they just expanded the SKU, like the catalog too much, too quickly. I think they started with socks, if I'm correct. And then they expanded to like the hoodies."
+    },
+    {
+      "start": 832.24,
+      "end": 843.2,
+      "text": "I could be wrong about that. I think you got to figure out if you could build a business on one product or one collection or one line, like, you know, one type of product,"
+    },
+    {
+      "start": 843.2,
+      "end": 859.68,
+      "text": "maybe with different colors or variants before you just go, all right, we're going to do a bunch of stuff. And especially in apparel, because you've got sizes. So you've got colors and then you've got sizes within colors. So it's like one sweatshirt might actually be 20 different SKUs,"
+    },
+    {
+      "start": 859.68,
+      "end": 869.68,
+      "text": "20 SKUs you have to stock up on of each thing for a sweatshirt. But yeah, personally, I'm a fan of the actual product. I love the product. It's very cozy. I have a couple of"
+    },
+    {
+      "start": 869.68,
+      "end": 882.4,
+      "text": "them myself. But yeah, apparel is just a scary business because you have to buy so many of every product and you don't really know if something's going to hit or not hit. Like, I feel like apparel"
+    },
+    {
+      "start": 882.4,
+      "end": 899.12,
+      "text": "is very much lightning in a bottle. If something hits, it really hits. Otherwise, you're sort of like fighting the marketing and sales kind of, you know, trying to sell product, or you're just playing a very hard game fighting upstream where nobody actually wants the product."
+    },
+    {
+      "start": 899.76,
+      "end": 908.64,
+      "text": "How do you think Mad Happy is doing then? Like, you know, and Mad Happy is doing a bunch of new releases. They're opening a bunch of stores as well. How are they doing it differently than these"
+    },
+    {
+      "start": 908.64,
+      "end": 921.68,
+      "text": "other apparel businesses? I don't think that Mad Happy just sells sweatshirts. I think a lot of what they've built with the brand around what it stands for and who the people are that associate"
+    },
+    {
+      "start": 921.68,
+      "end": 931.6,
+      "text": "themselves with Mad Happy, I think a lot of people buy into that. And the sweatshirt happens to be the way to buy into that and represent yourself as a buyer into that. Mad Happy just"
+    },
+    {
+      "start": 931.6,
+      "end": 941.52,
+      "text": "like they've got such a strong brand. Like, you know, you could imagine the Mad Happy Hotel or like the Mad Happy Gym, you know, the benefits that would come with the Mad Happy credit card."
+    },
+    {
+      "start": 941.52,
+      "end": 957.44,
+      "text": "Like, I feel like they've got such a strong brand. That's what people are buying into. Also, they do a phenomenal job of dropping products constantly. And they do a really phenomenal job of being in the culture in all the right ways. The people at the top of culture,"
+    },
+    {
+      "start": 957.44,
+      "end": 974.96,
+      "text": "everybody who everybody looks to see what's cool. Like they're all in Mad Happy. What I loved about Feet is that I really felt like the CEO, the guy's name is Taylor. Taylor really embodied Feet. Whenever I saw the brand, I thought of him. And whenever I saw him,"
+    },
+    {
+      "start": 974.96,
+      "end": 990.24,
+      "text": "I thought of the brand. I thought they were like synonymous. And I was like, okay, if there's a relaxed California, I'm walking my dog on Thursday at 3pm and enjoying my life brand or person, I think of Taylor. And so I really respected that the entire time."
+    },
+    {
+      "start": 991.6,
+      "end": 1005.2,
+      "text": "Okay, the third business I wanted to talk about was AumSum. Can you tell everyone what AumSum is? Yeah, AumSum is basically an easy way to make Asian flavored meals by just adding sauce packet"
+    },
+    {
+      "start": 1005.2,
+      "end": 1017.36,
+      "text": "to whatever you're cooking. So if you're cooking, we want to make like a Thai stir fry, you just cook your chicken, you add your veggies in a pan, and then you just put the AumSum sauce, and you've basically got a restaurant quality stir fry."
+    },
+    {
+      "start": 1018,
+      "end": 1034.72,
+      "text": "That's exactly right. And so there's other businesses in the Asian food direct consumer space, although categorizing Asian people so generically, I feel like I'm doing that with the businesses too. There's Flyby Jing, there's Emi. I think you and I are both investors in Emi"
+    },
+    {
+      "start": 1034.72,
+      "end": 1046.32,
+      "text": "as well. Yep, Sanso. Yeah, that's right. I didn't even think of that one. That's a great one. Okay, so let's talk about the AumSum numbers. So first, they were sold to a publicly traded"
+    },
+    {
+      "start": 1046.32,
+      "end": 1064,
+      "text": "business, which was called DDC, which I thought was really crazy because DDC is like a tiny, tiny business. I can't believe it's publicly traded. But anyway, here's the terms of agreement. It was an asset purchase agreement. AumSum did $3.7 million in revenue last year. The buyer"
+    },
+    {
+      "start": 1064,
+      "end": 1080.96,
+      "text": "agreed to take on AumSum's debt, which was $800,000. And if the brand hits certain projections, there's upside in the if they do well over the next four years. At the time of acquisition, the projection is they'll earn $11.7 million. Half of that will be given in stock and half"
+    },
+    {
+      "start": 1080.96,
+      "end": 1097.2,
+      "text": "of that will be given in cash. I wrote on Twitter about this. I thought AumSum had raised $2.5 million because I was just looking it up. But people messaged me after I posted this tweet, and AumSum had actually raised $8 million, so substantially more than I had known about."
+    },
+    {
+      "start": 1098.08,
+      "end": 1113.36,
+      "text": "What do you think about this acquisition? And what do you think this means for Emi and Flyby Jing and Sanso? Or does it not mean anything? I'm grouping all the Asian businesses together and that's silly. So I invested in AumSum in their first round"
+    },
+    {
+      "start": 1114.16,
+      "end": 1127.12,
+      "text": "and have seen the business since the early days. Honestly, AumSum, Emi, Flyby Jing, Sanso, Nectar, they all grew around the same time. They all came out around the same time and all of them"
+    },
+    {
+      "start": 1127.12,
+      "end": 1146.24,
+      "text": "have grown nicely. I think my interpretation of the acquisition is that they just needed capital and maybe couldn't raise it because they had already raised eight. If you've raised eight and you're doing three or four, it's hard to go to investors and say, I need more money."
+    },
+    {
+      "start": 1146.88,
+      "end": 1165.36,
+      "text": "So my interpretation is probably that this was a way where they could actually partner with another company. I think Drew Fallon wrote a thread on this too, and he said that they basically get $3 million over three years to hit their targets in order to earn out the 11.7."
+    },
+    {
+      "start": 1166.08,
+      "end": 1178.56,
+      "text": "So it was probably a way of, all right, best case scenario, we can earn 11.7, which is good outcome. Worst case scenario, the brand will continue to live and continue to go. I think they're doing"
+    },
+    {
+      "start": 1178.56,
+      "end": 1195.12,
+      "text": "pretty well in retail itself. So I think the retail business will continue to grow and expand. Somebody else told me that this company, DDC, is basically looking to make a bunch of acquisitions and sort of become like this holding company where they bring these brands in,"
+    },
+    {
+      "start": 1195.84,
+      "end": 1210.96,
+      "text": "sort of create this distribution platform for sales and yeah, basically continue to grow them. Yeah, they are. I think they made another acquisition of a business called GI Industry, which is an Italian producer of Asian-ready meals. I've never heard of them."
+    },
+    {
+      "start": 1212.56,
+      "end": 1229.68,
+      "text": "I think that it's a great home for AumSum. I think this AumSum acquisition, the Feet acquisition and the Outdoor Voices acquisition. So I don't think this really means anything for EMI or Flyby Jing. It doesn't mean much. I will say, yeah, doing $3.7 million in revenue,"
+    },
+    {
+      "start": 1230.24,
+      "end": 1246.32,
+      "text": "having raised $8 million and taking on another million dollars of debt isn't the best operational excellence I've ever seen. But these businesses are hard and I respect that. Totally. And I love Vanessa. I think she's a great human being and did a fantastic job. I really adore everything"
+    },
+    {
+      "start": 1246.32,
+      "end": 1261.2,
+      "text": "that she's built. These three acquisitions over the past week really made me reflect and think, okay, a lot of businesses have now... In the real estate industry, a lot of commercial buildings are starting to take hits. They're like, look, we thought that maybe we could outlast"
+    },
+    {
+      "start": 1261.92,
+      "end": 1274.72,
+      "text": "the fact that nobody's coming into office buildings anymore or high interest rates. And now they've had a come to Jesus moment and they're like, you know what? We cannot survive any longer. Half of our building is empty and interest rates are really high."
+    },
+    {
+      "start": 1274.72,
+      "end": 1291.2,
+      "text": "We cannot continue this operation anymore. It's just not possible. And I think the same is true with a lot of direct-to-consumer businesses like AumSum and Feet and Outdoor Voices, which is they're like, look, we thought we might be able to survive a period of downturn or figure out"
+    },
+    {
+      "start": 1291.2,
+      "end": 1303.28,
+      "text": "what's wrong with this business because we can raise more cash. I think they've come to the realization that's not possible anymore. And they're coming to the realization that, hey, we need to find a home for this business. And I think all three of these entrepreneurs have"
+    },
+    {
+      "start": 1303.28,
+      "end": 1313.6,
+      "text": "done that. And I think we're going to see a lot more of this, which is not great outcomes by any stretch of the imagination, but a good place to say, you know what? I learned a ton. There's some"
+    },
+    {
+      "start": 1313.6,
+      "end": 1324,
+      "text": "upside in it for me if I join this new organization or some upside just by signing these documents. And I'll learn a lot more and I'll be prepared for another business that I'll do better the next"
+    },
+    {
+      "start": 1324,
+      "end": 1333.44,
+      "text": "time. I think the last three businesses have told us that. And I'm really excited about that. I'm happy that these businesses have found good homes and don't have to go through what Outdoor Voices"
+    },
+    {
+      "start": 1333.44,
+      "end": 1349.76,
+      "text": "had to go through. Some of my best investments are in the second-time founders after the first business found a home or shut down. The second-time ones just rip so much faster. I love investing in second-time founders. In fact, I remember one of the early things about"
+    },
+    {
+      "start": 1349.76,
+      "end": 1360.08,
+      "text": "Magic Spoon. I think I invested in before they even had the name Magic Spoon and I got a package from them. This is what the cereal will taste like. This looks like Cheerios but tastes terrible."
+    },
+    {
+      "start": 1360.08,
+      "end": 1370.4,
+      "text": "This was well before they had a final product. They were just experimenting. And I had a call with them and they're like, yeah, we started this other business where we sold cricket protein"
+    },
+    {
+      "start": 1370.4,
+      "end": 1385.2,
+      "text": "powder. And it didn't work out because no one wants to eat crickets but we learned a ton. And I was like, you've got... You sold me. You understand all the problems of the business. You tried something. It was unique. It didn't work out. You already understand that you're"
+    },
+    {
+      "start": 1385.2,
+      "end": 1395.68,
+      "text": "making this product and you're going to improve it. All of the things that... As soon as they said, we're second-time founders, I was like, I'm in. And I think it's just much easier to invest in second-time founders."
+    },
+    {
+      "start": 1454.72,
+      "end": 1472.4,
+      "text": "Well, that's what Fufill is doing to ERPs. Go check them out at fufill.io. Let's move to the next topic, which is Timu. I've been hearing a lot about Timu recently. More than I suspected actually. I think Sheen is trying to IPO now but Timu... Yeah."
+    },
+    {
+      "start": 1472.4,
+      "end": 1484.16,
+      "text": "Let me ask you a question. Who is Timu a threat to? Is it a threat to Amazon? Is it a threat to Wayfair? Is it a threat to Etsy? Is it a threat to Shopify? All of them. Where does Timu fit in"
+    },
+    {
+      "start": 1484.16,
+      "end": 1506.48,
+      "text": "this general direct-to-consumer world? Honestly, it's not just Timu. I think it's this entire... There's a new layer of direct-to-factory, either platforms or even agencies now. Like Jason Wong, for example, you skip working with massive packaging company or some sort of"
+    },
+    {
+      "start": 1506.48,
+      "end": 1524.72,
+      "text": "boutique packaging company. You work with basically directly the factory. And I feel like it's a threat to a lot of people. I think Shopify for sure, Amazon, almost everybody here. Because it's like... Well, I think it's a threat to the people who sell either commoditized products"
+    },
+    {
+      "start": 1524.72,
+      "end": 1542.24,
+      "text": "or don't have strong brand loyalty. Like Hermes will never be threatened by Timu, but like a Target's purse section might. Yeah. At some point, Timu is going to be selling fake Hermes bags. But I guess that doesn't affect Hermes already. Is Timu a threat to Simple Modern?"
+    },
+    {
+      "start": 1542.96,
+      "end": 1556.96,
+      "text": "Yeah, it's a good question. And for the people who don't know, Simple Modern is like a drinkware company that makes tumblers and water bottles and things like that. So Simple Modern specifically, I don't think so because they're already so massive and well"
+    },
+    {
+      "start": 1556.96,
+      "end": 1569.76,
+      "text": "known. But if somebody was to just start another tumbler company, I think you barely got a shot unless this is like Justin Bieber's tumbler. I think you barely have a shot whether or not"
+    },
+    {
+      "start": 1569.76,
+      "end": 1578.08,
+      "text": "Timu is there and whether or not Justin Bieber is there. I think that's just a really difficult business to get into. Yeah, agreed. Agreed. I think Timu is a threat to Simple Modern."
+    },
+    {
+      "start": 1578.08,
+      "end": 1588.48,
+      "text": "I think Timu is a threat to virtually anybody on him. If you're selling a durable good, if you're selling a mattress, I think Timu is going to be a threat to you. If you're selling"
+    },
+    {
+      "start": 1588.48,
+      "end": 1596.64,
+      "text": "nail clippers or hair combs or anything, I think Timu is going to be a threat to you. So I think it is a threat to Simple Modern. I think it'll hurt Amazon businesses. I think"
+    },
+    {
+      "start": 1596.64,
+      "end": 1615.04,
+      "text": "it'll hurt Shopify businesses. I think Wayfair, it might not hurt just simply because Wayfair has to deal with furniture and it's so complicated. I feel like the direct-to-factory movement is actually a total threat to all of these furniture companies. Because have you seen the sites where"
+    },
+    {
+      "start": 1615.52,
+      "end": 1627.92,
+      "text": "there's actually a website that exists right now? Yeah, Doop. Doop, yes. Where like, yeah, you just see the markup and it's crazy. I do think that there will be threats to Wayfair and I think they'll be very legitimate."
+    },
+    {
+      "start": 1627.92,
+      "end": 1637.92,
+      "text": "I think of Timu more as I think of an Amazon online. It's hard for me to think of somebody who can do a really good job selling furniture and somebody who can do a really good job selling a"
+    },
+    {
+      "start": 1637.92,
+      "end": 1646.64,
+      "text": "hair comb. If you've ever shopped at Wayfair, it's amazing at how detailed you can get when you're like, this is what I'm looking for. If you're looking for a bar stool, you can be like,"
+    },
+    {
+      "start": 1646.64,
+      "end": 1655.84,
+      "text": "I want a counterstool or a bar stool. This is the height that I want it to be at. I want a back. I want it to have four legs. I want the legs to be this color. I want it to be made of this material."
+    },
+    {
+      "start": 1655.84,
+      "end": 1666.64,
+      "text": "And I want it to be made of leather and the leather should be green. You can get into a lot of detail, but I feel like that detail requires specialization. And so I do think that there's"
+    },
+    {
+      "start": 1666.64,
+      "end": 1675.68,
+      "text": "a Timu to be built that competes directly with Wayfair. In fact, I think that's a great business. I just don't think Timu itself is it because it's hard to be like, you can buy a comb"
+    },
+    {
+      "start": 1676.32,
+      "end": 1685.28,
+      "text": "and you can also customize. You can also look for counterstools that are 25 inches tall, that have four legs with green leather and the legs are brown. I think it's hard to build both"
+    },
+    {
+      "start": 1685.28,
+      "end": 1694.64,
+      "text": "in the same website and make them both consumable to a regular person. Not impossible, but I think there's a Timu to be built that competes with Wayfair. The reason I brought this up is because"
+    },
+    {
+      "start": 1694.64,
+      "end": 1714.4,
+      "text": "I read this really interesting thing which says that 30% of Timu's top selling women's clothing is available on Etsy, for sale on Etsy. And 19 of Timu's top 25 jewelry items also appear on Etsy, often at much higher prices. Basically, Etsy is becoming Timu but far more expensive."
+    },
+    {
+      "start": 1715.04,
+      "end": 1728.32,
+      "text": "You're going to get a product from Timu, but they're going to wrap it in a nice... Timu for the suburbs. That's right. That's exactly what it is. It's like some guy like you or me or some girl like you or me and buying stuff from Timu probably"
+    },
+    {
+      "start": 1728.32,
+      "end": 1739.6,
+      "text": "in bulk and then repackaging it for Etsy. And I think that's a real threat to Etsy. To be honest, Etsy used to do this a lot with Alibaba. When I was running Caskers, we tried to sell those"
+    },
+    {
+      "start": 1739.6,
+      "end": 1751.2,
+      "text": "brass mugs that you drink Moscow Mules out of or... We try and sell all these niche-y products and we'd buy them from Etsy and then resell them on our website because they were very niche-y"
+    },
+    {
+      "start": 1751.2,
+      "end": 1760.8,
+      "text": "and custom. And then for the first six months we were doing that and then six months into it, we're like, wait, all this is just from Alibaba. The Moscow Mule mugs that we're selling for $40"
+    },
+    {
+      "start": 1760.8,
+      "end": 1771.44,
+      "text": "that we're paying $10 for that some guy buys on Alibaba for a dollar and they're literally the exact same mug. And so we're like, oh, we thought we were buying it from this handcrafted person,"
+    },
+    {
+      "start": 1771.44,
+      "end": 1784.96,
+      "text": "but in reality, they were just buying it from China. Of course, how did we think that some guy was handcrafting a copper mug in his house? Just some guy named Kevin sitting in his boxers shipping you straight from Alibaba. Yeah, we were so, so stupid. We just didn't"
+    },
+    {
+      "start": 1784.96,
+      "end": 1798.48,
+      "text": "understand that that's not what was happening. The reality was that these guys were just buying from Alibaba, drop shipping into their house or sending to their house and drop shipping to us. That's what's happening to Etsy now. It's such a real threat to Etsy because I feel"
+    },
+    {
+      "start": 1798.48,
+      "end": 1808.32,
+      "text": "like it really ruins the platform of handcrafted goods. I think in response to Teemu, Etsy has been running a lot more advertising. I don't know if you've noticed it, but they're running a lot more"
+    },
+    {
+      "start": 1808.32,
+      "end": 1824.8,
+      "text": "advertising focusing on basically like get real handcrafted made in the USA authentic products here at Etsy. Okay, well, let me ask you a question. Do you think there's any other arbitrage opportunities like this? So this is a clear arbitrage. Here's one arbitrage opportunity."
+    },
+    {
+      "start": 1824.8,
+      "end": 1842.88,
+      "text": "19 of Teemu's top 25 jewelry items are on Etsy, but the other six items on Etsy. Here's another one. Take those 25 items and sell them on FAIR, F-A-I-R-E, and sell them to wholesalers. I'm sorry, wholesale them to other retailers like people who have a bunch of spa"
+    },
+    {
+      "start": 1842.88,
+      "end": 1856.64,
+      "text": "stores or whatever it is. Those are quick arbitrage opportunities. Any other arbitrage opportunities that you can think of? Like this is a pretty interesting thing that somebody's doing. Like any arbitrage opportunities that you've seen in e-commerce?"
+    },
+    {
+      "start": 1857.44,
+      "end": 1868.8,
+      "text": "I mean, I would take the same thing. Instead of Etsy, sling it with a ton of affiliates at scale. Give them a huge margin and just go hard with affiliates. You know, it's another one that"
+    },
+    {
+      "start": 1870.24,
+      "end": 1882.64,
+      "text": "I learned this week is did you know that the... It's kind of e-commerce, but not really. The Chase Sapphire Preferred, not the Reserve, but the Preferred. If you get somebody to sign up"
+    },
+    {
+      "start": 1883.28,
+      "end": 1902,
+      "text": "and you're an affiliate to Bankrate or JP Morgan, they pay you 600 bucks cash for one person to sign up. How have we not gone ballistic on the performance marketing side and acquired somebody for 100 bucks? It can't be that hard. Great question. Let me respond to that,"
+    },
+    {
+      "start": 1902,
+      "end": 1918.16,
+      "text": "and then I'll respond to the other arbitrage opportunities. So one, that's how the Points Guy works. The Points Guy is owned by a company called Red Sea Ventures. I've heard it does something like north of $100 million in EBITDA a year and something like $400 million in revenue,"
+    },
+    {
+      "start": 1918.16,
+      "end": 1928,
+      "text": "although those numbers could be wrong. The way they make money is getting you to sign up for credit cards. In every article they write, they're like, oh, you want to fly American Airlines from"
+    },
+    {
+      "start": 1928,
+      "end": 1936.64,
+      "text": "New York to Heathrow in business? We've reviewed it. Let us tell you what the review looks like. But before that, this is how you earn American Airlines points. You have this credit card."
+    },
+    {
+      "start": 1936.64,
+      "end": 1945.28,
+      "text": "Go sign up for this credit card. What I've heard is the banks have made it really difficult to become affiliates for their credit cards because they had so many scammed people do this where"
+    },
+    {
+      "start": 1945.28,
+      "end": 1962.08,
+      "text": "they'd be like, sign up for Chase Sapphire preferred card and I'll pay you $500. Fuck it, I'm going to get $600. I don't like, forget my CAC might be $50 if I'm ready to pay you $500. Want $500 today? Fill out this credit card application and I'll Venmo you $500."
+    },
+    {
+      "start": 1963.12,
+      "end": 1976.64,
+      "text": "So I think they got really specific on who could become an affiliate. And that's why more reputable organizations like the Points Guy or One Mile at a Time or View from the Wing have become affiliates and remained affiliates because they're talking about"
+    },
+    {
+      "start": 1976.64,
+      "end": 1987.92,
+      "text": "travel and plugging these cards gently and not doing the affiliate scammy stuff that is running through your mind right now. Yeah, I'm like, what YouTuber can talk about money in a good way?"
+    },
+    {
+      "start": 1988.56,
+      "end": 2003.6,
+      "text": "Yeah, that's right. In fact, I remember there was... God, who was this guy? I remember this guy, I chatted with him maybe 10 years ago and he's like, I'm running affiliates to something like"
+    },
+    {
+      "start": 2003.6,
+      "end": 2016.72,
+      "text": "this. And he's like, from the profile of a black pastor and I'm going after the African-American community. And he's like, this is what's really good for the... And I was like, Jesus Christ. Honestly, that's... Pardon the pun."
+    },
+    {
+      "start": 2016.72,
+      "end": 2027.04,
+      "text": "Talk about audience creative matching. Yeah, yeah, this was a long time ago. I wonder if that guy listens to this. I remember hearing it and I was like, I don't know how to feel."
+    },
+    {
+      "start": 2027.76,
+      "end": 2036.48,
+      "text": "Impressed by your hustle, weirded out. I don't know what to think of this, but I remember him doing that and I remember some sort of financial stuff. You know who else does a lot of that?"
+    },
+    {
+      "start": 2037.12,
+      "end": 2046.72,
+      "text": "University of Phoenix. You can get paid a fortune from University of Phoenix if you get somebody in their lead flow of being like, sign up for a course. 10 years ago, they were paying more"
+    },
+    {
+      "start": 2046.72,
+      "end": 2062.32,
+      "text": "than $60. I bet today it's more than $100 if you can get somebody to sign up. Just an email address of somebody who's qualified to be interested in a University of Phoenix course. Ampush actually started... The business when they started was arbitraging"
+    },
+    {
+      "start": 2062.32,
+      "end": 2080.64,
+      "text": "College Legion. Well, there you go. Wow. Okay. Let me go back to the arbitrage opportunities for a second. I got my... I cut my teeth in e-commerce 20 years ago, 30 years ago maybe. Not 30 years ago, but 25 years ago doing this, which was I'd go on eBay."
+    },
+    {
+      "start": 2080.8,
+      "end": 2090.72,
+      "text": "Basically, on eBay, people are like, I have a bunch of junk and I put it into a box. They call it a grab box. They're like, here's a bunch of junk. It's a grab box. They'd all be 99 cents."
+    },
+    {
+      "start": 2090.72,
+      "end": 2099.2,
+      "text": "And they're like, look, you don't know what you're going to get. It's just a bunch of junk. And so I would buy these grab boxes for 99 cents and then I'd break down the individual goods"
+    },
+    {
+      "start": 2099.2,
+      "end": 2109.12,
+      "text": "and resell them on eBay for more. Sometimes I'm like, I can't sell this thing for anything. It'd be like a pair of really shitty headphones that you'd get at a hotel. But other times,"
+    },
+    {
+      "start": 2109.44,
+      "end": 2122.72,
+      "text": "here's this really crappy MP3 player that can hold five songs, but maybe somebody will pay $5 for it. And so I'm like, okay, I invested 99 cents and I got $5 on this item. And I probably made $50"
+    },
+    {
+      "start": 2122.72,
+      "end": 2134.8,
+      "text": "and spent 400 hours doing this. It was probably a terrible use of time, but it was an arbitrage opportunity. I know two guys who basically they live in the South and they go to Home Depot and"
+    },
+    {
+      "start": 2134.8,
+      "end": 2144.64,
+      "text": "TJ Maxx, Ross and Marshalls. And they just go every day and they look for something that's on clearance and they look it up on Amazon and they're like, okay, you know what? This ceiling"
+    },
+    {
+      "start": 2144.64,
+      "end": 2156.32,
+      "text": "fan is selling for $50 at Home Depot on clearance right now. On Amazon, the buy box is $200 and it's selling five units a day. So let me buy these 50 units that are sitting here on this Home"
+    },
+    {
+      "start": 2156.32,
+      "end": 2171.92,
+      "text": "Depot floor and sell them through Amazon. I'll sell them for $75 or I'll sell them for 150 bucks. I'll make a bunch of money. I'll win the buy box because I'm the cheapest price. People are looking for them and I bought them from Home Depot for $50 because they're on clearance."
+    },
+    {
+      "start": 2171.92,
+      "end": 2186.48,
+      "text": "There was another arbitrage opportunity, literally going to retailers, buying what's on clearance if it sells more on Amazon and then putting it up on Amazon. I love going to TJ Maxx just to see what brands are selling there. But they've got stuff from"
+    },
+    {
+      "start": 2186.48,
+      "end": 2206.96,
+      "text": "Quip that's like a $50 brush. They're selling it for like $9.99. They've got the entire product line from Hims and Hers and some of the other, Curology entire product line. There's so many things. Yeah, you could go buy at TJ Maxx and just flip on Amazon or there's companies who"
+    },
+    {
+      "start": 2208,
+      "end": 2226.88,
+      "text": "they become a distribution point to like 250 e-commerce sites like Christmas.com or Gifts.com, like these random e-commerce sites that just sell anything and everything. You could plug into everywhere along with Amazon and probably go find a bunch of good shit at TJ Maxx."
+    },
+    {
+      "start": 2227.76,
+      "end": 2241.36,
+      "text": "Yeah, look, those arbitrage opportunities continue to exist. One other guy, in fact, I just thought of this. I didn't even have this on my document. I heard him speak and he's like, he started offering a free baby carrier. You know those backpacks where you carry a baby? Yeah."
+    },
+    {
+      "start": 2242.08,
+      "end": 2253.44,
+      "text": "He started offering, he said free plus just pay $19 in shipping. And a bunch of people would buy it and then he would drop ship it from China. He'd go on to like Alibaba, fill out the information or"
+    },
+    {
+      "start": 2253.44,
+      "end": 2263.28,
+      "text": "whatever it was and ship one to China. And people would be like, why? I just got this box and has Chinese characters all over it. And he's like, yeah. And some people would be like, I don't like"
+    },
+    {
+      "start": 2263.28,
+      "end": 2269.28,
+      "text": "this. I want to return. Well, he's like, well, it's free. You just paid for shipping and handling. So you can ship it back to us but you're not going to get a refund."
+    },
+    {
+      "start": 2270.24,
+      "end": 2281.12,
+      "text": "You ship it back to us but you get $0 back. And so he ended up selling like 40 or 50 of these a day at some point. And so the Chinese seller was like, what's going on here? You're having 40"
+    },
+    {
+      "start": 2281.12,
+      "end": 2289.68,
+      "text": "babies a day? And then he's like, hey, look, I want to form a relationship with you right now. Every time someone buys from me, I have to go through your website and place an order. So you"
+    },
+    {
+      "start": 2289.68,
+      "end": 2297.44,
+      "text": "drop ship to that person. Instead, I'd love to be able to send you an Excel spreadsheet of 40 orders and you just fulfill them all. And they're like, great, that's a deal."
+    },
+    {
+      "start": 2298,
+      "end": 2308.08,
+      "text": "And he didn't make a ton of money doing this. But what he did do is he ultimately had an email list of 50,000 new mothers. Because he's like, these people just bought baby carriers. And"
+    },
+    {
+      "start": 2308.88,
+      "end": 2320.24,
+      "text": "I didn't accept returns. And basically my CAC was $20. I got $20 from the customer. So it didn't cost me... I just got an email. I got 50,000 email addresses of new mothers that I could use to"
+    },
+    {
+      "start": 2320.24,
+      "end": 2333.84,
+      "text": "market other baby products that I'd really want to sell. I thought that was a really interesting arbitrage opportunity as well. At least an arbitrage opportunity to gain an email list. And I think those still exist in the world today. Also, that free plus shipping model"
+    },
+    {
+      "start": 2333.84,
+      "end": 2347.52,
+      "text": "used to work so well back in the day. Doesn't work anymore? Like maybe five to seven years ago now. Because now, the second there's people who are upset, it'll tank your ad account. Gotcha. Okay. Wow."
+    },
+    {
+      "start": 2348.48,
+      "end": 2358.96,
+      "text": "Oh, well, this is a nice segue into the next thing I want to talk about, which is Amazon returns. A product is returned to Amazon. Do you know what happens to it?"
+    },
+    {
+      "start": 2359.68,
+      "end": 2367.92,
+      "text": "No. But you know what's funny is I was thinking about returns the other day. Who opens the box and decides this is allowed to go back or not allowed? And what happens to all the product"
+    },
+    {
+      "start": 2367.92,
+      "end": 2378.8,
+      "text": "that comes back that's got a scratch on it, and they can't put it back in the new? So I'm curious. Yeah. So the reality is some stuff is returned to seller. The seller says,"
+    },
+    {
+      "start": 2378.8,
+      "end": 2388.24,
+      "text": "I'm ready to pay Amazon an extra fee and you have to ship it back to me and I'll do the work to see, hey, look, can this iPhone be returned or not? Can this iPhone be resold or not?"
+    },
+    {
+      "start": 2389.12,
+      "end": 2406.8,
+      "text": "Some stuff goes into liquidation. There's some liquidation. Oh, I think that goes into liquidation. Really, there's one disposal. The reason that I brought this up was because one of my mother's friends works at an Amazon warehouse. And he was talking to me about it at this dinner party."
+    },
+    {
+      "start": 2407.36,
+      "end": 2418.56,
+      "text": "And he said, look, basically if we get a return at our warehouse, the first thing we do is if it's an Amazon product, we'll actually take a look at it. It's an Amazon brand, we'll take a look at"
+    },
+    {
+      "start": 2418.56,
+      "end": 2426.96,
+      "text": "it and see if it can be resold. It's not an Amazon brand and it's not returned to seller. The first thing we do is throw it in the garbage. We don't give a fuck if it's a perfectly brand"
+    },
+    {
+      "start": 2427.04,
+      "end": 2441.28,
+      "text": "new item. We don't care. The only thing we're going to do is throw it in the garbage. And we charge for disposal cost money as well if you're an Amazon seller. But really, the interesting part was he's like, look, what we'll do is we'll make"
+    },
+    {
+      "start": 2441.28,
+      "end": 2451.04,
+      "text": "Gaylords or we'll make a pallet of stuff that we've thrown in the garbage and then we'll auction off that pallet. We'll have an auction saying, hey, look, people come here and buy"
+    },
+    {
+      "start": 2451.04,
+      "end": 2463.2,
+      "text": "a pallet of returns from Amazon. You don't know what you're going to get. Could be you're going to get 50 iPhones. It could be you're going to get 50 pieces of used underwear that somebody has bought. You have no idea. And I thought that was really interesting that Amazon had"
+    },
+    {
+      "start": 2463.2,
+      "end": 2480.24,
+      "text": "moved into this liquidation of returned goods and selling returned goods. And I remember asking the guy, I was like, look, can I go into that warehouse and bribe the guy who's putting... You buy this stuff like a store... Have you ever seen this show Storage Wars?"
+    },
+    {
+      "start": 2481.12,
+      "end": 2492.4,
+      "text": "Yes. Where you buy these random ones that people haven't paid their bill. That's right. But you have to buy it. You can see... They open up the door, but you can't go in and rummage through the boxes."
+    },
+    {
+      "start": 2492.96,
+      "end": 2510.4,
+      "text": "Similarly here, you can't rummage through the boxes or the pallets or Gaylords of returns. And I was wondering, is there an arbitrage opportunity to bribe an Amazon official, to bribe an Amazon warehouse to be like, okay, where is the Gaylord or the pallet or the boxes"
+    },
+    {
+      "start": 2510.4,
+      "end": 2522,
+      "text": "with all the iPhones? Can you put all the iPhones in one box? And can I bid on that box with that Gaylord? I'm not sure if it happens or doesn't happen. It's one of those evil ideas where you"
+    },
+    {
+      "start": 2522,
+      "end": 2530.96,
+      "text": "shouldn't do it. But I'd be curious. I bet somebody's doing it is the sad part. I bet somebody... I asked the guy, I was like, is anyone bribing anybody there? He's like, no one's bribing me,"
+    },
+    {
+      "start": 2530.96,
+      "end": 2542.48,
+      "text": "but I wouldn't be surprised. And I was like, well, I may need you to help me find the right... I didn't actually say that. Yeah, want to start? I thought it was really interesting. Yeah, yeah. Which I thought was crazy. That was an"
+    },
+    {
+      "start": 2542.48,
+      "end": 2556.64,
+      "text": "Amazon return thing where I was like, I wonder if this becomes an arbitrage opportunity for somebody. Yeah. At that point, you might as well just bribe them to give you the fresh iPhones. Yeah. You're probably right. The arbitrage opportunity, the legitimate and real arbitrage"
+    },
+    {
+      "start": 2556.64,
+      "end": 2571.84,
+      "text": "opportunity, I think is just buying that garbage, buying what they're going to dispose of, sight unseen. The same way I used to buy an eBay grab box and then reselling it. The evil business idea is like, hey, maybe I can bribe somebody to find out what's in what."
+    },
+    {
+      "start": 2572.8,
+      "end": 2584.24,
+      "text": "One of the things my sister did, which is hilarious, back in college was she played on the tennis team. She was on a D1 tennis team. And so she would go back to school"
+    },
+    {
+      "start": 2584.96,
+      "end": 2594.4,
+      "text": "two to four weeks, depending on the break prior to whenever everybody else would come back. If it was winter break, I think their break was a month, but she would only get two weeks and then"
+    },
+    {
+      "start": 2594.4,
+      "end": 2606.32,
+      "text": "two weeks they'd have to be back practicing. She would basically get the textbooks that have been sitting in the bins, the donation bins that nobody's emptied out, and she would sell them"
+    },
+    {
+      "start": 2606.32,
+      "end": 2623.04,
+      "text": "on Amazon and make a ton of money, a crazy amount of money. They were going to be resold anyways, but she ended up basically, she paid summer rent, got all her expenses paid. It was amazing. I'm sorry, where did she get the textbook from? From the donation bin?"
+    },
+    {
+      "start": 2623.76,
+      "end": 2641.92,
+      "text": "Yeah, around campus there's donation bins of donate your textbook. For somebody else to get a book. Oh, wow. Okay, gotcha. It reminds me of this Office episode where someone, they're doing a Thanksgiving donation drive and Creed comes into the office and just starts taking stuff out of there."
+    },
+    {
+      "start": 2642.08,
+      "end": 2654.48,
+      "text": "Jim's like, I think that you're supposed to donate stuff and Creed's like, yep. He just walks out with it. That sounds like the person we just bleeped out. Yeah. Okay. Unfortunately, I don't think we're going to have time to go through the Klaviyo tips or the email tips."
+    },
+    {
+      "start": 2654.48,
+      "end": 2664.88,
+      "text": "We're going to have to save that for another episode, but this was a great episode nine. I had a fantastic time. Yeah, this was awesome. We've got a couple last exciting episodes and we'll carry you out through the season."
+    },
+    {
+      "start": 2665.68,
+      "end": 2674.72,
+      "text": "Awesome. Thanks for listening. Thanks for tuning in. We'll be back next time to cut through the noise in CPG, retail and e-commerce. And if you enjoyed this episode, then why not"
+    },
+    {
+      "start": 2674.72,
+      "end": 2679.92,
+      "text": "share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

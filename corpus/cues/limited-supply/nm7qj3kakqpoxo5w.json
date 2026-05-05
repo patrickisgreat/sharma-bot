@@ -1,0 +1,349 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 29.55,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nick.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue. Today's episode is a good one, but"
+    },
+    {
+      "start": 29.55,
+      "end": 58.67,
+      "text": "before we dive in, let me tell you about our chosen sponsor for this week's episode. Think about your best friend and how they shop. Totally different than how you shop online, right? You should never be getting the same cart reminder email. That's where Instant AI comes in. In the last few weeks, Instant rolled out AI flows for over 500 brands. The momentum is crazy and one of my favorite brands tripled their email revenue in just 60 days. That's one of hundreds of wins they've had so far. Here's why it works. Instant can immediately"
+    },
+    {
+      "start": 58.67,
+      "end": 88.41,
+      "text": "understand who's on your site and what they've been looking at. The discount, the copy, the imagery, the onsite promotion, all of it is pulled dynamically into personal email flows. Then it sends it at the exact moment that that shopper is ready to buy. BFCM is behind you and now's the time to build for your biggest year yet. Old and lame retention emails are so 2025. Book a demo by December 31st and get 50% off your first 60 days at instant.one slash Sharma and set up your brand to dominate 2026."
+    },
+    {
+      "start": 90.59,
+      "end": 118.63,
+      "text": "Welcome back to another episode of Limited Supply. I'm your host, Nick Sharma. And today we're going to dive into a fun episode I did with the DTC newsletter podcast. We talked all things direct to consumer. We talked a little bit of the holiday season, but specifically going into the new year, strategies, how to retain customers. Touched on a little bit of things, landing pages, creative, kind of all the things, but give it a listen. It's a very good, it's a fun general kind of overview"
+    },
+    {
+      "start": 118.63,
+      "end": 145.77,
+      "text": "type episode. So you'll get one or two nuggets out of it. I promise. If you've got any questions, you can hit up myself or Eric on Twitter and I hope you enjoy this episode. Nick, welcome back to the DTC podcast. I think you're one of our all-time top podcast guests, back. The prodigal son returns. Welcome. I'm back, baby. How we doing? Real good. Thanks for taking the time. This is the absolute heat of Q4 right now."
+    },
+    {
+      "start": 146.01,
+      "end": 175.87,
+      "text": "What's top of mind for you right now with your brands and your clients? For everybody, it's just making sure they got the right best possible offer for Black Friday. They're not missing out on anything. There's nothing that they're not doing or not prepared for across all channels, all touch points, whether it's retail, amazon.com, TikTok shop, across all marketing touch points, creators, affiliate, website, social. So it's really just making sure everything there is ready. It's double and triple checking that all of your"
+    },
+    {
+      "start": 175.87,
+      "end": 205.41,
+      "text": "data streams are working and passing data back properly. Feels like maybe it's just the last couple of years of craziness and COVID that kind of made it crazy too. But the last couple of years of BFCM, I feel like you end up continuing to finish the work a lot closer to BFCM than I think in years prior. And this year, it almost feels like it's November 10th, we're recording this. BFCM is just at the end of the month. It still feels like people are still relatively early"
+    },
+    {
+      "start": 205.41,
+      "end": 233.05,
+      "text": "in their cycle of, okay, how far are they in terms of assets being done, pages being live, QA tested. So it's obviously fun because it's like a boiler room environment. But yeah, I think everybody's just making sure that they've got everything in order. You know, they're not missing anything. There's no, they're quickly looking back. Okay, last year, how did we do it? Is there any learnings from last year? We should make sure we're not, you know, we're bringing over to this year. You mentioned offers. Are there any offers that you're, of clients or people you're working"
+    },
+    {
+      "start": 233.05,
+      "end": 260.67,
+      "text": "with that you think are really, you're really excited about this year? Like what, what, what's going into making a great offer this year? I think it's more just making sure that the offers are straightforward, simple, and, and are ideally something that has, should have been tested, you know, much before this. A lot of people tend to test their Black Friday offers during prime day, October prime day, which I think that just happened, right? I feel so out of the loop sometimes on dates with prime day, but, but yeah, a lot of"
+    },
+    {
+      "start": 260.67,
+      "end": 288.89,
+      "text": "people tested it then. Even there's another, there's a brand I was talking to earlier today that sells a mouthwash and, you know, they're still trying to figure out what their Black Friday offer is about to be. And, you know, how do they compete with gift with purchase as mouthwash or, you know, all of those little things. So I think really around the offers, just making sure that it's simple and straightforward. I think in years past, everybody just gets pretty complex with offers. I used to personally also be, I mean, if I think, I think if you're a big enough brand,"
+    },
+    {
+      "start": 289.05,
+      "end": 315.95,
+      "text": "you can do, you know, Black Friday early, you can do Black Friday, you can do small business Saturday, you can do giving Tuesday and then cyber week. But I think for the most part, you just want to make sure you at least nail a really good Black Friday and a really good cyber week offer. I'm always a fan of making sure the, the offer structure is simple and straightforward. It's very clear what you're getting and what you're not getting, what's included, what's not. I love it. You got to go to charmerbrands.com. Make sure you subscribe to Nick's newsletter."
+    },
+    {
+      "start": 316.35,
+      "end": 344.47,
+      "text": "I liked your perspective on your most recent newsletter. You're writing about going into Black Friday, Cyber Monday with a real perspective on retention, how to get them to come back that first time. What, talk to me about your mindset about retention after Black Friday, Cyber Monday. Okay. If you're being realistic, customers who are buying Black Friday, they're not buying your product because they're dying to try your product. They're buying your product because it's convenient for them to try your product at a huge discount. And if it weren't for the discount, they probably"
+    },
+    {
+      "start": 344.47,
+      "end": 370.39,
+      "text": "wouldn't care to try your product. And if you look at the customer cohort of most brands, you know, they're big Black Friday customers. They shop once and they don't necessarily shop again. And so I'm always a fan of trying to figure out, okay, from a content standpoint, from a flows standpoint, from, you know, what can you send in video view, remarketing ads on Facebook standpoint, like what can you do to just reinforce the brand, the why of the brand, and then, you know,"
+    },
+    {
+      "start": 370.45,
+      "end": 396.53,
+      "text": "the benefits or the emotions that the product brings out. So, you know, whether it's, it's by, I mean, there's all these different channels to do it, email, SMS, social, organic social, paid social, you know, creators, et cetera, et cetera. Depending on how big the brand is, maybe you're doing larger scale brand campaigns as a retention tactic. But, you know, I'm always a fan of like, how can you figure out the little things that just make your brand a little stickier, that just tell your brand story a little bit stronger so it gets remembered? You know,"
+    },
+    {
+      "start": 396.59,
+      "end": 425.97,
+      "text": "whether it's something as simple as setting up a plain text email, you know, post-purchase from the founder that thanks people for buying. And it just adds kind of a personal touch or automating that with a handwritten note from, you know, post-pilot to send a handwritten card out, you know, from the factory floor or whatever. But there's all these little things you can just add that kind of allow you to make somebody feel a little bit more special. And I think especially this customer cohort, you want to go overboard with trying to figure out how do you get them to click"
+    },
+    {
+      "start": 425.97,
+      "end": 455.95,
+      "text": "with understanding the brand story. And it's not just, it's not just you pushing the content on them. It's you making sure that they can consume it in a way that they want to, or like, they can consume it in a way that's easy, if that makes sense. You know, it's like, it's not just on you to put the info out. You got to make sure it's put out in a way that it's received well also. I like your emphasis on thank yous. I think a lot of people don't, don't maybe think about that, but you're saying send several thank you emails potentially. Yeah. You'd be shocked how far in general in life a thank you goes."
+    },
+    {
+      "start": 456.23,
+      "end": 482.77,
+      "text": "Yes. Just teaching my daughter this actually this morning about pleases and thank yous. And you gotta, you gotta hear it. It's just, it just helps. A hundred percent. Andromeda, you know, it's been around for, for the year. It's maybe overstated. And I think most smart marketers were already structuring their campaign, structuring their, the way they thought about marketing and avatars in the way that Andromeda wants us to. That being said, is there anything that you changed about your, your marketing stack in the age of Andromeda?"
+    },
+    {
+      "start": 482.93,
+      "end": 508.83,
+      "text": "I don't know about stack, but one thing I will say with the brands that I have seen do really well through this update, they were the brands that even before the update were heavily emphasizing, almost like having an internal role of a creative strategist. And actually like, I can think of three or four brands off the top of my head who are all crushing on paid social and had no issues with the update. And it was because all the, they literally have one person, each of these brands who internally"
+    },
+    {
+      "start": 508.83,
+      "end": 536.49,
+      "text": "their job is to just come up with wacky ideas. It might be going, doing a man on the street interview. It might be coming up with some random, pulling some topic out of a Reddit thread and turning that into a podcast clip, whatever it may be. They're trying a variety of different angles and hooks and wacky ideas, but they're all so far different that it kind of a, it feeds into what Andromeda wants, which is basically a huge variety of styles and layouts and formats and things of that nature."
+    },
+    {
+      "start": 537.03,
+      "end": 563.15,
+      "text": "So honestly, I would say like the biggest recommendation out of that is like brands should really focus on that creative strategist role. It's, it's usually something that's put on an agency, but you have to remember, and I say this having run an agency is that they are internally trying to become as efficient as possible. So it's rare that you're going to have an agency partner where somebody has an extra 30 to 60 minutes to go think about your creative strategy. That is something that has to"
+    },
+    {
+      "start": 563.15,
+      "end": 588.33,
+      "text": "come from the brand. You almost can, like you'd be a fool to expect that to come from your agency. And the agency I think can take that and then add on top. Like a lot of times we've been given, Hey, this is what we're thinking. And then we can go in and say, Oh, by the way, we should do this. Oh, you're doing this shoot. Let's get this kind of B roll. We can use this here and there. Like the agency really can help come in and refine that. But I think the biggest learning from this Andromeda update, and even just so many of my conversations with brands that are,"
+    },
+    {
+      "start": 588.37,
+      "end": 616.19,
+      "text": "you know, doing anywhere from probably 200 to 800 million in revenue is this, like the emphasis of that creative strategist role internally, somebody whose entire job is to get, you know, a six figure salary to just come up with ideas. And the other thing is like, you have to also, as a brand, you have that, you have to have that DNA where you're okay to test a bunch of stuff. Like you're okay, not just being in the same style guide that your Brooklyn based agency gave you"
+    },
+    {
+      "start": 616.19,
+      "end": 642.91,
+      "text": "out of a conference room. You know what I mean? And those are the brands that are, I think, doing really well. And the other thing is like, no one, no, no one on the consumer side sees that and thinks, ah, that's not on brand. Yeah, exactly. But at the same time, like, it's like, I remember, you know, sticky notes, bottom of funnel things, like what you have to get away from, I guess is low, not necessarily low concept, but just like the same concept and making small tweaks around the edges, right? You got to take swings. I just released this week"
+    },
+    {
+      "start": 642.91,
+      "end": 670.41,
+      "text": "a podcast with Nate Lagos from formerly of original grain. He's joined a supplement company now, but he said his huge unlock was just going that level, understanding that if you're buying one of those watches, you're either buying it for your partner, you're a woman, but you're going to generally buying it, buying it for your partner or your man who's buying it, but then going, and then those are the demographics and you can't really advertise just on demographics anymore. You go a layer deeper to be like, why is this man buying it for himself? What is he going through that he feels he needs this"
+    },
+    {
+      "start": 670.41,
+      "end": 697.35,
+      "text": "kind of piece? Or what would he buy instead? Or if you're on the, on the other side, like, why are you buying this? How are you trying to make your, your, your husband feel or whatever? Right. And it's being able to build ads and avatars that speak to those underlying emotions that, that just crush a hundred percent. Yeah. I call it like the two layer strategy. So your first layer is like who, and then the second layer is basically why. So, you know, is this a hydration supplement? Well, it's aimed at, you know, menopausal women to get better sleep."
+    },
+    {
+      "start": 697.41,
+      "end": 725.01,
+      "text": "You know, that that's like a nice funnel you can run through versus just like, Oh, hydration powder. I was just looking, I was going over your tweets and I saw you just singing, singing the absolute praises of Marpipe. And I know you've been working with Marpipe. Why is Marpipe so great? Okay. Marpipe is, it's one of those things I wish I had invested back in the day, but I didn't really know the product that well. Marpipe was actually the first, when I started my newsletter, I emailed him and I was like, yo, I'll like give you a Marpipe plug in the newsletter"
+    },
+    {
+      "start": 725.67,
+      "end": 752.33,
+      "text": "once a quarter for a year. Can I use it for free for a year? And I didn't initially run the clients through it. I just thought it was such a sick interface to build static ads because it's basically a full static ad builder in the thing. But the reason that I like Marpipe is it's, so first of all, DPA ads are, you know, I grew up in Southern California and we've got like eight lane highways. And so I think of DPA ads as, you know, out of the eight lanes, the two lanes that are the"
+    },
+    {
+      "start": 752.33,
+      "end": 780.23,
+      "text": "carpool lane is what I think of DPA ad auction. So everybody's playing in the normal highway and DPA, you're paying, you're playing in the carpool lanes. And if you've got better DPAs than somebody else, you're going to win the auction more. And so the entire thesis of Marpipe is just make better DPAs. Everybody's got a plain white background images and Marpipe, you know, with literally four or five clicks, you can make a template that puts, you know, your Okendo ratings"
+    },
+    {
+      "start": 780.23,
+      "end": 806.05,
+      "text": "in the bottom right corner. It puts, if there's trust badges associated to the product, then it displays it in the bottom left. If there's a sale going on at display sale on the top, right? Like it just allows you to very dynamically create and push catalogs. And every app I've used for catalog or feed management before has been kind of very clunky, expensive. A lot of times I manage service if you're at a bigger scale too. And Marpipe just made that really easy. And then they just kept"
+    },
+    {
+      "start": 806.05,
+      "end": 835.49,
+      "text": "improving the feed piece. So like now if you're a brand with a thousand SKUs, you can tell Marpipe, okay, products that have less than, you know, 60% margin, don't run them with catalog ads. Only run our high margin products as catalog ads. Or, oh, there's a sale going on. Okay. Apply that sale to this feed and upload this feed out to AppLovin, to Facebook, to Google. It's an insanely powerful platform. Especially when most people probably just set it and forget it, right? Like that,"
+    },
+    {
+      "start": 835.55,
+      "end": 863.85,
+      "text": "I think that's, you're like, you're like going in the fast lane, in the carpool lane, if you're using that tool, it sounds like. It allows you to like, in the same way that you would take a growth marketer and, you know, rework a website, it allows you to take a growth marketer and apply it to feed management. Is there anything, you've been doing this for so long now, is there anything that you would have been preaching two to three years ago that now you're like, oh my God, that would never work now? I think two or three years ago, you could definitely run"
+    },
+    {
+      "start": 863.85,
+      "end": 893.79,
+      "text": "pretty heavy, like lower funnel media with no emphasis on the middle and the upper funnel. I think now you almost can't really do that. Very rare cases, you see brands that completely rip on lower funnel. It's usually because they're benefiting from a, something larger in the upper funnel that's not directly by them, but it's correlated or like drives people to them. Or they're like a store closeout funnel. Yeah. Yeah. Yeah. But I think that opens up a broader question. I'm talking about on the podcast all the time."
+    },
+    {
+      "start": 893.99,
+      "end": 923.39,
+      "text": "How do you, how are you now thinking about, I guess, talk about the top of funnel, like actual, what is, what's your best sort of method or how are you thinking about awareness generation in, in 2025? Are you actually, you mentioned it earlier, like the idea of actually running like video view campaigns and things like that. Are you, do you build out that top of funnel with those kinds of things? I have like a weird interpretation of top of funnel. I think that most, well, first of all, I think most of the stuff brands push as what they think is top of funnel is just garbage"
+    },
+    {
+      "start": 923.39,
+      "end": 951.81,
+      "text": "because it is running video view campaigns or running these like top of funnel ad channels. And that's not real top of funnel. That's just basically exchanging impressions. And like, if you've ever run a side-by-side of like a video views or a website clicks campaign, you know, and seen the downstream effects, those are generally people who are, who Facebook doesn't think are buyers anyways. So you kind of just get shown to like a shitty audience. I think top of funnel is a combination of things. I think you basically need some way"
+    },
+    {
+      "start": 951.81,
+      "end": 979.85,
+      "text": "to disproportionately get a number of eyeballs. Some brands have done that with just ads. Some brands do that by getting a celebrity on board. You know, some brands have done that by powering through TikTok, like Waterboy is an electrolyte brand out of Austin, did a great job building their entire presence on TikTok. They were an eight-figure direct consumer business with no ads. You know, some brands like Comfort do it with creators where they build their own network of creators. You know, you kind of need your, to figure out your own way to get that"
+    },
+    {
+      "start": 979.85,
+      "end": 1009.11,
+      "text": "top of funnel. And that's usually, like, I think that is now the, the bigger piece that separates brands from one another today is like, how good are you? How efficient can you go get that top of funnel? Because everything else, the product there's relatively, like, if you're a top 10 brand, you probably don't have that many differences between the products themselves. And the ads, you know, anybody can make good ads or run good ads, but it's really like, who's cutting through the noise and who's going to sell colostrum better than the other ones?"
+    },
+    {
+      "start": 1009.23,
+      "end": 1035.15,
+      "text": "You know, who's cutting through the noise and going to sell the dog food better? And I think part of it is like, you know, there's some brands, well, it also depends, I would say, what stage you're at. If you're a massive brand, you're probably putting more dollars towards out of home, towards events, towards partnerships, activations, things that, like, humanize the brand in that way. If you're a smaller brand, you know, maybe you're doing things like, working with a celebrity, you're doing clipping, you're running advertorials, you know, you're"
+    },
+    {
+      "start": 1035.15,
+      "end": 1064.67,
+      "text": "running targeted TV, you know, you're building a collab product with a massive creator. But yeah, I think it's really like, and if you're smaller too, you should probably be a little bit more provocative to cut through the noise because everybody's inclusive slop is getting a little boring, I think too. But I think it's just about like figuring out how do you cut through the noise, you know? And I think also, I think consumers are done with like the sameness or that slop. You say slop. What, how are you leveraging AI these days? Are you, are you wary of it? It sounds like"
+    },
+    {
+      "start": 1064.67,
+      "end": 1094.05,
+      "text": "you're, you're a little wary of it being used fully in, in content. Not really, actually. I think AI is, okay. So I think like the more you give to AI, the better, more refined output you get. A lot of people are getting late. They get very lazy when it comes to AI, you know? It's like, these are, these are the top 20, 10 headlines based on reporting, you know, help me write 10 new ones. Well, that sucks. You know? Um, if you're like,"
+    },
+    {
+      "start": 1094.31,
+      "end": 1120.53,
+      "text": "hey, these are the 10 headlines. The next test is to go after this demographic with this hypothesis, you know, here's an, here's five other brands that are doing it well. Here's examples of a mood board where they're in which they're doing it. Here's the five Reddit threads or find me the five. Exactly. You mentioned Reddit. I feel like Reddit is that secret weapon for motivation. Reddit's huge. Reddit's really good for finding little pockets of information that, um, it's, it's just like a Facebook ad comment. Sometimes you find one ad comment that you can make a whole"
+    },
+    {
+      "start": 1120.53,
+      "end": 1149.83,
+      "text": "thing around and Reddit's a lot like that too. You'll find something in the threads where people are going back and forth and you're like, whoa, I never realized that people talk about colostrum with this specific benefit to them, you know, and you can make a whole funnel about them. Brands like third love liquid IV and neuro gum all swear by instant. They've tripled their email revenue and some like Karen Kane even see a five X increase. Why? Because AI can build hundreds of versions. You'll never have time to make while you're running your brand instant is running the"
+    },
+    {
+      "start": 1149.83,
+      "end": 1178.03,
+      "text": "experiments, figuring out what works and then continuously optimizing to keep conversions growing. BFCM is over and your next growth run starts now. Grab a demo by December 31st and get 50% off your first 60 days at instant.one slash Sharma. You've just mentioned colostrum. Is this the new thing? Is colostrum the new like, uh, It's not new. It's old now. Yeah. It's old now. What's new? What's the new thing?"
+    },
+    {
+      "start": 1178.55,
+      "end": 1205.41,
+      "text": "What's the new thing? Peptides are about to be a big one. Oh my God. They're so big. And compound pharmacies in general are just about to ramp up and start going. I mean, yeah, the pharmacy game is about to go crazy. I think like in the next two years. Talk to me about that. What do you mean by that? I mean, I've just talked to a number of people, both people who own pharmacies and also telemedicine brands where they, they're like, listen, we're gearing up to basically not only continue to supply"
+    },
+    {
+      "start": 1205.95,
+      "end": 1233.65,
+      "text": "Rho and HIMS and all these other massive companies, cause their, their fulfillment now gets handled by, I guess these individual like compound pharmacies, but you know, they're, they're running like 60 to a hundred million dollars in year two of these pharmacies being set up and shipping prescriptions out. And, um, with the way the laws are going, they're basically lining up so that as soon as something gets approved and comes to the compound pharmacy, they can slap any logo on it and start"
+    },
+    {
+      "start": 1233.65,
+      "end": 1257.13,
+      "text": "shipping it out. As long as you know, you check all the boxes, which is just a one-time kind of setup. And do you think this is mainly the, um, like Ozempic and, and these type of like peptide weight loss drugs? I bet it is. Yeah. A lot of it is that for sure. But there's like, I mean, there was, I found a, um, an e-commerce site the other day, which had like the web rank stats or whatever that plugin is had like 200,000"
+    },
+    {
+      "start": 1257.13,
+      "end": 1282.47,
+      "text": "monthly visits and they're selling syringes and, um, vials. So like it's, it's happening right now. It's just about to be a lot more legitimatized. Yeah. I have friends in the affiliate game who've just been absolutely printing money. Oh dude, GLP one is the affiliate game right now. Like all those companies are growing entirely from affiliate and they'll grow even bigger on the class action lawsuit in a couple of years, probably."
+    },
+    {
+      "start": 1283.79,
+      "end": 1311.23,
+      "text": "It's just wild to think about. I have a friend who's a doctor and he's like, I've been telling people to lose weight for 50 years. And he's like, they never do. And he's like, they do with this, you know, with these drugs. Yeah. It's just absolutely wild. It's also like, uh, what's funny is that I've not worked on a supplement brand that hasn't crushed or seen one that hasn't crushed. They all somehow crush. Why? I think it's, um, magic pill. One, I think, yeah, I think"
+    },
+    {
+      "start": 1311.23,
+      "end": 1338.55,
+      "text": "part of it is like, they are all very problem solution focused supplements. So like they're very much supplements you can kind of feel the impact of or, or, um, see, I think also there's been some innovation in supplement marketing, which has just made it, you know, I don't know. I think of it's like two to three years ahead of before consumers are like, wait a second, do we really need all this shit? Um, you know, between how they reframe clinical trials and put those into ads and push"
+    },
+    {
+      "start": 1338.55,
+      "end": 1367.65,
+      "text": "that as benefits. I took you off the AI topic by jumping into Reddit, but did you have anything else to say there about like the, the thought process, obviously the better more, you know, the better you put into your prompts and into your GPTs you're creating, um, anything else to say about, about how you're using AI effectively? I mean, I, I would say like right now I'm not personally, okay. Here are the ways that I like to use AI. I like to use it for reporting. Like I, um, you know, there's dashboards that exist, but I just like to ask questions straight and just find"
+    },
+    {
+      "start": 1367.65,
+      "end": 1391.87,
+      "text": "those specific things. That's one big way I use it. Another one is like analyzing data or analyzing like, for example, an ad account. And then like the example we just talked about, like giving it a bunch of inputs to give me another output. I I've done a little bit of vibe coding, which I think everybody should do with replet or lovable because it's insane how you, if you just get good at understanding how that works, you're going to appreciate it so much more"
+    },
+    {
+      "start": 1391.87,
+      "end": 1419.53,
+      "text": "in six months when a lot more of that is a lot more like relevant. And then what else? All right. So one, one combo I love using is to write stuff. I'll use an app called whisper flow. You heard of this one? No, I haven't. No. W I S P R F L O W. I heard about it on my first million. Uh, Greg Eisenberg talked about it and it's amazing. It, the, if you've ever used chat GPT on your phone"
+    },
+    {
+      "start": 1419.53,
+      "end": 1448.17,
+      "text": "and use the mic button where it just records what you say, and then it, you hit check and then it turns it into a paragraph. It gets rid of all your arms and your mistakes and your words as you're talking. Whisper flow does the same. So I've been using this a bunch and then just inputting it into whether it's perplexity or chat GPT and just having it do a bunch of things, agentic mode. Um, so that's been cool even for writing documents or for, you know, like today I had to, um, help somebody with"
+    },
+    {
+      "start": 1448.17,
+      "end": 1475.77,
+      "text": "a full website kind of outline of what, what the pages are, what's on each page. Like I can speak that whole thing and then give it to perplexity and say, now turn this into something that's, you know, presentable. Um, so I use AI a lot in that way right now. I imagine, um, you know, from a direct to consumer standpoint, I think the creative side of things is a huge unlock. Um, you know, whether it's the Grok's new model, whether it's VO's new model, whether it's Sora, like there's so many things"
+    },
+    {
+      "start": 1475.77,
+      "end": 1505.67,
+      "text": "that can be, uh, done there, whether it's with B roll, whether it's with renders, whether it's with animation. Um, so I think on the creative side, I would definitely be leaning into it a lot there. You know, if I was like a solo founder or a smaller strap team, I would probably use it a lot around email as well, whether it's writing copy, building out a promotional calendar, like just helping you kind of get things done. Are there any ways you use it? Well, I use it on the podcast all the time, right? Like I, I'm all, I always research ahead of time and I, and, and I like all the metadata after the fact is used. I'm, what I'm really interested"
+    },
+    {
+      "start": 1505.67,
+      "end": 1533.33,
+      "text": "is when people start a jet, when it becomes a gentic, when it's more a gentic, right? Right now I'm using boardy. So I'm getting, uh, introductions to people at brands for the podcast, things like that, using, which is pretty cool. Yeah. Super, super neat. But I'm, I'm excited for more agentic stuff because it's like, I go to the same chat window all the time. My, my, my podcast GPT is pretty smart. I just rebuilt it, but I'm excited for when it's, when it's a little bit more like, okay, run with guardrails kind of thing, like a, like an AI employee. I'm excited"
+    },
+    {
+      "start": 1533.33,
+      "end": 1561.01,
+      "text": "for when, when that starts happening. Yeah, dude. I, I don't know how far we are from that. I don't think we're that far though. No, I don't think so either. Like we could be doing it now. If we, if, if I just, I'm also experimenting just on my personal side with, uh, it's not vibe coding. It's called the algo rave. It's this new, it's just like a music movement where you basically write everything with algorithms rather than using Ableton to like just tweak knobs. You're like, set the baseline, set the trap line, like do all this. So you can kind of like with sliders and you see"
+    },
+    {
+      "start": 1561.01,
+      "end": 1589.83,
+      "text": "these DJs live coding and creating this amazing, beautiful music. It's like, wow. Is that what Blau just did? Did you see that? I'm not sure. Oh, I just made an AI project, um, earlier this year. Unreal. I just also saw October 17th. You've been acquired. Yes. Yeah. As of, uh, October 1st. Thank you. That's badass. Talk to me about that. Yeah. We, um, so we, you know, I was looking for, um, a good partner to absorb trauma brands and Pearson and I met, we've known each other for years and"
+    },
+    {
+      "start": 1589.83,
+      "end": 1619.25,
+      "text": "we were talking about kind of the strengths we have on both our sides and it just felt like such a perfect solution. Um, you know, they are like a top 3% agency with meta and Google in terms of spend. Um, they've got a really sophisticated and smart, like media creative ops team. Um, we have a really good web and creative team. And so, yeah, we kind of just merged it together and, uh, now we're taking the world by storm or at least trying to, what's one thing you did for yourself to celebrate? Um,"
+    },
+    {
+      "start": 1619.61,
+      "end": 1645.35,
+      "text": "let's see one thing I did for myself. I mean, I've, I've been getting my sleep back on track. That's a big one. Um, has it been a challenge for you over your career? No, it's just, I mean, well, you know, I'm, I'm very anal about my sleep. So I stopped drinking alcohol in 2020 because I would see the impact it had on my sleep. And I figured if I, if I can nail my sleep, then the worst, the worst day I'm going to have is an 80% day. And, um, so then I basically"
+    },
+    {
+      "start": 1645.87,
+      "end": 1672.79,
+      "text": "tried to do everything possible to just orient for better sleep. And, um, a lot of the times I'm like the lame one who leaves events a lot, you know, pretty early to go back home and sleep early. But the last, I would say, I would say like year or so, I feel like it's just been more intense from, uh, as like agency life this year, my sleep time got pushed on average to about 3 AM, which is crazy. Um, so I've been working to get that back down closer to like 10 or 11 and, uh, make sure I"
+    },
+    {
+      "start": 1672.79,
+      "end": 1700.15,
+      "text": "still get eight or nine hours. And is this with a whoop strap or an aura ring that you're, cause I think I always wonder about that if I get a lot of sleep, but I don't know if it's quality sleep and I would like to, I think if I saw the difference when I drank, it would be a good motivator as well. Is it whoop? Totally. What do you use? Yeah. At the time it was whoop, but eight sleep also eight sleeps what I use now. The, my only beef with whoop is it, um, you know, so like if you travel a lot, which I did for work, then the second I would get to LA or somewhere else, I would wake up after a"
+    },
+    {
+      "start": 1700.15,
+      "end": 1725.67,
+      "text": "bad sleep, see red and think, uh, my day's. And then I would have that mindset going into the day. So I would, I stopped wearing it, uh, and then just tracked it at home with the, with the eight sleep. You've done a lot of events. You're a meter and greeter of the people. Q4, do you kind of do, do chill during Q4? Do you have events coming up in the next few months? We, uh, yeah, we do a couple. So, um, you know, we do the Q4 summit, um, which happens in September,"
+    },
+    {
+      "start": 1725.91,
+      "end": 1753.51,
+      "text": "like end of September. Yeah. Going right into Q4 and then we'll do a holiday party, which we're doing, uh, I think early December, December 5th or something. I'll post about it. And then like for, for a smaller subset of brands, like I'm doing a holiday dinner on Wednesday, uh, in New York. So there's like smaller events we'll do, but kind of the Q4 summit is the main one for going into Q4. And then usually everybody's pretty kind of strapped up with their own stuff in Q4, you know,"
+    },
+    {
+      "start": 1754.11,
+      "end": 1784.05,
+      "text": "next one we'll do will be, uh, the shop talk. Oh, nice. Uh, that's yeah, we're planning to do some stuff. We, I went, we went to the one in Vegas this past year. Uh, it was, it was a lot of fun and got involved in their content a little bit. So I think we're going to be doing a similar thing this year. So we'll be there. Just last question. We didn't, we, we didn't talk a lot about landing pages. I know that's like a big, a big thing. Uh, is there anything that's evolved, uh, about the way you're handling landing pages or has it just been sort of a constant evolution of the same kind of stuff? Yeah, I think like generally constant evolution, I would say that same kind of strategy"
+    },
+    {
+      "start": 1784.05,
+      "end": 1811.99,
+      "text": "that we were talking about with creative, you know, going two layers deep is something I would definitely apply to the landing pages as well. And like that post click experience, but otherwise for the most part, like it's, it's really the basics that most people just don't get right. You know, they run it on a sub domain maybe, um, which gives bad data back. Or if they do run it on a sub domain, they don't properly have the data mapped to go back in a, in a clean way. So like I know a supplement brand that's doing, you know, a few hundred million dollars in revenue and"
+    },
+    {
+      "start": 1811.99,
+      "end": 1836.51,
+      "text": "they have eight events that go back as a purchase for every one purchase. It's, it's eight X their CPA as a result, which is crazy. That's wild. So that's one thing, you know, a little bit. So that'll be like just more and more detail about where they were upper funnel. Yeah, no, it's literally just making sure that, okay, like the add to cart event, initiate checkout event, purchase event, all the, whatever events, and a lot of brands now have custom events too. So whatever those events are,"
+    },
+    {
+      "start": 1836.81,
+      "end": 1865.27,
+      "text": "that they are properly in a server to server way, getting back to meta, to Klaviyo, to Google and being done in the right way. And it's literally, it's like, there's nothing I could even say that would be like a click for somebody to realize it. It's just like, go tell your developer to go triple check and make sure that it works and then test it. All these tools or all these ad platforms have like, um, helper tools where it allows you to see every event that fires. So you can make sure that when you're running it, it's doing the proper thing. But site speed is another one. That's like,"
+    },
+    {
+      "start": 1865.37,
+      "end": 1893.11,
+      "text": "that's like one that just keeps over and over again. It's like, oh yeah, for some reason, this landing page outperforms by three X. And it's like, yeah, that one takes five seconds to load. And that one loads, you know, almost instantly. And then I think the last piece is the offer. You know, the brand, there's so many brands now that, um, have started to really nail the offer. And like, once you've got a good offer, you can really scale. You can't really scale with a bad offer or a bad product, I should say, but having a good product should be a given. Very cool. Well, thanks for taking the time today, Nick. We'll leave it there. Have a great"
+    },
+    {
+      "start": 1893.11,
+      "end": 1910.61,
+      "text": "holiday season. If I don't see a, uh, great success this Black Friday, Cyber Monday, sir. Thank you. You too, Eric. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

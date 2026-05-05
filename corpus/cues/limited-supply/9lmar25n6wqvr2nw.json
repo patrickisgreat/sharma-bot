@@ -1,0 +1,6134 @@
+{
+  "cues": [
+    {
+      "start": 1.62,
+      "end": 3.02,
+      "text": "[SPEAKER_00]: amp."
+    },
+    {
+      "start": 3.02,
+      "end": 5.54,
+      "text": "[SPEAKER_00]: You know, in your ads, call out those savings."
+    },
+    {
+      "start": 5.72,
+      "end": 7.86,
+      "text": "[SPEAKER_00]: I mean you probably, I don't know if anybody saw"
+    },
+    {
+      "start": 7.86,
+      "end": 10.12,
+      "text": "[SPEAKER_00]: the Apple keynote but when they were talking"
+    },
+    {
+      "start": 10.12,
+      "end": 13.24,
+      "text": "[SPEAKER_00]: about your iPhone trade-in value up to $800, right?"
+    },
+    {
+      "start": 13.52,
+      "end": 16.66,
+      "text": "[SPEAKER_00]: To buy a base model iPhone 16 for,"
+    },
+    {
+      "start": 16.66,
+      "end": 18.78,
+      "text": "[SPEAKER_00]: I think it was 800 bucks and they're like,"
+    },
+    {
+      "start": 18.78,
+      "end": 20.94,
+      "text": "[SPEAKER_00]: you can trade in an iPhone up to $800."
+    },
+    {
+      "start": 21.32,
+      "end": 25.8,
+      "text": "[SPEAKER_00]: Well, the $800 is a one terabyte iPhone 15 Pro Max,"
+    },
+    {
+      "start": 26.14,
+      "end": 27.14,
+      "text": "[SPEAKER_00]: right, the percentage of people"
+    },
+    {
+      "start": 27.14,
+      "end": 28.2,
+      "text": "[SPEAKER_00]: that have that super small."
+    },
+    {
+      "start": 28.54,
+      "end": 29.92,
+      "text": "[SPEAKER_00]: But you can see similarly"
+    },
+    {
+      "start": 29.92,
+      "end": 31.54,
+      "text": "[SPEAKER_00]: how they're pushing the best offer"
+    },
+    {
+      "start": 31.54,
+      "end": 33.96,
+      "text": "[SPEAKER_00]: and that's what you should do on your site as well."
+    },
+    {
+      "start": 35.84,
+      "end": 37,
+      "text": "[SPEAKER_00]: Welcome to Limited Supply,"
+    },
+    {
+      "start": 37.2,
+      "end": 38.96,
+      "text": "[SPEAKER_00]: the place for refreshingly real takes"
+    },
+    {
+      "start": 38.96,
+      "end": 40.98,
+      "text": "[SPEAKER_00]: on what D2C is really like."
+    },
+    {
+      "start": 41.46,
+      "end": 42.64,
+      "text": "[SPEAKER_00]: I'm your host, Nick Sharma."
+    },
+    {
+      "start": 43,
+      "end": 44.48,
+      "text": "[SPEAKER_00]: Let's start talking about money."
+    },
+    {
+      "start": 46.6,
+      "end": 48.48,
+      "text": "[SPEAKER_00]: Have you ever added up all the conversions attributed"
+    },
+    {
+      "start": 48.48,
+      "end": 49.7,
+      "text": "[SPEAKER_00]: to each of your paid channels"
+    },
+    {
+      "start": 49.7,
+      "end": 51.92,
+      "text": "[SPEAKER_00]: and realized that the sum of those conversions"
+    },
+    {
+      "start": 51.92,
+      "end": 53.78,
+      "text": "[SPEAKER_00]: is greater than the actual number"
+    },
+    {
+      "start": 53.78,
+      "end": 54.96,
+      "text": "[SPEAKER_00]: of conversions on your site?"
+    },
+    {
+      "start": 55.36,
+      "end": 57.32,
+      "text": "[SPEAKER_00]: That's likely because most ad platforms"
+    },
+    {
+      "start": 57.32,
+      "end": 59.24,
+      "text": "[SPEAKER_00]: tend to overreport and get more credit"
+    },
+    {
+      "start": 59.24,
+      "end": 61.34,
+      "text": "[SPEAKER_00]: than they deserve for the conversions they drive."
+    },
+    {
+      "start": 61.34,
+      "end": 64.6,
+      "text": "[SPEAKER_00]: Today, sophisticated marketers are moving away"
+    },
+    {
+      "start": 64.6,
+      "end": 67.54,
+      "text": "[SPEAKER_00]: from attribution and moving toward incrementality testing"
+    },
+    {
+      "start": 67.54,
+      "end": 70.42,
+      "text": "[SPEAKER_00]: in order to maximize growth and understand efficiency."
+    },
+    {
+      "start": 71.08,
+      "end": 73.04,
+      "text": "[SPEAKER_00]: To find the incrementality of your marketing tactics,"
+    },
+    {
+      "start": 73.18,
+      "end": 75,
+      "text": "[SPEAKER_00]: you have to run test and control experiments,"
+    },
+    {
+      "start": 75.32,
+      "end": 77.12,
+      "text": "[SPEAKER_00]: but these tests are hard to do on your own"
+    },
+    {
+      "start": 77.12,
+      "end": 78.82,
+      "text": "[SPEAKER_00]: and that's why I recommend using House."
+    },
+    {
+      "start": 79.28,
+      "end": 82.02,
+      "text": "[SPEAKER_00]: With House, you have an automated self-service platform"
+    },
+    {
+      "start": 82.02,
+      "end": 83.52,
+      "text": "[SPEAKER_00]: that allows you to configure regional"
+    },
+    {
+      "start": 83.52,
+      "end": 86.4,
+      "text": "[SPEAKER_00]: test and control experiments to measure incrementality,"
+    },
+    {
+      "start": 86.76,
+      "end": 88.44,
+      "text": "[SPEAKER_00]: identify points of diminishing returns,"
+    },
+    {
+      "start": 88.44,
+      "end": 91.86,
+      "text": "[SPEAKER_00]: optimally allocate marketing dollars and maximize your growth."
+    },
+    {
+      "start": 92.46,
+      "end": 94.4,
+      "text": "[SPEAKER_00]: The platform is built by world-class scientists"
+    },
+    {
+      "start": 94.4,
+      "end": 96.54,
+      "text": "[SPEAKER_00]: and allows you to test all your marketing channels,"
+    },
+    {
+      "start": 96.86,
+      "end": 98.1,
+      "text": "[SPEAKER_00]: both online and offline."
+    },
+    {
+      "start": 98.5,
+      "end": 101.54,
+      "text": "[SPEAKER_00]: You can measure the impact across all your sales channels,"
+    },
+    {
+      "start": 101.96,
+      "end": 104.88,
+      "text": "[SPEAKER_00]: including direct-to-consumer, retail, Amazon, et cetera,"
+    },
+    {
+      "start": 105.12,
+      "end": 107.54,
+      "text": "[SPEAKER_00]: and you can calibrate your in-platform reporting"
+    },
+    {
+      "start": 107.54,
+      "end": 109.16,
+      "text": "[SPEAKER_00]: for incrementality with House."
+    },
+    {
+      "start": 109.76,
+      "end": 111.62,
+      "text": "[SPEAKER_00]: My friend Connor at Hexclad uses House"
+    },
+    {
+      "start": 111.62,
+      "end": 113.18,
+      "text": "[SPEAKER_00]: and he was actually able to share"
+    },
+    {
+      "start": 113.18,
+      "end": 115.22,
+      "text": "[SPEAKER_00]: that when they ran an incrementality test"
+    },
+    {
+      "start": 115.22,
+      "end": 116.5,
+      "text": "[SPEAKER_00]: around Meta and Amazon,"
+    },
+    {
+      "start": 116.5,
+      "end": 118.58,
+      "text": "[SPEAKER_00]: they realized that a lot of their Meta spend"
+    },
+    {
+      "start": 118.58,
+      "end": 120.8,
+      "text": "[SPEAKER_00]: was indirectly driving revenue for Amazon."
+    },
+    {
+      "start": 121.18,
+      "end": 122.42,
+      "text": "[SPEAKER_00]: These learnings actually changed"
+    },
+    {
+      "start": 122.42,
+      "end": 124.76,
+      "text": "[SPEAKER_00]: their acquisition strategy for Amazon going forward."
+    },
+    {
+      "start": 125.38,
+      "end": 126.62,
+      "text": "[SPEAKER_00]: If you're a seven-figure brand"
+    },
+    {
+      "start": 126.62,
+      "end": 128.84,
+      "text": "[SPEAKER_00]: and you're running on multiple marketing channels,"
+    },
+    {
+      "start": 128.84,
+      "end": 131.04,
+      "text": "[SPEAKER_00]: I should say if you're at least a seven-figure brand,"
+    },
+    {
+      "start": 131.44,
+      "end": 133.48,
+      "text": "[SPEAKER_00]: then you can potentially save millions of dollars"
+    },
+    {
+      "start": 133.48,
+      "end": 135.34,
+      "text": "[SPEAKER_00]: by starting an incrementality practice"
+    },
+    {
+      "start": 135.34,
+      "end": 137.72,
+      "text": "[SPEAKER_00]: and learn what's truly driving your business."
+    },
+    {
+      "start": 138.26,
+      "end": 139.4,
+      "text": "[SPEAKER_00]: House uses superior science"
+    },
+    {
+      "start": 139.4,
+      "end": 141.56,
+      "text": "[SPEAKER_00]: and makes this type of testing accessible"
+    },
+    {
+      "start": 141.56,
+      "end": 143.42,
+      "text": "[SPEAKER_00]: and so I recommend you check them out."
+    },
+    {
+      "start": 143.42,
+      "end": 146.02,
+      "text": "[SPEAKER_00]: Go to house.io slash limited,"
+    },
+    {
+      "start": 146.44,
+      "end": 149.7,
+      "text": "[SPEAKER_00]: that's H-A-U-S dot I-O slash limited"
+    },
+    {
+      "start": 149.7,
+      "end": 151.36,
+      "text": "[SPEAKER_00]: to learn more and get a demo."
+    },
+    {
+      "start": 157.01,
+      "end": 158.63,
+      "text": "[SPEAKER_00]: Welcome back to Limited Supply."
+    },
+    {
+      "start": 158.81,
+      "end": 159.97,
+      "text": "[SPEAKER_00]: Today is Wednesday,"
+    },
+    {
+      "start": 160.17,
+      "end": 161.59,
+      "text": "[SPEAKER_00]: that's why I'm in your ears again."
+    },
+    {
+      "start": 162.27,
+      "end": 164.15,
+      "text": "[SPEAKER_00]: We are recording or rather you're listening"
+    },
+    {
+      "start": 164.15,
+      "end": 167.77,
+      "text": "[SPEAKER_00]: to season nine, episode eight of Limited Supply"
+    },
+    {
+      "start": 167.77,
+      "end": 170.61,
+      "text": "[SPEAKER_00]: and today we're talking about 40 individual,"
+    },
+    {
+      "start": 171.25,
+      "end": 175.23,
+      "text": "[SPEAKER_00]: very valuable, distilled down tips and tactics"
+    },
+    {
+      "start": 175.23,
+      "end": 176.71,
+      "text": "[SPEAKER_00]: to drive better conversion rate"
+    },
+    {
+      "start": 176.71,
+      "end": 177.89,
+      "text": "[SPEAKER_00]: as you're going into the holidays."
+    },
+    {
+      "start": 177.89,
+      "end": 180.17,
+      "text": "[SPEAKER_00]: I think it's gonna be really impactful"
+    },
+    {
+      "start": 180.17,
+      "end": 182.59,
+      "text": "[SPEAKER_00]: for you to know everything you possibly can do."
+    },
+    {
+      "start": 182.97,
+      "end": 184.73,
+      "text": "[SPEAKER_00]: I have this phrase that I use called,"
+    },
+    {
+      "start": 185.29,
+      "end": 187.55,
+      "text": "[SPEAKER_00]: setting yourself up for the best possible at bat,"
+    },
+    {
+      "start": 187.69,
+      "end": 189.67,
+      "text": "[SPEAKER_00]: meaning when you go up to bat"
+    },
+    {
+      "start": 189.67,
+      "end": 191.11,
+      "text": "[SPEAKER_00]: and you're at Yankee Stadium,"
+    },
+    {
+      "start": 192.35,
+      "end": 193.97,
+      "text": "[SPEAKER_00]: obviously you've got to try to hit a home run"
+    },
+    {
+      "start": 193.97,
+      "end": 197.13,
+      "text": "[SPEAKER_00]: but everything you can do leading up to that pitch"
+    },
+    {
+      "start": 197.13,
+      "end": 198.41,
+      "text": "[SPEAKER_00]: is gonna help you, right?"
+    },
+    {
+      "start": 198.41,
+      "end": 200.53,
+      "text": "[SPEAKER_00]: You tie your shoes, make sure your gloves fit,"
+    },
+    {
+      "start": 200.63,
+      "end": 201.71,
+      "text": "[SPEAKER_00]: you make sure your helmet's snug."
+    },
+    {
+      "start": 202.21,
+      "end": 203.31,
+      "text": "[SPEAKER_00]: That's what this is today."
+    },
+    {
+      "start": 203.43,
+      "end": 204.97,
+      "text": "[SPEAKER_00]: We're gonna make sure that your shoes are tied,"
+    },
+    {
+      "start": 205.07,
+      "end": 207.49,
+      "text": "[SPEAKER_00]: your gloves are fit, their Velcro is on"
+    },
+    {
+      "start": 207.49,
+      "end": 208.89,
+      "text": "[SPEAKER_00]: and the helmet is snug."
+    },
+    {
+      "start": 209.49,
+      "end": 212.17,
+      "text": "[SPEAKER_00]: So today's episode's gonna be 40 underrated tactics."
+    },
+    {
+      "start": 213.19,
+      "end": 215.27,
+      "text": "[SPEAKER_00]: I say underrated because these are 40 things"
+    },
+    {
+      "start": 215.27,
+      "end": 216.59,
+      "text": "[SPEAKER_00]: that I've always been repeating."
+    },
+    {
+      "start": 217.25,
+      "end": 218.81,
+      "text": "[SPEAKER_00]: It seems like nobody implements them."
+    },
+    {
+      "start": 219.57,
+      "end": 222.21,
+      "text": "[SPEAKER_00]: So go ahead, listen to it, let me know what you think."
+    },
+    {
+      "start": 222.59,
+      "end": 224.97,
+      "text": "[SPEAKER_00]: Also if you haven't gotten a chance yet,"
+    },
+    {
+      "start": 225.01,
+      "end": 227.45,
+      "text": "[SPEAKER_00]: check out the Ecom Founders Q4 Summit."
+    },
+    {
+      "start": 227.53,
+      "end": 230.47,
+      "text": "[SPEAKER_00]: That's ecomfounders.com slash Q4."
+    },
+    {
+      "start": 230.87,
+      "end": 234.35,
+      "text": "[SPEAKER_00]: We have that happening on September 26th in New York City."
+    },
+    {
+      "start": 235.13,
+      "end": 237.11,
+      "text": "[SPEAKER_00]: Harley is coming to speak at it."
+    },
+    {
+      "start": 237.11,
+      "end": 240.15,
+      "text": "[SPEAKER_00]: Harley the president of Shopify along with many others."
+    },
+    {
+      "start": 240.71,
+      "end": 243.71,
+      "text": "[SPEAKER_00]: So if you need a ticket or if you can't seem to get one,"
+    },
+    {
+      "start": 243.71,
+      "end": 245.11,
+      "text": "[SPEAKER_00]: if you have any issues, shoot me an email."
+    },
+    {
+      "start": 245.19,
+      "end": 246.69,
+      "text": "[SPEAKER_00]: It's just n at sharma.com."
+    },
+    {
+      "start": 246.95,
+      "end": 248.39,
+      "text": "[SPEAKER_00]: Otherwise enjoy this episode."
+    },
+    {
+      "start": 248.53,
+      "end": 249.85,
+      "text": "[SPEAKER_00]: I hope you enjoy it."
+    },
+    {
+      "start": 250.27,
+      "end": 252.21,
+      "text": "[SPEAKER_00]: And yeah, let me know if you end up implementing"
+    },
+    {
+      "start": 252.21,
+      "end": 253.01,
+      "text": "[SPEAKER_00]: any of these tips."
+    },
+    {
+      "start": 253.15,
+      "end": 254.63,
+      "text": "[SPEAKER_00]: I think some of them should make you"
+    },
+    {
+      "start": 254.63,
+      "end": 255.51,
+      "text": "[SPEAKER_00]: at least 100 grand."
+    },
+    {
+      "start": 255.99,
+      "end": 256.77,
+      "text": "[SPEAKER_00]: Enjoy the episode."
+    },
+    {
+      "start": 257.71,
+      "end": 259.89,
+      "text": "[SPEAKER_00]: All right, so for today's episode,"
+    },
+    {
+      "start": 260.05,
+      "end": 263.31,
+      "text": "[SPEAKER_00]: we're gonna go through something that I've put together"
+    },
+    {
+      "start": 263.31,
+      "end": 266.85,
+      "text": "[SPEAKER_00]: before and a lot of people got a lot of value out of it."
+    },
+    {
+      "start": 266.85,
+      "end": 268.59,
+      "text": "[SPEAKER_00]: So I wanted to share it here"
+    },
+    {
+      "start": 268.59,
+      "end": 271.59,
+      "text": "[SPEAKER_00]: and also give the opportunity to just go through it"
+    },
+    {
+      "start": 271.59,
+      "end": 272.47,
+      "text": "[SPEAKER_00]: in a little bit more depth."
+    },
+    {
+      "start": 272.87,
+      "end": 275.69,
+      "text": "[SPEAKER_00]: So today we're gonna talk about 40 very tactical,"
+    },
+    {
+      "start": 275.99,
+      "end": 279.19,
+      "text": "[SPEAKER_00]: very effective tips."
+    },
+    {
+      "start": 279.37,
+      "end": 280.71,
+      "text": "[SPEAKER_00]: I don't like to call it hacks"
+    },
+    {
+      "start": 280.71,
+      "end": 284.01,
+      "text": "[SPEAKER_00]: because I perceive hacks to be something that's not real."
+    },
+    {
+      "start": 284.53,
+      "end": 288.49,
+      "text": "[SPEAKER_00]: So 40 tactical tips to make your site convert better."
+    },
+    {
+      "start": 289.97,
+      "end": 291.77,
+      "text": "[SPEAKER_00]: The reason this is so valuable right now"
+    },
+    {
+      "start": 291.77,
+      "end": 293.81,
+      "text": "[SPEAKER_00]: is because holidays are coming up"
+    },
+    {
+      "start": 293.81,
+      "end": 297.37,
+      "text": "[SPEAKER_00]: and most of these things are things"
+    },
+    {
+      "start": 297.37,
+      "end": 298.91,
+      "text": "[SPEAKER_00]: that you can do pretty quickly."
+    },
+    {
+      "start": 299.53,
+      "end": 301.01,
+      "text": "[SPEAKER_00]: And if they are, I'll call it out."
+    },
+    {
+      "start": 301.83,
+      "end": 303.79,
+      "text": "[SPEAKER_00]: Some of the things might take a little bit longer,"
+    },
+    {
+      "start": 303.99,
+      "end": 306.41,
+      "text": "[SPEAKER_00]: might be intertwining into creative"
+    },
+    {
+      "start": 306.41,
+      "end": 308.63,
+      "text": "[SPEAKER_00]: or the way that development is done."
+    },
+    {
+      "start": 309.05,
+      "end": 310.29,
+      "text": "[SPEAKER_00]: But for a lot of this stuff,"
+    },
+    {
+      "start": 311.11,
+      "end": 312.89,
+      "text": "[SPEAKER_00]: they're pretty easy things you can do."
+    },
+    {
+      "start": 313.97,
+      "end": 315.37,
+      "text": "[SPEAKER_00]: And yeah, hopefully let me know"
+    },
+    {
+      "start": 315.37,
+      "end": 316.57,
+      "text": "[SPEAKER_00]: if you implement any of these"
+    },
+    {
+      "start": 316.57,
+      "end": 317.77,
+      "text": "[SPEAKER_00]: and if it makes you any money."
+    },
+    {
+      "start": 318.53,
+      "end": 321.83,
+      "text": "[SPEAKER_00]: Last person who sent me a note saying"
+    },
+    {
+      "start": 321.83,
+      "end": 324.91,
+      "text": "[SPEAKER_00]: that they implemented these made at least $100,000."
+    },
+    {
+      "start": 325.07,
+      "end": 326.73,
+      "text": "[SPEAKER_00]: So I hope the same goes for you."
+    },
+    {
+      "start": 327.13,
+      "end": 328.49,
+      "text": "[SPEAKER_00]: Okay, so starting with number one."
+    },
+    {
+      "start": 328.85,
+      "end": 330.89,
+      "text": "[SPEAKER_00]: Number one is to leverage more social proof"
+    },
+    {
+      "start": 330.89,
+      "end": 333.65,
+      "text": "[SPEAKER_00]: from real world humans, not just modeled and paid actors."
+    },
+    {
+      "start": 334.19,
+      "end": 335.33,
+      "text": "[SPEAKER_00]: So what do I mean by this?"
+    },
+    {
+      "start": 335.35,
+      "end": 338.09,
+      "text": "[SPEAKER_00]: Well, if you go to almost any e-commerce brand site,"
+    },
+    {
+      "start": 338.63,
+      "end": 342.11,
+      "text": "[SPEAKER_00]: at this point, they've all got UGC on their PDPs,"
+    },
+    {
+      "start": 342.23,
+      "end": 344.33,
+      "text": "[SPEAKER_00]: on the landing pages, probably on the homepage,"
+    },
+    {
+      "start": 344.61,
+      "end": 346.41,
+      "text": "[SPEAKER_00]: maybe even as you hover over a product."
+    },
+    {
+      "start": 347.01,
+      "end": 349.07,
+      "text": "[SPEAKER_00]: And most of those people are actually people"
+    },
+    {
+      "start": 349.07,
+      "end": 351.25,
+      "text": "[SPEAKER_00]: who are just quote unquote UGC creators."
+    },
+    {
+      "start": 351.89,
+      "end": 354.69,
+      "text": "[SPEAKER_00]: I don't know where this title of a job came from."
+    },
+    {
+      "start": 354.81,
+      "end": 357.65,
+      "text": "[SPEAKER_00]: My theory is that Tai Lopez created some course"
+    },
+    {
+      "start": 357.65,
+      "end": 358.49,
+      "text": "[SPEAKER_00]: for UGC creator,"
+    },
+    {
+      "start": 358.71,
+      "end": 359.63,
+      "text": "[SPEAKER_00]: because now if you go to,"
+    },
+    {
+      "start": 359.63,
+      "end": 361.21,
+      "text": "[SPEAKER_00]: even if you go to Twitter or Instagram"
+    },
+    {
+      "start": 361.21,
+      "end": 362.49,
+      "text": "[SPEAKER_00]: and search UGC creator,"
+    },
+    {
+      "start": 362.77,
+      "end": 363.97,
+      "text": "[SPEAKER_00]: everybody has that in their name."
+    },
+    {
+      "start": 364.87,
+      "end": 366.61,
+      "text": "[SPEAKER_00]: So that said, try to figure out"
+    },
+    {
+      "start": 366.61,
+      "end": 367.99,
+      "text": "[SPEAKER_00]: how you can use real world humans."
+    },
+    {
+      "start": 368.13,
+      "end": 370.63,
+      "text": "[SPEAKER_00]: And by that, I mean, use your actual customers,"
+    },
+    {
+      "start": 371.11,
+      "end": 373.55,
+      "text": "[SPEAKER_00]: try to figure out how you can get more engagement"
+    },
+    {
+      "start": 373.55,
+      "end": 374.91,
+      "text": "[SPEAKER_00]: from your customers."
+    },
+    {
+      "start": 375.03,
+      "end": 377.89,
+      "text": "[SPEAKER_00]: And ideally that is by review with a video."
+    },
+    {
+      "start": 378.73,
+      "end": 381.43,
+      "text": "[SPEAKER_00]: Second one, don't be so chunky with your copy."
+    },
+    {
+      "start": 381.89,
+      "end": 385.55,
+      "text": "[SPEAKER_00]: You don't have to get so wordy and jargony with the copy."
+    },
+    {
+      "start": 386.11,
+      "end": 389.85,
+      "text": "[SPEAKER_00]: In fact, it's probably better to be more punchy"
+    },
+    {
+      "start": 389.85,
+      "end": 392.27,
+      "text": "[SPEAKER_00]: and shorter and just focus on the benefits,"
+    },
+    {
+      "start": 392.41,
+      "end": 393.23,
+      "text": "[SPEAKER_00]: not on the value props."
+    },
+    {
+      "start": 393.31,
+      "end": 394.17,
+      "text": "[SPEAKER_00]: What do I mean by that?"
+    },
+    {
+      "start": 394.55,
+      "end": 397.29,
+      "text": "[SPEAKER_00]: Well, let's say we have HintWater."
+    },
+    {
+      "start": 397.73,
+      "end": 399.31,
+      "text": "[SPEAKER_00]: We've got HintWater with us."
+    },
+    {
+      "start": 399.53,
+      "end": 401.61,
+      "text": "[SPEAKER_00]: If we were to focus on value props,"
+    },
+    {
+      "start": 401.65,
+      "end": 405.45,
+      "text": "[SPEAKER_00]: we would say no sugar, no sweetener, zero calories."
+    },
+    {
+      "start": 405.95,
+      "end": 407.49,
+      "text": "[SPEAKER_00]: If we were to talk about benefits,"
+    },
+    {
+      "start": 408.11,
+      "end": 410.09,
+      "text": "[SPEAKER_00]: and we're speaking to a specific audience,"
+    },
+    {
+      "start": 410.11,
+      "end": 412.19,
+      "text": "[SPEAKER_00]: let's say we're speaking to an audience of cancer patients,"
+    },
+    {
+      "start": 412.83,
+      "end": 415.51,
+      "text": "[SPEAKER_00]: you could say that it is a beverage that,"
+    },
+    {
+      "start": 415.51,
+      "end": 417.91,
+      "text": "[SPEAKER_00]: it's the first beverage that doesn't make you taste"
+    },
+    {
+      "start": 417.91,
+      "end": 420.05,
+      "text": "[SPEAKER_00]: the metal in your mouth as you're going through chemo."
+    },
+    {
+      "start": 420.07,
+      "end": 420.77,
+      "text": "[SPEAKER_00]: That's a benefit."
+    },
+    {
+      "start": 421.23,
+      "end": 422.81,
+      "text": "[SPEAKER_00]: Why is that one the first one that came to mind?"
+    },
+    {
+      "start": 422.83,
+      "end": 424.89,
+      "text": "[SPEAKER_00]: I have no idea, but we're gonna roll with it."
+    },
+    {
+      "start": 425.29,
+      "end": 426.55,
+      "text": "[SPEAKER_00]: So don't be chunky with your copy."
+    },
+    {
+      "start": 426.71,
+      "end": 428.39,
+      "text": "[SPEAKER_00]: Be punchy, get savvy,"
+    },
+    {
+      "start": 428.89,
+      "end": 430.25,
+      "text": "[SPEAKER_00]: try to make it short and concise."
+    },
+    {
+      "start": 430.37,
+      "end": 431.63,
+      "text": "[SPEAKER_00]: In fact, the best writers,"
+    },
+    {
+      "start": 432.27,
+      "end": 435.07,
+      "text": "[SPEAKER_00]: what they do is they just keep reworking sentences"
+    },
+    {
+      "start": 435.07,
+      "end": 436.11,
+      "text": "[SPEAKER_00]: to delete words."
+    },
+    {
+      "start": 436.67,
+      "end": 438.87,
+      "text": "[SPEAKER_00]: So the more you can say with fewer words,"
+    },
+    {
+      "start": 439.09,
+      "end": 441.43,
+      "text": "[SPEAKER_00]: the better copywriter you are."
+    },
+    {
+      "start": 441.49,
+      "end": 443.25,
+      "text": "[SPEAKER_00]: And I think also just the better it comes off"
+    },
+    {
+      "start": 443.25,
+      "end": 444.33,
+      "text": "[SPEAKER_00]: from a brand standpoint."
+    },
+    {
+      "start": 445.39,
+      "end": 448.05,
+      "text": "[SPEAKER_00]: Number three, design for mobile first."
+    },
+    {
+      "start": 448.83,
+      "end": 451.07,
+      "text": "[SPEAKER_00]: All of your, majority of your site traffic,"
+    },
+    {
+      "start": 451.31,
+      "end": 452.35,
+      "text": "[SPEAKER_00]: very close to all,"
+    },
+    {
+      "start": 452.75,
+      "end": 454.51,
+      "text": "[SPEAKER_00]: is probably gonna be coming from mobile devices."
+    },
+    {
+      "start": 455.39,
+      "end": 457.01,
+      "text": "[SPEAKER_00]: Obviously as we get into the holidays,"
+    },
+    {
+      "start": 457.11,
+      "end": 459.83,
+      "text": "[SPEAKER_00]: there's a bigger share of desktop users"
+    },
+    {
+      "start": 459.83,
+      "end": 461.11,
+      "text": "[SPEAKER_00]: because people are at home."
+    },
+    {
+      "start": 461.75,
+      "end": 464.67,
+      "text": "[SPEAKER_00]: But that said, you always want to design mobile first"
+    },
+    {
+      "start": 465.37,
+      "end": 467.31,
+      "text": "[SPEAKER_00]: that means that doesn't just mean like,"
+    },
+    {
+      "start": 467.93,
+      "end": 469.11,
+      "text": "[SPEAKER_00]: in theory in your head,"
+    },
+    {
+      "start": 470.27,
+      "end": 472.69,
+      "text": "[SPEAKER_00]: put a design together that is mobile friendly."
+    },
+    {
+      "start": 472.89,
+      "end": 474.87,
+      "text": "[SPEAKER_00]: It literally means when you're designing the site,"
+    },
+    {
+      "start": 475.77,
+      "end": 477.77,
+      "text": "[SPEAKER_00]: ideating the site, deciding what content goes in,"
+    },
+    {
+      "start": 477.77,
+      "end": 478.79,
+      "text": "[SPEAKER_00]: what the photos are,"
+    },
+    {
+      "start": 479.35,
+      "end": 481.19,
+      "text": "[SPEAKER_00]: what sizing of buttons you're gonna use,"
+    },
+    {
+      "start": 481.35,
+      "end": 483.13,
+      "text": "[SPEAKER_00]: everything should be designed for mobile first"
+    },
+    {
+      "start": 483.13,
+      "end": 485.67,
+      "text": "[SPEAKER_00]: and it should be fitted back to desktop."
+    },
+    {
+      "start": 486.93,
+      "end": 488.13,
+      "text": "[SPEAKER_00]: If you have really good designers,"
+    },
+    {
+      "start": 488.17,
+      "end": 490.29,
+      "text": "[SPEAKER_00]: they will design one experience for mobile"
+    },
+    {
+      "start": 490.29,
+      "end": 492.01,
+      "text": "[SPEAKER_00]: and another experience for desktop"
+    },
+    {
+      "start": 492.01,
+      "end": 493.11,
+      "text": "[SPEAKER_00]: versus just fitting it."
+    },
+    {
+      "start": 493.11,
+      "end": 495.27,
+      "text": "[SPEAKER_00]: That's what we do with a lot of the sites"
+    },
+    {
+      "start": 495.27,
+      "end": 497.25,
+      "text": "[SPEAKER_00]: we build at Sharma Brands."
+    },
+    {
+      "start": 497.45,
+      "end": 499.17,
+      "text": "[SPEAKER_00]: But you always want to start with mobile first."
+    },
+    {
+      "start": 499.23,
+      "end": 500.47,
+      "text": "[SPEAKER_00]: The reason is, you got to make sure"
+    },
+    {
+      "start": 500.47,
+      "end": 502.77,
+      "text": "[SPEAKER_00]: that you're packing a punch into the mobile site"
+    },
+    {
+      "start": 503.75,
+      "end": 505.71,
+      "text": "[SPEAKER_00]: versus desktop, you've got a lot more real estate"
+    },
+    {
+      "start": 505.71,
+      "end": 507.33,
+      "text": "[SPEAKER_00]: so you can be a lot more,"
+    },
+    {
+      "start": 507.33,
+      "end": 509.03,
+      "text": "[SPEAKER_00]: you can put a lot more out there."
+    },
+    {
+      "start": 509.17,
+      "end": 510.93,
+      "text": "[SPEAKER_00]: And so you want to put it in mobile"
+    },
+    {
+      "start": 510.93,
+      "end": 512.55,
+      "text": "[SPEAKER_00]: and then try to fit it back to desktop."
+    },
+    {
+      "start": 513.53,
+      "end": 514.49,
+      "text": "[SPEAKER_00]: Same thing goes for copy."
+    },
+    {
+      "start": 515.03,
+      "end": 516.63,
+      "text": "[SPEAKER_00]: Write copy for mobile first."
+    },
+    {
+      "start": 516.75,
+      "end": 519.89,
+      "text": "[SPEAKER_00]: The reason for that is you might realize that"
+    },
+    {
+      "start": 520.41,
+      "end": 522.55,
+      "text": "[SPEAKER_00]: this headline you want to put in,"
+    },
+    {
+      "start": 523.11,
+      "end": 525.57,
+      "text": "[SPEAKER_00]: on desktop that you design has,"
+    },
+    {
+      "start": 525.69,
+      "end": 527.31,
+      "text": "[SPEAKER_00]: it looks really good on desktop,"
+    },
+    {
+      "start": 527.41,
+      "end": 528.69,
+      "text": "[SPEAKER_00]: but as soon as you put it into mobile,"
+    },
+    {
+      "start": 528.75,
+      "end": 530.17,
+      "text": "[SPEAKER_00]: it's five lines long or five,"
+    },
+    {
+      "start": 530.21,
+      "end": 532.37,
+      "text": "[SPEAKER_00]: it's a headline and it takes up three"
+    },
+    {
+      "start": 532.37,
+      "end": 533.81,
+      "text": "[SPEAKER_00]: or four lines worth of space."
+    },
+    {
+      "start": 534.15,
+      "end": 536.11,
+      "text": "[SPEAKER_00]: That's why you got to write copy for mobile first."
+    },
+    {
+      "start": 536.19,
+      "end": 538.13,
+      "text": "[SPEAKER_00]: And then again, go back to desktop"
+    },
+    {
+      "start": 538.13,
+      "end": 540.37,
+      "text": "[SPEAKER_00]: and figure out what's the version of that for desktop"
+    },
+    {
+      "start": 540.37,
+      "end": 542.17,
+      "text": "[SPEAKER_00]: or just fit it back to desktop."
+    },
+    {
+      "start": 542.67,
+      "end": 545.01,
+      "text": "[SPEAKER_00]: So just to be clear what I mean by that,"
+    },
+    {
+      "start": 545.01,
+      "end": 546.31,
+      "text": "[SPEAKER_00]: you can fit it to desktop."
+    },
+    {
+      "start": 546.35,
+      "end": 548.79,
+      "text": "[SPEAKER_00]: That means just take what is exactly put"
+    },
+    {
+      "start": 548.79,
+      "end": 551.37,
+      "text": "[SPEAKER_00]: into the mobile design, copy or design wise"
+    },
+    {
+      "start": 551.37,
+      "end": 554.77,
+      "text": "[SPEAKER_00]: and make it work for desktop or just rewrite."
+    },
+    {
+      "start": 555.01,
+      "end": 559.73,
+      "text": "[SPEAKER_00]: So maybe on mobile, your headline for hints homepage"
+    },
+    {
+      "start": 559.73,
+      "end": 562.39,
+      "text": "[SPEAKER_00]: says mom's favorite water or mom approved water,"
+    },
+    {
+      "start": 562.39,
+      "end": 565.21,
+      "text": "[SPEAKER_00]: but on the desktop, it says a sweet treat"
+    },
+    {
+      "start": 565.21,
+      "end": 567.13,
+      "text": "[SPEAKER_00]: that mom can get behind something like that."
+    },
+    {
+      "start": 567.25,
+      "end": 569.83,
+      "text": "[SPEAKER_00]: So it's like you can have different copy for each."
+    },
+    {
+      "start": 570.81,
+      "end": 574.07,
+      "text": "[SPEAKER_00]: Number five is make your pricing discounts"
+    },
+    {
+      "start": 574.07,
+      "end": 576.29,
+      "text": "[SPEAKER_00]: and your offers way more noticeable."
+    },
+    {
+      "start": 576.69,
+      "end": 578.91,
+      "text": "[SPEAKER_00]: Do anything you can to make the pricing"
+    },
+    {
+      "start": 578.91,
+      "end": 579.75,
+      "text": "[SPEAKER_00]: of the discount pop."
+    },
+    {
+      "start": 579.75,
+      "end": 581.39,
+      "text": "[SPEAKER_00]: You can use a different color font."
+    },
+    {
+      "start": 581.57,
+      "end": 584.01,
+      "text": "[SPEAKER_00]: You can make it bold, you can use highlights,"
+    },
+    {
+      "start": 584.07,
+      "end": 584.93,
+      "text": "[SPEAKER_00]: you can add a sticker."
+    },
+    {
+      "start": 585.43,
+      "end": 588.95,
+      "text": "[SPEAKER_00]: Honestly, I would also recommend putting it into the CTAs"
+    },
+    {
+      "start": 588.95,
+      "end": 591.07,
+      "text": "[SPEAKER_00]: and make those colored if you can."
+    },
+    {
+      "start": 591.79,
+      "end": 595.03,
+      "text": "[SPEAKER_00]: They heavily outperformed just black and white CTAs."
+    },
+    {
+      "start": 595.15,
+      "end": 597.49,
+      "text": "[SPEAKER_00]: But also you wanna make sure that in here,"
+    },
+    {
+      "start": 598.43,
+      "end": 600.85,
+      "text": "[SPEAKER_00]: you're just making it very obvious what the deal is."
+    },
+    {
+      "start": 601.17,
+      "end": 602.23,
+      "text": "[SPEAKER_00]: There's a lot of times where,"
+    },
+    {
+      "start": 602.25,
+      "end": 604.13,
+      "text": "[SPEAKER_00]: if you're using a standard Shopify theme"
+    },
+    {
+      "start": 604.13,
+      "end": 605.45,
+      "text": "[SPEAKER_00]: and you're adding a deal price"
+    },
+    {
+      "start": 605.45,
+      "end": 607.13,
+      "text": "[SPEAKER_00]: or you're adding a sale price,"
+    },
+    {
+      "start": 607.13,
+      "end": 610.07,
+      "text": "[SPEAKER_00]: it doesn't necessarily make it that obvious or that loud."
+    },
+    {
+      "start": 610.43,
+      "end": 612.77,
+      "text": "[SPEAKER_00]: And so make sure that as you're going into the holidays,"
+    },
+    {
+      "start": 613.19,
+      "end": 615.71,
+      "text": "[SPEAKER_00]: if you're running a sale or a promo or a bundle,"
+    },
+    {
+      "start": 615.71,
+      "end": 617.31,
+      "text": "[SPEAKER_00]: make that discount very obvious."
+    },
+    {
+      "start": 617.71,
+      "end": 620.59,
+      "text": "[SPEAKER_00]: I'm a fan of having it put your cross out above"
+    },
+    {
+      "start": 620.59,
+      "end": 623.11,
+      "text": "[SPEAKER_00]: in the shop section, put it in the CTA,"
+    },
+    {
+      "start": 623.83,
+      "end": 628.23,
+      "text": "[SPEAKER_00]: add a badge to the product image that says $25 off"
+    },
+    {
+      "start": 628.23,
+      "end": 631.45,
+      "text": "[SPEAKER_00]: or whatever it may be, but just make it overly obvious."
+    },
+    {
+      "start": 632.09,
+      "end": 635.31,
+      "text": "[SPEAKER_00]: Number six is if you sell a consumable,"
+    },
+    {
+      "start": 635.55,
+      "end": 636.95,
+      "text": "[SPEAKER_00]: include price per use."
+    },
+    {
+      "start": 636.95,
+      "end": 642.83,
+      "text": "[SPEAKER_00]: So for example, if you're selling a 30 day supply"
+    },
+    {
+      "start": 642.83,
+      "end": 646.35,
+      "text": "[SPEAKER_00]: for $28, you gotta say less than a dollar a day."
+    },
+    {
+      "start": 647.09,
+      "end": 649.81,
+      "text": "[SPEAKER_00]: If you're selling at Hint, we used to do"
+    },
+    {
+      "start": 649.81,
+      "end": 651.71,
+      "text": "[SPEAKER_00]: or they still do it today, seven years later."
+    },
+    {
+      "start": 652.75,
+      "end": 653.95,
+      "text": "[SPEAKER_00]: But we came up with this offer"
+    },
+    {
+      "start": 653.95,
+      "end": 655.97,
+      "text": "[SPEAKER_00]: that was 36 bottles for $36."
+    },
+    {
+      "start": 656.15,
+      "end": 657.01,
+      "text": "[SPEAKER_00]: It's a dollar a bottle."
+    },
+    {
+      "start": 657.11,
+      "end": 658.85,
+      "text": "[SPEAKER_00]: That was our best tagline"
+    },
+    {
+      "start": 658.85,
+      "end": 660.69,
+      "text": "[SPEAKER_00]: when it came to writing the copy."
+    },
+    {
+      "start": 661.21,
+      "end": 662.69,
+      "text": "[SPEAKER_00]: So try to list your cost per use."
+    },
+    {
+      "start": 662.93,
+      "end": 666.63,
+      "text": "[SPEAKER_00]: I've actually seen everybody from consumables do it."
+    },
+    {
+      "start": 666.63,
+      "end": 668.19,
+      "text": "[SPEAKER_00]: I've actually even seen like, you know,"
+    },
+    {
+      "start": 668.35,
+      "end": 670.47,
+      "text": "[SPEAKER_00]: mattress companies do it or sheets companies"
+    },
+    {
+      "start": 670.47,
+      "end": 672.07,
+      "text": "[SPEAKER_00]: if they kind of know like how long"
+    },
+    {
+      "start": 672.07,
+      "end": 673.13,
+      "text": "[SPEAKER_00]: the sheets are gonna last."
+    },
+    {
+      "start": 673.59,
+      "end": 675.43,
+      "text": "[SPEAKER_00]: So it's well worth trying."
+    },
+    {
+      "start": 675.99,
+      "end": 678.07,
+      "text": "[SPEAKER_00]: If you sell a consumable, whether it's a supplement,"
+    },
+    {
+      "start": 678.23,
+      "end": 683.77,
+      "text": "[SPEAKER_00]: a beverage, food, a snack, gummies, whatever it is,"
+    },
+    {
+      "start": 683.99,
+      "end": 685.41,
+      "text": "[SPEAKER_00]: cost per use is huge."
+    },
+    {
+      "start": 685.55,
+      "end": 688.11,
+      "text": "[SPEAKER_00]: And I found having it right near the CTA"
+    },
+    {
+      "start": 688.61,
+      "end": 692.29,
+      "text": "[SPEAKER_00]: or right near the price really helps explain it"
+    },
+    {
+      "start": 692.29,
+      "end": 692.87,
+      "text": "[SPEAKER_00]: and break it down."
+    },
+    {
+      "start": 693.15,
+      "end": 694.99,
+      "text": "[SPEAKER_00]: It's also one of those things that when you think"
+    },
+    {
+      "start": 694.99,
+      "end": 697.17,
+      "text": "[SPEAKER_00]: about things that stop people from buying,"
+    },
+    {
+      "start": 697.59,
+      "end": 699.27,
+      "text": "[SPEAKER_00]: a lot of times what stops people from buying"
+    },
+    {
+      "start": 699.27,
+      "end": 702.75,
+      "text": "[SPEAKER_00]: is trying to justify in their head,"
+    },
+    {
+      "start": 703.63,
+      "end": 705.25,
+      "text": "[SPEAKER_00]: either justify in their own head,"
+    },
+    {
+      "start": 705.47,
+      "end": 707.61,
+      "text": "[SPEAKER_00]: how is this something that is worth the purchase"
+    },
+    {
+      "start": 707.61,
+      "end": 710.53,
+      "text": "[SPEAKER_00]: or B, they think about, okay, when this arrives"
+    },
+    {
+      "start": 710.53,
+      "end": 712.59,
+      "text": "[SPEAKER_00]: and I have to explain why I bought this,"
+    },
+    {
+      "start": 712.89,
+      "end": 714.61,
+      "text": "[SPEAKER_00]: I need something to say, right?"
+    },
+    {
+      "start": 714.63,
+      "end": 716.75,
+      "text": "[SPEAKER_00]: And so this becomes one of those sound bites."
+    },
+    {
+      "start": 717.81,
+      "end": 719.33,
+      "text": "[SPEAKER_00]: So try to use cost per use."
+    },
+    {
+      "start": 720.11,
+      "end": 722.93,
+      "text": "[SPEAKER_00]: Number seven, a picture is worth a thousand words."
+    },
+    {
+      "start": 722.93,
+      "end": 724.75,
+      "text": "[SPEAKER_00]: So use a lot more of them."
+    },
+    {
+      "start": 724.99,
+      "end": 728.67,
+      "text": "[SPEAKER_00]: Include illustrations, icons, graphs, charts."
+    },
+    {
+      "start": 729.09,
+      "end": 730.69,
+      "text": "[SPEAKER_00]: You need to try to explain things visually."
+    },
+    {
+      "start": 730.75,
+      "end": 733.05,
+      "text": "[SPEAKER_00]: This works really well for supplement brands"
+    },
+    {
+      "start": 733.05,
+      "end": 734.47,
+      "text": "[SPEAKER_00]: or beverage companies."
+    },
+    {
+      "start": 734.87,
+      "end": 736.37,
+      "text": "[SPEAKER_00]: Actually I think Liquid IV was probably"
+    },
+    {
+      "start": 736.37,
+      "end": 737.63,
+      "text": "[SPEAKER_00]: one of the pioneers of this."
+    },
+    {
+      "start": 737.67,
+      "end": 740.55,
+      "text": "[SPEAKER_00]: When I think about the CTT technology,"
+    },
+    {
+      "start": 741.23,
+      "end": 744.03,
+      "text": "[SPEAKER_00]: they always had that kind of chart on their packaging."
+    },
+    {
+      "start": 745.13,
+      "end": 748.27,
+      "text": "[SPEAKER_00]: People love illustrations, icons, graphs, charts,"
+    },
+    {
+      "start": 748.35,
+      "end": 748.81,
+      "text": "[SPEAKER_00]: et cetera."
+    },
+    {
+      "start": 749.51,
+      "end": 750.97,
+      "text": "[SPEAKER_00]: And so the more you can use, the better."
+    },
+    {
+      "start": 751.61,
+      "end": 755.29,
+      "text": "[SPEAKER_00]: We've also always found that custom illustrations"
+    },
+    {
+      "start": 755.29,
+      "end": 757.79,
+      "text": "[SPEAKER_00]: or custom icons tend to get more engagement."
+    },
+    {
+      "start": 759.41,
+      "end": 763.77,
+      "text": "[SPEAKER_00]: Even better pro tip there is icons that have movement."
+    },
+    {
+      "start": 764.11,
+      "end": 766.49,
+      "text": "[SPEAKER_00]: So for example, let's say it's,"
+    },
+    {
+      "start": 766.55,
+      "end": 767.45,
+      "text": "[SPEAKER_00]: I'm just making this up,"
+    },
+    {
+      "start": 767.53,
+      "end": 769.29,
+      "text": "[SPEAKER_00]: it's a little coffee cup icon"
+    },
+    {
+      "start": 769.29,
+      "end": 771.01,
+      "text": "[SPEAKER_00]: to show that it can be made hot."
+    },
+    {
+      "start": 771.35,
+      "end": 772.93,
+      "text": "[SPEAKER_00]: Well, if you have the little,"
+    },
+    {
+      "start": 774.09,
+      "end": 776.05,
+      "text": "[SPEAKER_00]: not smoke but whatever it's steam,"
+    },
+    {
+      "start": 776.25,
+      "end": 777.89,
+      "text": "[SPEAKER_00]: if that's moving in the icon,"
+    },
+    {
+      "start": 778.35,
+      "end": 779.55,
+      "text": "[SPEAKER_00]: then it draws your eyes there,"
+    },
+    {
+      "start": 779.55,
+      "end": 780.47,
+      "text": "[SPEAKER_00]: it makes you kind of pause"
+    },
+    {
+      "start": 780.47,
+      "end": 782.19,
+      "text": "[SPEAKER_00]: and makes you try to understand what that is."
+    },
+    {
+      "start": 782.79,
+      "end": 784.21,
+      "text": "[SPEAKER_00]: So trying to include these things"
+    },
+    {
+      "start": 784.21,
+      "end": 786.37,
+      "text": "[SPEAKER_00]: just makes the pages a lot stronger,"
+    },
+    {
+      "start": 786.37,
+      "end": 788.61,
+      "text": "[SPEAKER_00]: both visually but also from a brand standpoint."
+    },
+    {
+      "start": 789.21,
+      "end": 791.23,
+      "text": "[SPEAKER_00]: That kind of helps build the brand"
+    },
+    {
+      "start": 791.23,
+      "end": 792.45,
+      "text": "[SPEAKER_00]: when you have custom icons."
+    },
+    {
+      "start": 792.71,
+      "end": 794.15,
+      "text": "[SPEAKER_00]: In fact, if you check out this website,"
+    },
+    {
+      "start": 795.13,
+      "end": 796.09,
+      "text": "[SPEAKER_00]: tastesalud.com,"
+    },
+    {
+      "start": 796.43,
+      "end": 799.49,
+      "text": "[SPEAKER_00]: you'll see how many custom icons and graphics"
+    },
+    {
+      "start": 799.49,
+      "end": 801.81,
+      "text": "[SPEAKER_00]: and illustrations that we made,"
+    },
+    {
+      "start": 802.01,
+      "end": 803.75,
+      "text": "[SPEAKER_00]: which in my opinion,"
+    },
+    {
+      "start": 803.95,
+      "end": 805.59,
+      "text": "[SPEAKER_00]: bring the whole kind of brand together."
+    },
+    {
+      "start": 805.81,
+      "end": 807.11,
+      "text": "[SPEAKER_00]: And so highly recommend that."
+    },
+    {
+      "start": 807.11,
+      "end": 810.75,
+      "text": "[SPEAKER_00]: Number eight, make your email popup form much simpler."
+    },
+    {
+      "start": 811.11,
+      "end": 812.33,
+      "text": "[SPEAKER_00]: Don't ask for their name."
+    },
+    {
+      "start": 812.97,
+      "end": 813.81,
+      "text": "[SPEAKER_00]: Some forms I've seen,"
+    },
+    {
+      "start": 813.83,
+      "end": 814.85,
+      "text": "[SPEAKER_00]: they'll ask for their first name,"
+    },
+    {
+      "start": 814.87,
+      "end": 816.07,
+      "text": "[SPEAKER_00]: their last name, their email,"
+    },
+    {
+      "start": 816.13,
+      "end": 817.09,
+      "text": "[SPEAKER_00]: their birthday, their look,"
+    },
+    {
+      "start": 817.11,
+      "end": 818.67,
+      "text": "[SPEAKER_00]: just ask for an email address."
+    },
+    {
+      "start": 818.99,
+      "end": 821.09,
+      "text": "[SPEAKER_00]: In fact, my recommendation is,"
+    },
+    {
+      "start": 821.17,
+      "end": 822.99,
+      "text": "[SPEAKER_00]: I'm a big fan of using the popups"
+    },
+    {
+      "start": 822.99,
+      "end": 823.91,
+      "text": "[SPEAKER_00]: that drive engagement."
+    },
+    {
+      "start": 824.39,
+      "end": 826.41,
+      "text": "[SPEAKER_00]: So typically what they do is they,"
+    },
+    {
+      "start": 826.59,
+      "end": 827.81,
+      "text": "[SPEAKER_00]: you answer a question,"
+    },
+    {
+      "start": 827.95,
+      "end": 829.05,
+      "text": "[SPEAKER_00]: basically what are you here for?"
+    },
+    {
+      "start": 829.31,
+      "end": 830.43,
+      "text": "[SPEAKER_00]: Then you put your email in."
+    },
+    {
+      "start": 830.83,
+      "end": 832.29,
+      "text": "[SPEAKER_00]: Now once the email gets in,"
+    },
+    {
+      "start": 832.33,
+      "end": 834.59,
+      "text": "[SPEAKER_00]: first of all that conversion path"
+    },
+    {
+      "start": 834.59,
+      "end": 836.89,
+      "text": "[SPEAKER_00]: or that popup path might be,"
+    },
+    {
+      "start": 837.55,
+      "end": 839.51,
+      "text": "[SPEAKER_00]: five to 7% opt in,"
+    },
+    {
+      "start": 839.57,
+      "end": 841.73,
+      "text": "[SPEAKER_00]: maybe 10% if you're doing it really well."
+    },
+    {
+      "start": 843.55,
+      "end": 845.55,
+      "text": "[SPEAKER_00]: Now once you get that opt in,"
+    },
+    {
+      "start": 845.67,
+      "end": 847.27,
+      "text": "[SPEAKER_00]: then you can ask the other stuff."
+    },
+    {
+      "start": 847.57,
+      "end": 849.09,
+      "text": "[SPEAKER_00]: So typically after email,"
+    },
+    {
+      "start": 849.17,
+      "end": 850.95,
+      "text": "[SPEAKER_00]: then you can ask for a phone number."
+    },
+    {
+      "start": 851.29,
+      "end": 852.15,
+      "text": "[SPEAKER_00]: If you get the phone number,"
+    },
+    {
+      "start": 852.17,
+      "end": 854.29,
+      "text": "[SPEAKER_00]: then you can ask for first name email"
+    },
+    {
+      "start": 854.29,
+      "end": 856.23,
+      "text": "[SPEAKER_00]: or sorry, first name, birthday and location,"
+    },
+    {
+      "start": 856.37,
+      "end": 857.29,
+      "text": "[SPEAKER_00]: whatever else you wanna know."
+    },
+    {
+      "start": 857.67,
+      "end": 860.07,
+      "text": "[SPEAKER_00]: But you wanna make it as frictionless"
+    },
+    {
+      "start": 860.07,
+      "end": 861.67,
+      "text": "[SPEAKER_00]: as possible to get the email."
+    },
+    {
+      "start": 861.93,
+      "end": 863.63,
+      "text": "[SPEAKER_00]: So at least get the email"
+    },
+    {
+      "start": 863.63,
+      "end": 866.45,
+      "text": "[SPEAKER_00]: before you decide to ask what you're doing next."
+    },
+    {
+      "start": 867.49,
+      "end": 869.81,
+      "text": "[SPEAKER_00]: Number nine, make your popup subscribe form"
+    },
+    {
+      "start": 869.81,
+      "end": 871.41,
+      "text": "[SPEAKER_00]: a value added experience."
+    },
+    {
+      "start": 871.65,
+      "end": 872.53,
+      "text": "[SPEAKER_00]: So offer a discount,"
+    },
+    {
+      "start": 872.91,
+      "end": 873.99,
+      "text": "[SPEAKER_00]: enter them into a raffle"
+    },
+    {
+      "start": 873.99,
+      "end": 875.37,
+      "text": "[SPEAKER_00]: for a chance to win some products."
+    },
+    {
+      "start": 875.79,
+      "end": 877.61,
+      "text": "[SPEAKER_00]: If you're running a promo these holidays,"
+    },
+    {
+      "start": 877.79,
+      "end": 880.11,
+      "text": "[SPEAKER_00]: put that promotion in the email popup"
+    },
+    {
+      "start": 880.11,
+      "end": 882.03,
+      "text": "[SPEAKER_00]: because in their head they're gonna think,"
+    },
+    {
+      "start": 882.19,
+      "end": 884.61,
+      "text": "[SPEAKER_00]: okay if I want to get this 30% off Black Friday offer"
+    },
+    {
+      "start": 884.61,
+      "end": 885.85,
+      "text": "[SPEAKER_00]: I should put my email in."
+    },
+    {
+      "start": 886.81,
+      "end": 892.67,
+      "text": "[SPEAKER_00]: Some of you guys use an email collection software"
+    },
+    {
+      "start": 892.67,
+      "end": 896.43,
+      "text": "[SPEAKER_00]: that actually also rejects the email that's put in"
+    },
+    {
+      "start": 896.43,
+      "end": 898.37,
+      "text": "[SPEAKER_00]: if it's already been added to your database."
+    },
+    {
+      "start": 899.23,
+      "end": 902.27,
+      "text": "[SPEAKER_00]: I wanna say it's mainly a Wonderkin that does this."
+    },
+    {
+      "start": 902.41,
+      "end": 903.99,
+      "text": "[SPEAKER_00]: I would try to figure out how to mitigate that."
+    },
+    {
+      "start": 904.07,
+      "end": 905.21,
+      "text": "[SPEAKER_00]: It can become an issue"
+    },
+    {
+      "start": 905.21,
+      "end": 907.51,
+      "text": "[SPEAKER_00]: and especially if you have older customers"
+    },
+    {
+      "start": 907.51,
+      "end": 908.69,
+      "text": "[SPEAKER_00]: who don't remember doing that,"
+    },
+    {
+      "start": 908.71,
+      "end": 911.43,
+      "text": "[SPEAKER_00]: but they're getting frustrated by trying to put that in."
+    },
+    {
+      "start": 911.65,
+      "end": 913.37,
+      "text": "[SPEAKER_00]: They might file a customer service ticket."
+    },
+    {
+      "start": 914.53,
+      "end": 916.81,
+      "text": "[SPEAKER_00]: So try to fix that before you go into the holidays."
+    },
+    {
+      "start": 918.07,
+      "end": 921.07,
+      "text": "[SPEAKER_00]: Number 10, make sure that everything you do"
+    },
+    {
+      "start": 921.07,
+      "end": 922.49,
+      "text": "[SPEAKER_00]: is fully ADA compliant."
+    },
+    {
+      "start": 923.19,
+      "end": 925.13,
+      "text": "[SPEAKER_00]: Essentially in short that just means to make sure"
+    },
+    {
+      "start": 925.13,
+      "end": 926.75,
+      "text": "[SPEAKER_00]: that your site is accessible to anybody."
+    },
+    {
+      "start": 927.19,
+      "end": 929.13,
+      "text": "[SPEAKER_00]: Make sure your fonts are appropriate size"
+    },
+    {
+      "start": 929.13,
+      "end": 931.83,
+      "text": "[SPEAKER_00]: and that you don't have white font on a white background."
+    },
+    {
+      "start": 932.45,
+      "end": 937.21,
+      "text": "[SPEAKER_00]: You can run these ADA checks with different software"
+    },
+    {
+      "start": 937.21,
+      "end": 938.47,
+      "text": "[SPEAKER_00]: or services online,"
+    },
+    {
+      "start": 938.89,
+      "end": 941.91,
+      "text": "[SPEAKER_00]: but I will tell you from firsthand experience"
+    },
+    {
+      "start": 941.91,
+      "end": 944.57,
+      "text": "[SPEAKER_00]: getting these ADA lawsuits is not worth it."
+    },
+    {
+      "start": 945.95,
+      "end": 949.35,
+      "text": "[SPEAKER_00]: There's really no regulatory rules around this."
+    },
+    {
+      "start": 949.37,
+      "end": 950.45,
+      "text": "[SPEAKER_00]: It's kind of a free game."
+    },
+    {
+      "start": 950.45,
+      "end": 956.09,
+      "text": "[SPEAKER_00]: And so that means that somebody could go to an eye doctor."
+    },
+    {
+      "start": 956.31,
+      "end": 958.11,
+      "text": "[SPEAKER_00]: Let's say they go to Warby Parker to get an eye test."
+    },
+    {
+      "start": 958.49,
+      "end": 960.19,
+      "text": "[SPEAKER_00]: They can purposely not read the third line."
+    },
+    {
+      "start": 960.65,
+      "end": 962.17,
+      "text": "[SPEAKER_00]: Now they're considered legally blind."
+    },
+    {
+      "start": 962.59,
+      "end": 964.51,
+      "text": "[SPEAKER_00]: Then they go find an attorney who's a loser"
+    },
+    {
+      "start": 964.51,
+      "end": 967.07,
+      "text": "[SPEAKER_00]: and they say, hey, let's go blast 75 companies"
+    },
+    {
+      "start": 967.07,
+      "end": 968.61,
+      "text": "[SPEAKER_00]: and claim that I'm legally blind"
+    },
+    {
+      "start": 968.61,
+      "end": 971.71,
+      "text": "[SPEAKER_00]: and their website makes it hard for me"
+    },
+    {
+      "start": 972.31,
+      "end": 975.33,
+      "text": "[SPEAKER_00]: to live my life and enjoy a shopping experience."
+    },
+    {
+      "start": 976.31,
+      "end": 978.15,
+      "text": "[SPEAKER_00]: And so then they send out these lawsuits"
+    },
+    {
+      "start": 978.15,
+      "end": 981.79,
+      "text": "[SPEAKER_00]: and they wait for you to basically just tell them"
+    },
+    {
+      "start": 981.79,
+      "end": 982.85,
+      "text": "[SPEAKER_00]: you're gonna pay them 10 grand"
+    },
+    {
+      "start": 982.85,
+      "end": 986.29,
+      "text": "[SPEAKER_00]: because that's cheaper than hiring a team of lawyers"
+    },
+    {
+      "start": 986.29,
+      "end": 988.89,
+      "text": "[SPEAKER_00]: and to go file an appeal or whatever."
+    },
+    {
+      "start": 989.03,
+      "end": 990.47,
+      "text": "[SPEAKER_00]: I don't even know what the process looks like,"
+    },
+    {
+      "start": 990.47,
+      "end": 993.79,
+      "text": "[SPEAKER_00]: but I know that it's gonna be at least 25 to 35 grand"
+    },
+    {
+      "start": 993.79,
+      "end": 995.45,
+      "text": "[SPEAKER_00]: just to get that process started."
+    },
+    {
+      "start": 995.87,
+      "end": 999.07,
+      "text": "[SPEAKER_00]: So these guys are just looking for a payout."
+    },
+    {
+      "start": 999.07,
+      "end": 1000.85,
+      "text": "[SPEAKER_00]: They're looking for 10 grand, five grand."
+    },
+    {
+      "start": 1001.55,
+      "end": 1003.45,
+      "text": "[SPEAKER_00]: So make sure that everything on your site"
+    },
+    {
+      "start": 1003.45,
+      "end": 1004.27,
+      "text": "[SPEAKER_00]: is ADA compliant."
+    },
+    {
+      "start": 1004.31,
+      "end": 1005.45,
+      "text": "[SPEAKER_00]: You wanna lessen your chances"
+    },
+    {
+      "start": 1005.45,
+      "end": 1007.27,
+      "text": "[SPEAKER_00]: of that even getting to you."
+    },
+    {
+      "start": 1008.21,
+      "end": 1011.63,
+      "text": "[SPEAKER_00]: We've even recently gotten one where they claimed"
+    },
+    {
+      "start": 1011.63,
+      "end": 1014.09,
+      "text": "[SPEAKER_00]: that our client was conspiring with meta"
+    },
+    {
+      "start": 1014.09,
+      "end": 1017.67,
+      "text": "[SPEAKER_00]: to track and invade the privacy of a random site visitor"
+    },
+    {
+      "start": 1017.67,
+      "end": 1019.73,
+      "text": "[SPEAKER_00]: just because the Facebook pixel was there."
+    },
+    {
+      "start": 1021.29,
+      "end": 1023.15,
+      "text": "[SPEAKER_00]: So highly recommend, do everything you can"
+    },
+    {
+      "start": 1023.15,
+      "end": 1024.27,
+      "text": "[SPEAKER_00]: to make sure you're fully compliant."
+    },
+    {
+      "start": 1024.81,
+      "end": 1025.91,
+      "text": "[SPEAKER_00]: If you don't have to deal with these,"
+    },
+    {
+      "start": 1025.91,
+      "end": 1027.99,
+      "text": "[SPEAKER_00]: it's even better if you do have to deal with these."
+    },
+    {
+      "start": 1028.81,
+      "end": 1029.85,
+      "text": "[SPEAKER_00]: There's actually a guy you should use."
+    },
+    {
+      "start": 1029.89,
+      "end": 1030.77,
+      "text": "[SPEAKER_00]: His name is Nick Poojee."
+    },
+    {
+      "start": 1030.89,
+      "end": 1033.97,
+      "text": "[SPEAKER_00]: It's not me, but he's a really good digital"
+    },
+    {
+      "start": 1033.97,
+      "end": 1036.47,
+      "text": "[SPEAKER_00]: website, ADA, privacy lawyer"
+    },
+    {
+      "start": 1036.47,
+      "end": 1038.11,
+      "text": "[SPEAKER_00]: that's helped a lot of our clients."
+    },
+    {
+      "start": 1039.45,
+      "end": 1042.41,
+      "text": "[SPEAKER_00]: Okay, number 11, simplify your checkout experience."
+    },
+    {
+      "start": 1042.61,
+      "end": 1044.97,
+      "text": "[SPEAKER_00]: A customer should really never have to make"
+    },
+    {
+      "start": 1044.97,
+      "end": 1047.11,
+      "text": "[SPEAKER_00]: more than two to three clicks"
+    },
+    {
+      "start": 1047.11,
+      "end": 1050.99,
+      "text": "[SPEAKER_00]: to go from what they wanna buy to check out."
+    },
+    {
+      "start": 1051.17,
+      "end": 1054.43,
+      "text": "[SPEAKER_00]: If you've got the one page checkout in Shopify,"
+    },
+    {
+      "start": 1054.77,
+      "end": 1056.79,
+      "text": "[SPEAKER_00]: you're pretty much set from that standpoint."
+    },
+    {
+      "start": 1057.27,
+      "end": 1058.55,
+      "text": "[SPEAKER_00]: But really this also means"
+    },
+    {
+      "start": 1058.55,
+      "end": 1061.19,
+      "text": "[SPEAKER_00]: don't have your product page half,"
+    },
+    {
+      "start": 1061.43,
+      "end": 1063.17,
+      "text": "[SPEAKER_00]: or actually let's start on the collections page."
+    },
+    {
+      "start": 1063.17,
+      "end": 1064.69,
+      "text": "[SPEAKER_00]: Let's say you've got a collections page"
+    },
+    {
+      "start": 1064.69,
+      "end": 1067.09,
+      "text": "[SPEAKER_00]: and you've got low AOV products."
+    },
+    {
+      "start": 1068.29,
+      "end": 1071.09,
+      "text": "[SPEAKER_00]: Let's say you're selling electrolyte powder like Solude."
+    },
+    {
+      "start": 1071.87,
+      "end": 1074.01,
+      "text": "[SPEAKER_00]: If I'm adding the product from the collections page,"
+    },
+    {
+      "start": 1074.49,
+      "end": 1075.87,
+      "text": "[SPEAKER_00]: I should be able to just add it to cart"
+    },
+    {
+      "start": 1075.87,
+      "end": 1077.83,
+      "text": "[SPEAKER_00]: and immediately keep adding other stuff"
+    },
+    {
+      "start": 1077.83,
+      "end": 1080.93,
+      "text": "[SPEAKER_00]: because that shows behavior of an existing customer"
+    },
+    {
+      "start": 1080.93,
+      "end": 1082.91,
+      "text": "[SPEAKER_00]: who's just ready to buy in higher quantity."
+    },
+    {
+      "start": 1083.33,
+      "end": 1085.71,
+      "text": "[SPEAKER_00]: Once I end up adding stuff to my cart,"
+    },
+    {
+      "start": 1086.13,
+      "end": 1087.71,
+      "text": "[SPEAKER_00]: it should be a slide out cart"
+    },
+    {
+      "start": 1087.71,
+      "end": 1089.79,
+      "text": "[SPEAKER_00]: and just lets me go right back to the collections page."
+    },
+    {
+      "start": 1090.05,
+      "end": 1092.27,
+      "text": "[SPEAKER_00]: It shouldn't take me to a separate cart page"
+    },
+    {
+      "start": 1092.27,
+      "end": 1094.77,
+      "text": "[SPEAKER_00]: where I have to now go back to the collections page"
+    },
+    {
+      "start": 1094.77,
+      "end": 1095.83,
+      "text": "[SPEAKER_00]: to add the other products."
+    },
+    {
+      "start": 1096.53,
+      "end": 1097.35,
+      "text": "[SPEAKER_00]: That's example one."
+    },
+    {
+      "start": 1097.51,
+      "end": 1100.19,
+      "text": "[SPEAKER_00]: Example two is you don't wanna get to a product page,"
+    },
+    {
+      "start": 1100.69,
+      "end": 1102.65,
+      "text": "[SPEAKER_00]: add a product and get taken to a separate cart"
+    },
+    {
+      "start": 1102.65,
+      "end": 1104.09,
+      "text": "[SPEAKER_00]: and then have to click checkout."
+    },
+    {
+      "start": 1104.35,
+      "end": 1106.39,
+      "text": "[SPEAKER_00]: Everything that you do should just use a slide out cart."
+    },
+    {
+      "start": 1106.45,
+      "end": 1108.29,
+      "text": "[SPEAKER_00]: There's no reason you shouldn't be using a slide out cart."
+    },
+    {
+      "start": 1108.65,
+      "end": 1111.11,
+      "text": "[SPEAKER_00]: A lot of Salesforce websites can't"
+    },
+    {
+      "start": 1111.11,
+      "end": 1112.57,
+      "text": "[SPEAKER_00]: and that's a huge limitation"
+    },
+    {
+      "start": 1112.57,
+      "end": 1114.45,
+      "text": "[SPEAKER_00]: or a reason to get off of Salesforce."
+    },
+    {
+      "start": 1115.47,
+      "end": 1117.41,
+      "text": "[SPEAKER_00]: But you wanna try to use a slide out cart"
+    },
+    {
+      "start": 1117.41,
+      "end": 1119.09,
+      "text": "[SPEAKER_00]: because it just makes everything faster."
+    },
+    {
+      "start": 1120.09,
+      "end": 1122.47,
+      "text": "[SPEAKER_00]: You will also see that if you have that,"
+    },
+    {
+      "start": 1122.81,
+      "end": 1125.13,
+      "text": "[SPEAKER_00]: if you have a lower AOV and you have a bunch of SKUs,"
+    },
+    {
+      "start": 1125.23,
+      "end": 1127.89,
+      "text": "[SPEAKER_00]: you'll see that you get a higher UPT,"
+    },
+    {
+      "start": 1127.99,
+      "end": 1131.19,
+      "text": "[SPEAKER_00]: units per transaction or items in somebody's cart"
+    },
+    {
+      "start": 1131.19,
+      "end": 1131.95,
+      "text": "[SPEAKER_00]: as they're checking out"
+    },
+    {
+      "start": 1131.95,
+      "end": 1133.37,
+      "text": "[SPEAKER_00]: because they're just able to do it."
+    },
+    {
+      "start": 1134.11,
+      "end": 1135.19,
+      "text": "[SPEAKER_00]: Site speed is also,"
+    },
+    {
+      "start": 1135.89,
+      "end": 1138.37,
+      "text": "[SPEAKER_00]: this is we could call this 11.5."
+    },
+    {
+      "start": 1138.57,
+      "end": 1140.85,
+      "text": "[SPEAKER_00]: Site speed's another huge one that impacts this."
+    },
+    {
+      "start": 1141.11,
+      "end": 1143.29,
+      "text": "[SPEAKER_00]: So if you think about adding multiple SKUs"
+    },
+    {
+      "start": 1143.29,
+      "end": 1144.61,
+      "text": "[SPEAKER_00]: from a collections page,"
+    },
+    {
+      "start": 1144.93,
+      "end": 1146.73,
+      "text": "[SPEAKER_00]: site speed has actually shown"
+    },
+    {
+      "start": 1146.73,
+      "end": 1148.47,
+      "text": "[SPEAKER_00]: from brands we've worked with"
+    },
+    {
+      "start": 1148.47,
+      "end": 1151.83,
+      "text": "[SPEAKER_00]: that you actually get a higher AOV and UPT"
+    },
+    {
+      "start": 1151.83,
+      "end": 1155.01,
+      "text": "[SPEAKER_00]: because customers are a lot more just inclined"
+    },
+    {
+      "start": 1155.01,
+      "end": 1158.37,
+      "text": "[SPEAKER_00]: to keep adding stuff when it's quick and easy"
+    },
+    {
+      "start": 1158.37,
+      "end": 1159.99,
+      "text": "[SPEAKER_00]: and it's fast, it doesn't slow it down."
+    },
+    {
+      "start": 1160.73,
+      "end": 1162.37,
+      "text": "[SPEAKER_00]: Okay, number 12."
+    },
+    {
+      "start": 1162.91,
+      "end": 1165.53,
+      "text": "[SPEAKER_00]: Put your very best offer at the top of the page."
+    },
+    {
+      "start": 1165.87,
+      "end": 1167.77,
+      "text": "[SPEAKER_00]: This could be in the banner bar."
+    },
+    {
+      "start": 1167.87,
+      "end": 1169.05,
+      "text": "[SPEAKER_00]: This could be the first bundle"
+    },
+    {
+      "start": 1169.05,
+      "end": 1170.57,
+      "text": "[SPEAKER_00]: that you show on a collections page."
+    },
+    {
+      "start": 1170.83,
+      "end": 1173.15,
+      "text": "[SPEAKER_00]: This could be the hero module in your homepage."
+    },
+    {
+      "start": 1173.65,
+      "end": 1175.65,
+      "text": "[SPEAKER_00]: This could be the pop-up that tells you"
+    },
+    {
+      "start": 1175.65,
+      "end": 1178.13,
+      "text": "[SPEAKER_00]: what the offer is and also tries to collect your email."
+    },
+    {
+      "start": 1178.53,
+      "end": 1179.39,
+      "text": "[SPEAKER_00]: But you wanna make sure"
+    },
+    {
+      "start": 1179.39,
+      "end": 1181.29,
+      "text": "[SPEAKER_00]: that your best offer is at the very top."
+    },
+    {
+      "start": 1181.33,
+      "end": 1184.57,
+      "text": "[SPEAKER_00]: You're not lying if the first thing below that"
+    },
+    {
+      "start": 1184.57,
+      "end": 1185.55,
+      "text": "[SPEAKER_00]: is not the best offer"
+    },
+    {
+      "start": 1185.55,
+      "end": 1187.25,
+      "text": "[SPEAKER_00]: because the best offer's still on the page."
+    },
+    {
+      "start": 1188.23,
+      "end": 1190.25,
+      "text": "[SPEAKER_00]: So figure out what your best offer is,"
+    },
+    {
+      "start": 1190.27,
+      "end": 1192.27,
+      "text": "[SPEAKER_00]: put it at the top, make it the loudest thing."
+    },
+    {
+      "start": 1192.55,
+      "end": 1194.43,
+      "text": "[SPEAKER_00]: When in your ads, call out those savings."
+    },
+    {
+      "start": 1194.67,
+      "end": 1195.17,
+      "text": "[SPEAKER_00]: I mean, you probably,"
+    },
+    {
+      "start": 1195.47,
+      "end": 1198.07,
+      "text": "[SPEAKER_00]: I don't know if anybody saw the Apple keynote,"
+    },
+    {
+      "start": 1198.17,
+      "end": 1199.29,
+      "text": "[SPEAKER_00]: but when they were talking about"
+    },
+    {
+      "start": 1199.29,
+      "end": 1202.05,
+      "text": "[SPEAKER_00]: your iPhone trade-in value up to $800, right?"
+    },
+    {
+      "start": 1202.05,
+      "end": 1205.65,
+      "text": "[SPEAKER_00]: To buy a base model iPhone 16 for,"
+    },
+    {
+      "start": 1205.65,
+      "end": 1206.83,
+      "text": "[SPEAKER_00]: I think it was 800 bucks."
+    },
+    {
+      "start": 1207.17,
+      "end": 1207.69,
+      "text": "[SPEAKER_00]: And they're like,"
+    },
+    {
+      "start": 1207.69,
+      "end": 1209.81,
+      "text": "[SPEAKER_00]: you can trade in an iPhone up to $800."
+    },
+    {
+      "start": 1210.21,
+      "end": 1215.27,
+      "text": "[SPEAKER_00]: Well, the $800 is a one terabyte iPhone 15 Pro Max, right?"
+    },
+    {
+      "start": 1215.27,
+      "end": 1217.09,
+      "text": "[SPEAKER_00]: The percentage of people that have that super small,"
+    },
+    {
+      "start": 1217.39,
+      "end": 1218.83,
+      "text": "[SPEAKER_00]: but you can see similarly"
+    },
+    {
+      "start": 1218.83,
+      "end": 1220.45,
+      "text": "[SPEAKER_00]: how they're pushing the best offer."
+    },
+    {
+      "start": 1220.61,
+      "end": 1222.77,
+      "text": "[SPEAKER_00]: And that's what you should do on your site as well."
+    },
+    {
+      "start": 1223.39,
+      "end": 1225.91,
+      "text": "[SPEAKER_00]: Number 13, always have a comparison chart."
+    },
+    {
+      "start": 1226.11,
+      "end": 1228.95,
+      "text": "[SPEAKER_00]: I have never seen a comparison chart on a site"
+    },
+    {
+      "start": 1228.95,
+      "end": 1230.65,
+      "text": "[SPEAKER_00]: that didn't make me feel more educated"
+    },
+    {
+      "start": 1230.65,
+      "end": 1232.19,
+      "text": "[SPEAKER_00]: about the purchase after seeing it."
+    },
+    {
+      "start": 1232.93,
+      "end": 1235.37,
+      "text": "[SPEAKER_00]: You, a comparison chart can be done in a few ways."
+    },
+    {
+      "start": 1235.55,
+      "end": 1237.55,
+      "text": "[SPEAKER_00]: You can either compare yourself to competitors,"
+    },
+    {
+      "start": 1238.05,
+      "end": 1240.03,
+      "text": "[SPEAKER_00]: which a lot of brands do."
+    },
+    {
+      "start": 1241.03,
+      "end": 1242.73,
+      "text": "[SPEAKER_00]: It's not my first preference"
+    },
+    {
+      "start": 1242.73,
+      "end": 1246.43,
+      "text": "[SPEAKER_00]: because I think it makes you like,"
+    },
+    {
+      "start": 1246.55,
+      "end": 1248.29,
+      "text": "[SPEAKER_00]: for example, if I saw a comparison chart"
+    },
+    {
+      "start": 1248.29,
+      "end": 1249.95,
+      "text": "[SPEAKER_00]: and it was Starbucks,"
+    },
+    {
+      "start": 1250.03,
+      "end": 1251.99,
+      "text": "[SPEAKER_00]: but then it was Coffee Bean"
+    },
+    {
+      "start": 1251.99,
+      "end": 1254.97,
+      "text": "[SPEAKER_00]: and Blank Street and Pete's Coffee, right?"
+    },
+    {
+      "start": 1255.17,
+      "end": 1258.29,
+      "text": "[SPEAKER_00]: That would actually make me want to go to those brands"
+    },
+    {
+      "start": 1258.29,
+      "end": 1260.79,
+      "text": "[SPEAKER_00]: and actually validate if that's true."
+    },
+    {
+      "start": 1261.33,
+      "end": 1263.21,
+      "text": "[SPEAKER_00]: Like are the claims that Starbucks put in there"
+    },
+    {
+      "start": 1263.21,
+      "end": 1264.61,
+      "text": "[SPEAKER_00]: comparison chart, is that even true?"
+    },
+    {
+      "start": 1265.39,
+      "end": 1268.01,
+      "text": "[SPEAKER_00]: And so for that reason, I'm not a huge fan of that."
+    },
+    {
+      "start": 1268.21,
+      "end": 1270.37,
+      "text": "[SPEAKER_00]: I think instead you can have Starbucks,"
+    },
+    {
+      "start": 1270.99,
+      "end": 1274.09,
+      "text": "[SPEAKER_00]: you could have, you know, convenience store roast,"
+    },
+    {
+      "start": 1274.19,
+      "end": 1276.89,
+      "text": "[SPEAKER_00]: you could have other coffee shops, you know,"
+    },
+    {
+      "start": 1276.89,
+      "end": 1281.21,
+      "text": "[SPEAKER_00]: like you could create these comparison columns"
+    },
+    {
+      "start": 1281.73,
+      "end": 1284.17,
+      "text": "[SPEAKER_00]: or columns where you're checking the boxes and whatnot,"
+    },
+    {
+      "start": 1284.19,
+      "end": 1286.13,
+      "text": "[SPEAKER_00]: but you don't have to name the brand."
+    },
+    {
+      "start": 1286.13,
+      "end": 1288.35,
+      "text": "[SPEAKER_00]: And I think that helps keep people on your page."
+    },
+    {
+      "start": 1288.71,
+      "end": 1293.11,
+      "text": "[SPEAKER_00]: The other way you can do it is you have coffee versus,"
+    },
+    {
+      "start": 1293.11,
+      "end": 1297.21,
+      "text": "[SPEAKER_00]: you know, energy drinks or matcha or, you know,"
+    },
+    {
+      "start": 1297.37,
+      "end": 1298.63,
+      "text": "[SPEAKER_00]: plain water, whatever it is,"
+    },
+    {
+      "start": 1298.85,
+      "end": 1300.67,
+      "text": "[SPEAKER_00]: but you can create these comparison charts"
+    },
+    {
+      "start": 1300.67,
+      "end": 1303.17,
+      "text": "[SPEAKER_00]: in ways that help your customer understand"
+    },
+    {
+      "start": 1303.81,
+      "end": 1305.81,
+      "text": "[SPEAKER_00]: or do it in a way where you know"
+    },
+    {
+      "start": 1305.81,
+      "end": 1308.55,
+      "text": "[SPEAKER_00]: what your customer's point of reference is."
+    },
+    {
+      "start": 1308.65,
+      "end": 1310.25,
+      "text": "[SPEAKER_00]: So what is the best point of reference"
+    },
+    {
+      "start": 1310.25,
+      "end": 1311.55,
+      "text": "[SPEAKER_00]: a customer might have?"
+    },
+    {
+      "start": 1311.85,
+      "end": 1313.21,
+      "text": "[SPEAKER_00]: And then how do you use that?"
+    },
+    {
+      "start": 1313.61,
+      "end": 1316.25,
+      "text": "[SPEAKER_00]: When we, you know, a few years ago,"
+    },
+    {
+      "start": 1316.37,
+      "end": 1319.65,
+      "text": "[SPEAKER_00]: when I worked with this matcha brand called Chacha Matcha,"
+    },
+    {
+      "start": 1319.91,
+      "end": 1322.57,
+      "text": "[SPEAKER_00]: we actually made a comparison chart between matcha and coffee"
+    },
+    {
+      "start": 1322.57,
+      "end": 1326.19,
+      "text": "[SPEAKER_00]: and it wasn't going into anything too detailed,"
+    },
+    {
+      "start": 1326.19,
+      "end": 1328.19,
+      "text": "[SPEAKER_00]: but it was actually more of a fun comparison chart."
+    },
+    {
+      "start": 1328.31,
+      "end": 1329.79,
+      "text": "[SPEAKER_00]: It was, you know, talking about jitters"
+    },
+    {
+      "start": 1329.79,
+      "end": 1332.35,
+      "text": "[SPEAKER_00]: and how fresh it is and what the taste is like"
+    },
+    {
+      "start": 1332.35,
+      "end": 1334.51,
+      "text": "[SPEAKER_00]: and does it make you go to the bathroom?"
+    },
+    {
+      "start": 1335.01,
+      "end": 1337.61,
+      "text": "[SPEAKER_00]: And so there's ways to make comparison charts fun,"
+    },
+    {
+      "start": 1337.61,
+      "end": 1340.55,
+      "text": "[SPEAKER_00]: but I highly recommend having a comparison chart"
+    },
+    {
+      "start": 1341.47,
+      "end": 1343.65,
+      "text": "[SPEAKER_00]: because otherwise people are gonna go out elsewhere"
+    },
+    {
+      "start": 1343.65,
+      "end": 1345.35,
+      "text": "[SPEAKER_00]: and Google that information, right?"
+    },
+    {
+      "start": 1345.51,
+      "end": 1348.39,
+      "text": "[SPEAKER_00]: The thing is, is like, if you don't have this information"
+    },
+    {
+      "start": 1348.39,
+      "end": 1351.05,
+      "text": "[SPEAKER_00]: on the page that you're pushing people to,"
+    },
+    {
+      "start": 1351.35,
+      "end": 1353.15,
+      "text": "[SPEAKER_00]: they're gonna go find that information on their own."
+    },
+    {
+      "start": 1353.49,
+      "end": 1355.85,
+      "text": "[SPEAKER_00]: And every time you open the opportunity for somebody"
+    },
+    {
+      "start": 1355.85,
+      "end": 1357.93,
+      "text": "[SPEAKER_00]: to leave and go figure out something on their own,"
+    },
+    {
+      "start": 1358.23,
+      "end": 1360.63,
+      "text": "[SPEAKER_00]: you open the window for them to go buy your competitor."
+    },
+    {
+      "start": 1362.01,
+      "end": 1363.13,
+      "text": "[SPEAKER_00]: Marketing measurement is hard"
+    },
+    {
+      "start": 1363.13,
+      "end": 1365.81,
+      "text": "[SPEAKER_00]: and honestly it's just getting worse day by day."
+    },
+    {
+      "start": 1366.13,
+      "end": 1367.95,
+      "text": "[SPEAKER_00]: Reported conversions are often double counted"
+    },
+    {
+      "start": 1367.95,
+      "end": 1370.11,
+      "text": "[SPEAKER_00]: across platforms and click-based attribution"
+    },
+    {
+      "start": 1370.11,
+      "end": 1372.45,
+      "text": "[SPEAKER_00]: is misleading and oftentimes incomplete."
+    },
+    {
+      "start": 1373.11,
+      "end": 1375.53,
+      "text": "[SPEAKER_00]: Today, sophisticated marketers are moving away"
+    },
+    {
+      "start": 1375.53,
+      "end": 1378.13,
+      "text": "[SPEAKER_00]: from attribution and more towards incrementality"
+    },
+    {
+      "start": 1378.13,
+      "end": 1379.97,
+      "text": "[SPEAKER_00]: in order to maximize growth and efficiency."
+    },
+    {
+      "start": 1380.43,
+      "end": 1381.77,
+      "text": "[SPEAKER_00]: This is where House comes in."
+    },
+    {
+      "start": 1382.27,
+      "end": 1385.21,
+      "text": "[SPEAKER_00]: House is a fully self-service experimentation platform"
+    },
+    {
+      "start": 1385.21,
+      "end": 1387.37,
+      "text": "[SPEAKER_00]: that allows you to configure regional test"
+    },
+    {
+      "start": 1387.37,
+      "end": 1389.87,
+      "text": "[SPEAKER_00]: and control experiments to measure incrementality"
+    },
+    {
+      "start": 1389.87,
+      "end": 1392.05,
+      "text": "[SPEAKER_00]: and identify points of diminishing returns."
+    },
+    {
+      "start": 1392.69,
+      "end": 1394.89,
+      "text": "[SPEAKER_00]: Brands like Caraway, Jones Road Beauty,"
+    },
+    {
+      "start": 1395.21,
+      "end": 1397.67,
+      "text": "[SPEAKER_00]: Ritual and Hexclad, they all use House"
+    },
+    {
+      "start": 1397.67,
+      "end": 1399.35,
+      "text": "[SPEAKER_00]: and it helps them save millions of dollars"
+    },
+    {
+      "start": 1399.35,
+      "end": 1400.57,
+      "text": "[SPEAKER_00]: because they can quickly identify"
+    },
+    {
+      "start": 1400.57,
+      "end": 1403.19,
+      "text": "[SPEAKER_00]: what is actually driving incremental sales"
+    },
+    {
+      "start": 1403.19,
+      "end": 1405.75,
+      "text": "[SPEAKER_00]: versus just what's over reporting sales."
+    },
+    {
+      "start": 1406.25,
+      "end": 1408.07,
+      "text": "[SPEAKER_00]: These types of tests are super hard to set up"
+    },
+    {
+      "start": 1408.07,
+      "end": 1409.55,
+      "text": "[SPEAKER_00]: and can be really tricky to get right."
+    },
+    {
+      "start": 1409.63,
+      "end": 1411.85,
+      "text": "[SPEAKER_00]: That's why my favorite solution for this is House."
+    },
+    {
+      "start": 1412.37,
+      "end": 1413.87,
+      "text": "[SPEAKER_00]: They have cutting edge technology,"
+    },
+    {
+      "start": 1414.31,
+      "end": 1416.69,
+      "text": "[SPEAKER_00]: they have PhD economists and data scientists"
+    },
+    {
+      "start": 1416.69,
+      "end": 1418.41,
+      "text": "[SPEAKER_00]: who have built these solutions before"
+    },
+    {
+      "start": 1418.41,
+      "end": 1420.31,
+      "text": "[SPEAKER_00]: at companies like Amazon and Google."
+    },
+    {
+      "start": 1420.75,
+      "end": 1421.99,
+      "text": "[SPEAKER_00]: The platform allows you to test"
+    },
+    {
+      "start": 1421.99,
+      "end": 1424.73,
+      "text": "[SPEAKER_00]: all your marketing channels both online and offline."
+    },
+    {
+      "start": 1425.11,
+      "end": 1427.57,
+      "text": "[SPEAKER_00]: It allows you to measure the impact across these channels"
+    },
+    {
+      "start": 1427.57,
+      "end": 1429.49,
+      "text": "[SPEAKER_00]: whether it's DTC, retail or Amazon."
+    },
+    {
+      "start": 1429.77,
+      "end": 1432.23,
+      "text": "[SPEAKER_00]: And honestly you can really just upload your sales reports"
+    },
+    {
+      "start": 1432.23,
+      "end": 1433.31,
+      "text": "[SPEAKER_00]: from your retail stores"
+    },
+    {
+      "start": 1433.31,
+      "end": 1434.87,
+      "text": "[SPEAKER_00]: and it runs all the numbers for you."
+    },
+    {
+      "start": 1435.35,
+      "end": 1437.83,
+      "text": "[SPEAKER_00]: And it allows you to calibrate your platform reporting"
+    },
+    {
+      "start": 1437.83,
+      "end": 1439.45,
+      "text": "[SPEAKER_00]: for incrementality using House."
+    },
+    {
+      "start": 1440.05,
+      "end": 1442.13,
+      "text": "[SPEAKER_00]: With House you can finally answer questions like,"
+    },
+    {
+      "start": 1442.43,
+      "end": 1444.23,
+      "text": "[SPEAKER_00]: what is the ideal spend volume in this channel?"
+    },
+    {
+      "start": 1444.33,
+      "end": 1446.19,
+      "text": "[SPEAKER_00]: Or what is the right mix of upper"
+    },
+    {
+      "start": 1446.19,
+      "end": 1447.13,
+      "text": "[SPEAKER_00]: and lower funnel media?"
+    },
+    {
+      "start": 1448.03,
+      "end": 1450.41,
+      "text": "[SPEAKER_00]: Finally, add scientific rigor to your marketing"
+    },
+    {
+      "start": 1450.41,
+      "end": 1452.57,
+      "text": "[SPEAKER_00]: and make the most impact with your spend."
+    },
+    {
+      "start": 1452.91,
+      "end": 1455.69,
+      "text": "[SPEAKER_00]: To learn more go to house.io slash limited,"
+    },
+    {
+      "start": 1455.69,
+      "end": 1459.97,
+      "text": "[SPEAKER_00]: that's H-A-U-S dot I-O slash limited to get started."
+    },
+    {
+      "start": 1462.63,
+      "end": 1465.51,
+      "text": "[SPEAKER_00]: Number 14, you gotta elevate your site design."
+    },
+    {
+      "start": 1465.69,
+      "end": 1467.11,
+      "text": "[SPEAKER_00]: If your site does not look beautiful,"
+    },
+    {
+      "start": 1467.15,
+      "end": 1468.51,
+      "text": "[SPEAKER_00]: your product page, your landing page,"
+    },
+    {
+      "start": 1468.57,
+      "end": 1470.01,
+      "text": "[SPEAKER_00]: your homepage, your collections page,"
+    },
+    {
+      "start": 1470.27,
+      "end": 1471.47,
+      "text": "[SPEAKER_00]: then you're not building trust"
+    },
+    {
+      "start": 1471.47,
+      "end": 1473.63,
+      "text": "[SPEAKER_00]: and why spend money driving to a site"
+    },
+    {
+      "start": 1473.63,
+      "end": 1474.49,
+      "text": "[SPEAKER_00]: that has poor design?"
+    },
+    {
+      "start": 1474.85,
+      "end": 1476.77,
+      "text": "[SPEAKER_00]: These are first impressions that truly matter"
+    },
+    {
+      "start": 1476.77,
+      "end": 1479.71,
+      "text": "[SPEAKER_00]: and the way I think about it is elevated design"
+    },
+    {
+      "start": 1479.71,
+      "end": 1483.01,
+      "text": "[SPEAKER_00]: equals trust which equals conversion rate,"
+    },
+    {
+      "start": 1483.21,
+      "end": 1484.11,
+      "text": "[SPEAKER_00]: better conversion rate."
+    },
+    {
+      "start": 1484.11,
+      "end": 1488.11,
+      "text": "[SPEAKER_00]: So by the transitive law, if A equals B and B equals C,"
+    },
+    {
+      "start": 1488.19,
+      "end": 1491.15,
+      "text": "[SPEAKER_00]: then A equals C, that means that elevating your design"
+    },
+    {
+      "start": 1491.15,
+      "end": 1493.05,
+      "text": "[SPEAKER_00]: directly correlates to conversion rate."
+    },
+    {
+      "start": 1494.17,
+      "end": 1497.19,
+      "text": "[SPEAKER_00]: Number 15, always add shipping information"
+    },
+    {
+      "start": 1497.19,
+      "end": 1498.29,
+      "text": "[SPEAKER_00]: and make it very clear."
+    },
+    {
+      "start": 1498.39,
+      "end": 1499.61,
+      "text": "[SPEAKER_00]: You need to answer the questions,"
+    },
+    {
+      "start": 1500.03,
+      "end": 1502.01,
+      "text": "[SPEAKER_00]: if I buy today, does this ship today?"
+    },
+    {
+      "start": 1502.41,
+      "end": 1503.69,
+      "text": "[SPEAKER_00]: And if I buy today,"
+    },
+    {
+      "start": 1503.75,
+      "end": 1505.43,
+      "text": "[SPEAKER_00]: when does a product likely arrive at my door?"
+    },
+    {
+      "start": 1506.19,
+      "end": 1508.33,
+      "text": "[SPEAKER_00]: You can obviously you should have this information"
+    },
+    {
+      "start": 1508.33,
+      "end": 1511.99,
+      "text": "[SPEAKER_00]: in your shipping rules that you name in Shopify"
+    },
+    {
+      "start": 1512.55,
+      "end": 1515.43,
+      "text": "[SPEAKER_00]: and honestly, the way that I like to do shipping rules"
+    },
+    {
+      "start": 1515.43,
+      "end": 1519.23,
+      "text": "[SPEAKER_00]: is even say, instead of just like a standard shipping"
+    },
+    {
+      "start": 1519.23,
+      "end": 1523.47,
+      "text": "[SPEAKER_00]: three to five days, I would say easy breezy shipping"
+    },
+    {
+      "start": 1523.47,
+      "end": 1526.05,
+      "text": "[SPEAKER_00]: in parentheses ships within 24 hours"
+    },
+    {
+      "start": 1526.57,
+      "end": 1529.79,
+      "text": "[SPEAKER_00]: and then maybe a dash arrives within three to five days."
+    },
+    {
+      "start": 1530.91,
+      "end": 1532.13,
+      "text": "[SPEAKER_00]: Just something that again,"
+    },
+    {
+      "start": 1532.17,
+      "end": 1533.05,
+      "text": "[SPEAKER_00]: it's like before you tell them"
+    },
+    {
+      "start": 1533.05,
+      "end": 1534.05,
+      "text": "[SPEAKER_00]: it's coming three to five days,"
+    },
+    {
+      "start": 1534.07,
+      "end": 1536.07,
+      "text": "[SPEAKER_00]: you let them know that it's gonna ship within 24 hours"
+    },
+    {
+      "start": 1536.07,
+      "end": 1537.77,
+      "text": "[SPEAKER_00]: which also gives some sort of peace of mind."
+    },
+    {
+      "start": 1538.41,
+      "end": 1540.23,
+      "text": "[SPEAKER_00]: The other thing is you should add this"
+    },
+    {
+      "start": 1540.23,
+      "end": 1541.07,
+      "text": "[SPEAKER_00]: on your product pages."
+    },
+    {
+      "start": 1541.07,
+      "end": 1543.19,
+      "text": "[SPEAKER_00]: So near wherever the shop section is"
+    },
+    {
+      "start": 1543.19,
+      "end": 1545.67,
+      "text": "[SPEAKER_00]: or the add to cart call to action is,"
+    },
+    {
+      "start": 1546.23,
+      "end": 1549.67,
+      "text": "[SPEAKER_00]: you can easily write ships within 24 hours,"
+    },
+    {
+      "start": 1549.99,
+      "end": 1551.73,
+      "text": "[SPEAKER_00]: arrives within three to five days,"
+    },
+    {
+      "start": 1552.61,
+      "end": 1554.43,
+      "text": "[SPEAKER_00]: ships within 12 hours, whatever it may be."
+    },
+    {
+      "start": 1554.91,
+      "end": 1557.03,
+      "text": "[SPEAKER_00]: I've even seen some brands on their landing pages,"
+    },
+    {
+      "start": 1557.09,
+      "end": 1558.21,
+      "text": "[SPEAKER_00]: they'll put like a blinking,"
+    },
+    {
+      "start": 1558.79,
+      "end": 1560.23,
+      "text": "[SPEAKER_00]: slowly blinking green light,"
+    },
+    {
+      "start": 1560.31,
+      "end": 1563.27,
+      "text": "[SPEAKER_00]: like very slow on and off kind of blinking"
+    },
+    {
+      "start": 1563.63,
+      "end": 1566.89,
+      "text": "[SPEAKER_00]: and it'll just say orders shipping now"
+    },
+    {
+      "start": 1566.89,
+      "end": 1568.89,
+      "text": "[SPEAKER_00]: or order shipping within 12 hours, something like that."
+    },
+    {
+      "start": 1568.89,
+      "end": 1570.37,
+      "text": "[SPEAKER_00]: It just kind of builds that trust"
+    },
+    {
+      "start": 1570.37,
+      "end": 1573.11,
+      "text": "[SPEAKER_00]: and it is one of the main questions people have"
+    },
+    {
+      "start": 1573.11,
+      "end": 1574.95,
+      "text": "[SPEAKER_00]: because these are, to us,"
+    },
+    {
+      "start": 1575.07,
+      "end": 1576.15,
+      "text": "[SPEAKER_00]: these are sites and brands"
+    },
+    {
+      "start": 1576.15,
+      "end": 1578.31,
+      "text": "[SPEAKER_00]: that we all see maybe on a daily basis"
+    },
+    {
+      "start": 1578.31,
+      "end": 1580.59,
+      "text": "[SPEAKER_00]: but to most people who are shopping on Amazon"
+    },
+    {
+      "start": 1580.59,
+      "end": 1582.63,
+      "text": "[SPEAKER_00]: or at Target or at Crate and Barrel,"
+    },
+    {
+      "start": 1582.63,
+      "end": 1583.39,
+      "text": "[SPEAKER_00]: wherever they shop,"
+    },
+    {
+      "start": 1583.91,
+      "end": 1585.95,
+      "text": "[SPEAKER_00]: they're coming to a random company's website"
+    },
+    {
+      "start": 1585.95,
+      "end": 1586.89,
+      "text": "[SPEAKER_00]: and they're not even sure"
+    },
+    {
+      "start": 1586.89,
+      "end": 1588.07,
+      "text": "[SPEAKER_00]: if the product's gonna arrive"
+    },
+    {
+      "start": 1588.07,
+      "end": 1589.55,
+      "text": "[SPEAKER_00]: after they give their credit card."
+    },
+    {
+      "start": 1590.41,
+      "end": 1592.39,
+      "text": "[SPEAKER_00]: So that's another thing you gotta think about"
+    },
+    {
+      "start": 1592.39,
+      "end": 1593.81,
+      "text": "[SPEAKER_00]: from a trust standpoint is,"
+    },
+    {
+      "start": 1593.81,
+      "end": 1595.27,
+      "text": "[SPEAKER_00]: everybody's not even sure"
+    },
+    {
+      "start": 1595.27,
+      "end": 1597.75,
+      "text": "[SPEAKER_00]: if what they're ordering is gonna end up at their door."
+    },
+    {
+      "start": 1598.89,
+      "end": 1600.15,
+      "text": "[SPEAKER_00]: Okay, number 16."
+    },
+    {
+      "start": 1600.47,
+      "end": 1602.55,
+      "text": "[SPEAKER_00]: You gotta tell your customers what's inside the box."
+    },
+    {
+      "start": 1602.77,
+      "end": 1605.61,
+      "text": "[SPEAKER_00]: Better yet, you wanna show them what's inside the box"
+    },
+    {
+      "start": 1605.61,
+      "end": 1608.29,
+      "text": "[SPEAKER_00]: with photos or maybe even a UGC video."
+    },
+    {
+      "start": 1608.59,
+      "end": 1611.67,
+      "text": "[SPEAKER_00]: So if you're doing UGC on your product page,"
+    },
+    {
+      "start": 1611.75,
+      "end": 1612.67,
+      "text": "[SPEAKER_00]: landing page, homepage,"
+    },
+    {
+      "start": 1613.25,
+      "end": 1614.95,
+      "text": "[SPEAKER_00]: also show what comes inside the box."
+    },
+    {
+      "start": 1615.09,
+      "end": 1616.97,
+      "text": "[SPEAKER_00]: That is often a huge thing"
+    },
+    {
+      "start": 1616.97,
+      "end": 1619.07,
+      "text": "[SPEAKER_00]: that deters people from making the purchase"
+    },
+    {
+      "start": 1619.07,
+      "end": 1620.09,
+      "text": "[SPEAKER_00]: is they're not really sure"
+    },
+    {
+      "start": 1620.09,
+      "end": 1621.69,
+      "text": "[SPEAKER_00]: what actually comes in the box."
+    },
+    {
+      "start": 1621.75,
+      "end": 1622.49,
+      "text": "[SPEAKER_00]: So for example,"
+    },
+    {
+      "start": 1622.67,
+      "end": 1624.41,
+      "text": "[SPEAKER_00]: if I'm selling a Solowave Wand,"
+    },
+    {
+      "start": 1625.01,
+      "end": 1627.69,
+      "text": "[SPEAKER_00]: then I wanna also understand what else comes in there."
+    },
+    {
+      "start": 1627.69,
+      "end": 1630.03,
+      "text": "[SPEAKER_00]: So is there a charging cable?"
+    },
+    {
+      "start": 1630.59,
+      "end": 1632.53,
+      "text": "[SPEAKER_00]: Is there a USB plug that comes with that?"
+    },
+    {
+      "start": 1632.87,
+      "end": 1634.37,
+      "text": "[SPEAKER_00]: Is there a cleaning cloth?"
+    },
+    {
+      "start": 1634.61,
+      "end": 1636.51,
+      "text": "[SPEAKER_00]: Is there a serum that comes with that?"
+    },
+    {
+      "start": 1636.75,
+      "end": 1638.75,
+      "text": "[SPEAKER_00]: You wanna show everything versus just showing"
+    },
+    {
+      "start": 1638.75,
+      "end": 1641.49,
+      "text": "[SPEAKER_00]: the fact that you're selling this one product."
+    },
+    {
+      "start": 1642.95,
+      "end": 1643.95,
+      "text": "[SPEAKER_00]: Okay, number 17."
+    },
+    {
+      "start": 1644.83,
+      "end": 1645.81,
+      "text": "[SPEAKER_00]: Turn on BNPL."
+    },
+    {
+      "start": 1646.31,
+      "end": 1647.99,
+      "text": "[SPEAKER_00]: That stands for buy now pay later."
+    },
+    {
+      "start": 1648.49,
+      "end": 1649.29,
+      "text": "[SPEAKER_00]: You've probably seen it."
+    },
+    {
+      "start": 1649.29,
+      "end": 1654.01,
+      "text": "[SPEAKER_00]: It's a firm, Afterpay, Klarna, Sezzle, Quadpay."
+    },
+    {
+      "start": 1654.29,
+      "end": 1655.63,
+      "text": "[SPEAKER_00]: There's so many companies that do it."
+    },
+    {
+      "start": 1655.93,
+      "end": 1657.37,
+      "text": "[SPEAKER_00]: If you are on Shopify,"
+    },
+    {
+      "start": 1657.37,
+      "end": 1659.65,
+      "text": "[SPEAKER_00]: you can actually do this through shop pay installments"
+    },
+    {
+      "start": 1659.65,
+      "end": 1660.87,
+      "text": "[SPEAKER_00]: or SPI."
+    },
+    {
+      "start": 1660.89,
+      "end": 1662.39,
+      "text": "[SPEAKER_00]: That is powered by a firm."
+    },
+    {
+      "start": 1662.99,
+      "end": 1664.67,
+      "text": "[SPEAKER_00]: The beauty of a firm in my opinion"
+    },
+    {
+      "start": 1664.67,
+      "end": 1665.83,
+      "text": "[SPEAKER_00]: is that there's no late fees."
+    },
+    {
+      "start": 1665.89,
+      "end": 1668.59,
+      "text": "[SPEAKER_00]: So if you have a brand that uses buy now pay later,"
+    },
+    {
+      "start": 1669.39,
+      "end": 1671.37,
+      "text": "[SPEAKER_00]: or rather you have customers using buy now pay later"
+    },
+    {
+      "start": 1671.37,
+      "end": 1673.73,
+      "text": "[SPEAKER_00]: and you use a firm or shop pay installments,"
+    },
+    {
+      "start": 1674.27,
+      "end": 1675.75,
+      "text": "[SPEAKER_00]: there's no late fees to the customer."
+    },
+    {
+      "start": 1676.23,
+      "end": 1677.77,
+      "text": "[SPEAKER_00]: If you use some of the other options,"
+    },
+    {
+      "start": 1677.95,
+      "end": 1680.15,
+      "text": "[SPEAKER_00]: there are late fees that can get added on."
+    },
+    {
+      "start": 1680.93,
+      "end": 1684.07,
+      "text": "[SPEAKER_00]: And ultimately a customer associates that thought"
+    },
+    {
+      "start": 1684.07,
+      "end": 1684.81,
+      "text": "[SPEAKER_00]: with your brand,"
+    },
+    {
+      "start": 1684.81,
+      "end": 1687.99,
+      "text": "[SPEAKER_00]: not with a firm or with whoever the buy now pay later is"
+    },
+    {
+      "start": 1687.99,
+      "end": 1689.11,
+      "text": "[SPEAKER_00]: that charges the late fee."
+    },
+    {
+      "start": 1689.77,
+      "end": 1691.57,
+      "text": "[SPEAKER_00]: So I'm a fan of using a firm for that reason."
+    },
+    {
+      "start": 1691.99,
+      "end": 1692.87,
+      "text": "[SPEAKER_00]: But during the holidays,"
+    },
+    {
+      "start": 1692.87,
+      "end": 1695.19,
+      "text": "[SPEAKER_00]: we also see the buy now pay later usage go up."
+    },
+    {
+      "start": 1695.75,
+      "end": 1698.07,
+      "text": "[SPEAKER_00]: More people are looking for better,"
+    },
+    {
+      "start": 1698.07,
+      "end": 1699.59,
+      "text": "[SPEAKER_00]: more efficient ways to buy things."
+    },
+    {
+      "start": 1700.21,
+      "end": 1701.35,
+      "text": "[SPEAKER_00]: And so make sure it's enabled."
+    },
+    {
+      "start": 1701.43,
+      "end": 1703.13,
+      "text": "[SPEAKER_00]: Make sure it's on your product pages."
+    },
+    {
+      "start": 1703.23,
+      "end": 1705.35,
+      "text": "[SPEAKER_00]: We've seen that does a good job increasing"
+    },
+    {
+      "start": 1705.35,
+      "end": 1706.99,
+      "text": "[SPEAKER_00]: conversion rate as well."
+    },
+    {
+      "start": 1707.49,
+      "end": 1708.27,
+      "text": "[SPEAKER_00]: Number 18."
+    },
+    {
+      "start": 1708.67,
+      "end": 1710.91,
+      "text": "[SPEAKER_00]: Have a hierarchy in your tech sizes."
+    },
+    {
+      "start": 1710.91,
+      "end": 1715.51,
+      "text": "[SPEAKER_00]: So there's a reason why there is H1 and H2 and H3"
+    },
+    {
+      "start": 1715.51,
+      "end": 1717.51,
+      "text": "[SPEAKER_00]: and why those things still exist."
+    },
+    {
+      "start": 1718.07,
+      "end": 1720.63,
+      "text": "[SPEAKER_00]: That's basically three different sizes of headlines"
+    },
+    {
+      "start": 1720.63,
+      "end": 1723.87,
+      "text": "[SPEAKER_00]: or H1 is the biggest headline, H2 second biggest,"
+    },
+    {
+      "start": 1723.97,
+      "end": 1724.73,
+      "text": "[SPEAKER_00]: H3 is third."
+    },
+    {
+      "start": 1725.07,
+      "end": 1725.97,
+      "text": "[SPEAKER_00]: Some sites have,"
+    },
+    {
+      "start": 1726.17,
+      "end": 1728.99,
+      "text": "[SPEAKER_00]: or some fonts have this up to, you know, H7."
+    },
+    {
+      "start": 1729.19,
+      "end": 1733.19,
+      "text": "[SPEAKER_00]: So just seven weighted variations of headline fonts."
+    },
+    {
+      "start": 1733.83,
+      "end": 1737.01,
+      "text": "[SPEAKER_00]: You can use variations for both fonts and styles"
+    },
+    {
+      "start": 1737.01,
+      "end": 1739.15,
+      "text": "[SPEAKER_00]: to create a good visual hierarchy on the page."
+    },
+    {
+      "start": 1739.15,
+      "end": 1741.91,
+      "text": "[SPEAKER_00]: But main thing is that it's gotta be very easy"
+    },
+    {
+      "start": 1741.91,
+      "end": 1743.17,
+      "text": "[SPEAKER_00]: for somebody's eyes to follow."
+    },
+    {
+      "start": 1743.19,
+      "end": 1747.27,
+      "text": "[SPEAKER_00]: So that's why you wanna have H1, H2, H3, regular text,"
+    },
+    {
+      "start": 1747.65,
+      "end": 1749.21,
+      "text": "[SPEAKER_00]: you know, bullet points, illustrations."
+    },
+    {
+      "start": 1749.73,
+      "end": 1751.45,
+      "text": "[SPEAKER_00]: Having all of this work together"
+    },
+    {
+      "start": 1751.45,
+      "end": 1753.19,
+      "text": "[SPEAKER_00]: makes for a beautiful hero."
+    },
+    {
+      "start": 1753.91,
+      "end": 1757.23,
+      "text": "[SPEAKER_00]: My favorite example of this is the Apple website."
+    },
+    {
+      "start": 1757.89,
+      "end": 1759.49,
+      "text": "[SPEAKER_00]: If you go to any other pages on Apple,"
+    },
+    {
+      "start": 1759.83,
+      "end": 1763.51,
+      "text": "[SPEAKER_00]: they do a phenomenal job of the hierarchy of their text"
+    },
+    {
+      "start": 1763.51,
+      "end": 1766.21,
+      "text": "[SPEAKER_00]: and how that flows and how that kind of intertwines"
+    },
+    {
+      "start": 1766.21,
+      "end": 1767.75,
+      "text": "[SPEAKER_00]: with the design as well."
+    },
+    {
+      "start": 1767.75,
+      "end": 1769.47,
+      "text": "[SPEAKER_00]: So definitely do that."
+    },
+    {
+      "start": 1769.79,
+      "end": 1772.39,
+      "text": "[SPEAKER_00]: Number 19, add quotes that call out benefits,"
+    },
+    {
+      "start": 1772.57,
+      "end": 1773.47,
+      "text": "[SPEAKER_00]: not just the features."
+    },
+    {
+      "start": 1773.71,
+      "end": 1775.37,
+      "text": "[SPEAKER_00]: Okay, this is one of my favorite ones"
+    },
+    {
+      "start": 1775.37,
+      "end": 1777.35,
+      "text": "[SPEAKER_00]: and it's such an easy one."
+    },
+    {
+      "start": 1777.35,
+      "end": 1780.31,
+      "text": "[SPEAKER_00]: So there's a very good chance you already have quotes"
+    },
+    {
+      "start": 1780.31,
+      "end": 1783.19,
+      "text": "[SPEAKER_00]: from customers on your homepage, your product page,"
+    },
+    {
+      "start": 1783.73,
+      "end": 1784.89,
+      "text": "[SPEAKER_00]: your landing page."
+    },
+    {
+      "start": 1785.27,
+      "end": 1787.37,
+      "text": "[SPEAKER_00]: And you know, there's obviously the reviews"
+    },
+    {
+      "start": 1787.37,
+      "end": 1790.39,
+      "text": "[SPEAKER_00]: that you've got on your like product reviews,"
+    },
+    {
+      "start": 1790.57,
+      "end": 1792.25,
+      "text": "[SPEAKER_00]: whether you use Okendo or something similar."
+    },
+    {
+      "start": 1792.99,
+      "end": 1795.71,
+      "text": "[SPEAKER_00]: But a lot of times people also put these static"
+    },
+    {
+      "start": 1795.71,
+      "end": 1797.55,
+      "text": "[SPEAKER_00]: reviews higher up in the page, right?"
+    },
+    {
+      "start": 1798.13,
+      "end": 1800.19,
+      "text": "[SPEAKER_00]: The reviews widget might be kind of lower"
+    },
+    {
+      "start": 1800.19,
+      "end": 1803.07,
+      "text": "[SPEAKER_00]: because you want people to go through those in depth."
+    },
+    {
+      "start": 1803.75,
+      "end": 1806.95,
+      "text": "[SPEAKER_00]: But if you take a static version of a review"
+    },
+    {
+      "start": 1806.95,
+      "end": 1808.65,
+      "text": "[SPEAKER_00]: and you put it up, which a lot of people do,"
+    },
+    {
+      "start": 1808.91,
+      "end": 1811.49,
+      "text": "[SPEAKER_00]: make sure that that review actually speaks to benefits."
+    },
+    {
+      "start": 1811.93,
+      "end": 1815.29,
+      "text": "[SPEAKER_00]: So don't talk about, you know, I love,"
+    },
+    {
+      "start": 1815.63,
+      "end": 1817.85,
+      "text": "[SPEAKER_00]: let's say we're talking about simple moderns water bottle."
+    },
+    {
+      "start": 1818.37,
+      "end": 1820.59,
+      "text": "[SPEAKER_00]: You don't wanna say, I love the teal color"
+    },
+    {
+      "start": 1821.39,
+      "end": 1824.17,
+      "text": "[SPEAKER_00]: and that the bottles are machine washable, right?"
+    },
+    {
+      "start": 1824.19,
+      "end": 1827.53,
+      "text": "[SPEAKER_00]: That doesn't really, I mean, that's a quote,"
+    },
+    {
+      "start": 1827.53,
+      "end": 1827.69,
+      "text": "[SPEAKER_00]: that's a quote that people are gonna make"
+    },
+    {
+      "start": 1827.69,
+      "end": 1828.41,
+      "text": "[SPEAKER_00]: to the review they might have,"
+    },
+    {
+      "start": 1828.97,
+      "end": 1830.31,
+      "text": "[SPEAKER_00]: but you wanna make sure that it's speaking"
+    },
+    {
+      "start": 1830.31,
+      "end": 1832.15,
+      "text": "[SPEAKER_00]: to the benefits because it's at the top"
+    },
+    {
+      "start": 1832.15,
+      "end": 1834.33,
+      "text": "[SPEAKER_00]: and people are gonna consume that, right?"
+    },
+    {
+      "start": 1834.37,
+      "end": 1836.55,
+      "text": "[SPEAKER_00]: The percentage of people consuming that"
+    },
+    {
+      "start": 1836.55,
+      "end": 1838.19,
+      "text": "[SPEAKER_00]: is gonna be significantly higher."
+    },
+    {
+      "start": 1838.43,
+      "end": 1841.25,
+      "text": "[SPEAKER_00]: I mean, maybe talking 50% of the traffic"
+    },
+    {
+      "start": 1841.25,
+      "end": 1843.35,
+      "text": "[SPEAKER_00]: is gonna see this quote if it's up near"
+    },
+    {
+      "start": 1843.35,
+      "end": 1845.37,
+      "text": "[SPEAKER_00]: the upper middle part of the page,"
+    },
+    {
+      "start": 1845.83,
+      "end": 1848.19,
+      "text": "[SPEAKER_00]: versus maybe 5% of the people are gonna make it"
+    },
+    {
+      "start": 1848.19,
+      "end": 1849.73,
+      "text": "[SPEAKER_00]: to where the reviews are near the bottom."
+    },
+    {
+      "start": 1850.83,
+      "end": 1853.65,
+      "text": "[SPEAKER_00]: So again, the teal color and machine washable,"
+    },
+    {
+      "start": 1853.65,
+      "end": 1855.49,
+      "text": "[SPEAKER_00]: not a good quote to put up top."
+    },
+    {
+      "start": 1855.95,
+      "end": 1858.03,
+      "text": "[SPEAKER_00]: Instead, something better would be, you know,"
+    },
+    {
+      "start": 1858.09,
+      "end": 1860.71,
+      "text": "[SPEAKER_00]: upgrading to the 64 ounce tumbler changed my life."
+    },
+    {
+      "start": 1860.81,
+      "end": 1863.09,
+      "text": "[SPEAKER_00]: I drink more water today than I ever have before."
+    },
+    {
+      "start": 1863.35,
+      "end": 1865.21,
+      "text": "[SPEAKER_00]: I feel much healthier and I have more energy"
+    },
+    {
+      "start": 1865.21,
+      "end": 1867.11,
+      "text": "[SPEAKER_00]: to sleep better due to being properly hydrated"
+    },
+    {
+      "start": 1867.11,
+      "end": 1868.53,
+      "text": "[SPEAKER_00]: from this bottle, right?"
+    },
+    {
+      "start": 1868.53,
+      "end": 1870.93,
+      "text": "[SPEAKER_00]: It speaks to lifestyle change, not just the features."
+    },
+    {
+      "start": 1871.21,
+      "end": 1872.57,
+      "text": "[SPEAKER_00]: It also just speaks to the benefits"
+    },
+    {
+      "start": 1872.57,
+      "end": 1874.77,
+      "text": "[SPEAKER_00]: and something that's also somewhat aspirational."
+    },
+    {
+      "start": 1875.05,
+      "end": 1877.01,
+      "text": "[SPEAKER_00]: People who are coming to the site might also think,"
+    },
+    {
+      "start": 1877.17,
+      "end": 1879.41,
+      "text": "[SPEAKER_00]: okay, well, I'm in the mindset"
+    },
+    {
+      "start": 1879.41,
+      "end": 1881.55,
+      "text": "[SPEAKER_00]: to start drinking more water, being more healthy,"
+    },
+    {
+      "start": 1881.55,
+      "end": 1883.77,
+      "text": "[SPEAKER_00]: be more hydrated, sleep better."
+    },
+    {
+      "start": 1884.21,
+      "end": 1886.45,
+      "text": "[SPEAKER_00]: And so this quote hits all of that."
+    },
+    {
+      "start": 1887.83,
+      "end": 1889.99,
+      "text": "[SPEAKER_00]: Number 20, quick one, don't say buy now,"
+    },
+    {
+      "start": 1890.05,
+      "end": 1892.95,
+      "text": "[SPEAKER_00]: say add to cart for some reason, that just does better."
+    },
+    {
+      "start": 1893.07,
+      "end": 1895.77,
+      "text": "[SPEAKER_00]: I think it's just less intimidating or less pressing."
+    },
+    {
+      "start": 1896.37,
+      "end": 1898.99,
+      "text": "[SPEAKER_00]: Number 21, use heatmap.com."
+    },
+    {
+      "start": 1899.09,
+      "end": 1900.95,
+      "text": "[SPEAKER_00]: You should study all of the heat maps"
+    },
+    {
+      "start": 1900.95,
+      "end": 1903.67,
+      "text": "[SPEAKER_00]: to see where users are bouncing and falling off."
+    },
+    {
+      "start": 1904.17,
+      "end": 1907.23,
+      "text": "[SPEAKER_00]: You can also go look at user session recordings"
+    },
+    {
+      "start": 1907.23,
+      "end": 1909.53,
+      "text": "[SPEAKER_00]: on the site, you can see scroll depth maps."
+    },
+    {
+      "start": 1909.53,
+      "end": 1911.51,
+      "text": "[SPEAKER_00]: It's really good to just understand"
+    },
+    {
+      "start": 1912.49,
+      "end": 1915.03,
+      "text": "[SPEAKER_00]: where are people clicking, where are people spending time,"
+    },
+    {
+      "start": 1915.17,
+      "end": 1917.33,
+      "text": "[SPEAKER_00]: where are people reading but then not clicking"
+    },
+    {
+      "start": 1917.33,
+      "end": 1918.85,
+      "text": "[SPEAKER_00]: or reading and then dropping off"
+    },
+    {
+      "start": 1918.85,
+      "end": 1920.11,
+      "text": "[SPEAKER_00]: or what are people reading"
+    },
+    {
+      "start": 1920.11,
+      "end": 1921.69,
+      "text": "[SPEAKER_00]: and then clicking to check out, right?"
+    },
+    {
+      "start": 1921.69,
+      "end": 1923.67,
+      "text": "[SPEAKER_00]: Because you might find that a section"
+    },
+    {
+      "start": 1923.67,
+      "end": 1926.39,
+      "text": "[SPEAKER_00]: that is 60% of the way down on the page"
+    },
+    {
+      "start": 1926.39,
+      "end": 1928.33,
+      "text": "[SPEAKER_00]: is actually driving the highest amount"
+    },
+    {
+      "start": 1928.33,
+      "end": 1930.23,
+      "text": "[SPEAKER_00]: of click throughs to check out"
+    },
+    {
+      "start": 1930.23,
+      "end": 1932.63,
+      "text": "[SPEAKER_00]: or towards getting somebody to add the product."
+    },
+    {
+      "start": 1933.11,
+      "end": 1936.23,
+      "text": "[SPEAKER_00]: And the beauty of heatmap is it's the only heatmap tool"
+    },
+    {
+      "start": 1936.23,
+      "end": 1937.75,
+      "text": "[SPEAKER_00]: that also ties buttons to revenue."
+    },
+    {
+      "start": 1937.79,
+      "end": 1939.37,
+      "text": "[SPEAKER_00]: So you can literally see, okay,"
+    },
+    {
+      "start": 1939.37,
+      "end": 1941.97,
+      "text": "[SPEAKER_00]: this CTA that's three fourths down"
+    },
+    {
+      "start": 1941.97,
+      "end": 1944.43,
+      "text": "[SPEAKER_00]: is actually driving a great number of revenue."
+    },
+    {
+      "start": 1944.51,
+      "end": 1946.17,
+      "text": "[SPEAKER_00]: Maybe we should move this section up."
+    },
+    {
+      "start": 1946.51,
+      "end": 1948.13,
+      "text": "[SPEAKER_00]: The other thing you can do that I like to see"
+    },
+    {
+      "start": 1948.13,
+      "end": 1950.87,
+      "text": "[SPEAKER_00]: is just what's the percentage of people"
+    },
+    {
+      "start": 1950.87,
+      "end": 1952.49,
+      "text": "[SPEAKER_00]: that are scrolling your page"
+    },
+    {
+      "start": 1952.49,
+      "end": 1954.41,
+      "text": "[SPEAKER_00]: based on the source of the site traffic?"
+    },
+    {
+      "start": 1954.77,
+      "end": 1957.37,
+      "text": "[SPEAKER_00]: So how can you understand how far down"
+    },
+    {
+      "start": 1957.37,
+      "end": 1959.17,
+      "text": "[SPEAKER_00]: somebody coming from Facebook ads goes"
+    },
+    {
+      "start": 1959.17,
+      "end": 1963.29,
+      "text": "[SPEAKER_00]: versus somebody coming from organic traffic,"
+    },
+    {
+      "start": 1963.47,
+      "end": 1965.15,
+      "text": "[SPEAKER_00]: direct traffic, organic search"
+    },
+    {
+      "start": 1965.15,
+      "end": 1967.73,
+      "text": "[SPEAKER_00]: or even from like the Instagram account?"
+    },
+    {
+      "start": 1968.25,
+      "end": 1970.67,
+      "text": "[SPEAKER_00]: So having that information is good."
+    },
+    {
+      "start": 1970.71,
+      "end": 1971.91,
+      "text": "[SPEAKER_00]: It also just helps you understand"
+    },
+    {
+      "start": 1971.91,
+      "end": 1974.05,
+      "text": "[SPEAKER_00]: when you're thinking about designing new pages,"
+    },
+    {
+      "start": 1974.51,
+      "end": 1976.01,
+      "text": "[SPEAKER_00]: what you're putting where knowing"
+    },
+    {
+      "start": 1976.01,
+      "end": 1977.99,
+      "text": "[SPEAKER_00]: how far down somebody's likely to go."
+    },
+    {
+      "start": 1978.29,
+      "end": 1980.83,
+      "text": "[SPEAKER_00]: A good example is we pulled up the heatmap"
+    },
+    {
+      "start": 1980.83,
+      "end": 1983.51,
+      "text": "[SPEAKER_00]: of a site recently and saw that basically"
+    },
+    {
+      "start": 1983.51,
+      "end": 1986.33,
+      "text": "[SPEAKER_00]: after the first section below the hero,"
+    },
+    {
+      "start": 1987.93,
+      "end": 1990.05,
+      "text": "[SPEAKER_00]: 25% of the people dropped off right away."
+    },
+    {
+      "start": 1990.51,
+      "end": 1992.51,
+      "text": "[SPEAKER_00]: So now only 75% of the traffic"
+    },
+    {
+      "start": 1992.51,
+      "end": 1995.15,
+      "text": "[SPEAKER_00]: see between the second and the third session,"
+    },
+    {
+      "start": 1995.15,
+      "end": 1997.49,
+      "text": "[SPEAKER_00]: two sessions below sections below that,"
+    },
+    {
+      "start": 1997.97,
+      "end": 1999.59,
+      "text": "[SPEAKER_00]: 60% of the traffic dropped off."
+    },
+    {
+      "start": 1999.59,
+      "end": 2000.73,
+      "text": "[SPEAKER_00]: So it's just good to know"
+    },
+    {
+      "start": 2000.73,
+      "end": 2001.79,
+      "text": "[SPEAKER_00]: because now we know that"
+    },
+    {
+      "start": 2001.79,
+      "end": 2003.85,
+      "text": "[SPEAKER_00]: when we design the next version of this page,"
+    },
+    {
+      "start": 2003.87,
+      "end": 2005.81,
+      "text": "[SPEAKER_00]: we know that we're gonna prioritize stuff"
+    },
+    {
+      "start": 2005.81,
+      "end": 2007.99,
+      "text": "[SPEAKER_00]: based on the scroll depth."
+    },
+    {
+      "start": 2008.85,
+      "end": 2011.41,
+      "text": "[SPEAKER_00]: Number 22, study your dead clicks"
+    },
+    {
+      "start": 2011.41,
+      "end": 2013.49,
+      "text": "[SPEAKER_00]: and your rage clicks with heatmap"
+    },
+    {
+      "start": 2014.63,
+      "end": 2017.15,
+      "text": "[SPEAKER_00]: and understand what is going on."
+    },
+    {
+      "start": 2017.17,
+      "end": 2019.05,
+      "text": "[SPEAKER_00]: So essentially what's a dead click and a rage click?"
+    },
+    {
+      "start": 2019.07,
+      "end": 2020.59,
+      "text": "[SPEAKER_00]: So a dead click is somebody,"
+    },
+    {
+      "start": 2021.13,
+      "end": 2022.89,
+      "text": "[SPEAKER_00]: let's say you're on a landing page,"
+    },
+    {
+      "start": 2022.97,
+      "end": 2024.11,
+      "text": "[SPEAKER_00]: or let's say you're on a collections page."
+    },
+    {
+      "start": 2024.11,
+      "end": 2027.25,
+      "text": "[SPEAKER_00]: This happens a lot with kind of like standard Shopify themes."
+    },
+    {
+      "start": 2027.73,
+      "end": 2028.65,
+      "text": "[SPEAKER_00]: You're on the collections page,"
+    },
+    {
+      "start": 2028.69,
+      "end": 2030.59,
+      "text": "[SPEAKER_00]: you click the image of the purse"
+    },
+    {
+      "start": 2030.59,
+      "end": 2033.63,
+      "text": "[SPEAKER_00]: that you're seeing in this collection, nothing happens."
+    },
+    {
+      "start": 2035.15,
+      "end": 2037.11,
+      "text": "[SPEAKER_00]: Instead, you have to actually click the title"
+    },
+    {
+      "start": 2037.11,
+      "end": 2038.83,
+      "text": "[SPEAKER_00]: or the button right below."
+    },
+    {
+      "start": 2039.15,
+      "end": 2040.29,
+      "text": "[SPEAKER_00]: And the reason that's bad"
+    },
+    {
+      "start": 2040.29,
+      "end": 2042.09,
+      "text": "[SPEAKER_00]: is because there's probably a lot of people"
+    },
+    {
+      "start": 2042.09,
+      "end": 2042.85,
+      "text": "[SPEAKER_00]: who are clicking those."
+    },
+    {
+      "start": 2042.87,
+      "end": 2043.99,
+      "text": "[SPEAKER_00]: Those are called dead clicks."
+    },
+    {
+      "start": 2044.11,
+      "end": 2046.49,
+      "text": "[SPEAKER_00]: Somebody clicks, but it doesn't actually lead to anything."
+    },
+    {
+      "start": 2047.77,
+      "end": 2050.01,
+      "text": "[SPEAKER_00]: Dead clicks are huge opportunities that you're missing"
+    },
+    {
+      "start": 2050.01,
+      "end": 2051.57,
+      "text": "[SPEAKER_00]: because people might leave."
+    },
+    {
+      "start": 2051.89,
+      "end": 2053.93,
+      "text": "[SPEAKER_00]: It also can lead to what's called rage clicks,"
+    },
+    {
+      "start": 2053.93,
+      "end": 2056.23,
+      "text": "[SPEAKER_00]: which is multiple times within a short period of time."
+    },
+    {
+      "start": 2056.41,
+      "end": 2058.31,
+      "text": "[SPEAKER_00]: So think like somebody just gets upset"
+    },
+    {
+      "start": 2058.31,
+      "end": 2060.17,
+      "text": "[SPEAKER_00]: and they click tapping or they keep clicking"
+    },
+    {
+      "start": 2060.69,
+      "end": 2062.09,
+      "text": "[SPEAKER_00]: and they're not redirected."
+    },
+    {
+      "start": 2062.39,
+      "end": 2063.61,
+      "text": "[SPEAKER_00]: So these are good to understand"
+    },
+    {
+      "start": 2063.61,
+      "end": 2066.03,
+      "text": "[SPEAKER_00]: because these are easy things you can relink"
+    },
+    {
+      "start": 2066.03,
+      "end": 2069.37,
+      "text": "[SPEAKER_00]: and will likely turn into revenue right away."
+    },
+    {
+      "start": 2070.25,
+      "end": 2071.91,
+      "text": "[SPEAKER_00]: Number 23, organize your site"
+    },
+    {
+      "start": 2071.91,
+      "end": 2074.29,
+      "text": "[SPEAKER_00]: the way that you would organize your physical storefront."
+    },
+    {
+      "start": 2074.73,
+      "end": 2076.81,
+      "text": "[SPEAKER_00]: What items do you want your customers to see first?"
+    },
+    {
+      "start": 2077.11,
+      "end": 2078.97,
+      "text": "[SPEAKER_00]: What is the associated photography"
+    },
+    {
+      "start": 2078.97,
+      "end": 2080.67,
+      "text": "[SPEAKER_00]: and messaging you want them to see?"
+    },
+    {
+      "start": 2080.93,
+      "end": 2082.51,
+      "text": "[SPEAKER_00]: How would you merchandise it differently?"
+    },
+    {
+      "start": 2083.09,
+      "end": 2085.09,
+      "text": "[SPEAKER_00]: You should be thinking very similar"
+    },
+    {
+      "start": 2085.09,
+      "end": 2087.03,
+      "text": "[SPEAKER_00]: to if you were running a physical store"
+    },
+    {
+      "start": 2087.03,
+      "end": 2089.71,
+      "text": "[SPEAKER_00]: as you are when you're organizing the site."
+    },
+    {
+      "start": 2090.07,
+      "end": 2092.63,
+      "text": "[SPEAKER_00]: The first few things you have in your collections"
+    },
+    {
+      "start": 2093.23,
+      "end": 2094.81,
+      "text": "[SPEAKER_00]: or yeah, on your collections page."
+    },
+    {
+      "start": 2095.11,
+      "end": 2096.09,
+      "text": "[SPEAKER_00]: How are those decided?"
+    },
+    {
+      "start": 2096.23,
+      "end": 2098.11,
+      "text": "[SPEAKER_00]: Is it because there's certain bundles?"
+    },
+    {
+      "start": 2098.33,
+      "end": 2099.85,
+      "text": "[SPEAKER_00]: I'm a fan of always trying to figure out"
+    },
+    {
+      "start": 2099.85,
+      "end": 2102.07,
+      "text": "[SPEAKER_00]: what has high sell through for net new customers"
+    },
+    {
+      "start": 2102.07,
+      "end": 2103.35,
+      "text": "[SPEAKER_00]: and prioritize that."
+    },
+    {
+      "start": 2103.67,
+      "end": 2105.63,
+      "text": "[SPEAKER_00]: Assuming that people who've come back to your site,"
+    },
+    {
+      "start": 2105.93,
+      "end": 2107.63,
+      "text": "[SPEAKER_00]: they probably already kind of know what they want"
+    },
+    {
+      "start": 2107.63,
+      "end": 2110.83,
+      "text": "[SPEAKER_00]: or they may, they have an idea of what they want."
+    },
+    {
+      "start": 2110.83,
+      "end": 2112.87,
+      "text": "[SPEAKER_00]: So they have a higher intent when they get there."
+    },
+    {
+      "start": 2113.15,
+      "end": 2114.93,
+      "text": "[SPEAKER_00]: But when you have people who are coming net new,"
+    },
+    {
+      "start": 2115.01,
+      "end": 2116.71,
+      "text": "[SPEAKER_00]: obviously if you're driving paid traffic,"
+    },
+    {
+      "start": 2116.75,
+      "end": 2118.11,
+      "text": "[SPEAKER_00]: you're probably going to a landing page"
+    },
+    {
+      "start": 2118.11,
+      "end": 2119.79,
+      "text": "[SPEAKER_00]: or something that converts."
+    },
+    {
+      "start": 2120.31,
+      "end": 2122.51,
+      "text": "[SPEAKER_00]: But let's say you're driving net new people"
+    },
+    {
+      "start": 2122.51,
+      "end": 2124.51,
+      "text": "[SPEAKER_00]: or there are net new people coming to your site"
+    },
+    {
+      "start": 2124.51,
+      "end": 2126.39,
+      "text": "[SPEAKER_00]: that don't really know the brand super well."
+    },
+    {
+      "start": 2126.65,
+      "end": 2128.05,
+      "text": "[SPEAKER_00]: You wanna always show them whatever"
+    },
+    {
+      "start": 2128.05,
+      "end": 2130.53,
+      "text": "[SPEAKER_00]: has the highest sell through opportunity"
+    },
+    {
+      "start": 2131.01,
+      "end": 2132.73,
+      "text": "[SPEAKER_00]: and show them that first."
+    },
+    {
+      "start": 2133.09,
+      "end": 2135.05,
+      "text": "[SPEAKER_00]: Ideally too, this is something that has"
+    },
+    {
+      "start": 2135.05,
+      "end": 2138.19,
+      "text": "[SPEAKER_00]: a variety of variants, whether that's flavors"
+    },
+    {
+      "start": 2138.19,
+      "end": 2140.11,
+      "text": "[SPEAKER_00]: or scents or colors or sizes."
+    },
+    {
+      "start": 2141.23,
+      "end": 2144.97,
+      "text": "[SPEAKER_00]: And it's an amount that allows for enough sampling"
+    },
+    {
+      "start": 2144.97,
+      "end": 2146.53,
+      "text": "[SPEAKER_00]: so that somebody will come back."
+    },
+    {
+      "start": 2148.51,
+      "end": 2152.77,
+      "text": "[SPEAKER_00]: Number 24, whenever possible, reduce the amount of text."
+    },
+    {
+      "start": 2152.99,
+      "end": 2154.39,
+      "text": "[SPEAKER_00]: I kind of alluded to this one earlier,"
+    },
+    {
+      "start": 2154.39,
+      "end": 2156.59,
+      "text": "[SPEAKER_00]: but the simple rule is how can you say"
+    },
+    {
+      "start": 2156.59,
+      "end": 2158.15,
+      "text": "[SPEAKER_00]: the same thing with fewer words?"
+    },
+    {
+      "start": 2158.91,
+      "end": 2161.99,
+      "text": "[SPEAKER_00]: Number 25, whenever possible, use real life images,"
+    },
+    {
+      "start": 2162.29,
+      "end": 2165.43,
+      "text": "[SPEAKER_00]: not just studio photography or stock imagery."
+    },
+    {
+      "start": 2166.01,
+      "end": 2168.21,
+      "text": "[SPEAKER_00]: Most new brands will use the studio photography"
+    },
+    {
+      "start": 2168.21,
+      "end": 2169.43,
+      "text": "[SPEAKER_00]: they get from their first shoot"
+    },
+    {
+      "start": 2169.43,
+      "end": 2172.55,
+      "text": "[SPEAKER_00]: and maybe some stock imagery to kind of help fill"
+    },
+    {
+      "start": 2172.55,
+      "end": 2176.51,
+      "text": "[SPEAKER_00]: the site up, but you want to just focus on how can you,"
+    },
+    {
+      "start": 2176.59,
+      "end": 2177.79,
+      "text": "[SPEAKER_00]: especially if you have luggage, apparel,"
+    },
+    {
+      "start": 2177.85,
+      "end": 2180.59,
+      "text": "[SPEAKER_00]: anything to do with style, jewelry, bracelets,"
+    },
+    {
+      "start": 2181.01,
+      "end": 2183.11,
+      "text": "[SPEAKER_00]: as much as you can use lifestyle imagery,"
+    },
+    {
+      "start": 2183.19,
+      "end": 2184.07,
+      "text": "[SPEAKER_00]: it helps a lot."
+    },
+    {
+      "start": 2185.21,
+      "end": 2188.09,
+      "text": "[SPEAKER_00]: Number 26, when a customer leaves a review,"
+    },
+    {
+      "start": 2188.97,
+      "end": 2191.55,
+      "text": "[SPEAKER_00]: tell me what they bought next to their review."
+    },
+    {
+      "start": 2191.77,
+      "end": 2194.65,
+      "text": "[SPEAKER_00]: So let's say I leave a review on Simple Modern"
+    },
+    {
+      "start": 2195.01,
+      "end": 2199.33,
+      "text": "[SPEAKER_00]: and it says, you know, I just bought these tumblers"
+    },
+    {
+      "start": 2199.33,
+      "end": 2201.73,
+      "text": "[SPEAKER_00]: and you know, I can't believe how much my kids"
+    },
+    {
+      "start": 2201.73,
+      "end": 2202.93,
+      "text": "[SPEAKER_00]: love them, right?"
+    },
+    {
+      "start": 2204.71,
+      "end": 2208.25,
+      "text": "[SPEAKER_00]: It should say that Nick bought three teal tumblers"
+    },
+    {
+      "start": 2208.25,
+      "end": 2209.11,
+      "text": "[SPEAKER_00]: from Simple Modern."
+    },
+    {
+      "start": 2209.73,
+      "end": 2211.53,
+      "text": "[SPEAKER_00]: It should also say verified purchaser"
+    },
+    {
+      "start": 2211.53,
+      "end": 2213.33,
+      "text": "[SPEAKER_00]: just for some more credibility there."
+    },
+    {
+      "start": 2213.87,
+      "end": 2215.57,
+      "text": "[SPEAKER_00]: But adding that does really well."
+    },
+    {
+      "start": 2215.67,
+      "end": 2218.09,
+      "text": "[SPEAKER_00]: You can also add, you know, Glossier,"
+    },
+    {
+      "start": 2218.15,
+      "end": 2219.69,
+      "text": "[SPEAKER_00]: I've seen does this really well,"
+    },
+    {
+      "start": 2219.83,
+      "end": 2223.83,
+      "text": "[SPEAKER_00]: where or even Skims, where they will"
+    },
+    {
+      "start": 2223.83,
+      "end": 2227.43,
+      "text": "[SPEAKER_00]: basically talk about how well does the product fit."
+    },
+    {
+      "start": 2227.77,
+      "end": 2229.13,
+      "text": "[SPEAKER_00]: So I think Skims does this,"
+    },
+    {
+      "start": 2229.15,
+      "end": 2231.05,
+      "text": "[SPEAKER_00]: where you can look at a piece of clothing"
+    },
+    {
+      "start": 2231.05,
+      "end": 2233.71,
+      "text": "[SPEAKER_00]: and it will say, okay, how well does this fit"
+    },
+    {
+      "start": 2233.71,
+      "end": 2234.35,
+      "text": "[SPEAKER_00]: on your body?"
+    },
+    {
+      "start": 2234.45,
+      "end": 2236.87,
+      "text": "[SPEAKER_00]: Does it fit true to size, larger than expected,"
+    },
+    {
+      "start": 2237.05,
+      "end": 2238.01,
+      "text": "[SPEAKER_00]: smaller than expected?"
+    },
+    {
+      "start": 2238.31,
+      "end": 2240.65,
+      "text": "[SPEAKER_00]: These things just help again with products"
+    },
+    {
+      "start": 2240.65,
+      "end": 2241.65,
+      "text": "[SPEAKER_00]: that have to do with style."
+    },
+    {
+      "start": 2241.71,
+      "end": 2243.49,
+      "text": "[SPEAKER_00]: They help a lot with somebody understanding"
+    },
+    {
+      "start": 2243.49,
+      "end": 2244.93,
+      "text": "[SPEAKER_00]: and then ending up to buy."
+    },
+    {
+      "start": 2245.49,
+      "end": 2248.13,
+      "text": "[SPEAKER_00]: Number 27, if it's truly a limited time offer,"
+    },
+    {
+      "start": 2248.37,
+      "end": 2251.47,
+      "text": "[SPEAKER_00]: highlight it, but if it's not, then don't highlight it"
+    },
+    {
+      "start": 2251.47,
+      "end": 2253.17,
+      "text": "[SPEAKER_00]: because that's against the FTC rules."
+    },
+    {
+      "start": 2253.17,
+      "end": 2254.99,
+      "text": "[SPEAKER_00]: If you're just highlighting a limited time offer,"
+    },
+    {
+      "start": 2255.03,
+      "end": 2257.97,
+      "text": "[SPEAKER_00]: but it's really your always on customer acquisition offer,"
+    },
+    {
+      "start": 2258.57,
+      "end": 2259.81,
+      "text": "[SPEAKER_00]: that's actually illegal now."
+    },
+    {
+      "start": 2259.83,
+      "end": 2260.93,
+      "text": "[SPEAKER_00]: And you will get in trouble."
+    },
+    {
+      "start": 2261.01,
+      "end": 2262.87,
+      "text": "[SPEAKER_00]: I've seen a lot of companies get in trouble for this."
+    },
+    {
+      "start": 2263.67,
+      "end": 2265.77,
+      "text": "[SPEAKER_00]: So stay away, don't do that."
+    },
+    {
+      "start": 2266.45,
+      "end": 2268.49,
+      "text": "[SPEAKER_00]: Number 28, tell me how many customers"
+    },
+    {
+      "start": 2268.49,
+      "end": 2269.79,
+      "text": "[SPEAKER_00]: have purchased this product?"
+    },
+    {
+      "start": 2269.91,
+      "end": 2273.81,
+      "text": "[SPEAKER_00]: For example, you could say 5,000 plus happy customers."
+    },
+    {
+      "start": 2274.13,
+      "end": 2277.01,
+      "text": "[SPEAKER_00]: You could say 285 people love this product."
+    },
+    {
+      "start": 2278.13,
+      "end": 2280.79,
+      "text": "[SPEAKER_00]: But you have to be clear that again,"
+    },
+    {
+      "start": 2280.79,
+      "end": 2281.69,
+      "text": "[SPEAKER_00]: you're not lying, right?"
+    },
+    {
+      "start": 2281.69,
+      "end": 2283.13,
+      "text": "[SPEAKER_00]: You can't just make up a number here"
+    },
+    {
+      "start": 2283.13,
+      "end": 2286.01,
+      "text": "[SPEAKER_00]: because you will get caught and you will get in trouble."
+    },
+    {
+      "start": 2286.07,
+      "end": 2287.81,
+      "text": "[SPEAKER_00]: And that is against the FTC rules."
+    },
+    {
+      "start": 2288.27,
+      "end": 2289.53,
+      "text": "[SPEAKER_00]: Number 29, do you know what's better"
+    },
+    {
+      "start": 2289.53,
+      "end": 2291.35,
+      "text": "[SPEAKER_00]: than imagery on your PDPs?"
+    },
+    {
+      "start": 2291.83,
+      "end": 2293.99,
+      "text": "[SPEAKER_00]: Videos, showing your product in videos"
+    },
+    {
+      "start": 2293.99,
+      "end": 2295.91,
+      "text": "[SPEAKER_00]: can increase conversion rate a ton."
+    },
+    {
+      "start": 2296.31,
+      "end": 2297.17,
+      "text": "[SPEAKER_00]: Highly recommend it."
+    },
+    {
+      "start": 2297.19,
+      "end": 2300.45,
+      "text": "[SPEAKER_00]: Sometimes even bottom right corner."
+    },
+    {
+      "start": 2300.89,
+      "end": 2302.85,
+      "text": "[SPEAKER_00]: I've seen founder videos do really well."
+    },
+    {
+      "start": 2303.17,
+      "end": 2306.39,
+      "text": "[SPEAKER_00]: But if not, then at least have videos on the page."
+    },
+    {
+      "start": 2307.03,
+      "end": 2307.99,
+      "text": "[SPEAKER_00]: You could even put,"
+    },
+    {
+      "start": 2308.05,
+      "end": 2310.59,
+      "text": "[SPEAKER_00]: I would definitely recommend actually putting thumbnails"
+    },
+    {
+      "start": 2310.59,
+      "end": 2312.17,
+      "text": "[SPEAKER_00]: for those videos that sort of tell you"
+    },
+    {
+      "start": 2312.17,
+      "end": 2313.49,
+      "text": "[SPEAKER_00]: what the video is about to show you."
+    },
+    {
+      "start": 2313.75,
+      "end": 2315.73,
+      "text": "[SPEAKER_00]: So for example, if somebody wants to understand"
+    },
+    {
+      "start": 2316.71,
+      "end": 2318.19,
+      "text": "[SPEAKER_00]: how to style this bag,"
+    },
+    {
+      "start": 2318.51,
+      "end": 2320.71,
+      "text": "[SPEAKER_00]: then it should be very clear"
+    },
+    {
+      "start": 2320.71,
+      "end": 2322.83,
+      "text": "[SPEAKER_00]: that the video is about to show you how to style a bag."
+    },
+    {
+      "start": 2325.25,
+      "end": 2327.31,
+      "text": "[SPEAKER_00]: Or if it's a piece of clothing"
+    },
+    {
+      "start": 2327.31,
+      "end": 2329.91,
+      "text": "[SPEAKER_00]: and it's how does it look on different size humans?"
+    },
+    {
+      "start": 2330.51,
+      "end": 2331.85,
+      "text": "[SPEAKER_00]: Just make that the thumbnail"
+    },
+    {
+      "start": 2331.85,
+      "end": 2334.53,
+      "text": "[SPEAKER_00]: so that you can see what you're about to watch."
+    },
+    {
+      "start": 2334.85,
+      "end": 2337.87,
+      "text": "[SPEAKER_00]: Number 30, optimize your text and your visuals"
+    },
+    {
+      "start": 2337.87,
+      "end": 2339.37,
+      "text": "[SPEAKER_00]: for the most visited screen size."
+    },
+    {
+      "start": 2339.37,
+      "end": 2340.91,
+      "text": "[SPEAKER_00]: Most likely this is an iPhone."
+    },
+    {
+      "start": 2341.65,
+      "end": 2344.97,
+      "text": "[SPEAKER_00]: I have seen some scenarios where people"
+    },
+    {
+      "start": 2344.97,
+      "end": 2347.79,
+      "text": "[SPEAKER_00]: don't have their iPhone as their most visited screen size."
+    },
+    {
+      "start": 2347.89,
+      "end": 2349.19,
+      "text": "[SPEAKER_00]: They're usually selling something different."
+    },
+    {
+      "start": 2349.19,
+      "end": 2352.97,
+      "text": "[SPEAKER_00]: It might be like CPAP machines or Jitterbug,"
+    },
+    {
+      "start": 2353.39,
+      "end": 2354.39,
+      "text": "[SPEAKER_00]: whatever it may be."
+    },
+    {
+      "start": 2354.39,
+      "end": 2358.29,
+      "text": "[SPEAKER_00]: Just look at what your most visited screen size is"
+    },
+    {
+      "start": 2358.29,
+      "end": 2359.75,
+      "text": "[SPEAKER_00]: and make sure you're designing for that."
+    },
+    {
+      "start": 2360.63,
+      "end": 2363.81,
+      "text": "[SPEAKER_00]: Number 31, if a third grader or your grandma"
+    },
+    {
+      "start": 2363.81,
+      "end": 2366.31,
+      "text": "[SPEAKER_00]: cannot understand your product and your offer"
+    },
+    {
+      "start": 2366.31,
+      "end": 2368.63,
+      "text": "[SPEAKER_00]: and how to check out or buy from your site,"
+    },
+    {
+      "start": 2368.63,
+      "end": 2370.07,
+      "text": "[SPEAKER_00]: your site's way too complicated."
+    },
+    {
+      "start": 2370.27,
+      "end": 2372.39,
+      "text": "[SPEAKER_00]: Go back to the drawing board and simplify it."
+    },
+    {
+      "start": 2372.85,
+      "end": 2375.79,
+      "text": "[SPEAKER_00]: You can always do the drunk test as well,"
+    },
+    {
+      "start": 2376.19,
+      "end": 2378.57,
+      "text": "[SPEAKER_00]: which is somebody who's a couple drinks in."
+    },
+    {
+      "start": 2378.85,
+      "end": 2380.23,
+      "text": "[SPEAKER_00]: If you give them their site,"
+    },
+    {
+      "start": 2380.27,
+      "end": 2382.19,
+      "text": "[SPEAKER_00]: can they go in and can they figure that out?"
+    },
+    {
+      "start": 2382.43,
+      "end": 2385.35,
+      "text": "[SPEAKER_00]: If not, then also a good nudge"
+    },
+    {
+      "start": 2385.35,
+      "end": 2387.17,
+      "text": "[SPEAKER_00]: to fix your site and simplify it."
+    },
+    {
+      "start": 2387.51,
+      "end": 2388.99,
+      "text": "[SPEAKER_00]: You wanna make sure somebody can understand"
+    },
+    {
+      "start": 2388.99,
+      "end": 2389.83,
+      "text": "[SPEAKER_00]: what is the product,"
+    },
+    {
+      "start": 2389.97,
+      "end": 2391.21,
+      "text": "[SPEAKER_00]: what are the benefits they're gonna get."
+    },
+    {
+      "start": 2391.59,
+      "end": 2393.53,
+      "text": "[SPEAKER_00]: If they buy it now, how soon is it gonna arrive?"
+    },
+    {
+      "start": 2393.85,
+      "end": 2395.37,
+      "text": "[SPEAKER_00]: How does it compare to the competition?"
+    },
+    {
+      "start": 2395.91,
+      "end": 2397.51,
+      "text": "[SPEAKER_00]: And what happens if they don't like it?"
+    },
+    {
+      "start": 2397.51,
+      "end": 2400.11,
+      "text": "[SPEAKER_00]: And if those six things are answered on your site,"
+    },
+    {
+      "start": 2400.39,
+      "end": 2402.15,
+      "text": "[SPEAKER_00]: you should have no problem converting people."
+    },
+    {
+      "start": 2402.85,
+      "end": 2404.67,
+      "text": "[SPEAKER_00]: The other thing is obviously positioning, right?"
+    },
+    {
+      "start": 2404.67,
+      "end": 2406.55,
+      "text": "[SPEAKER_00]: You wanna make sure that your positioning is smart,"
+    },
+    {
+      "start": 2406.55,
+      "end": 2408.75,
+      "text": "[SPEAKER_00]: but it's not hard to understand."
+    },
+    {
+      "start": 2408.83,
+      "end": 2411.17,
+      "text": "[SPEAKER_00]: For example, if you look at"
+    },
+    {
+      "start": 2411.71,
+      "end": 2413.15,
+      "text": "[SPEAKER_00]: the average filtered showerhead,"
+    },
+    {
+      "start": 2413.51,
+      "end": 2415.23,
+      "text": "[SPEAKER_00]: it just says it's a filtered showerhead."
+    },
+    {
+      "start": 2415.31,
+      "end": 2416.25,
+      "text": "[SPEAKER_00]: That's why they don't sell"
+    },
+    {
+      "start": 2416.25,
+      "end": 2417.93,
+      "text": "[SPEAKER_00]: and that's why they have to do buy one, get one."
+    },
+    {
+      "start": 2418.43,
+      "end": 2419.41,
+      "text": "[SPEAKER_00]: If you look at Jolie,"
+    },
+    {
+      "start": 2419.63,
+      "end": 2421.51,
+      "text": "[SPEAKER_00]: they position themselves as a beauty tool."
+    },
+    {
+      "start": 2421.69,
+      "end": 2423.25,
+      "text": "[SPEAKER_00]: Step zero in your beauty routine."
+    },
+    {
+      "start": 2423.73,
+      "end": 2426.23,
+      "text": "[SPEAKER_00]: This is the thing before everything you do on skincare."
+    },
+    {
+      "start": 2426.71,
+      "end": 2429.45,
+      "text": "[SPEAKER_00]: And it makes a lot of sense as to how it fits there."
+    },
+    {
+      "start": 2430.29,
+      "end": 2432.97,
+      "text": "[SPEAKER_00]: If your grandma or a fifth grader"
+    },
+    {
+      "start": 2432.97,
+      "end": 2434.81,
+      "text": "[SPEAKER_00]: or a drunk person can't understand that,"
+    },
+    {
+      "start": 2435.05,
+      "end": 2435.97,
+      "text": "[SPEAKER_00]: it's too complicated."
+    },
+    {
+      "start": 2436.41,
+      "end": 2439.39,
+      "text": "[SPEAKER_00]: So get fancy with your positioning and your messaging,"
+    },
+    {
+      "start": 2439.53,
+      "end": 2441.85,
+      "text": "[SPEAKER_00]: but don't get too fancy to where it's too complicated"
+    },
+    {
+      "start": 2441.85,
+      "end": 2442.97,
+      "text": "[SPEAKER_00]: and it's too on brand"
+    },
+    {
+      "start": 2442.97,
+      "end": 2444.29,
+      "text": "[SPEAKER_00]: and it doesn't really make sense."
+    },
+    {
+      "start": 2444.55,
+      "end": 2445.97,
+      "text": "[SPEAKER_00]: Which leads me to number 32,"
+    },
+    {
+      "start": 2446.33,
+      "end": 2448.25,
+      "text": "[SPEAKER_00]: which is that it might sound cool in the brand book,"
+    },
+    {
+      "start": 2448.25,
+      "end": 2450.19,
+      "text": "[SPEAKER_00]: but it actually makes no sense to the customer."
+    },
+    {
+      "start": 2450.59,
+      "end": 2452.13,
+      "text": "[SPEAKER_00]: So if that's the case, cut it."
+    },
+    {
+      "start": 2452.49,
+      "end": 2454.51,
+      "text": "[SPEAKER_00]: And you could just ask people you work with"
+    },
+    {
+      "start": 2454.51,
+      "end": 2456.43,
+      "text": "[SPEAKER_00]: that are not working internally,"
+    },
+    {
+      "start": 2456.67,
+      "end": 2457.75,
+      "text": "[SPEAKER_00]: but maybe they're an agency."
+    },
+    {
+      "start": 2458.15,
+      "end": 2459.39,
+      "text": "[SPEAKER_00]: Maybe they're a partner you work with."
+    },
+    {
+      "start": 2459.43,
+      "end": 2460.45,
+      "text": "[SPEAKER_00]: Maybe it's a contractor."
+    },
+    {
+      "start": 2460.91,
+      "end": 2462.29,
+      "text": "[SPEAKER_00]: Just get a gut check from them"
+    },
+    {
+      "start": 2462.29,
+      "end": 2464.05,
+      "text": "[SPEAKER_00]: and try to understand if something makes sense."
+    },
+    {
+      "start": 2464.71,
+      "end": 2466.11,
+      "text": "[SPEAKER_00]: As you're building the brand book"
+    },
+    {
+      "start": 2466.11,
+      "end": 2469.13,
+      "text": "[SPEAKER_00]: and if you were a part of building that brand book"
+    },
+    {
+      "start": 2469.13,
+      "end": 2470.23,
+      "text": "[SPEAKER_00]: or that visual identity,"
+    },
+    {
+      "start": 2470.27,
+      "end": 2473.03,
+      "text": "[SPEAKER_00]: you probably have a lot of romantic ties"
+    },
+    {
+      "start": 2473.03,
+      "end": 2473.73,
+      "text": "[SPEAKER_00]: to what's in there"
+    },
+    {
+      "start": 2473.73,
+      "end": 2475.55,
+      "text": "[SPEAKER_00]: and you might understand everything about it,"
+    },
+    {
+      "start": 2475.55,
+      "end": 2478.93,
+      "text": "[SPEAKER_00]: but the average person might not care about it"
+    },
+    {
+      "start": 2478.93,
+      "end": 2480.25,
+      "text": "[SPEAKER_00]: or they might not just understand."
+    },
+    {
+      "start": 2480.87,
+      "end": 2481.87,
+      "text": "[SPEAKER_00]: So make sure it's very clear."
+    },
+    {
+      "start": 2481.91,
+      "end": 2483.05,
+      "text": "[SPEAKER_00]: If it's not clear, cut it."
+    },
+    {
+      "start": 2483.05,
+      "end": 2485.71,
+      "text": "[SPEAKER_00]: You don't need it in your high performance funnels"
+    },
+    {
+      "start": 2485.71,
+      "end": 2486.89,
+      "text": "[SPEAKER_00]: or parts of the site."
+    },
+    {
+      "start": 2487.79,
+      "end": 2491.05,
+      "text": "[SPEAKER_00]: 33, never forget a FAQ section."
+    },
+    {
+      "start": 2491.27,
+      "end": 2493.01,
+      "text": "[SPEAKER_00]: It's one of the best ways to answer questions"
+    },
+    {
+      "start": 2493.01,
+      "end": 2494.81,
+      "text": "[SPEAKER_00]: and ensure confidence right before the purchase."
+    },
+    {
+      "start": 2495.29,
+      "end": 2497.03,
+      "text": "[SPEAKER_00]: It's also typically the last section that I check"
+    },
+    {
+      "start": 2497.03,
+      "end": 2498.25,
+      "text": "[SPEAKER_00]: before I hit buy."
+    },
+    {
+      "start": 2499.27,
+      "end": 2500.27,
+      "text": "[SPEAKER_00]: And FAQs also,"
+    },
+    {
+      "start": 2500.35,
+      "end": 2503.07,
+      "text": "[SPEAKER_00]: you wanna make sure that you're truly answering FAQs"
+    },
+    {
+      "start": 2503.07,
+      "end": 2506.53,
+      "text": "[SPEAKER_00]: because if you just fill in FAQs that sound,"
+    },
+    {
+      "start": 2506.53,
+      "end": 2510.13,
+      "text": "[SPEAKER_00]: again, on brand or kind of cheeky or fun or cute,"
+    },
+    {
+      "start": 2510.81,
+      "end": 2511.51,
+      "text": "[SPEAKER_00]: that's cool,"
+    },
+    {
+      "start": 2511.57,
+      "end": 2513.43,
+      "text": "[SPEAKER_00]: but you're gonna lose people going to Google"
+    },
+    {
+      "start": 2513.43,
+      "end": 2516.17,
+      "text": "[SPEAKER_00]: and actually trying to ask these questions."
+    },
+    {
+      "start": 2517.27,
+      "end": 2520.63,
+      "text": "[SPEAKER_00]: Number 34, don't hide the return information."
+    },
+    {
+      "start": 2520.79,
+      "end": 2522.27,
+      "text": "[SPEAKER_00]: In fact, this is one of the biggest things"
+    },
+    {
+      "start": 2522.27,
+      "end": 2523.95,
+      "text": "[SPEAKER_00]: that I think will drive a purchase"
+    },
+    {
+      "start": 2523.95,
+      "end": 2528.03,
+      "text": "[SPEAKER_00]: is understanding what happens if I don't like the product?"
+    },
+    {
+      "start": 2528.33,
+      "end": 2531.89,
+      "text": "[SPEAKER_00]: Is there a guarantee of 30 days?"
+    },
+    {
+      "start": 2532.05,
+      "end": 2533.37,
+      "text": "[SPEAKER_00]: Is it easy to make a return?"
+    },
+    {
+      "start": 2533.47,
+      "end": 2535.05,
+      "text": "[SPEAKER_00]: What happens if I need to make a return?"
+    },
+    {
+      "start": 2535.11,
+      "end": 2535.93,
+      "text": "[SPEAKER_00]: Do I have to ship it back?"
+    },
+    {
+      "start": 2535.97,
+      "end": 2536.77,
+      "text": "[SPEAKER_00]: Do I just get a refund?"
+    },
+    {
+      "start": 2536.89,
+      "end": 2537.89,
+      "text": "[SPEAKER_00]: Do I just email somebody?"
+    },
+    {
+      "start": 2538.23,
+      "end": 2539.55,
+      "text": "[SPEAKER_00]: Make it very clear to understand."
+    },
+    {
+      "start": 2540.57,
+      "end": 2542.95,
+      "text": "[SPEAKER_00]: I believe Google Shopping now requires"
+    },
+    {
+      "start": 2542.95,
+      "end": 2545.73,
+      "text": "[SPEAKER_00]: that you have a 30 day minimum return policy."
+    },
+    {
+      "start": 2546.51,
+      "end": 2547.85,
+      "text": "[SPEAKER_00]: So again, make that very clear."
+    },
+    {
+      "start": 2548.17,
+      "end": 2549.27,
+      "text": "[SPEAKER_00]: Don't make it hard to find."
+    },
+    {
+      "start": 2549.59,
+      "end": 2552.95,
+      "text": "[SPEAKER_00]: It's a fairly decent traffic piece of the site."
+    },
+    {
+      "start": 2553.69,
+      "end": 2555.77,
+      "text": "[SPEAKER_00]: You can obviously add this to your product pages"
+    },
+    {
+      "start": 2555.77,
+      "end": 2557.69,
+      "text": "[SPEAKER_00]: so somebody doesn't have to click to go there,"
+    },
+    {
+      "start": 2557.69,
+      "end": 2560.23,
+      "text": "[SPEAKER_00]: but also recommend having a separate page"
+    },
+    {
+      "start": 2560.23,
+      "end": 2561.89,
+      "text": "[SPEAKER_00]: for those who are Googling this."
+    },
+    {
+      "start": 2562.67,
+      "end": 2564.29,
+      "text": "[SPEAKER_00]: Number 35, directly related."
+    },
+    {
+      "start": 2564.47,
+      "end": 2567.31,
+      "text": "[SPEAKER_00]: If there is a 15, a 30 or a 60 day money back"
+    },
+    {
+      "start": 2567.31,
+      "end": 2568.99,
+      "text": "[SPEAKER_00]: guarantee, highlight it."
+    },
+    {
+      "start": 2568.99,
+      "end": 2571.11,
+      "text": "[SPEAKER_00]: Make it very obvious what the money back guarantee"
+    },
+    {
+      "start": 2571.11,
+      "end": 2574.47,
+      "text": "[SPEAKER_00]: or what the return policy is or how long those days are."
+    },
+    {
+      "start": 2574.83,
+      "end": 2575.85,
+      "text": "[SPEAKER_00]: You wanna make it very easy."
+    },
+    {
+      "start": 2575.87,
+      "end": 2578.35,
+      "text": "[SPEAKER_00]: This works especially well for products"
+    },
+    {
+      "start": 2578.35,
+      "end": 2579.57,
+      "text": "[SPEAKER_00]: or brands targeting men."
+    },
+    {
+      "start": 2580.33,
+      "end": 2582.19,
+      "text": "[SPEAKER_00]: They just wanna know that, okay, if I don't like it,"
+    },
+    {
+      "start": 2582.19,
+      "end": 2583.47,
+      "text": "[SPEAKER_00]: there's a way to get out of it."
+    },
+    {
+      "start": 2583.51,
+      "end": 2584.53,
+      "text": "[SPEAKER_00]: I'm not stuck with it."
+    },
+    {
+      "start": 2584.75,
+      "end": 2586.13,
+      "text": "[SPEAKER_00]: My girlfriend's not gonna be mad at me."
+    },
+    {
+      "start": 2587.33,
+      "end": 2591.03,
+      "text": "[SPEAKER_00]: Number 36, describe your brand as a person, right?"
+    },
+    {
+      "start": 2591.45,
+      "end": 2593.93,
+      "text": "[SPEAKER_00]: Try to figure out, you know, if this was a person,"
+    },
+    {
+      "start": 2594.11,
+      "end": 2595.01,
+      "text": "[SPEAKER_00]: what time are they waking up?"
+    },
+    {
+      "start": 2595.15,
+      "end": 2596.43,
+      "text": "[SPEAKER_00]: What are they doing when they wake up?"
+    },
+    {
+      "start": 2596.75,
+      "end": 2597.77,
+      "text": "[SPEAKER_00]: Do they go to nice dinners?"
+    },
+    {
+      "start": 2597.77,
+      "end": 2599.13,
+      "text": "[SPEAKER_00]: Do they go to lame dinners?"
+    },
+    {
+      "start": 2599.29,
+      "end": 2599.91,
+      "text": "[SPEAKER_00]: Are they fashionable?"
+    },
+    {
+      "start": 2600.03,
+      "end": 2600.85,
+      "text": "[SPEAKER_00]: They got style."
+    },
+    {
+      "start": 2601.29,
+      "end": 2603.11,
+      "text": "[SPEAKER_00]: You wanna try to build this persona."
+    },
+    {
+      "start": 2603.19,
+      "end": 2604.93,
+      "text": "[SPEAKER_00]: This just kinda helps you as you're writing copy"
+    },
+    {
+      "start": 2604.93,
+      "end": 2606.05,
+      "text": "[SPEAKER_00]: or thinking through creative."
+    },
+    {
+      "start": 2606.53,
+      "end": 2607.79,
+      "text": "[SPEAKER_00]: It almost becomes like a filter."
+    },
+    {
+      "start": 2608.01,
+      "end": 2608.99,
+      "text": "[SPEAKER_00]: So any ideas you have,"
+    },
+    {
+      "start": 2609.01,
+      "end": 2610.37,
+      "text": "[SPEAKER_00]: you can put it through this filter, right?"
+    },
+    {
+      "start": 2610.41,
+      "end": 2612.51,
+      "text": "[SPEAKER_00]: Does it feel like this person would do that?"
+    },
+    {
+      "start": 2613.85,
+      "end": 2615.65,
+      "text": "[SPEAKER_00]: And you could even name your person something."
+    },
+    {
+      "start": 2615.71,
+      "end": 2616.63,
+      "text": "[SPEAKER_00]: You could say, all right,"
+    },
+    {
+      "start": 2616.75,
+      "end": 2620.37,
+      "text": "[SPEAKER_00]: if Carly is bougie and loves fancy dinners"
+    },
+    {
+      "start": 2620.37,
+      "end": 2622.03,
+      "text": "[SPEAKER_00]: and, you know, loves to travel,"
+    },
+    {
+      "start": 2622.37,
+      "end": 2624.43,
+      "text": "[SPEAKER_00]: okay, well, if we're gonna do this campaign"
+    },
+    {
+      "start": 2624.43,
+      "end": 2626.81,
+      "text": "[SPEAKER_00]: or this giveaway on social media"
+    },
+    {
+      "start": 2626.81,
+      "end": 2629.23,
+      "text": "[SPEAKER_00]: or post this Instagram story or put this ad out,"
+    },
+    {
+      "start": 2629.39,
+      "end": 2630.67,
+      "text": "[SPEAKER_00]: does that vibe with Carly"
+    },
+    {
+      "start": 2630.67,
+      "end": 2632.11,
+      "text": "[SPEAKER_00]: or is that something Carly would do?"
+    },
+    {
+      "start": 2632.39,
+      "end": 2633.43,
+      "text": "[SPEAKER_00]: It's a very good filter"
+    },
+    {
+      "start": 2633.43,
+      "end": 2635.87,
+      "text": "[SPEAKER_00]: and actually a very easy way to kinda like"
+    },
+    {
+      "start": 2635.87,
+      "end": 2638.21,
+      "text": "[SPEAKER_00]: make sure you've got checks and balances on the content."
+    },
+    {
+      "start": 2639.19,
+      "end": 2641.97,
+      "text": "[SPEAKER_00]: Number 37, make sure that your page load"
+    },
+    {
+      "start": 2641.97,
+      "end": 2643.21,
+      "text": "[SPEAKER_00]: is under one second."
+    },
+    {
+      "start": 2643.73,
+      "end": 2645.43,
+      "text": "[SPEAKER_00]: I've seen multiple pages"
+    },
+    {
+      "start": 2645.43,
+      "end": 2647.33,
+      "text": "[SPEAKER_00]: that take two to three seconds to load"
+    },
+    {
+      "start": 2647.33,
+      "end": 2648.53,
+      "text": "[SPEAKER_00]: and customers bounce."
+    },
+    {
+      "start": 2648.59,
+      "end": 2650.75,
+      "text": "[SPEAKER_00]: Your bounce rate can be 60, 70%."
+    },
+    {
+      "start": 2650.75,
+      "end": 2653.11,
+      "text": "[SPEAKER_00]: These are people coming from ads most likely."
+    },
+    {
+      "start": 2653.11,
+      "end": 2654.37,
+      "text": "[SPEAKER_00]: So they're clicking an ad."
+    },
+    {
+      "start": 2654.87,
+      "end": 2658.11,
+      "text": "[SPEAKER_00]: They're in a in-app browser on Facebook or Instagram"
+    },
+    {
+      "start": 2658.11,
+      "end": 2660.77,
+      "text": "[SPEAKER_00]: or X or wherever it is, or TikTok, Snap."
+    },
+    {
+      "start": 2661.37,
+      "end": 2663.43,
+      "text": "[SPEAKER_00]: And those browsers are also a little bit slow."
+    },
+    {
+      "start": 2663.49,
+      "end": 2665.17,
+      "text": "[SPEAKER_00]: So you have to be extremely fast"
+    },
+    {
+      "start": 2665.17,
+      "end": 2667.17,
+      "text": "[SPEAKER_00]: for those browsers to feel fast"
+    },
+    {
+      "start": 2667.17,
+      "end": 2669.27,
+      "text": "[SPEAKER_00]: when somebody's loading your page."
+    },
+    {
+      "start": 2669.81,
+      "end": 2672.75,
+      "text": "[SPEAKER_00]: Number 38, you need to test upsells and cross-sells."
+    },
+    {
+      "start": 2672.85,
+      "end": 2675.77,
+      "text": "[SPEAKER_00]: I would test them both pre-purchase and post-purchase."
+    },
+    {
+      "start": 2676.17,
+      "end": 2677.61,
+      "text": "[SPEAKER_00]: I would also test them"
+    },
+    {
+      "start": 2677.61,
+      "end": 2679.37,
+      "text": "[SPEAKER_00]: as you're adding products to the cart."
+    },
+    {
+      "start": 2679.45,
+      "end": 2681.43,
+      "text": "[SPEAKER_00]: So if I add something to my cart,"
+    },
+    {
+      "start": 2681.43,
+      "end": 2682.61,
+      "text": "[SPEAKER_00]: I should see a pop-up,"
+    },
+    {
+      "start": 2682.61,
+      "end": 2685.77,
+      "text": "[SPEAKER_00]: might ask me for something complimentary or adjacent."
+    },
+    {
+      "start": 2686.67,
+      "end": 2689.33,
+      "text": "[SPEAKER_00]: In the cart itself, another opportunity to have products"
+    },
+    {
+      "start": 2689.33,
+      "end": 2691.51,
+      "text": "[SPEAKER_00]: that people can add as upsells."
+    },
+    {
+      "start": 2691.85,
+      "end": 2693.27,
+      "text": "[SPEAKER_00]: In the checkout as well,"
+    },
+    {
+      "start": 2693.35,
+      "end": 2694.55,
+      "text": "[SPEAKER_00]: you can use checkout blocks"
+    },
+    {
+      "start": 2694.55,
+      "end": 2696.81,
+      "text": "[SPEAKER_00]: to add products for upsell there"
+    },
+    {
+      "start": 2696.81,
+      "end": 2698.85,
+      "text": "[SPEAKER_00]: and then post-purchase as well."
+    },
+    {
+      "start": 2699.43,
+      "end": 2701.71,
+      "text": "[SPEAKER_00]: Moyes has talked a lot about adding the same product"
+    },
+    {
+      "start": 2701.71,
+      "end": 2702.67,
+      "text": "[SPEAKER_00]: that you have before,"
+    },
+    {
+      "start": 2703.01,
+      "end": 2704.45,
+      "text": "[SPEAKER_00]: making that the post-purchase offer"
+    },
+    {
+      "start": 2704.45,
+      "end": 2706.37,
+      "text": "[SPEAKER_00]: and people are likely to buy that again."
+    },
+    {
+      "start": 2707.33,
+      "end": 2709.55,
+      "text": "[SPEAKER_00]: Number 39, add social proof"
+    },
+    {
+      "start": 2709.55,
+      "end": 2711.03,
+      "text": "[SPEAKER_00]: directly to the checkout screen."
+    },
+    {
+      "start": 2711.03,
+      "end": 2712.91,
+      "text": "[SPEAKER_00]: So as someone is checking out,"
+    },
+    {
+      "start": 2713.21,
+      "end": 2716.59,
+      "text": "[SPEAKER_00]: it should say 500 happy customers also bought this"
+    },
+    {
+      "start": 2716.59,
+      "end": 2719.95,
+      "text": "[SPEAKER_00]: or 30,000 orders shipped"
+    },
+    {
+      "start": 2719.95,
+      "end": 2723.15,
+      "text": "[SPEAKER_00]: or 30,000 bottles in customer's hands"
+    },
+    {
+      "start": 2723.15,
+      "end": 2726.45,
+      "text": "[SPEAKER_00]: or 100,000 customers around the globe."
+    },
+    {
+      "start": 2726.49,
+      "end": 2728.59,
+      "text": "[SPEAKER_00]: Something that is just reassuring somebody"
+    },
+    {
+      "start": 2728.59,
+      "end": 2730.65,
+      "text": "[SPEAKER_00]: as they're putting their credit card information in"
+    },
+    {
+      "start": 2730.65,
+      "end": 2732.35,
+      "text": "[SPEAKER_00]: that they're not making a mistake,"
+    },
+    {
+      "start": 2732.41,
+      "end": 2733.69,
+      "text": "[SPEAKER_00]: they're not the first to try it,"
+    },
+    {
+      "start": 2734.05,
+      "end": 2735.77,
+      "text": "[SPEAKER_00]: somebody else has gotten their products before"
+    },
+    {
+      "start": 2735.77,
+      "end": 2736.71,
+      "text": "[SPEAKER_00]: so they should be good"
+    },
+    {
+      "start": 2736.71,
+      "end": 2739.31,
+      "text": "[SPEAKER_00]: and you're really just kind of like giving somebody"
+    },
+    {
+      "start": 2739.31,
+      "end": 2740.09,
+      "text": "[SPEAKER_00]: a pat on the back"
+    },
+    {
+      "start": 2740.09,
+      "end": 2741.47,
+      "text": "[SPEAKER_00]: as they're taking their credit card out."
+    },
+    {
+      "start": 2742.35,
+      "end": 2744.89,
+      "text": "[SPEAKER_00]: And the last thing is to test variations."
+    },
+    {
+      "start": 2745.01,
+      "end": 2747.15,
+      "text": "[SPEAKER_00]: It's the single most important thing you can do."
+    },
+    {
+      "start": 2747.47,
+      "end": 2750.13,
+      "text": "[SPEAKER_00]: All you need to do is just make duplicates of your page"
+    },
+    {
+      "start": 2750.75,
+      "end": 2753.65,
+      "text": "[SPEAKER_00]: and split test copy imagery offers."
+    },
+    {
+      "start": 2753.77,
+      "end": 2756.25,
+      "text": "[SPEAKER_00]: You can use the same traffic source that's driving it in"
+    },
+    {
+      "start": 2756.25,
+      "end": 2758.67,
+      "text": "[SPEAKER_00]: that we can run a very clean experiment"
+    },
+    {
+      "start": 2758.67,
+      "end": 2759.71,
+      "text": "[SPEAKER_00]: with one variable."
+    },
+    {
+      "start": 2760.91,
+      "end": 2763.35,
+      "text": "[SPEAKER_00]: And honestly, the only way to boost conversion rate"
+    },
+    {
+      "start": 2763.35,
+      "end": 2765.23,
+      "text": "[SPEAKER_00]: is to just try to improve your conversion rate"
+    },
+    {
+      "start": 2765.23,
+      "end": 2766.41,
+      "text": "[SPEAKER_00]: by 1% at a time."
+    },
+    {
+      "start": 2766.41,
+      "end": 2769.23,
+      "text": "[SPEAKER_00]: So whether this is taking a page"
+    },
+    {
+      "start": 2769.23,
+      "end": 2771.47,
+      "text": "[SPEAKER_00]: and just changing the stuff there"
+    },
+    {
+      "start": 2771.47,
+      "end": 2772.63,
+      "text": "[SPEAKER_00]: and monitoring conversion,"
+    },
+    {
+      "start": 2772.95,
+      "end": 2775.19,
+      "text": "[SPEAKER_00]: or you use something like a software tool"
+    },
+    {
+      "start": 2775.19,
+      "end": 2776.65,
+      "text": "[SPEAKER_00]: that helps you split traffic better"
+    },
+    {
+      "start": 2776.65,
+      "end": 2778.51,
+      "text": "[SPEAKER_00]: and then understand the conversion rate,"
+    },
+    {
+      "start": 2778.61,
+      "end": 2779.83,
+      "text": "[SPEAKER_00]: you can do it either way."
+    },
+    {
+      "start": 2780.03,
+      "end": 2781.63,
+      "text": "[SPEAKER_00]: But I highly, highly, highly recommend"
+    },
+    {
+      "start": 2781.63,
+      "end": 2782.89,
+      "text": "[SPEAKER_00]: that you're testing variations."
+    },
+    {
+      "start": 2782.91,
+      "end": 2784.19,
+      "text": "[SPEAKER_00]: It makes a huge difference."
+    },
+    {
+      "start": 2785.09,
+      "end": 2788.45,
+      "text": "[SPEAKER_00]: And your 0.2% increase in conversion rate"
+    },
+    {
+      "start": 2788.45,
+      "end": 2789.77,
+      "text": "[SPEAKER_00]: might not feel like a lot,"
+    },
+    {
+      "start": 2789.79,
+      "end": 2791.85,
+      "text": "[SPEAKER_00]: but you run these tests over a period of six"
+    },
+    {
+      "start": 2791.85,
+      "end": 2793.41,
+      "text": "[SPEAKER_00]: to eight months, maybe 12 months,"
+    },
+    {
+      "start": 2793.41,
+      "end": 2795.45,
+      "text": "[SPEAKER_00]: and you might end up doubling your conversion rate"
+    },
+    {
+      "start": 2795.45,
+      "end": 2796.11,
+      "text": "[SPEAKER_00]: as a result."
+    },
+    {
+      "start": 2796.89,
+      "end": 2797.93,
+      "text": "[SPEAKER_00]: Those are the 40 tips."
+    },
+    {
+      "start": 2798.13,
+      "end": 2799.75,
+      "text": "[SPEAKER_00]: I hope that these were valuable."
+    },
+    {
+      "start": 2800.41,
+      "end": 2801.85,
+      "text": "[SPEAKER_00]: If you've got any that I missed,"
+    },
+    {
+      "start": 2802.13,
+      "end": 2804.23,
+      "text": "[SPEAKER_00]: shoot me an email n at sharma.com"
+    },
+    {
+      "start": 2804.23,
+      "end": 2806.45,
+      "text": "[SPEAKER_00]: and I'll add it in."
+    },
+    {
+      "start": 2806.59,
+      "end": 2808.99,
+      "text": "[SPEAKER_00]: Otherwise, I hope you enjoyed today's episode"
+    },
+    {
+      "start": 2808.99,
+      "end": 2810.21,
+      "text": "[SPEAKER_00]: and I'll see you next week."
+    },
+    {
+      "start": 2811.59,
+      "end": 2812.27,
+      "text": "[SPEAKER_00]: Thanks for listening."
+    },
+    {
+      "start": 2812.47,
+      "end": 2814.13,
+      "text": "[SPEAKER_00]: We'll be back next time to cut through the noise"
+    },
+    {
+      "start": 2814.13,
+      "end": 2816.05,
+      "text": "[SPEAKER_00]: on CPG retail and e-commerce."
+    },
+    {
+      "start": 2816.37,
+      "end": 2817.57,
+      "text": "[SPEAKER_00]: If you enjoyed this episode,"
+    },
+    {
+      "start": 2817.69,
+      "end": 2818.79,
+      "text": "[SPEAKER_00]: why not share it with a friend"
+    },
+    {
+      "start": 2818.79,
+      "end": 2820.91,
+      "text": "[SPEAKER_00]: and be sure to subscribe wherever you listen"
+    },
+    {
+      "start": 2820.91,
+      "end": 2821.97,
+      "text": "[SPEAKER_00]: so you don't miss the next one."
+    }
+  ]
+}

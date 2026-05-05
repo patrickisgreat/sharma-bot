@@ -1,0 +1,544 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 47.89,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. Big screen ads without big screen headaches. Roku Ads Manager is a self-service CTV platform that helps advertisers drive outcomes across the funnel. Start today at advertising.roku.com slash limited supply."
+    },
+    {
+      "start": 50.33,
+      "end": 80.25,
+      "text": "All right, John, welcome to Limited Supply. It's a pleasure to have you here. It's been a long time coming, I think. We've worked on a few projects together in the past. So excited to have you here. And I'm excited to talk about something I don't really talk about too often, which is diving straight into branding. But before we get into the tactical side of branding and positioning and all those good things, why don't you give us a quick background on yourself, your company, how we know each other, and then we're going to get into the nuts and bolts of it."
+    },
+    {
+      "start": 80.79,
+      "end": 101.49,
+      "text": "Let's do it. Let's do it. Well, the feelings are mutual, Nick. I'm super excited to be here. And yes, it does feel like a long time coming. And I know every time I see you, I gas you up because I've never met anybody more consistent with like super valuable information every Sunday or almost every Sunday."
+    },
+    {
+      "start": 101.49,
+      "end": 115.15,
+      "text": "I know you're hitting me in my inbox recommending I have a cold beverage in hand and it's like the marketing version of Mr. Rogers coming into my home. So I appreciate it. Of course."
+    },
+    {
+      "start": 115.41,
+      "end": 132.35,
+      "text": "So yes, I am the co-founder and chief creative at Herman Shear. We are a branding agency and we work with businesses at any inflection point to help them grow through the lens of branding."
+    },
+    {
+      "start": 132.35,
+      "end": 160.97,
+      "text": "And for us, brand and business are synonymous. So when I say inflection point, that could be zero to one where founders have an idea to bring a company to market or for businesses that have grown really well in a direct to consumer channel and now are looking to go omni channel or come retail or they've got a new product that they want to launch and need help figuring out how to position that product within the wider brand strategy story."
+    },
+    {
+      "start": 160.97,
+      "end": 184.67,
+      "text": "So at any point, we're there for you. And so that kind of permeates its way through strategy, identity, and then any of the kind of go to market production oriented touch points, be it packaging, web, photo and video content, et cetera. And cut me off when my intro gets too long, Nick."
+    },
+    {
+      "start": 184.67,
+      "end": 213.29,
+      "text": "I know you're good. I think it's good because it just gives the listener some good context on the stuff we're about to talk about. Yeah. What you said was interesting is you help grow brands through branding. So I guess if we were to start from infancy as a brand, where do you think that branding is first important to play a part or start working on?"
+    },
+    {
+      "start": 213.29,
+      "end": 230.53,
+      "text": "So a lot of times people who are listening to this, they might have their product ready to go. They might understand what their messaging is in terms of how best to position their product and sell it, either because it's a problem solution or it's a demonstrable product or it has some unique technology in it."
+    },
+    {
+      "start": 232.13,
+      "end": 255.69,
+      "text": "But the branding piece is so unique because there's so many examples where you have two companies that sell the exact same product, sometimes made by the same manufacturer behind the scenes, but to a completely different audience. And that's just really a function of branding. And a lot of times I find that usually founders really get branding, like they get it from the beginning, they understand its importance, how necessary it is."
+    },
+    {
+      "start": 256.17,
+      "end": 280.85,
+      "text": "And a lot of times they're down to spend extra, you know, like the same way they would spend more on product development, they're down to spend extra on branding. And then there's the other camp, which is like the complete opposite. They're like, well, let's just get to market first. We can figure out branding later. Position doesn't matter as much. How do you kind of think about that dichotomy or even just like, you know, how do you approach founders when you talk to them about the importance of branding?"
+    },
+    {
+      "start": 280.85,
+      "end": 310.11,
+      "text": "And the last thing I'll add there too is like, you know, that chart where it's like, you have a really long, maybe a line chart and you change one degree above or below at the beginning and it makes a huge difference way down the line. To me, that's branding. Like when you make those one degree decisions up front and you're very meticulous about it, it impacts very much down the line, but you can't quantify that. It's not a short term dopamine hit. And so I think a lot of people forego it. So I'll leave it there. Totally."
+    },
+    {
+      "start": 310.11,
+      "end": 338.01,
+      "text": "You know, I actually think a lot has changed in the last five years in terms of the importance of brand. So back in like 2020 to 2022, the barrier to entry to launch a new product, a new idea, people were really hip to be able to spin a product up, get on Shopify,"
+    },
+    {
+      "start": 338.01,
+      "end": 358.29,
+      "text": "take advantage of, you know, what was really humming at the time of, you know, the meta marketing funnel. And also venture capital was really accessible for a lot of people. Like people were able to raise a million bucks to start a adaptogenic guacamole brand, you know, whatever it was. That's funny."
+    },
+    {
+      "start": 358.29,
+      "end": 386.05,
+      "text": "And so I think the idea of like move fast, learn and adapt as you go like that mind state made a lot of sense then. Because there was more capital to be spent on it. There was you could just move quick and break things, as they say. And brand wasn't as important. But now the barrier to entry is still low, but capital isn't quite there."
+    },
+    {
+      "start": 386.23,
+      "end": 410.51,
+      "text": "As you have been preaching, like the marketing mix now is so much more complicated. And, but the competition is still there. And so I believe, you know, if you ask a surgeon, should we do surgery? They'll likely tell you, you know, surgery is going to be the best option. So I, you know, I know I'm biased in saying this, but brand to me is synonymous with business strategy."
+    },
+    {
+      "start": 410.51,
+      "end": 435.49,
+      "text": "And so when you have a sound business strategy up front and brand strategy up front, to me, that sets the foundation of what you're building as a business. Who is it for? At least to start. And how then that's the strategy, right? At the most basic level is what is this? Who is it for?"
+    },
+    {
+      "start": 435.49,
+      "end": 456.87,
+      "text": "Or also understanding how to differentiate it against all the incumbents and any potential newcomers. And then the manifestation of that into identity is how do we look, sound, and feel through that lens? And I believe the most important thing to do up front is to define what are you, what are you building? What are you growing into?"
+    },
+    {
+      "start": 456.87,
+      "end": 476.11,
+      "text": "Because if you go out there and you just start throwing spaghetti at the wall, it's going to get real expensive, real messy, and real hard on internal teams and agencies. If you just go out there, put something out and just iterate and test and pivot and do different creative over and over again."
+    },
+    {
+      "start": 476.11,
+      "end": 501.97,
+      "text": "Like that'll definitely, you're going to grow a business that'll be worth something, but you'll then likely lose sight of what you're building because you have no foundation. There's no blueprint to work from and work towards. And so I think a lot of times what I see get messed up or people get confused by is the difference between brand positioning and product positioning."
+    },
+    {
+      "start": 503.61,
+      "end": 530.87,
+      "text": "And, you know, a lot of the companies that we work with, they'll start with an amazing initial skew, one product, and then they're like, we've got an idea for this. But they don't know how to talk about now the brand and the product and the new product because there was no foundation for them to grow into. So that's one of the big inflection points I see to help people through. Yeah, I also feel like without, there's definitely anomaly."
+    },
+    {
+      "start": 531.25,
+      "end": 557.75,
+      "text": "There's a number of anomaly examples of companies that I think also, they grew really fast or they grew to be big companies because their product is so well-liked and well-known. Like, you know, Hintwater is a great example of that. Before 2017, there was no real brand. Everything was kind of all over the place. There was no cohesiveness to the design, to the packaging, to the website, nothing."
+    },
+    {
+      "start": 559.21,
+      "end": 581.53,
+      "text": "And, but people loved the product so much that it just grew rapidly. And, you know, I think like a good, companies like that turn into almost like product businesses. Now, when they went to go launch sunscreen and toothpaste, deodorant, even caffeinated water, you know, like none of that brand really came in and helped support."
+    },
+    {
+      "start": 581.53,
+      "end": 611.11,
+      "text": "We did a successful sunscreen launch in retail, but that was because then we went out and branded sunscreen really hard amongst influencers, podcasts, creators, newsletters. But there was no brand carryover from that because it was really a product business. It was a flavored water product business. And I think that speaks to exactly what you're saying. On the other thought, I'm thinking, or on the other hand, I'm thinking, well, what a lot of people see at branding agencies is this really beautiful execution across every touchpoint."
+    },
+    {
+      "start": 611.25,
+      "end": 638.11,
+      "text": "Whether it's social, whether it's email, whether it's iconography, animation, motion graphics. But then you look at companies like a Home Depot or a Lowe's, and these guys never have beautifully designed emails or social posts. So like, how do you think about branding in that way? Or is it that because they're so old, they don't necessarily need that kind of, you know, like when you look at a net new artist today, right? They're putting out insane amounts of content to break through the noise, become heard or get attention."
+    },
+    {
+      "start": 638.11,
+      "end": 661.4,
+      "text": "But then these more, you know, older school artists, they don't need to put out as much content because their name holds that notoriety. Do you think it's very similar in the branding world? Yeah. I mean, legacy businesses who have decades under their belt building brand equity, the kind of the beauty of it all may not matter as much, especially like for something like Home Depot."
+    },
+    {
+      "start": 661.4,
+      "end": 684.22,
+      "text": "It's very utility oriented and there's not a whole lot of competition, but I tell you what, if I got a chance to work with Home Depot, what a fun project that would be. But yeah, I think with Home Depot example, they've just, they've been advertising and in more traditional ways for decades."
+    },
+    {
+      "start": 684.22,
+      "end": 713.6,
+      "text": "And so people know what it is, they know what they're going for, and they've stayed really consistent with what they're doing, what they offer and who it's for. So they still have sound brand strategy at the core of it. You know, you don't see them stretching in ways that confuses their customer base where they're like, hey, Home Depot, now we're going to introduce this whole flavored water, right? Like they're not, they're not going there and, and, and missing up."
+    },
+    {
+      "start": 714.34,
+      "end": 743.12,
+      "text": "People are buying into Home Depot versus let's say a Lowe's like, you know, so they're buying into what Home Depot stands for, or maybe it's just because people live closer to Home Depot. You know, I don't know, different, different use case story for all of it. But I think what, what we were circling around before is like, yeah, are you buying, are you setting people up to buy your product? Are you setting people to buy into your brand so that no matter what you come out with, they're going to, they're going to buy it."
+    },
+    {
+      "start": 743.12,
+      "end": 772.88,
+      "text": "And in the case of Hint had the founders and executives at the business been like, hey, I have a vision for Hint where we put a hint of flavoring or hint of scent in a really organic, natural way into any product. And that becomes our, our vision. Now, whether it's water or sunscreen or deodorant or whatever, people are understand, oh, this is Hint where they add a hint of natural or organic flavor."
+    },
+    {
+      "start": 773,
+      "end": 800.44,
+      "text": "I don't really remember Hint's whole differentiator. Basically that. Yeah, yeah, yeah. So that's to me is kind of like a retrofitted brand strategy where it's like, hey, let's set out to educate people that Hint is a lifestyle brand or however you would position it. That adds a hint of delicious, subtle flavoring or scent cues to everyday items. And then that could have set them up for success. Yeah."
+    },
+    {
+      "start": 800.62,
+      "end": 827.74,
+      "text": "I feel like too, the one thing you touched on with Home Depot and Lowe's is like their consistency. Totally. Like their, their photo shoots or their ads today probably can look synonymous with their ads from 10 years ago. And one other thought on that is, you know, like for a brand that's either getting started or let's say a brand is even five, six years in, like how do they even go about like, okay, let's say they say, all right, we do need to go educate the market."
+    },
+    {
+      "start": 827.94,
+      "end": 851.32,
+      "text": "We do need to go better brand ourself or establish ourselves as X. Like how does one even go out and do that? Is it just making sure that at every touch point there's consistency in messaging or are there channels that you recommend to clients that they go out and do things or events or whatever it may be? I'm not sure. I think brand at a certain scale becomes equally important internally as it does externally."
+    },
+    {
+      "start": 851.32,
+      "end": 879.68,
+      "text": "And what I mean by that is, I think there should be a great effort to do some consumer insight work with existing customers, lapsed customers, prospective customers to really understand and get answers to whatever you may be confused about internally. You know, do people know us for this color orange that, you know, in the Home Depot exam, do they know the orange or are we just forcing it?"
+    },
+    {
+      "start": 879.88,
+      "end": 901.8,
+      "text": "Or, you know, does this value prop and that value prop, do people care about it? Do they care that we're a B Corp? Like whatever you want answers to, ask your customers, get some insights. And then also understand from your employees and your team, are we all aligned? Are we saying the same thing? Like do we have the same vision for what we're doing here?"
+    },
+    {
+      "start": 904.14,
+      "end": 933.78,
+      "text": "And alignment internally and with partners, be it an agency like ours or working with somebody like you, like alignment is everything. And once you start having all those vectors shape up of like, here's what the consumer says about us, here's what we think, you can start to thread the needle and just get ultimate clarity. To me, brand is synonymous with like clarity of who we are, who we're doing it for, why we're doing it, what it is. It's just clarity."
+    },
+    {
+      "start": 934.26,
+      "end": 957.5,
+      "text": "And then all the pretty stuff gets layered on top of with those insights. And what I mean by pretty stuff is like thoughtful, easy to understand, perhaps clever educational messaging. Then any design modifications to any touch point. You know, I think one of the things I'm going to get on my soapbox real quick here."
+    },
+    {
+      "start": 957.5,
+      "end": 983,
+      "text": "One of the things that irks me as a branding professional is when people review or talk about a rebrand when it's, and they just look at the logo. Like, oh, so-and-so rebranded. And it's like, the logo is one tiny little component of probably all the work that went into behind the scenes of a repositioning or whatever else that went into it."
+    },
+    {
+      "start": 983,
+      "end": 1009.82,
+      "text": "So, you know, the brand mark, the word mark, the logo, like, it's just one piece. What are some of those other important pieces? Like for me, I always say too that, you know, a rebrand is, it's a great thought, but like really what you're getting at there with the rebrand and what moves the needle is a lot of times the positioning and the messaging and how that's shifted. And then of course, like the copy, the execution of that."
+    },
+    {
+      "start": 1010.02,
+      "end": 1039.74,
+      "text": "A lot of times, like those two, three things will make a world of a difference on a website rather than, you know, even in like CRO best practice, like CRO agencies, a lot of times they might come in to a failing funnel and they're changing button colors or moving little sections around. But what they really require is like a whole copy overhaul, messaging overhaul, positioning overhaul. Any thoughts on that? Yeah. I mean, anything beautiful on top of, do you swear on here, Nick?"
+    },
+    {
+      "start": 1040.34,
+      "end": 1069.14,
+      "text": "Yeah, of course. Fuck yeah. Okay. Anything considered beautiful or design oriented on shitty messaging is lipstick on a pig, right? So, you know, without a thoughtful strategic foundation built on alignment between all parties involved, customers, internal, external, once you layer on thoughtful messaging that speaks to those insights, then you got some, then you can think about making things prettier."
+    },
+    {
+      "start": 1071.72,
+      "end": 1094.42,
+      "text": "And, you know, like to me, the biggest fail once people do get that good messaging is not making sure that, like when it starts to sing is when the visuals, be it the illustrations, the graphic decisions, the photography, when it all comes together with the copy and you can really understand it in context. That's when it starts to sing."
+    },
+    {
+      "start": 1096.52,
+      "end": 1123.92,
+      "text": "And, yeah, so I think having the least amount of strong messaging, like beat that drum over and over again. Of course, test different ways to say it, but try not to say too many things all at once. A lot of the brands that we work with, they feel so passionate about their products or their service. And like, we do this and we do that. We do this. And that's also that. And it's also an appetite suppressant, but it's also a this."
+    },
+    {
+      "start": 1123.92,
+      "end": 1153.72,
+      "text": "And it's like, hey, you got to pick, you got to pick one, maybe two and stick with those until people really start to get it. Yeah. In my head, when I think about that, you know, my head goes toward, okay, let's take, you know, a handful of different ways that somebody might interpret our product and go test them all with ads. Because we can understand the click-through rate, how many people land on the site, the add to cart, the checkout, maybe even the LTV off of different messaging."
+    },
+    {
+      "start": 1153.72,
+      "end": 1181.32,
+      "text": "How do you best think about like arriving at what are those few ways of saying something? Because I fully agree. I think two things came to mind as you were talking. One was the fact that just, yeah, that consistency, especially in a world today of where you have AI going out and doing its own research and gathering information. The consistency is going to matter even more. Right. Totally. And the second thought that came to mind was, was Sonic branding."
+    },
+    {
+      "start": 1181.64,
+      "end": 1211.34,
+      "text": "Like, like you hear a jingle or a tag or something and immediately your brain knows what company, you know, like Quirky's Pest Control, everybody knows that jingle, you know? And so like, how do you arrive on what those few taglines or headlines or, you know, whatever that is that you, you end up putting out and like, and commit to staying with? I think a multitude of inputs can help give confidence to stick with that tagline."
+    },
+    {
+      "start": 1211.4,
+      "end": 1236.08,
+      "text": "Or I don't think the single tagline is something companies should try to force at least early. Like, I think you need a bevy of brand lines to test and iterate to your point. And also, because people get ad fatigue. Like if I see the same line of copy over maybe different images on my feed, I'm going to get bored."
+    },
+    {
+      "start": 1236.22,
+      "end": 1266.12,
+      "text": "But like at least have conviction on the sentiment of what you're trying to say and try it different ways in. And then once you start, once something hums or something sticks or internally, like that's just how people talk about it, then go all in and create a jingle if it makes sense for your brand. And then, you know, and then it becomes the just do it or, you know, whatever that sticky one liner is. Let me put you on to something if TV is felt too hard."
+    },
+    {
+      "start": 1266.46,
+      "end": 1287.34,
+      "text": "Roku Ads Manager is a self-service connected TV platform. You can build campaigns within minutes, optimize them inside the platform, and keep billing simple. It's built for growth and D2C advertisers who want a low barrier to entry and no big commitments. If you want to get on the big screen without old school processes, go to advertising.roku.com slash limited supply."
+    },
+    {
+      "start": 1291.32,
+      "end": 1318.62,
+      "text": "Now, another thought I've had lately is I feel like 2023, you know, coming out of COVID in a full, I forget what year we like came out of COVID. Was it 22 or 23 where we were like fully out? Maybe 23. I don't know. I think it was, I think it was, I think it was 20, like the beginning of 2022. We were like, yeah, we were masks off. Let's go. Our, our, our, our jail cells were opened back up. Yeah."
+    },
+    {
+      "start": 1318.62,
+      "end": 1347.5,
+      "text": "Um, so, you know, one thought I had was like the years coming out of COVID, I think there was such a, like a, uh, a seeking by everybody for a sense of community. And the way that brands approach that was there was this mass inclusiveness, uh, sentiment. Like everybody is like, Hey, we're for everybody. We can help you. And I think going into this year, what it's going to take for brands to stand out is actually being exclusive and provocative to some degree."
+    },
+    {
+      "start": 1347.5,
+      "end": 1376.18,
+      "text": "Because I think everything has become slop to some, to some level with we're for everybody. Our product works for everybody, blah, blah, blah. And I just don't think that's true. I also don't think people want to be a part of something that is for everybody. Like the same reason no one wants to go to SoHouse anymore because SoHouse lets everybody in as a member, um, versus, you know, one of these other fancy ones. But, um, what are your thoughts on that? Like, do you, do you agree that 2026 is going to be a little bit more provocative? I feel like we've started to see it too with brand campaigns coming out."
+    },
+    {
+      "start": 1376.3,
+      "end": 1405.48,
+      "text": "Like I saw Lemmy did a big product launch campaign recently that felt super provocative. Um, yeah. What are your thoughts on that? Uh, I think you're, I love what you're putting down, man. Brands need to have conviction, um, and have a point of view and mix like you can't be everything to everybody. And nobody's, if, if somebody doesn't hate you, nobody's going to love you. Right?"
+    },
+    {
+      "start": 1405.58,
+      "end": 1434.58,
+      "text": "Like you need that polarity or like we like to say, like friction makes fire. And so it's hard because businesses want as many people to buy their product or buy their services as possible. But if, if there, if there isn't a good identity signal for people to see themselves in it beyond the massness, it's boring. Right? And so I think you're exactly right."
+    },
+    {
+      "start": 1434.58,
+      "end": 1460.98,
+      "text": "Especially with, I think what's so good about the internet is people see themselves in the most specific, like my TikTok reels, right? Like you'll see something and somebody complains about something that you're like, I thought that was just me. And when brands can find those insights and little human truths and, you know, niche out on those, like whether you're a running brand, it's like, hey, you know, do your nipples itch when you're run?"
+    },
+    {
+      "start": 1460.98,
+      "end": 1488.02,
+      "text": "Like we're the, we're the itchy nipple run club, like, like having that niche, very specific point of view and identity markers. I think that's, that's how people buy into it. And, and, and yeah, and see themselves in it versus this is, this is, this is slop, right? This is for everybody. Totally. I think also part of that slop is like, there's so many brands."
+    },
+    {
+      "start": 1488.02,
+      "end": 1513.12,
+      "text": "I mean, there's so many brands that I know you've probably met many of them too, where they, they have this fake founder story or fake kind of origin brand story. But, you know, it's like some private equity guy who found, who did ransom Excel sheet and found that he can sell something at an arbitrage because his uncle owns a factory in India where they make linens. And now he's importing them at a cost and his friend owns a 3PL. So they're, you know, getting an arbitrage on that."
+    },
+    {
+      "start": 1513.12,
+      "end": 1540.84,
+      "text": "And, uh, they've now got to come up with this brand story, but you know, 90, maybe not 90, but like definitely probably 60% of those brands, I feel like end up failing relatively quickly because people see right through the bullshit that, uh, you know, it's basically just another commodity trying to be marketed in some kind of a special way. How do you like, I guess two questions. One, uh, is there a way to turn those around?"
+    },
+    {
+      "start": 1541.06,
+      "end": 1561.04,
+      "text": "Like, I'm sure you guys have maybe worked on one or two where you've been like, all right, guys, your brand story sucks. Your origin story makes no sense. You know, like the one you maybe made up also makes no sense. We need to completely change this to be something people can feel like they can fall in love with. And if so, like, how does one approach that situation? Mm-hmm."
+    },
+    {
+      "start": 1562.1,
+      "end": 1591.18,
+      "text": "Uh, you know, the importance of a founder story all depends on whether there is, I'm going to, you might throw up in your mouth a little bit, whether there's an authentic founder story or not. Right? Like that buzzword authenticity actually matters when it comes to a founder story. And the best brands give their customers some credit for, like you said, like seeing through the bullshit."
+    },
+    {
+      "start": 1591.6,
+      "end": 1620.04,
+      "text": "And so if you don't have a good founder story, then come up with a great philosophy and lean on that. So it's like, it's kind of like either have a great brand philosophy or lean into a good story if you have one. But at the end of the day, make your customers the protagonists. It's their story. Mm-hmm. And how does, how does your brand enhance that story? It should not be coming out and being like, we are the best or we're better."
+    },
+    {
+      "start": 1620.96,
+      "end": 1639.96,
+      "text": "It's, it's, how is this going to make your life different in a way that you value? Yeah. Do you have any good examples of that? Like, um, either going from a, uh, a bad founding story, you can even just make one up and then going into like a philosophy. Honestly, not off the top of my head."
+    },
+    {
+      "start": 1639.96,
+      "end": 1669.79,
+      "text": "Um, actually I believe athletic greens started with a founder story of an athlete who concocted, you know, a daily green powder mix that they were taking on a regular basis to supplement their nutrition. And they went through some amazing, uh, rebrand over the last few years."
+    },
+    {
+      "start": 1669.99,
+      "end": 1691.79,
+      "text": "And obviously they're killing it. They're expanding beyond just the green powder. Um, they've got so many different competitors coming after them and they have stayed, uh, they have created a really good philosophy, but more so they have now made the consumer, the hero. And painted a picture of what your day and now night looks like with AG one."
+    },
+    {
+      "start": 1692.31,
+      "end": 1721.63,
+      "text": "And they took out athletic from the name strategically because a lot of people don't consider themselves athletes. And those are strategic decisions that I believe reflect, Hey, here's a company started by an athlete. I made this product. If you're an athlete, you're going to love this too. Then they were like, Oh shit, we're cooking now. We got to go after people who don't consider themselves athletes and people like the science."
+    },
+    {
+      "start": 1721.77,
+      "end": 1745.57,
+      "text": "So let's make it sound scientific with AG one. Right. Let's get Huberman involved. Yeah. You know, let's get some credibility with, with, uh, you know, these talking heads for the optimization and longevity space. And, and now they're cooking with gas. So I think that might be a good example to what we're talking about. Yeah. The, the talking heads is really interesting too, because I feel like so many brands have dipped their toe in."
+    },
+    {
+      "start": 1745.67,
+      "end": 1774.69,
+      "text": "Like I remember seven, eight years ago, mod, um, the sexual wellness brand brought, um, Dakota Johnson. As like a chief creative officer, you know, and I feel like that was kind of like the first version of, all right, how do we bring, how do brands bring newer brands, bring these celebrities in without it feeling like a paid promotion. And then we moved more toward these more co-branded products era. And then fully these creators and celebrities launching their own versions."
+    },
+    {
+      "start": 1774.95,
+      "end": 1802.75,
+      "text": "But now we're seeing a lot more of those old school endorsements and bringing them in for content or whatever. How, how, how do you think like that impacts a brand early stage or late stage? And do you think that that is a, um, do you think that's one of those things kind of like going from shitty branding to philosophy that can really put a flag in the ground for a brand when they sign up to work with somebody like that? For sure. And like anything, you can do it really well. You can do it really bad."
+    },
+    {
+      "start": 1802.75,
+      "end": 1832.69,
+      "text": "Uh, you know, one of the, uh, one of our clients, Bobby, the, uh, baby formula company, they did a partnership last year with Cardi B and it went bonkers. And, and that was great, right? Like she's culturally relevant. She's a proud woman. She's got a strong voice. Uh, and, you know, she has a disruptive nature to her that Bobby wants to kind of have against the industry and the incumbents within the space."
+    },
+    {
+      "start": 1832.83,
+      "end": 1859.49,
+      "text": "So I think that was brilliant and that worked really well for them. And it ruffled feathers. Some people were like, what? No, I'm feeding my baby here. I don't want to talk about Cardi B. And so I think that was great. But then, you know, I funny bring this up. I walk into a Staples the other day and there were like three or four products endorsed by Shaquille O'Neal just walking through the aisle. Oh yeah. He's the brand man. He's the brand man, but it's all who gives a shit. Right? Like, I don't know."
+    },
+    {
+      "start": 1859.59,
+      "end": 1888.15,
+      "text": "It's like, there's a standup of Shaquille O'Neal and he's standing next to Epson Inc. And I'm like, hi, Sean. You know? So, uh, so like, you know, it's kind of like the legacy businesses. I think they're, they're slow to move or they, they try to find somebody who has mass appeal and don't understand the value of finding somebody who is a little more niche or a little less. Yeah, I know what you're saying."
+    },
+    {
+      "start": 1888.27,
+      "end": 1918.03,
+      "text": "Like more like, how do you make a, it's, it's a much smaller niche of people who are going to get it. But like the explosiveness of that, get it is much bigger than you going and seeing an Epsilon ad with a Shaq. You know? Exactly. Exactly. So, so I think it's like have something that's really perhaps smaller, but brighter and more intense to get people talking and excited about it versus trying to get Steph Curry to endorse your window panes."
+    },
+    {
+      "start": 1918.15,
+      "end": 1947.35,
+      "text": "I don't know. Yeah, no, totally. I agree. I think it's really like the, the brands that do that well, they're really good at making these moments create or like find creating these moments with partnerships like that. And then especially like, you know, um, taking those moments and capitalizing them, capitalizing on them through putting out a ton of content or getting other people to come create content and put it out. So it feels even more kind of viral. Totally. Um, okay. I want to talk about two more things."
+    },
+    {
+      "start": 1947.59,
+      "end": 1977.09,
+      "text": "And one of them is, um, what? I'm having fun. Are you having fun? I'm having fun. Yeah. Yeah. I'm having fun. This is great. Um, okay. So, you know, like I have a list of things in my head that I just hate about other performance marketing agencies. They might do, you know, they go after a new brand and they lock them into a 12 month agreement up front that they can't get out of, or, you know, they, they agree to help a brand, but their incentive structure is aligned with the more they spend, the more they make."
+    },
+    {
+      "start": 1977.09,
+      "end": 2006.49,
+      "text": "So they have no real, you know, bumpers on, on, um, performance or, or they, you know, they, they sell you in with a, you know, 40 year old CMO. And then you get handed to the guy who just graduated USC, whose dad knows the CEO of the agency and is running seven Facebook accounts with no training. What are some of the things that you see in the branding world? Uh, you know, you don't have to name names, but what are some of the things you see that just irk you that, you know, founders get screwed over on that they can avoid?"
+    },
+    {
+      "start": 2007.09,
+      "end": 2025.37,
+      "text": "Mm-hmm. Like we talked about earlier, any creative output or deliverables that are not founded and provided with strategic foundation is lipstick on a pig."
+    },
+    {
+      "start": 2025.37,
+      "end": 2054.18,
+      "text": "Like, and I think for agencies or freelancers or whoever like dives right in and starts designing or starts creating without like, we like to say like, let's slow down in order for us to speed up. So let's, let's set ourselves up for success and have alignment and really understand your business. And how does your business make money? And like, who are your customers and who are your competitors?"
+    },
+    {
+      "start": 2054.46,
+      "end": 2083.72,
+      "text": "And what's, what do you care about that's happening in culture right now? And how do all these things intertwine so that our, whether it shows up in the creative or not, like we are working and we have a shared vocabulary, shared understanding of what we're set out to do here. So I think any, any agencies that come in and they're saying, okay, we'll start with logo exploration. It's like, no, you know, that's a waste of time. Maybe you'll get something good looking, but like, that's just not what's totally important."
+    },
+    {
+      "start": 2083.84,
+      "end": 2111.76,
+      "text": "So that's one thing. I think, you know, another thing, and I don't know that other agencies do this. I just, I'll say one thing that we've learned from is like to do a proper brand strategy through identity process, be it a rebrand or a zero to one, like it requires time. It requires rumination. It requires clients to take their time giving feedback that's consolidated and, and actionable."
+    },
+    {
+      "start": 2112.46,
+      "end": 2139.86,
+      "text": "Um, so I think over promising on timelines or especially when clients come to you and they're like, we need it by Q1. And it's just an arbitrary date because they love to move fast. Like that doesn't set anybody up for success. Yeah. Also such a red flag on the client side too. Totally. Totally. And like, we have a lot, like I've had a lot of experience, like how do you build points in your process that builds trust that you reground on?"
+    },
+    {
+      "start": 2139.86,
+      "end": 2168.2,
+      "text": "And like some of the best agencies, like sure, the creative work is good, but like, man, what you don't see behind the scenes, like great account directors that are setting expectations for your clients. Huge. Huge. Maintaining a relationship and asking questions. And like, you know, I think a lot of people pay attention to agencies that have creative as part of the output, but it's hard to put a portfolio together on how great your account directors are. And they're kind of like the smooth jazz in the background. So true. Things happen, you know?"
+    },
+    {
+      "start": 2168.94,
+      "end": 2189.82,
+      "text": "Um, I know I'm not answering your question about what irks me, but I'm just trying to think of the things. No, this is all good stuff. Okay, great. Um, you know, another thing that we come up against a lot is content, meaning like photo and video content and creative is a whole separate process from brand identity work."
+    },
+    {
+      "start": 2190,
+      "end": 2212.46,
+      "text": "And so what I mean by that is like, you come to us and you're going to work with us and we're going to set the foundation for what the art direction of your imagery will look like in a lifestyle setting, in a product display setting, in a e-content way. But at the end of it, we still got to shoot it and or leverage AI tools or whatever to produce it and create the content."
+    },
+    {
+      "start": 2214.56,
+      "end": 2242.08,
+      "text": "And we took a lot of fumbles years ago where we thought that was obvious, but the clients were like, where can I use these images? And they're like, no, those are just set to, you know, set the look and feel of what a production would ultimately. So I think going to an agency and thinking you're going to walk out all in one with a whole new set of, of imagery or photo assets, like, no baby, that's, that's, that's another scope."
+    },
+    {
+      "start": 2243.48,
+      "end": 2272.06,
+      "text": "And so I think that can often be something that takes clients who haven't done this before by surprise. You know, anybody, well, first of all, anybody who's listening to this should go to the Herman Shear site and just see like the depth of the work you guys do because it's amazing. And if anybody's got the, if they're fortunate to work with you guys, I would highly recommend it. But, you know, I always love to also, um, play for the, the bootstrap guy. So, or gal."
+    },
+    {
+      "start": 2272.36,
+      "end": 2300.92,
+      "text": "And so, um, if, if I was a bootstrap founder, you know, I'm on a shoestring budget. I just quit my job. I've got six months of savings to try to make this thing work. How should I approach branding? Like I've got a product. I know that the product works. Let's say it's a gummy vitamin to keep it simple, right? It's a gummy vitamin. It helps you sleep better or maybe gives you more energy, whatever it is. But like, how should I approach this as a, as somebody who's maybe a one man team?"
+    },
+    {
+      "start": 2301.06,
+      "end": 2330.08,
+      "text": "Maybe I've got one person helping me out part time. Like, should I think about messaging first? Should I think about the visual identity first? Should I just get a website up and start getting transactions first? I hate when people say good question because it's like, of course, you've had a podcast for X amount. But it's a good question. Invest in clarity for yourself, for anybody else you bring on. It's what am I building?"
+    },
+    {
+      "start": 2330.56,
+      "end": 2352.48,
+      "text": "What is my brand? Yes, I have this first product, but like we talked about before, you don't want to brand a product, sell it, and then realize, oh, I have one product. I wanted to create a, I don't want a lifestyle business. I want to raise capital. I want to, I want to go to the moon with this thing, baby. You're going to set yourself up into a wall and not be able to grow into it."
+    },
+    {
+      "start": 2353.06,
+      "end": 2380.04,
+      "text": "So invest, you know, work with a brand strategist or a, you know, a five to 10 year veteran at a business, a management or business consultancy. And define what the brand strategy is. And what you ultimately want to be able to do is define what your brand is without comparing it to something else."
+    },
+    {
+      "start": 2380.04,
+      "end": 2399.7,
+      "text": "So like, you don't want to come out and say, we are the Uber for gummies, right? Because then you're anchoring yourself to another brand. You also don't want to come out and say, hey, we're a better version of a daily vitamin. Because then the next person comes out and says, well, we're better. And then it becomes this thing. It's not unique. Right."
+    },
+    {
+      "start": 2399.86,
+      "end": 2429.66,
+      "text": "And so it's, what is that clarity differentiating story that you can tell with conviction over and over again that allows you to grow into it beyond the first product? So that to me, that is it. And then build an identity from that. Go on the website from that. And then you can start. But I just, I've seen too many people start early, start investing in making beautiful things when they don't know really what the hell it is. Yeah."
+    },
+    {
+      "start": 2429.86,
+      "end": 2459.78,
+      "text": "I couldn't agree more. I think seek clarity is amazing advice because if you have clarity on who your customer is, you know, another thing that I like to do is, have you seen that the 73 questions with Vogue? Video series where they like walk through a celebrity's house? Like, I think there's a 73 questions with your brand equivalent, which is like, okay, let's talk about your brand. You know, if your brand was a person, what are they posting to their Instagram story? What are they posting in their feed? You know, what does their bio look like when they go out?"
+    },
+    {
+      "start": 2459.86,
+      "end": 2478.84,
+      "text": "What kind of food are they ordering? When they watch TV, what are they watching on Twitter? What are they retweeting and advocating behind? And I think that like, and then the other thing you said was, you know, have this story in your back pocket. And that's kind of how I always think about generally whenever I'm out, I love to have a story in my back pocket that you can whip out and you know it's going to land with people."
+    },
+    {
+      "start": 2479.1,
+      "end": 2505.68,
+      "text": "And I think that's a great approach to the branding piece, which is like, you're going to have multiple conversation, tens or hundreds of conversations about whatever you're doing, selling, you know, creating, etc. And I think using those conversations as basically always A-B testing in your head kind of gets you to that point of clarity or really a point where you can explain something and it feels different enough that when you explain it, it lands and becomes memorable. Totally."
+    },
+    {
+      "start": 2507.14,
+      "end": 2534.22,
+      "text": "One nuance there that I think is important that we've run up against a lot is for those who maybe aren't bootstrapping or they start bootstrapping, then they start raising capital. Venture capitalists look at business slightly different than consumers a lot of the time. And, you know, they have a portfolio thesis that we're investing in AI or, you know, systems this or, you know, products as service or whatever it is."
+    },
+    {
+      "start": 2534.38,
+      "end": 2560.12,
+      "text": "And oftentimes when founders have gone through a year of raising capital, they come to us and they start pitching us and telling us that, hey, I know what my story is. And they give us the venture capital version. It's like a consumer doesn't know what the fuck you're talking about, man. Yeah. Like, you know, so to your point, who's your audience is really important. And to me, the most important audience is the person you bump into on a street."
+    },
+    {
+      "start": 2560.12,
+      "end": 2587.06,
+      "text": "If you can explain it to them, have some personal, if your personal narrative or your philosophy intertwined into it, that's what you start with. Because, yeah, that's exactly right. I couldn't agree more. I also think to that point, well, two points. One is some of the best brand stories are organically created through, I think, those conversations. Like, yeah, I see we're talking. I was even just thinking about with Sharma Brands over the years."
+    },
+    {
+      "start": 2587.18,
+      "end": 2617.12,
+      "text": "We never like created a brand story, but it sort of just became one because of how many times we would talk about it and then realize how it lands with people. The second thought is you're so right about these VCs. There's obviously a bunch of amazing, incredible VCs. But in the early stage CPG world, for some reason, there's a lot of really stupid VCs. And they give their investments or their portfolio companies horrible advice. You know, they'll be like, well, you're not creating the next best headphones."
+    },
+    {
+      "start": 2617.34,
+      "end": 2643.3,
+      "text": "You're democratizing sound. That's your thesis now. Yeah. They just make up some bullshit. But yeah, I think people should definitely not listen to VCs when it comes to brand strategy. Amazing. Anything else, John, that you want to say here? If not, let us know how people can get in touch with you or where they can see work. I want to figure out, too, we should create some kind of a deck or a guide or like, hey, if you've got zero dollars, here's how you should go think about branding."
+    },
+    {
+      "start": 2643.3,
+      "end": 2672.02,
+      "text": "And maybe we do like a live streamed webinar or something on it where we just create a brand in real time and show people how it's possible. That'd be fun. I think that'd be really fun. That'd be great. Yeah. I love talking with you, Nick. And I'm down to do more of it. Get me in that Sunday newsletter. Let's have fun with it. I'm on East Coast now, too. So I can pop. You're still in New York, right? Congrats. Yeah. Thank you. Yeah. So I can pop up to New York on a whim."
+    },
+    {
+      "start": 2672.62,
+      "end": 2701.22,
+      "text": "But yeah, as far as like a plug for Herman Shearer. So like I said, we've been at it 15 years, really anchored on kind of the business impact of what branding does for companies at any inflection point. The one thing I didn't mention at the top of the call was that we've really focused in on businesses that are transforming the spaces of health care, self-care and well-being. And we got there, Nick, to what you were just talking about."
+    },
+    {
+      "start": 2701.32,
+      "end": 2729.18,
+      "text": "Like how does the story that you're telling people inform? Like what you tell people is who you are, what you are. And what my partners and I realized is that a lot of our work was already in the health and wellness space. And personally, we had just had kids. Our parents were getting older. We're part of this sandwich generation. And we're starting to take our own health more seriously as middle age creeps up on us. And we decided to go all in on that. And so that has been like rocket fuel for us."
+    },
+    {
+      "start": 2730,
+      "end": 2755.7,
+      "text": "And now we have even more expertise. And the Herman to my share likes to say we start on third base as far as like what are the psychographic kind of orientation of the consumers and your early adopters. Like we know them so well and we are them. So that's my little play. I think that's also a great last tidbit to like working, deciding the agency you work with is you want to make sure your customers are actually working there."
+    },
+    {
+      "start": 2755.96,
+      "end": 2781.14,
+      "text": "You don't want like some 22-year-old kids in Brooklyn in a conference room deciding everything when you're selling to 45-year-old women in middle America. Totally. And, you know, it's funny you say that. We brought on our third partner, Allison. She's a 40-ish, I won't say the exact 40-ish year old woman who comes from a, you know, 150-person strategy and insights firm."
+    },
+    {
+      "start": 2781.74,
+      "end": 2810.58,
+      "text": "And one of the other reasons I moved away from Los Angeles was I wanted to get out of that kind of epicenter of the health and wellness movement and see what's happening in what's considered a flyover state here in Ohio. And so I'm proud to say that like I have a finger on the pulse of what's happening at the cutting edge of health and wellness. And I also see how that has trickled into the Midwest here and it's been really good for us."
+    },
+    {
+      "start": 2810.7,
+      "end": 2838.44,
+      "text": "So to your point of work with the people who are your consumers and not what you call it, 22-year-old Brooklynites who probably do amazing creative work. But yeah, you're right. Amazing. Well, John, thank you for coming on. We're going to do some more things soon for sure. But until then, yeah, be well. You too, man. Thank you so much. Thanks for listening."
+    },
+    {
+      "start": 2838.68,
+      "end": 2848.4,
+      "text": "We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

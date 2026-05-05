@@ -1,0 +1,4934 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 22.32,
+      "text": "The boring things work. Everybody there doesn't run like a trendy, modern retail headlining, direct-to-consumer brand. Everybody runs something very simple. It's usually one category or one product, and they know it inside out. They know the entire industry. They know everybody in that one industry. They just do the basics really well."
+    },
+    {
+      "start": 22.32,
+      "end": 42.54,
+      "text": "A lot of times we overthink a lot of things from, you know, what does the site design look like or the animations or, you know, this or that. And you really just got to focus on good landing pages, good copy, making sure you have the trusted by stickers there, the MasterCard and the PayPal verification check, and you just got to sell a good product."
+    },
+    {
+      "start": 43.56,
+      "end": 49.26,
+      "text": "This is Limited Supply, the place for refreshingly real takes on what D2C is really like."
+    },
+    {
+      "start": 49.26,
+      "end": 53.04,
+      "text": "We're your hosts, Nick and Moyes. Let's start talking about money."
+    },
+    {
+      "start": 54.34,
+      "end": 71.56,
+      "text": "Did you know that the Messi, Messi's a soccer player, his store tripled sales in a month after they launched their TapCard app. They saw a higher conversion rate, obviously, because it's within the app, but sending people to their app and then getting people to browse and shop, especially for a category like apparel, it crushed for them."
+    },
+    {
+      "start": 71.56,
+      "end": 82.6,
+      "text": "They got push notifications. They got instant page loading, which I don't know if you've run like ads on TikTok yet. Their instant page works really well for conversion. And in the mobile app, it does just as well."
+    },
+    {
+      "start": 82.98,
+      "end": 98.98,
+      "text": "You get one click checkout and typically we see higher AOV from that as well. I think if you're a Limited Supply listener, you should definitely be on TapCard. You should go to tapcart.com slash limited. You'll get two months free. Try it out. Send it to us. We'll rate it and we'll give you a review."
+    },
+    {
+      "start": 100.08,
+      "end": 105.36,
+      "text": "Okay, Nick, episode nine, season three. There's not that many episodes left."
+    },
+    {
+      "start": 105.66,
+      "end": 107.88,
+      "text": "I know. We just hit the 75% mark."
+    },
+    {
+      "start": 108.38,
+      "end": 125.08,
+      "text": "Yeah, we're recording on March 13th. Bunch of stuff just happened over the weekend. You know, South by Southwest just happened. E-commerce fuel just happened. And maybe most importantly or most shockingly, Silicon Valley Bank imploded on Friday and certainly over the weekend."
+    },
+    {
+      "start": 125.08,
+      "end": 125.66,
+      "text": "Yeah."
+    },
+    {
+      "start": 126.02,
+      "end": 147.76,
+      "text": "We're obviously going to talk about the SVB stuff. Curious to get your take on whether you know any companies affected or don't know any companies affected. I'd love to chat about that because I think it'll be really exciting. Before we do that, though, I know you were at e-commerce fuel and you were at South by Southwest. You're making the tours along with Joe Biden. You're like Joe Biden. You need your own airframe."
+    },
+    {
+      "start": 148.84,
+      "end": 153.12,
+      "text": "Hey, if anybody wants to offer us a limited supply jet, I won't say no."
+    },
+    {
+      "start": 153.64,
+      "end": 160,
+      "text": "Did you have a good time? What happened? Give me the hot take on South by Southwest and the hot take on e-commerce fuel."
+    },
+    {
+      "start": 160,
+      "end": 185.9,
+      "text": "The hot take on e-commerce fuel was that like the boring things work. Everybody there doesn't run like a trendy modern retail headlining direct-to-consumer brand. Everybody runs something very simple. It's like usually one category or one product and they know it inside out. They know the entire industry. They know everybody in that one industry. You know, they just do the basics really well."
+    },
+    {
+      "start": 186.44,
+      "end": 209.4,
+      "text": "And so I think like sticking to the basics was a good lesson there. A lot of times we overthink a lot of things from, you know, what does the site design look like or the animations or, you know, this or that. And you really just got to focus on good landing pages, good copy, making sure you have the trusted by stickers there, the MasterCard and the PayPal verification check. And you just got to sell a good product."
+    },
+    {
+      "start": 209.74,
+      "end": 212.06,
+      "text": "What was the most surprising thing you learned there?"
+    },
+    {
+      "start": 212.06,
+      "end": 231.56,
+      "text": "The most surprising thing, it was surprising to me only because I didn't realize this was something that was like not frowned upon, but I heard Sean McGinnis talk, the guy who he's now on a new company, but he was the CEO of Kuru Footwear."
+    },
+    {
+      "start": 232.48,
+      "end": 238.78,
+      "text": "His navigation menu on the site has like probably, you know, 150 options to choose."
+    },
+    {
+      "start": 240.18,
+      "end": 243.72,
+      "text": "And every single one of them is just a reason to buy their shoe."
+    },
+    {
+      "start": 244.3,
+      "end": 252.86,
+      "text": "And so, you know, a lot of times like you might sit in a room and think, all right, there's seven reasons people buy, but I'm going to choose this one and go all in and test it."
+    },
+    {
+      "start": 252.86,
+      "end": 256.44,
+      "text": "This guy's like, oh, dude, there's 75 reasons people buy this shoe."
+    },
+    {
+      "start": 256.64,
+      "end": 261.6,
+      "text": "We put them all on a nav bar because as soon as somebody sees what they're looking for, they're going to click."
+    },
+    {
+      "start": 262.42,
+      "end": 263.84,
+      "text": "Is this for Kuru Footwear?"
+    },
+    {
+      "start": 263.94,
+      "end": 264.68,
+      "text": "Is that what you're talking about?"
+    },
+    {
+      "start": 264.92,
+      "end": 265.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 265.72,
+      "end": 265.92,
+      "text": "Okay."
+    },
+    {
+      "start": 266.02,
+      "end": 271.02,
+      "text": "And so like I see it says shot by foot pain, shot by activity, shot by career, more categories."
+    },
+    {
+      "start": 271.18,
+      "end": 272.04,
+      "text": "That's what you mean by that, right?"
+    },
+    {
+      "start": 272.16,
+      "end": 272.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 272.72,
+      "end": 274.94,
+      "text": "All these, every possible option."
+    },
+    {
+      "start": 275.58,
+      "end": 275.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 277.9,
+      "end": 280.58,
+      "text": "This is like everything Red Antler would hate."
+    },
+    {
+      "start": 282.56,
+      "end": 283.08,
+      "text": "Okay."
+    },
+    {
+      "start": 283.62,
+      "end": 285.18,
+      "text": "I've got a lot of thoughts about that."
+    },
+    {
+      "start": 285.26,
+      "end": 288.74,
+      "text": "But before that, what was the funniest moment at e-commerce fuel?"
+    },
+    {
+      "start": 289.84,
+      "end": 295.84,
+      "text": "The funniest moment was learning about somebody who makes tens of millions of dollars selling sprinkler heads."
+    },
+    {
+      "start": 296.1,
+      "end": 302.62,
+      "text": "And then when I spoke, I was just saying how cool it is to come here and meet people like that."
+    },
+    {
+      "start": 303.14,
+      "end": 307.9,
+      "text": "And so I said, you know, it's cool to come meet people making millions of dollars selling sprinkler heads on Shopify."
+    },
+    {
+      "start": 309.34,
+      "end": 315.08,
+      "text": "And later he just dropped his business card with a second card like right in front of me and just kept walking."
+    },
+    {
+      "start": 315.52,
+      "end": 319,
+      "text": "And it was like his business card, but it was also like a card for his podcast."
+    },
+    {
+      "start": 319.2,
+      "end": 321.8,
+      "text": "This guy has a sprinkler podcast where he talks about sprinklers."
+    },
+    {
+      "start": 322.34,
+      "end": 322.7,
+      "text": "Wow."
+    },
+    {
+      "start": 323.1,
+      "end": 323.4,
+      "text": "I know."
+    },
+    {
+      "start": 323.54,
+      "end": 324.56,
+      "text": "I haven't listened to it yet."
+    },
+    {
+      "start": 324.56,
+      "end": 325.38,
+      "text": "I'm going to though."
+    },
+    {
+      "start": 325.7,
+      "end": 326.52,
+      "text": "Yeah, that's crazy."
+    },
+    {
+      "start": 326.54,
+      "end": 328.08,
+      "text": "And he's got a card for his podcast."
+    },
+    {
+      "start": 328.3,
+      "end": 328.9,
+      "text": "He's got a card for it."
+    },
+    {
+      "start": 328.9,
+      "end": 329.78,
+      "text": "It must be doing well."
+    },
+    {
+      "start": 330.2,
+      "end": 330.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 330.5,
+      "end": 330.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 331.34,
+      "end": 332.26,
+      "text": "So that was cool."
+    },
+    {
+      "start": 332.62,
+      "end": 341.5,
+      "text": "So going back to Kuru footwear for a second, I always thought that there should have been a shoe and maybe there sort of is, but no one that I've heard of like, like figs."
+    },
+    {
+      "start": 341.6,
+      "end": 344.56,
+      "text": "You know how figs is like for medical professionals?"
+    },
+    {
+      "start": 345,
+      "end": 345.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 345.28,
+      "end": 349.12,
+      "text": "Why is there not a sneaker for nurses or like a, you know, a sneaker?"
+    },
+    {
+      "start": 349.32,
+      "end": 352.16,
+      "text": "Because you think it'd be like good for standing all day, good for walking."
+    },
+    {
+      "start": 352.4,
+      "end": 358.82,
+      "text": "You know, you should be able to wash it off because it has to be like, you know, you're going to spill blood or human liquids on that thing."
+    },
+    {
+      "start": 358.96,
+      "end": 362.28,
+      "text": "Like, you know, someone's going to pee on it or do something bad."
+    },
+    {
+      "start": 362.28,
+      "end": 363.3,
+      "text": "Like, you know, you're a nurse."
+    },
+    {
+      "start": 363.42,
+      "end": 365.9,
+      "text": "There's going to be human fluids floating around."
+    },
+    {
+      "start": 366.58,
+      "end": 369.2,
+      "text": "I'm surprised figs hasn't launched their own footwear."
+    },
+    {
+      "start": 369.36,
+      "end": 374.78,
+      "text": "Although I think they've teamed up with like New Balance a couple of times or one of these brands to do something, but never like really done it well."
+    },
+    {
+      "start": 374.78,
+      "end": 384.74,
+      "text": "I'm surprised there is not a nurse's footwear like there is nurse's scrubs that, you know, looks better and is also like made specifically for nurses."
+    },
+    {
+      "start": 384.98,
+      "end": 386.22,
+      "text": "I think that's a real opportunity."
+    },
+    {
+      "start": 386.22,
+      "end": 389.84,
+      "text": "You are not the only person who thought of that."
+    },
+    {
+      "start": 390,
+      "end": 392.44,
+      "text": "In fact, there is a guy named Rob Gales."
+    },
+    {
+      "start": 393.3,
+      "end": 395.56,
+      "text": "This guy, first of all, he looks like a GQ model."
+    },
+    {
+      "start": 396.14,
+      "end": 398.46,
+      "text": "Second, he is a performance marketing."
+    },
+    {
+      "start": 398.84,
+      "end": 400.64,
+      "text": "He's a performance marketing genius."
+    },
+    {
+      "start": 401.2,
+      "end": 403.78,
+      "text": "And he launched this company called Gales."
+    },
+    {
+      "start": 404.14,
+      "end": 407.88,
+      "text": "And the site is wheregales, G-A-L-E-S dot com."
+    },
+    {
+      "start": 408.38,
+      "end": 409.76,
+      "text": "It is an award winning shoe."
+    },
+    {
+      "start": 409.88,
+      "end": 410.96,
+      "text": "It's like been top rated."
+    },
+    {
+      "start": 411.64,
+      "end": 412.14,
+      "text": "Wow."
+    },
+    {
+      "start": 412.14,
+      "end": 417.7,
+      "text": "And he's absolutely crushed it because nobody is in this market, like you're saying."
+    },
+    {
+      "start": 417.88,
+      "end": 421.84,
+      "text": "And so he's basically a single player owning this category."
+    },
+    {
+      "start": 422.22,
+      "end": 423.7,
+      "text": "And how have you heard of this?"
+    },
+    {
+      "start": 424.24,
+      "end": 426.54,
+      "text": "I've known Rob for a few years."
+    },
+    {
+      "start": 427.14,
+      "end": 427.68,
+      "text": "Okay."
+    },
+    {
+      "start": 428.06,
+      "end": 432.56,
+      "text": "And at first when he said he was starting this, I was like, whoa, that's really interesting."
+    },
+    {
+      "start": 433.2,
+      "end": 434.78,
+      "text": "I don't know anything about that."
+    },
+    {
+      "start": 434.94,
+      "end": 437.08,
+      "text": "But then he just like launched it."
+    },
+    {
+      "start": 437.08,
+      "end": 442.34,
+      "text": "He found a manufacturer, made the product, tested it, did like 90 iterations of the shoe."
+    },
+    {
+      "start": 442.54,
+      "end": 446.04,
+      "text": "Then he launched it and just completely crushed it."
+    },
+    {
+      "start": 446.5,
+      "end": 446.94,
+      "text": "Okay."
+    },
+    {
+      "start": 447,
+      "end": 447.58,
+      "text": "It's doing well."
+    },
+    {
+      "start": 447.84,
+      "end": 451.34,
+      "text": "Like I guess on similar web, he has like 54,000 uniques a month."
+    },
+    {
+      "start": 451.82,
+      "end": 452.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 452.76,
+      "end": 453.1,
+      "text": "Okay."
+    },
+    {
+      "start": 453.74,
+      "end": 455.88,
+      "text": "Well, I still think there's room for somebody to do this."
+    },
+    {
+      "start": 456.06,
+      "end": 456.78,
+      "text": "I like that."
+    },
+    {
+      "start": 456.88,
+      "end": 457.62,
+      "text": "I love it."
+    },
+    {
+      "start": 457.8,
+      "end": 458.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 458.28,
+      "end": 460.02,
+      "text": "I just don't like him because he's a GQ model."
+    },
+    {
+      "start": 461.5,
+      "end": 461.94,
+      "text": "Asshole."
+    },
+    {
+      "start": 462.8,
+      "end": 463.68,
+      "text": "I've never met him."
+    },
+    {
+      "start": 463.78,
+      "end": 464.5,
+      "text": "I don't know."
+    },
+    {
+      "start": 465.04,
+      "end": 465.76,
+      "text": "I'm just joking around."
+    },
+    {
+      "start": 466.66,
+      "end": 467.06,
+      "text": "Okay."
+    },
+    {
+      "start": 467.16,
+      "end": 467.36,
+      "text": "Awesome."
+    },
+    {
+      "start": 467.58,
+      "end": 468.78,
+      "text": "How did you like South by Southwest?"
+    },
+    {
+      "start": 469.66,
+      "end": 470.44,
+      "text": "It was cool."
+    },
+    {
+      "start": 470.7,
+      "end": 472.24,
+      "text": "I basically just went for a day."
+    },
+    {
+      "start": 472.64,
+      "end": 475.84,
+      "text": "I woke up on Sunday morning, flew in."
+    },
+    {
+      "start": 476.54,
+      "end": 479.6,
+      "text": "I stayed at, do you know Neil Parik, Casper co-founder?"
+    },
+    {
+      "start": 479.8,
+      "end": 479.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 480.08,
+      "end": 481.76,
+      "text": "He just got a house in Austin."
+    },
+    {
+      "start": 481.76,
+      "end": 483.32,
+      "text": "So I stayed in his spare bedroom."
+    },
+    {
+      "start": 483.9,
+      "end": 486.68,
+      "text": "So I was there and hung out with a few friends."
+    },
+    {
+      "start": 486.7,
+      "end": 491.92,
+      "text": "And I feel like the cool thing about Austin when there's like events going on is you go somewhere"
+    },
+    {
+      "start": 491.92,
+      "end": 495.52,
+      "text": "like Soho House and you just meet nine other people there that you haven't seen in a couple"
+    },
+    {
+      "start": 495.52,
+      "end": 496.8,
+      "text": "of years that are just great people."
+    },
+    {
+      "start": 497.62,
+      "end": 503.58,
+      "text": "So yeah, just bopped around, went to the Shopify creator mart, went to the TikTok house that they"
+    },
+    {
+      "start": 503.58,
+      "end": 504.14,
+      "text": "had set up."
+    },
+    {
+      "start": 504.6,
+      "end": 506.36,
+      "text": "How was the Shopify creator mart?"
+    },
+    {
+      "start": 506.78,
+      "end": 507.58,
+      "text": "It was cool."
+    },
+    {
+      "start": 507.8,
+      "end": 513.74,
+      "text": "I think it was a little underwhelming, I would say, just from the standpoint of the hype it"
+    },
+    {
+      "start": 513.74,
+      "end": 514.02,
+      "text": "had."
+    },
+    {
+      "start": 514.48,
+      "end": 518.92,
+      "text": "It seems like the main attraction was more like, well, one was like promoting creator"
+    },
+    {
+      "start": 518.92,
+      "end": 519.3,
+      "text": "brands."
+    },
+    {
+      "start": 519.48,
+      "end": 523.3,
+      "text": "One was like, let's make a cool studio set up for podcast recordings."
+    },
+    {
+      "start": 523.58,
+      "end": 528.16,
+      "text": "And because that was their main thing is they did a podcast recording Friday and Sunday."
+    },
+    {
+      "start": 528.16,
+      "end": 529.58,
+      "text": "Yeah, I saw that."
+    },
+    {
+      "start": 530.22,
+      "end": 534.32,
+      "text": "I mean, on the other hand, you know, maybe the goal was keep it quick moving because there"
+    },
+    {
+      "start": 534.32,
+      "end": 535.74,
+      "text": "was just thousands of people there."
+    },
+    {
+      "start": 535.88,
+      "end": 537.94,
+      "text": "So they don't want people, you know, slowing down."
+    },
+    {
+      "start": 538.1,
+      "end": 540.64,
+      "text": "But what was cool was it was all creator brands."
+    },
+    {
+      "start": 540.78,
+      "end": 545.46,
+      "text": "So they had Chamberlain coffee, just like you could get coffee from Chamberlain coffee."
+    },
+    {
+      "start": 545.92,
+      "end": 550.88,
+      "text": "There's this other brand Juvie that we also launched and they had a Juvie slushy machine,"
+    },
+    {
+      "start": 551.06,
+      "end": 552.62,
+      "text": "which is basically like an energy drink."
+    },
+    {
+      "start": 553.68,
+      "end": 554.72,
+      "text": "But what else?"
+    },
+    {
+      "start": 554.74,
+      "end": 556.58,
+      "text": "You got like a barcode when you got in."
+    },
+    {
+      "start": 556.58,
+      "end": 561.78,
+      "text": "You would scan the boxes and then if it says winner, then you go collect a little prize"
+    },
+    {
+      "start": 561.78,
+      "end": 562.2,
+      "text": "bag."
+    },
+    {
+      "start": 563.16,
+      "end": 564.06,
+      "text": "Did you win anything?"
+    },
+    {
+      "start": 564.68,
+      "end": 565.36,
+      "text": "I did."
+    },
+    {
+      "start": 565.66,
+      "end": 567.56,
+      "text": "I think it was like a can of Juvie."
+    },
+    {
+      "start": 568.48,
+      "end": 572.18,
+      "text": "And truthfully, I just put the bag in Dennis's car and didn't even see it."
+    },
+    {
+      "start": 572.32,
+      "end": 574.68,
+      "text": "But I think it was like a can of Juvie and something else."
+    },
+    {
+      "start": 575.06,
+      "end": 575.64,
+      "text": "Yeah, I wish."
+    },
+    {
+      "start": 576.8,
+      "end": 580.52,
+      "text": "And then out of curiosity, what is Neil from Casper up to these days?"
+    },
+    {
+      "start": 581,
+      "end": 585.42,
+      "text": "Believe it or not, and I probably shouldn't say this, he was like one of the first 10 customers"
+    },
+    {
+      "start": 585.42,
+      "end": 586.02,
+      "text": "at Native."
+    },
+    {
+      "start": 586.36,
+      "end": 589.52,
+      "text": "Like I remember the first 10, you know, I remember like, you know, I was looking at all"
+    },
+    {
+      "start": 589.52,
+      "end": 591.66,
+      "text": "the orders for the first time people ordered from us."
+    },
+    {
+      "start": 591.84,
+      "end": 592.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 592.22,
+      "end": 593.76,
+      "text": "He was definitely one of the first 10 that ordered."
+    },
+    {
+      "start": 594.46,
+      "end": 598.66,
+      "text": "And you know, he wasn't, he didn't, he didn't say, Hey, this looks a lot like Casper's website."
+    },
+    {
+      "start": 598.76,
+      "end": 599.44,
+      "text": "What the fuck are you doing?"
+    },
+    {
+      "start": 599.58,
+      "end": 601.22,
+      "text": "He didn't expect that."
+    },
+    {
+      "start": 601.84,
+      "end": 603,
+      "text": "What's he up to these days?"
+    },
+    {
+      "start": 603.76,
+      "end": 605.62,
+      "text": "He is working on something new."
+    },
+    {
+      "start": 606.2,
+      "end": 610.78,
+      "text": "I probably shouldn't share it yet just because he's like in stealth mode, but he's working"
+    },
+    {
+      "start": 610.78,
+      "end": 612.72,
+      "text": "on something new that I think is pretty interesting."
+    },
+    {
+      "start": 613.66,
+      "end": 614.72,
+      "text": "He's just a cool dude."
+    },
+    {
+      "start": 615.16,
+      "end": 617.46,
+      "text": "He's like a cool Indian dude."
+    },
+    {
+      "start": 617.46,
+      "end": 618.16,
+      "text": "Heard great things about him."
+    },
+    {
+      "start": 618.36,
+      "end": 618.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 618.44,
+      "end": 620.4,
+      "text": "Never met him, but I've heard fantastic things about him."
+    },
+    {
+      "start": 620.74,
+      "end": 620.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 621.54,
+      "end": 623.86,
+      "text": "What was the funniest thing that happened to you at South by Southwest?"
+    },
+    {
+      "start": 625.06,
+      "end": 626.54,
+      "text": "Probably not a ton."
+    },
+    {
+      "start": 627.06,
+      "end": 629.96,
+      "text": "Honestly, the coolest part was I went to this dinner last night."
+    },
+    {
+      "start": 630.18,
+      "end": 632.2,
+      "text": "So do you know Night Media?"
+    },
+    {
+      "start": 632.5,
+      "end": 637.56,
+      "text": "They're like the talent company, the venture arm and the media company that's like the Mr."
+    },
+    {
+      "start": 637.68,
+      "end": 639.42,
+      "text": "Beast management team."
+    },
+    {
+      "start": 639.82,
+      "end": 640.08,
+      "text": "Yes."
+    },
+    {
+      "start": 641.66,
+      "end": 646.12,
+      "text": "So I went to a dinner that they hosted last night and met a ton of people who listen to"
+    },
+    {
+      "start": 646.12,
+      "end": 649.2,
+      "text": "Limited Supply and love listening to it."
+    },
+    {
+      "start": 649.86,
+      "end": 651.34,
+      "text": "So that was probably the coolest part."
+    },
+    {
+      "start": 652.08,
+      "end": 652.22,
+      "text": "Okay."
+    },
+    {
+      "start": 652.3,
+      "end": 655.1,
+      "text": "I want to talk about a couple other things before we get to SVB as well, because I feel"
+    },
+    {
+      "start": 655.1,
+      "end": 656.4,
+      "text": "like that's been dominating the news."
+    },
+    {
+      "start": 656.56,
+      "end": 660.2,
+      "text": "And while I do want to spend some time on it, I hate like, you know, I'm not sure if everyone"
+    },
+    {
+      "start": 660.2,
+      "end": 662.12,
+      "text": "wants to hear 45 minutes of SVB."
+    },
+    {
+      "start": 662.6,
+      "end": 662.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 663.26,
+      "end": 664.56,
+      "text": "One is Birchbox."
+    },
+    {
+      "start": 664.82,
+      "end": 667.32,
+      "text": "Birchbox seems to have completely failed."
+    },
+    {
+      "start": 667.5,
+      "end": 668.96,
+      "text": "Have you noticed that or not?"
+    },
+    {
+      "start": 668.96,
+      "end": 670.6,
+      "text": "I actually heard about that."
+    },
+    {
+      "start": 671,
+      "end": 672.26,
+      "text": "But what happened?"
+    },
+    {
+      "start": 672.9,
+      "end": 673.74,
+      "text": "It's unclear."
+    },
+    {
+      "start": 673.9,
+      "end": 680.7,
+      "text": "Like in 2021, they were purchased by somebody for like $45 million that did like subscription"
+    },
+    {
+      "start": 680.7,
+      "end": 681.18,
+      "text": "boxes."
+    },
+    {
+      "start": 681.18,
+      "end": 684.9,
+      "text": "But like, you know, maybe a couple months ago, they just posted this thing on Instagram"
+    },
+    {
+      "start": 684.9,
+      "end": 687.88,
+      "text": "basically saying, we know we're disappointing you guys."
+    },
+    {
+      "start": 688.02,
+      "end": 690.12,
+      "text": "We're going to have answers for everyone in a couple weeks."
+    },
+    {
+      "start": 691,
+      "end": 693.4,
+      "text": "And, you know, they've never had answers for anyone."
+    },
+    {
+      "start": 693.58,
+      "end": 696.62,
+      "text": "They posted that November 7th, 2022."
+    },
+    {
+      "start": 696.62,
+      "end": 699.96,
+      "text": "So five months ago, it says, to our members, we know you're frustrated."
+    },
+    {
+      "start": 700.46,
+      "end": 704.56,
+      "text": "Birchbox is facing a host of unprecedented setbacks that are affecting all of you, our"
+    },
+    {
+      "start": 704.56,
+      "end": 705.36,
+      "text": "cherished members."
+    },
+    {
+      "start": 705.76,
+      "end": 708.84,
+      "text": "Within a couple of weeks, we were able to share details about the future and what you"
+    },
+    {
+      "start": 708.84,
+      "end": 709.24,
+      "text": "can expect."
+    },
+    {
+      "start": 709.4,
+      "end": 713.56,
+      "text": "Anyway, a bunch of people are getting screwed because basically if you bought a year subscription"
+    },
+    {
+      "start": 713.56,
+      "end": 717.44,
+      "text": "box, you're not going to get another box ever again because this business is over."
+    },
+    {
+      "start": 718.04,
+      "end": 718.88,
+      "text": "That is crazy."
+    },
+    {
+      "start": 719.06,
+      "end": 721.9,
+      "text": "There was a, what was the other company that this just happened to recently?"
+    },
+    {
+      "start": 722.58,
+      "end": 724.88,
+      "text": "It was another, like, it might've been..."
+    },
+    {
+      "start": 724.88,
+      "end": 725.54,
+      "text": "Touch of Modern?"
+    },
+    {
+      "start": 725.8,
+      "end": 726.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 726.24,
+      "end": 727.08,
+      "text": "I think it was Touch of Modern."
+    },
+    {
+      "start": 727.72,
+      "end": 731.22,
+      "text": "Touch of Modern isn't a subscription box, but yeah, they sort of also went away that way."
+    },
+    {
+      "start": 731.22,
+      "end": 732.3,
+      "text": "Kind of marketplace-y though."
+    },
+    {
+      "start": 732.6,
+      "end": 732.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 732.92,
+      "end": 733.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 733.1,
+      "end": 735.92,
+      "text": "And the question is like, what happens to vendors and all that kind of stuff when you go"
+    },
+    {
+      "start": 735.92,
+      "end": 736.56,
+      "text": "through bankruptcy?"
+    },
+    {
+      "start": 737.02,
+      "end": 740.96,
+      "text": "Which, you know, I guess perhaps is a good segue to finally start talking about SVB"
+    },
+    {
+      "start": 741.72,
+      "end": 742.86,
+      "text": "and what happened."
+    },
+    {
+      "start": 743.6,
+      "end": 746.62,
+      "text": "I guess before we start, do you know any brands that bank there?"
+    },
+    {
+      "start": 747.64,
+      "end": 749.06,
+      "text": "Yeah, a couple."
+    },
+    {
+      "start": 749.26,
+      "end": 753.08,
+      "text": "One was Camp, which is like a kid's retailer brand."
+    },
+    {
+      "start": 753.86,
+      "end": 755.68,
+      "text": "Another one is Omsom."
+    },
+    {
+      "start": 755.94,
+      "end": 757.2,
+      "text": "They're the sauce company."
+    },
+    {
+      "start": 757.48,
+      "end": 757.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 757.84,
+      "end": 758.18,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 758.66,
+      "end": 761.3,
+      "text": "And then EMI was also at Silicon Valley Bank."
+    },
+    {
+      "start": 761.82,
+      "end": 762.64,
+      "text": "Oh, were they?"
+    },
+    {
+      "start": 762.88,
+      "end": 763.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 763.5,
+      "end": 766.64,
+      "text": "But they got out on Thursday or Friday."
+    },
+    {
+      "start": 766.86,
+      "end": 767.3,
+      "text": "He was quick."
+    },
+    {
+      "start": 767.4,
+      "end": 768,
+      "text": "Oh, that's right."
+    },
+    {
+      "start": 768,
+      "end": 768.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 769.12,
+      "end": 769.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 769.6,
+      "end": 769.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 769.68,
+      "end": 774.36,
+      "text": "Did you know, I was actually surprised that most of the people I talked to were not banking"
+    },
+    {
+      "start": 774.36,
+      "end": 775.46,
+      "text": "with Silicon Valley Bank."
+    },
+    {
+      "start": 775.7,
+      "end": 779.28,
+      "text": "Most people were either Mercury, Brex, or Chase."
+    },
+    {
+      "start": 780.1,
+      "end": 782.22,
+      "text": "So, Chase I get and Mercury I get."
+    },
+    {
+      "start": 782.36,
+      "end": 783.84,
+      "text": "I thought Brex was just a credit card."
+    },
+    {
+      "start": 783.98,
+      "end": 784.62,
+      "text": "It's a whole bank."
+    },
+    {
+      "start": 784.76,
+      "end": 785.26,
+      "text": "You can do all that."
+    },
+    {
+      "start": 785.26,
+      "end": 785.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 785.54,
+      "end": 792,
+      "text": "They recently added an entire bank behind it and they started pushing that heavily and"
+    },
+    {
+      "start": 792,
+      "end": 798.58,
+      "text": "I think it yielded a bunch in interest payments back to you or they had some sort of catch"
+    },
+    {
+      "start": 798.58,
+      "end": 798.98,
+      "text": "to it."
+    },
+    {
+      "start": 799.46,
+      "end": 803.44,
+      "text": "But I remember there was some sort of like a financial incentive to do it and a ton of"
+    },
+    {
+      "start": 803.44,
+      "end": 804.5,
+      "text": "people moved to Brex."
+    },
+    {
+      "start": 805.38,
+      "end": 808.44,
+      "text": "American Express also has like business banking as well."
+    },
+    {
+      "start": 809.18,
+      "end": 810,
+      "text": "I didn't know that."
+    },
+    {
+      "start": 810.42,
+      "end": 810.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 812.04,
+      "end": 814.1,
+      "text": "There was one company that I know of."
+    },
+    {
+      "start": 814.2,
+      "end": 817.88,
+      "text": "They were like, they texted a couple of people on Thursday and they're like, hey, should"
+    },
+    {
+      "start": 817.88,
+      "end": 818.58,
+      "text": "we move our money?"
+    },
+    {
+      "start": 819.26,
+      "end": 821.64,
+      "text": "And one of the guys was like, no, you're going to be completely fine."
+    },
+    {
+      "start": 821.8,
+      "end": 824.6,
+      "text": "And then on Friday, they're like, should we move our money?"
+    },
+    {
+      "start": 824.66,
+      "end": 826.38,
+      "text": "And I was like, I think you should move your money."
+    },
+    {
+      "start": 826.82,
+      "end": 828.64,
+      "text": "Friday morning, like early morning."
+    },
+    {
+      "start": 828.94,
+      "end": 829.8,
+      "text": "And they're like, okay, great."
+    },
+    {
+      "start": 829.86,
+      "end": 830.68,
+      "text": "We initiated the wire."
+    },
+    {
+      "start": 830.68,
+      "end": 834.9,
+      "text": "And they're like, and wires are over as is the bank."
+    },
+    {
+      "start": 835.06,
+      "end": 836.42,
+      "text": "And so they didn't get their money."
+    },
+    {
+      "start": 836.52,
+      "end": 838.28,
+      "text": "They were worried about what they'd have to do over the weekend."
+    },
+    {
+      "start": 838.48,
+      "end": 843.38,
+      "text": "I mean, I got a bunch, not virtually all, but like probably 20% of the startups I've"
+    },
+    {
+      "start": 843.38,
+      "end": 847.32,
+      "text": "invested in emailed and either said we have exposure or we don't have exposure."
+    },
+    {
+      "start": 847.86,
+      "end": 852.32,
+      "text": "And obviously everyone sort of was fine today because the federal government stepped in"
+    },
+    {
+      "start": 852.32,
+      "end": 854.64,
+      "text": "and said, hey, this is what happened."
+    },
+    {
+      "start": 855.26,
+      "end": 856.86,
+      "text": "I guess a couple of things."
+    },
+    {
+      "start": 857.14,
+      "end": 859.72,
+      "text": "One is how much are you aware of what happened?"
+    },
+    {
+      "start": 860.42,
+      "end": 867.56,
+      "text": "I feel like I'm only about 30% aware in terms of understanding what happened, why it happened."
+    },
+    {
+      "start": 867.78,
+      "end": 872.42,
+      "text": "The way I understood it was the way banks make money is they loan their assets out"
+    },
+    {
+      "start": 872.42,
+      "end": 874.94,
+      "text": "to basically go make more money for them."
+    },
+    {
+      "start": 875.66,
+      "end": 884.12,
+      "text": "And with the trajectory, the same way that e-commerce companies overordered inventory for 2022,"
+    },
+    {
+      "start": 884.64,
+      "end": 890.06,
+      "text": "they overextended their capital thinking the deposits were going to continue at the same"
+    },
+    {
+      "start": 890.06,
+      "end": 890.38,
+      "text": "rate."
+    },
+    {
+      "start": 890.6,
+      "end": 892.72,
+      "text": "And then some memo got leaked."
+    },
+    {
+      "start": 892.84,
+      "end": 894.1,
+      "text": "This is where it gets a little tricky."
+    },
+    {
+      "start": 894.3,
+      "end": 900.36,
+      "text": "Some memo got leaked or some memo was put out and it became a signal for people to immediately"
+    },
+    {
+      "start": 900.36,
+      "end": 901.68,
+      "text": "start taking their money out."
+    },
+    {
+      "start": 902.06,
+      "end": 903.2,
+      "text": "And that's about it."
+    },
+    {
+      "start": 903.2,
+      "end": 905,
+      "text": "Other than like, you know, it gets resolved."
+    },
+    {
+      "start": 905.76,
+      "end": 907.1,
+      "text": "That's a pretty good summary."
+    },
+    {
+      "start": 907.1,
+      "end": 910.16,
+      "text": "I'd say like, you know, for someone who's been traveling for three days straight and"
+    },
+    {
+      "start": 910.16,
+      "end": 915,
+      "text": "to go to sleep, I'd say you probably got what 99.9% of people got."
+    },
+    {
+      "start": 915.32,
+      "end": 918.5,
+      "text": "There's this great article by this guy named Mark Rubenstein."
+    },
+    {
+      "start": 918.76,
+      "end": 920.82,
+      "text": "It's called The Demise of Silicon Valley's Bank."
+    },
+    {
+      "start": 920.9,
+      "end": 922,
+      "text": "I just shared it with you."
+    },
+    {
+      "start": 922.6,
+      "end": 924.92,
+      "text": "And it is such a fucking good."
+    },
+    {
+      "start": 925.1,
+      "end": 926.8,
+      "text": "I don't know who Mark Rubenstein is."
+    },
+    {
+      "start": 926.94,
+      "end": 927.82,
+      "text": "I've never met this guy."
+    },
+    {
+      "start": 927.98,
+      "end": 929.74,
+      "text": "I just Googled this, you know, article."
+    },
+    {
+      "start": 930.16,
+      "end": 935.26,
+      "text": "This guy, not only did he sum up the issues, he summed it up in a way that's really dumb."
+    },
+    {
+      "start": 935.26,
+      "end": 936.46,
+      "text": "Some people can understand."
+    },
+    {
+      "start": 937.36,
+      "end": 940.9,
+      "text": "And so basically, I was reading this and I thought that was such a good summary."
+    },
+    {
+      "start": 941.06,
+      "end": 943.26,
+      "text": "Basically, what happens is when a bank purchases..."
+    },
+    {
+      "start": 943.96,
+      "end": 949,
+      "text": "So a bank's job is, hey, you're going to deposit money at the bank and we're going to loan"
+    },
+    {
+      "start": 949,
+      "end": 951.34,
+      "text": "that money out and get higher interest, right?"
+    },
+    {
+      "start": 951.5,
+      "end": 954.86,
+      "text": "So Nick, you've given me a Moise Ali bank a dollar."
+    },
+    {
+      "start": 955.32,
+      "end": 956.84,
+      "text": "I'm going to give you 1% interest."
+    },
+    {
+      "start": 957,
+      "end": 960.64,
+      "text": "But what I'm going to do is I'm going to loan that dollar to John and John is paying"
+    },
+    {
+      "start": 960.64,
+      "end": 961.64,
+      "text": "me 5% interest."
+    },
+    {
+      "start": 961.8,
+      "end": 964.48,
+      "text": "So I'm paying you 1% and I'm keeping the other 4%."
+    },
+    {
+      "start": 964.48,
+      "end": 966.7,
+      "text": "And that's how I make money."
+    },
+    {
+      "start": 967.04,
+      "end": 971.82,
+      "text": "And, you know, that's a very good business model because it costs me only 1% to, you"
+    },
+    {
+      "start": 971.82,
+      "end": 976.32,
+      "text": "know, borrow a dollar from you and I give it to John and I get 5% and I get the difference"
+    },
+    {
+      "start": 976.32,
+      "end": 977.12,
+      "text": "between those two."
+    },
+    {
+      "start": 978.36,
+      "end": 983.12,
+      "text": "Now, Silicon Valley Bank was an interesting bank because, you know, it focused primarily"
+    },
+    {
+      "start": 983.12,
+      "end": 985.94,
+      "text": "on tech, unlike, you know, startups."
+    },
+    {
+      "start": 986.72,
+      "end": 992.44,
+      "text": "And it grew the number of deposits it had over the last four years in an insane way."
+    },
+    {
+      "start": 992.44,
+      "end": 996.14,
+      "text": "In December 2018, it had 50 billion in deposits."
+    },
+    {
+      "start": 996.78,
+      "end": 1000.2,
+      "text": "Two years later, December 2020 has 100 billion in deposits."
+    },
+    {
+      "start": 1000.42,
+      "end": 1001.36,
+      "text": "So it's doubled the business."
+    },
+    {
+      "start": 1001.56,
+      "end": 1004.8,
+      "text": "December 22, 175 billion in deposits."
+    },
+    {
+      "start": 1005.1,
+      "end": 1009.94,
+      "text": "So basically they're virtually doubling every two years while the industry is growing at"
+    },
+    {
+      "start": 1009.94,
+      "end": 1011.98,
+      "text": "not even half this pace."
+    },
+    {
+      "start": 1012.46,
+      "end": 1016.94,
+      "text": "Like Silicon Valley Bank is growing, you know, doubling its size and the rest of the industry"
+    },
+    {
+      "start": 1016.94,
+      "end": 1018.34,
+      "text": "is only growing 37%."
+    },
+    {
+      "start": 1018.34,
+      "end": 1023.04,
+      "text": "And when I mean the rest of the industry, I mean Chase's deposits are going up 37% during"
+    },
+    {
+      "start": 1023.04,
+      "end": 1026.1,
+      "text": "this time, while Silicon Valley Bank's deposits are going doubling."
+    },
+    {
+      "start": 1026.64,
+      "end": 1032.04,
+      "text": "So one, Silicon Valley Bank is like, hey, the Nick Sharmas of the world four years ago deposited"
+    },
+    {
+      "start": 1032.04,
+      "end": 1032.78,
+      "text": "49 billion."
+    },
+    {
+      "start": 1032.92,
+      "end": 1034.32,
+      "text": "Now we're sitting on 200 billion."
+    },
+    {
+      "start": 1034.54,
+      "end": 1035.7,
+      "text": "That's a massive difference."
+    },
+    {
+      "start": 1036.46,
+      "end": 1040.94,
+      "text": "And the other thing that happened is, you know, at Chase Bank and at Bank of America,"
+    },
+    {
+      "start": 1040.98,
+      "end": 1044.88,
+      "text": "I bank at Bank of America and have since I was, you know, probably 15 years old."
+    },
+    {
+      "start": 1045.44,
+      "end": 1049,
+      "text": "They have regular people like me and you banking at Bank of America."
+    },
+    {
+      "start": 1049.4,
+      "end": 1053.44,
+      "text": "At Silicon Valley Bank, they have massive startups with a ton of money."
+    },
+    {
+      "start": 1053.44,
+      "end": 1055.98,
+      "text": "The average account, I looked this up."
+    },
+    {
+      "start": 1056.46,
+      "end": 1062.16,
+      "text": "So, you know, they have 170, let's say they had about $173 billion of deposits."
+    },
+    {
+      "start": 1063.42,
+      "end": 1068.1,
+      "text": "152 billion was uninsured, meaning it was above the $250,000 mark."
+    },
+    {
+      "start": 1068.94,
+      "end": 1072.04,
+      "text": "And the average account was more than $4 million."
+    },
+    {
+      "start": 1072.6,
+      "end": 1075.38,
+      "text": "The average account that was good was more than $4 million."
+    },
+    {
+      "start": 1075.8,
+      "end": 1080.16,
+      "text": "It's basically startups or like Roku's, like it's tech companies as well."
+    },
+    {
+      "start": 1080.26,
+      "end": 1080.96,
+      "text": "It's not just startups."
+    },
+    {
+      "start": 1080.96,
+      "end": 1084.98,
+      "text": "It's like tech companies, it's those guys that have money at Silicon Valley Bank and"
+    },
+    {
+      "start": 1084.98,
+      "end": 1086.3,
+      "text": "not so many individuals."
+    },
+    {
+      "start": 1086.64,
+      "end": 1090.2,
+      "text": "So one is like, you know, what becomes important is the size of their account."
+    },
+    {
+      "start": 1090.42,
+      "end": 1094.06,
+      "text": "It's a massive account with a small number of depositors."
+    },
+    {
+      "start": 1094.18,
+      "end": 1097.4,
+      "text": "Like, you know, how many depositors does Bank of America have?"
+    },
+    {
+      "start": 1097.54,
+      "end": 1097.92,
+      "text": "A ton."
+    },
+    {
+      "start": 1098.32,
+      "end": 1103,
+      "text": "Because every Joe Schmuck like me banks a Bank of America while, you know, Silicon"
+    },
+    {
+      "start": 1103,
+      "end": 1106.1,
+      "text": "Valley Bank just has a bunch of rich people or startups."
+    },
+    {
+      "start": 1106.96,
+      "end": 1110.88,
+      "text": "So what happened is like, you know, Nick, you were, let's say you kept your money at"
+    },
+    {
+      "start": 1110.88,
+      "end": 1115.72,
+      "text": "Silicon Valley Bank and you had deposited a dollar and I was paying you a dollar one."
+    },
+    {
+      "start": 1116.06,
+      "end": 1121.32,
+      "text": "Well, at some point you realized, hey, interest rates have gone up a lot and I'm getting a"
+    },
+    {
+      "start": 1121.32,
+      "end": 1122.48,
+      "text": "dollar one from Moyes."
+    },
+    {
+      "start": 1122.56,
+      "end": 1125.78,
+      "text": "But if I go to the bank of Joe Biden, I can get 5%."
+    },
+    {
+      "start": 1126.66,
+      "end": 1129.7,
+      "text": "Instead of getting a dollar one at the end of the year, I can get a dollar five."
+    },
+    {
+      "start": 1129.7,
+      "end": 1133.88,
+      "text": "So a bunch of Nick Sharmas of the world in this instance were like, hey, look, I can go get"
+    },
+    {
+      "start": 1133.88,
+      "end": 1135.82,
+      "text": "a dollar five instead of a dollar one."
+    },
+    {
+      "start": 1136.4,
+      "end": 1138.26,
+      "text": "Silicon Valley Bank, it's been real."
+    },
+    {
+      "start": 1138.42,
+      "end": 1138.88,
+      "text": "Thanks a lot."
+    },
+    {
+      "start": 1138.98,
+      "end": 1142.5,
+      "text": "But I'm going to take some of my money and go deposit, go get higher interest rates."
+    },
+    {
+      "start": 1142.98,
+      "end": 1144.38,
+      "text": "So that was one thing that happened."
+    },
+    {
+      "start": 1144.48,
+      "end": 1147.6,
+      "text": "The other thing that happened was the tech markets started getting a lot quieter."
+    },
+    {
+      "start": 1148.08,
+      "end": 1151.92,
+      "text": "So, you know, as Silicon Valley Bank was used to getting a lot more deposits as a result"
+    },
+    {
+      "start": 1151.92,
+      "end": 1157.36,
+      "text": "of VCs funding other companies and them having accounts as VB, those things sort of dried"
+    },
+    {
+      "start": 1157.36,
+      "end": 1157.66,
+      "text": "up."
+    },
+    {
+      "start": 1157.66,
+      "end": 1163.86,
+      "text": "And so what happened is that for the first time in a long time, the dollar deposit value"
+    },
+    {
+      "start": 1163.86,
+      "end": 1165.36,
+      "text": "at SVP declined."
+    },
+    {
+      "start": 1165.74,
+      "end": 1173.58,
+      "text": "So it's $198 billion at the end of March 22, $173 billion at the end of December, and $165"
+    },
+    {
+      "start": 1173.58,
+      "end": 1175.72,
+      "text": "billion at the end of February 2023."
+    },
+    {
+      "start": 1176.56,
+      "end": 1178.82,
+      "text": "And this is all based on this article."
+    },
+    {
+      "start": 1179.14,
+      "end": 1183.98,
+      "text": "So just to be clear, you know, my research is from a couple articles that I read."
+    },
+    {
+      "start": 1184.02,
+      "end": 1186.78,
+      "text": "I didn't, you know, go talk to the CEO of SVP or anything."
+    },
+    {
+      "start": 1186.78,
+      "end": 1189.86,
+      "text": "I imagine he's not doing interviews with schmucks like me."
+    },
+    {
+      "start": 1190.12,
+      "end": 1192.4,
+      "text": "But in any case, their deposits are falling."
+    },
+    {
+      "start": 1192.7,
+      "end": 1197.72,
+      "text": "And what happened is about a year ago, Silicon Valley Bank made a terrible, terrible decision."
+    },
+    {
+      "start": 1198.22,
+      "end": 1201.98,
+      "text": "They said, okay, world, well, we have $200 billion in deposits."
+    },
+    {
+      "start": 1202.18,
+      "end": 1206.56,
+      "text": "You know what we should do is we should buy a lot of debt with a long-term maturity date."
+    },
+    {
+      "start": 1206.56,
+      "end": 1215.98,
+      "text": "So basically, we're going to spend $80 billion and buy mortgages that'll be due in 2030, 33 or 34."
+    },
+    {
+      "start": 1215.98,
+      "end": 1221.3,
+      "text": "And those mortgages pay no interest, basically no interest, 2% interest."
+    },
+    {
+      "start": 1222.08,
+      "end": 1225.94,
+      "text": "And so when interest rates go up, the price of a security goes down."
+    },
+    {
+      "start": 1226.06,
+      "end": 1230.3,
+      "text": "So like, let's say you have a dollar security from the US government and it's paying 5% in interest."
+    },
+    {
+      "start": 1230.58,
+      "end": 1234.36,
+      "text": "Well, if you can get 10% in interest, 10% is way better than 5%."
+    },
+    {
+      "start": 1234.36,
+      "end": 1236,
+      "text": "So I'm not ready to buy your 5%."
+    },
+    {
+      "start": 1236,
+      "end": 1238.02,
+      "text": "Let's say you have this thing that's paying 5%."
+    },
+    {
+      "start": 1238.02,
+      "end": 1240.9,
+      "text": "And I found a thing that's paying 10% by the US government."
+    },
+    {
+      "start": 1241.06,
+      "end": 1241.36,
+      "text": "Well, guess what?"
+    },
+    {
+      "start": 1241.42,
+      "end": 1244.36,
+      "text": "Your 5% thing isn't as valuable because I can get 10%."
+    },
+    {
+      "start": 1244.36,
+      "end": 1248.46,
+      "text": "So you got to mark down the price of your thing, your bond from the US government."
+    },
+    {
+      "start": 1248.64,
+      "end": 1251.26,
+      "text": "So that's basically what SVB had to do in this instance."
+    },
+    {
+      "start": 1251.44,
+      "end": 1256.06,
+      "text": "They said they bought $80 billion of securities at a really low interest rate."
+    },
+    {
+      "start": 1256.22,
+      "end": 1261.6,
+      "text": "And as interest rates started going up over the past 12 months, the value of their security dropped materially."
+    },
+    {
+      "start": 1261.84,
+      "end": 1264.94,
+      "text": "And finally, they had to do about a $2 billion write down."
+    },
+    {
+      "start": 1264.94,
+      "end": 1269.02,
+      "text": "And when they did a $2 billion write down, they said, we're going to do a $2 billion write down"
+    },
+    {
+      "start": 1269.02,
+      "end": 1273.58,
+      "text": "because the value of our securities has gone down a bunch as a result of interest rates going up."
+    },
+    {
+      "start": 1274.32,
+      "end": 1276.9,
+      "text": "And we're going to add $2 billion to a balance sheet."
+    },
+    {
+      "start": 1276.94,
+      "end": 1277.88,
+      "text": "We're going to raise $2 billion."
+    },
+    {
+      "start": 1278.52,
+      "end": 1280.64,
+      "text": "And that $2 billion never came in."
+    },
+    {
+      "start": 1280.84,
+      "end": 1283.54,
+      "text": "And everyone got scared that they weren't going to be able."
+    },
+    {
+      "start": 1283.7,
+      "end": 1284.68,
+      "text": "There was just a run on the bank."
+    },
+    {
+      "start": 1285.24,
+      "end": 1287.84,
+      "text": "How long ago did they say they were going to raise $2 billion?"
+    },
+    {
+      "start": 1287.92,
+      "end": 1289.6,
+      "text": "Was that the memo that came out last Wednesday?"
+    },
+    {
+      "start": 1289.68,
+      "end": 1292.32,
+      "text": "Yeah, that was the memo that came out last week saying,"
+    },
+    {
+      "start": 1292.32,
+      "end": 1295.78,
+      "text": "so just to be like, I feel like I've done a poor job of explaining this."
+    },
+    {
+      "start": 1296.2,
+      "end": 1302.04,
+      "text": "Basically, the value of a security, if you have a bank account or if you own an instrument that says,"
+    },
+    {
+      "start": 1302.16,
+      "end": 1305.88,
+      "text": "hey, Moise is going to pay me 5% on a dollar every year."
+    },
+    {
+      "start": 1306,
+      "end": 1307.22,
+      "text": "So I'm going to pay you $0."
+    },
+    {
+      "start": 1307.3,
+      "end": 1309.18,
+      "text": "I'm going to pay you $0.05 every year, right?"
+    },
+    {
+      "start": 1309.38,
+      "end": 1313.02,
+      "text": "So on the dollar, if you loan me $1 today, I'm going to give you $0.05 from a year from now."
+    },
+    {
+      "start": 1313.32,
+      "end": 1316.76,
+      "text": "Well, what if to somebody else, to John, I offer him $0.10?"
+    },
+    {
+      "start": 1317.16,
+      "end": 1319.92,
+      "text": "I'm going to offer him $0.10 for every dollar he loans me."
+    },
+    {
+      "start": 1319.92,
+      "end": 1323.46,
+      "text": "Right. Now, both of you are selling this dollar loan that I have, right?"
+    },
+    {
+      "start": 1323.54,
+      "end": 1326.22,
+      "text": "You're like, Nick, Nick, you're like, look, I need the dollar back."
+    },
+    {
+      "start": 1326.34,
+      "end": 1327.8,
+      "text": "I'm going to sell this to somebody else."
+    },
+    {
+      "start": 1327.9,
+      "end": 1331.86,
+      "text": "Well, they're going to say, well, I can buy John's and Moise is paying John $0.10."
+    },
+    {
+      "start": 1332.36,
+      "end": 1333.84,
+      "text": "Nick, he's only paying you $0.05."
+    },
+    {
+      "start": 1334.52,
+      "end": 1335.88,
+      "text": "Your thing is worth less, right?"
+    },
+    {
+      "start": 1335.98,
+      "end": 1337.9,
+      "text": "Because a year from now, I only get $0.05 from you."
+    },
+    {
+      "start": 1338,
+      "end": 1338.94,
+      "text": "I get $0.10 from him."
+    },
+    {
+      "start": 1339.14,
+      "end": 1339.96,
+      "text": "So fuck you, Nick."
+    },
+    {
+      "start": 1340.04,
+      "end": 1341.44,
+      "text": "I'm not paying you $1 for your thing."
+    },
+    {
+      "start": 1341.5,
+      "end": 1342.56,
+      "text": "I'm only paying you $0.95."
+    },
+    {
+      "start": 1343.44,
+      "end": 1344.6,
+      "text": "So that's what happens."
+    },
+    {
+      "start": 1344.6,
+      "end": 1348.28,
+      "text": "So basically what happened is that they had to write down the value of their bonds because"
+    },
+    {
+      "start": 1348.28,
+      "end": 1349.92,
+      "text": "interest rates had gone up so much."
+    },
+    {
+      "start": 1350.46,
+      "end": 1354.22,
+      "text": "And the write down in the value of their bonds caused them to say, hey, we're going to raise"
+    },
+    {
+      "start": 1354.22,
+      "end": 1354.52,
+      "text": "money."
+    },
+    {
+      "start": 1354.66,
+      "end": 1357.72,
+      "text": "They released this memo that said, hey, we're going to raise money."
+    },
+    {
+      "start": 1358.06,
+      "end": 1360.62,
+      "text": "Everyone was afraid that they wouldn't be able to raise money."
+    },
+    {
+      "start": 1360.78,
+      "end": 1364.38,
+      "text": "And the fear of them not being able to raise money caused this run on the bank."
+    },
+    {
+      "start": 1364.82,
+      "end": 1365.38,
+      "text": "Got it."
+    },
+    {
+      "start": 1365.38,
+      "end": 1371.72,
+      "text": "So in one day, I think on Thursday or maybe it was Friday, the $42 billion of deposits"
+    },
+    {
+      "start": 1371.72,
+      "end": 1375.68,
+      "text": "was lost because everyone was afraid that they were going to be insolvent."
+    },
+    {
+      "start": 1375.82,
+      "end": 1377.22,
+      "text": "They needed to take their money out first."
+    },
+    {
+      "start": 1377.62,
+      "end": 1378.26,
+      "text": "That is crazy."
+    },
+    {
+      "start": 1378.5,
+      "end": 1381.58,
+      "text": "That's almost a third of their, probably almost a third."
+    },
+    {
+      "start": 1381.86,
+      "end": 1382.62,
+      "text": "That is."
+    },
+    {
+      "start": 1382.78,
+      "end": 1385.44,
+      "text": "And so I guess the questions are a fewfold."
+    },
+    {
+      "start": 1385.66,
+      "end": 1391.62,
+      "text": "One is, is it right that the government stepped in to say, hey, all of you tech companies with"
+    },
+    {
+      "start": 1391.62,
+      "end": 1395.78,
+      "text": "an average of $4 million in your bank account, we're guaranteeing this."
+    },
+    {
+      "start": 1395.96,
+      "end": 1397.92,
+      "text": "We're going to come in and say, yeah, we've got this."
+    },
+    {
+      "start": 1398.48,
+      "end": 1402.34,
+      "text": "And that's probably the right thing to do because without this type of trust, the whole"
+    },
+    {
+      "start": 1402.34,
+      "end": 1403.62,
+      "text": "economy falls apart."
+    },
+    {
+      "start": 1404.68,
+      "end": 1408.96,
+      "text": "The other weird question is, you know, like Silicon Valley Bank was a bank to a bunch"
+    },
+    {
+      "start": 1408.96,
+      "end": 1409.7,
+      "text": "of startup businesses."
+    },
+    {
+      "start": 1409.92,
+      "end": 1413.48,
+      "text": "And aside from taking deposits, the other thing that they did is give out debt."
+    },
+    {
+      "start": 1413.8,
+      "end": 1419.34,
+      "text": "Like they loaned my brother at TinyCo something like $40 million at one point, you know,"
+    },
+    {
+      "start": 1419.34,
+      "end": 1422.42,
+      "text": "not a decade ago, maybe close to a decade ago, actually."
+    },
+    {
+      "start": 1423.24,
+      "end": 1424.76,
+      "text": "Now what happens to that debt?"
+    },
+    {
+      "start": 1425.38,
+      "end": 1430.92,
+      "text": "So that's what I was thinking about today is basically everybody who put a dollar in got"
+    },
+    {
+      "start": 1430.92,
+      "end": 1431.64,
+      "text": "their dollar out."
+    },
+    {
+      "start": 1431.82,
+      "end": 1437.98,
+      "text": "But all the people that had a loan or a line of credit, line of debt, some sort of basically"
+    },
+    {
+      "start": 1437.98,
+      "end": 1439.94,
+      "text": "money from them that was borrowed."
+    },
+    {
+      "start": 1440.4,
+      "end": 1441.96,
+      "text": "I have no idea what happens to that."
+    },
+    {
+      "start": 1442.08,
+      "end": 1443.5,
+      "text": "Does that just like, oh, sweet."
+    },
+    {
+      "start": 1443.66,
+      "end": 1448.36,
+      "text": "We just, you know, it's like either maybe it's they just keep it or nothing happens to"
+    },
+    {
+      "start": 1448.74,
+      "end": 1449.1,
+      "text": "it."
+    },
+    {
+      "start": 1449.6,
+      "end": 1451.78,
+      "text": "Unless maybe the government's coming after him."
+    },
+    {
+      "start": 1451.92,
+      "end": 1452.64,
+      "text": "I have no idea."
+    },
+    {
+      "start": 1452.76,
+      "end": 1453.22,
+      "text": "How does that work?"
+    },
+    {
+      "start": 1454.1,
+      "end": 1458.68,
+      "text": "If Silicon Valley Bank loaned your business $20 million and now they went out of business"
+    },
+    {
+      "start": 1458.68,
+      "end": 1460.26,
+      "text": "and you're like, well, I got to keep this $20 million."
+    },
+    {
+      "start": 1460.42,
+      "end": 1461.3,
+      "text": "Fuck you, SVB."
+    },
+    {
+      "start": 1461.7,
+      "end": 1462.98,
+      "text": "That would be the greatest."
+    },
+    {
+      "start": 1463.64,
+      "end": 1467.12,
+      "text": "I would be like, everyone, Bank of America is going out of business."
+    },
+    {
+      "start": 1467.42,
+      "end": 1468.58,
+      "text": "I, you know, please go."
+    },
+    {
+      "start": 1469.42,
+      "end": 1471.92,
+      "text": "Yes, I just bought this house and owe them a bunch of money."
+    },
+    {
+      "start": 1472.26,
+      "end": 1474.02,
+      "text": "I owe Bank of America a bunch of money."
+    },
+    {
+      "start": 1474.02,
+      "end": 1475.36,
+      "text": "But I think they're going to go out of business."
+    },
+    {
+      "start": 1475.62,
+      "end": 1476.46,
+      "text": "Everyone will get your money up."
+    },
+    {
+      "start": 1477.5,
+      "end": 1481.76,
+      "text": "No, the real question is, yeah, how are they going to like, I don't know how they have to"
+    },
+    {
+      "start": 1481.76,
+      "end": 1482.4,
+      "text": "pay it back."
+    },
+    {
+      "start": 1482.74,
+      "end": 1484.18,
+      "text": "I think that's unclear today."
+    },
+    {
+      "start": 1484.36,
+      "end": 1487.94,
+      "text": "And the other thing is that if you got an agreement of debt, like let's say the Silicon"
+    },
+    {
+      "start": 1487.94,
+      "end": 1490.18,
+      "text": "Valley Bank loaned Sharma Brands $10 million."
+    },
+    {
+      "start": 1490.86,
+      "end": 1496.04,
+      "text": "One of the terms in that agreement was you must you must bank only at SVB."
+    },
+    {
+      "start": 1496.26,
+      "end": 1499.2,
+      "text": "Your money must be kept at an SVB bank."
+    },
+    {
+      "start": 1499.76,
+      "end": 1501.02,
+      "text": "So now what do you do?"
+    },
+    {
+      "start": 1501.12,
+      "end": 1502.44,
+      "text": "Because SVB is bankrupt."
+    },
+    {
+      "start": 1502.7,
+      "end": 1505.68,
+      "text": "So, you know, there's no way you can bank only at SVB."
+    },
+    {
+      "start": 1505.9,
+      "end": 1507.18,
+      "text": "They don't exist anymore."
+    },
+    {
+      "start": 1507.38,
+      "end": 1511.96,
+      "text": "And so I think that's a big question for a lot of companies that nobody's talking about,"
+    },
+    {
+      "start": 1512.08,
+      "end": 1513.14,
+      "text": "which was I banked there."
+    },
+    {
+      "start": 1513.22,
+      "end": 1514.2,
+      "text": "I got my money out."
+    },
+    {
+      "start": 1514.82,
+      "end": 1516.34,
+      "text": "Who do I pay back debt to?"
+    },
+    {
+      "start": 1517.12,
+      "end": 1522.42,
+      "text": "Is there a shitty pro-life tip for me not have to pay back this debt?"
+    },
+    {
+      "start": 1522.48,
+      "end": 1524.12,
+      "text": "Is there a way to skeet out of this?"
+    },
+    {
+      "start": 1524.68,
+      "end": 1526.26,
+      "text": "What about that terms of that agreement?"
+    },
+    {
+      "start": 1526.4,
+      "end": 1527.84,
+      "text": "I had said I had to bank at SVB."
+    },
+    {
+      "start": 1527.84,
+      "end": 1529.2,
+      "text": "Well, now you can't hold me to that."
+    },
+    {
+      "start": 1529.62,
+      "end": 1531.42,
+      "text": "SVB doesn't exist as a going concern."
+    },
+    {
+      "start": 1532.34,
+      "end": 1533.26,
+      "text": "Yeah, I have no clue."
+    },
+    {
+      "start": 1534,
+      "end": 1537.22,
+      "text": "Where did you see most people go from SVB like bank wise?"
+    },
+    {
+      "start": 1537.92,
+      "end": 1538.24,
+      "text": "Chase."
+    },
+    {
+      "start": 1538.76,
+      "end": 1539.08,
+      "text": "Chase?"
+    },
+    {
+      "start": 1540.08,
+      "end": 1541.04,
+      "text": "Yeah, I did see."
+    },
+    {
+      "start": 1541.12,
+      "end": 1541.96,
+      "text": "That's a good, great question."
+    },
+    {
+      "start": 1542.06,
+      "end": 1546.44,
+      "text": "First, I saw a bunch of scammy people sort of being like, this is the day we're going"
+    },
+    {
+      "start": 1546.44,
+      "end": 1550.8,
+      "text": "to get a bunch of business, you know, like not Brex, but I saw it from a bunch of other"
+    },
+    {
+      "start": 1550.8,
+      "end": 1552.3,
+      "text": "scammy direct to consumer businesses."
+    },
+    {
+      "start": 1552.54,
+      "end": 1553.66,
+      "text": "Like people reach out to me on LinkedIn."
+    },
+    {
+      "start": 1553.66,
+      "end": 1555.82,
+      "text": "Hey, do you know anyone who is using SVB?"
+    },
+    {
+      "start": 1556,
+      "end": 1557.34,
+      "text": "Oh, I feel so bad."
+    },
+    {
+      "start": 1557.5,
+      "end": 1559.9,
+      "text": "If they need an emergency loan, contact me."
+    },
+    {
+      "start": 1559.9,
+      "end": 1560.88,
+      "text": "Oh my God."
+    },
+    {
+      "start": 1561.72,
+      "end": 1562.3,
+      "text": "That's crazy."
+    },
+    {
+      "start": 1562.38,
+      "end": 1563.42,
+      "text": "Did that happen to you or not?"
+    },
+    {
+      "start": 1564.12,
+      "end": 1570.24,
+      "text": "So as soon as I kind of figured out what was going on and started getting emails from"
+    },
+    {
+      "start": 1570.24,
+      "end": 1575.14,
+      "text": "portfolio companies basically saying, I got so many emails basically like, yes, we're safe"
+    },
+    {
+      "start": 1575.14,
+      "end": 1576.14,
+      "text": "or no, we're not safe."
+    },
+    {
+      "start": 1576.14,
+      "end": 1576.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 1577.14,
+      "end": 1585.54,
+      "text": "So as soon as that happened, so at eCommerce Fuel, I was hanging out with this guy, Travis,"
+    },
+    {
+      "start": 1586.44,
+      "end": 1589,
+      "text": "who's like their growth and partnerships person."
+    },
+    {
+      "start": 1589.08,
+      "end": 1591.02,
+      "text": "And we were just, you know, shooting the shit."
+    },
+    {
+      "start": 1591.16,
+      "end": 1595.04,
+      "text": "And he was telling me about their, just their treasury account where you can basically just"
+    },
+    {
+      "start": 1595.04,
+      "end": 1595.78,
+      "text": "earn 4%."
+    },
+    {
+      "start": 1596.34,
+      "end": 1601.26,
+      "text": "Then I was like, oh, let me connect you with all my friends who have Mercury."
+    },
+    {
+      "start": 1601.26,
+      "end": 1603.7,
+      "text": "Let's turn that little secret menu option on."
+    },
+    {
+      "start": 1603.7,
+      "end": 1608.06,
+      "text": "And then as soon as this happened, I texted him and he was like, oh, we can easily like"
+    },
+    {
+      "start": 1608.06,
+      "end": 1608.74,
+      "text": "help onboard."
+    },
+    {
+      "start": 1609.26,
+      "end": 1612.24,
+      "text": "So I was just connecting people to Mercury as quick as I could."
+    },
+    {
+      "start": 1612.52,
+      "end": 1615.78,
+      "text": "Is Mercury paying 4% on deposits that are just sitting there?"
+    },
+    {
+      "start": 1616.02,
+      "end": 1616.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 1616.72,
+      "end": 1617.8,
+      "text": "4.7, I think."
+    },
+    {
+      "start": 1618.08,
+      "end": 1619.2,
+      "text": "Oh my God."
+    },
+    {
+      "start": 1619.52,
+      "end": 1621.18,
+      "text": "Here's the other crazy thing that I learned."
+    },
+    {
+      "start": 1621.38,
+      "end": 1626.32,
+      "text": "So Silicon Valley Bank's FDIC dollar amount was 250K."
+    },
+    {
+      "start": 1626.76,
+      "end": 1627.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 1627.46,
+      "end": 1630.66,
+      "text": "Mercury's is, their normal one is 1 million."
+    },
+    {
+      "start": 1630.66,
+      "end": 1636.2,
+      "text": "I think Brex is one and a half or two, which is kind of crazy that Silicon Valley banks"
+    },
+    {
+      "start": 1636.2,
+      "end": 1637.04,
+      "text": "is so low."
+    },
+    {
+      "start": 1637.6,
+      "end": 1640.74,
+      "text": "And then today Mercury came out with a product for 3 million."
+    },
+    {
+      "start": 1640.74,
+      "end": 1641.2,
+      "text": "3 million."
+    },
+    {
+      "start": 1641.4,
+      "end": 1641.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 1641.72,
+      "end": 1642.1,
+      "text": "Which is crazy."
+    },
+    {
+      "start": 1642.88,
+      "end": 1643.8,
+      "text": "So a couple of things."
+    },
+    {
+      "start": 1643.96,
+      "end": 1647.06,
+      "text": "One is I tweeted about this last night and then I deleted the tweet because I felt like"
+    },
+    {
+      "start": 1647.06,
+      "end": 1651.86,
+      "text": "a scummy doing this where I was like, a new business idea is you create an insurance"
+    },
+    {
+      "start": 1651.86,
+      "end": 1656.82,
+      "text": "product and you say, hey, look, you pay, either the bank pays a dollar per account or you pay"
+    },
+    {
+      "start": 1656.82,
+      "end": 1661.86,
+      "text": "a dollar to basically insure your account to north of $250,000, which I think a lot of"
+    },
+    {
+      "start": 1661.86,
+      "end": 1664.92,
+      "text": "people might be like, look, this might be worth it so I don't have to feel this type"
+    },
+    {
+      "start": 1664.92,
+      "end": 1666.24,
+      "text": "of stress over the weekend."
+    },
+    {
+      "start": 1666.72,
+      "end": 1670.78,
+      "text": "The other thing is you almost don't even have to worry about this at this point because the"
+    },
+    {
+      "start": 1671.38,
+      "end": 1674.5,
+      "text": "federal government stepped in and said, hey, we got your back."
+    },
+    {
+      "start": 1674.64,
+      "end": 1679.5,
+      "text": "But I feel like the federal government, because in the Great Depression, over a thousand banks"
+    },
+    {
+      "start": 1679.5,
+      "end": 1681.54,
+      "text": "failed and the government never stepped in."
+    },
+    {
+      "start": 1681.54,
+      "end": 1687.62,
+      "text": "But here I feel like they almost just stepped in because of how much innovation power for"
+    },
+    {
+      "start": 1687.62,
+      "end": 1690.76,
+      "text": "the country is sitting behind Silicon Valley Bank's deposits."
+    },
+    {
+      "start": 1691.44,
+      "end": 1694.26,
+      "text": "Yeah, that is crazy."
+    },
+    {
+      "start": 1694.48,
+      "end": 1697.26,
+      "text": "During the Great Depression, the FDIC never stepped in."
+    },
+    {
+      "start": 1697.36,
+      "end": 1699.72,
+      "text": "I don't know enough about that time period to understand what was happening."
+    },
+    {
+      "start": 1699.98,
+      "end": 1703.16,
+      "text": "Then here I think they stepped in for a few reasons."
+    },
+    {
+      "start": 1703.38,
+      "end": 1706.18,
+      "text": "One is there is a systemic risk."
+    },
+    {
+      "start": 1706.36,
+      "end": 1708.32,
+      "text": "So let me start by saying there is a systemic risk."
+    },
+    {
+      "start": 1708.32,
+      "end": 1712.94,
+      "text": "If one bank fails, you know, Silicon Valley Bank, if they let them bail, I'd probably pull"
+    },
+    {
+      "start": 1712.94,
+      "end": 1715.78,
+      "text": "out a bunch of money that I have at First Republic today."
+    },
+    {
+      "start": 1716.38,
+      "end": 1717.62,
+      "text": "And what would you do with that?"
+    },
+    {
+      "start": 1717.74,
+      "end": 1718.44,
+      "text": "You'd get cash?"
+    },
+    {
+      "start": 1718.58,
+      "end": 1718.8,
+      "text": "Chase."
+    },
+    {
+      "start": 1719.06,
+      "end": 1719.36,
+      "text": "Dollar bills?"
+    },
+    {
+      "start": 1719.54,
+      "end": 1721.14,
+      "text": "Put it into Chase or Bank of America."
+    },
+    {
+      "start": 1721.38,
+      "end": 1721.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 1721.6,
+      "end": 1726.4,
+      "text": "Because Bank of America and Chase, if Bank of America or JPMorgan Chase is allowed to"
+    },
+    {
+      "start": 1726.4,
+      "end": 1729.04,
+      "text": "fail, that's the end of the United States as we know it."
+    },
+    {
+      "start": 1729.94,
+      "end": 1730.34,
+      "text": "Overnight."
+    },
+    {
+      "start": 1730.9,
+      "end": 1733.68,
+      "text": "Think about how many tens of millions of people bank there."
+    },
+    {
+      "start": 1733.68,
+      "end": 1739.4,
+      "text": "If you can't get your money out of JPMorgan Chase Bank account or like, you know, P\u0026G"
+    },
+    {
+      "start": 1739.4,
+      "end": 1741.22,
+      "text": "banks at JPMorgan Chase."
+    },
+    {
+      "start": 1741.84,
+      "end": 1744.14,
+      "text": "You know, big Fortune 500 companies do."
+    },
+    {
+      "start": 1744.36,
+      "end": 1749.28,
+      "text": "If you can't get your money out of there, that is one of the pillars of the American financial"
+    },
+    {
+      "start": 1749.28,
+      "end": 1750.1,
+      "text": "system that falls."
+    },
+    {
+      "start": 1750.26,
+      "end": 1755.72,
+      "text": "And so this is like a domino where if the pillar is JPMorgan Chase, this is SVB and"
+    },
+    {
+      "start": 1755.72,
+      "end": 1756.66,
+      "text": "like it can push over."
+    },
+    {
+      "start": 1756.8,
+      "end": 1757.8,
+      "text": "One can push over the other."
+    },
+    {
+      "start": 1758.4,
+      "end": 1762.18,
+      "text": "I don't think we want to talk a ton about politics, but this is a massive bailout."
+    },
+    {
+      "start": 1762.62,
+      "end": 1764.82,
+      "text": "And it's a bailout that probably should have happened."
+    },
+    {
+      "start": 1765.02,
+      "end": 1766.62,
+      "text": "Frankly, I think it's a bailout that should have happened."
+    },
+    {
+      "start": 1766.82,
+      "end": 1771.08,
+      "text": "But like there needs to be, you know, everyone who says there's too much regulation, like all"
+    },
+    {
+      "start": 1771.08,
+      "end": 1773.6,
+      "text": "of the people who are like, there's too much regulation in the banking industry."
+    },
+    {
+      "start": 1774.3,
+      "end": 1778.32,
+      "text": "If one of them says this again, I want to be like, great, your account is uninsured."
+    },
+    {
+      "start": 1778.5,
+      "end": 1782.06,
+      "text": "And if any, if your bank fails, fuck you, you'd lose all your money."
+    },
+    {
+      "start": 1782.1,
+      "end": 1783.12,
+      "text": "You think there's too much regulation?"
+    },
+    {
+      "start": 1783.34,
+      "end": 1783.82,
+      "text": "Fuck it."
+    },
+    {
+      "start": 1784.06,
+      "end": 1785.52,
+      "text": "We'll take away it on your account."
+    },
+    {
+      "start": 1786.74,
+      "end": 1791.76,
+      "text": "Okay, so we know retention is the yin to the yang of acquisition."
+    },
+    {
+      "start": 1792.52,
+      "end": 1796.54,
+      "text": "And we know about email, we know about SMS, we know about all these other channels."
+    },
+    {
+      "start": 1796.72,
+      "end": 1800.58,
+      "text": "But one thing I think we don't talk about a lot is push notifications and mobile apps."
+    },
+    {
+      "start": 1801.02,
+      "end": 1802.84,
+      "text": "And this is where Tapcart comes in."
+    },
+    {
+      "start": 1803.18,
+      "end": 1808.26,
+      "text": "If you saw the Shopify editions update that just came out, they talked a ton about their"
+    },
+    {
+      "start": 1808.26,
+      "end": 1811.22,
+      "text": "app, Shop, which is doing a ton for merchants."
+    },
+    {
+      "start": 1811.38,
+      "end": 1813.98,
+      "text": "They're seeing higher AOVs, they're seeing higher conversion rates."
+    },
+    {
+      "start": 1813.98,
+      "end": 1818.5,
+      "text": "And we've actually seen the same with our clients who use a Tapcart app."
+    },
+    {
+      "start": 1818.74,
+      "end": 1821.02,
+      "text": "The beauty is you can't even tell it's built by Tapcart."
+    },
+    {
+      "start": 1821.18,
+      "end": 1822.8,
+      "text": "The Tapcart essentially is the CMS."
+    },
+    {
+      "start": 1823.02,
+      "end": 1824.44,
+      "text": "It's the Shopify of the mobile app."
+    },
+    {
+      "start": 1825,
+      "end": 1829.6,
+      "text": "They build it in Tapcart, they get it live, and they can start sending traffic either through"
+    },
+    {
+      "start": 1829.6,
+      "end": 1831.38,
+      "text": "their email list, on their site."
+    },
+    {
+      "start": 1831.54,
+      "end": 1835.68,
+      "text": "There's a little pop-up that says, you know, open the app versus looking at it on the site."
+    },
+    {
+      "start": 1836.24,
+      "end": 1841.32,
+      "text": "And it's been pretty amazing to see how special customers feel in their mobile app."
+    },
+    {
+      "start": 1841.82,
+      "end": 1845.3,
+      "text": "You know, they get push notifications, they get customized notifications based on when they"
+    },
+    {
+      "start": 1845.3,
+      "end": 1845.8,
+      "text": "last bought."
+    },
+    {
+      "start": 1845.98,
+      "end": 1850,
+      "text": "So if you're buying, you know, if I bought native deodorant and I'm, you know, 40 days out,"
+    },
+    {
+      "start": 1850.18,
+      "end": 1853.52,
+      "text": "I'll get a push notification that says, hey, you're probably running out."
+    },
+    {
+      "start": 1853.7,
+      "end": 1855.42,
+      "text": "Click here, you know, get a discount or whatever."
+    },
+    {
+      "start": 1855.7,
+      "end": 1856.68,
+      "text": "Click here to buy real quick."
+    },
+    {
+      "start": 1856.68,
+      "end": 1860.34,
+      "text": "I think it's something that our limited supply listeners should check out."
+    },
+    {
+      "start": 1860.46,
+      "end": 1864.5,
+      "text": "And they can actually get two months free at tapcart.com slash limited."
+    },
+    {
+      "start": 1864.74,
+      "end": 1867.22,
+      "text": "So check it out, build an app, send it to us."
+    },
+    {
+      "start": 1867.36,
+      "end": 1872.02,
+      "text": "We'll review it, DM it to me or Moise, and we'll see you on the other side."
+    },
+    {
+      "start": 1873.82,
+      "end": 1878.16,
+      "text": "Okay, so going back to the inventory analogy, like order over ordering inventory."
+    },
+    {
+      "start": 1878.72,
+      "end": 1883.76,
+      "text": "How did the CFO of Silicon Valley Bank not forecast this?"
+    },
+    {
+      "start": 1884.54,
+      "end": 1885.66,
+      "text": "I'll tell you two things."
+    },
+    {
+      "start": 1885.66,
+      "end": 1890.44,
+      "text": "First, I think the inventory issue is a good analogy, but I think here may be a better one,"
+    },
+    {
+      "start": 1890.56,
+      "end": 1891.9,
+      "text": "which is, you know, WeWork."
+    },
+    {
+      "start": 1892.66,
+      "end": 1895.3,
+      "text": "WeWork basically signed really long-term leases."
+    },
+    {
+      "start": 1895.48,
+      "end": 1900,
+      "text": "They're like, hey, look, we want an office space at the Empire State Building for 25 years"
+    },
+    {
+      "start": 1900,
+      "end": 1903.58,
+      "text": "and we're going to pay you $500,000 for the floor, right?"
+    },
+    {
+      "start": 1903.74,
+      "end": 1905.2,
+      "text": "Or $10 million floor."
+    },
+    {
+      "start": 1905.28,
+      "end": 1906.04,
+      "text": "I don't know what the prices are."
+    },
+    {
+      "start": 1906.28,
+      "end": 1908.62,
+      "text": "And then they leased out individual office spaces."
+    },
+    {
+      "start": 1909.1,
+      "end": 1913.22,
+      "text": "And when the pandemic came, you know, look, these are short-term office spaces."
+    },
+    {
+      "start": 1913.22,
+      "end": 1917.68,
+      "text": "They're getting revenue from really short-term sources, which is they rented out this tiny"
+    },
+    {
+      "start": 1917.68,
+      "end": 1923.06,
+      "text": "office to Moise Ali and Moise Ali pays them $500 a month and he can leave at any time because"
+    },
+    {
+      "start": 1923.06,
+      "end": 1924.36,
+      "text": "he has a one-month lease."
+    },
+    {
+      "start": 1925,
+      "end": 1931.7,
+      "text": "They cannot leave the Empire State Building or the $500,000 obligation to have because they signed a 10-year lease."
+    },
+    {
+      "start": 1932.14,
+      "end": 1933.88,
+      "text": "That's sort of what happened to SVB."
+    },
+    {
+      "start": 1934.04,
+      "end": 1938.5,
+      "text": "They got all the money that they, in their deposits from people who had short-term deposits,"
+    },
+    {
+      "start": 1938.5,
+      "end": 1945.12,
+      "text": "they could leave at any time and started to because they found cheaper interest rates or cheaper housing"
+    },
+    {
+      "start": 1945.12,
+      "end": 1946.3,
+      "text": "or office space elsewhere."
+    },
+    {
+      "start": 1946.52,
+      "end": 1951.56,
+      "text": "But they had really long-term obligations in that they purchased a security that they had to hold"
+    },
+    {
+      "start": 1951.56,
+      "end": 1952.32,
+      "text": "for 10 years."
+    },
+    {
+      "start": 1952.78,
+      "end": 1954.98,
+      "text": "And like the value of that security went down a lot."
+    },
+    {
+      "start": 1955.1,
+      "end": 1959.26,
+      "text": "So I think of it a lot like WeWork, which is you get revenue from short-term sources,"
+    },
+    {
+      "start": 1959.52,
+      "end": 1960.62,
+      "text": "but you have to pay out something."
+    },
+    {
+      "start": 1960.92,
+      "end": 1964.3,
+      "text": "It's almost the opposite, but like it's the short-term versus long-term."
+    },
+    {
+      "start": 1964.3,
+      "end": 1968.68,
+      "text": "You got all of your money from short-term sources, but you sign long-term obligations"
+    },
+    {
+      "start": 1968.68,
+      "end": 1973.12,
+      "text": "and those long-term obligations are killing you because your short-term sources of revenue are"
+    },
+    {
+      "start": 1973.12,
+      "end": 1973.66,
+      "text": "disappearing."
+    },
+    {
+      "start": 1974.76,
+      "end": 1978.46,
+      "text": "Imagine you have an office space, the Empire State Building."
+    },
+    {
+      "start": 1978.64,
+      "end": 1979.74,
+      "text": "You rented out the whole floor."
+    },
+    {
+      "start": 1980.14,
+      "end": 1983.14,
+      "text": "For the last two years, every single office space has been taken."
+    },
+    {
+      "start": 1983.56,
+      "end": 1985.62,
+      "text": "Then a year ago, it was 90%."
+    },
+    {
+      "start": 1985.62,
+      "end": 1988.02,
+      "text": "Then 70%, now 60%."
+    },
+    {
+      "start": 1988.02,
+      "end": 1988.98,
+      "text": "Well, guess what?"
+    },
+    {
+      "start": 1989.12,
+      "end": 1990.94,
+      "text": "The Empire State Building is like, you got to pay us."
+    },
+    {
+      "start": 1991,
+      "end": 1991.76,
+      "text": "You got the whole floor."
+    },
+    {
+      "start": 1991.88,
+      "end": 1993.5,
+      "text": "And you're like, I only have this 60%."
+    },
+    {
+      "start": 1993.5,
+      "end": 1994.44,
+      "text": "Well, go fuck yourself."
+    },
+    {
+      "start": 1994.68,
+      "end": 1995.46,
+      "text": "It's like the mafia."
+    },
+    {
+      "start": 1995.6,
+      "end": 1996.24,
+      "text": "Give me my money."
+    },
+    {
+      "start": 1996.66,
+      "end": 1997.56,
+      "text": "That's your problem."
+    },
+    {
+      "start": 1997.66,
+      "end": 1998.04,
+      "text": "Pay me."
+    },
+    {
+      "start": 1999.18,
+      "end": 2001.62,
+      "text": "And so I think of it as like that WeWork problem."
+    },
+    {
+      "start": 2002.2,
+      "end": 2003.62,
+      "text": "I'm sorry, but what was your question?"
+    },
+    {
+      "start": 2003.7,
+      "end": 2005.24,
+      "text": "Your question was, how do they get into this?"
+    },
+    {
+      "start": 2005.9,
+      "end": 2011.98,
+      "text": "How did the CFO not predict that venture capital investing would slow down,"
+    },
+    {
+      "start": 2012.1,
+      "end": 2015.16,
+      "text": "which would then cause deposits to slow down?"
+    },
+    {
+      "start": 2015.68,
+      "end": 2016.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 2016.8,
+      "end": 2019.18,
+      "text": "I work with this wealth manager, okay?"
+    },
+    {
+      "start": 2020.08,
+      "end": 2023.82,
+      "text": "And I'm not going to name their name because I'm going to say a bunch of bad things about them right now."
+    },
+    {
+      "start": 2024.18,
+      "end": 2030.1,
+      "text": "But about 18 months ago, they're like, Moise, the Fed is going to get us to a soft landing."
+    },
+    {
+      "start": 2030.26,
+      "end": 2031.68,
+      "text": "We're not going to have to raise interest rates."
+    },
+    {
+      "start": 2031.82,
+      "end": 2034.4,
+      "text": "The Federal Reserve isn't going to raise interest rates that much."
+    },
+    {
+      "start": 2034.86,
+      "end": 2041.92,
+      "text": "You keep all of your money in these corporate bonds that are slowly decreasing in value because interest rates aren't going up,"
+    },
+    {
+      "start": 2041.92,
+      "end": 2043.22,
+      "text": "but it won't be bad."
+    },
+    {
+      "start": 2043.38,
+      "end": 2045.64,
+      "text": "All of the pain, we've already suffered."
+    },
+    {
+      "start": 2045.8,
+      "end": 2046.94,
+      "text": "And this was more than a year ago."
+    },
+    {
+      "start": 2047.02,
+      "end": 2050.34,
+      "text": "They're like, all the pain you've already suffered, you won't suffer any more pain."
+    },
+    {
+      "start": 2050.44,
+      "end": 2051.46,
+      "text": "And I was like, no."
+    },
+    {
+      "start": 2051.88,
+      "end": 2056.36,
+      "text": "Get all of my money out of corporate bonds because I think the value of those bonds is going to go up"
+    },
+    {
+      "start": 2056.36,
+      "end": 2058.32,
+      "text": "because I think interest rates are going to keep rising."
+    },
+    {
+      "start": 2059.1,
+      "end": 2059.64,
+      "text": "Fuck you."
+    },
+    {
+      "start": 2059.74,
+      "end": 2060.38,
+      "text": "And they're like, no."
+    },
+    {
+      "start": 2060.66,
+      "end": 2063.12,
+      "text": "Here are 20 PhDs that we have."
+    },
+    {
+      "start": 2063.52,
+      "end": 2065.58,
+      "text": "We manage money for billionaires."
+    },
+    {
+      "start": 2065.76,
+      "end": 2067.54,
+      "text": "You're the poorest person that we know,"
+    },
+    {
+      "start": 2067.54,
+      "end": 2069.62,
+      "text": "and you're the dumbest person that we know,"
+    },
+    {
+      "start": 2069.78,
+      "end": 2070.4,
+      "text": "and you're wrong."
+    },
+    {
+      "start": 2070.8,
+      "end": 2072.16,
+      "text": "Keep your money in this shit."
+    },
+    {
+      "start": 2072.38,
+      "end": 2073.38,
+      "text": "And I was like, no."
+    },
+    {
+      "start": 2073.7,
+      "end": 2076.14,
+      "text": "You dumb assholes don't know anything."
+    },
+    {
+      "start": 2076.64,
+      "end": 2078.32,
+      "text": "And so I was like, get my money out of here."
+    },
+    {
+      "start": 2078.74,
+      "end": 2080.52,
+      "text": "So I did take my money out."
+    },
+    {
+      "start": 2080.7,
+      "end": 2082.82,
+      "text": "And then I was like, hey, put it in US."
+    },
+    {
+      "start": 2083.06,
+      "end": 2085.94,
+      "text": "This wealth manager got it completely wrong."
+    },
+    {
+      "start": 2086.06,
+      "end": 2087.36,
+      "text": "I think a lot of people..."
+    },
+    {
+      "start": 2087.36,
+      "end": 2091.14,
+      "text": "And the reason I say this is because today it's very obvious in hindsight"
+    },
+    {
+      "start": 2091.14,
+      "end": 2093.84,
+      "text": "that interest rates were going to go up a lot."
+    },
+    {
+      "start": 2094.12,
+      "end": 2096.46,
+      "text": "But even a year ago, I remember tweeting being like,"
+    },
+    {
+      "start": 2096.46,
+      "end": 2099.18,
+      "text": "hey, I think interest rates are going to go up above 5%."
+    },
+    {
+      "start": 2099.18,
+      "end": 2101.18,
+      "text": "And people are like, no, it's not going to get that high."
+    },
+    {
+      "start": 2101.4,
+      "end": 2104.88,
+      "text": "A year ago, it was not clear that interest rates would get north of 5%."
+    },
+    {
+      "start": 2105.54,
+      "end": 2107.02,
+      "text": "Today, they're above 5%."
+    },
+    {
+      "start": 2107.02,
+      "end": 2109.18,
+      "text": "It's unclear whether they've gotten north of 6%."
+    },
+    {
+      "start": 2109.9,
+      "end": 2112.18,
+      "text": "What's very clear today was not clear a year ago."
+    },
+    {
+      "start": 2112.36,
+      "end": 2115.86,
+      "text": "And so a year ago, when SVB was buying these shitty mortgages"
+    },
+    {
+      "start": 2115.86,
+      "end": 2118.4,
+      "text": "with 10-year maturities, they were saying,"
+    },
+    {
+      "start": 2118.52,
+      "end": 2121.46,
+      "text": "okay, we're going to take 2% interest for the next 10 years."
+    },
+    {
+      "start": 2121.9,
+      "end": 2126.02,
+      "text": "Well, today that looks terrible because you can get 5% interest for the next year."
+    },
+    {
+      "start": 2126.02,
+      "end": 2128.42,
+      "text": "And you can get 4% interest for the next 10 years."
+    },
+    {
+      "start": 2128.6,
+      "end": 2130.42,
+      "text": "So today looks obviously stupid."
+    },
+    {
+      "start": 2130.72,
+      "end": 2132.36,
+      "text": "A year ago, it wasn't as obvious."
+    },
+    {
+      "start": 2132.36,
+      "end": 2135.22,
+      "text": "And I know that because my wealth manager was making the same mistake."
+    },
+    {
+      "start": 2135.9,
+      "end": 2137.86,
+      "text": "So what could regulators have done?"
+    },
+    {
+      "start": 2138.68,
+      "end": 2141.16,
+      "text": "They almost have to run the bank and make sure that,"
+    },
+    {
+      "start": 2141.24,
+      "end": 2143.7,
+      "text": "hey, look, you have not taken too much risk."
+    },
+    {
+      "start": 2143.92,
+      "end": 2149.2,
+      "text": "And if you spend $100 billion and buy half-year deposits in 2% securities,"
+    },
+    {
+      "start": 2149.54,
+      "end": 2150.98,
+      "text": "you're taking a ton of risk."
+    },
+    {
+      "start": 2150.98,
+      "end": 2154.36,
+      "text": "And you're not hedging that risk with interest rate swaps or something."
+    },
+    {
+      "start": 2154.62,
+      "end": 2157.36,
+      "text": "So I think they could have come in and said, hey, look, you're taking..."
+    },
+    {
+      "start": 2157.86,
+      "end": 2162.16,
+      "text": "Basically, it's an audit of what are you buying to see how much risk you have?"
+    },
+    {
+      "start": 2162.42,
+      "end": 2165.3,
+      "text": "What's the maturity and the credit profile of what you're buying?"
+    },
+    {
+      "start": 2165.3,
+      "end": 2169.72,
+      "text": "So if you're buying things with a really long maturity, that's a lot of risk because the"
+    },
+    {
+      "start": 2169.72,
+      "end": 2171.08,
+      "text": "interest rates could go up or down."
+    },
+    {
+      "start": 2171.26,
+      "end": 2172.34,
+      "text": "And so there's a lot of risk."
+    },
+    {
+      "start": 2172.5,
+      "end": 2177.1,
+      "text": "And if you're buying something from somebody who's like a shitty-ish borrower, there's a"
+    },
+    {
+      "start": 2177.1,
+      "end": 2178.16,
+      "text": "lot of risk there too, right?"
+    },
+    {
+      "start": 2178.24,
+      "end": 2182.68,
+      "text": "Because you don't know if Toys R Us is going to do really well or go bankrupt."
+    },
+    {
+      "start": 2183.3,
+      "end": 2186.6,
+      "text": "You got to look at the risk of the maturity and the risk of the borrower."
+    },
+    {
+      "start": 2186.94,
+      "end": 2190.94,
+      "text": "And so the Federal Reserve could literally do that at every single bank."
+    },
+    {
+      "start": 2191.52,
+      "end": 2195.06,
+      "text": "But not if everyone's crying, we have too much regulation, we have too much regulation,"
+    },
+    {
+      "start": 2195.06,
+      "end": 2196.74,
+      "text": "we're killing American capitalism."
+    },
+    {
+      "start": 2197.1,
+      "end": 2199.86,
+      "text": "Then they can't do that because then they have to say, okay, this is a smaller bank,"
+    },
+    {
+      "start": 2199.92,
+      "end": 2200.68,
+      "text": "we shouldn't look at it."
+    },
+    {
+      "start": 2200.82,
+      "end": 2201.98,
+      "text": "But the answer is, I don't know."
+    },
+    {
+      "start": 2202.06,
+      "end": 2203,
+      "text": "I don't know the answer to that."
+    },
+    {
+      "start": 2203.1,
+      "end": 2208,
+      "text": "I think it's even more oversight, which is something that nobody wants."
+    },
+    {
+      "start": 2208.58,
+      "end": 2212.94,
+      "text": "Yeah, I was going to say, do you think it's going to get really, really regulated now or..."
+    },
+    {
+      "start": 2213.64,
+      "end": 2217.6,
+      "text": "Look, the American taxpayer today is on the hook for a bunch of this money."
+    },
+    {
+      "start": 2217.8,
+      "end": 2220.78,
+      "text": "I know that the American taxpayer is not bailing out SVB."
+    },
+    {
+      "start": 2220.94,
+      "end": 2224.9,
+      "text": "But the government stepped in and said, look, basically the value of a bunch of assets fell."
+    },
+    {
+      "start": 2225.04,
+      "end": 2229.06,
+      "text": "Imagine if Bitcoin, you bought Bitcoin at $60,000, right?"
+    },
+    {
+      "start": 2229.96,
+      "end": 2234.26,
+      "text": "Yesterday, the government announced that, hey, look, today Bitcoin is only worth $25,000."
+    },
+    {
+      "start": 2234.6,
+      "end": 2239.08,
+      "text": "But if you give it to us, if you want to borrow from us, the government and your bank,"
+    },
+    {
+      "start": 2239.26,
+      "end": 2241.26,
+      "text": "we will loan you whatever you paid for it."
+    },
+    {
+      "start": 2241.52,
+      "end": 2246.02,
+      "text": "So if you paid $60,000, we're going to give you $60,000 for one Bitcoin in collateral."
+    },
+    {
+      "start": 2246.02,
+      "end": 2246.74,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 2247.2,
+      "end": 2251,
+      "text": "The government is now saying, hey, look, we're going to give you more money than your collateral"
+    },
+    {
+      "start": 2251,
+      "end": 2252.28,
+      "text": "is worth, and we know that."
+    },
+    {
+      "start": 2252.96,
+      "end": 2255.26,
+      "text": "That means the American taxpayer is paying for that."
+    },
+    {
+      "start": 2255.44,
+      "end": 2255.9,
+      "text": "The American..."
+    },
+    {
+      "start": 2255.9,
+      "end": 2258.92,
+      "text": "You know what the government could do instead is say, hey, here's $60,000."
+    },
+    {
+      "start": 2259.32,
+      "end": 2262.02,
+      "text": "Let me go buy debt or let me do something more productive."
+    },
+    {
+      "start": 2262.32,
+      "end": 2267.8,
+      "text": "The American government is now saying, hey, Nick, you bought Bitcoin in 2019 for $60,000."
+    },
+    {
+      "start": 2268.3,
+      "end": 2269.46,
+      "text": "It's now worth $25,000."
+    },
+    {
+      "start": 2269.46,
+      "end": 2274.3,
+      "text": "Listen, you're about to go bankrupt because you borrowed a bunch of money to buy a bunch"
+    },
+    {
+      "start": 2274.3,
+      "end": 2274.86,
+      "text": "more Bitcoin."
+    },
+    {
+      "start": 2275.1,
+      "end": 2277.62,
+      "text": "Give me your Bitcoin and I'll give you $60,000 for it."
+    },
+    {
+      "start": 2278.12,
+      "end": 2281.08,
+      "text": "The American taxpayer is bailing out big banks today."
+    },
+    {
+      "start": 2281.7,
+      "end": 2283.88,
+      "text": "No ifs, ands, and buts about it."
+    },
+    {
+      "start": 2284.26,
+      "end": 2289.28,
+      "text": "The question is whether it's a good thing or not is up in the air, but that is happening."
+    },
+    {
+      "start": 2289.64,
+      "end": 2293.56,
+      "text": "Are there any other places outside of taxes this budget could be taken?"
+    },
+    {
+      "start": 2293.96,
+      "end": 2296.7,
+      "text": "I mean, the war budget's even like $2 billion a day."
+    },
+    {
+      "start": 2297.36,
+      "end": 2300.66,
+      "text": "Well, I mean, the American taxpayer is paying for the war as well."
+    },
+    {
+      "start": 2300.78,
+      "end": 2303.34,
+      "text": "The American taxpayer paying for everything that federal government has."
+    },
+    {
+      "start": 2303.46,
+      "end": 2309.84,
+      "text": "For the SVB bailout, the Federal Reserve basically said, hey, we're taxing all of the other banks."
+    },
+    {
+      "start": 2310.76,
+      "end": 2312.26,
+      "text": "FDIC insure a bunch of banks."
+    },
+    {
+      "start": 2312.48,
+      "end": 2314.34,
+      "text": "They're going to pay for the SVB bailout."
+    },
+    {
+      "start": 2314.48,
+      "end": 2317.2,
+      "text": "Oh, is that the trade for being FDIC insured?"
+    },
+    {
+      "start": 2317.48,
+      "end": 2318.16,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 2318.32,
+      "end": 2320.68,
+      "text": "It's basically you become the insurance company."
+    },
+    {
+      "start": 2320.68,
+      "end": 2322.14,
+      "text": "Like a NATO network for banks."
+    },
+    {
+      "start": 2322.22,
+      "end": 2322.84,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 2322.88,
+      "end": 2323.32,
+      "text": "Yes."
+    },
+    {
+      "start": 2323.82,
+      "end": 2329.44,
+      "text": "And so that's why they're like, hey, for the SVB bailout, that is not coming from the American taxpayer."
+    },
+    {
+      "start": 2329.62,
+      "end": 2330.58,
+      "text": "And that's a great thing."
+    },
+    {
+      "start": 2330.96,
+      "end": 2337.42,
+      "text": "For the other bank term, it's called Bank Term Funding Program that they set up via Federal Reserve set up."
+    },
+    {
+      "start": 2337.52,
+      "end": 2340.1,
+      "text": "That is absolutely coming from the American taxpayer."
+    },
+    {
+      "start": 2340.44,
+      "end": 2343.52,
+      "text": "And it's the first time where I'm like, I want to run for office."
+    },
+    {
+      "start": 2343.72,
+      "end": 2348.96,
+      "text": "Like I'm thinking about realistically running for federal office because I'm like, I want to be a part of this."
+    },
+    {
+      "start": 2349.12,
+      "end": 2353.58,
+      "text": "And this is like, you know, the American taxpayer keeps getting screwed in a way that they don't even understand."
+    },
+    {
+      "start": 2353.94,
+      "end": 2355.2,
+      "text": "And it's so fucked up."
+    },
+    {
+      "start": 2355.64,
+      "end": 2357.34,
+      "text": "And I've actually thought about it for the first time."
+    },
+    {
+      "start": 2357.68,
+      "end": 2358.28,
+      "text": "You should."
+    },
+    {
+      "start": 2358.84,
+      "end": 2359.4,
+      "text": "I'd love to."
+    },
+    {
+      "start": 2359.48,
+      "end": 2360.28,
+      "text": "Yeah, I'm thinking about it."
+    },
+    {
+      "start": 2360.28,
+      "end": 2363.02,
+      "text": "But anyway, that's what's going on at SVB."
+    },
+    {
+      "start": 2364.78,
+      "end": 2367.76,
+      "text": "What's great is like, you know, everyone's able to make payroll."
+    },
+    {
+      "start": 2367.96,
+      "end": 2368.98,
+      "text": "That's a fantastic thing."
+    },
+    {
+      "start": 2369.68,
+      "end": 2374.14,
+      "text": "These businesses that weren't really debt or like, you know, creditors to banks are made whole."
+    },
+    {
+      "start": 2374.28,
+      "end": 2375.26,
+      "text": "And that's a great thing."
+    },
+    {
+      "start": 2375.56,
+      "end": 2378.2,
+      "text": "The problem is this doesn't always happen with everybody else."
+    },
+    {
+      "start": 2378.32,
+      "end": 2381.32,
+      "text": "And there's, you know, an unfair system in a lot of ways."
+    },
+    {
+      "start": 2381.5,
+      "end": 2383.46,
+      "text": "But, you know, we're mortal men."
+    },
+    {
+      "start": 2383.72,
+      "end": 2385.66,
+      "text": "So I'm not sure how we fix these systems."
+    },
+    {
+      "start": 2385.66,
+      "end": 2390,
+      "text": "But I think it's up to us to try and to try and do that because there's nobody else doing it."
+    },
+    {
+      "start": 2390.62,
+      "end": 2397.02,
+      "text": "The CEO of First Republic sold 3.6 million in shares on February 27th."
+    },
+    {
+      "start": 2397.16,
+      "end": 2398.04,
+      "text": "Of his own bank?"
+    },
+    {
+      "start": 2398.5,
+      "end": 2400.86,
+      "text": "Yeah, of Silicon Valley Bank."
+    },
+    {
+      "start": 2401.02,
+      "end": 2401.62,
+      "text": "Oh, wow."
+    },
+    {
+      "start": 2402.46,
+      "end": 2406.48,
+      "text": "The CEO of Silicon Valley Bank sold 3.6 million in shares of SV."
+    },
+    {
+      "start": 2406.72,
+      "end": 2409.54,
+      "text": "Definitely not insider trading."
+    },
+    {
+      "start": 2410.38,
+      "end": 2410.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 2412.38,
+      "end": 2412.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 2412.98,
+      "end": 2414.06,
+      "text": "Isn't that a little sketchy?"
+    },
+    {
+      "start": 2414.28,
+      "end": 2415.48,
+      "text": "That's insanely sus."
+    },
+    {
+      "start": 2416.02,
+      "end": 2425.58,
+      "text": "I mean, why would you sell it other than like, you know, you hear in the industry, you hear in some group chat that you're in that like, you know, somebody else is about to be fucked."
+    },
+    {
+      "start": 2426.38,
+      "end": 2431.74,
+      "text": "So there's like recently been this thing where CEOs of businesses, like let's say you're the CEO of Apple."
+    },
+    {
+      "start": 2432.36,
+      "end": 2436.18,
+      "text": "When can you sell Apple stock in a way that isn't insider trading?"
+    },
+    {
+      "start": 2436.46,
+      "end": 2436.86,
+      "text": "Right."
+    },
+    {
+      "start": 2437.62,
+      "end": 2440.5,
+      "text": "So because generally, you know everything that's going to happen at the business, right?"
+    },
+    {
+      "start": 2440.56,
+      "end": 2441.7,
+      "text": "You're the fucking CEO of the business."
+    },
+    {
+      "start": 2441.86,
+      "end": 2443.64,
+      "text": "If it's important, people have told you about it."
+    },
+    {
+      "start": 2444.14,
+      "end": 2456.72,
+      "text": "So recently, there's been a big question of like, you know, what CEOs used to be able to do is they'd say, okay, I've set up a plan where I sell, I'm going to sell a hundred shares of Apple stock the final day of every month for the next year."
+    },
+    {
+      "start": 2456.72,
+      "end": 2460.2,
+      "text": "And it'll start in November of 2023."
+    },
+    {
+      "start": 2460.2,
+      "end": 2464.32,
+      "text": "So, you know, I don't have any information about what will happen in November 2023."
+    },
+    {
+      "start": 2464.96,
+      "end": 2468.14,
+      "text": "Certainly, I don't have any information about what will happen, you know, a year from now."
+    },
+    {
+      "start": 2468.48,
+      "end": 2469.44,
+      "text": "Like things could change a lot."
+    },
+    {
+      "start": 2469.56,
+      "end": 2470.22,
+      "text": "So I'm selling a hundred."
+    },
+    {
+      "start": 2470.42,
+      "end": 2471.94,
+      "text": "I'm telling you the world."
+    },
+    {
+      "start": 2472.28,
+      "end": 2478.52,
+      "text": "Hey, I'm selling a hundred shares the final day of every month starting in November 2020 or January 1st, 2024 for the next year."
+    },
+    {
+      "start": 2478.52,
+      "end": 2483.7,
+      "text": "And that seems like a fair way to do it because basically they're announcing their plan and they're like, this is it."
+    },
+    {
+      "start": 2483.96,
+      "end": 2488.28,
+      "text": "What's recently been happening is a lot of CEOs are saying, I'm announcing a plan like that."
+    },
+    {
+      "start": 2489.12,
+      "end": 2493.58,
+      "text": "Generally, announcing a plan like that, it's called like this 10B51 or something like that."
+    },
+    {
+      "start": 2493.74,
+      "end": 2498.66,
+      "text": "It's basically says, this is how I'm telling the world I'm not insider trading, but I'm selling some shares."
+    },
+    {
+      "start": 2499.16,
+      "end": 2500.8,
+      "text": "I'm announcing a plan like this."
+    },
+    {
+      "start": 2501.02,
+      "end": 2505.38,
+      "text": "So recently what's been happening is a bunch of CEOs have been saying, okay, I'm announcing a plan."
+    },
+    {
+      "start": 2505.38,
+      "end": 2508.36,
+      "text": "Again, I'm selling all of my shares next week."
+    },
+    {
+      "start": 2509.26,
+      "end": 2515.32,
+      "text": "And they're sort of saying, hey, look, this is still covered in the plan because I announced the plan and I'm set it up in the same structure."
+    },
+    {
+      "start": 2515.54,
+      "end": 2518.52,
+      "text": "So technically this should be like a legal safe harbor."
+    },
+    {
+      "start": 2518.98,
+      "end": 2519.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 2519.46,
+      "end": 2523.56,
+      "text": "Well, did you know that the CEO sold 11% at the end of Feb?"
+    },
+    {
+      "start": 2524.04,
+      "end": 2527.2,
+      "text": "Their counsel sold almost 20% early Feb."
+    },
+    {
+      "start": 2527.34,
+      "end": 2530.76,
+      "text": "Their CFO sold 32% end of Feb."
+    },
+    {
+      "start": 2530.94,
+      "end": 2534.16,
+      "text": "And their CMO sold a quarter at the beginning of Feb."
+    },
+    {
+      "start": 2534.16,
+      "end": 2537.96,
+      "text": "But this is all of their shareholders, of their shares."
+    },
+    {
+      "start": 2538,
+      "end": 2539.44,
+      "text": "This is SVB's own executives."
+    },
+    {
+      "start": 2541,
+      "end": 2541.88,
+      "text": "Not good."
+    },
+    {
+      "start": 2542.22,
+      "end": 2542.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 2542.66,
+      "end": 2544.72,
+      "text": "Selling percentages of their stakes of equity."
+    },
+    {
+      "start": 2544.88,
+      "end": 2545.44,
+      "text": "That's crazy."
+    },
+    {
+      "start": 2545.76,
+      "end": 2546.84,
+      "text": "That is crazy."
+    },
+    {
+      "start": 2547.54,
+      "end": 2551.9,
+      "text": "There's this one case that I just wanted to chat about because I read about in the Wall Street Journal."
+    },
+    {
+      "start": 2552.08,
+      "end": 2553.86,
+      "text": "There's this company called OnTrack, okay?"
+    },
+    {
+      "start": 2554.3,
+      "end": 2559.56,
+      "text": "There's some pharmaceutical company and they signed contracts with big pharmaceutical companies."
+    },
+    {
+      "start": 2559.56,
+      "end": 2567.52,
+      "text": "So the CEO of this company, he's texting with his coworkers and he's like, our relationship with Signia is a nightmare."
+    },
+    {
+      "start": 2567.94,
+      "end": 2570.78,
+      "text": "Signia is going to cancel their contract pretty soon, okay?"
+    },
+    {
+      "start": 2571.26,
+      "end": 2573.6,
+      "text": "And Signia is a massive part of OnTrack."
+    },
+    {
+      "start": 2573.7,
+      "end": 2574.88,
+      "text": "He's the CEO of OnTrack."
+    },
+    {
+      "start": 2574.92,
+      "end": 2578.94,
+      "text": "And he's like, we're going to lose our biggest client very soon."
+    },
+    {
+      "start": 2579.54,
+      "end": 2581.78,
+      "text": "So he's like, hey, I'm trying to sell some shares."
+    },
+    {
+      "start": 2582.44,
+      "end": 2585.28,
+      "text": "I need to sell some shares because he knows this is going to happen."
+    },
+    {
+      "start": 2585.5,
+      "end": 2590.56,
+      "text": "So he goes to a brokerage and he says, hey, I need to sell my shares of this business."
+    },
+    {
+      "start": 2590.68,
+      "end": 2592.2,
+      "text": "And they're like, look, you've got to wait 30 days."
+    },
+    {
+      "start": 2592.36,
+      "end": 2594.82,
+      "text": "He was trying to do that plan that I talked to you about a second ago."
+    },
+    {
+      "start": 2594.9,
+      "end": 2597.54,
+      "text": "He's like, I want to create a plan to sell some of my shares."
+    },
+    {
+      "start": 2597.64,
+      "end": 2603.68,
+      "text": "They're like, you can't sell any shares for 30 days because you're just creating this plan and you can't trade on insider information."
+    },
+    {
+      "start": 2603.68,
+      "end": 2605.04,
+      "text": "And he says, fuck you."
+    },
+    {
+      "start": 2605.2,
+      "end": 2606.18,
+      "text": "I'm not working with you."
+    },
+    {
+      "start": 2606.3,
+      "end": 2609.6,
+      "text": "So he goes to another brokerage and he says, hey, I need to sell some shares of mine."
+    },
+    {
+      "start": 2610.18,
+      "end": 2612.12,
+      "text": "So they say, okay, let's sell some shares of yours."
+    },
+    {
+      "start": 2612.22,
+      "end": 2614.26,
+      "text": "So he says, okay, I'm going to create a plan."
+    },
+    {
+      "start": 2614.52,
+      "end": 2615.72,
+      "text": "It's August 13th."
+    },
+    {
+      "start": 2615.76,
+      "end": 2618.2,
+      "text": "Okay, he creates the plan on August 13th, 2021."
+    },
+    {
+      "start": 2618.9,
+      "end": 2622.36,
+      "text": "His first sale of shares is on August 17th, 2021."
+    },
+    {
+      "start": 2623.4,
+      "end": 2623.76,
+      "text": "Okay."
+    },
+    {
+      "start": 2624.04,
+      "end": 2626.22,
+      "text": "So four days later, he starts selling shares."
+    },
+    {
+      "start": 2626.34,
+      "end": 2628.42,
+      "text": "But he's like, look, I did it according to a plan."
+    },
+    {
+      "start": 2628.42,
+      "end": 2632.46,
+      "text": "So technically it shouldn't be insider trading, even though it really is."
+    },
+    {
+      "start": 2632.64,
+      "end": 2632.9,
+      "text": "Right."
+    },
+    {
+      "start": 2632.9,
+      "end": 2641.9,
+      "text": "On August 19th, so two days after he starts selling shares, they announced that they're losing Signia as a customer and their share price falls 50%."
+    },
+    {
+      "start": 2642.64,
+      "end": 2644.94,
+      "text": "He sells for about $22 a share."
+    },
+    {
+      "start": 2645.1,
+      "end": 2646.92,
+      "text": "The shares end up at $11 a share."
+    },
+    {
+      "start": 2647.94,
+      "end": 2653.06,
+      "text": "And so he's like, hey, look, I traded according to a plan, so I'm safe."
+    },
+    {
+      "start": 2653.24,
+      "end": 2654.16,
+      "text": "Here's the plan."
+    },
+    {
+      "start": 2654.36,
+      "end": 2656.78,
+      "text": "And the US government is like, no, you're insider trading."
+    },
+    {
+      "start": 2657.26,
+      "end": 2658.28,
+      "text": "What happened to him?"
+    },
+    {
+      "start": 2658.66,
+      "end": 2660.24,
+      "text": "This is in court right now."
+    },
+    {
+      "start": 2660.24,
+      "end": 2667.1,
+      "text": "He sold $24 million of on-track sales in 2021 under his 10B51 plan."
+    },
+    {
+      "start": 2667.9,
+      "end": 2674.5,
+      "text": "You know, he sold $24 million and the stock declined from $32 when he started selling to under $10."
+    },
+    {
+      "start": 2675.1,
+      "end": 2676.88,
+      "text": "Stock trades are now under $1."
+    },
+    {
+      "start": 2677.66,
+      "end": 2678.6,
+      "text": "Oh my God."
+    },
+    {
+      "start": 2678.6,
+      "end": 2685.1,
+      "text": "So basically he, you know, his $24 million would basically be worth like, you know, $600,000 or something like that."
+    },
+    {
+      "start": 2685.26,
+      "end": 2686.84,
+      "text": "Or $700,000 or something like that."
+    },
+    {
+      "start": 2686.96,
+      "end": 2689.22,
+      "text": "But, you know, he may go to jail."
+    },
+    {
+      "start": 2689.44,
+      "end": 2691.34,
+      "text": "What happens in these cases to the money?"
+    },
+    {
+      "start": 2691.5,
+      "end": 2692.84,
+      "text": "It gets seized by the government?"
+    },
+    {
+      "start": 2693.44,
+      "end": 2694.28,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 2695,
+      "end": 2695.64,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 2695.7,
+      "end": 2698,
+      "text": "I feel like it's a slap on the wrist and you forget to keep it."
+    },
+    {
+      "start": 2698.36,
+      "end": 2699.86,
+      "text": "Yeah, that would be my guess."
+    },
+    {
+      "start": 2700.64,
+      "end": 2702.7,
+      "text": "I'm not sure what happened to the money."
+    },
+    {
+      "start": 2702.88,
+      "end": 2703.3,
+      "text": "What was it?"
+    },
+    {
+      "start": 2703.4,
+      "end": 2704.84,
+      "text": "Well, I guess that was a Ponzi scheme."
+    },
+    {
+      "start": 2705.02,
+      "end": 2706.3,
+      "text": "Like I was thinking Wolf of Wall Street."
+    },
+    {
+      "start": 2707,
+      "end": 2707.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 2707.94,
+      "end": 2709.88,
+      "text": "The government seized all his assets at the end."
+    },
+    {
+      "start": 2710.46,
+      "end": 2710.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 2711.02,
+      "end": 2712.38,
+      "text": "I'm not sure they seized all of his assets."
+    },
+    {
+      "start": 2712.5,
+      "end": 2717.48,
+      "text": "You know, there's this guy named Michael Milken who was involved in like insider trading, you know, before you were born."
+    },
+    {
+      "start": 2717.62,
+      "end": 2719.66,
+      "text": "Actually, before I was born in like the 1980s."
+    },
+    {
+      "start": 2719.76,
+      "end": 2720.92,
+      "text": "You learn about him in law school."
+    },
+    {
+      "start": 2721.38,
+      "end": 2723.12,
+      "text": "You know, he made billions of dollars."
+    },
+    {
+      "start": 2723.7,
+      "end": 2726.16,
+      "text": "He got arrested and put in jail for two years."
+    },
+    {
+      "start": 2726.42,
+      "end": 2727.34,
+      "text": "He got out."
+    },
+    {
+      "start": 2727.68,
+      "end": 2729.44,
+      "text": "Turns out somehow he was still a billionaire."
+    },
+    {
+      "start": 2730.42,
+      "end": 2730.82,
+      "text": "Okay."
+    },
+    {
+      "start": 2731.88,
+      "end": 2734.64,
+      "text": "And Donald Trump pardoned him right before he left office."
+    },
+    {
+      "start": 2734.9,
+      "end": 2736.1,
+      "text": "That's how rich this guy is."
+    },
+    {
+      "start": 2737.22,
+      "end": 2737.3,
+      "text": "Damn."
+    },
+    {
+      "start": 2737.56,
+      "end": 2739.06,
+      "text": "He can buy Donald Trump, basically."
+    },
+    {
+      "start": 2739.24,
+      "end": 2740.38,
+      "text": "He can buy himself a pardon."
+    },
+    {
+      "start": 2740.86,
+      "end": 2741.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 2741.18,
+      "end": 2746.04,
+      "text": "But in any case, that's, you know, SCB, I'm glad that all the depositors were made whole."
+    },
+    {
+      "start": 2746.16,
+      "end": 2750.02,
+      "text": "I feel like that's what needed to happen in order to keep the bank banking system alive."
+    },
+    {
+      "start": 2750.68,
+      "end": 2751.72,
+      "text": "I feel weird."
+    },
+    {
+      "start": 2751.96,
+      "end": 2755.5,
+      "text": "The taxpayers are on the hook according to this bank term funding program."
+    },
+    {
+      "start": 2755.62,
+      "end": 2757.56,
+      "text": "And by weird, I feel like it's really unfair."
+    },
+    {
+      "start": 2758.06,
+      "end": 2765.4,
+      "text": "And I feel like there's a lot of like other unfairness in the system that we probably don't have time to touch on because it's not really related to e-commerce."
+    },
+    {
+      "start": 2765.4,
+      "end": 2772.56,
+      "text": "But I am curious to see what happens to all these loans that SVB gave out and how you have to repay them and what the terms look like after this."
+    },
+    {
+      "start": 2773.04,
+      "end": 2775.8,
+      "text": "Did you hear about the second bank that fell to Signature Bank?"
+    },
+    {
+      "start": 2776.38,
+      "end": 2778.3,
+      "text": "I heard it, but I don't know anything about it."
+    },
+    {
+      "start": 2778.46,
+      "end": 2779.06,
+      "text": "Yeah, me neither."
+    },
+    {
+      "start": 2779.16,
+      "end": 2780,
+      "text": "I don't know much about it."
+    },
+    {
+      "start": 2780.14,
+      "end": 2783.1,
+      "text": "One other thing I was thinking was like, I wonder how."
+    },
+    {
+      "start": 2783.44,
+      "end": 2791.72,
+      "text": "So like we were talking about this at probably a pretty, a much deeper level than I would say, you know, maybe the average person would."
+    },
+    {
+      "start": 2791.72,
+      "end": 2804.9,
+      "text": "How does this change the perception of privacy and also like just new startups or neobanks or some of these startup companies that are, you know, fintech companies to the general public?"
+    },
+    {
+      "start": 2805.02,
+      "end": 2814.98,
+      "text": "Like how does the average person who isn't this deep in this world or reads this much and understands it, how does that change the perception of like fintech as an industry?"
+    },
+    {
+      "start": 2815.8,
+      "end": 2820.82,
+      "text": "It's sort of like, okay, so what is the, you know, am I insured at 250K or more than 250K?"
+    },
+    {
+      "start": 2821.02,
+      "end": 2823.92,
+      "text": "Are these new banks, is there any risk in working with it?"
+    },
+    {
+      "start": 2823.98,
+      "end": 2829.82,
+      "text": "Like if it was Mercury Bank that fell and I know Mercury Bank backs on the bank of somebody else, right?"
+    },
+    {
+      "start": 2829.96,
+      "end": 2833.1,
+      "text": "Evolve Bank and Trust and then Choice Financial Group."
+    },
+    {
+      "start": 2833.6,
+      "end": 2837.78,
+      "text": "If Evolve Bank and Trust fell, you know, would the government have stepped in?"
+    },
+    {
+      "start": 2837.9,
+      "end": 2838.64,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 2839.26,
+      "end": 2839.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 2840.36,
+      "end": 2845.66,
+      "text": "That's a question that the, like the owners of Evolve, they're owed by the federal government."
+    },
+    {
+      "start": 2846.04,
+      "end": 2849.48,
+      "text": "Like if, are you going to insure just Silicon Valley Bank or us too?"
+    },
+    {
+      "start": 2849.88,
+      "end": 2850,
+      "text": "Right."
+    },
+    {
+      "start": 2850.02,
+      "end": 2851.9,
+      "text": "Why are we, if not us, why not us?"
+    },
+    {
+      "start": 2852.12,
+      "end": 2852.4,
+      "text": "Right."
+    },
+    {
+      "start": 2853,
+      "end": 2858.56,
+      "text": "And I feel like that's a question that's sort of been up in the air for a long time and no one's ever pushed the Federal Reserve to answer."
+    },
+    {
+      "start": 2858.7,
+      "end": 2863.86,
+      "text": "But at this point, I think Americans and Evolve Federal Trust is owed that answer."
+    },
+    {
+      "start": 2864.42,
+      "end": 2874.36,
+      "text": "It'll be cool to see the more positive repercussions of this whole incident and how it, it shapes the, like, you know, how it shapes rules or federal regulations."
+    },
+    {
+      "start": 2874.94,
+      "end": 2878.68,
+      "text": "Just even like, you know, things like Mercury Vault coming out and being shipped."
+    },
+    {
+      "start": 2879.3,
+      "end": 2881.02,
+      "text": "What type of products come out of it?"
+    },
+    {
+      "start": 2881.22,
+      "end": 2881.86,
+      "text": "For sure."
+    },
+    {
+      "start": 2882.58,
+      "end": 2883.06,
+      "text": "Okay."
+    },
+    {
+      "start": 2883.18,
+      "end": 2884.38,
+      "text": "I think we've got to wrap up there."
+    },
+    {
+      "start": 2884.58,
+      "end": 2887.96,
+      "text": "Our next podcast, I've got all this gold about Allbirds."
+    },
+    {
+      "start": 2888.3,
+      "end": 2889.4,
+      "text": "I love Allbirds."
+    },
+    {
+      "start": 2889.66,
+      "end": 2890.8,
+      "text": "I think it's a great brand."
+    },
+    {
+      "start": 2891.06,
+      "end": 2892.94,
+      "text": "I love the people that run Allbirds."
+    },
+    {
+      "start": 2893.22,
+      "end": 2896.42,
+      "text": "It's had a very tumultuous career as a public company."
+    },
+    {
+      "start": 2896.68,
+      "end": 2901.16,
+      "text": "Started out with a $4 billion valuation and today trades at under $200 million."
+    },
+    {
+      "start": 2901.16,
+      "end": 2908.94,
+      "text": "And I want to get into like what has happened over the past two or three years as a publicly traded company where a ton of information is available."
+    },
+    {
+      "start": 2909.44,
+      "end": 2919.64,
+      "text": "Some quick highlights of that episode is first, Q4 2022 was the first time that they had a revenue decline between like for a year over year comparison."
+    },
+    {
+      "start": 2919.84,
+      "end": 2925.22,
+      "text": "So Q4 2021 actually did more revenue than Q4 2022, which is pretty crazy."
+    },
+    {
+      "start": 2925.36,
+      "end": 2926.34,
+      "text": "Like their sales went down."
+    },
+    {
+      "start": 2926.34,
+      "end": 2927.06,
+      "text": "Wow."
+    },
+    {
+      "start": 2927.96,
+      "end": 2929.48,
+      "text": "And there's one other thing I want to mention."
+    },
+    {
+      "start": 2929.56,
+      "end": 2933.56,
+      "text": "They hired a new CFO and I don't know anything about this person."
+    },
+    {
+      "start": 2933.74,
+      "end": 2940.48,
+      "text": "And I don't think this has anything to do with anything other than I think it's interesting because they have to announce the salary that they give this person."
+    },
+    {
+      "start": 2940.74,
+      "end": 2945.86,
+      "text": "And so I'm always curious what salaries look like for positions like this at publicly traded companies."
+    },
+    {
+      "start": 2946.24,
+      "end": 2946.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 2946.88,
+      "end": 2947.84,
+      "text": "To be clear, I don't know."
+    },
+    {
+      "start": 2948.02,
+      "end": 2950.16,
+      "text": "And I barely know anybody working at Allbirds."
+    },
+    {
+      "start": 2950.32,
+      "end": 2953.22,
+      "text": "And I certainly don't know who the CFO is."
+    },
+    {
+      "start": 2953.58,
+      "end": 2956.12,
+      "text": "But I did want to provide this a little bit of feedback here."
+    },
+    {
+      "start": 2956.12,
+      "end": 2957.38,
+      "text": "So they just hired a new person."
+    },
+    {
+      "start": 2957.54,
+      "end": 2958.76,
+      "text": "They announced it March 8th."
+    },
+    {
+      "start": 2958.86,
+      "end": 2962.66,
+      "text": "So five days ago, they hired the new CFO."
+    },
+    {
+      "start": 2962.82,
+      "end": 2965.5,
+      "text": "The person that's the new CFO, her name is Annie Mitchell."
+    },
+    {
+      "start": 2965.94,
+      "end": 2968.88,
+      "text": "She was previously the VP of Finance at Gymshark."
+    },
+    {
+      "start": 2969,
+      "end": 2971.56,
+      "text": "And before that, she was at Adidas for 10 years."
+    },
+    {
+      "start": 2971.84,
+      "end": 2973.56,
+      "text": "You want to guess what her salary is?"
+    },
+    {
+      "start": 2974.5,
+      "end": 2978.06,
+      "text": "Like half a million in cash and that equivalent in stock?"
+    },
+    {
+      "start": 2978.06,
+      "end": 2980.16,
+      "text": "Not crazy off."
+    },
+    {
+      "start": 2981.32,
+      "end": 2987.68,
+      "text": "$375,000 base salary up to a 40% bonus of that $375,000."
+    },
+    {
+      "start": 2987.92,
+      "end": 2988.48,
+      "text": "Wow."
+    },
+    {
+      "start": 2989.12,
+      "end": 2998.08,
+      "text": "And then every year, like $1 million in option grants that vest over four years at $250,000 a year in options and $250,000 a year in RSUs."
+    },
+    {
+      "start": 3026.66,
+      "end": 3028.06,
+      "text": "Wow."
+    },
+    {
+      "start": 3028.94,
+      "end": 3029.26,
+      "text": "Wow."
+    },
+    {
+      "start": 3030.5,
+      "end": 3030.82,
+      "text": "Okay."
+    },
+    {
+      "start": 3030.9,
+      "end": 3033.88,
+      "text": "I'm really excited to get into this because I love Allbirds and I think it's great."
+    },
+    {
+      "start": 3034.04,
+      "end": 3037.16,
+      "text": "But I think we got a lot of detail that came out."
+    },
+    {
+      "start": 3037.34,
+      "end": 3038.9,
+      "text": "And so I'm excited to dig into this with you."
+    },
+    {
+      "start": 3039.44,
+      "end": 3039.74,
+      "text": "Awesome."
+    },
+    {
+      "start": 3039.94,
+      "end": 3040.14,
+      "text": "Same."
+    },
+    {
+      "start": 3040.34,
+      "end": 3041.4,
+      "text": "This was a fun episode."
+    },
+    {
+      "start": 3041.66,
+      "end": 3044.06,
+      "text": "I feel like I've heard everything about Silicon Valley Bank."
+    },
+    {
+      "start": 3044.52,
+      "end": 3044.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 3045.58,
+      "end": 3049.02,
+      "text": "This article by Mark Rubenstein, I linked it to you right here, Nick."
+    },
+    {
+      "start": 3049.16,
+      "end": 3050.36,
+      "text": "It's on edit.com."
+    },
+    {
+      "start": 3050.4,
+      "end": 3051.14,
+      "text": "I don't even know what that is."
+    },
+    {
+      "start": 3051.26,
+      "end": 3051.96,
+      "text": "You should take a look at that."
+    },
+    {
+      "start": 3052,
+      "end": 3052.64,
+      "text": "It's pretty short."
+    },
+    {
+      "start": 3052.74,
+      "end": 3053.9,
+      "text": "You'll probably read it in 10 minutes."
+    },
+    {
+      "start": 3054.3,
+      "end": 3054.42,
+      "text": "Sweet."
+    },
+    {
+      "start": 3054.42,
+      "end": 3054.48,
+      "text": "Sweet."
+    },
+    {
+      "start": 3054.64,
+      "end": 3057.98,
+      "text": "That guy is 400 times smarter and 400 times more articulate than me."
+    },
+    {
+      "start": 3058.06,
+      "end": 3058.94,
+      "text": "You should read it if you get a chance."
+    },
+    {
+      "start": 3059.32,
+      "end": 3059.56,
+      "text": "Awesome."
+    },
+    {
+      "start": 3059.68,
+      "end": 3059.94,
+      "text": "I will."
+    },
+    {
+      "start": 3060.58,
+      "end": 3061,
+      "text": "Awesome."
+    },
+    {
+      "start": 3061.14,
+      "end": 3061.72,
+      "text": "Appreciate your time."
+    },
+    {
+      "start": 3062.18,
+      "end": 3062.82,
+      "text": "Thanks for listening."
+    },
+    {
+      "start": 3063.14,
+      "end": 3063.74,
+      "text": "Thanks, guys."
+    },
+    {
+      "start": 3064.4,
+      "end": 3065.32,
+      "text": "Thanks for tuning in."
+    },
+    {
+      "start": 3065.46,
+      "end": 3069.06,
+      "text": "We'll be back next time to cut through the noise in CPG, retail, and e-commerce."
+    },
+    {
+      "start": 3069.4,
+      "end": 3072.76,
+      "text": "And if you enjoyed this episode, then why not share it with a friend?"
+    },
+    {
+      "start": 3073.12,
+      "end": 3076.6,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

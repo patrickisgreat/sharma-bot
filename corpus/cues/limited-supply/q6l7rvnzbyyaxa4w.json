@@ -1,0 +1,1904 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.28,
+      "text": "[SPEAKER_01]: I love getting their text, they'll say, Hey, we have this new product that launches on this day."
+    },
+    {
+      "start": 4.42,
+      "end": 9.42,
+      "text": "[SPEAKER_01]: Click this link to be the first to know when it launches and that obviously gets me excited because"
+    },
+    {
+      "start": 9.42,
+      "end": 13.98,
+      "text": "[SPEAKER_01]: you know, I want to go support but also I love their product. I know that they sell out,"
+    },
+    {
+      "start": 14.02,
+      "end": 17.76,
+      "text": "[SPEAKER_01]: you know within a couple hours of that going live so I want to make sure that I'm in there."
+    },
+    {
+      "start": 18.02,
+      "end": 22.18,
+      "text": "[SPEAKER_01]: You kind of want your audience to understand that all right, this product sells that,"
+    },
+    {
+      "start": 22.22,
+      "end": 26.58,
+      "text": "[SPEAKER_01]: you know, this brand always sells out of their products as soon as they go live. It gets a lot of people"
+    },
+    {
+      "start": 26.58,
+      "end": 31.26,
+      "text": "[SPEAKER_01]: excited about the weight list. It gets you to kind of play this drop strategy. This is something we've"
+    },
+    {
+      "start": 31.26,
+      "end": 35.78,
+      "text": "[SPEAKER_01]: done a lot with the skinny confidential where, you know, when we launched Mount Tape, we had it,"
+    },
+    {
+      "start": 35.94,
+      "end": 40.02,
+      "text": "[SPEAKER_01]: it was basically a pent-up demand. We had a bunch of people who were really excited for the drop"
+    },
+    {
+      "start": 40.02,
+      "end": 44.42,
+      "text": "[SPEAKER_01]: sold out within, I don't know, less than an hour. Then the next time the restock was here,"
+    },
+    {
+      "start": 44.5,
+      "end": 47.24,
+      "text": "[SPEAKER_01]: we already had that list ready to go, dropped it, sold out."
+    },
+    {
+      "start": 49.3,
+      "end": 54.58,
+      "text": "[SPEAKER_01]: Welcome to Limited Supply, the place for refreshingly real takes on what D to C is really like."
+    },
+    {
+      "start": 54.58,
+      "end": 61.16,
+      "text": "[SPEAKER_01]: I'm your host Nick Sharma. Let's start talking about money. We've ever added up all the"
+    },
+    {
+      "start": 61.16,
+      "end": 65.34,
+      "text": "[SPEAKER_01]: conversions attributed to each of your paid channels and realized that the sum of those conversions"
+    },
+    {
+      "start": 65.34,
+      "end": 70.12,
+      "text": "[SPEAKER_01]: is greater than the actual number of conversions on your site. That's likely because most"
+    },
+    {
+      "start": 70.12,
+      "end": 74.88,
+      "text": "[SPEAKER_01]: ad platforms tend to overreport and get more credit than they deserve for the conversions they drive."
+    },
+    {
+      "start": 75.4,
+      "end": 79.86,
+      "text": "[SPEAKER_01]: Today, sophisticated marketers are moving away from attribution and moving toward"
+    },
+    {
+      "start": 79.86,
+      "end": 85.62,
+      "text": "[SPEAKER_01]: incrementality testing in order to maximize growth and understand efficiency. To find the incrementality"
+    },
+    {
+      "start": 85.62,
+      "end": 89.76,
+      "text": "[SPEAKER_01]: of your marketing tactics, you have to run testing control experiments. But these tests are"
+    },
+    {
+      "start": 89.76,
+      "end": 94.1,
+      "text": "[SPEAKER_01]: hard to do on your own and that's why I recommend using house. With house, you have an"
+    },
+    {
+      "start": 94.1,
+      "end": 98.34,
+      "text": "[SPEAKER_01]: automated self-service platform that allows you to configure regional testing control experiments"
+    },
+    {
+      "start": 98.34,
+      "end": 102.06,
+      "text": "[SPEAKER_01]: to measure incrementality, identify points of diminishing returns,"
+    },
+    {
+      "start": 102.5,
+      "end": 106.94,
+      "text": "[SPEAKER_01]: optimally allocate marketing dollars and maximize your growth. The platform is built by"
+    },
+    {
+      "start": 106.94,
+      "end": 111.14,
+      "text": "[SPEAKER_01]: world-class scientists and allows you to test all your marketing channels both online and"
+    },
+    {
+      "start": 111.92,
+      "end": 117.3,
+      "text": "[SPEAKER_01]: measure the impact across all your sales channels including direct to consumer, retail,"
+    },
+    {
+      "start": 117.58,
+      "end": 122.94,
+      "text": "[SPEAKER_01]: Amazon, etc. And you can calibrate your in-platform reporting for incrementality with house."
+    },
+    {
+      "start": 123.38,
+      "end": 127.66,
+      "text": "[SPEAKER_01]: My friend Connor Haxclad uses house and he was actually able to share that when they ran"
+    },
+    {
+      "start": 127.66,
+      "end": 132.12,
+      "text": "[SPEAKER_01]: an incrementality test around meta and Amazon, they realized that a lot of their meta-spend"
+    },
+    {
+      "start": 132.12,
+      "end": 136.54,
+      "text": "[SPEAKER_01]: was indirectly driving revenue for Amazon. These learnings actually changed their acquisition"
+    },
+    {
+      "start": 136.54,
+      "end": 141.12,
+      "text": "[SPEAKER_01]: strategy for Amazon going forward. If you're a seven figure brand and you're running on"
+    },
+    {
+      "start": 141.12,
+      "end": 144.72,
+      "text": "[SPEAKER_01]: multiple marketing channels, I should say if you're at least a seven figure brand,"
+    },
+    {
+      "start": 145.12,
+      "end": 148.84,
+      "text": "[SPEAKER_01]: then you can potentially save millions of dollars by starting an incrementality practice"
+    },
+    {
+      "start": 148.84,
+      "end": 153.78,
+      "text": "[SPEAKER_01]: and learn what's truly driving your business. How's he's a superior science and makes this type"
+    },
+    {
+      "start": 153.78,
+      "end": 160.4,
+      "text": "[SPEAKER_01]: of testing accessible? And so I recommend you check them out go to house.io slash limited. That's"
+    },
+    {
+      "start": 161.26,
+      "end": 170.14,
+      "text": "[SPEAKER_01]: haus.io slash limited to learn more and get a demo. All right we're back for another episode of"
+    },
+    {
+      "start": 170.14,
+      "end": 176.96,
+      "text": "[SPEAKER_01]: the limited supply. Today's episode is a bit shorter, but hopefully it packs a punch in terms of"
+    },
+    {
+      "start": 176.96,
+      "end": 183.16,
+      "text": "[SPEAKER_01]: value or information. We talk all about how to launch a product. Specifically one of the things"
+    },
+    {
+      "start": 183.16,
+      "end": 188.44,
+      "text": "[SPEAKER_01]: you want to make sure you're addressing on your website, on through ads, through organic social and"
+    },
+    {
+      "start": 188.44,
+      "end": 193,
+      "text": "[SPEAKER_01]: through email and also just how to think about it in a way that kind of frames it maybe frames it"
+    },
+    {
+      "start": 193,
+      "end": 197.9,
+      "text": "[SPEAKER_01]: a little bit differently so it's helpful. So before we get into today's episode there is"
+    },
+    {
+      "start": 198.62,
+      "end": 203.28,
+      "text": "[SPEAKER_01]: something that's so funny to me that keeps popping up. It's like it's so apparent and such a"
+    },
+    {
+      "start": 203.28,
+      "end": 209.72,
+      "text": "[SPEAKER_01]: common problem for multiple brands and I just want to bring it up because I think it's something"
+    },
+    {
+      "start": 209.72,
+      "end": 216.58,
+      "text": "[SPEAKER_01]: that everybody's probably struggling with and you know, shoot me a note on email or DM on Twitter"
+    },
+    {
+      "start": 216.58,
+      "end": 221.26,
+      "text": "[SPEAKER_01]: and I'm curious to see if you're also experiencing this problem but so many brands I've seen"
+    },
+    {
+      "start": 221.26,
+      "end": 227.8,
+      "text": "[SPEAKER_01]: have a phenomenal product. They've got their performance media and ad creative is dialed in."
+    },
+    {
+      "start": 227.9,
+      "end": 232.02,
+      "text": "[SPEAKER_01]: But the one thing that they don't have which is kind of preventing their growth and also good,"
+    },
+    {
+      "start": 232.14,
+      "end": 238.26,
+      "text": "[SPEAKER_01]: you know, row as or good CPA targets is they don't do anything to get the brand awareness out there"
+    },
+    {
+      "start": 238.26,
+      "end": 243.48,
+      "text": "[SPEAKER_01]: and the way that I like to think about it is you've got let's say you've got this pixie dust right"
+    },
+    {
+      "start": 243.48,
+      "end": 248.2,
+      "text": "[SPEAKER_01]: your brand awareness is kind of this pixie dust that gets sprayed all over the floor. Right so"
+    },
+    {
+      "start": 248.2,
+      "end": 251.82,
+      "text": "[SPEAKER_01]: somebody's got it they're just putting it all over the floor that's brand awareness that's,"
+    },
+    {
+      "start": 252.52,
+      "end": 257.5,
+      "text": "[SPEAKER_01]: you know, the brand recognition that's brand excitement that's brand affinity that's everything"
+    },
+    {
+      "start": 257.5,
+      "end": 262.02,
+      "text": "[SPEAKER_01]: it has to do with the brand basically your logo your name what it means to people how people feel when"
+    },
+    {
+      "start": 262.02,
+      "end": 267.7,
+      "text": "[SPEAKER_01]: they see it and our job as performance marketers and I say ours I'm assuming most of the people"
+    },
+    {
+      "start": 267.7,
+      "end": 272.74,
+      "text": "[SPEAKER_01]: listening to this kind of work on the side of revenue or performance marketing is to take that"
+    },
+    {
+      "start": 272.74,
+      "end": 280.02,
+      "text": "[SPEAKER_01]: awareness and engagement and turn that into customers right so as a media buyer as a director"
+    },
+    {
+      "start": 280.02,
+      "end": 285.98,
+      "text": "[SPEAKER_01]: performance as a leader on the D to C side as a CMO you're probably thinking okay I'm doing"
+    },
+    {
+      "start": 285.98,
+      "end": 292.64,
+      "text": "[SPEAKER_01]: everything I possibly can to drive ads effectively why why am I still not hitting the CPA target right"
+    },
+    {
+      "start": 292.64,
+      "end": 297.32,
+      "text": "[SPEAKER_01]: people clearly say in the reviews that they love the product but how come we're not able to get"
+    },
+    {
+      "start": 297.32,
+      "end": 303.36,
+      "text": "[SPEAKER_01]: low CPMs and good CPAs well I'll tell you the biggest reason is most likely that your brand"
+    },
+    {
+      "start": 303.36,
+      "end": 308.64,
+      "text": "[SPEAKER_01]: awareness is lacking your brand team is not doing enough on social they're not doing enough to be out there"
+    },
+    {
+      "start": 308.64,
+      "end": 314.86,
+      "text": "[SPEAKER_01]: right physically IRL they're not interacting with customers enough they're not putting themselves out"
+    },
+    {
+      "start": 314.86,
+      "end": 321.06,
+      "text": "[SPEAKER_01]: with creators they're not getting other people to talk about you and this is this is what I've"
+    },
+    {
+      "start": 321.06,
+      "end": 326.38,
+      "text": "[SPEAKER_01]: come to realize is the root of this problem is just a lack of excitement around building the brand"
+    },
+    {
+      "start": 326.38,
+      "end": 331.82,
+      "text": "[SPEAKER_01]: awareness there are so many like yes for sure there are brands that you don't need to build brand"
+    },
+    {
+      "start": 331.82,
+      "end": 337.32,
+      "text": "[SPEAKER_01]: awareness you can just run Facebook ads I know of them I've seen them we've worked on some of them"
+    },
+    {
+      "start": 337.32,
+      "end": 342.52,
+      "text": "[SPEAKER_01]: but from a majority of brands that's just not the case and most people are not sophisticated enough"
+    },
+    {
+      "start": 342.52,
+      "end": 348.3,
+      "text": "[SPEAKER_01]: as performance marketers to do that and so the best combination is to pair it with some sort of"
+    },
+    {
+      "start": 348.3,
+      "end": 352.18,
+      "text": "[SPEAKER_01]: brand awareness whether that's working with a creator whether that's working with multiple"
+    },
+    {
+      "start": 352.18,
+      "end": 358.6,
+      "text": "[SPEAKER_01]: creators look at jolly for an example they they pump out you know tens of thousands of pieces"
+    },
+    {
+      "start": 358.6,
+      "end": 365.16,
+      "text": "[SPEAKER_01]: of content with content creators on an annual basis or look at saloon which is a you know think of"
+    },
+    {
+      "start": 365.16,
+      "end": 371.2,
+      "text": "[SPEAKER_01]: as like Mexican liquid IV they pump out so much content with their content creators with jolly's"
+    },
+    {
+      "start": 371.2,
+      "end": 377.74,
+      "text": "[SPEAKER_01]: himself as a content creator and a co-founder all like this this to me is the biggest thing that"
+    },
+    {
+      "start": 377.74,
+      "end": 382.56,
+      "text": "[SPEAKER_01]: holds people back is they just don't focus enough on excitement for the brand right people should"
+    },
+    {
+      "start": 382.56,
+      "end": 387.28,
+      "text": "[SPEAKER_01]: see your logo or your brand name and feel some type of way that is the only way that your ads work"
+    },
+    {
+      "start": 387.28,
+      "end": 392,
+      "text": "[SPEAKER_01]: if people see your logo and brand they don't feel some type of way and you're wondering why your"
+    },
+    {
+      "start": 392,
+      "end": 398.46,
+      "text": "[SPEAKER_01]: ads aren't working well that's the answer but that leads me to something today which is to talk"
+    },
+    {
+      "start": 398.46,
+      "end": 403.66,
+      "text": "[SPEAKER_01]: into talk about the product launches and how we can maximize product launches for awareness"
+    },
+    {
+      "start": 403.66,
+      "end": 408.3,
+      "text": "[SPEAKER_01]: and for driving revenue so let me know what you think of the product launch segment"
+    },
+    {
+      "start": 408.84,
+      "end": 413.58,
+      "text": "[SPEAKER_01]: I actually funny enough I'm recording this as the last thing I've already recorded the product"
+    },
+    {
+      "start": 413.58,
+      "end": 417.94,
+      "text": "[SPEAKER_01]: launch stuff that I recorded the intro now I'm recording this part just because I felt like I wanted"
+    },
+    {
+      "start": 417.94,
+      "end": 422.72,
+      "text": "[SPEAKER_01]: to make sure there's enough value in here and this is also a rant that I wanted to get on the"
+    },
+    {
+      "start": 422.72,
+      "end": 427.7,
+      "text": "[SPEAKER_01]: mic at some point so I'm curious to see what you think if you think this is a real problem also"
+    },
+    {
+      "start": 427.7,
+      "end": 432.26,
+      "text": "[SPEAKER_01]: or if you have any other ideas on how to solve it shoot me a note maybe what I'll do"
+    },
+    {
+      "start": 432.26,
+      "end": 436.94,
+      "text": "[SPEAKER_01]: next week or the week after I'm planning to have Ryan on the pod so I'm going to make a list of"
+    },
+    {
+      "start": 436.94,
+      "end": 441.64,
+      "text": "[SPEAKER_01]: questions and kind of go at him from a top of funnel and an awareness standpoint just ask him how"
+    },
+    {
+      "start": 441.64,
+      "end": 447.92,
+      "text": "[SPEAKER_01]: do you do it on a shoe string budget how can you do it as a brand that doesn't have you know"
+    },
+    {
+      "start": 447.92,
+      "end": 453.98,
+      "text": "[SPEAKER_01]: branding agencies or creative agencies and I want to get you guys the answer but the building"
+    },
+    {
+      "start": 453.98,
+      "end": 458.72,
+      "text": "[SPEAKER_01]: the brand awareness to me in my opinion is the thing that holds a lot of brands back from hitting"
+    },
+    {
+      "start": 458.72,
+      "end": 464.08,
+      "text": "[SPEAKER_01]: their $10 million a year mark and definitely prevents them from getting to 25 because you can't even"
+    },
+    {
+      "start": 464.08,
+      "end": 470.04,
+      "text": "[SPEAKER_01]: get to 10 so anyways I'm excited to talk about product launches but if you if you have any thoughts"
+    },
+    {
+      "start": 470.04,
+      "end": 475.52,
+      "text": "[SPEAKER_01]: on this stuff around how to build brand awareness easily let me know shoot me a DM or an email"
+    },
+    {
+      "start": 475.52,
+      "end": 480.72,
+      "text": "[SPEAKER_01]: I'm going to compile everybody's ideas and thoughts along with my own and I'm going to bring that"
+    },
+    {
+      "start": 480.72,
+      "end": 488.06,
+      "text": "[SPEAKER_01]: in an episode for you okay we are back for another episode of limited supply today's actually a"
+    },
+    {
+      "start": 488.06,
+      "end": 494.7,
+      "text": "[SPEAKER_01]: really exciting one I'm recording this on today which is Monday September 16th and why is it"
+    },
+    {
+      "start": 494.7,
+      "end": 501.6,
+      "text": "[SPEAKER_01]: exciting well today is the launch of a brand called David it's founded by two guys Peter Rahal"
+    },
+    {
+      "start": 501.6,
+      "end": 507.76,
+      "text": "[SPEAKER_01]: and Zach Reenan Zach had a e-commerce business called raise before I believe they were functionally"
+    },
+    {
+      "start": 507.76,
+      "end": 513.8,
+      "text": "[SPEAKER_01]: beneficial cookies you know healthy ingredients and good for you cookies and Zach are sorry Peter"
+    },
+    {
+      "start": 513.8,
+      "end": 519.14,
+      "text": "[SPEAKER_01]: obviously started our x bar and sold that to Kellogg's for 600 million in cash I believe"
+    },
+    {
+      "start": 519.68,
+      "end": 524.2,
+      "text": "[SPEAKER_01]: and you know as as we've been working on this project it's been really sick but"
+    },
+    {
+      "start": 524.82,
+      "end": 530.24,
+      "text": "[SPEAKER_01]: you should go check out the site it's called David protein.com it's spelled just like David protein"
+    },
+    {
+      "start": 530.24,
+      "end": 536.54,
+      "text": "[SPEAKER_01]: sounds and you'll you'll love it I think the branding is really tight it's really crispy"
+    },
+    {
+      "start": 536.54,
+      "end": 542.38,
+      "text": "[SPEAKER_01]: it's really fresh it's kind of a new take on what the category has seen before also from a product"
+    },
+    {
+      "start": 542.38,
+      "end": 547.68,
+      "text": "[SPEAKER_01]: standpoint you know if we think about what the perfect launch constitutes of it's not only a good"
+    },
+    {
+      "start": 547.68,
+      "end": 553.26,
+      "text": "[SPEAKER_01]: site and good content and good messaging and positioning but the ultimate thing is having a product that"
+    },
+    {
+      "start": 553.26,
+      "end": 558.08,
+      "text": "[SPEAKER_01]: people actually like and I don't know if you've got with try the product yet or not but I've"
+    },
+    {
+      "start": 558.08,
+      "end": 563.76,
+      "text": "[SPEAKER_01]: got some here with me and the products are delicious they're so good they're I think the best protein"
+    },
+    {
+      "start": 563.76,
+      "end": 568.6,
+      "text": "[SPEAKER_01]: bars I've ever had before they've got this perfect crunch right in the middle I don't know how"
+    },
+    {
+      "start": 568.6,
+      "end": 573.94,
+      "text": "[SPEAKER_01]: they manufactured this crunch but they've also got you know 20 grams of protein 150 calories no"
+    },
+    {
+      "start": 573.94,
+      "end": 580.36,
+      "text": "[SPEAKER_01]: sugar and we'll hopefully have Zach and Peter on limited supply to kind of talk through how they did that"
+    },
+    {
+      "start": 580.98,
+      "end": 585.76,
+      "text": "[SPEAKER_01]: but all that said I mean definitely check out the site I think the site does a beautiful job"
+    },
+    {
+      "start": 585.76,
+      "end": 591.24,
+      "text": "[SPEAKER_01]: you know educating people on what it is what all comes in it how it compares to competitive"
+    },
+    {
+      "start": 591.24,
+      "end": 596.8,
+      "text": "[SPEAKER_01]: protein brands it's a very beautiful site yeah there's not much else to say it's beautiful it"
+    },
+    {
+      "start": 596.8,
+      "end": 601.4,
+      "text": "[SPEAKER_01]: converts well so far and I'm excited for you to check it out go buy some protein bars you can get"
+    },
+    {
+      "start": 601.4,
+      "end": 607.78,
+      "text": "[SPEAKER_01]: the sampler pack which is you know it tries all four of the main flavors and it's only 15 bucks"
+    },
+    {
+      "start": 607.78,
+      "end": 613.38,
+      "text": "[SPEAKER_01]: so grab that on davidprotein dot com and also shoot me an email or a DM on Twitter let me know"
+    },
+    {
+      "start": 613.38,
+      "end": 617.92,
+      "text": "[SPEAKER_01]: what you think of the site is there anything that you really liked or didn't like is there anything"
+    },
+    {
+      "start": 617.92,
+      "end": 623.66,
+      "text": "[SPEAKER_01]: you think could be improved I'm curious to see what you think I think it's uh it's one of my favorite"
+    },
+    {
+      "start": 623.66,
+      "end": 628.9,
+      "text": "[SPEAKER_01]: sites we've built so very excited about that so that leads us into what today's episode is going"
+    },
+    {
+      "start": 628.9,
+      "end": 634.6,
+      "text": "[SPEAKER_01]: to be about and that is product launches there's so many product launches that happen and you know"
+    },
+    {
+      "start": 634.6,
+      "end": 640.18,
+      "text": "[SPEAKER_01]: a lot of times I think it gets mistaken for just another launch right you have your brand launch"
+    },
+    {
+      "start": 640.18,
+      "end": 645.08,
+      "text": "[SPEAKER_01]: obviously that's kind of like your stores grand opening moment you've got the balloons outside"
+    },
+    {
+      "start": 645.08,
+      "end": 649.86,
+      "text": "[SPEAKER_01]: you even got that guy who's uh you find them at the gas station car washes where they're just dancing"
+    },
+    {
+      "start": 649.86,
+      "end": 654.84,
+      "text": "[SPEAKER_01]: off limbsy right that's your brand launch but I think one thing that I've seen"
+    },
+    {
+      "start": 655.38,
+      "end": 660.42,
+      "text": "[SPEAKER_01]: this brand specifically called lemme Courtney Kardashian supplement brand what they do really really"
+    },
+    {
+      "start": 660.9,
+      "end": 666.78,
+      "text": "[SPEAKER_01]: is they treat every single product launch like it's a huge brand launch right and so that's kind"
+    },
+    {
+      "start": 666.78,
+      "end": 672.32,
+      "text": "[SPEAKER_01]: of what I wanted to talk through today how to create the perfect product launch I think it essentially"
+    },
+    {
+      "start": 672.32,
+      "end": 678.94,
+      "text": "[SPEAKER_01]: spans across a few things one is your site one is your ad creative one is your email and SMS"
+    },
+    {
+      "start": 678.94,
+      "end": 685.66,
+      "text": "[SPEAKER_01]: and then one is your organic social slash you know seeding slash creators so I want to go through"
+    },
+    {
+      "start": 686.3,
+      "end": 693.24,
+      "text": "[SPEAKER_01]: hopefully today's episode is super tactical my hope is that you can listen to the episode take notes"
+    },
+    {
+      "start": 693.24,
+      "end": 700.32,
+      "text": "[SPEAKER_01]: on it and hopefully implement these fixes into your next product launch and you know hopefully"
+    },
+    {
+      "start": 700.32,
+      "end": 705.28,
+      "text": "[SPEAKER_01]: it'll help you make an extra six figures so let's jump in so let's talk about the website first"
+    },
+    {
+      "start": 705.28,
+      "end": 711.66,
+      "text": "[SPEAKER_01]: on the website you need to think of this as your retail store friend right if you had a store in"
+    },
+    {
+      "start": 711.66,
+      "end": 718.2,
+      "text": "[SPEAKER_01]: soho or road day drive or you know South Congress and Austin you would make such a big deal"
+    },
+    {
+      "start": 718.2,
+      "end": 722,
+      "text": "[SPEAKER_01]: out of the fact that you have a new product launch right you would change the windows you would"
+    },
+    {
+      "start": 722,
+      "end": 727.82,
+      "text": "[SPEAKER_01]: maybe change the you know the stickering or the design that's on the doors you're going to"
+    },
+    {
+      "start": 727.82,
+      "end": 731.52,
+      "text": "[SPEAKER_01]: make call outs there as soon as people walk in you're going to have a different kind of layout"
+    },
+    {
+      "start": 731.52,
+      "end": 735.82,
+      "text": "[SPEAKER_01]: for the first you know 10 feet of one people walk in you really want to show off that product"
+    },
+    {
+      "start": 735.82,
+      "end": 740.12,
+      "text": "[SPEAKER_01]: and so what does that mean when you go to the site well the first thing is I think you want"
+    },
+    {
+      "start": 740.12,
+      "end": 744.48,
+      "text": "[SPEAKER_01]: to make sure you update your above the full site experience or your site banner to show the new"
+    },
+    {
+      "start": 744.48,
+      "end": 751.08,
+      "text": "[SPEAKER_01]: product you want to show in my opinion a good site banner or site hero doesn't just show"
+    },
+    {
+      "start": 751.08,
+      "end": 758.08,
+      "text": "[SPEAKER_01]: the product it actually also shows you know benefits and again what we know from website heroes is"
+    },
+    {
+      "start": 758.08,
+      "end": 763.26,
+      "text": "[SPEAKER_01]: chunky text doesn't work so paragraphs don't work stick to bullet points stick to headlines that"
+    },
+    {
+      "start": 763.26,
+      "end": 768.54,
+      "text": "[SPEAKER_01]: talk through benefits you know everything should be benefits driven not necessarily chunks of"
+    },
+    {
+      "start": 768.54,
+      "end": 773.84,
+      "text": "[SPEAKER_01]: text that focus on value props so do that above the fold also make sure you know try to have"
+    },
+    {
+      "start": 773.84,
+      "end": 778.76,
+      "text": "[SPEAKER_01]: some social proof if you don't have a number of reviews you can put maybe it's a number of units"
+    },
+    {
+      "start": 778.76,
+      "end": 783.84,
+      "text": "[SPEAKER_01]: sold across the brand if you don't want to put that maybe it's a quote from an early"
+    },
+    {
+      "start": 783.84,
+      "end": 789.86,
+      "text": "[SPEAKER_01]: reviewer of your product right maybe that's uh that's taken and designed into the hero itself"
+    },
+    {
+      "start": 789.86,
+      "end": 795.9,
+      "text": "[SPEAKER_01]: it might be that there's some new technology that you want to address and so you want to figure out"
+    },
+    {
+      "start": 795.9,
+      "end": 800.58,
+      "text": "[SPEAKER_01]: how to make that hero pop you don't just want to have a picture of the product right ideally"
+    },
+    {
+      "start": 800.58,
+      "end": 805.42,
+      "text": "[SPEAKER_01]: you have the product in use you might have a small actually if you check out uh shop skinny"
+    },
+    {
+      "start": 805.42,
+      "end": 812.92,
+      "text": "[SPEAKER_01]: confidential.com that's the um skinny confidential commerce website you'll see that in the bottom"
+    },
+    {
+      "start": 812.92,
+      "end": 819.5,
+      "text": "[SPEAKER_01]: right of the hero on both desktop and mobile there's a small little square where the hero currently"
+    },
+    {
+      "start": 819.5,
+      "end": 824.62,
+      "text": "[SPEAKER_01]: on the left side shows this is I'm looking at on desktop the hero on the left side shows a"
+    },
+    {
+      "start": 824.62,
+      "end": 829.46,
+      "text": "[SPEAKER_01]: video with the product in action and the right side shows kind of a lifestyle image but then"
+    },
+    {
+      "start": 829.46,
+      "end": 833.12,
+      "text": "[SPEAKER_01]: the bottom right you have this tiny little corner which is like a bit of an editorial corner"
+    },
+    {
+      "start": 833.12,
+      "end": 839.14,
+      "text": "[SPEAKER_01]: and it just shows like a still image of the product so that in my opinion is a great version"
+    },
+    {
+      "start": 839.14,
+      "end": 843.72,
+      "text": "[SPEAKER_01]: of a hero you know nicely shows that the product is launched the customer can see it they can"
+    },
+    {
+      "start": 843.72,
+      "end": 848.48,
+      "text": "[SPEAKER_01]: understand it they can get the punch line without having to scroll past the hero now on your"
+    },
+    {
+      "start": 848.48,
+      "end": 853.18,
+      "text": "[SPEAKER_01]: collections page. In my opinion the new product should be the first product that shows up it should"
+    },
+    {
+      "start": 853.18,
+      "end": 858.34,
+      "text": "[SPEAKER_01]: it should be you know it should kind of be like the center of attention some of you may do this"
+    },
+    {
+      "start": 858.34,
+      "end": 863.32,
+      "text": "[SPEAKER_01]: thing in your collections page where every two to three rows you reserve one of the product cards"
+    },
+    {
+      "start": 863.32,
+      "end": 868.08,
+      "text": "[SPEAKER_01]: to actually be almost like an ad unit kind of like a static unit where you can you know put"
+    },
+    {
+      "start": 868.08,
+      "end": 873.16,
+      "text": "[SPEAKER_01]: an image that you upload in there or a small video that you upload in there that kind of auto plays"
+    },
+    {
+      "start": 873.74,
+      "end": 878.4,
+      "text": "[SPEAKER_01]: you can use that spot to kind of reinforce the new product and the messaging of the new product"
+    },
+    {
+      "start": 878.4,
+      "end": 882.1,
+      "text": "[SPEAKER_01]: but I would definitely make sure that the new product is the first thing in your collection"
+    },
+    {
+      "start": 882.7,
+      "end": 888.72,
+      "text": "[SPEAKER_01]: now in your slide out cart and your Shopify checkout extensions I would also prioritize that if"
+    },
+    {
+      "start": 888.72,
+      "end": 893.54,
+      "text": "[SPEAKER_01]: this product is not in cart or as a part of your cart is you're checking out this should be the first"
+    },
+    {
+      "start": 893.54,
+      "end": 898.78,
+      "text": "[SPEAKER_01]: product that is featured there let's say David had had already launched and we just launched"
+    },
+    {
+      "start": 898.78,
+      "end": 903.74,
+      "text": "[SPEAKER_01]: the new cake batter protein bar right I would make sure that the cake batter protein bar is the first"
+    },
+    {
+      "start": 903.74,
+      "end": 909.06,
+      "text": "[SPEAKER_01]: on the collections page and that also if you ordered the chocolate chip protein bar the cake"
+    },
+    {
+      "start": 909.06,
+      "end": 915.48,
+      "text": "[SPEAKER_01]: batter is the first suggested upsell in the cart as well as as you're checking out it's the first"
+    },
+    {
+      "start": 915.48,
+      "end": 921.52,
+      "text": "[SPEAKER_01]: suggested upsell there next one is on the on-site pop-up so we've talked about using the on-site"
+    },
+    {
+      "start": 921.52,
+      "end": 926.9,
+      "text": "[SPEAKER_01]: pop-up to explain when you have a promo or you're running a site wide sale and that's where you"
+    },
+    {
+      "start": 926.9,
+      "end": 932.66,
+      "text": "[SPEAKER_01]: would put your info in your email your phone number I would do the same thing here so if you're launching"
+    },
+    {
+      "start": 932.66,
+      "end": 936.94,
+      "text": "[SPEAKER_01]: a new product use that on-site pop-up to include messaging around the new product whether or not"
+    },
+    {
+      "start": 936.94,
+      "end": 942.2,
+      "text": "[SPEAKER_01]: you offer a discount for it and and you know people who are coming you have to think about the"
+    },
+    {
+      "start": 942.2,
+      "end": 947.58,
+      "text": "[SPEAKER_01]: fact that it's not just ad traffic that's coming there's also direct traffic so that's really what"
+    },
+    {
+      "start": 947.58,
+      "end": 952.24,
+      "text": "[SPEAKER_01]: you're trying to capitalize on I would probably do the pop-up for like 48 to 72 hours and then"
+    },
+    {
+      "start": 952.24,
+      "end": 956.74,
+      "text": "[SPEAKER_01]: I'd switch it back to whatever converts the best obviously after 24 hours if you see a huge drop"
+    },
+    {
+      "start": 956.74,
+      "end": 962.22,
+      "text": "[SPEAKER_01]: in signups or conversion rate for email switch it back but we've seen that sometimes new product"
+    },
+    {
+      "start": 962.22,
+      "end": 968.54,
+      "text": "[SPEAKER_01]: drops when you edit the email module the pop-up module you can sometimes see a higher than average"
+    },
+    {
+      "start": 968.54,
+      "end": 974.36,
+      "text": "[SPEAKER_01]: collection rate if you need I would definitely also build additional modules for the PDP you know"
+    },
+    {
+      "start": 974.36,
+      "end": 979.3,
+      "text": "[SPEAKER_01]: you want to make sure that you know if you're launching a new product it may be a part of the same"
+    },
+    {
+      "start": 979.3,
+      "end": 984.48,
+      "text": "[SPEAKER_01]: types of products you've launched so let's say your a milk company it may be that it's another"
+    },
+    {
+      "start": 984.48,
+      "end": 989.58,
+      "text": "[SPEAKER_01]: variation of milk it also just might be that you know you're launching yogurt and so if you're"
+    },
+    {
+      "start": 989.58,
+      "end": 995.14,
+      "text": "[SPEAKER_01]: using yogurt but your site PDPs are built to sell milk you might need to add extra modules you know"
+    },
+    {
+      "start": 995.14,
+      "end": 999.66,
+      "text": "[SPEAKER_01]: you want to explain what it does how it works what comes in the box how to use the product how to"
+    },
+    {
+      "start": 999.66,
+      "end": 1004.72,
+      "text": "[SPEAKER_01]: prepare it or set it up any sort of common frequently asked questions really think of this as"
+    },
+    {
+      "start": 1004.72,
+      "end": 1010.26,
+      "text": "[SPEAKER_01]: your landing page and so make sure you thoroughly explain everything there and the last thing with the"
+    },
+    {
+      "start": 1010.26,
+      "end": 1015.88,
+      "text": "[SPEAKER_01]: website is if you decide to run some sort of a pre-launch sale for your best customers definitely"
+    },
+    {
+      "start": 1015.88,
+      "end": 1020.22,
+      "text": "[SPEAKER_01]: direct that traffic to a dedicated landing page where you can speak to those customers in a slightly"
+    },
+    {
+      "start": 1020.22,
+      "end": 1024.12,
+      "text": "[SPEAKER_01]: different manner you want to remember that these are people who understand your brand"
+    },
+    {
+      "start": 1024.12,
+      "end": 1027.94,
+      "text": "[SPEAKER_01]: that you don't need to teach them about the brand or why they should buy or why they should trust"
+    },
+    {
+      "start": 1027.94,
+      "end": 1032.54,
+      "text": "[SPEAKER_01]: you right you really just need to focus on selling the product and so that's why I say you should"
+    },
+    {
+      "start": 1032.54,
+      "end": 1037.96,
+      "text": "[SPEAKER_01]: have a separate landing page that focuses on that it's a bit more lower funnel whereas your PDP"
+    },
+    {
+      "start": 1037.96,
+      "end": 1042.26,
+      "text": "[SPEAKER_01]: you want to make sure it can flex up and down the funnel meaning if somebody's ready to buy right"
+    },
+    {
+      "start": 1042.26,
+      "end": 1046.9,
+      "text": "[SPEAKER_01]: your PDP should work if somebody has no idea who you are and they need to build that trust and"
+    },
+    {
+      "start": 1046.9,
+      "end": 1052.12,
+      "text": "[SPEAKER_01]: understand who you are and compare you to other options on the market your PDP should also do that"
+    },
+    {
+      "start": 1052.12,
+      "end": 1057.58,
+      "text": "[SPEAKER_01]: so your PDP should really be your kind of catch-all landing page is the best way to think about it"
+    },
+    {
+      "start": 1057.58,
+      "end": 1062.46,
+      "text": "[SPEAKER_01]: but if you run a pre-launch sale for your best customers or your subscribers or your VIPs"
+    },
+    {
+      "start": 1062.46,
+      "end": 1067.14,
+      "text": "[SPEAKER_01]: you know whether that's a specific flavor or an entire product I would definitely separate that"
+    },
+    {
+      "start": 1067.14,
+      "end": 1071.56,
+      "text": "[SPEAKER_01]: traffic you can also then judge what is your conversion rate of traffic that you're directing"
+    },
+    {
+      "start": 1071.56,
+      "end": 1075.52,
+      "text": "[SPEAKER_01]: that is already a customer and that will just help you in future projections"
+    },
+    {
+      "start": 1076.78,
+      "end": 1080.92,
+      "text": "[SPEAKER_01]: all right I need to interrupt this podcast to ask you a very important question"
+    },
+    {
+      "start": 1080.92,
+      "end": 1085.46,
+      "text": "[SPEAKER_01]: if you ever wondered how much of your DTC adds the adds going directly to your website are"
+    },
+    {
+      "start": 1085.46,
+      "end": 1090.96,
+      "text": "[SPEAKER_01]: impacting other sales channels in your business for example even with YouTube showing a 0.8x"
+    },
+    {
+      "start": 1090.96,
+      "end": 1096.06,
+      "text": "[SPEAKER_01]: row as in platform do you understand the impact that it has on driving sales and target or Amazon"
+    },
+    {
+      "start": 1096.06,
+      "end": 1100.86,
+      "text": "[SPEAKER_01]: chances are unless you have an incrementality practice in place it's hard to understand the impact"
+    },
+    {
+      "start": 1100.86,
+      "end": 1106.34,
+      "text": "[SPEAKER_01]: of your add dollars at a true incremental view meaning you know that even though the YouTube might show"
+    },
+    {
+      "start": 1106.34,
+      "end": 1112.98,
+      "text": "[SPEAKER_01]: a 0.8x row as it's driving incremental sales to target an Amazon and therefore YouTube has a true"
+    },
+    {
+      "start": 1112.98,
+      "end": 1119.28,
+      "text": "[SPEAKER_01]: incremental row as of 2.2x recently with one of my favorite brands in box house ran a test"
+    },
+    {
+      "start": 1119.28,
+      "end": 1124.44,
+      "text": "[SPEAKER_01]: and when they looked at snap ads it drove a 5% revenue lift on their DTC business however"
+    },
+    {
+      "start": 1124.44,
+      "end": 1129.9,
+      "text": "[SPEAKER_01]: when they ran an incrementality experiment isolating a control and exposed group to the snap ads"
+    },
+    {
+      "start": 1129.9,
+      "end": 1136.54,
+      "text": "[SPEAKER_01]: they saw that snap delivered an 11% lift on Walmart sales and an additional 5% lift with Amazon sales"
+    },
+    {
+      "start": 1136.54,
+      "end": 1141.22,
+      "text": "[SPEAKER_01]: experiments like this are so necessary when you have more than two channels of marketing or two"
+    },
+    {
+      "start": 1141.22,
+      "end": 1146.5,
+      "text": "[SPEAKER_01]: channels of sales and distribution in platform reporting over reports itself because they look for correlation"
+    },
+    {
+      "start": 1146.5,
+      "end": 1152.88,
+      "text": "[SPEAKER_01]: not causation this specific case study or use case alone is why recommend you get a demo of house"
+    },
+    {
+      "start": 1152.88,
+      "end": 1158.18,
+      "text": "[SPEAKER_01]: house is a self service automated easy to set up incrementality and experimentation platform"
+    },
+    {
+      "start": 1158.18,
+      "end": 1163.24,
+      "text": "[SPEAKER_01]: it's built by the best scientists and economists and is trusted by leading brands to understand a"
+    },
+    {
+      "start": 1163.24,
+      "end": 1168.54,
+      "text": "[SPEAKER_01]: marketing channels true impact if you're a 7 figure or larger omnichannel business I highly"
+    },
+    {
+      "start": 1168.54,
+      "end": 1173.54,
+      "text": "[SPEAKER_01]: recommend you spend 15 minutes check out a platform demo of house it blew my mind when I first saw"
+    },
+    {
+      "start": 1173.54,
+      "end": 1178.52,
+      "text": "[SPEAKER_01]: how easy it was to set up the experiments and I'm sure it's going to do the same for you go to house.io"
+    },
+    {
+      "start": 1178.52,
+      "end": 1188.1,
+      "text": "[SPEAKER_01]: slash limited to learn more that's HAUS dot IO slash limited to learn more okay moving on to add"
+    },
+    {
+      "start": 1188.1,
+      "end": 1191.78,
+      "text": "[SPEAKER_01]: campaigns so for new products you want to make sure that you have add creative that's ready to go"
+    },
+    {
+      "start": 1191.78,
+      "end": 1196.52,
+      "text": "[SPEAKER_01]: and you want to make sure that you have it set for three kind of audiences of people one is your"
+    },
+    {
+      "start": 1196.52,
+      "end": 1201.04,
+      "text": "[SPEAKER_01]: prospecting so you know think about the ads that are going out maybe it's an ASC campaign"
+    },
+    {
+      "start": 1201.04,
+      "end": 1207.8,
+      "text": "[SPEAKER_01]: with 0% customer overlap so 100% net new customers right that's your prospecting you want to make"
+    },
+    {
+      "start": 1207.8,
+      "end": 1211.58,
+      "text": "[SPEAKER_01]: sure that the ads that are there are speaking to people who've maybe never heard of this product"
+    },
+    {
+      "start": 1211.58,
+      "end": 1217.36,
+      "text": "[SPEAKER_01]: or your brand before you want to have a retargeting set of creative that you can also leverage"
+    },
+    {
+      "start": 1217.36,
+      "end": 1222.54,
+      "text": "[SPEAKER_01]: again this this really works if your brand is already big enough so if you're spending a good"
+    },
+    {
+      "start": 1222.54,
+      "end": 1228.02,
+      "text": "[SPEAKER_01]: amount let's say over you know half a million dollars a month on meta then I you probably have"
+    },
+    {
+      "start": 1228.02,
+      "end": 1233.34,
+      "text": "[SPEAKER_01]: a separate retargeting campaign versus just putting everything into a you know prospecting campaign"
+    },
+    {
+      "start": 1233.34,
+      "end": 1239,
+      "text": "[SPEAKER_01]: that also kind of retargets a little bit the third bucket is your past purchasers so your"
+    },
+    {
+      "start": 1239,
+      "end": 1244.24,
+      "text": "[SPEAKER_01]: remarketing campaign as I call it I know remarketing is not necessarily the word that people use any"
+    },
+    {
+      "start": 1244.24,
+      "end": 1249.46,
+      "text": "[SPEAKER_01]: more I'm not sure why but when I started in D to C about seven years ago it was always prospecting"
+    },
+    {
+      "start": 1249.46,
+      "end": 1253.94,
+      "text": "[SPEAKER_01]: retargeting remarketing prospecting is people who have a purchase retargeting is those who haven't"
+    },
+    {
+      "start": 1253.94,
+      "end": 1257.94,
+      "text": "[SPEAKER_01]: purchased but know who you are they may be engaged with you through your email list through your"
+    },
+    {
+      "start": 1257.94,
+      "end": 1261.8,
+      "text": "[SPEAKER_01]: website through social but you do you have some record that they've engaged with you and then"
+    },
+    {
+      "start": 1261.8,
+      "end": 1267.12,
+      "text": "[SPEAKER_01]: remarketing is people who have made at least one purchase and those are obviously your most likely"
+    },
+    {
+      "start": 1267.12,
+      "end": 1272.84,
+      "text": "[SPEAKER_01]: to buy people again now with product launches you want to make sure that they add specifically"
+    },
+    {
+      "start": 1273.58,
+      "end": 1278.6,
+      "text": "[SPEAKER_01]: the new product or the fact that it is a new product it shows the product in use and it"
+    },
+    {
+      "start": 1278.6,
+      "end": 1283.28,
+      "text": "[SPEAKER_01]: directly addresses all the benefits you really just have to earn the click to the site you don't"
+    },
+    {
+      "start": 1283.28,
+      "end": 1287.54,
+      "text": "[SPEAKER_01]: have to fully sell the product right let your product page or the landing page you're going to do"
+    },
+    {
+      "start": 1287.54,
+      "end": 1294.5,
+      "text": "[SPEAKER_01]: that and in that too as you're creating this kind of paid media funnel around new product you"
+    },
+    {
+      "start": 1294.5,
+      "end": 1300.1,
+      "text": "[SPEAKER_01]: still want to focus on five main things one is the angle so what is what is kind of the thing"
+    },
+    {
+      "start": 1300.1,
+      "end": 1304.7,
+      "text": "[SPEAKER_01]: that's going to get your foot in the door and allow you to say what you're trying to say"
+    },
+    {
+      "start": 1304.7,
+      "end": 1309.12,
+      "text": "[SPEAKER_01]: the second one is the audience your targeting so right so in this case let's just call it"
+    },
+    {
+      "start": 1309.12,
+      "end": 1314.56,
+      "text": "[SPEAKER_01]: prospecting retargeting or remarketing the third is the creative so what does that look like whether"
+    },
+    {
+      "start": 1314.56,
+      "end": 1320.6,
+      "text": "[SPEAKER_01]: it's a static ad whether it's an animation whether it's a video whether it's you as the founder"
+    },
+    {
+      "start": 1320.6,
+      "end": 1324.88,
+      "text": "[SPEAKER_01]: jumping on you know recording a video with your iPhone adding subtitles and putting it up"
+    },
+    {
+      "start": 1324.88,
+      "end": 1329.18,
+      "text": "[SPEAKER_01]: but the creative the fourth is the experience so where are you driving them to on the site"
+    },
+    {
+      "start": 1329.18,
+      "end": 1334.46,
+      "text": "[SPEAKER_01]: and what sort of information are they getting there and the last one is the offer so new product"
+    },
+    {
+      "start": 1334.46,
+      "end": 1338.34,
+      "text": "[SPEAKER_01]: we're trying to get new customers in the door how are we going to do it in a way that is"
+    },
+    {
+      "start": 1338.34,
+      "end": 1344.74,
+      "text": "[SPEAKER_01]: fiscally compelling to your prospect so angle audience creative experience offer"
+    },
+    {
+      "start": 1345.34,
+      "end": 1351.26,
+      "text": "[SPEAKER_01]: i don't have an easy acronym for that but uh it sounds like um yeah those five things are"
+    },
+    {
+      "start": 1351.26,
+      "end": 1355.26,
+      "text": "[SPEAKER_01]: are easy to remember so anyways those are the things you want to focus on in the ad campaigns"
+    },
+    {
+      "start": 1356.04,
+      "end": 1361.04,
+      "text": "[SPEAKER_01]: you know sometimes with new products you kind of just have to get crafty so that might mean testing"
+    },
+    {
+      "start": 1361.04,
+      "end": 1365.4,
+      "text": "[SPEAKER_01]: new audiences whether it's interest-based groups or just different variations of look alike"
+    },
+    {
+      "start": 1365.4,
+      "end": 1370.84,
+      "text": "[SPEAKER_01]: you also want to test retest some of your creative thinking so if you know that for example you know"
+    },
+    {
+      "start": 1370.84,
+      "end": 1375.7,
+      "text": "[SPEAKER_01]: UGC has historically not performed well well now that there's a new product i would retest that"
+    },
+    {
+      "start": 1375.7,
+      "end": 1380.92,
+      "text": "[SPEAKER_01]: or if you know that you know listicle style landing pages historically haven't performed well"
+    },
+    {
+      "start": 1380.92,
+      "end": 1386.08,
+      "text": "[SPEAKER_01]: well new product i would retest that in fact one thing i would just definitely do is whenever you"
+    },
+    {
+      "start": 1386.08,
+      "end": 1391.14,
+      "text": "[SPEAKER_01]: launch a new product if you find that education is sort of the barrier for people to buy the product"
+    },
+    {
+      "start": 1391.14,
+      "end": 1397.04,
+      "text": "[SPEAKER_01]: i would definitely explore things like listicles and ad tutorials which i know we've talked about"
+    },
+    {
+      "start": 1397.04,
+      "end": 1402.6,
+      "text": "[SPEAKER_01]: in a past episode uh i think there's actually an episode called the Tactical 4 player Tactical trio"
+    },
+    {
+      "start": 1403.22,
+      "end": 1407.28,
+      "text": "[SPEAKER_01]: from a few episodes ago i'd go listen to that it kind of just breaks down how you can do that"
+    },
+    {
+      "start": 1407.28,
+      "end": 1412.24,
+      "text": "[SPEAKER_01]: step by step but it's a great way to take people and again if we go back to the concept of you just"
+    },
+    {
+      "start": 1412.24,
+      "end": 1417,
+      "text": "[SPEAKER_01]: have to earn the click right then our creative can just focus on earning the click and then that"
+    },
+    {
+      "start": 1417,
+      "end": 1422.44,
+      "text": "[SPEAKER_01]: listicle or that ad tutorial will focus on building intent and then the product page or the landing"
+    },
+    {
+      "start": 1422.44,
+      "end": 1427.56,
+      "text": "[SPEAKER_01]: page that people go to after that where they're going to buy the product and there's an offer there"
+    },
+    {
+      "start": 1427.56,
+      "end": 1435.14,
+      "text": "[SPEAKER_01]: is going to actually sell the product so hopefully that makes sense now onto email and SMS with email"
+    },
+    {
+      "start": 1435.14,
+      "end": 1441.34,
+      "text": "[SPEAKER_01]: and SMS you you know these lists are yours right this is first party data and this is your first"
+    },
+    {
+      "start": 1441.34,
+      "end": 1447.04,
+      "text": "[SPEAKER_01]: opportunity to generate awareness and revenue with your product launch so my recommendation is that"
+    },
+    {
+      "start": 1447.04,
+      "end": 1453.12,
+      "text": "[SPEAKER_01]: you entice your best customer to purchase early maybe your top 5% or your top 10% and then for"
+    },
+    {
+      "start": 1453.12,
+      "end": 1458.5,
+      "text": "[SPEAKER_01]: the rest of them send them a teaser it might be like a blurry product image over email or text"
+    },
+    {
+      "start": 1458.5,
+      "end": 1464.28,
+      "text": "[SPEAKER_01]: that gets people excited to sign up for a notification um it could be you know a review that you're"
+    },
+    {
+      "start": 1464.28,
+      "end": 1469.2,
+      "text": "[SPEAKER_01]: not showing the product it could be a video of the founder of the company going on and just explaining"
+    },
+    {
+      "start": 1469.2,
+      "end": 1473.84,
+      "text": "[SPEAKER_01]: you know how excited they are about what's to launch or kind of showing behind the scenes of"
+    },
+    {
+      "start": 1473.84,
+      "end": 1478.62,
+      "text": "[SPEAKER_01]: creating the product let me does a really good job of this where they will show imagery of the"
+    },
+    {
+      "start": 1478.62,
+      "end": 1484.86,
+      "text": "[SPEAKER_01]: gummies or the capsules or the tincture but they won't exactly tell you what it is for or what"
+    },
+    {
+      "start": 1484.86,
+      "end": 1491.06,
+      "text": "[SPEAKER_01]: purpose it serves but their excitement overall gets everybody excited and the excitement that people see"
+    },
+    {
+      "start": 1491.06,
+      "end": 1495.52,
+      "text": "[SPEAKER_01]: from other people gets them excited it's kind of this ripple effect of excitement which is what"
+    },
+    {
+      "start": 1495.52,
+      "end": 1500.86,
+      "text": "[SPEAKER_01]: drives social engagement and obviously awareness for the product so I would definitely try to do that"
+    },
+    {
+      "start": 1500.86,
+      "end": 1506.26,
+      "text": "[SPEAKER_01]: I think it gets a lot of people excited the other thing I mentioned was like the text to get an"
+    },
+    {
+      "start": 1506.26,
+      "end": 1511.76,
+      "text": "[SPEAKER_01]: opt-in for a notification so sniff which is a candle brand fragrance and candle brand I love getting"
+    },
+    {
+      "start": 1511.76,
+      "end": 1516.26,
+      "text": "[SPEAKER_01]: their text they'll say hey we have this new product it launches on this day click this link to be"
+    },
+    {
+      "start": 1516.26,
+      "end": 1521.42,
+      "text": "[SPEAKER_01]: first to know when it launches and that obviously gets me excited because you know I want to go"
+    },
+    {
+      "start": 1521.42,
+      "end": 1525.84,
+      "text": "[SPEAKER_01]: support but also I love their products so I want to make sure I know that they sell out"
+    },
+    {
+      "start": 1526.62,
+      "end": 1531.36,
+      "text": "[SPEAKER_01]: within a couple hours of the going live so I want to make sure that I'm in there and this is also"
+    },
+    {
+      "start": 1531.36,
+      "end": 1536.68,
+      "text": "[SPEAKER_01]: a good thing as a practice to do because you kind of want your audience to understand that all right"
+    },
+    {
+      "start": 1536.68,
+      "end": 1541.4,
+      "text": "[SPEAKER_01]: this product sells that you know this brand always sells out of their products as soon as they go live"
+    },
+    {
+      "start": 1541.4,
+      "end": 1547.78,
+      "text": "[SPEAKER_01]: and it gets a lot of people excited about the wait list it gets you to kind of play this drop strategy"
+    },
+    {
+      "start": 1547.78,
+      "end": 1552.12,
+      "text": "[SPEAKER_01]: this is something we've done a lot with the skinny confidential where you know when we launched"
+    },
+    {
+      "start": 1552.12,
+      "end": 1556.74,
+      "text": "[SPEAKER_01]: mouth tape we had it it was basically a pent-up demand we had a bunch of people who were really"
+    },
+    {
+      "start": 1556.74,
+      "end": 1561.32,
+      "text": "[SPEAKER_01]: excited for the drop sold out within I don't know less than an hour then the next time the"
+    },
+    {
+      "start": 1561.32,
+      "end": 1567.56,
+      "text": "[SPEAKER_01]: restock was here we already had that list ready to go of people again dropped it sold out and now"
+    },
+    {
+      "start": 1567.56,
+      "end": 1571.24,
+      "text": "[SPEAKER_01]: I think we're much better from an inventory standpoint but also that was the game right we"
+    },
+    {
+      "start": 1571.24,
+      "end": 1575.6,
+      "text": "[SPEAKER_01]: wanted to drive that hype that excitement we want people talking about it you kind of want some"
+    },
+    {
+      "start": 1575.6,
+      "end": 1580.76,
+      "text": "[SPEAKER_01]: people to not get it because that drives again more engagement and more talking more chatter etc"
+    },
+    {
+      "start": 1581.36,
+      "end": 1586.66,
+      "text": "[SPEAKER_01]: back to the email stuff once the product does go live I'm personally a fan of sending at"
+    },
+    {
+      "start": 1586.66,
+      "end": 1590.9,
+      "text": "[SPEAKER_01]: least an email per day for the first three days you want to obviously make sure you exclude past"
+    },
+    {
+      "start": 1590.9,
+      "end": 1595.48,
+      "text": "[SPEAKER_01]: purchasers you could even exclude like past clickers right so you're not bugging them"
+    },
+    {
+      "start": 1596.04,
+      "end": 1601.48,
+      "text": "[SPEAKER_01]: if you're best customers out of VIP discount or an early bird special and make sure that"
+    },
+    {
+      "start": 1601.48,
+      "end": 1606.68,
+      "text": "[SPEAKER_01]: that discount is auto applied don't send any mail to your VIP customers with a discount code"
+    },
+    {
+      "start": 1606.68,
+      "end": 1611.72,
+      "text": "[SPEAKER_01]: and have them have to put the code in you should definitely tell them the code let's say it's like"
+    },
+    {
+      "start": 1612.12,
+      "end": 1618.32,
+      "text": "[SPEAKER_01]: you know I'm just I see this madador energy shot next to me so let's say you're sending a"
+    },
+    {
+      "start": 1618.32,
+      "end": 1623.82,
+      "text": "[SPEAKER_01]: madador email out you know there's a new flavor of the new energy shot and you say you know VIP"
+    },
+    {
+      "start": 1623.82,
+      "end": 1629.8,
+      "text": "[SPEAKER_01]: 20 is the coupon code for everybody who you know has all our top customers now if I click that"
+    },
+    {
+      "start": 1629.8,
+      "end": 1634.88,
+      "text": "[SPEAKER_01]: and I go to the site and I miss putting in the code VIP 20 but I check out there's going to be a lot"
+    },
+    {
+      "start": 1634.88,
+      "end": 1640.26,
+      "text": "[SPEAKER_01]: of people who do that and that's gonna drive customer service increase up but if you have the URL where"
+    },
+    {
+      "start": 1641.02,
+      "end": 1647.74,
+      "text": "[SPEAKER_01]: it's got a link to the PDP but it includes the redirect the Shopify redirect code for adding the"
+    },
+    {
+      "start": 1647.74,
+      "end": 1653.04,
+      "text": "[SPEAKER_01]: promo code in there if you don't know how to do that just Google promo code or actually I'll just"
+    },
+    {
+      "start": 1653.04,
+      "end": 1658.64,
+      "text": "[SPEAKER_01]: go to nick.co slash Shopify promo code or I'll just make a note to write that up later"
+    },
+    {
+      "start": 1659.84,
+      "end": 1664.58,
+      "text": "[SPEAKER_01]: shop if I promo code if you go there I'll have the instructions on how to do it both if you're"
+    },
+    {
+      "start": 1664.58,
+      "end": 1668.8,
+      "text": "[SPEAKER_01]: going to drop it into checkout or if you're going to send somebody to a product page but you want to"
+    },
+    {
+      "start": 1668.8,
+      "end": 1674.68,
+      "text": "[SPEAKER_01]: make sure that as best as your can right you're putting all your customers on this red carpet especially"
+    },
+    {
+      "start": 1674.68,
+      "end": 1679.98,
+      "text": "[SPEAKER_01]: your best ones and that's why you want to make sure you include that code there is a software"
+    },
+    {
+      "start": 1679.98,
+      "end": 1685.64,
+      "text": "[SPEAKER_01]: that I just recently became aware of called because and I want to say their domain is something"
+    },
+    {
+      "start": 1685.64,
+      "end": 1690.62,
+      "text": "[SPEAKER_01]: like trybecuzz.com and they can actually do stuff very similar to what I'm talking about where"
+    },
+    {
+      "start": 1690.62,
+      "end": 1695.5,
+      "text": "[SPEAKER_01]: based on the clicks that you get from email you can actually create this kind of custom"
+    },
+    {
+      "start": 1695.5,
+      "end": 1701.66,
+      "text": "[SPEAKER_01]: experience whether it's through notification banners or announcement bars things like that but anyways"
+    },
+    {
+      "start": 1701.66,
+      "end": 1706.34,
+      "text": "[SPEAKER_01]: bar none you want to make sure for your best customers you add a VIP discount of early bird special"
+    },
+    {
+      "start": 1706.34,
+      "end": 1712.6,
+      "text": "[SPEAKER_01]: same thing goes for SMS and I would really only send subsequent SMS messages if there's engagement"
+    },
+    {
+      "start": 1712.6,
+      "end": 1718.3,
+      "text": "[SPEAKER_01]: like have they click the link or have they added something to card have they engage with the site"
+    },
+    {
+      "start": 1718.3,
+      "end": 1722.7,
+      "text": "[SPEAKER_01]: otherwise I wouldn't bother them again on SMS because obviously the opt-in rate is really high"
+    },
+    {
+      "start": 1724.16,
+      "end": 1729.1,
+      "text": "[SPEAKER_01]: okay so now you've launched your product and one thing you want to make sure you have in your pocket"
+    },
+    {
+      "start": 1729.1,
+      "end": 1735.4,
+      "text": "[SPEAKER_01]: ready to go is a very similar email to what you sent the first time but have it be kind of a sold-out"
+    },
+    {
+      "start": 1735.4,
+      "end": 1741.92,
+      "text": "[SPEAKER_01]: message so you know thanks so much for your support we completely sold out here is where you can put"
+    },
+    {
+      "start": 1741.92,
+      "end": 1746.9,
+      "text": "[SPEAKER_01]: your phone number in or your email to be notified when we're back in stock and you know it should"
+    },
+    {
+      "start": 1746.9,
+      "end": 1752.08,
+      "text": "[SPEAKER_01]: be something like sign up to be notified basically the messaging should be kind of urgent right"
+    },
+    {
+      "start": 1752.08,
+      "end": 1757.34,
+      "text": "[SPEAKER_01]: sign up now be the first to know and that way don't miss it again and then as soon as that product"
+    },
+    {
+      "start": 1757.34,
+      "end": 1762.86,
+      "text": "[SPEAKER_01]: is back in stock use again email and SMS to notify those people and of course encourage that you"
+    },
+    {
+      "start": 1763.34,
+      "end": 1768.5,
+      "text": "[SPEAKER_01]: all your the second time you restarco product onwards you want to make sure that you message hey"
+    },
+    {
+      "start": 1768.5,
+      "end": 1773.5,
+      "text": "[SPEAKER_01]: the sold-out in 30 minutes don't forget even from an advertorial standpoint actually"
+    },
+    {
+      "start": 1774.34,
+      "end": 1779.88,
+      "text": "[SPEAKER_01]: one learning that I have that I would apply everywhere is anytime you mentioned that something has"
+    },
+    {
+      "start": 1779.88,
+      "end": 1785.8,
+      "text": "[SPEAKER_01]: sold out before the conversion rate of that goes way up so if in your email you mentioned this is sold out"
+    },
+    {
+      "start": 1785.8,
+      "end": 1790.52,
+      "text": "[SPEAKER_01]: before you got to get it now I bet your conversion rate and click through rates going to be significantly higher"
+    },
+    {
+      "start": 1790.52,
+      "end": 1796.92,
+      "text": "[SPEAKER_01]: okay so now moving on to organic social so regardless of how small or large your brand is"
+    },
+    {
+      "start": 1796.92,
+      "end": 1801.68,
+      "text": "[SPEAKER_01]: if you have a new product the first place most people are going to go to check is going to be your social"
+    },
+    {
+      "start": 1801.68,
+      "end": 1806.36,
+      "text": "[SPEAKER_01]: channels it could be super hard to remember the exact domains so naturally people especially"
+    },
+    {
+      "start": 1806.36,
+      "end": 1813.68,
+      "text": "[SPEAKER_01]: younger people call it under 35 sorry to everybody over 35 please don't hate me but people are"
+    },
+    {
+      "start": 1813.68,
+      "end": 1818.2,
+      "text": "[SPEAKER_01]: going to naturally search instagram or tectoc which is why you need to think of these platforms on their"
+    },
+    {
+      "start": 1818.2,
+      "end": 1823.5,
+      "text": "[SPEAKER_01]: own as their own funnels right you've definitely heard me talk about how with instagram you want to"
+    },
+    {
+      "start": 1823.5,
+      "end": 1829.1,
+      "text": "[SPEAKER_01]: make sure you've got the highlights with tectoc you know tectoc is very clearly becoming a major"
+    },
+    {
+      "start": 1829.1,
+      "end": 1834.52,
+      "text": "[SPEAKER_01]: player in the search engine world of things so you want to make sure that you have product reviews"
+    },
+    {
+      "start": 1834.52,
+      "end": 1841.92,
+      "text": "[SPEAKER_01]: you have pin post to your own tectoc profile same with instagram you've got the you know an updated"
+    },
+    {
+      "start": 1841.92,
+      "end": 1846.04,
+      "text": "[SPEAKER_01]: bio maybe you addressed the new product in the bio whatever it is you want to make sure you're thinking"
+    },
+    {
+      "start": 1846.04,
+      "end": 1852.72,
+      "text": "[SPEAKER_01]: of these as funnels so I know you know my personal standard would be like highlights reviews making"
+    },
+    {
+      "start": 1852.72,
+      "end": 1858.28,
+      "text": "[SPEAKER_01]: sure both of those are updated on your profile page it would be to make sure from a seating standpoint"
+    },
+    {
+      "start": 1858.28,
+      "end": 1865.59,
+      "text": "[SPEAKER_01]: that you know if I were to search um madador uh blue raspberry that there should be you know at least"
+    },
+    {
+      "start": 1866.46,
+      "end": 1873.98,
+      "text": "[SPEAKER_01]: 15 to 30 tectoc product reviews that have already been posted by other people i think also on instagram"
+    },
+    {
+      "start": 1873.98,
+      "end": 1878.64,
+      "text": "[SPEAKER_01]: you want to make sure you've got enough information maybe it's like you pin three posts at the top"
+    },
+    {
+      "start": 1878.64,
+      "end": 1883.06,
+      "text": "[SPEAKER_01]: or you at least pin you know the first one and that sort of goes into more product detail maybe"
+    },
+    {
+      "start": 1883.06,
+      "end": 1887.88,
+      "text": "[SPEAKER_01]: it's a carousel with the product image and that's what's featured on your grid when you pin it but"
+    },
+    {
+      "start": 1887.88,
+      "end": 1894.66,
+      "text": "[SPEAKER_01]: then all the other you know 19 posts after that yes that is correct 19 instagram now allows for 20 slides"
+    },
+    {
+      "start": 1894.66,
+      "end": 1901.24,
+      "text": "[SPEAKER_01]: all the rest of the 19 is a compilation of you know a comparison chart ingredients benefits"
+    },
+    {
+      "start": 1902.04,
+      "end": 1907,
+      "text": "[SPEAKER_01]: you know reviews all that kind of stuff so i'm a huge fan of making sure that your organic"
+    },
+    {
+      "start": 1907,
+      "end": 1912,
+      "text": "[SPEAKER_01]: social is super optimized i think the biggest miss that i see actually even on black Friday"
+    },
+    {
+      "start": 1912,
+      "end": 1917.08,
+      "text": "[SPEAKER_01]: is when brands have a big sale and they don't run it on organic social and i'm not really sure"
+    },
+    {
+      "start": 1917.08,
+      "end": 1923.1,
+      "text": "[SPEAKER_01]: why you know organic social is not really a place to be romantic about your your feed or your grid"
+    },
+    {
+      "start": 1923.1,
+      "end": 1928.38,
+      "text": "[SPEAKER_01]: anymore um or your profile it's really a place to just pump out as much content as possible"
+    },
+    {
+      "start": 1928.38,
+      "end": 1933.64,
+      "text": "[SPEAKER_01]: and see what sticks so i would put it out see what sticks and you know you can archive the"
+    },
+    {
+      "start": 1933.64,
+      "end": 1939,
+      "text": "[SPEAKER_01]: stuff that doesn't do well but um there's a very good chance that if you're romantic about"
+    },
+    {
+      "start": 1939,
+      "end": 1943.32,
+      "text": "[SPEAKER_01]: what goes on your social channel you're just missing out on you know hundreds of thousands"
+    },
+    {
+      "start": 1943.32,
+      "end": 1949.34,
+      "text": "[SPEAKER_01]: of impressions because you're not you're not open to trying stuff okay last thing i'll say is when"
+    },
+    {
+      "start": 1949.34,
+      "end": 1954.66,
+      "text": "[SPEAKER_01]: you have that new launch be super loud on organic with that you know like i said make those three"
+    },
+    {
+      "start": 1954.66,
+      "end": 1959.48,
+      "text": "[SPEAKER_01]: pin posts add a highlight on the profile and talk through the product unbox it you know"
+    },
+    {
+      "start": 1959.48,
+      "end": 1963.2,
+      "text": "[SPEAKER_01]: talk through its benefits what makes it different why it's such a big deal it should really feel"
+    },
+    {
+      "start": 1963.2,
+      "end": 1968.34,
+      "text": "[SPEAKER_01]: like you're walking somebody through like a qvc style shopping experience and um should leave"
+    },
+    {
+      "start": 1968.34,
+      "end": 1975.08,
+      "text": "[SPEAKER_01]: them with really no questions so those are the things that i would say are my must-have on my must-have"
+    },
+    {
+      "start": 1975.08,
+      "end": 1981.98,
+      "text": "[SPEAKER_01]: checklist uh today's episode was definitely inspired by both lemme and um david launching new"
+    },
+    {
+      "start": 1981.98,
+      "end": 1988.1,
+      "text": "[SPEAKER_01]: products today check them both out see what you think and um i hope that you know at least one of"
+    },
+    {
+      "start": 1988.1,
+      "end": 1993.42,
+      "text": "[SPEAKER_01]: these nuggets in here is gonna help you build a better website better ads better emails or or get"
+    },
+    {
+      "start": 1993.42,
+      "end": 1999.24,
+      "text": "[SPEAKER_01]: better organic social strategy uh if there's anything you think i missed definitely shoot me a note"
+    },
+    {
+      "start": 1999.24,
+      "end": 2004.04,
+      "text": "[SPEAKER_01]: um again my emails and at sharmad.com i love all the people that have been emailing me"
+    },
+    {
+      "start": 2004.52,
+      "end": 2010.22,
+      "text": "[SPEAKER_01]: thank you for sending those emails i've been trying to respond to as many as i can and um i'll see you next"
+    },
+    {
+      "start": 2010.22,
+      "end": 2010.6,
+      "text": "[SPEAKER_01]: week."
+    },
+    {
+      "start": 2011.68,
+      "end": 2016.08,
+      "text": "[SPEAKER_00]: thanks for listening we'll be back next time to cut through the noise on cpg, retail and e-commerce"
+    },
+    {
+      "start": 2016.08,
+      "end": 2020.78,
+      "text": "[SPEAKER_00]: if you enjoyed this episode why not share it with a friend and be sure to subscribe wherever you"
+    },
+    {
+      "start": 2020.78,
+      "end": 2022.14,
+      "text": "[SPEAKER_00]: listen so don't miss the next one"
+    }
+  ]
+}

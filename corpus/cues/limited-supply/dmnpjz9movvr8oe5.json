@@ -1,0 +1,4579 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 30,
+      "text": " Are investors good for one thing? Was it money? Was YC right about that? Or were they right early on and not later? I think it's a very smart overgeneralization for them to say. There are bad investors who get in your way, who slow things down, who fight back, who try to micromanage the business. Then there are solid ones, a lower number of solid ones who stay out of your way, who give you money, who are supportive if you ask. And then there's a small number who are proactively trying to create value for the business, also staying out of your way."
+    },
+    {
+      "start": 30,
+      "end": 45,
+      "text": " All those things are to be expected, and I think YC is trying to orient these early stage founders to just get back to work, to not try to spend months fundraising because that isn't growing your business. So I think it's an overgeneralization but probably wise at that stage."
+    },
+    {
+      "start": 46,
+      "end": 51,
+      "text": " This is Limited Supply, the place for refreshingly real takes on what D2C is really like."
+    },
+    {
+      "start": 52,
+      "end": 55,
+      "text": " Where your host, Nick and Moiz? Let's start talking about money!"
+    },
+    {
+      "start": 56,
+      "end": 62,
+      "text": " Hey Moiz, a couple weeks ago I saw this company ProMix launch the protein-packed Rice KrispyTreat. I don't know if you've heard of them."
+    },
+    {
+      "start": 63,
+      "end": 75,
+      "text": " But the coolest part was after I purchased I immediately got an email from PostScript Cashback and it gave me $15 of cash that I could redeem on my next purchase which I used as soon as my first box of bars ran out. Have you seen this before?"
+    },
+    {
+      "start": 76,
+      "end": 80,
+      "text": " Yeah, it's PostScript Cashback, it's a new product for them, it's amazing."
+    },
+    {
+      "start": 80,
+      "end": 91,
+      "text": " PostScript is really known for SMS but this Cashback product actually increases email and SMS signups by 31%. It increases contribution by margin by 5%, it's going to be huge for PostScript."
+    },
+    {
+      "start": 92,
+      "end": 100,
+      "text": " That's amazing, if you want to see a demo and see how the product works, visit PostScript.io-limited. That's PostScript.io-limited."
+    },
+    {
+      "start": 101,
+      "end": 106,
+      "text": " Alex, this is the first podcast I'm doing without Nick, so I'm excited. This is going to be the best one as a result."
+    },
+    {
+      "start": 106,
+      "end": 107,
+      "text": " We're going to show him up."
+    },
+    {
+      "start": 107,
+      "end": 118,
+      "text": " Appreciate you being here. You are one of the co-founders and the president of PostScript. I want to start by telling everyone, I invested in PostScript and with you guys."
+    },
+    {
+      "start": 119,
+      "end": 124,
+      "text": " We were just talking before we started recording that we did that in March 2019 so it's been five years."
+    },
+    {
+      "start": 125,
+      "end": 134,
+      "text": " Early days, right? Before you found us, your brother found us about a week before we graduated from my commonator. So a week before a demo day."
+    },
+    {
+      "start": 134,
+      "end": 141,
+      "text": " Wow, okay. I think actually the person who put us or who put you on our radar was Sean Perry."
+    },
+    {
+      "start": 142,
+      "end": 153,
+      "text": " Who is like, hey, you guys are in e-commerce. There's someone who's doing text messaging and you said that we won't go, like you said you were doing about 1.5 million ARR back then."
+    },
+    {
+      "start": 154,
+      "end": 157,
+      "text": " How are you doing so much ARR coming out of YC?"
+    },
+    {
+      "start": 158,
+      "end": 160,
+      "text": " Very strong product market fit very early."
+    },
+    {
+      "start": 160,
+      "end": 168,
+      "text": " You know, when you guys launched, there were like two and a half years or three years of what's going to be the inciliatory product to email."
+    },
+    {
+      "start": 169,
+      "end": 174,
+      "text": " And for a long time people thought it would be Facebook Messenger and everyone had all these Facebook Messenger bots called like ManyChat."
+    },
+    {
+      "start": 175,
+      "end": 178,
+      "text": " And people were hoping that text message would also exist."
+    },
+    {
+      "start": 179,
+      "end": 181,
+      "text": " It would be a lot cheaper than it is. Let me tell you that."
+    },
+    {
+      "start": 182,
+      "end": 185,
+      "text": " And you guys were really one of the pioneers of that text messaging for e-commerce."
+    },
+    {
+      "start": 185,
+      "end": 190,
+      "text": " Okay. Anyway, why do you tell everyone a little bit about your background and how you started post-script?"
+    },
+    {
+      "start": 191,
+      "end": 194,
+      "text": " Sure. So before post-script I was working in e-commerce."
+    },
+    {
+      "start": 195,
+      "end": 196,
+      "text": " Yeah."
+    },
+    {
+      "start": 196,
+      "end": 199,
+      "text": " On the brand side of things I was working at a company in LA called StackCommerce."
+    },
+    {
+      "start": 200,
+      "end": 202,
+      "text": " I met my co-founder Adam Turner there."
+    },
+    {
+      "start": 202,
+      "end": 205,
+      "text": " I was like an up and comeer on the partnerships and marketing side of things right."
+    },
+    {
+      "start": 206,
+      "end": 210,
+      "text": " I was spending my days in GA looking at different traffic and conversion sources optimizing."
+    },
+    {
+      "start": 210,
+      "end": 212,
+      "text": " They were like a flash sale website."
+    },
+    {
+      "start": 213,
+      "end": 217,
+      "text": " And I met Adam there and Adam was like an up and comeer on the data and product side of things."
+    },
+    {
+      "start": 218,
+      "end": 222,
+      "text": " And we became friends. We actually were enemies for like the first year."
+    },
+    {
+      "start": 223,
+      "end": 225,
+      "text": " We avoided each other. I think we were both a little threat and a intimidated."
+    },
+    {
+      "start": 226,
+      "end": 227,
+      "text": " It was just beautiful for your early 20s."
+    },
+    {
+      "start": 229,
+      "end": 234,
+      "text": " But then we went to lunch one day and we realized we had so much in common and became fast friends."
+    },
+    {
+      "start": 235,
+      "end": 237,
+      "text": " A couple years later I was leaving the business."
+    },
+    {
+      "start": 237,
+      "end": 239,
+      "text": " I'd been there a long time. We'd grown it a whole bunch."
+    },
+    {
+      "start": 240,
+      "end": 242,
+      "text": " What year is this? Give everyone a sense of what year it is."
+    },
+    {
+      "start": 243,
+      "end": 246,
+      "text": " So I dropped out of school in 2012."
+    },
+    {
+      "start": 247,
+      "end": 248,
+      "text": " I wanted to work on the internet."
+    },
+    {
+      "start": 249,
+      "end": 251,
+      "text": " I went to work at StackCommerce. I was there for six years."
+    },
+    {
+      "start": 253,
+      "end": 257,
+      "text": " And we went from like five people, super early stage startup"
+    },
+    {
+      "start": 258,
+      "end": 262,
+      "text": " in a small office on Venice boardwalk to about like 80 people."
+    },
+    {
+      "start": 263,
+      "end": 264,
+      "text": " We grew the business a whole bunch."
+    },
+    {
+      "start": 264,
+      "end": 267,
+      "text": " It was a flash shop business and it was an e-commerce business."
+    },
+    {
+      "start": 268,
+      "end": 270,
+      "text": " Early days, pre the Shopify boom."
+    },
+    {
+      "start": 271,
+      "end": 273,
+      "text": " It was on a homegrown website with a large in-house dev team."
+    },
+    {
+      "start": 274,
+      "end": 275,
+      "text": " Wow."
+    },
+    {
+      "start": 276,
+      "end": 277,
+      "text": " You know."
+    },
+    {
+      "start": 278,
+      "end": 280,
+      "text": " It was good and I learned all about how to optimize traffic sources."
+    },
+    {
+      "start": 281,
+      "end": 282,
+      "text": " And I learned about partnerships and how to sell."
+    },
+    {
+      "start": 284,
+      "end": 287,
+      "text": " It was a great early stage learning environment."
+    },
+    {
+      "start": 288,
+      "end": 291,
+      "text": " And so the three you Adam and a third person start post-crypt?"
+    },
+    {
+      "start": 292,
+      "end": 293,
+      "text": " Yes."
+    },
+    {
+      "start": 293,
+      "end": 295,
+      "text": " A third person is Adam's big brother, Colin."
+    },
+    {
+      "start": 296,
+      "end": 297,
+      "text": " Who I didn't know."
+    },
+    {
+      "start": 298,
+      "end": 300,
+      "text": " They had started and failed some companies before."
+    },
+    {
+      "start": 301,
+      "end": 303,
+      "text": " Just like classic early stage entrepreneurship."
+    },
+    {
+      "start": 304,
+      "end": 306,
+      "text": " They started a gaming company called Wiblets that had 100,000 users"
+    },
+    {
+      "start": 307,
+      "end": 308,
+      "text": " never made a penny shut down."
+    },
+    {
+      "start": 309,
+      "end": 310,
+      "text": " Great stuff."
+    },
+    {
+      "start": 311,
+      "end": 313,
+      "text": " And I'd started some little things that have failed or fizzled out"
+    },
+    {
+      "start": 314,
+      "end": 315,
+      "text": " and never gotten off the ground."
+    },
+    {
+      "start": 316,
+      "end": 318,
+      "text": " And as I was leaving StackCommerce because I wanted..."
+    },
+    {
+      "start": 319,
+      "end": 320,
+      "text": " I thought I wanted freedom."
+    },
+    {
+      "start": 320,
+      "end": 323,
+      "text": " I thought I wanted to like consult and play around and all that stuff."
+    },
+    {
+      "start": 324,
+      "end": 325,
+      "text": " So I was going to do that for a little while."
+    },
+    {
+      "start": 326,
+      "end": 327,
+      "text": " And he said, hey,"
+    },
+    {
+      "start": 328,
+      "end": 329,
+      "text": " you remember they were hacking on some ideas?"
+    },
+    {
+      "start": 330,
+      "end": 331,
+      "text": " You should take a look at one."
+    },
+    {
+      "start": 332,
+      "end": 333,
+      "text": " And so one of them was a Shopify app"
+    },
+    {
+      "start": 334,
+      "end": 336,
+      "text": " to let Shopify brands text their customers."
+    },
+    {
+      "start": 337,
+      "end": 338,
+      "text": " This was 2018."
+    },
+    {
+      "start": 339,
+      "end": 342,
+      "text": " And the inspiration was a friend of ours ran a lifestyle business on Shopify"
+    },
+    {
+      "start": 343,
+      "end": 345,
+      "text": " and he was complaining he didn't have a way to text his customers."
+    },
+    {
+      "start": 346,
+      "end": 347,
+      "text": " Very classic like customer complaining about a need."
+    },
+    {
+      "start": 348,
+      "end": 351,
+      "text": " And we were like, okay, that's interesting."
+    },
+    {
+      "start": 352,
+      "end": 354,
+      "text": " And they'd started writing a little code and I got involved"
+    },
+    {
+      "start": 355,
+      "end": 356,
+      "text": " and I started talking to customers."
+    },
+    {
+      "start": 357,
+      "end": 358,
+      "text": " And we all stayed full time at our other jobs."
+    },
+    {
+      "start": 359,
+      "end": 362,
+      "text": " But we launched a couple months later."
+    },
+    {
+      "start": 364,
+      "end": 367,
+      "text": " The first customer actually that came and found us before we launched"
+    },
+    {
+      "start": 368,
+      "end": 372,
+      "text": " was a bootleg Donald Trump thrift store."
+    },
+    {
+      "start": 373,
+      "end": 374,
+      "text": " Merch store."
+    },
+    {
+      "start": 374,
+      "end": 376,
+      "text": " They just like came and found us on the internet."
+    },
+    {
+      "start": 377,
+      "end": 378,
+      "text": " So this was."
+    },
+    {
+      "start": 379,
+      "end": 380,
+      "text": " They were selling mega hats."
+    },
+    {
+      "start": 381,
+      "end": 382,
+      "text": " Yes, yes."
+    },
+    {
+      "start": 383,
+      "end": 385,
+      "text": " And we launched and suddenly we had two paying customers"
+    },
+    {
+      "start": 386,
+      "end": 387,
+      "text": " and then four and then six and then eight."
+    },
+    {
+      "start": 388,
+      "end": 391,
+      "text": " And we applied to Y Combinator on a whim still working our full time other jobs."
+    },
+    {
+      "start": 392,
+      "end": 394,
+      "text": " Because we thought that this was going to be a small passive side business."
+    },
+    {
+      "start": 395,
+      "end": 397,
+      "text": " Because we didn't understand how big the Shopify market was at all."
+    },
+    {
+      "start": 398,
+      "end": 400,
+      "text": " And quickly we were just getting pull"
+    },
+    {
+      "start": 400,
+      "end": 403,
+      "text": " and suddenly we were making $2,000, $4,000 a month, $8,000 a month."
+    },
+    {
+      "start": 404,
+      "end": 405,
+      "text": " We applied to YC"
+    },
+    {
+      "start": 406,
+      "end": 410,
+      "text": " and I kept going into our application every weekend updating it with our new revenue numbers."
+    },
+    {
+      "start": 411,
+      "end": 412,
+      "text": " So they saw that it was growing every week."
+    },
+    {
+      "start": 413,
+      "end": 414,
+      "text": " Wow, okay."
+    },
+    {
+      "start": 415,
+      "end": 417,
+      "text": " And we were like nobody's in LA and Phoenix."
+    },
+    {
+      "start": 418,
+      "end": 419,
+      "text": " We had no connections."
+    },
+    {
+      "start": 420,
+      "end": 421,
+      "text": " We hadn't worked at Glamrs places but we got an interview."
+    },
+    {
+      "start": 422,
+      "end": 425,
+      "text": " We prepared the hell out of it and we went in and got a slot."
+    },
+    {
+      "start": 426,
+      "end": 429,
+      "text": " I'm always curious as to have like entrepreneurs doing eight responsibilities."
+    },
+    {
+      "start": 430,
+      "end": 432,
+      "text": " Sometimes it just happens by like magic."
+    },
+    {
+      "start": 433,
+      "end": 435,
+      "text": " I started doing this, I guess I owned this."
+    },
+    {
+      "start": 436,
+      "end": 439,
+      "text": " There's three of you, the other two are related."
+    },
+    {
+      "start": 440,
+      "end": 444,
+      "text": " Which sounds like a recipe for trouble or could be a recipe for trouble."
+    },
+    {
+      "start": 445,
+      "end": 446,
+      "text": " Hasn't been which has been fantastic."
+    },
+    {
+      "start": 447,
+      "end": 451,
+      "text": " How do you guys delineate responsibilities before you're at $8,000 in revenue?"
+    },
+    {
+      "start": 452,
+      "end": 455,
+      "text": " So at that time it's very much all hands on deck for everything."
+    },
+    {
+      "start": 456,
+      "end": 459,
+      "text": " But the two of them are self-taught hackers."
+    },
+    {
+      "start": 460,
+      "end": 461,
+      "text": " They're writing code."
+    },
+    {
+      "start": 462,
+      "end": 463,
+      "text": " I don't write code."
+    },
+    {
+      "start": 464,
+      "end": 465,
+      "text": " That was a natural delineation."
+    },
+    {
+      "start": 466,
+      "end": 468,
+      "text": " I also sell, they haven't sold previously."
+    },
+    {
+      "start": 469,
+      "end": 471,
+      "text": " So I was doing everything customer-facing and they were working on the front end"
+    },
+    {
+      "start": 472,
+      "end": 473,
+      "text": " and back into the product respectively."
+    },
+    {
+      "start": 474,
+      "end": 475,
+      "text": " Over time that's changed a lot."
+    },
+    {
+      "start": 477,
+      "end": 480,
+      "text": " We knew pretty early on that we wanted Adam to be the CEO."
+    },
+    {
+      "start": 481,
+      "end": 483,
+      "text": " It was his creation and his baby."
+    },
+    {
+      "start": 484,
+      "end": 486,
+      "text": " And we fell into our roles very quickly too."
+    },
+    {
+      "start": 487,
+      "end": 488,
+      "text": " How did you decide on pricing early on?"
+    },
+    {
+      "start": 488,
+      "end": 490,
+      "text": " Because emails are so cheap."
+    },
+    {
+      "start": 491,
+      "end": 494,
+      "text": " There's no cost to sending an email or virtually no cost to sending an email."
+    },
+    {
+      "start": 495,
+      "end": 499,
+      "text": " Texts are not which is insane because you text your friends and it doesn't cost you anything."
+    },
+    {
+      "start": 500,
+      "end": 503,
+      "text": " But it's a brand text saying every campaign costs can cost hundreds or thousands of dollars."
+    },
+    {
+      "start": 504,
+      "end": 505,
+      "text": " How did you decide on pricing?"
+    },
+    {
+      "start": 506,
+      "end": 508,
+      "text": " This is our cost, let's mark it up X percent."
+    },
+    {
+      "start": 509,
+      "end": 511,
+      "text": " And how did you decide early on on what that margin should be?"
+    },
+    {
+      "start": 512,
+      "end": 513,
+      "text": " There was nobody doing this."
+    },
+    {
+      "start": 513,
+      "end": 518,
+      "text": " I think you were like, you know, Klaivia, this is pre-Klaivia having text messages."
+    },
+    {
+      "start": 519,
+      "end": 522,
+      "text": " I think pre-Klaivia attentive in Yapo having them as well."
+    },
+    {
+      "start": 523,
+      "end": 524,
+      "text": " How did you decide on that pricing?"
+    },
+    {
+      "start": 525,
+      "end": 527,
+      "text": " It was before those companies were public with it."
+    },
+    {
+      "start": 528,
+      "end": 531,
+      "text": " We were in YC when Klaivia announced they were going to do SMS."
+    },
+    {
+      "start": 532,
+      "end": 533,
+      "text": " It took them a couple of years to launch it."
+    },
+    {
+      "start": 534,
+      "end": 536,
+      "text": " But we did exactly what you described."
+    },
+    {
+      "start": 537,
+      "end": 538,
+      "text": " Here's our cost."
+    },
+    {
+      "start": 538,
+      "end": 543,
+      "text": " We'd signed up for a self-service plan on Tuleo, so we were getting off the rack rates."
+    },
+    {
+      "start": 543,
+      "end": 545,
+      "text": " Nothing special. And we just probably doubled them."
+    },
+    {
+      "start": 546,
+      "end": 551,
+      "text": " Okay, so you guys graduate YC, I invest and I'm going to talk about my investment for a second."
+    },
+    {
+      "start": 552,
+      "end": 555,
+      "text": " I think it was $375,000 but I'm not positive."
+    },
+    {
+      "start": 555,
+      "end": 556,
+      "text": " Is that right?"
+    },
+    {
+      "start": 556,
+      "end": 557,
+      "text": " That's right."
+    },
+    {
+      "start": 557,
+      "end": 561,
+      "text": " That was one of the earlier larger checks that I'd written because I was like this."
+    },
+    {
+      "start": 562,
+      "end": 564,
+      "text": " There's clear demand for that or this clearly should exist."
+    },
+    {
+      "start": 564,
+      "end": 567,
+      "text": " It would have helped me grow my business so much."
+    },
+    {
+      "start": 567,
+      "end": 570,
+      "text": " And it's like, you know, without much effort actually."
+    },
+    {
+      "start": 570,
+      "end": 571,
+      "text": " Like we're already creating emails."
+    },
+    {
+      "start": 572,
+      "end": 576,
+      "text": " There's no way to, you know, our open rate is dropping as we continue to grow our email list"
+    },
+    {
+      "start": 576,
+      "end": 578,
+      "text": " and start sending more and more of those emails out."
+    },
+    {
+      "start": 579,
+      "end": 580,
+      "text": " We wanted text messages."
+    },
+    {
+      "start": 581,
+      "end": 582,
+      "text": " We'd experimented with messenger and it never really worked."
+    },
+    {
+      "start": 583,
+      "end": 586,
+      "text": " We had wanted this for a really long time and I think that was one of the earlier checks"
+    },
+    {
+      "start": 587,
+      "end": 588,
+      "text": " that I'd written that was that size."
+    },
+    {
+      "start": 589,
+      "end": 591,
+      "text": " And I think even I was trying to do 500,000 and you guys said 250."
+    },
+    {
+      "start": 591,
+      "end": 593,
+      "text": " And we settled on $375,000."
+    },
+    {
+      "start": 593,
+      "end": 594,
+      "text": " That sounds right."
+    },
+    {
+      "start": 595,
+      "end": 598,
+      "text": " Also, to your guys credit, you did it off a single call."
+    },
+    {
+      "start": 599,
+      "end": 600,
+      "text": " A single call, wow."
+    },
+    {
+      "start": 600,
+      "end": 602,
+      "text": " We did a call and you came back later that day."
+    },
+    {
+      "start": 603,
+      "end": 605,
+      "text": " And we're like, how we did a day of research or whatever and you were like, let's do it."
+    },
+    {
+      "start": 606,
+      "end": 610,
+      "text": " And I think that speed was just because at the time we wanted to get back to work"
+    },
+    {
+      "start": 611,
+      "end": 613,
+      "text": " and we were seeing a lot of investor demand from our growth and from YC."
+    },
+    {
+      "start": 614,
+      "end": 617,
+      "text": " I mean, we'd gone zero to 1.5 in six, eight months."
+    },
+    {
+      "start": 617,
+      "end": 620,
+      "text": " And so, you know, we were feeling on top of the world with that month."
+    },
+    {
+      "start": 622,
+      "end": 627,
+      "text": " And I think that like the speed and decisiveness from our side of the table is as entrepreneurs"
+    },
+    {
+      "start": 628,
+      "end": 629,
+      "text": " we were like, first of all these guys are founders."
+    },
+    {
+      "start": 630,
+      "end": 632,
+      "text": " Secondly, they seem to have a strong point of view on the space"
+    },
+    {
+      "start": 633,
+      "end": 634,
+      "text": " and third, they like move quickly."
+    },
+    {
+      "start": 635,
+      "end": 636,
+      "text": " This is a good thing."
+    },
+    {
+      "start": 636,
+      "end": 637,
+      "text": " Okay, that's awesome. I appreciate that context."
+    },
+    {
+      "start": 638,
+      "end": 639,
+      "text": " That was important to you guys."
+    },
+    {
+      "start": 640,
+      "end": 643,
+      "text": " Totally because we were talking to like funds who wanted to put in more money"
+    },
+    {
+      "start": 643,
+      "end": 645,
+      "text": " and they also wanted to run really long processes."
+    },
+    {
+      "start": 646,
+      "end": 651,
+      "text": " Yeah. And we had YC telling us at the time that like investors are good for one thing, money."
+    },
+    {
+      "start": 652,
+      "end": 654,
+      "text": " Yeah. Like don't try to optimize for this or that."
+    },
+    {
+      "start": 655,
+      "end": 659,
+      "text": " So like the fact that you guys were moving decisively was great for us."
+    },
+    {
+      "start": 660,
+      "end": 661,
+      "text": " Okay, and do you think that's still true?"
+    },
+    {
+      "start": 662,
+      "end": 663,
+      "text": " Our investor is good for one thing. Is it money?"
+    },
+    {
+      "start": 664,
+      "end": 666,
+      "text": " Was YC right about that? Or were they right early on and not later?"
+    },
+    {
+      "start": 667,
+      "end": 670,
+      "text": " I think it's a very smart over generalization for them to say."
+    },
+    {
+      "start": 670,
+      "end": 671,
+      "text": " Okay."
+    },
+    {
+      "start": 672,
+      "end": 676,
+      "text": " There are bad investors who get in your way, who slow things down, who fight back,"
+    },
+    {
+      "start": 677,
+      "end": 680,
+      "text": " who try to micromanage the business. Then there are solid ones,"
+    },
+    {
+      "start": 681,
+      "end": 683,
+      "text": " a lower number of solid ones who stay out of your way,"
+    },
+    {
+      "start": 684,
+      "end": 685,
+      "text": " who give you money, who are supportive if you ask."
+    },
+    {
+      "start": 686,
+      "end": 689,
+      "text": " And then there's a small number who are like proactively trying to create value for the business."
+    },
+    {
+      "start": 690,
+      "end": 691,
+      "text": " Yeah. Also staying out of your way."
+    },
+    {
+      "start": 692,
+      "end": 697,
+      "text": " All those things are to be expected and I think YC is trying to orient these like early stage founders"
+    },
+    {
+      "start": 697,
+      "end": 700,
+      "text": " to just get back to work, to not try to spend months and months fundraising"
+    },
+    {
+      "start": 701,
+      "end": 702,
+      "text": " because that isn't growing your business."
+    },
+    {
+      "start": 703,
+      "end": 706,
+      "text": " So I think it's an over generalization but probably wise at that stage."
+    },
+    {
+      "start": 707,
+      "end": 709,
+      "text": " Do you have groups of investors from all three of those?"
+    },
+    {
+      "start": 710,
+      "end": 711,
+      "text": " Yes, for sure."
+    },
+    {
+      "start": 712,
+      "end": 713,
+      "text": " Okay, for sure."
+    },
+    {
+      "start": 714,
+      "end": 716,
+      "text": " You know one of the things I struggle with is I find that I have a lot like in my past"
+    },
+    {
+      "start": 717,
+      "end": 720,
+      "text": " I've had a lot of employees who are also from group number one where they're just like resistant"
+    },
+    {
+      "start": 721,
+      "end": 725,
+      "text": " to launching a product like resistant to change or there's always like here's 40 reasons"
+    },
+    {
+      "start": 725,
+      "end": 727,
+      "text": " not to do this."
+    },
+    {
+      "start": 728,
+      "end": 732,
+      "text": " And I'm like, you know, it gets in my head where I'm like, wait, should we not do this?"
+    },
+    {
+      "start": 733,
+      "end": 736,
+      "text": " Because like you're right, we can make a mistake, nobody could like to send all this kind of stuff."
+    },
+    {
+      "start": 737,
+      "end": 740,
+      "text": " Do you find that to be the case with employees that you have as well or like how do you think about that?"
+    },
+    {
+      "start": 741,
+      "end": 744,
+      "text": " So definitely the case, we try to manage it really aggressively."
+    },
+    {
+      "start": 745,
+      "end": 751,
+      "text": " So first, post-crips now almost 300 people every single person who comes in gets trained by me personally on our values."
+    },
+    {
+      "start": 752,
+      "end": 753,
+      "text": " Wow, I've done this the entire time."
+    },
+    {
+      "start": 753,
+      "end": 756,
+      "text": " One of our values is humility."
+    },
+    {
+      "start": 757,
+      "end": 760,
+      "text": " That means being humble, but it also means that post-cripped embracing change."
+    },
+    {
+      "start": 761,
+      "end": 765,
+      "text": " You have to actively embrace change on behalf of the team for some behalf of yourselves."
+    },
+    {
+      "start": 766,
+      "end": 767,
+      "text": " That's the bar that we hold."
+    },
+    {
+      "start": 768,
+      "end": 773,
+      "text": " And the reason is because we think that most, this is I know it's an old startup trope,"
+    },
+    {
+      "start": 774,
+      "end": 777,
+      "text": " most decisions or investments or ideas aren't one way doors."
+    },
+    {
+      "start": 777,
+      "end": 778,
+      "text": " Most are two way doors."
+    },
+    {
+      "start": 779,
+      "end": 784,
+      "text": " If you have strong conviction that something is better or deeply broken, try to fix it."
+    },
+    {
+      "start": 785,
+      "end": 787,
+      "text": " You can probably undo or change it or evolve it again."
+    },
+    {
+      "start": 788,
+      "end": 789,
+      "text": " You'll probably have to evolve it again."
+    },
+    {
+      "start": 790,
+      "end": 794,
+      "text": " Occasionally yes there's a one-way door decision you're going to make that you can't undo."
+    },
+    {
+      "start": 795,
+      "end": 797,
+      "text": " And that sure lets move methodically, let's be analytical around."
+    },
+    {
+      "start": 798,
+      "end": 801,
+      "text": " But otherwise I think that like yes I know exactly what you're talking about."
+    },
+    {
+      "start": 801,
+      "end": 802,
+      "text": " I think it's quite common."
+    },
+    {
+      "start": 803,
+      "end": 808,
+      "text": " And I think that especially these companies grow most later stage team members are oriented that way to like"
+    },
+    {
+      "start": 809,
+      "end": 810,
+      "text": " resist change and embrace the norms."
+    },
+    {
+      "start": 811,
+      "end": 813,
+      "text": " But the downsides of change I think are much smaller than we think."
+    },
+    {
+      "start": 814,
+      "end": 816,
+      "text": " How long do you spend with each of these employees training them on your business?"
+    },
+    {
+      "start": 817,
+      "end": 819,
+      "text": " I do an hour with each new cohort."
+    },
+    {
+      "start": 820,
+      "end": 823,
+      "text": " Okay so when you hire them you're like okay let's get two months of new employees"
+    },
+    {
+      "start": 824,
+      "end": 825,
+      "text": " and now we're training on them."
+    },
+    {
+      "start": 826,
+      "end": 827,
+      "text": " Okay, gotcha."
+    },
+    {
+      "start": 827,
+      "end": 829,
+      "text": " Let's get a modern day post script."
+    },
+    {
+      "start": 830,
+      "end": 833,
+      "text": " You guys launch in YC, Clavio says that they're going to compete with you guys."
+    },
+    {
+      "start": 834,
+      "end": 835,
+      "text": " Scary day."
+    },
+    {
+      "start": 836,
+      "end": 837,
+      "text": " Yeah I'm sure that's out of Clavio. Scary day."
+    },
+    {
+      "start": 838,
+      "end": 840,
+      "text": " Yeah I'm sure that's a scary day. So Clavio says it, attentive is doing it."
+    },
+    {
+      "start": 841,
+      "end": 842,
+      "text": " There's a few competitors at this point."
+    },
+    {
+      "start": 843,
+      "end": 844,
+      "text": " How do you guys differentiate yourselves?"
+    },
+    {
+      "start": 845,
+      "end": 848,
+      "text": " Like a lot of people native still uses post script."
+    },
+    {
+      "start": 849,
+      "end": 853,
+      "text": " And a lot of people will talk to me about post script and be like how is post script differentiated between Clavio?"
+    },
+    {
+      "start": 854,
+      "end": 855,
+      "text": " Why don't I have everything in one spot?"
+    },
+    {
+      "start": 855,
+      "end": 858,
+      "text": " I was post script differentiated between you know attentive."
+    },
+    {
+      "start": 859,
+      "end": 860,
+      "text": " Sure."
+    },
+    {
+      "start": 860,
+      "end": 861,
+      "text": " Tell us how you think that's okay."
+    },
+    {
+      "start": 862,
+      "end": 864,
+      "text": " So it's a big question and there's been different sets of competitors over time."
+    },
+    {
+      "start": 865,
+      "end": 866,
+      "text": " Yeah right."
+    },
+    {
+      "start": 867,
+      "end": 870,
+      "text": " A lot of them previously have faded and disappeared but now really it's the three big ones."
+    },
+    {
+      "start": 871,
+      "end": 872,
+      "text": " Who's faded?"
+    },
+    {
+      "start": 873,
+      "end": 874,
+      "text": " I don't want to."
+    },
+    {
+      "start": 875,
+      "end": 876,
+      "text": " I don't want to name them."
+    },
+    {
+      "start": 877,
+      "end": 879,
+      "text": " There are a whole bunch of smaller SMS players that came up around the same time as us that are now faded."
+    },
+    {
+      "start": 880,
+      "end": 881,
+      "text": " Okay."
+    },
+    {
+      "start": 881,
+      "end": 883,
+      "text": " And really there's like three at scale of post script, attentive in Clavio."
+    },
+    {
+      "start": 883,
+      "end": 884,
+      "text": " Okay."
+    },
+    {
+      "start": 884,
+      "end": 888,
+      "text": " And I think that we're different in a handful of ways but the high level is on post script."
+    },
+    {
+      "start": 889,
+      "end": 890,
+      "text": " You're going to make more money more efficiently."
+    },
+    {
+      "start": 891,
+      "end": 892,
+      "text": " You're going to make more revenue at lower cost."
+    },
+    {
+      "start": 893,
+      "end": 894,
+      "text": " Yeah, that's great."
+    },
+    {
+      "start": 895,
+      "end": 897,
+      "text": " No, high level is great but this isn't high level stuff."
+    },
+    {
+      "start": 898,
+      "end": 900,
+      "text": " Tell me details. So look what here's two ways that I know about it."
+    },
+    {
+      "start": 901,
+      "end": 902,
+      "text": " One is when you're opting into mobile."
+    },
+    {
+      "start": 903,
+      "end": 905,
+      "text": " Let's say you're on your phone and say hey do you want to opt into the"
+    },
+    {
+      "start": 906,
+      "end": 907,
+      "text": " tenetives SMS list."
+    },
+    {
+      "start": 908,
+      "end": 912,
+      "text": " You put in your phone number and does that dual factor authentication thing where it says here's this number to authenticate."
+    },
+    {
+      "start": 913,
+      "end": 914,
+      "text": " Put it in."
+    },
+    {
+      "start": 914,
+      "end": 915,
+      "text": " You know, you can hit one book."
+    },
+    {
+      "start": 915,
+      "end": 918,
+      "text": " You don't have to go to your messages in order to authenticate."
+    },
+    {
+      "start": 918,
+      "end": 921,
+      "text": " You just authenticate right there on your inside a native that."
+    },
+    {
+      "start": 922,
+      "end": 923,
+      "text": " Onside opt."
+    },
+    {
+      "start": 923,
+      "end": 924,
+      "text": " Yeah, I'm sorry, onside opted yet inside native's website."
+    },
+    {
+      "start": 925,
+      "end": 926,
+      "text": " So that's different and nobody else has that."
+    },
+    {
+      "start": 927,
+      "end": 928,
+      "text": " Clavio definitely doesn't have that."
+    },
+    {
+      "start": 928,
+      "end": 929,
+      "text": " I don't think attentive has that either."
+    },
+    {
+      "start": 930,
+      "end": 932,
+      "text": " It's magic if you haven't tried it yet."
+    },
+    {
+      "start": 933,
+      "end": 934,
+      "text": " Go to True Classics website on mobile."
+    },
+    {
+      "start": 935,
+      "end": 936,
+      "text": " Try it out."
+    },
+    {
+      "start": 936,
+      "end": 937,
+      "text": " Yeah, it is magic."
+    },
+    {
+      "start": 938,
+      "end": 940,
+      "text": " So that's one way and I want to hear like you must have tested that"
+    },
+    {
+      "start": 940,
+      "end": 943,
+      "text": " and I would love to hear the difference in opt in rates as a result of that."
+    },
+    {
+      "start": 944,
+      "end": 945,
+      "text": " The other is like the post-crips sales side of things."
+    },
+    {
+      "start": 946,
+      "end": 952,
+      "text": " Which is you guys have an act like you know basically an active team of people who are sales people for brands."
+    },
+    {
+      "start": 953,
+      "end": 956,
+      "text": " And texting with people and having real conversations to encourage them to buy"
+    },
+    {
+      "start": 957,
+      "end": 962,
+      "text": " True Classic joggers when the guys yeah so those are two differentiations that I'm well aware of."
+    },
+    {
+      "start": 963,
+      "end": 964,
+      "text": " What are the other ones?"
+    },
+    {
+      "start": 964,
+      "end": 965,
+      "text": " No high level stuff."
+    },
+    {
+      "start": 965,
+      "end": 966,
+      "text": " Give me detain."
+    },
+    {
+      "start": 966,
+      "end": 967,
+      "text": " You want the tactic."
+    },
+    {
+      "start": 967,
+      "end": 968,
+      "text": " Yeah, because you know people ask me they're like what's the difference?"
+    },
+    {
+      "start": 968,
+      "end": 972,
+      "text": " And if I say you're going to make more money with post script they're going to say you don't know what the fuck you're talking about."
+    },
+    {
+      "start": 973,
+      "end": 975,
+      "text": " I sound like I don't know what I'm talking about."
+    },
+    {
+      "start": 975,
+      "end": 977,
+      "text": " Sure, well we're going to give you all the details."
+    },
+    {
+      "start": 977,
+      "end": 978,
+      "text": " Yeah so it's a big list."
+    },
+    {
+      "start": 978,
+      "end": 979,
+      "text": " Okay great."
+    },
+    {
+      "start": 979,
+      "end": 983,
+      "text": " Okay the first bucket is we're going to help you grow your list faster."
+    },
+    {
+      "start": 983,
+      "end": 985,
+      "text": " We're going to do that through a couple of ways specifically."
+    },
+    {
+      "start": 986,
+      "end": 991,
+      "text": " The first is on site opt in this is better for brands for a whole bunch of ways we've tested a bunch."
+    },
+    {
+      "start": 991,
+      "end": 992,
+      "text": " We're super excited about it."
+    },
+    {
+      "start": 992,
+      "end": 997,
+      "text": " We're also like there's more innovation there coming but most of the time the vast majority of time"
+    },
+    {
+      "start": 997,
+      "end": 1002,
+      "text": " it wins the AB test to drive more opt-ins first the like double touch paradigm."
+    },
+    {
+      "start": 1002,
+      "end": 1005,
+      "text": " Yeah, it also keeps people on site."
+    },
+    {
+      "start": 1005,
+      "end": 1006,
+      "text": " Yeah."
+    },
+    {
+      "start": 1006,
+      "end": 1010,
+      "text": " The other mobile opt-in paradigm takes people to their messages app and leaves them there."
+    },
+    {
+      "start": 1010,
+      "end": 1011,
+      "text": " Yeah."
+    },
+    {
+      "start": 1011,
+      "end": 1012,
+      "text": " That's a big issue."
+    },
+    {
+      "start": 1012,
+      "end": 1018,
+      "text": " And then the third reason why it's better is that in that other paradigm where the user ends up in their messages app."
+    },
+    {
+      "start": 1018,
+      "end": 1020,
+      "text": " They then click a link to go back to the site."
+    },
+    {
+      "start": 1020,
+      "end": 1024,
+      "text": " That creates a second session for GA for other analytics tools."
+    },
+    {
+      "start": 1024,
+      "end": 1028,
+      "text": " So on site also cleans up attributions because they've just stayed on site."
+    },
+    {
+      "start": 1028,
+      "end": 1029,
+      "text": " Okay great."
+    },
+    {
+      "start": 1029,
+      "end": 1031,
+      "text": " So tell me like you know you guys must have AB tested this."
+    },
+    {
+      "start": 1031,
+      "end": 1038,
+      "text": " Tell me to tell me one what does he increase in the percentage of opt-ins for a brand that you can recall off the top of your head?"
+    },
+    {
+      "start": 1038,
+      "end": 1043,
+      "text": " And then like you know if staying on site is better, is there an increasing conversion rate?"
+    },
+    {
+      "start": 1043,
+      "end": 1046,
+      "text": " Yeah so the best thing is I don't know the percentage on my head."
+    },
+    {
+      "start": 1046,
+      "end": 1049,
+      "text": " There's a case study on the site, on post-script site."
+    },
+    {
+      "start": 1049,
+      "end": 1051,
+      "text": " They've launched on site opt-in."
+    },
+    {
+      "start": 1051,
+      "end": 1052,
+      "text": " It like broke their graph."
+    },
+    {
+      "start": 1052,
+      "end": 1056,
+      "text": " They had like a pacing chart for what they were seeing in terms of subscriber opt-ins."
+    },
+    {
+      "start": 1056,
+      "end": 1058,
+      "text": " They counted out each quarter what they're expecting to grow."
+    },
+    {
+      "start": 1058,
+      "end": 1060,
+      "text": " And they launched on site opt-in, the AB test."
+    },
+    {
+      "start": 1060,
+      "end": 1061,
+      "text": " Not even the full traffic."
+    },
+    {
+      "start": 1061,
+      "end": 1062,
+      "text": " Yeah."
+    },
+    {
+      "start": 1062,
+      "end": 1063,
+      "text": " Like broke their graph."
+    },
+    {
+      "start": 1063,
+      "end": 1064,
+      "text": " Gotcha."
+    },
+    {
+      "start": 1064,
+      "end": 1065,
+      "text": " And then they went full and it continued to break their graph."
+    },
+    {
+      "start": 1065,
+      "end": 1066,
+      "text": " That's a great example."
+    },
+    {
+      "start": 1066,
+      "end": 1070,
+      "text": " And the conversion results we've seen mix."
+    },
+    {
+      "start": 1070,
+      "end": 1072,
+      "text": " Oftentimes it's baseline and there's no difference."
+    },
+    {
+      "start": 1072,
+      "end": 1075,
+      "text": " And sometimes there's a nice small conversion bump from a gotcha."
+    },
+    {
+      "start": 1075,
+      "end": 1079,
+      "text": " But I think in both paradigms like work side about on site opt-in."
+    },
+    {
+      "start": 1079,
+      "end": 1080,
+      "text": " Yeah."
+    },
+    {
+      "start": 1080,
+      "end": 1082,
+      "text": " And like it seems to be winning."
+    },
+    {
+      "start": 1082,
+      "end": 1083,
+      "text": " Yeah, okay great."
+    },
+    {
+      "start": 1083,
+      "end": 1084,
+      "text": " On site opt-in."
+    },
+    {
+      "start": 1084,
+      "end": 1085,
+      "text": " We've already covered."
+    },
+    {
+      "start": 1085,
+      "end": 1086,
+      "text": " Grow your list faster with that."
+    },
+    {
+      "start": 1086,
+      "end": 1087,
+      "text": " Yes."
+    },
+    {
+      "start": 1087,
+      "end": 1089,
+      "text": " Also people use fund due to grow their list faster."
+    },
+    {
+      "start": 1089,
+      "end": 1094,
+      "text": " They use cashback incentives instead of coupon incentives because they're higher margin."
+    },
+    {
+      "start": 1094,
+      "end": 1097,
+      "text": " And so they can offer a bigger cashback incentive."
+    },
+    {
+      "start": 1097,
+      "end": 1100,
+      "text": " They can say 20% back instead of 10% off."
+    },
+    {
+      "start": 1100,
+      "end": 1101,
+      "text": " Yes."
+    },
+    {
+      "start": 1101,
+      "end": 1103,
+      "text": " They still save more money than the 10% off."
+    },
+    {
+      "start": 1103,
+      "end": 1106,
+      "text": " It only ends up costing them like 4% net."
+    },
+    {
+      "start": 1106,
+      "end": 1110,
+      "text": " And they pick up way more subscribers that way with the bigger incentive."
+    },
+    {
+      "start": 1110,
+      "end": 1112,
+      "text": " Okay, and tell me how that works though."
+    },
+    {
+      "start": 1112,
+      "end": 1116,
+      "text": " Like so it's like instead of getting a 10% off coupon right now,"
+    },
+    {
+      "start": 1116,
+      "end": 1120,
+      "text": " it's 20% off of your next order or like 20% off us,"
+    },
+    {
+      "start": 1120,
+      "end": 1122,
+      "text": " 20% cashback on this order."
+    },
+    {
+      "start": 1122,
+      "end": 1123,
+      "text": " So I can use it on the next order."
+    },
+    {
+      "start": 1123,
+      "end": 1125,
+      "text": " 20% cashback on this order."
+    },
+    {
+      "start": 1125,
+      "end": 1126,
+      "text": " Yeah."
+    },
+    {
+      "start": 1126,
+      "end": 1128,
+      "text": " The return window passes 30 days later."
+    },
+    {
+      "start": 1128,
+      "end": 1131,
+      "text": " You get an email as the consumer that says click here to redeem your cashback."
+    },
+    {
+      "start": 1131,
+      "end": 1136,
+      "text": " You get to choose the consumer whether to take it as a gift card for that brand"
+    },
+    {
+      "start": 1136,
+      "end": 1141,
+      "text": " or actually a digital visa card like true cashback."
+    },
+    {
+      "start": 1141,
+      "end": 1143,
+      "text": " So here's how this works."
+    },
+    {
+      "start": 1143,
+      "end": 1146,
+      "text": " About 50% of consumers don't redeem."
+    },
+    {
+      "start": 1146,
+      "end": 1150,
+      "text": " Of those who redeem it's split between those who take a gift card for your site,"
+    },
+    {
+      "start": 1150,
+      "end": 1153,
+      "text": " which in that case you got the first purchase at full price"
+    },
+    {
+      "start": 1153,
+      "end": 1157,
+      "text": " and they're only going to use that credit if they do a second or third purchase later on."
+    },
+    {
+      "start": 1157,
+      "end": 1158,
+      "text": " Yeah."
+    },
+    {
+      "start": 1158,
+      "end": 1159,
+      "text": " So it's going to be a higher margin."
+    },
+    {
+      "start": 1159,
+      "end": 1163,
+      "text": " And then if they do the actual cashback, then yes, they're getting the cashback."
+    },
+    {
+      "start": 1163,
+      "end": 1168,
+      "text": " But it's still like 25% of people that have done it and you've had the full amount"
+    },
+    {
+      "start": 1168,
+      "end": 1172,
+      "text": " of the purchase price for a month for working capital purposes."
+    },
+    {
+      "start": 1172,
+      "end": 1173,
+      "text": " Yeah."
+    },
+    {
+      "start": 1173,
+      "end": 1175,
+      "text": " So in general, it's like meaningfully higher margin."
+    },
+    {
+      "start": 1175,
+      "end": 1179,
+      "text": " Am I required to offer a digital visa coupon or a coupon to my website?"
+    },
+    {
+      "start": 1179,
+      "end": 1182,
+      "text": " Or can I just say it only can be a coupon to my website?"
+    },
+    {
+      "start": 1182,
+      "end": 1186,
+      "text": " You're required to do both but you can further incentivize the store credit"
+    },
+    {
+      "start": 1186,
+      "end": 1189,
+      "text": " by saying you get 1.5x value, 1.7x."
+    },
+    {
+      "start": 1189,
+      "end": 1190,
+      "text": " Yeah."
+    },
+    {
+      "start": 1190,
+      "end": 1192,
+      "text": " Like true classic is a huge adopter of this and that's what they do."
+    },
+    {
+      "start": 1192,
+      "end": 1194,
+      "text": " They incentivize the store credit piece."
+    },
+    {
+      "start": 1194,
+      "end": 1195,
+      "text": " Okay."
+    },
+    {
+      "start": 1195,
+      "end": 1196,
+      "text": " Gotcha."
+    },
+    {
+      "start": 1196,
+      "end": 1197,
+      "text": " Okay."
+    },
+    {
+      "start": 1197,
+      "end": 1198,
+      "text": " That's really interesting."
+    },
+    {
+      "start": 1198,
+      "end": 1201,
+      "text": " And so basically this is like the popup would say instead of saying get 10% off right now,"
+    },
+    {
+      "start": 1201,
+      "end": 1205,
+      "text": " it would say something like get 20% a cashback on this purchase."
+    },
+    {
+      "start": 1205,
+      "end": 1206,
+      "text": " Yep."
+    },
+    {
+      "start": 1206,
+      "end": 1207,
+      "text": " Drive more opt in."
+    },
+    {
+      "start": 1207,
+      "end": 1208,
+      "text": " Is that what happens?"
+    },
+    {
+      "start": 1208,
+      "end": 1210,
+      "text": " It happens in a popup or does this happen via email campaigns where you're like,"
+    },
+    {
+      "start": 1210,
+      "end": 1211,
+      "text": " it happens via email campaigns?"
+    },
+    {
+      "start": 1211,
+      "end": 1212,
+      "text": " Great question."
+    },
+    {
+      "start": 1212,
+      "end": 1216,
+      "text": " The initial adoption for it we're seeing is on popups."
+    },
+    {
+      "start": 1216,
+      "end": 1218,
+      "text": " I think that's because it's set and forget."
+    },
+    {
+      "start": 1218,
+      "end": 1219,
+      "text": " Yeah."
+    },
+    {
+      "start": 1219,
+      "end": 1222,
+      "text": " Long term, I think we're going to see cashback offers used as a coupon alternative."
+    },
+    {
+      "start": 1222,
+      "end": 1223,
+      "text": " Yes."
+    },
+    {
+      "start": 1223,
+      "end": 1224,
+      "text": " Throughout the customer journey."
+    },
+    {
+      "start": 1224,
+      "end": 1226,
+      "text": " It's a higher margin incentive."
+    },
+    {
+      "start": 1226,
+      "end": 1227,
+      "text": " Yeah."
+    },
+    {
+      "start": 1227,
+      "end": 1228,
+      "text": " Right now we're seeing a lot of popups."
+    },
+    {
+      "start": 1228,
+      "end": 1231,
+      "text": " We're starting to see it unlike other automation flows outside of welcome series."
+    },
+    {
+      "start": 1231,
+      "end": 1233,
+      "text": " We're starting to see it in browse abandonment and things like that."
+    },
+    {
+      "start": 1233,
+      "end": 1237,
+      "text": " We're also seeing brands start to experiment with campaigns, mix it into their campaign cadence."
+    },
+    {
+      "start": 1237,
+      "end": 1240,
+      "text": " So it's something fresh and it's way higher margin."
+    },
+    {
+      "start": 1240,
+      "end": 1244,
+      "text": " Yeah, it sounds like it would be great for Black Friday actually because you can have a huge number"
+    },
+    {
+      "start": 1244,
+      "end": 1247,
+      "text": " and incentivize a lot of purchases when you're slow in January and February."
+    },
+    {
+      "start": 1247,
+      "end": 1254,
+      "text": " So you can say get 30% cashback 60 days from now in January and February and try to get some sales that way."
+    },
+    {
+      "start": 1254,
+      "end": 1255,
+      "text": " Yep."
+    },
+    {
+      "start": 1255,
+      "end": 1256,
+      "text": " Okay."
+    },
+    {
+      "start": 1256,
+      "end": 1257,
+      "text": " Fondue, cashback."
+    },
+    {
+      "start": 1257,
+      "end": 1258,
+      "text": " That differentiates you guys."
+    },
+    {
+      "start": 1258,
+      "end": 1259,
+      "text": " What else?"
+    },
+    {
+      "start": 1259,
+      "end": 1260,
+      "text": " So that's growing your list faster."
+    },
+    {
+      "start": 1260,
+      "end": 1261,
+      "text": " Yeah."
+    },
+    {
+      "start": 1261,
+      "end": 1262,
+      "text": " I put those two things in there."
+    },
+    {
+      "start": 1262,
+      "end": 1263,
+      "text": " Okay."
+    },
+    {
+      "start": 1263,
+      "end": 1266,
+      "text": " Then I think there is making more money off the marketing tooling."
+    },
+    {
+      "start": 1266,
+      "end": 1268,
+      "text": " So let's get into specifics."
+    },
+    {
+      "start": 1268,
+      "end": 1273,
+      "text": " There is a whole bunch of features that Post-Hripp has that really help drive incremental revenue."
+    },
+    {
+      "start": 1273,
+      "end": 1279,
+      "text": " For example, view through or view triggered price drop automations."
+    },
+    {
+      "start": 1279,
+      "end": 1281,
+      "text": " What does that really cool?"
+    },
+    {
+      "start": 1281,
+      "end": 1283,
+      "text": " This is I'm on native site."
+    },
+    {
+      "start": 1283,
+      "end": 1284,
+      "text": " I'm browsing around."
+    },
+    {
+      "start": 1284,
+      "end": 1285,
+      "text": " I've sent a lot."
+    },
+    {
+      "start": 1285,
+      "end": 1287,
+      "text": " I've spent a lot of time looking at this one skew."
+    },
+    {
+      "start": 1287,
+      "end": 1288,
+      "text": " I never buy it."
+    },
+    {
+      "start": 1288,
+      "end": 1293,
+      "text": " The native team drops the price of that skew just because I viewed that product in the past."
+    },
+    {
+      "start": 1293,
+      "end": 1298,
+      "text": " I get a triggered text letting me know, hey, the price just dropped 10% going by."
+    },
+    {
+      "start": 1298,
+      "end": 1301,
+      "text": " That is a low volume high value automation."
+    },
+    {
+      "start": 1301,
+      "end": 1302,
+      "text": " Yeah."
+    },
+    {
+      "start": 1302,
+      "end": 1303,
+      "text": " It's not going to cost the brand much."
+    },
+    {
+      "start": 1303,
+      "end": 1304,
+      "text": " That's going to print money."
+    },
+    {
+      "start": 1304,
+      "end": 1307,
+      "text": " And Klaivio and Attentive don't have that?"
+    },
+    {
+      "start": 1307,
+      "end": 1308,
+      "text": " They have like variations of this."
+    },
+    {
+      "start": 1308,
+      "end": 1311,
+      "text": " But not the like super specific case I'm talking about."
+    },
+    {
+      "start": 1311,
+      "end": 1312,
+      "text": " Okay."
+    },
+    {
+      "start": 1312,
+      "end": 1318,
+      "text": " Another thing we're really proud of is that's again like a marketing feature is skew level back in stock."
+    },
+    {
+      "start": 1318,
+      "end": 1320,
+      "text": " Now the other platforms have back in stock."
+    },
+    {
+      "start": 1321,
+      "end": 1322,
+      "text": " We have skew level back in stock."
+    },
+    {
+      "start": 1322,
+      "end": 1326,
+      "text": " Both to help grow your list, the like form that will capture phone numbers for it."
+    },
+    {
+      "start": 1326,
+      "end": 1328,
+      "text": " But also the triggered automations."
+    },
+    {
+      "start": 1328,
+      "end": 1332,
+      "text": " So again, if you're a brand that only sells one product, this is less relevant to you."
+    },
+    {
+      "start": 1332,
+      "end": 1334,
+      "text": " But if you're high skew counter have variants."
+    },
+    {
+      "start": 1334,
+      "end": 1335,
+      "text": " Yeah."
+    },
+    {
+      "start": 1335,
+      "end": 1336,
+      "text": " Yeah, sure."
+    },
+    {
+      "start": 1336,
+      "end": 1340,
+      "text": " It's really important that the person gets the right variant or the right skew."
+    },
+    {
+      "start": 1340,
+      "end": 1341,
+      "text": " Yeah."
+    },
+    {
+      "start": 1341,
+      "end": 1344,
+      "text": " And so that's another example of like a low volume."
+    },
+    {
+      "start": 1344,
+      "end": 1345,
+      "text": " Yeah, very high intent."
+    },
+    {
+      "start": 1345,
+      "end": 1346,
+      "text": " High value message."
+    },
+    {
+      "start": 1346,
+      "end": 1347,
+      "text": " Yeah."
+    },
+    {
+      "start": 1347,
+      "end": 1353,
+      "text": " Those are some another form of differentiation, the core SMS product is conversational messaging."
+    },
+    {
+      "start": 1353,
+      "end": 1359,
+      "text": " So this is a thing where our flow builder isn't a like sending out flow builder."
+    },
+    {
+      "start": 1359,
+      "end": 1361,
+      "text": " It's a two way thing because that's how messaging works."
+    },
+    {
+      "start": 1361,
+      "end": 1362,
+      "text": " Messing is two way."
+    },
+    {
+      "start": 1362,
+      "end": 1370,
+      "text": " And so how this shows up is people can create automation flows that are conversational in two way"
+    },
+    {
+      "start": 1370,
+      "end": 1376,
+      "text": " and have predefined replies that can come back that can route people further on the journey."
+    },
+    {
+      "start": 1376,
+      "end": 1383,
+      "text": " So if I'm chopping on true classic and maybe in their welcome series, they want to capture zero party data from me."
+    },
+    {
+      "start": 1383,
+      "end": 1384,
+      "text": " Right?"
+    },
+    {
+      "start": 1384,
+      "end": 1385,
+      "text": " So that they can tag my profile."
+    },
+    {
+      "start": 1385,
+      "end": 1386,
+      "text": " They can send me more relevant stuff."
+    },
+    {
+      "start": 1386,
+      "end": 1387,
+      "text": " Sure."
+    },
+    {
+      "start": 1387,
+      "end": 1392,
+      "text": " So maybe they ask me a question in the welcome flow around like are you shopping for like t-shirts or bands or vests?"
+    },
+    {
+      "start": 1392,
+      "end": 1394,
+      "text": " Like what are you here for today?"
+    },
+    {
+      "start": 1394,
+      "end": 1397,
+      "text": " And I say, I'm thinking about some vests."
+    },
+    {
+      "start": 1397,
+      "end": 1398,
+      "text": " Yeah."
+    },
+    {
+      "start": 1398,
+      "end": 1400,
+      "text": " That is not like a static reply."
+    },
+    {
+      "start": 1400,
+      "end": 1401,
+      "text": " That's a human reply."
+    },
+    {
+      "start": 1401,
+      "end": 1402,
+      "text": " Yep."
+    },
+    {
+      "start": 1402,
+      "end": 1409,
+      "text": " Our flow builder is built out to handle fuzzy human replies, still recognize what they send and route me on the right journey"
+    },
+    {
+      "start": 1409,
+      "end": 1415,
+      "text": " and tag my subscriber profile with what I'm looking for so they can segment and target based on that in the future."
+    },
+    {
+      "start": 1415,
+      "end": 1418,
+      "text": " That's like pretty advanced conversational routing."
+    },
+    {
+      "start": 1418,
+      "end": 1419,
+      "text": " Yeah, that is."
+    },
+    {
+      "start": 1419,
+      "end": 1422,
+      "text": " And that is not it's not dependent on someone replying pants."
+    },
+    {
+      "start": 1422,
+      "end": 1423,
+      "text": " Yeah, that's right."
+    },
+    {
+      "start": 1423,
+      "end": 1425,
+      "text": " It's like human replies."
+    },
+    {
+      "start": 1425,
+      "end": 1427,
+      "text": " And that's pretty advanced stuff."
+    },
+    {
+      "start": 1427,
+      "end": 1429,
+      "text": " But there's a lot of value there."
+    },
+    {
+      "start": 1429,
+      "end": 1432,
+      "text": " So there's zero party data collection in sending targeted flows."
+    },
+    {
+      "start": 1432,
+      "end": 1433,
+      "text": " Yeah."
+    },
+    {
+      "start": 1433,
+      "end": 1436,
+      "text": " So these are examples of like marketing features that will make people more money."
+    },
+    {
+      "start": 1436,
+      "end": 1438,
+      "text": " Do a lot of people use that conversational part?"
+    },
+    {
+      "start": 1438,
+      "end": 1442,
+      "text": " So I get the true classic example where someone says, I think I'm interested in pants."
+    },
+    {
+      "start": 1442,
+      "end": 1443,
+      "text": " Yeah."
+    },
+    {
+      "start": 1443,
+      "end": 1444,
+      "text": " Do a lot of brands use that?"
+    },
+    {
+      "start": 1444,
+      "end": 1447,
+      "text": " I haven't seen any brands use your more and more."
+    },
+    {
+      "start": 1447,
+      "end": 1448,
+      "text": " More and more it's happening."
+    },
+    {
+      "start": 1448,
+      "end": 1451,
+      "text": " The market is actively maturing right now."
+    },
+    {
+      "start": 1451,
+      "end": 1457,
+      "text": " And people are pushing us and the industry in really healthy ways to get more efficient with their spend."
+    },
+    {
+      "start": 1457,
+      "end": 1461,
+      "text": " And so they want to be sending more targeted higher value messages."
+    },
+    {
+      "start": 1461,
+      "end": 1463,
+      "text": " And like that's pushing us in this direction."
+    },
+    {
+      "start": 1463,
+      "end": 1469,
+      "text": " Let me ask one other question, which is I know I don't understand what 160 characters always is."
+    },
+    {
+      "start": 1469,
+      "end": 1472,
+      "text": " And I feel like it might be different across you and other competitors."
+    },
+    {
+      "start": 1472,
+      "end": 1473,
+      "text": " Is that the case or not?"
+    },
+    {
+      "start": 1473,
+      "end": 1475,
+      "text": " Or is it 160 characters the same for everyone?"
+    },
+    {
+      "start": 1475,
+      "end": 1478,
+      "text": " Like, um, so let me give you one example."
+    },
+    {
+      "start": 1478,
+      "end": 1484,
+      "text": " Let's say you're sending out a text that's going to say, hey, my ways, deodorant's on sale for 10% off right now."
+    },
+    {
+      "start": 1484,
+      "end": 1487,
+      "text": " And that like you know, you put in everything and we're putting the short code."
+    },
+    {
+      "start": 1487,
+      "end": 1490,
+      "text": " And that gets to about 157 characters."
+    },
+    {
+      "start": 1490,
+      "end": 1491,
+      "text": " Okay."
+    },
+    {
+      "start": 1491,
+      "end": 1492,
+      "text": " You're like, great one text."
+    },
+    {
+      "start": 1492,
+      "end": 1496,
+      "text": " But that's if your name is four letters long or four letters long."
+    },
+    {
+      "start": 1496,
+      "end": 1501,
+      "text": " If your name is Alexander or Alexandria now that name is like 12 letters long."
+    },
+    {
+      "start": 1501,
+      "end": 1502,
+      "text": " Yeah."
+    },
+    {
+      "start": 1502,
+      "end": 1504,
+      "text": " Have I crossed 160 thresholds?"
+    },
+    {
+      "start": 1504,
+      "end": 1505,
+      "text": " You have."
+    },
+    {
+      "start": 1505,
+      "end": 1507,
+      "text": " And you will be charged a second message and it'll show up."
+    },
+    {
+      "start": 1507,
+      "end": 1511,
+      "text": " It won't show up for the user because the phone will recombine the two texts."
+    },
+    {
+      "start": 1511,
+      "end": 1514,
+      "text": " How we cater to this specifically the first name thing."
+    },
+    {
+      "start": 1514,
+      "end": 1515,
+      "text": " Yeah."
+    },
+    {
+      "start": 1515,
+      "end": 1518,
+      "text": " Is the placeholder we put in for first names is like more than four characters."
+    },
+    {
+      "start": 1518,
+      "end": 1523,
+      "text": " It's like I think it's well, first underscore names of like 10 characters."
+    },
+    {
+      "start": 1523,
+      "end": 1524,
+      "text": " 10 characters."
+    },
+    {
+      "start": 1524,
+      "end": 1525,
+      "text": " Okay."
+    },
+    {
+      "start": 1525,
+      "end": 1529,
+      "text": " Which is most names most names and also most people probably wrap to like 157 characters."
+    },
+    {
+      "start": 1529,
+      "end": 1530,
+      "text": " Yeah."
+    },
+    {
+      "start": 1530,
+      "end": 1531,
+      "text": " So there's enough space."
+    },
+    {
+      "start": 1531,
+      "end": 1532,
+      "text": " Okay."
+    },
+    {
+      "start": 1532,
+      "end": 1533,
+      "text": " Gotcha."
+    },
+    {
+      "start": 1533,
+      "end": 1535,
+      "text": " I was always curious to see how that kind of supports the insulated details."
+    },
+    {
+      "start": 1535,
+      "end": 1538,
+      "text": " Does everyone charge the same for a text message not from a price perspective?"
+    },
+    {
+      "start": 1539,
+      "end": 1542,
+      "text": " But like our text messages equal across all the platforms."
+    },
+    {
+      "start": 1542,
+      "end": 1543,
+      "text": " So this is a great question."
+    },
+    {
+      "start": 1543,
+      "end": 1546,
+      "text": " So I listed two categories that were different."
+    },
+    {
+      "start": 1546,
+      "end": 1547,
+      "text": " Yeah."
+    },
+    {
+      "start": 1547,
+      "end": 1548,
+      "text": " Fasterless growth, more money from marketing."
+    },
+    {
+      "start": 1548,
+      "end": 1549,
+      "text": " Yeah."
+    },
+    {
+      "start": 1549,
+      "end": 1550,
+      "text": " There's two others."
+    },
+    {
+      "start": 1550,
+      "end": 1551,
+      "text": " One of them is billing and pricing."
+    },
+    {
+      "start": 1551,
+      "end": 1552,
+      "text": " So one of them is this question."
+    },
+    {
+      "start": 1552,
+      "end": 1556,
+      "text": " And there's some small differences between the platforms."
+    },
+    {
+      "start": 1556,
+      "end": 1558,
+      "text": " Some of them are more meaningful than others."
+    },
+    {
+      "start": 1558,
+      "end": 1565,
+      "text": " Clawio uses like a credit-based system where you like sign up for a tier and there's certain amount of credits."
+    },
+    {
+      "start": 1565,
+      "end": 1569,
+      "text": " So you know, there may not be like breakage or use to things like that on post-script side."
+    },
+    {
+      "start": 1569,
+      "end": 1571,
+      "text": " We bill you at the end of the month for whatever you've used."
+    },
+    {
+      "start": 1571,
+      "end": 1573,
+      "text": " It's not like tier credit-based."
+    },
+    {
+      "start": 1573,
+      "end": 1574,
+      "text": " That's great."
+    },
+    {
+      "start": 1574,
+      "end": 1576,
+      "text": " Here is your SMS rate."
+    },
+    {
+      "start": 1576,
+      "end": 1577,
+      "text": " Here is how many SMS you've said."
+    },
+    {
+      "start": 1577,
+      "end": 1578,
+      "text": " Yeah."
+    },
+    {
+      "start": 1578,
+      "end": 1579,
+      "text": " This is what you paid us."
+    },
+    {
+      "start": 1579,
+      "end": 1581,
+      "text": " That's great because during Black Friday I'm always like if you use Clawio,"
+    },
+    {
+      "start": 1581,
+      "end": 1583,
+      "text": " you better downgrade your account after Black Friday."
+    },
+    {
+      "start": 1583,
+      "end": 1584,
+      "text": " Yes."
+    },
+    {
+      "start": 1584,
+      "end": 1585,
+      "text": " Don't have to think about that in the post-script."
+    },
+    {
+      "start": 1585,
+      "end": 1586,
+      "text": " Okay."
+    },
+    {
+      "start": 1586,
+      "end": 1587,
+      "text": " Great."
+    },
+    {
+      "start": 1587,
+      "end": 1588,
+      "text": " Super simple."
+    },
+    {
+      "start": 1588,
+      "end": 1590,
+      "text": " There's also some differences in what we charge for across all the platforms."
+    },
+    {
+      "start": 1590,
+      "end": 1594,
+      "text": " So post-script doesn't charge for inbound messages"
+    },
+    {
+      "start": 1594,
+      "end": 1597,
+      "text": " because you know, people send in messages."
+    },
+    {
+      "start": 1597,
+      "end": 1601,
+      "text": " Post-script also doesn't charge for undelivered messages."
+    },
+    {
+      "start": 1601,
+      "end": 1602,
+      "text": " Okay."
+    },
+    {
+      "start": 1602,
+      "end": 1603,
+      "text": " Messages fail all the time."
+    },
+    {
+      "start": 1603,
+      "end": 1604,
+      "text": " Yeah."
+    },
+    {
+      "start": 1604,
+      "end": 1607,
+      "text": " You're on a plane when we sent you a text or your phone's been taken out of service"
+    },
+    {
+      "start": 1607,
+      "end": 1609,
+      "text": " or you didn't have service at the time, etc."
+    },
+    {
+      "start": 1609,
+      "end": 1615,
+      "text": " Undelivered messages can be a couple percentage points of an overall sending strategy."
+    },
+    {
+      "start": 1615,
+      "end": 1619,
+      "text": " And so this is one core difference between us and attentive is charging for undelivered"
+    },
+    {
+      "start": 1619,
+      "end": 1621,
+      "text": " and charging for inbound messages."
+    },
+    {
+      "start": 1621,
+      "end": 1625,
+      "text": " Also the difference between us and Clawio is charging for undelivered messages."
+    },
+    {
+      "start": 1625,
+      "end": 1626,
+      "text": " Yeah."
+    },
+    {
+      "start": 1626,
+      "end": 1627,
+      "text": " They do and we don't."
+    },
+    {
+      "start": 1627,
+      "end": 1629,
+      "text": " There's another difference in, I don't know, like all the details of the shirts"
+    },
+    {
+      "start": 1629,
+      "end": 1632,
+      "text": " because they're platforms private but I keep hearing about this from brands."
+    },
+    {
+      "start": 1632,
+      "end": 1635,
+      "text": " So I can't vouch for it 100% of the time but I know it's common"
+    },
+    {
+      "start": 1635,
+      "end": 1640,
+      "text": " where we bill for MMS messages very differently than attentive does."
+    },
+    {
+      "start": 1640,
+      "end": 1644,
+      "text": " An MMS message when we go pay, you know, Verizon to deliver an MMS message,"
+    },
+    {
+      "start": 1644,
+      "end": 1647,
+      "text": " it's a standard amount of text."
+    },
+    {
+      "start": 1647,
+      "end": 1650,
+      "text": " It's like you can add emojis in, emojis are different."
+    },
+    {
+      "start": 1650,
+      "end": 1653,
+      "text": " It goes a bunch of ways, you have 1600 characters."
+    },
+    {
+      "start": 1653,
+      "end": 1655,
+      "text": " 1600, 1600 characters."
+    },
+    {
+      "start": 1655,
+      "end": 1661,
+      "text": " And how a ton of bills is they bill for the MMS message"
+    },
+    {
+      "start": 1661,
+      "end": 1665,
+      "text": " and then once you start using up, if you put emojis in there,"
+    },
+    {
+      "start": 1665,
+      "end": 1671,
+      "text": " which people off new in MMS and you use up more than the standard 160 characters,"
+    },
+    {
+      "start": 1671,
+      "end": 1675,
+      "text": " they bill you for additional SMS after that."
+    },
+    {
+      "start": 1675,
+      "end": 1676,
+      "text": " Okay, got so."
+    },
+    {
+      "start": 1676,
+      "end": 1679,
+      "text": " So basically you can have 10X the text on yours versus theirs?"
+    },
+    {
+      "start": 1679,
+      "end": 1685,
+      "text": " Yeah, and so what that turns out to is if a brand is sending tons of like long MMS messages,"
+    },
+    {
+      "start": 1685,
+      "end": 1689,
+      "text": " they'll spend substantially less on post-script than they would on attendance."
+    },
+    {
+      "start": 1689,
+      "end": 1690,
+      "text": " I have one more difference."
+    },
+    {
+      "start": 1690,
+      "end": 1692,
+      "text": " Yeah go ahead, go ahead, go ahead, go ahead."
+    },
+    {
+      "start": 1692,
+      "end": 1697,
+      "text": " This one actually does matter, strategy and support."
+    },
+    {
+      "start": 1697,
+      "end": 1702,
+      "text": " The only thing we do is SMS for Shopify."
+    },
+    {
+      "start": 1702,
+      "end": 1704,
+      "text": " It's what the entire team's focused on."
+    },
+    {
+      "start": 1704,
+      "end": 1706,
+      "text": " It's the only thing they get trained on, they aren't getting trained on email,"
+    },
+    {
+      "start": 1706,
+      "end": 1709,
+      "text": " other platforms, other use cases, anything like that."
+    },
+    {
+      "start": 1709,
+      "end": 1714,
+      "text": " We have things like a two-minute chat support SLA during business hours, right?"
+    },
+    {
+      "start": 1714,
+      "end": 1718,
+      "text": " People complain about getting stuck in the queue of companies all the time."
+    },
+    {
+      "start": 1718,
+      "end": 1721,
+      "text": " Brands come to us for billing, for pricing, for features."
+    },
+    {
+      "start": 1721,
+      "end": 1724,
+      "text": " They often say to us we're going to stay for the support."
+    },
+    {
+      "start": 1724,
+      "end": 1726,
+      "text": " But because we haven't worked with a team like this,"
+    },
+    {
+      "start": 1726,
+      "end": 1728,
+      "text": " we don't get analytics or insights like this."
+    },
+    {
+      "start": 1728,
+      "end": 1730,
+      "text": " It's like, Jones wrote Beauty."
+    },
+    {
+      "start": 1730,
+      "end": 1735,
+      "text": " Cody was pushing us on deeply understanding the incrementality of his SMS spend."
+    },
+    {
+      "start": 1736,
+      "end": 1738,
+      "text": " If you went to any of the other platforms,"
+    },
+    {
+      "start": 1738,
+      "end": 1740,
+      "text": " it wouldn't even know where to start."
+    },
+    {
+      "start": 1740,
+      "end": 1741,
+      "text": " No one would know even where to begin."
+    },
+    {
+      "start": 1741,
+      "end": 1743,
+      "text": " We had a package program with our data science team"
+    },
+    {
+      "start": 1743,
+      "end": 1746,
+      "text": " to run him through to help him deeply understand how much sending is incremental."
+    },
+    {
+      "start": 1746,
+      "end": 1750,
+      "text": " And so that stuff adds up and it does matter."
+    },
+    {
+      "start": 1750,
+      "end": 1752,
+      "text": " Is that available to everyone?"
+    },
+    {
+      "start": 1752,
+      "end": 1753,
+      "text": " I would imagine..."
+    },
+    {
+      "start": 1753,
+      "end": 1756,
+      "text": " It's not an app, it's like a high touch."
+    },
+    {
+      "start": 1756,
+      "end": 1757,
+      "text": " Okay, gotcha."
+    },
+    {
+      "start": 1757,
+      "end": 1758,
+      "text": " Customer success offering."
+    },
+    {
+      "start": 1758,
+      "end": 1761,
+      "text": " Okay. And then when do I get a customer success team assigned to my account?"
+    },
+    {
+      "start": 1762,
+      "end": 1767,
+      "text": " You get a CSM team if you come through our sale process and you work with human."
+    },
+    {
+      "start": 1767,
+      "end": 1771,
+      "text": " You can self-serve into Post-Grip, but once you work with human is when you get set up with a..."
+    },
+    {
+      "start": 1771,
+      "end": 1773,
+      "text": " And there's extra charge for that."
+    },
+    {
+      "start": 1773,
+      "end": 1778,
+      "text": " No, but there isn't an extra charge, but generally how it works is people are not self-serving"
+    },
+    {
+      "start": 1778,
+      "end": 1780,
+      "text": " and they're speaking to a human when they reach a certain size."
+    },
+    {
+      "start": 1780,
+      "end": 1783,
+      "text": " Yeah. And so the economics work for us if they're spending and you certainly don't know how much."
+    },
+    {
+      "start": 1783,
+      "end": 1788,
+      "text": " Okay. Well, you know, I feel like you started that because you knew where I was going to come,"
+    },
+    {
+      "start": 1788,
+      "end": 1789,
+      "text": " which is..."
+    },
+    {
+      "start": 1789,
+      "end": 1792,
+      "text": " I don't know if that's value or not value, but you're like this is value."
+    },
+    {
+      "start": 1792,
+      "end": 1793,
+      "text": " It's real value."
+    },
+    {
+      "start": 1793,
+      "end": 1794,
+      "text": " Okay, gotcha."
+    },
+    {
+      "start": 1794,
+      "end": 1798,
+      "text": " But I respect the fondue thing that seems really interesting."
+    },
+    {
+      "start": 1798,
+      "end": 1802,
+      "text": " What was the thing called where the authentication is right in app?"
+    },
+    {
+      "start": 1802,
+      "end": 1803,
+      "text": " Onside-option."
+    },
+    {
+      "start": 1803,
+      "end": 1804,
+      "text": " Onside-option."
+    },
+    {
+      "start": 1804,
+      "end": 1806,
+      "text": " Yeah, that seems like there's a ton of value right there actually."
+    },
+    {
+      "start": 1806,
+      "end": 1807,
+      "text": " Tons."
+    },
+    {
+      "start": 1807,
+      "end": 1809,
+      "text": " Want to do SMS the right way?"
+    },
+    {
+      "start": 1809,
+      "end": 1811,
+      "text": " You have to go with Post-Grip."
+    },
+    {
+      "start": 1811,
+      "end": 1816,
+      "text": " If you care about maximizing the amount of revenue you generate on SMS and that is your North Star metric,"
+    },
+    {
+      "start": 1816,
+      "end": 1818,
+      "text": " you've got to pick Post-Grip."
+    },
+    {
+      "start": 1818,
+      "end": 1823,
+      "text": " They're dedicated to this channel and if you want to be as good at SMS as possible for your brand,"
+    },
+    {
+      "start": 1823,
+      "end": 1825,
+      "text": " they're really the only option."
+    },
+    {
+      "start": 1825,
+      "end": 1828,
+      "text": " Over 13,000 Shopify merchants swear by Post-Grip."
+    },
+    {
+      "start": 1828,
+      "end": 1834,
+      "text": " Graza, True Classic, Feastables, Brooklinon, Ruggable, Jones Road Beauty, Myel Brand Native,"
+    },
+    {
+      "start": 1834,
+      "end": 1836,
+      "text": " the list goes on and on."
+    },
+    {
+      "start": 1836,
+      "end": 1840,
+      "text": " Learn more at PostScript.io slash limited."
+    },
+    {
+      "start": 1840,
+      "end": 1845,
+      "text": " You know, one of the things that I think you guys do really poorly is explain those differences."
+    },
+    {
+      "start": 1846,
+      "end": 1849,
+      "text": " Particularly on your website because as I was preparing for this,"
+    },
+    {
+      "start": 1849,
+      "end": 1854,
+      "text": " and you know, I think I've had this conversation with you like four times which is how the fuck are you guys different?"
+    },
+    {
+      "start": 1854,
+      "end": 1856,
+      "text": " I still don't understand because people will ask me."
+    },
+    {
+      "start": 1856,
+      "end": 1860,
+      "text": " So it's like, okay, let me do this myself and I'm going to look at your website and figure this out."
+    },
+    {
+      "start": 1860,
+      "end": 1864,
+      "text": " And I was still like, I don't get it and I don't think it's me."
+    },
+    {
+      "start": 1864,
+      "end": 1865,
+      "text": " I think it's you."
+    },
+    {
+      "start": 1865,
+      "end": 1869,
+      "text": " Folks, this is a high-value investor who will speak up and call you on your ship."
+    },
+    {
+      "start": 1869,
+      "end": 1871,
+      "text": " Yeah, well, let's do it."
+    },
+    {
+      "start": 1871,
+      "end": 1872,
+      "text": " We're open."
+    },
+    {
+      "start": 1872,
+      "end": 1873,
+      "text": " Open the feedback."
+    },
+    {
+      "start": 1873,
+      "end": 1878,
+      "text": " Yeah, here's the thing that I do blows my mind that you don't have on your website which on Amazon."
+    },
+    {
+      "start": 1878,
+      "end": 1883,
+      "text": " Like if you're selling a product on Amazon, your bottom module on Amazon is here's my product,"
+    },
+    {
+      "start": 1883,
+      "end": 1887,
+      "text": " here are the competitors and here's a chart based on what I do and what they don't do."
+    },
+    {
+      "start": 1887,
+      "end": 1890,
+      "text": " You know, if I watch an info commercial, they have that."
+    },
+    {
+      "start": 1890,
+      "end": 1892,
+      "text": " They're like, here's what we do and here's what the other guys show to."
+    },
+    {
+      "start": 1892,
+      "end": 1897,
+      "text": " And sometimes the only thing that will be different is support and you're like, okay, this isn't even anything."
+    },
+    {
+      "start": 1897,
+      "end": 1899,
+      "text": " But they'll still have a chart."
+    },
+    {
+      "start": 1899,
+      "end": 1900,
+      "text": " Sure."
+    },
+    {
+      "start": 1900,
+      "end": 1903,
+      "text": " And you guys have on-site opt in, other people don't have on-site opt in."
+    },
+    {
+      "start": 1903,
+      "end": 1905,
+      "text": " You guys have fondue, other people don't have fondue."
+    },
+    {
+      "start": 1905,
+      "end": 1907,
+      "text": " Although I think on-site opt in is probably worth more."
+    },
+    {
+      "start": 1907,
+      "end": 1911,
+      "text": " You guys charge less for an MMS as compared to a tentative."
+    },
+    {
+      "start": 1911,
+      "end": 1912,
+      "text": " Sure."
+    },
+    {
+      "start": 1912,
+      "end": 1914,
+      "text": " You guys won't charge for received messages."
+    },
+    {
+      "start": 1914,
+      "end": 1918,
+      "text": " Why is that not a chart on your homepage being like, let us tell you the difference."
+    },
+    {
+      "start": 1918,
+      "end": 1924,
+      "text": " Certainly, yes, I think if you're a small player, you're like, okay, whatever, let me just sign up for any of them"
+    },
+    {
+      "start": 1924,
+      "end": 1927,
+      "text": " because I'm only going to send out 500 text messages a month."
+    },
+    {
+      "start": 1927,
+      "end": 1928,
+      "text": " Sure."
+    },
+    {
+      "start": 1928,
+      "end": 1932,
+      "text": " If you're Jones Road Beauty or True Classic, you're sophisticated."
+    },
+    {
+      "start": 1932,
+      "end": 1933,
+      "text": " Yeah."
+    },
+    {
+      "start": 1933,
+      "end": 1939,
+      "text": " And you have a salesman, you're going through a sales process across all three brands and you're listening to the sales team"
+    },
+    {
+      "start": 1939,
+      "end": 1940,
+      "text": " and negotiating pricing."
+    },
+    {
+      "start": 1940,
+      "end": 1943,
+      "text": " And you'll understand that and build your own chart."
+    },
+    {
+      "start": 1943,
+      "end": 1950,
+      "text": " But if you're like a small SMB spending, I don't know, $500 or $1,000 a month at SMS,"
+    },
+    {
+      "start": 1950,
+      "end": 1957,
+      "text": " you might not be going through that as same sales process and you might be like, okay, let me see if I can learn what's different."
+    },
+    {
+      "start": 1957,
+      "end": 1958,
+      "text": " Sure."
+    },
+    {
+      "start": 1958,
+      "end": 1964,
+      "text": " And on your site, which I've been to and I'm an investor and I was a user and I understand e-commerce pretty well,"
+    },
+    {
+      "start": 1964,
+      "end": 1966,
+      "text": " I still don't understand all those things."
+    },
+    {
+      "start": 1966,
+      "end": 1970,
+      "text": " They're like hidden in case studies and hidden in so many different places."
+    },
+    {
+      "start": 1970,
+      "end": 1977,
+      "text": " So one of the challenges is that you have been following this space for like five years."
+    },
+    {
+      "start": 1978,
+      "end": 1982,
+      "text": " The differences between us and other platforms, they're like changing every few months."
+    },
+    {
+      "start": 1982,
+      "end": 1983,
+      "text": " It's a competitive space."
+    },
+    {
+      "start": 1983,
+      "end": 1988,
+      "text": " Yeah, after being open close so the one liner from a couple years ago just doesn't apply now."
+    },
+    {
+      "start": 1988,
+      "end": 1992,
+      "text": " So when we check in once a year it's like completely radically different."
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "text": " That's a great answer but that doesn't tell me why there isn't something on the chart."
+    },
+    {
+      "start": 1996,
+      "end": 1998,
+      "text": " I'm sorry, that chart doesn't exist on your website."
+    },
+    {
+      "start": 1998,
+      "end": 2006,
+      "text": " So the other thing is we are in a space with some players who are highly litigious and highly aggressive."
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "text": " And so I think that we do a awesome job storytelling."
+    },
+    {
+      "start": 2011,
+      "end": 2017,
+      "text": " I think our sales decks which like you don't have access to for example, our comparison docs actually think they're very strong."
+    },
+    {
+      "start": 2017,
+      "end": 2018,
+      "text": " I'm happy to send them."
+    },
+    {
+      "start": 2018,
+      "end": 2019,
+      "text": " Yeah, yeah, okay."
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "text": " I'm happy to send them and I think that the scoreboard shows it."
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "text": " Right?"
+    },
+    {
+      "start": 2024,
+      "end": 2029,
+      "text": " Like the scoreboard shows that first of all if you look at the last year the sort of brands that are coming to post-crypt,"
+    },
+    {
+      "start": 2029,
+      "end": 2034,
+      "text": " I mean we are like eating the market sector of DZ commerce."
+    },
+    {
+      "start": 2034,
+      "end": 2044,
+      "text": " I mean true classic cuts, hex clad, rugable, caraway, Mary Rousse, like Jones Row, you know all of these like great brands are coming in."
+    },
+    {
+      "start": 2044,
+      "end": 2046,
+      "text": " And I think they're pretty happy."
+    },
+    {
+      "start": 2046,
+      "end": 2048,
+      "text": " I know Ben and true classic is happy."
+    },
+    {
+      "start": 2048,
+      "end": 2049,
+      "text": " Yeah."
+    },
+    {
+      "start": 2049,
+      "end": 2051,
+      "text": " So I think there's the scoreboard there."
+    },
+    {
+      "start": 2051,
+      "end": 2059,
+      "text": " I also think how many brands have you invested in that have seen the, how many SaaS companies that you invested have seen the growth that we have over the last five years?"
+    },
+    {
+      "start": 2059,
+      "end": 2062,
+      "text": " Like the marketing is working."
+    },
+    {
+      "start": 2062,
+      "end": 2064,
+      "text": " I'm not saying the marketing isn't working."
+    },
+    {
+      "start": 2064,
+      "end": 2067,
+      "text": " You want a clean on-site comparison chart front center?"
+    },
+    {
+      "start": 2067,
+      "end": 2072,
+      "text": " You know it's like when the Warriors won the championship and then they got Kevin Durant,"
+    },
+    {
+      "start": 2072,
+      "end": 2075,
+      "text": " like they weren't like we won the championship that's okay we don't need to change the team."
+    },
+    {
+      "start": 2075,
+      "end": 2076,
+      "text": " They're like, sure."
+    },
+    {
+      "start": 2076,
+      "end": 2081,
+      "text": " Add this guy because now we're going to like have the best record in the NBA."
+    },
+    {
+      "start": 2081,
+      "end": 2087,
+      "text": " And that's what I feel like you guys are, you're like, okay we're winning so we're like a complacent."
+    },
+    {
+      "start": 2087,
+      "end": 2095,
+      "text": " But like, you know I think for most people who are looking at SMS the first thing they think of is they try and put together that chart in their head right away."
+    },
+    {
+      "start": 2095,
+      "end": 2098,
+      "text": " And I'm not sure why it's not clearly obvious on the site."
+    },
+    {
+      "start": 2098,
+      "end": 2102,
+      "text": " Like for I think not just for me like you know for anyone evaluating businesses."
+    },
+    {
+      "start": 2102,
+      "end": 2115,
+      "text": " And upmarket is great but upmarket is because you have amazing sales teams or like a great sales team and you can communicate the differentiation that you have versus your competitors in that sales process."
+    },
+    {
+      "start": 2115,
+      "end": 2116,
+      "text": " Sure."
+    },
+    {
+      "start": 2116,
+      "end": 2118,
+      "text": " But yeah for smaller businesses it's tougher."
+    },
+    {
+      "start": 2118,
+      "end": 2119,
+      "text": " Sure."
+    },
+    {
+      "start": 2119,
+      "end": 2122,
+      "text": " I think it's tougher to discern."
+    },
+    {
+      "start": 2122,
+      "end": 2128,
+      "text": " Is there been a, like the like value props that different size companies grasp onto are quite different?"
+    },
+    {
+      "start": 2128,
+      "end": 2131,
+      "text": " Yeah, yeah but you know what I hear the feedback."
+    },
+    {
+      "start": 2131,
+      "end": 2138,
+      "text": " Yeah look if you don't charge for responses that's clearly value add or lock that's going to be cheaper."
+    },
+    {
+      "start": 2138,
+      "end": 2143,
+      "text": " If you're fuel out MMS is at 1600 characters and somebody else doesn't that's clearly going to be better."
+    },
+    {
+      "start": 2143,
+      "end": 2150,
+      "text": " And I can understand saying hey we're going to do a case study for on site opt in but you can be like you know here's a gift of what our process looks like."
+    },
+    {
+      "start": 2150,
+      "end": 2152,
+      "text": " Here's a gift of what somebody else's process looks like."
+    },
+    {
+      "start": 2152,
+      "end": 2155,
+      "text": " You know it's way easier like everyone understands the value prop."
+    },
+    {
+      "start": 2155,
+      "end": 2156,
+      "text": " Sure."
+    },
+    {
+      "start": 2156,
+      "end": 2162,
+      "text": " You know, every year somebody will tweet out and say the best thing Apple has invented is that thing where you have the authorization code right there."
+    },
+    {
+      "start": 2162,
+      "end": 2165,
+      "text": " Yeah exactly once a year that'll go viral on Twitter."
+    },
+    {
+      "start": 2165,
+      "end": 2167,
+      "text": " You guys have that for SMS."
+    },
+    {
+      "start": 2167,
+      "end": 2177,
+      "text": " And you know I feel like the sales process must be working just seems like you might as well add Kevin Durant because he's not charging anything and you know it's software."
+    },
+    {
+      "start": 2177,
+      "end": 2178,
+      "text": " I would love to add Kevin Durant."
+    },
+    {
+      "start": 2178,
+      "end": 2180,
+      "text": " Yeah yeah we'll see what we can do."
+    },
+    {
+      "start": 2180,
+      "end": 2181,
+      "text": " Okay gotcha."
+    },
+    {
+      "start": 2181,
+      "end": 2185,
+      "text": " Has there been a clear focus on shifting towards enterprise brands now?"
+    },
+    {
+      "start": 2185,
+      "end": 2189,
+      "text": " Like you know all the brands you just mentioned are $100 million plus brands."
+    },
+    {
+      "start": 2189,
+      "end": 2191,
+      "text": " 50 million dollar plus brands certainly."
+    },
+    {
+      "start": 2191,
+      "end": 2193,
+      "text": " Has there been a shift towards that?"
+    },
+    {
+      "start": 2193,
+      "end": 2207,
+      "text": " I think there has because we feel like what we're set up to do which is to be like the best in class for this one channel is most valued and is the best fit and creates the most value up there."
+    },
+    {
+      "start": 2207,
+      "end": 2215,
+      "text": " We often get asked like why shouldn't I just use a tool that has everything in one right that has emails and SMS combined get asked that all time yeah."
+    },
+    {
+      "start": 2215,
+      "end": 2228,
+      "text": " And there's a couple different things that people grasp on to there they grasp on to the idea of like ease of clicking around not being into tools and they grasp on to like attribution that's all in one place those the two main."
+    },
+    {
+      "start": 2228,
+      "end": 2237,
+      "text": " Main thrust of it and look if all brand wants to do is turn on an abandoned cart flow and never think about SMS again."
+    },
+    {
+      "start": 2237,
+      "end": 2244,
+      "text": " Yeah you probably like should go use an all in one tool that's like a good fit yeah if you're actually trying to like make the most money that you can from the channel most efficiently."
+    },
+    {
+      "start": 2244,
+      "end": 2251,
+      "text": " You're going to want to work with a team and a product that's like deeply focused on it that's innovating across these different tools that's like pushing the envelope."
+    },
+    {
+      "start": 2251,
+      "end": 2261,
+      "text": " And so what we want to do is a business and where we think the biggest revenue opportunities for us are aligned which is like be the best in class vendor and up market really values that yeah I'm"
+    },
+    {
+      "start": 2261,
+      "end": 2275,
+      "text": " market is you know those guys are all the brands you just mentioned love money yeah yeah okay we're more text messages sent out with post script via flows or via campaigns campaigns by far by far OK."
+    },
+    {
+      "start": 2275,
+      "end": 2285,
+      "text": " The exception is a cool thing here's another product difference yeah cool thing that we innovated like a year and a half ago is we created a thing called a campaign flow which is the combination of the two."
+    },
+    {
+      "start": 2285,
+      "end": 2296,
+      "text": " It's a flow is something that like one user enters and then goes through the journey but this is setting up a series of campaigns so it's like dropping a whole bunch of users into a flow if you will."
+    },
+    {
+      "start": 2296,
+      "end": 2306,
+      "text": " But in general campaigns see much higher volume how often are brands sending out text messages is there like a is there a campaign is that like yeah something you guys look at or is"
+    },
+    {
+      "start": 2306,
+      "end": 2321,
+      "text": " that so different for everybody we look at it obsessively it's so different for everyone we're seeing it the best practice today is in reflection of the marketing calendar and the merchandising strategy yeah that brand yeah you have a good reason to send a text out every day they're doing that"
+    },
+    {
+      "start": 2321,
+      "end": 2335,
+      "text": " fashion brands and apparel brands yeah can send a much higher volume of messages then like home goods yeah just because you know we get an email from like gap every day and it's totally normal there's just so much selection."
+    },
+    {
+      "start": 2335,
+      "end": 2349,
+      "text": " Yeah I think it's the same for campaign strategy yeah that makes sense that's the same thing with email like you know at native we always struggled with reasons to send out emails we got to like come up we have to be clever about a reason to you know market to you and when I see true classics and"
+    },
+    {
+      "start": 2349,
+      "end": 2362,
+      "text": " text messages where they're like you know 10% off navy blue joggers only like wow you guys have you can do this all day you can do it all day and they see the return from it yeah okay most most brands today are"
+    },
+    {
+      "start": 2362,
+      "end": 2385,
+      "text": " understanding most brands they are under send their understanding because there's been a huge shift in the ecosystem towards efficiency and cost cutting which I think is good and healthy but it's led to a bit of an over correction in SMS in particular where when we do these incrementality studies on one off basis with brands the group where normally it's like there's a control group not getting any text there's one getting the prior cadence"
+    },
+    {
+      "start": 2385,
+      "end": 2393,
+      "text": " and there's like a super sending group and that group by far in a way drives the most return so most brands are understanding."
+    },
+    {
+      "start": 2393,
+      "end": 2401.6,
+      "text": " And our most brands segmenting text messages so that they're like when you launch a campaign is it one text to everybody or our most brands segmenting those"
+    },
+    {
+      "start": 2401.6,
+      "end": 2414,
+      "text": " most brands are segmenting wow okay is your largest customer spending more than six figures a year with you yes wow is anyone spending seven figures yes on text yes"
+    },
+    {
+      "start": 2414,
+      "end": 2431,
+      "text": " wow there's people with big lists who invest in this growth who send a lot of text and the other thing is that lists are still really small right like compared to email SMS lists are still really small just because people have been not only defaulting to email collection but also gathering email for so many more years"
+    },
+    {
+      "start": 2431,
+      "end": 2441,
+      "text": " so lists are going to continue to grow is your best practice when you're like like what is it you know when I think about emails I'm like okay the bounce rate should be this the unsubscribe rate should be this"
+    },
+    {
+      "start": 2441,
+      "end": 2448,
+      "text": " the hard part is you know what are the best practices when it comes to that so the best practice is to look at it through a thing called subscriber LTV"
+    },
+    {
+      "start": 2448,
+      "end": 2455,
+      "text": " something all the benchmarks by product category are live for this on our site so you can go and look at like a peril versus all the different stuff"
+    },
+    {
+      "start": 2455,
+      "end": 2461,
+      "text": " subscriber LTV is what is the value of an SMS phone number to you right yeah simple"
+    },
+    {
+      "start": 2461,
+      "end": 2472,
+      "text": " and we surface this data about each brand in the dashboard and the underlying metrics this is the important in the actual part there's a few things that flow into what the value of an SMS subscriber is one is the revenue"
+    },
+    {
+      "start": 2472,
+      "end": 2480,
+      "text": " per message that you're seeing sure right and we have benchmarks for this and there's a whole bunch of ways to optimize it right you can send less you can target more"
+    },
+    {
+      "start": 2480,
+      "end": 2491,
+      "text": " increase all the stuff there is messages per subscriber on a monthly basis right revenue per message and messages per subscriber how much people are receiving we see this very across brand some people"
+    },
+    {
+      "start": 2491,
+      "end": 2501,
+      "text": " sending as little as like to messages per month the subscriber summer sending like 25 yeah and then there is what we focus on isn't unsubscribe"
+    },
+    {
+      "start": 2501,
+      "end": 2518,
+      "text": " rate but it's a subset it's D 30 unsubscribe rate which is how many people unsubscribe in the first 30 days on the list and the reason we focus on optimizing for that is because people are five times more likely to unsubscribe in the first month than they are there after"
+    },
+    {
+      "start": 2518,
+      "end": 2527,
+      "text": " and so having a great first month journey and experience will keep them on the list longer that's interesting yeah five times more likely in the first 30 days"
+    },
+    {
+      "start": 2527,
+      "end": 2540,
+      "text": " example yeah of an insight that an all in one platform is never going to be able to work with you yeah yeah yeah you guys should talk about that more like you know like that's great information for people to know because I think I would also like be probably a little bit slower in the first 30 days so people"
+    },
+    {
+      "start": 2540,
+      "end": 2550,
+      "text": " get used to my tax messages and then be like okay now I can probably do once every week it's opposed to once every two weeks and if brands do things like start a little slow tell people what they're going"
+    },
+    {
+      "start": 2550,
+      "end": 2580,
+      "text": " to do and then the other is a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going to be a lot of time that's going"
+    },
+    {
+      "start": 2580,
+      "end": 2608.52,
+      "text": " because what has 19�boks can be a lot of time that actually takes it about for 30 minutes and as visitors let me know how can we estimate people's"
+    },
+    {
+      "start": 2608.52,
+      "end": 2613.72,
+      "text": " products. They've been trained on brand voice extensively. There's brand voice audits."
+    },
+    {
+      "start": 2613.72,
+      "end": 2617.4,
+      "text": " We bring a whole bunch of the product to the office so they can like make creative and take"
+    },
+    {
+      "start": 2617.4,
+      "end": 2622.36,
+      "text": " pictures and experience the products live. How many brands are doing this? It's still"
+    },
+    {
+      "start": 2622.36,
+      "end": 2627.8,
+      "text": " like a closed beta. We're also focused on brands need to have a certain amount of annual revenue,"
+    },
+    {
+      "start": 2627.8,
+      "end": 2632.12,
+      "text": " otherwise the unit economics of this don't make it worthwhile for anyone. What's the annual revenue"
+    },
+    {
+      "start": 2632.12,
+      "end": 2636.6,
+      "text": " on that? Generally we're targeting folks that have an annual revenue of over $7 million a year."
+    },
+    {
+      "start": 2637.4,
+      "end": 2640.68,
+      "text": " There's some exceptions to that, especially if it's like a very high priced item."
+    },
+    {
+      "start": 2640.68,
+      "end": 2644.28,
+      "text": " Yeah. But generally that's what we're focused on today. That'll expand over time."
+    },
+    {
+      "start": 2644.28,
+      "end": 2647.16,
+      "text": " Sure. And there's about 40 or 50 brands using it today."
+    },
+    {
+      "start": 2647.16,
+      "end": 2651.16,
+      "text": " And so the brand basically pays you a commission when that sale happens."
+    },
+    {
+      "start": 2651.8,
+      "end": 2656.44,
+      "text": " Correct. And then you pay a commission to the sales agent so that the sales agent also"
+    },
+    {
+      "start": 2656.44,
+      "end": 2660.6,
+      "text": " incentivize you at the sale time. Correct. Who pays for all the costs of the text messages"
+    },
+    {
+      "start": 2660.6,
+      "end": 2664.12,
+      "text": " back and forth? The brand does. The brand does. I mean, not yet. But it's actually"
+    },
+    {
+      "start": 2664.84,
+      "end": 2668.68,
+      "text": " a drop in the bucket compared to their campaigns. Yeah, yeah. Yeah. Because there's not"
+    },
+    {
+      "start": 2668.68,
+      "end": 2672.12,
+      "text": " going to be that many people having conversational text. It's like a single percentage point."
+    },
+    {
+      "start": 2672.12,
+      "end": 2676.28,
+      "text": " Or it's a single digit percentage point increase in their SMS volume."
+    },
+    {
+      "start": 2676.28,
+      "end": 2681.64,
+      "text": " Okay. Let me ask you a company question then. Post-script has always been a weird,"
+    },
+    {
+      "start": 2681.64,
+      "end": 2685.08,
+      "text": " not a weird SaaS business but a SaaS business that has been a weird SaaS."
+    },
+    {
+      "start": 2685.08,
+      "end": 2691,
+      "text": " Like a SaaS business says legitimate costs. Yes. When I think about a company that sends out email"
+    },
+    {
+      "start": 2691.08,
+      "end": 2695.16,
+      "text": " or in triple-wale or something to that effect, I don't think about any costs that they have."
+    },
+    {
+      "start": 2695.16,
+      "end": 2699.24,
+      "text": " You know, they've got data storage but really no cost. When there's a text message being sent,"
+    },
+    {
+      "start": 2699.24,
+      "end": 2703.48,
+      "text": " there's a genuine cost to it. It's not free for anybody including you. Yeah."
+    },
+    {
+      "start": 2704.28,
+      "end": 2709,
+      "text": " I think we're more in the profile of Shopify. Right? It's not like 90% margin SaaS."
+    },
+    {
+      "start": 2709,
+      "end": 2713.8,
+      "text": " It's a little bit lower margin. Shopify has like payment hard costs on their payments line which is"
+    },
+    {
+      "start": 2713.8,
+      "end": 2718.2,
+      "text": " the majority of their revenue. We're like closer to that margin profile. What do you mean by that?"
+    },
+    {
+      "start": 2718.2,
+      "end": 2721.32,
+      "text": " You're closer to a margin profile of like a SaaS business that actually has costs."
+    },
+    {
+      "start": 2721.32,
+      "end": 2722.28,
+      "text": " It's what I mean by that. Okay."
+    },
+    {
+      "start": 2723.08,
+      "end": 2727.32,
+      "text": " And how do you work? Well, I guess when you're going out to raise money then"
+    },
+    {
+      "start": 2728.2,
+      "end": 2732.92,
+      "text": " should you get traditional SaaS valuations or should there be a discount?"
+    },
+    {
+      "start": 2733.48,
+      "end": 2738.76,
+      "text": " It depends on all the other factors that play. Yeah. Right? So the biggest thing is that"
+    },
+    {
+      "start": 2738.76,
+      "end": 2742.2,
+      "text": " we've radically improved our margins over the last couple years, like radically."
+    },
+    {
+      "start": 2742.2,
+      "end": 2747.88,
+      "text": " Now we're close to standard SaaS margins which is great but it's all the other factors"
+    },
+    {
+      "start": 2747.88,
+      "end": 2752.12,
+      "text": " of play. It's like how much are you growing? Are you profitable? How much are you burning? How"
+    },
+    {
+      "start": 2752.12,
+      "end": 2758.36,
+      "text": " efficiently are you growing all the other factors that go into how valuations calculate it? Yeah."
+    },
+    {
+      "start": 2758.36,
+      "end": 2762.44,
+      "text": " But look, the reason I asked that is because now with PostScript sales,"
+    },
+    {
+      "start": 2762.44,
+      "end": 2767.72,
+      "text": " I would imagine that it's even less SaaS-like. Now I look at the business and yeah, maybe the margins"
+    },
+    {
+      "start": 2767.72,
+      "end": 2772.84,
+      "text": " look SaaS-like and I say this and I'm like, look, I really hope you get SaaS."
+    },
+    {
+      "start": 2772.84,
+      "end": 2776.28,
+      "text": " You know, I got a bunch of money at stake too. I really hope you get it. You know,"
+    },
+    {
+      "start": 2776.28,
+      "end": 2781.88,
+      "text": " it's certainly you do as well. Do when people, I guess you have fun raised for a little bit but"
+    },
+    {
+      "start": 2781.88,
+      "end": 2785,
+      "text": " if you were to fundraise today, would people be like, is this a SaaS business? Because those,"
+    },
+    {
+      "start": 2785,
+      "end": 2790.6,
+      "text": " like, you know, okay, so a text messaging has costs but is infinitely scalable. Sure."
+    },
+    {
+      "start": 2791.48,
+      "end": 2797.72,
+      "text": " Sales has costs and is harder to be infinitely scaled because now there's human beings involved"
+    },
+    {
+      "start": 2797.72,
+      "end": 2803.8,
+      "text": " and those human beings are in America and it's great. I think one of the benefits that are"
+    },
+    {
+      "start": 2803.8,
+      "end": 2807.88,
+      "text": " one of the real competitive advantages that direct consumer businesses have is excellent customer"
+    },
+    {
+      "start": 2807.88,
+      "end": 2813.16,
+      "text": " service, which is in the United, like, you know, when you call up American Airlines and you hear"
+    },
+    {
+      "start": 2813.16,
+      "end": 2818.44,
+      "text": " that accent and including me in that accent it's usually somebody who sounds like me. I'm like,"
+    },
+    {
+      "start": 2818.44,
+      "end": 2823.16,
+      "text": " oh, fuck, you know, I'm gonna have to talk to this guy forever. He doesn't even know how to"
+    },
+    {
+      "start": 2823.16,
+      "end": 2827.32,
+      "text": " spell the word Ali and I'm like, you must know 5,000 Ali's around you and you still don't know how"
+    },
+    {
+      "start": 2827.32,
+      "end": 2830.84,
+      "text": " to spell the word Ali. You know, your costs are going to be higher than that because you're hiring"
+    },
+    {
+      "start": 2831.24,
+      "end": 2835.24,
+      "text": " Phoenix and these people are more, you know, yeah, these people can all get a chance of."
+    },
+    {
+      "start": 2835.24,
+      "end": 2838.68,
+      "text": " Yeah, that's right. And so how do you think about that or do you don't think about that?"
+    },
+    {
+      "start": 2838.68,
+      "end": 2843.32,
+      "text": " You're like, let's do the best product. So the exciting thing I would tell you is investor"
+    },
+    {
+      "start": 2843.32,
+      "end": 2850.92,
+      "text": " yeah is that it is not negatively impacting our margins. Okay. The other thing I would say is"
+    },
+    {
+      "start": 2852.28,
+      "end": 2857,
+      "text": " if we were fundraising today, yeah, we're just to you, the actual like scale of revenue compared"
+    },
+    {
+      "start": 2857,
+      "end": 2860.92,
+      "text": " to our chorus, miss marketing business is like quite small that we expect that to rapidly grow."
+    },
+    {
+      "start": 2860.92,
+      "end": 2866.12,
+      "text": " Yeah, however, what we also expect to rapidly grow is over time our ability to automate a lot of"
+    },
+    {
+      "start": 2866.12,
+      "end": 2872.68,
+      "text": " these exchanges. So one way to look at it as we're like building out operationally complex more"
+    },
+    {
+      "start": 2872.68,
+      "end": 2877.96,
+      "text": " manual part of our business, we like doing stuff like that because it's incredibly hard to replicate"
+    },
+    {
+      "start": 2877.96,
+      "end": 2882.68,
+      "text": " it's very moody and it's creating value for brands. We'll do stuff like that all day like like"
+    },
+    {
+      "start": 2882.68,
+      "end": 2889.08,
+      "text": " very moody is my new favorite. And like the post script management team DNA and the"
+    },
+    {
+      "start": 2889.08,
+      "end": 2893.32,
+      "text": " post-repe company team DNA is like if it's value creating for brands, do it. Don't care if it's hard."
+    },
+    {
+      "start": 2893.32,
+      "end": 2897.72,
+      "text": " Yeah, like let's do it. But the other thing is if you think about the like huge"
+    },
+    {
+      "start": 2898.68,
+      "end": 2904.2,
+      "text": " innovation and trends happening in AI, like will we slowly be able to improve both lower the costs"
+    },
+    {
+      "start": 2904.2,
+      "end": 2908.76,
+      "text": " for brands and improve the margin profile of that business through like slowly and smartly"
+    },
+    {
+      "start": 2908.76,
+      "end": 2912.68,
+      "text": " automating the low value exchanges that happen because there's a lot of low value exchanges."
+    },
+    {
+      "start": 2912.68,
+      "end": 2916.12,
+      "text": " It's not all like yeah, someone waltzing in ready to buy joggers. Yeah, yeah."
+    },
+    {
+      "start": 2917.48,
+      "end": 2923.88,
+      "text": " Yes, I think very confidently yes. And so the other way to look at it is we're making an investment"
+    },
+    {
+      "start": 2923.88,
+      "end": 2930.6,
+      "text": " in a totally unique set of trained data that no one else is going to have aimed at sales selling"
+    },
+    {
+      "start": 2930.6,
+      "end": 2936.36,
+      "text": " conversations if for e-commerce, that's really valuable and like that's really valuable in the AI world."
+    },
+    {
+      "start": 2936.36,
+      "end": 2941.64,
+      "text": " So we're playing a long game there. It's not hurting us in the short term and it's potentially"
+    },
+    {
+      "start": 2942.52,
+      "end": 2948.52,
+      "text": " incredibly valuable in the long term. You can't take this concept and plug in chat GBT and like"
+    },
+    {
+      "start": 2948.52,
+      "end": 2952.92,
+      "text": " expect it to do selling conversations. Yeah, it doesn't it won't work. And so you're plugging it"
+    },
+    {
+      "start": 2952.92,
+      "end": 2959.08,
+      "text": " in certain spots but not all over low low low value like um and and we have how fast will this"
+    },
+    {
+      "start": 2959.08,
+      "end": 2964.84,
+      "text": " end we have hundreds of thousands of trained conversations of trained selling conversations that makes"
+    },
+    {
+      "start": 2964.84,
+      "end": 2969.56,
+      "text": " the models that were deploying for AI good and relevant. Yeah, like weird chat box. Yeah, has"
+    },
+    {
+      "start": 2969.56,
+      "end": 2974.36,
+      "text": " that lift started to happen already? Have you already started to deploy AI into post-script sales?"
+    },
+    {
+      "start": 2974.36,
+      "end": 2979.24,
+      "text": " No comment no comment. Okay. I remember the first time you told me about this I was like uh oh"
+    },
+    {
+      "start": 2981.32,
+      "end": 2985.96,
+      "text": " and I remember and I still am not sure how I feel but although I've heard great things actually"
+    },
+    {
+      "start": 2986.68,
+      "end": 2991.56,
+      "text": " so I feel a little less uh oh. But you know, I was like okay I can see how this makes sense for"
+    },
+    {
+      "start": 2991.56,
+      "end": 2997.24,
+      "text": " a thousand dollar mattress or you know, a ten thousand dollar diamond ring from Blue Nile. Right."
+    },
+    {
+      "start": 2997.24,
+      "end": 3002.04,
+      "text": " But I think one of the first examples you gave me was like silicone rings or something like that"
+    },
+    {
+      "start": 3002.04,
+      "end": 3005.96,
+      "text": " and you're like this brand's at AOV is like fifteen dollars and it's worth a hundred and twenty five"
+    },
+    {
+      "start": 3005.96,
+      "end": 3010.84,
+      "text": " dollars and it's working. Is there a sweet spot there? Or is there? Yeah, where's the sweet spot?"
+    },
+    {
+      "start": 3010.84,
+      "end": 3015.16,
+      "text": " There is a sweet spot in the long term once it's like automated and much cheaper. Yeah, then"
+    },
+    {
+      "start": 3015.16,
+      "end": 3022.6,
+      "text": " for anyone but um there is a sweet spot today so like medium to high AOV brands really see"
+    },
+    {
+      "start": 3023.24,
+      "end": 3027.32,
+      "text": " the like highest incremental lift. What does medium to hide mean here? So,"
+    },
+    {
+      "start": 3027.32,
+      "end": 3031.88,
+      "text": " trooclassic is done well with this. Yeah. Right. They aren't like I think their AOV is like"
+    },
+    {
+      "start": 3031.88,
+      "end": 3036.28,
+      "text": " Ben would know. I mean you guys have mounted rough around a hundred bucks. Yeah. Nothing"
+    },
+    {
+      "start": 3036.28,
+      "end": 3041.08,
+      "text": " nothing crazy. Caraway, the pots and pants they've seen an incredible amount of success with this."
+    },
+    {
+      "start": 3041.08,
+      "end": 3044.52,
+      "text": " They're really excited about it. That's even higher AOV. Yeah. Like high consideration,"
+    },
+    {
+      "start": 3044.52,
+      "end": 3050.44,
+      "text": " high AOV goods having a conversation just like when we walk into a store yeah to objection handle"
+    },
+    {
+      "start": 3050.44,
+      "end": 3057.8,
+      "text": " to help educate that's high value. However also lower AOV brands who either have a really engaged"
+    },
+    {
+      "start": 3057.8,
+      "end": 3064.28,
+      "text": " community or a strong brand voice they're also seeing good results so yes. Fifteen dollar totally"
+    },
+    {
+      "start": 3064.28,
+      "end": 3069.8,
+      "text": " transactional drop shipper this isn't like worth it. The economics won't work for anyone but"
+    },
+    {
+      "start": 3069.8,
+      "end": 3075.96,
+      "text": " Dr. Squatch has been early adopter. They're not super high AOV right there so sure yeah they've seen"
+    },
+    {
+      "start": 3075.96,
+      "end": 3084.12,
+      "text": " consistently great results and if you google Dr. Squatch Chad Reddit, you will see this huge sub"
+    },
+    {
+      "start": 3084.12,
+      "end": 3088.36,
+      "text": " community on Reddit filled with people who've had conversations with Chad which is the persona"
+    },
+    {
+      "start": 3088.36,
+      "end": 3093,
+      "text": " that Dr. Squatch uses and they're like raving about it and it's because they have this like funky"
+    },
+    {
+      "start": 3093,
+      "end": 3099,
+      "text": " brand they let the team like sell and be weird and so they still see really good results even though"
+    },
+    {
+      "start": 3099,
+      "end": 3104.44,
+      "text": " it's lower AOV. Let's use Dr. Squatch as an example. What percentage of sales will have been"
+    },
+    {
+      "start": 3104.44,
+      "end": 3109.8,
+      "text": " touched by somebody you has a conversational conversation with somebody through a post script"
+    },
+    {
+      "start": 3109.8,
+      "end": 3117.24,
+      "text": " for Dr. Squatch is that less or more than 2% more more than 2% of people. Yes wow okay that's"
+    },
+    {
+      "start": 3117.24,
+      "end": 3122.04,
+      "text": " a lot more than I would have guessed yeah the results very a bit brand brand it's so early we're"
+    },
+    {
+      "start": 3122.04,
+      "end": 3128.44,
+      "text": " figuring out a lot still but our north star is we want it to eventually double a brand's SMS revenue."
+    },
+    {
+      "start": 3128.44,
+      "end": 3134.36,
+      "text": " Yeah okay that's what we're shooting for. Okay let's shift to marketing for SaaS business. Let's do it."
+    },
+    {
+      "start": 3134.36,
+      "end": 3140.04,
+      "text": " You know I remember you guys were tiny when I invested five years or however long it was"
+    },
+    {
+      "start": 3140.84,
+      "end": 3146.6,
+      "text": " and have grown so much team of 300 people offices and Phoenix, Tel Aviv and elsewhere across the"
+    },
+    {
+      "start": 3146.6,
+      "end": 3152.84,
+      "text": " country. What worked for you? Did you grow from product market fit or were there certain sales"
+    },
+    {
+      "start": 3152.84,
+      "end": 3157.32,
+      "text": " techniques that you guys had that were you found successful and the reason I ask is a lot of SaaS"
+    },
+    {
+      "start": 3157.32,
+      "end": 3160.84,
+      "text": " brands will reach out to me and be like how does SaaS brands grow and I'm like I have no idea but"
+    },
+    {
+      "start": 3160.84,
+      "end": 3168.68,
+      "text": " you will. It is not as scalable to grow in SaaS yeah it's so much more at least in like B2B"
+    },
+    {
+      "start": 3168.68,
+      "end": 3175.56,
+      "text": " at a healthy AOV like we are in a company that's scaling through self-serve customers that pay us"
+    },
+    {
+      "start": 3175.56,
+      "end": 3180.28,
+      "text": " $15 a month yeah we have a lot of them I love them but like we're scaling through like an enterprise"
+    },
+    {
+      "start": 3180.28,
+      "end": 3187,
+      "text": " sale motion and you need an AOV that supports that. We've grown through grinding for years"
+    },
+    {
+      "start": 3187,
+      "end": 3192.52,
+      "text": " yeah like it started off really deeply engaging in the e-commerce community that was good for"
+    },
+    {
+      "start": 3192.52,
+      "end": 3197.48,
+      "text": " us early on yeah that came about through showing up at events through working agency partnerships"
+    },
+    {
+      "start": 3197.48,
+      "end": 3202.52,
+      "text": " all kinds of stuff like that participating in social online like community and word of mouth"
+    },
+    {
+      "start": 3202.52,
+      "end": 3209.56,
+      "text": " really strong product market fit was like the bedrock pop which we grew and then over time we layered"
+    },
+    {
+      "start": 3209.56,
+      "end": 3214.52,
+      "text": " in more traditional motions like now we have a large BDR organization they do excellent work they"
+    },
+    {
+      "start": 3214.52,
+      "end": 3219.72,
+      "text": " help us like set meetings with potential customers do you find you get meetings with enterprise"
+    },
+    {
+      "start": 3219.72,
+      "end": 3225.48,
+      "text": " businesses by sponsoring you know I don't know shop talk or grow comp like you know I don't know"
+    },
+    {
+      "start": 3225.48,
+      "end": 3229.72,
+      "text": " what you guys really sponsor but like do you guys find that that has value like do you get enterprise"
+    },
+    {
+      "start": 3229.72,
+      "end": 3237.08,
+      "text": " meetings as a result of that so we do but it is not off the shelf like we have a hardcore and like"
+    },
+    {
+      "start": 3237.08,
+      "end": 3241.96,
+      "text": " sophisticated approach to events we were convinced I was at grow LA last week yeah had a good time"
+    },
+    {
+      "start": 3242.68,
+      "end": 3248.92,
+      "text": " did really well for us there yeah but you cannot buy a booth somewhere and hang out and expect to"
+    },
+    {
+      "start": 3248.92,
+      "end": 3255.72,
+      "text": " like come home have you made it at all you need a aggressive pre-event and post event strategy"
+    },
+    {
+      "start": 3255.72,
+      "end": 3260.04,
+      "text": " trying to like set pre-meetings with people to connect there you need target lists you need to"
+    },
+    {
+      "start": 3260.04,
+      "end": 3264.76,
+      "text": " have a team that shows up that knows how to work events yeah which is not hanging into your booth"
+    },
+    {
+      "start": 3264.76,
+      "end": 3269.88,
+      "text": " it's like a very very outgoing approach you need to be hosting events dinners and things around"
+    },
+    {
+      "start": 3269.88,
+      "end": 3274.92,
+      "text": " the event and here's the other secret you need a price point and unit economics that make that"
+    },
+    {
+      "start": 3274.92,
+      "end": 3282.28,
+      "text": " worthwhile someone a Zach from homestead would just tweeted out his like non acquisition software"
+    },
+    {
+      "start": 3282.28,
+      "end": 3287.24,
+      "text": " spend and post-script was posted in Shopify were like the most expensive thing yeah yeah I said"
+    },
+    {
+      "start": 3287.24,
+      "end": 3294.36,
+      "text": " and because SMS is expensive we can charge a lot more than someone that's then a SaaS vendor"
+    },
+    {
+      "start": 3294.36,
+      "end": 3299.48,
+      "text": " that's charging 250 bucks a month yeah I would say they're gonna really struggle scaling through events"
+    },
+    {
+      "start": 3299.48,
+      "end": 3304.6,
+      "text": " the unit economics like aren't gonna back out for them did you guys do anything unique early on"
+    },
+    {
+      "start": 3304.6,
+      "end": 3307.96,
+      "text": " in order to get clients or was it just sort of like product market fit you guys look you guys were"
+    },
+    {
+      "start": 3307.96,
+      "end": 3313.24,
+      "text": " pioneers in the category and so that might have done it itself product market fit aggressive"
+    },
+    {
+      "start": 3313.24,
+      "end": 3319.08,
+      "text": " customer support yeah aggressive community engagement I did this thing where I tweeted out this thread"
+    },
+    {
+      "start": 3319.08,
+      "end": 3325.8,
+      "text": " our second black Friday because our first we were nobody's where a couple weeks before I offered to run"
+    },
+    {
+      "start": 3325.8,
+      "end": 3333.08,
+      "text": " a brands like SMS myself for like the holiday season so it was community engagement it was like"
+    },
+    {
+      "start": 3333.08,
+      "end": 3339.72,
+      "text": " talking to agencies being on social media going to events and like also having an incredibly fast"
+    },
+    {
+      "start": 3339.72,
+      "end": 3344.44,
+      "text": " chat support SLA that was going to me or Adam or Colin we were iterating the product off that"
+    },
+    {
+      "start": 3344.44,
+      "end": 3348.2,
+      "text": " and people knew that when they would work with us we would like help them they would get set up"
+    },
+    {
+      "start": 3348.2,
+      "end": 3352.36,
+      "text": " that sort of approach not only helped us refine the product but it also led to word amount"
+    },
+    {
+      "start": 3352.44,
+      "end": 3358.2,
+      "text": " that's fantastic is all all unsexy yeah like yes we're running some paid ads of course but like"
+    },
+    {
+      "start": 3358.2,
+      "end": 3362.44,
+      "text": " that isn't where our growth has come from yeah it's like much more of just driving positive customer"
+    },
+    {
+      "start": 3362.44,
+      "end": 3366.04,
+      "text": " sentiment and word of mouth and being super in game yeah I love that you volunteer to be like let me"
+    },
+    {
+      "start": 3366.04,
+      "end": 3371.32,
+      "text": " run your SMS strategy for blind Friday that's amazing yeah that's really cool we should for this coming"
+    },
+    {
+      "start": 3371.32,
+      "end": 3375.16,
+      "text": " back right so my day we should run that back I'd love to do that I do it we should figure out a way"
+    },
+    {
+      "start": 3375.16,
+      "end": 3378.52,
+      "text": " to distribute it for the limits supply audience okay yeah that would be fantastic let's do that"
+    },
+    {
+      "start": 3378.6,
+      "end": 3382.44,
+      "text": " okay we've got to wrap up if people want to follow you on twitter your active on twitter how should"
+    },
+    {
+      "start": 3382.44,
+      "end": 3387.8,
+      "text": " they do that I'm at ring my beller on twitter or they can reach out to me Alex at postcrypt.io I'm"
+    },
+    {
+      "start": 3387.8,
+      "end": 3391.8,
+      "text": " always available all right fantastic thanks for doing this really appreciate it for having me"
+    },
+    {
+      "start": 3391.8,
+      "end": 3396.76,
+      "text": " thanks for tuning in we'll be back next time to cut through the noise and cpg retail and e-commerce"
+    },
+    {
+      "start": 3396.76,
+      "end": 3401.64,
+      "text": " and if you enjoyed this episode then why not share it with a friend and be sure to subscribe"
+    },
+    {
+      "start": 3401.64,
+      "end": 3403.64,
+      "text": " wherever you listen so you don't miss the next one"
+    }
+  ]
+}

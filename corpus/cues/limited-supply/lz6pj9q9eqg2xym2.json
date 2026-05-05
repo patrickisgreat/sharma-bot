@@ -1,0 +1,369 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co.com slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 56.15,
+      "text": "Today's episode is a good one. But before we dive in, let me tell you about our chosen sponsor for this week's episode. Think about your best friend and how they shop. It's vastly different than how you might shop online and you both should never get the same card reminder emails. That's where instant AI takes over. In the last few weeks, instant rolled out AI flows for over 500 brands. The momentum is crazy and one of my favorite brands tripled their email revenue in just 60 days. That's one of hundreds of wins they've had so far."
+    },
+    {
+      "start": 56.15,
+      "end": 75.77,
+      "text": "Here's why it works. Instant can immediately understand who's on your site and what all they've been looking at. The discount, the copy, the imagery, the on-site promotion, all of that's pulled dynamically into personal email flows. Then it sends it at the exact moment that the shopper is ready to buy. Black Friday is basically tomorrow and every hour you wait is money you'll never get back."
+    },
+    {
+      "start": 75.77,
+      "end": 99.25,
+      "text": "Don't let your retention emails stay old and lame while everyone else cashes in. Book a demo by November 28th and get 50% off your first 60 days at instant.one.sharma. Do it now and turn this Q4 into your biggest ever. Welcome back to another episode of Limited Supply. Today is recording this on Monday, November 24th. So we are just, we're on the same week as Black Friday."
+    },
+    {
+      "start": 99.69,
+      "end": 126.25,
+      "text": "And I know a lot of people are just going to be moving and grooving, trying to get everything done and ready for Thursday, Friday, all the way through next Friday. So I thought, let me just make something that's quickly tactical, easy, fun to digest. You can listen to it as you're on the go or in between hanging out with family. So what I did is I just went through all of my newsletters on Black Friday and I just made a very quick, you know, 70 point checklist."
+    },
+    {
+      "start": 126.25,
+      "end": 154.75,
+      "text": "All the things that you want to make sure you have and double check at the last second just so there's no issues around, you know, your codes going live, your products working, coupons being applied, discounts, all that stuff. So let's get into it and get started. So this is the last minute BFCM checklist, everything to double down and double check before your sale starts. So we're going to go in different sections. I'm going to start with the website and just tech."
+    },
+    {
+      "start": 154.99,
+      "end": 183.07,
+      "text": "Then we'll go into email. We'll go into paid media, organic and social, influencers, ops, and then just some last few things we can add at the end. So starting with the site, number one, test every variant selector, add to cart, slide out cart, and checkout button. Basically every CTA should be double and triple checked. I recommend checking it for mobile. You know, a lot of times mobile development layouts can be different than what the dev layout is."
+    },
+    {
+      "start": 183.23,
+      "end": 210.57,
+      "text": "It's not necessarily always a super responsive coded page. So especially if these are landing pages, if these are extra collections pages, if these are alternate PDPs, anything that you built custom and kind of away from your normal, you know, collections or PDP template, double and triple check that on mobile and desktop, all the things work. Variant selectors pull the right color. They show the right imagery, you know, maybe change any information down below."
+    },
+    {
+      "start": 211.13,
+      "end": 239.05,
+      "text": "All the buttons add the right products with the right quantities, with the right selling plan, aka is it one time or a subscription? And with the right subscription, right? If you're running a promo where you're doing 30% off the first order and 20% off or 15% off the subsequent orders, then making sure that that button adds the right selling plan. And then, of course, making sure that your slide out cart works. Everything, you know, testing an empty cart state, right? Do you have, ideally, you have some sort of social proof or a quote or something in there."
+    },
+    {
+      "start": 239.81,
+      "end": 266.81,
+      "text": "And then when you have a product, do you have the right product being cross sold or upsold? Are you offering to go to subscription? And then, of course, you know, if you have a coupon code slot at the bottom of that slide out cart, make sure that that works and applies. You know, ideally, if you prep for this, you also are highlighting your discounts and savings in the slide out cart before somebody goes to just kind of that Shopify checkout. So, anyways, that's number one. Number two is test basically the same thing with all the promo codes."
+    },
+    {
+      "start": 266.95,
+      "end": 293.69,
+      "text": "So, there are likely going to be automatic, you know, auto-apply promo codes that you have going on as well as manual promo codes, meaning people enter it once they get to the site. So, my recommendation is that anytime you have a link, so let's say you've got a link going from an ad or a newsletter or a text to your website. If there's a code to be applied, you know, let's say it's small business Saturday and you've got, you know, Saturday 30 is your code."
+    },
+    {
+      "start": 293.87,
+      "end": 323.41,
+      "text": "Then the link that you give out in text or email should already include that code and redirect them either to a specific landing page, a collections page, or maybe it's also just the homepage. But you can do it in a way where the code auto-applies. Honestly, you can just ask ChatGPT to give it your My Shopify URL, right, which you can find in your Shopify backend. And then put it into ChatGPT, tell it the discount code and the page you want to redirect to. It'll make you those links."
+    },
+    {
+      "start": 323.69,
+      "end": 353.51,
+      "text": "But that extra 30 seconds you spend to make those links and put them in your newsletters or your text messages is going to increase your conversion rate a little bit. You're not going to be able to quantify it right away, but trust, it helps. Number three is confirm that all the discounts start and end at the right time zone. So a lot of people get this wrong because they just do sales for their own time zone. But you have to, especially in the US, you have to really think about starting in the East Coast. And I always say you can end in the West Coast."
+    },
+    {
+      "start": 353.81,
+      "end": 382.63,
+      "text": "Most brands don't ship to Hawaii, so you don't really have to worry about that. And Hawaii is generally not a huge market from an e-commerce standpoint. So you can just do, you know, start 12.01 a.m. EST or whenever you want to start the stale, you start that on the EST side. Whenever you end it, you end it on the PST side. So for example, let's say you're starting your cyber week. You know, you start it, let's say, Sunday, right, a day early than Cyber Monday. You start it Sunday at 12.01 a.m. Eastern Time."
+    },
+    {
+      "start": 382.63,
+      "end": 409.57,
+      "text": "You're going to end that, let's say you're ending it Friday, you're going to end it Friday, 11.59 a.m. PST or 2.59 a.m. EST on Saturday because that's 11.59 p.m. on the West Coast. So you want to make sure that your West Coast people are always taken care of. And the other thing you want to do too is, you know, make sure that that happens because the West Coast, a lot of the shopping happens late night."
+    },
+    {
+      "start": 409.81,
+      "end": 438.91,
+      "text": "So you'll probably notice, I mean, you've probably just noticed in general pattern-wise, there's usually two bumps in the evening in terms of traffic and purchases. And that's what you want to make sure you account for. The next one is to update your homepage hero with your Black Friday offer. A lot of brands somehow forget this because the homepage hero is generally something that a lot of brand sites nowadays aren't really like, they don't change that often. So it's sort of set and then it's not really changed. Maybe the copy's updated."
+    },
+    {
+      "start": 439.13,
+      "end": 466.61,
+      "text": "But I would 100% think about this like the way a Nordstrom would or an Amazon would, right? But use that real estate at the top of your banner to really push the sale and exaggerate what it is. Make it very stupid simple for somebody to read it and digest it and know exactly what the sale is. Even if they leave then, they should have it in their mind so that they can come back later and, you know, remember the sale or maybe they talk about it with somebody else."
+    },
+    {
+      "start": 467.45,
+      "end": 495.97,
+      "text": "The announcement bar is another one at the very top. That even if you don't update your banner, you should at least do the announcement bar. It's super easy to do. I would make it clickable in a way so you get to the sale right away. And I would also make sure that you have two to three messages in there. I'm also a fan of making sure it's even. So, you know, you don't have one line full of a sentence and then line number two has one word in it. I think that looks weird. So make sure it's formatted nicely and nice and easy on the eyes."
+    },
+    {
+      "start": 497.15,
+      "end": 525.43,
+      "text": "Number seven, add a countdown timer to landing pages and key product pages. So this you can add. You can also add this at the very top. I've seen some brands do this well where you just have a timer for when the sale ends or maybe when the current offer on the sale ends. But that's something you can easily add in. And while it might sound tacky for like evergreen time periods, I think it's totally fine to do when the entire world is all about getting a deal. Number eight, site speed."
+    },
+    {
+      "start": 525.71,
+      "end": 553.59,
+      "text": "You know, site speed is probably one of the biggest factors in if this person is going to convert or not. Especially during Black Friday, Cyber Monday, if you're taking extra time to get somebody to convert, you know, people don't really have patience. They want to see the product they want. They want to buy it and they're out. They don't really care about your brand. They don't really care about much. They just want their deal. That's why they're buying your product on Black Friday and not on Black Friday. Next one is to make sure all your pixels fire."
+    },
+    {
+      "start": 553.71,
+      "end": 580.99,
+      "text": "So everything from your Pinterest, your Google, your TikTok, your Pinterest, your Klaviyo, your Meta. I said Pinterest twice. All of those, you should make sure they all fire. They're all sending events back properly. If you use something like a blotout, then you're probably able to send your events back and confirm that. I know Elevar has like a match rate number. It'll tell you every week compared to where it should be versus where you're actually at. So just double, triple check, make sure that everything is properly firing."
+    },
+    {
+      "start": 581.25,
+      "end": 609.27,
+      "text": "You know, if you're using landing pages on a subdomain, then make sure that those events are properly firing and that whoever your data, you know, consolidation and segmentation partner is, like a blotout, for example, make sure that they're also aware if you've got subdomain pages running traffic so they can properly route that data in the right way. Next one is to validate that all your on-site, you know, really just heat maps, scroll depth maps,"
+    },
+    {
+      "start": 609.45,
+      "end": 637.51,
+      "text": "things that you can understand consumer behavior and why something may or may not be working. So whether you use a clarity or use a heat map.com, both are great. Heat map gives you a lot of those AI suggestions, but make sure that those are live and those are working. You should also run cross browser and device checks with browser stack. There's another tool. I think it's called litmus, if I'm not wrong for you can do that for email and kind of look at all your emails in light and dark mode across a bunch of different device sizes."
+    },
+    {
+      "start": 637.51,
+      "end": 665.85,
+      "text": "But definitely use browser stack because you want to make sure that in both iOS and Android, mobile, desktop, tablet sizes, and just computer desktop, all those are working properly. And, you know, you don't have, again, if you've got pages that you're like coding custom for Black Friday, special landers, special collections pages, that's really the ones you want to check. Next one is to freeze your code. So for some reason, brands just don't freeze their code, especially during this period too. And they might still make updates."
+    },
+    {
+      "start": 666.11,
+      "end": 693.45,
+      "text": "My suggestion is if something is not mission critical, if it's not going to compromise your sale, just leave it. Deal with it after. It's not worth it. All right. Next one. Okay. This one you probably should have done before. This is probably too late to be a last minute, but it's to merge reviews across duplicate SKUs. So a lot of brands have bundles they sell. And depending on when you set those bundles up, whether it was before or after Shopify made it easy to kit bundles"
+    },
+    {
+      "start": 693.45,
+      "end": 720.89,
+      "text": "in Shopify's backend, you may have duplicate SKUs. And what happens is when you do duplicate SKUs, you don't make sure that the reviews are properly displayed across all the products. Caraway, the cookware brand, does a phenomenal job of this. If you go to any PDP, you'll see that they do a really good job matching bundles and individual SKUs to make sure that the reviews are shared across. And it just looks overall really, really strong. All right. Next one."
+    },
+    {
+      "start": 721.31,
+      "end": 748.59,
+      "text": "Validate redirect logic for all the vanity URLs. So for example, you've probably got vanity URLs. If you don't, you should. You should never have these long URLs in your Instagram bio, on Instagram stories, over text. Honestly, even over email, I'm a fan of trying to use vanity short URLs. But nobody's copying emails there or links, so you don't really have to. But for text, for sure. You know, Facebook groups, influencers, creators, like all of them should have vanity URLs."
+    },
+    {
+      "start": 748.87,
+      "end": 774.23,
+      "text": "That's, you know, for example, apple.com slash Sharma, right? That would be a vanity URL. And when somebody clicks that, it might redirect to apple.com slash products slash iPhone 17, you know, question mark, UTM source equals influencer, UTM medium equals Nick Sharma. And that way on their end, they can still see it and properly track it. But for me, if I share it to my audience, it just looks like apple.com slash Sharma, which is a lot cleaner."
+    },
+    {
+      "start": 775.73,
+      "end": 802.75,
+      "text": "And especially if you're working with creators, influencers, bloggers, affiliates, it's much easier to give them a URL that's just easy for them to remember. You know, another example, when I worked at Hint, our domain was drinkhint.com, still is. And I bought the domain hint.co and use that for all our creators. So if you go to hint.co slash Sarah, you know, it went to Sarah Dietschy's specific offer and landing page. And we could track all that traffic and look at the individual conversion rate."
+    },
+    {
+      "start": 802.93,
+      "end": 831.81,
+      "text": "We could then tag those users as people who came in with the UTM. When we look at customer cohorts in six months, 12 months later, we can see how that cohort does. A lot of reasons to use these vanity URLs. Next one, ensure that your back in stock alerts are active and configured and ready to go. There's been so many times where products run out of sale on Black Friday or run out of stock rather because the sale is so good. And there's just never a back in stock widget or thing ready to go."
+    },
+    {
+      "start": 833.49,
+      "end": 859.63,
+      "text": "There's actually a couple months ago, I did a vibe coding night with Billy Howell, who was also on the podcast. You should listen to if this sounds of interest, but we vibe coded a back in stock widget. So a lot of those people are going to have their own coded widget for their website. If you want to learn how to do that, I recommend checking out the episode I did here with Billy. But make sure those are ready because as soon as something's out of stock, you want to start collecting that demand. Obviously, you're collecting emails and phone numbers."
+    },
+    {
+      "start": 859.77,
+      "end": 889.57,
+      "text": "And if you use something like Instant, you can get their anonymous data without even collecting it. But you want to try to get more segmented, more product-specific back in stock information. So that's where you collect phone number or email on the PDP itself. It is Black Friday, so it should be enough to just get their phone number or email. If that carries over into the evergreen period or to the non-sale period, you can always do something like offer a discount or say that, hey, if you enter your email today, you're"
+    },
+    {
+      "start": 889.57,
+      "end": 916.83,
+      "text": "guaranteed that your order of this product will ship by this date or that it'll be available for you by this date. And yeah, I recommend doing that. A lot of people don't. Okay, every customer who comes in that's a new customer during BFCM, tag them. Just tag them BFCM 2025 so that later you can track these people differently. And last thing on the website, number 20 is confirm that your Shopify scripts don't conflict"
+    },
+    {
+      "start": 916.83,
+      "end": 942.01,
+      "text": "with any discount logic during this period of time. So what that means is a lot of people have scripts that go. So for example, a new customer offer, okay, we'll add these three items in the back, add this other item to be pick and pack so it shows up on the shipping side. Or discount happens this way. Or this person adds this to cart, automatically add this product to cart as well. All these different scenarios that exist."
+    },
+    {
+      "start": 942.27,
+      "end": 969.37,
+      "text": "You want to make sure that you test all of your offers with all the scripts that are live so that you can make sure that you're not double or triple discounting or doing anything that will kind of harm you in the long run. Brands like ThirdLove, Liquid IV, and NeuroGum all swear by Instant. They've tripled their email revenue and some like Karen Cain even see a 5x increase. Why? Well, because AI can build hundreds of versions that you'll never have time to make."
+    },
+    {
+      "start": 969.53,
+      "end": 997.8,
+      "text": "While you're running your brand, Instant is running all the experiments, figuring out what works, and then continuously optimizing those to keep the conversions growing. Last chance. Don't get left behind while everyone else goes AI. Book a demo by November 28th and get 50% off your first 60 days at instant.1 slash Sharma. Go lock it in and crush BFCM. Now we're going to move to email and SMS. So the first one is prep your entire email schedule."
+    },
+    {
+      "start": 997.92,
+      "end": 1027.38,
+      "text": "This is something that's probably already done. So you don't really need to do this, I would imagine, or hopefully you don't. But you want the first one to kick off at 12.01. You want to then build out segmented didn't open and open but didn't click resend groups. So these are people who have shown some level of interest, either because they're on your list and maybe recently shown engagement, or because they opened but didn't click, and you're going to hit them back. You're going to set exclusions. So buyers during this period stopped getting sale blasts."
+    },
+    {
+      "start": 1027.7,
+      "end": 1053.12,
+      "text": "You want to add dynamic banners, which you can do for sure in Klaviyo. But these dynamic banners are basically, they show the sale. So whatever the ongoing sale is that day, that's the dynamic banner that gets inserted. And because it's dynamic, you change it once. It applies to everywhere. You update your pop-ups. So I've recommended using Alia. I'm a fan because of just how, I'm like the one Indian who does know how to code. So it's very easy to set up a pop-up and get your opt-in really high."
+    },
+    {
+      "start": 1053.34,
+      "end": 1082.7,
+      "text": "But make sure that you have something like, you call out the discount in the pop-up. People should be entering, they should think they are entering their email in order to unlock the discount. You know, you don't want to just have like sign up for updates as your email pop-up during this time. You want to make sure from an SMS standpoint, you get an announcement, you get one kind of midday push or mid-sale push, and then maybe a last call. SMS, you probably want to be a little bit smarter about how you segment just because it is significantly"
+    },
+    {
+      "start": 1082.7,
+      "end": 1106.58,
+      "text": "more expensive to send. So, you know, if you've got people you've sent texts to before who have joined the group and never purchased, maybe not really need, you don't need to send it to them. You can let email kind of capture that. But yeah, you can kind of, depending on your price point, your purchase frequency, you know, and sort of how these people came in, you can kind of decide and figure out what, how you segment those lists out."
+    },
+    {
+      "start": 1107.52,
+      "end": 1134.14,
+      "text": "Um, just because this has happened, um, in the past, I would recommend pre-writing three different emails. Uh, one is a site issues, kind of a plain text emergency email. So just, just have it ready to go, right? You can have like 80% of it filled out, except maybe that 20% that decides exactly how it's going to get handled. You can pre-write a shipping delays emergency email. So, you know, basically it's, uh, it's pretty common for warehouses to get backed up or"
+    },
+    {
+      "start": 1134.14,
+      "end": 1164.04,
+      "text": "for orders to get backed up, especially if you're using a 3PL, um, you know, that, uh, that, that is just maybe smaller, uh, as a lot of smaller brands do. So you can have a shipping delays email ready to go. And then a product sold out email ready to go with a waitlist CTA. So again, that would go back to the back in stock reminder. I talked about before. Next one is to add an email reminding customers that your discount expires in X amount of hours. So, you know, we talked about the announcement launch reminders and last call. This would probably go in the reminders category."
+    },
+    {
+      "start": 1164.44,
+      "end": 1191.78,
+      "text": "Um, you can do another founders, founders, plain text email that goes out, you know, during the sale as a reminder as well. Um, make sure you segment your VIPs on both SMS and email for early, uh, you know, early access slash preview. And the last thing I wrote is just test your emails across devices. And, uh, it is litmus. That is the app. All right, moving on to paid media. Yeah. Uh, if you didn't already upload your cyber week ads, uh, do them right now."
+    },
+    {
+      "start": 1192.26,
+      "end": 1221.08,
+      "text": "Um, this is also, you know, regardless of whether or not you have a rep, the, the pre the approvals go slowly during this period of time. So, um, not only is everybody approving a ton of ads, but they're also, uh, fighting a bunch of ads that probably got disapproved. So the overall process is a little bit slower. Make sure those are in your best evergreen ads. I would duplicate them and add sale overlays. This is again, something you probably already did. If you have evergreen winners that you're planning to turn off, my recommendation is to not turn"
+    },
+    {
+      "start": 1221.08,
+      "end": 1247.62,
+      "text": "them off, but instead redirect the URL that it's going to. So for example, if it's going to a landing page, but you instead want it to want it to go to a holiday theme landing page, just do that redirect, but do it in Shopify or whatever your CMS for the website is. Don't do it in Facebook because if you do it in Facebook, it's going to reset the learning for the ad entirely. Um, but if you have something that's working, right, the click through rate is strong. The CPM is good. Then just change the URL redirect on the back. Um, and that works out really well."
+    },
+    {
+      "start": 1248.84,
+      "end": 1277.92,
+      "text": "Um, you probably also have, um, you've probably scaled your budgets up. Make sure you also scale your retargeting budgets proportionately, right? Because this is a period of time where you get a ton of extra traffic, but also this is the time where you want to hit everybody and let them know if they haven't bought, but shown intent that, uh, you're running a sale and, uh, this is their best time to buy as well. Um, make sure that you've got, um, you know, TikTok shop set up, TikTok ads going, make sure you've got, uh, product feeds uploaded."
+    },
+    {
+      "start": 1278.26,
+      "end": 1306.7,
+      "text": "So if you're updated rather. So if you're using like a Marpipe, um, to run your sale, um, catalog creative and pricing, make sure that that's properly updated and synced out with all the other platforms, whether it's a GoPuff, a TikTok, a Facebook, a Google, whatever. Um, and then the last thing is just make sure that all of your DPA ads are also, uh, just showing the right price. So, you know, do it in Marpipe and then go validate it, uh, in ads manager and make sure that it's all working properly. Um, all right."
+    },
+    {
+      "start": 1306.7,
+      "end": 1336.42,
+      "text": "We're going to get to the next section here, which is organic social. Organic social is one of the things that, um, for some reason, a lot of the brands miss. And I think it's just because most brands tend to focus on customer acquisition with paid media during this time. So organic gets some love and some attention, but not necessarily a lot. Um, but right off the bat, you know, update your bios with your BFCM offers. So if you've got different offers throughout the days, make sure those are being updated. Um, I recommend also just adding a pin story highlight called BFCM."
+    },
+    {
+      "start": 1336.42,
+      "end": 1362.96,
+      "text": "And every time you've got a new story or you have something that relates to BFCM, throw it in there. But as the sales go on, delete them from the beginning so that if somebody joins on Monday, right, if somebody comes to your account Monday and they click the BFCM highlight, they shouldn't see everything from Friday, Saturday, Sunday. You know, if you, if you're adding a bunch of stuff in there, I would remove it. But if you've just got maybe a summary slide of what the sales were Friday, Saturday, Sunday, and then it goes into Monday, I think that's fine."
+    },
+    {
+      "start": 1362.96,
+      "end": 1390.18,
+      "text": "Um, but I'm not a fan of making it too hard once somebody gets in that highlight to see what it is. Um, you also want to make sure you've got, uh, bios updated. So bio should have the offer, uh, the link in bio, whether that's, uh, in the actual bio itself or it's within that cluster of links to click. Um, another suggestion there don't, you know, if you, if you have more than two, if you have two or more links in that bio, it's two clicks to get to the site versus one."
+    },
+    {
+      "start": 1390.44,
+      "end": 1419.86,
+      "text": "So if you've got more than two, make sure that you absolutely need more than two for this period. Otherwise remove them and just keep one. That way it's one click to get to the website. Um, and ideally you're going to a sale landing page. Ideally you're using a, you know, apple.com slash Insta or apple.com slash Insta BFCM. Something that signals that it's traffic from Instagram, uh, and it's unique to that user coming from Instagram. Cause that's also a perk and a reason to click. And then, um, BFCM just hints to the person that, yeah, the sale is going to be on this"
+    },
+    {
+      "start": 1419.86,
+      "end": 1449.5,
+      "text": "page when you get there. But then on your end that might unravel and include UTM parameters for where it comes from. And then of course, again, like I mentioned earlier, you can tag and track those people down the road. In addition to updating all your bios, making sure that pinned posts are on Instagram, TikTok, and Twitter announce or X announcing the sale. Um, I would create story, uh, posts every day that, uh, talk about each of the sales and what they are, what products are in it. Are there any bundles?"
+    },
+    {
+      "start": 1449.66,
+      "end": 1476.6,
+      "text": "You know, you put a timer, is there any UGC? Basically think of this as, um, think of your story as sort of like, uh, an advertorial slash longer version of a TV commercial, maybe right? TV commercial, you have less intent behind the viewer because they're watching for something else. But if somebody comes and sees your story, you have them a little bit more. So feel free to give them everything. What's the sale? How long is it run? What's included? Uh, tell me other people who bought from the sale and loved it. Show me proof, right?"
+    },
+    {
+      "start": 1477.18,
+      "end": 1505.54,
+      "text": "Um, you can, if you want run an Instagram live or a TikTok live during your peak hours. Um, I wrote about it in this last weekend's newsletter, but brands are crushing on TikTok live and, uh, and some have a really elaborate setup with stages and sets and multicam and some don't, some are just very simple. So you can kind of go on and see how they're doing it and see if that's something you want to explore. But my guess is it's already the 26th today. So probably don't have time."
+    },
+    {
+      "start": 1505.96,
+      "end": 1534.8,
+      "text": "Um, and then the last one is just, uh, this one is an easy one to do and, um, always hits it out of the park. Kind of goes with the, the email idea of sending a founder plain text email, but just record a founder video in front of your iPhone. Just put the camera down, you know, make sure your phone's not, uh, directly on the table because then the mic and the speaker don't work well together, but you just put it down in front of you, record a video announcing the sale, why you're excited about the sale. You know, maybe a couple of personal anecdotes that makes it feel like, uh, you know,"
+    },
+    {
+      "start": 1534.8,
+      "end": 1564.64,
+      "text": "you're telling somebody as a friend versus telling them as a, as a company, but these tend to have high click through rates and also high conversion rates. So it's easy to do if you can run it from the founders, uh, actual Instagram and TikTok accounts, that's always also a good idea, but something that takes 45 seconds and has a really big payoff. Now going on to affiliates and influencers. So affiliates, you want to start by emailing all your affiliates. And if you have them on text or discord or Slack, however you have them, you want to"
+    },
+    {
+      "start": 1564.64,
+      "end": 1590.14,
+      "text": "make sure they're all getting their codes, their auto apply links, any sort of talking points that are different than what they may have before. Or, um, you know, you also want to assume that people lose things. So just resend all the talking points and then, uh, sale start and end times for each sale. So what this does is it just gives them a quick sheet they can reference for the next week or so in the future as they're quickly going and posting and grabbing links."
+    },
+    {
+      "start": 1590.14,
+      "end": 1617.44,
+      "text": "You know, these, um, a lot of these affiliates, creators, uh, influencers, they tend to be people just working from their phones, uh, and doing everything from their phones, shooting content, editing, posting, um, and communicating. So make it very easy for them to copy paste. Even when you send the email of their link, their codes start and end times, make it super, super, super easy to, in, in terms of format. Um, you know, in theory, like a five-year-old should be able to, to find that email and"
+    },
+    {
+      "start": 1617.44,
+      "end": 1646.62,
+      "text": "know exactly what their link is, when the sale starts, when it ends, what's included, what should they say, et cetera. You can also reward your top, um, partners with extra commission or, uh, you know, goalie famously in the past has given away cars. Or, um, I know a friend who does this with, uh, apartments in Miami, like he'll give away a year of rent in Miami or something. But, um, you know, if you can get your affiliates to go really hard for you, um, you know, that apartment or that car ends up being pretty cheap."
+    },
+    {
+      "start": 1647.7,
+      "end": 1674.56,
+      "text": "Lastly, I would say, yeah, make sure that you've just got everything to be honest with affiliates. It's just really about making sure that they've got all the rules and they've got everything. Uh, they tend to move quick. And if you miss their window of getting prepped with them, you might just miss it entirely. So, um, so yeah, prepare as much as you can. And then last section I want to get into is basically opts and CX. So this is usually, you know, this is kind of the other side of really good customer acquisition"
+    },
+    {
+      "start": 1674.56,
+      "end": 1702.36,
+      "text": "is you just get a lot of people who are generally newer to the brand. Uh, they're coming to buy cause it's on a discount. And so they have a lot of questions or a lot of issues or maybe things they want to know. So number one, prepare a proper BFCM FAQ that you use internally. So what are all the shipping times? What are all the shipping carriers? What kind of questions might somebody ask? What's the return policy? You know, Google and, uh, TikTok and a few others, uh, prefer if you have longer return policies."
+    },
+    {
+      "start": 1702.36,
+      "end": 1731.9,
+      "text": "Uh, that's just a side note, but if you have a different return policy, like I saw on TikTok, there except some brands are accepting returns until February 10th, 2026. Make sure that that's clearly outlined any and all discounts, whether they're scripts that are evergreen, whether they're automatically applied, whether they're coupon codes, whether they're creator codes, um, there should be almost like a Google sheet of all the discounts that your CX team has. So that way, if somebody emails in and says, Hey, I used a sour cream 10 as the, um, discount code."
+    },
+    {
+      "start": 1732.26,
+      "end": 1756.98,
+      "text": "And, you know, it's not one of your traditional BFCM ones. They can go quickly look up the offer, you know, in a Google sheet or whatever, see the code when it was run, who's for, et cetera, and just validate all that. You also want to make sure that, uh, you have that because you don't want people using, um, discount codes that they shouldn't be using. So if somebody does try to use it and then emails in and says they tried to, it didn't work, you know, you can provide them with that information."
+    },
+    {
+      "start": 1757.46,
+      "end": 1784.32,
+      "text": "Um, preload macros, of course, uh, any, anything related to here, you know, ideally around shipping times around, uh, shipping delays, maybe, um, I would make sure that you have fulfillment expectation set. So, you know, on the marketing side, we love to, uh, over promise and ideally over deliver, but we do like to over promise. So make sure that from your CX side, you are under promising and over delivering. And, uh, hopefully there's not really any issues, uh, on the 3PL side, but if there"
+    },
+    {
+      "start": 1784.32,
+      "end": 1813.08,
+      "text": "are, you want to make sure that you are flagging it to your 3PL about any sort of expected order volume spikes. Um, typically you just go through prior years, uh, data and, you know, make sure that they're aware of what's about to come. Make sure that your, uh, CS staff is on call and on Slack. Uh, you can create a dedicated BFCM issues channel. Ideally you add maybe one person for marketing. One person from web, you know, one person from the retention side, just so you have kind of a mini SWOT team where you can bring about issues or errors."
+    },
+    {
+      "start": 1813.24,
+      "end": 1841.88,
+      "text": "A lot of times too, if you've got a coupon code, that's not working on the website, this is where, um, it'll get flagged first. And that way, so in order that, in order to get a change and updated the right way, jumbling my words, um, have a, uh, proper, you know, incentives or a reply structure when it comes to people complaining, whether it's order delays, shipping delays, you know, whatever it may be. So have, you know, if it's their fault, maybe it's like a $5 code."
+    },
+    {
+      "start": 1842,
+      "end": 1868.92,
+      "text": "If it's our fault, maybe it's a $15 code, whatever it may be. But each brand has a different one. Um, and then lastly is just make sure that your order confirmation emails that are going out. So, you know, those tend to be evergreen setups, make sure that they are updated, uh, maybe with dynamic blocks to also reflect BFCM language. So the fact that, Hey, we are working as fast as we can, but our order still may take a little while, whatever it may be. You just want to make sure it is really obvious to the consumer that these are BFCM orders."
+    },
+    {
+      "start": 1869.22,
+      "end": 1897.74,
+      "text": "And so, um, you know, there might be delays or there might be just something that's a little different. Okay. Last couple of things I want to go into, uh, is one, um, you know, if you, if you can, um, try to gamify your first 500,000, 5,000 orders, right? Depending on how big you are, that always does well. And maybe it unlocks a free gift or a bigger discount or a gift card that they can get and use in January and come back. That always does well. Uh, you can add a small mystery gift to orders to boost AOV."
+    },
+    {
+      "start": 1898,
+      "end": 1927.5,
+      "text": "So mystery gift might be something where you market up, uh, or rather you, you say like, Hey, this is a $25 or $50 mystery gift, but you offer it for half the price or 40% off. And you basically are telling them like, Hey, this is a bit of a gamble, but I'm giving to you as a discount. Um, make sure you've got tailored bundles already on the website. Make sure you've got replenishment upsells or just any sort of upsells on the thank you page. Once somebody's placed an order, if somebody clicks no on the first one, I recommend having a second one."
+    },
+    {
+      "start": 1927.62,
+      "end": 1956.88,
+      "text": "You can never really go wrong with two upsells, uh, or an upsell and a downsell. Um, you could definitely run the founders trick, you know, founder email, founder Instagram ad. Um, I would also recommend just making sure you've got the sale on the founders actual Instagram as well. Um, verify every link and every email ad pop-up and text message, um, stress test your checkout. Uh, and then do, do every, every few hours I would recommend going incognito and doing test purchases."
+    },
+    {
+      "start": 1957.3,
+      "end": 1986.74,
+      "text": "Um, so I would, I would just basically keep testing it nonstop that really the rule of thumb is like, even though everything might work properly, something might still break. So just keep testing everything. Um, and lastly, make sure that you get some espresso ready. You hydrate, you text your team, block the calendar, do what you need to do because, uh, this is the Superbowl and everything that goes right or everything that goes wrong is your fault. So make sure you get it done. That's all we've got for this week. So good luck on Black Friday."
+    },
+    {
+      "start": 1987.16,
+      "end": 2016.84,
+      "text": "Hopefully, uh, you found one or two tips here that saved you and, um, I'll see you next week. We'll go through a full recap of Black Friday. What I saw that was interesting, what was not interesting and, uh, what I'm excited for going into December. So that's it. Uh, hit me on Twitter. If you've got any questions, my email is just nick at nick.co and I'll see you next week. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever"
+    },
+    {
+      "start": 2016.84,
+      "end": 2018.34,
+      "text": "you listen. So you don't miss the next one."
+    }
+  ]
+}

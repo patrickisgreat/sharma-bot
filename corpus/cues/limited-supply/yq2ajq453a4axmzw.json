@@ -1,0 +1,364 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.63,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co.com, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.63,
+      "end": 46.37,
+      "text": "Today's episode is a good one. But before we dive in, let me tell you about our chosen sponsor for this week's episode. If you're a Shopify brand, pay attention. Roku Ads Manager is built for growth marketers and makes connected TV way easier to test. Go to advertising.roku.com slash limited supply."
+    },
+    {
+      "start": 48.34,
+      "end": 75.3,
+      "text": "All right, welcome back to another episode of Limited Supply. Today's gonna be a fun one because I'm just gonna rant about AI. And you know, we've talked about AI before. We've had different guests on in the past. We've talked about AI. We had Dylan recently from Mention Stack who talked about kind of AI SEO, or what people now call AEO and GEO."
+    },
+    {
+      "start": 77.4,
+      "end": 97.14,
+      "text": "AI, you know, AI engine optimization or generative engine optimization. And then we've had other people come on and talk about AI creative. We've had, you know, members from both the SaaS world and the e-com world come."
+    },
+    {
+      "start": 97.9,
+      "end": 125.58,
+      "text": "And to be honest, like up until probably call it a month ago, I think for the most part, everybody was kind of just on the same page about AI. It's like, all right, it exists. We're gonna use it for, you know, we're gonna try to incorporate it, right? We know that AI is here to stay. It's not something that's just like a trend. Like, you know, fart coin, for example, or NFTs, right? Those were here. And then they were not here. And while they were here, everybody was like,"
+    },
+    {
+      "start": 125.58,
+      "end": 146.64,
+      "text": "Oh, we got to figure out how we're going to leverage blockchain technology for our brand and create memberships with NFT tokens and all this other kind of like wasted time that that was spent on that stuff. So a lot of people are very cautious about the what they're calling the AI wave. But realistically, it's just a new technological revolution, right? The same way there was the industrial revolution. This is just another one."
+    },
+    {
+      "start": 146.64,
+      "end": 175.52,
+      "text": "And so I always think back to those old like Gary V videos where he would be yelling at somebody and saying, you know, you didn't believe in the television when that came around and you thought radio was going to be forever. And then, you know, when the new the phone came out, then you thought the television was going to last forever. Or when the computer came out, you thought it was gonna be the television when the phone came out, you still thought it was gonna be the computer. So like, there's all these examples of where people there's a revolution very obviously happening in front of them, and people don't take advantage of it."
+    },
+    {
+      "start": 176.04,
+      "end": 205.34,
+      "text": "So today's podcast episode is actually inspired by a newsletter I wrote last Sunday. So if you're not on that, go to nick.co slash subscribe and ik.co slash subscribe. You know, I kind of wrote this rant after really just spending a whole week last week fully immersed in it. I mean, I've spent probably the last like month and a half, two months really immersed in it. Like super, super deep in it. And I'll share some examples of that in a second. But the last week or so,"
+    },
+    {
+      "start": 205.52,
+      "end": 229,
+      "text": "it's just been like, things have gotten so much better. You know, when when last year, when I hosted the Ecom AI Summit in New York at Webster Hall, we had like probably 400 brands in the room. And the most engaging session there was vibe coding an app from scratch. And when we vibe coded this app from scratch, people loved it because it was essentially like taking something that you know, they would"
+    },
+    {
+      "start": 229,
+      "end": 256.78,
+      "text": "otherwise pay maybe 25, maybe 50, maybe 400 bucks a month for. You know, because Shopify scale, a lot of Shopify apps scale their pricing based on order volume. So if you're a big store, you're just naturally penalized for doing nothing other than being successful. You know, I'm Indian. You like to save money. So do I. So we thought, all right, let's let's vibe. Let's teach people how to vibe code apps. So we started doing this, you may have mentioned we had Billy on the"
+    },
+    {
+      "start": 256.78,
+      "end": 285.26,
+      "text": "on the podcast as well, once or twice. And he walked us through this process of creating apps, right? It was like you start with the idea, you sort of outline the idea, and you worked with different models. At the time, we were mainly talking about open AI. And then we were looking at things like Replit, Cursor, Lovable, as kind of the platform to deliver on what we were trying to make, whether it was a landing page, whether it was a mini app, whether it was something that integrates directly into Shopify,"
+    },
+    {
+      "start": 285.6,
+      "end": 314.9,
+      "text": "whether it's a script that Shopify uses, based on, you know, if then statements with orders. And that was great. Like a lot of people, I think, got to hear that episode and then figured out how to create a build your own bundle app or create a subscription upsell in the cart or create a regular upsell in the cart or, or whatever it may be, right? A back in stock app. And we even did another event with Billy where I rented out the Shopify space in New York, and we had like 100"
+    },
+    {
+      "start": 314.9,
+      "end": 339.24,
+      "text": "people come and we all built a back in stock app together and then integrated it in Shopify. So it's not like AI has not been here. But when I tell you AI has been here in a completely different way the last two weeks, like if you're not on board at this point, if you're not getting on board, if you're not starting to use AI, you're going to for sure be left behind. Like I just gave my mom"
+    },
+    {
+      "start": 339.24,
+      "end": 364.86,
+      "text": "this speech two weeks ago when I was leaving an event. And I was like, mom, if you're not on Claude right now in two months, when it becomes even more advanced and even more of a black box, which I'm going to talk about in a second, you're going to be left behind. You're not going to know how something works. And therefore, when you ask a prompt and you see the end result, you're not going to know what took place behind the scenes. Because right now what's happening is as these AI"
+    },
+    {
+      "start": 364.86,
+      "end": 392.66,
+      "text": "tools are getting stronger, and I'm talking about every two to three weeks, there's a new model that drops. And I'll explain models in a second. When these models drop, they do more and more things without you being able to see what's being done. Because that's just how they progress. They're just getting smarter and smarter. They're learning from these millions of users, hundreds of millions of users, I think maybe, who are already using AI and using it to build new things"
+    },
+    {
+      "start": 392.66,
+      "end": 421.3,
+      "text": "or create new things or speak about different things differently. So when these models drop, and you can't see what's going on behind the scenes, it's like the equivalent of running ads in 2017 or 2014. That's when I started running ads. 2014, using Power Editor, the jankiest of the jank, still worked. Maybe better than today's ads manager, actually more uptime. But everything was manual. You had to choose your audience, you chose your targeting, you chose your placements,"
+    },
+    {
+      "start": 421.46,
+      "end": 450.44,
+      "text": "you chose your bidding strategy, you chose... Literally every little nook and cranny was chosen by you. And when you talk to a media buyer from 2014, they have a much different approach and a different respect to the ads manager as a whole. Most people who are buying media in 2014, they remember that feeling... You get that gut feeling as a media buyer because you have so much control and you can have your fingers in a bunch of different pieces of the action."
+    },
+    {
+      "start": 450.44,
+      "end": 478.22,
+      "text": "Versus today, it's like, hey, I want to run this post as an ad or I want to run this creative as an ad. And it's relatively simple. There's a couple things you got to do. For the most part, it's up. Maybe you're changing a few things, but for the most part, you're relying on Meta's algorithm, whether you use a different algorithm. You know what I mean. I'm not going to even get into it and try to sound smarter than I am. So that same approach is what's happening now in AI."
+    },
+    {
+      "start": 478.22,
+      "end": 507.37,
+      "text": "And new models are coming out every two weeks. What's a model? Well, there's a few different companies that are kind of like the big players in the space, right? So first of all, we're going to talk about models and then we're going to talk about wrappers. Models are... And we're not talking about models and wrappers like in the club. That's funny. But models and wrappers, it's a good event name actually. So models are put out by companies like OpenAI, Anthropic, Perplexity. What are some"
+    },
+    {
+      "start": 507.37,
+      "end": 532.05,
+      "text": "of the other ones? There's some companies in China that have made some good models, whether it's for video or for graphics or for text. There's a bunch of different models, right? And so these companies put them out and then they name them. So you might have like Claude Sonnet. You might have Claude Opus. You might have OpenAI, you know, ChatGBT 5.4, 5.6. These are all different models. And"
+    },
+    {
+      "start": 533.01,
+      "end": 561.93,
+      "text": "while they're all still accessible, the newest ones obviously cost the most to use token-wise or credits-wise, depending on what the platform you're using quantifies them as. And they get smarter, more efficient, faster. They start to do things without you having to ask. So, you know, a previous version of a model might be like when Billy was on, right? It might be like, hey, let me use this model to help me define the prompt. Then let me take this model and put it"
+    },
+    {
+      "start": 561.93,
+      "end": 590.05,
+      "text": "into this different software, which might be a wrapper, which I'll talk about in a second. And let me build the landing page there. Or let me build the module of the Shopify site there. And then let me use something else to actually integrate it into my site. Now, it's more like, hey, I want to build this model or this module in my website that explains how my product works, shows three to four GIFs as a side-scrolling slideshow for desktop and mobile, you know,"
+    },
+    {
+      "start": 590.65,
+      "end": 616.41,
+      "text": "put it in my Shopify theme, or put it in this Shopify theme, which is currently in staging, and, you know, send me a preview link. And boom, it just happens now. So that whole reason right there, seeing the going from, you know, the comparison of going from like, let me build a prompt to let me use one thing, let me take that output, let me then put it somewhere else, take that output, put it somewhere else. That's kind of the old way of working,"
+    },
+    {
+      "start": 616.41,
+      "end": 643.37,
+      "text": "right? It's basically like, you have AI employees to some degree, or like AI building things for you. And then you are kind of managing, you're the project manager. Now, the project management layer is almost getting taken over by AI. And depending on how much you are constantly feeding in, educating the bot, to be honest, what I do, because this sounds weird, right? You're saying like, oh, I got to teach my bot. I just name them. So I've got, I've got four. My first one,"
+    },
+    {
+      "start": 643.37,
+      "end": 668.27,
+      "text": "I named him Sanjay, just because, you know, the homie Sanjay. The second one, I named him Jet. The third one was Geo. And the fourth one was Cole. So now I've got names for them. They've all got kind of personalities that I've given them, inspired by different TV show characters. They're all sitting right in front of me. I'm looking at three Mac minis and one MacBook Pro here at my desk. They're all not, the only cable connected in is a power cable. And these are"
+    },
+    {
+      "start": 668.27,
+      "end": 697.77,
+      "text": "all running what's called OpenClaw. You've probably seen OpenClaw all across Twitter. OpenClaw is basically an open source, almost think of it, I guess, like an open source operating system that lives on top of your Mac computer. So, you know, everybody on Twitter recommended Mac minis. So Mac mini is what I got. I went and bought three from B\u0026H, two of the base model. And then one is just a little bit more souped up. That's my personal Clawdbot or OpenClawbot. I think Clawdbot got"
+    },
+    {
+      "start": 697.77,
+      "end": 722.33,
+      "text": "a message from Clawd to change their name to OpenClaw or MaltBot is, I think, the new name. So I set up OpenClaw or MaltBot on these three computers plus this laptop that's sitting here. One for me is just a full-time second brain. Now, the way I'm thinking about this second brain is I'm feeding it everything. It has read access to emails, to calendar, to WhatsApp, to Telegram."
+    },
+    {
+      "start": 724.59,
+      "end": 749.05,
+      "text": "Zoom, Fireflies call recordings, Slack messages. Now keep in mind, I said read-only access. So that's the difference between, you know, everybody freaking out about giving it full access to everything, which would include the ability to write, send emails, delete emails, write messages out publicly versus it has its own email address, right? Which kind of state that's like its own"
+    },
+    {
+      "start": 749.05,
+      "end": 775.63,
+      "text": "system OS email to set up the Mac and whatnot. Outside of that, it doesn't have any ability to send emails. So, but it has every ability to read and receive. So the benefit of that is every day it sends me a brief every like three, four hours with basically a full update of, hey, by the way, on Slack, you missed this. On email, you missed this. You know, here you missed this. These things are still pending. This thing came into your email. It looks urgent."
+    },
+    {
+      "start": 775.63,
+      "end": 800.63,
+      "text": "And then the more that I kind of teach it back, like, hey, by the way, this isn't urgent. This stuff needs to go here. When you see this next time, send it there. The more you can do that, the more it learns and the faster it's going to just work kind of for you as a better agent. And the other two went to my offshore team members, Ramiz and Manuel. So one is for Ramiz, one is for Manuel, and they're going to basically 10x their output as a result."
+    },
+    {
+      "start": 801.67,
+      "end": 828.39,
+      "text": "Now, you're probably wondering, all right, this all sounds maybe somewhat interesting. I'm not sure. And, you know, what kind of stuff can I build with it? Well, there was a few things that I wrote in my newsletter that I wanted to share here. So one is called, one is called Zykes. One of my friends that I grew up with, his name is Nick Poogee. He's the most decorated or, you know, the ADA lawsuit"
+    },
+    {
+      "start": 828.39,
+      "end": 857.25,
+      "text": "defending attorney who's defended the most ADA cases in the country, maybe the world, but definitely the country. He's the youngest partner at Denton's. He's a beast. And I was just thinking, you know, these lawyers, they get like, a lot of them get brought in to just defend brands versus proactively protect. But what if we could build a tool where we could almost use the same exact methods and tactics and tools that these like scummy ambulance chasing attorneys use?"
+    },
+    {
+      "start": 857.31,
+      "end": 886.33,
+      "text": "So we don't even have to get to a, you know, defensive attorney and get to the settlement piece. So we built Zykes.com, Z-I-K-E-S.com, me and a couple friends. And it works. Like you put your domain in, we run a ton of tests. And within five minutes, we tell you how much liability you have on your website. You know, any website might have like a million to 10 million in liabilities. And then it tells you exactly how to fix it. And hey, if you don't want to fix it,"
+    },
+    {
+      "start": 886.43,
+      "end": 915.45,
+      "text": "you'd rather just pay somebody else to do it. You could do that too. But it'll, when it tells you how to fix it, what would normally take like months to develop, right? To be able to crawl, build a database of rules, constantly be updating that database of rules, then to create an app with a front end, a back end, a database, all talking to each other, all secure, all efficient. And then be able to create these front facing kind of front end reports and UI and all that stuff like"
+    },
+    {
+      "start": 915.45,
+      "end": 940.27,
+      "text": "that would have easily taken weeks, if not at least a couple months. We built this in, you know, probably three, four days and then continue to refine it. And it's an amazing product. Another example, if you check out DTC101.com, this is just a site I built when I was traveling last week on the plane. I took, you know, three, four years of newsletter data, extracted that into about"
+    },
+    {
+      "start": 940.27,
+      "end": 964.75,
+      "text": "6,000 plus tactical, highly offensive, like playing on the offense, not offending you, but highly offensive style tips and turned it into DTC101.com. You could go there, you can browse it by category, if you have a specific question, you can ask, it'll find you the tips that are immediately relevant. So if you're like, advertorials, how do I do those? It'll show you all the tips related to"
+    },
+    {
+      "start": 965.41,
+      "end": 992.49,
+      "text": "advertorials. Another one I built last night because I was, I was getting requests of, hey, can you help me build an advertorial? Can you help me write an advertorial? Show me how to create a good advertorial. Well, I've, I've written many advertorials, like I'm talking hundreds of advertorials myself over the last nine years. Well, why don't I just take all the learnings of the advertorials, distill them down into a huge markdown file, which markdown file or .md file"
+    },
+    {
+      "start": 992.49,
+      "end": 1019.27,
+      "text": "is basically the equivalent of like a text edit file, but just for AI bots or like, you know, open claw, clawed, open AI. They may see text files with some level of like unique formatting inside. So when, when the AI reads it, it can understand, oh, this is supposed to be a headline. This is supposed to be italicized. This is bolded. This is linked. Plain text. You don't have any of that because it's, again, plain text. So markdown files are great for that. They're super efficient size wise and file"
+    },
+    {
+      "start": 1019.27,
+      "end": 1048.45,
+      "text": "wise, but you can send them around and they've got some level of formatting. It's almost like the equivalent of adding tone of voice to a plain text article. Shopify brands, this is the one. Roku ads manager lets you connect directly to your Shopify store and run streaming TV campaigns that can drive action, not just awareness. Roku's positioned this as a big differentiator. Shoppable TV through action ads and their Shopify integration. If you want top of funnel on the big screen with a"
+    },
+    {
+      "start": 1048.45,
+      "end": 1076.34,
+      "text": "proper path to purchase, go to advertising.roku.com slash limited supply. You know, what I did is I basically took all my learnings of advertorials over the last nine years. I probably spent a few hours doing this, consolidating all of them, creating a huge markdown file with all the learnings with kind of how I think. I even spent 20 to 30 minutes using an app called Whisperflow, W-I-S-P-R-F-L-O-W,"
+    },
+    {
+      "start": 1077.78,
+      "end": 1105.78,
+      "text": "where with Whisperflow, you can just talk to a mic and you can do this on your laptop. You can also do it on your iPhone, which I highly recommend. I pretty much exclusively message with Whisperflow now, but you just talk to it. And the same way that I'm having inflection in my voice, with tone of voice, with texture is the same way that Whisperflow then documents what you said into a text box. So what I'll do is I will speak for 35 minutes of advertorials straight,"
+    },
+    {
+      "start": 1105.98,
+      "end": 1131.52,
+      "text": "almost like a podcast. And then I, and literally I can take my podcast that I have done of, you know, I probably have four, five hours worth of podcast recordings just on advertorials, right? And I can put all of that into this mini brain and, and, and create my own advertorial product. So right now, if you go to write.nick.co, you'll see, I actually created my own advertorial"
+    },
+    {
+      "start": 1132.32,
+      "end": 1158.56,
+      "text": "platform where anybody can go and create an advertorial. And it's, well, right now it's free to use. I don't know if I'll put, put something on there. Probably not for a little bit, but play around with it. Like you can see how intense or, uh, kind of like relaxed you can be with this AI stuff, right? You can use it from helping you write a copy all the way to like building an app"
+    },
+    {
+      "start": 1158.56,
+      "end": 1185.82,
+      "text": "that helps you write advertorials. Another problem I came across yesterday, a friend of mine said, you know, I feel like our positioning on our website for, for our SaaS product is just like, it's meh, it's not amazing. And, uh, you know, can you help me write some better copy? Because I feel like we're not nailing how we're, how we're talking about it to other people in the B2B world when, uh, we're trying to sell to them. And I thought, well, okay, my, you know, on the consumer"
+    },
+    {
+      "start": 1185.82,
+      "end": 1212.92,
+      "text": "side, like what I like to do is I just like to go scour the internet and read a ton of reviews. I like to read, uh, what people are saying on Reddit, what people are saying on Twitter, uh, what people are taught, how basically how are people talking about this app? And most likely that's different. Well, in this case, it was definitely different than how they were talking about it on their website. Cause on the website you have like product managers and product marketers pushing that, right? But in the real world, you have how customers are responding"
+    },
+    {
+      "start": 1212.92,
+      "end": 1239.62,
+      "text": "and what they love and the benefits that they feel. So I basically used, um, Claude to go and find a ton of information on the internet. Plus I used Grok because Grok is the only AI model that allows you to get into Twitter without paying a separate developer fee or an API fee for that. And basically scoured the internet built or not built, but, uh, use that to create Markdown files, right? And then"
+    },
+    {
+      "start": 1239.62,
+      "end": 1266.08,
+      "text": "I created a separate one or two Markdown files that just talked about my philosophies on copywriting, a bunch of examples of copywriting. I had, I had given, uh, Claude, a ton of other examples that I personally like of B2B copywriting and said, Hey, go extract the patterns, the learnings, the, uh, you know, what are these guys doing that, that we're not talking about yet? Put that into a Markdown file and essentially created a document, a folder of, of four or five Markdown"
+    },
+    {
+      "start": 1266.08,
+      "end": 1293.5,
+      "text": "files, all with different learnings, insights, skills, um, thinking, et cetera. Put that together, built a nice visual identity and UI front end, back end, put it all together and boom, boom. Now you have B2B copy.co. You can see how this is now just a simple platform. And, you know, whether, uh, whether you go in and you go through the four or five step survey, answer those questions, uh, deeply, which is kind of the path I would recommend because"
+    },
+    {
+      "start": 1293.5,
+      "end": 1320.72,
+      "text": "as I've said before, the more that you give it, the more that you get out of it. Uh, and you know, that's true in life with friendships, relationships, but definitely true with AI, right? If your Sanjay is getting more information, you're going to get a way better output. Um, and so you fill that out and boom, you've got full copy ready to go. If you don't want to do that, you could just throw your URL in at the top and boom, it'll, it'll go to your site, extract all the copy, rewrite it all. And if"
+    },
+    {
+      "start": 1320.72,
+      "end": 1343.42,
+      "text": "you're even lazier than that, and you want to just have a chat interface, then you can just click chat and literally just chat through your entire SAS company and it'll start to, uh, learn and then give it back to you. Now, um, why is this all important? Well, actually one, one quick thought here is, uh, this chat functionality inside software is about to become, that's the new"
+    },
+    {
+      "start": 1343.42,
+      "end": 1369.74,
+      "text": "Amazon two day shipping of e-commerce inside SAS is chat. If, if your softwares that you use today on a daily basis, I'm talking about softwares you spend more than an hour and a half in per day, right? If they don't have chat functionality in six months or less, I'd be shocked if they don't have it after six months, they're probably not going to survive because if you have any sort of friction, right? The whole world is right now being trained on chat interface back and forth."
+    },
+    {
+      "start": 1369.9,
+      "end": 1395.86,
+      "text": "So you don't have that within six months or less, you're probably, you're, you're going to start to see churn at a very high rate because everybody else who's using your software is just going to find the alternative. And there's going to be a ton of set new SAS companies popping up. They're like, you're delusional to think any, any other way. Last thing I want to talk about here is prompting. And then I want to get into like four or five things you should go build yourself. Um, because it's"
+    },
+    {
+      "start": 1395.86,
+      "end": 1424.7,
+      "text": "going to give you a ton of understanding and kind of context on where the boundaries are right now and what's even possible. And again, everything that I'm discussing, like, I feel like I'm at the tip of the iceberg or the base of the volcano. And I still feel mind blown every day. Like last night, I couldn't sleep till three 30 in the morning because I was building out this advertorial platform. It just makes you not want to sleep because of how crazy it is, right? Like advertorials used to take me a really good advertorial used to take me three hours to write, start to finish,"
+    },
+    {
+      "start": 1425.04,
+      "end": 1454.18,
+      "text": "finding images, making sure I'm doing research. Now it's like three to five minutes, which is insane. Anyways, prompting is the last thing I want to talk about and kind of going off of the more you put in, the more you get out of it. So, you know, I went to, um, I went to make some music in, uh, in a different country a couple of weeks ago and I saw how people did. I'm just always fascinated by how people use different tools, right? Like, obviously I think the way that I use it is probably"
+    },
+    {
+      "start": 1454.18,
+      "end": 1481.18,
+      "text": "the smartest way because otherwise if it wasn't, then I would switch to whatever the smartest way is. But what I do is whenever I open a new chat window with a, with an AI model, call it Sanjay or whoever, I, I try to give it as much context. So let's, let's, for example, let's say I'm building a homepage copy for Okendo, right? I would say something like, Hey, help me build, help me rewrite the copy"
+    },
+    {
+      "start": 1481.18,
+      "end": 1508.14,
+      "text": "on Okendo's homepage. Right now it feels like it's written by product managers. I want it to feel more like it's written by marketers and for marketers. The target customer is this person. The signer is this person. So we need to appeal 80% to this person, but 20% to the CFO. Cause when they come to our website, we need to make sure the CFO is also comfortable. We find that we, we, um, you know, use this as value props to get people in. Once they get in, they love using these features,"
+    },
+    {
+      "start": 1508.14,
+      "end": 1533.84,
+      "text": "but we find that they don't come in to use those features. They want to come in because of this, and then they expand to the other. So like you can kind of see, I'm literally giving it all the context as if it knows nothing. Cause in reality, you should always assume that when you're prompting it, it doesn't have that piece of context, unless you're a hundred percent sure. And you can be like, you know, reference the Firefly call notes from, you know, last week when I was talking to the,"
+    },
+    {
+      "start": 1533.98,
+      "end": 1560.62,
+      "text": "you know, manager at this apparel brand about their upcoming renewals for Okendo, right? Like if you have something like that, you can pull that in. Otherwise just give it more context. Be like the current problem with churn is that people see the renewal price and blah, blah, blah, and blah, blah, blah, blah, blah, blah. So like the idea is you just give it as much information as you possibly can and then let it go and think. And also another thing I learned from Billy is there's"
+    },
+    {
+      "start": 1560.62,
+      "end": 1585.02,
+      "text": "a set allocated, uh, you know, I don't know what the unit is, but this is set allocation allocation of energy that goes into each response, right? And so, um, one thing I learned from Billy is you should actually break up these big, big, big tasks into smaller prompts because you want to use more of the energy to get a better response per thing. If you use something like OpenClaw or CloudBot"
+    },
+    {
+      "start": 1585.02,
+      "end": 1614.44,
+      "text": "where you have sub-agents being created, or maybe you use a model where you have sub-agents being created, um, you can actually consolidate some of those. Um, but the, the biggest learning here and the biggest takeaway before I start ranting into oblivion is you need to prompt heavily. And that's why I recommend using Whisperflow. I've never worked with them, not affiliated with them, but it's, it's amazing because you can just rant and it, it keeps your entire tone of voice. And then the more you give it, the more output you get back, right? You can't just be like,"
+    },
+    {
+      "start": 1614.56,
+      "end": 1642.38,
+      "text": "write me new homepage copy, okendo.com. Or I need a marketing campaign. Here's my product, right? You have to give it information on the customer, the tactics, what's worked before, you know, maybe upload, export all your Facebook ad performance and upload that. So it has more context, maybe export out your customer orders of your high sell TV customers to understand patterns and put that in. Like there's just all these things that you need to think about when it comes to context. Um, all right, last couple minutes here. What I want to go"
+    },
+    {
+      "start": 1642.38,
+      "end": 1667.96,
+      "text": "through is just a couple ideas. It's something I shared in my newsletter too. Uh, but a couple ideas of things that you should go and build. Um, mainly because I think that if like, if you're like, all right, we just talked about AI, right? But like, where do you start? I have no idea now, because, uh, I just ranted about this. I want to give you four projects that you can go and build yourself. These are all things that you can build with models that exist. And let me tell you the"
+    },
+    {
+      "start": 1667.96,
+      "end": 1694.64,
+      "text": "best part about these AI models is like you have tech support 24 seven, always online and, and the most patient tech support, right? If you go to, uh, chat GPT or Claude, which is what I recommend you use when it comes to work stuff. Um, you can just put screenshots, throw it into Claude and be like, how come this isn't working? What do I do next? How do I get to this? How do I get to the next step? And it literally tells you everything to do. It might give you the exact code to copy paste."
+    },
+    {
+      "start": 1694.64,
+      "end": 1724.54,
+      "text": "It might tell you exactly where to click. It might give you the exact link to click, but there's no excuse to not be able to try and build these things because I promise you, even if you know nothing right now and you start to build any of these four things I'm about to tell you, you're going to very quickly discover how simple and straightforward it can be. Now, the first one's a reporting tool for yourself. So it doesn't matter if you're trying to report on like internal team analytics, right? Like how much time is somebody spending doing a task or how many tasks are getting done or if it's creative analytics, or if it's"
+    },
+    {
+      "start": 1724.54,
+      "end": 1750.64,
+      "text": "media analytics, building your own reporting tool is super easy. You used to have to use tools like Whatagraph. Like I used to pay three to five grand a year to use Whatagraph so we could have custom reports for our clients. Now you can do that entire thing in less than 60 minutes. You can connect all the APIs you need. It walks you through how to do that. And you can build your own reporting dashboard, fully custom in your branding just for you, password protected. Next one, build a landing page with AI."
+    },
+    {
+      "start": 1750.64,
+      "end": 1778.2,
+      "text": "So whether you're using Figma AI, Replit, Cursor, Lovable, or you're just using like one of the models themselves, right? Those are all wrappers that I just mentioned. And then if you're using a model, models can now pretty much have the full output with design, development, copy, research, curation, creation, et cetera. But if you want, use a Figma, use a Replit, use a Cursor. Like whatever tool you use, it's going to help you understand more surface area of which then you can,"
+    },
+    {
+      "start": 1778.96,
+      "end": 1803.46,
+      "text": "you know, like you add more knowledge to yourself and then you start to identify patterns. And as you keep using different tools, it doesn't matter which tool you use. Those same learnings are going to be applicable on every single tool because they all use the same fundamental models, right? The one that I'm doing a lot is building a second brain. So there's, you know, David Perel used to have an amazing course on building a second brain. And honestly, I took it. I paid for it. David's one"
+    },
+    {
+      "start": 1803.46,
+      "end": 1831.2,
+      "text": "of my closest friends for years. But like, I just never, I was too lazy to like build everything in a second brain and do it manually. Now with Claude, I can literally do it myself. I can connect all the apps, integrate the APIs, and it does it all on its own. It sends me a daily brief. It tells me what I'm missing, what I'm not missing. Okay, and then the last thing is I've talked about markdown files. So you should create a markdown file brain. This can be a zip file. This can be held in one,"
+    },
+    {
+      "start": 1831.2,
+      "end": 1860.5,
+      "text": "you know, open call instance or one location and constantly updated. But you should have a brand voice guide markdown file. You should have a markdown file for copywriting rules. You should have one for your brand story, for your founder story, for your product stories, your positioning statement, your messaging hierarchy, your taglines and phrases, your ICPs, your objections and rebuttals, your email playbook, your social playbook, your ads playbook, your product catalog brief. Like, this is just a few examples of different things you can have created. And the more that you have"
+    },
+    {
+      "start": 1860.5,
+      "end": 1886.98,
+      "text": "these, the more consistent all of your different things look. If you look at b2bcopy.co and write.nick.co, the reason they're so similar from a design standpoint is there's a design markdown file that all my stuff is referencing. Even though they were built on different platforms, they're referencing the same docs. All right, I just ranted at you nonstop for 31 minutes about AI. If you don't go and do something with this, I can't help you. But if you are building something"
+    },
+    {
+      "start": 1886.98,
+      "end": 1913.1,
+      "text": "cool, shoot me a DM on Twitter at Mr. Sharma, or shoot me an email nick at nick.co. Remember, there's no C. It's n-i-k at n-i-k dot co. I want to see what you're building. Try out those links I sent you. Let me know what you think of those. And if you're around New York, June 25th, go to nick.co slash AI. And I'll give you a ticket to the AI summit, where we're just going to go even deeper. This is like where we're at in March. Imagine where we're at in June. It's going to be"
+    },
+    {
+      "start": 1913.1,
+      "end": 1923.58,
+      "text": "absolutely insane. All right, have a great rest of your week. I hope you're out of breath, just like I am here. And also fired up to go build something. And send me what you build. I'll see you next week."
+    }
+  ]
+}

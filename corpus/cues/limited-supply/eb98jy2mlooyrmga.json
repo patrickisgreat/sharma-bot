@@ -1,0 +1,2859 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 22.48,
+      "text": "In 2020, this brand did $135 million in revenue and had $6 million in EBITDA. Now, don't get me wrong, it's been around for more than a decade. It's been around for about 15 years. In 2021, the brand did $171 million, so $40 million more basically than the previous year. They doubled their EBITDA to about $12 million. And the crazy part is this business is completely bootstrapped."
+    },
+    {
+      "start": 22.48,
+      "end": 30.68,
+      "text": "And, you know, there was an article recently out that they were trying to sell this business to Blackstone for a billion dollars, which is bananas."
+    },
+    {
+      "start": 31.56,
+      "end": 37.32,
+      "text": "This is Limited Supply, the place for refreshingly real takes on what DTC is really like."
+    },
+    {
+      "start": 37.6,
+      "end": 41.08,
+      "text": "We're your hosts, Nick and Moyes. Let's start talking about money."
+    },
+    {
+      "start": 42.16,
+      "end": 51.38,
+      "text": "I don't take anything at face value. I need the data or I'm out. TapCard is the real deal. Creating an app for your brand means more sales and they've got the stats to back that up."
+    },
+    {
+      "start": 51.38,
+      "end": 55.04,
+      "text": "Go to tapcart.com slash limited and get two months free."
+    },
+    {
+      "start": 57.56,
+      "end": 70.42,
+      "text": "This is season three, episode three of Limited Supply. A bunch of stuff to chat about today, Nick. Right before we started recording, we were talking about how we're both going to be at the Triple Whale event in Austin next week."
+    },
+    {
+      "start": 70.84,
+      "end": 72.26,
+      "text": "No, it's this week, I think."
+    },
+    {
+      "start": 72.88,
+      "end": 75.16,
+      "text": "It's the 31st. Oh, yeah, yeah. It's this week."
+    },
+    {
+      "start": 75.34,
+      "end": 75.74,
+      "text": "Yeah, this week."
+    },
+    {
+      "start": 75.92,
+      "end": 83.06,
+      "text": "Fair enough. Yeah, yeah. We're going to try and record a couple episodes while we're out there together. We're going to reach out to a few guests, potential guests."
+    },
+    {
+      "start": 83.06,
+      "end": 86.86,
+      "text": "Who might be great for this podcast and see if we can record a couple next week."
+    },
+    {
+      "start": 87.04,
+      "end": 92.92,
+      "text": "But before we get there and to the Whaleys. First, are you talking at the Whaleys? What are you talking about?"
+    },
+    {
+      "start": 93.4,
+      "end": 99.04,
+      "text": "I'm talking with Danny Duncan, who's a YouTuber and a friend for a while."
+    },
+    {
+      "start": 99.34,
+      "end": 104.72,
+      "text": "And I think we're just going to be chatting about he has a Shopify store that he's been running and just crushing with merch sales."
+    },
+    {
+      "start": 104.72,
+      "end": 109.26,
+      "text": "So I think we're I actually haven't FaceTimed him and seen what we're talking about."
+    },
+    {
+      "start": 109.46,
+      "end": 112.26,
+      "text": "So I don't know. But something like a Q\u0026A between the two of you."
+    },
+    {
+      "start": 112.46,
+      "end": 113.28,
+      "text": "Yeah, like a panel."
+    },
+    {
+      "start": 113.94,
+      "end": 117.46,
+      "text": "OK. Oh, man. I love panels because you don't. Are you asking the questions?"
+    },
+    {
+      "start": 117.7,
+      "end": 119.14,
+      "text": "Yeah. You must be asking the questions, right?"
+    },
+    {
+      "start": 119.48,
+      "end": 120.6,
+      "text": "Yeah. Yeah. Love panels."
+    },
+    {
+      "start": 120.6,
+      "end": 123.96,
+      "text": "Because if you're the guy on the other end, you don't have to prepare for one second."
+    },
+    {
+      "start": 124.16,
+      "end": 126.78,
+      "text": "You're just like, here I am. What do you got for me?"
+    },
+    {
+      "start": 128.22,
+      "end": 131.4,
+      "text": "And I got to do this speech or I got to give a presentation."
+    },
+    {
+      "start": 131.42,
+      "end": 133.32,
+      "text": "And I don't really know what to do right now."
+    },
+    {
+      "start": 133.88,
+      "end": 135.12,
+      "text": "So I've been struggling with it."
+    },
+    {
+      "start": 135.18,
+      "end": 137.68,
+      "text": "I've been listening to like the I Have a Dream speech to get inspired."
+    },
+    {
+      "start": 138.06,
+      "end": 138.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 139.16,
+      "end": 141.04,
+      "text": "Unfortunately, MLK did not talk about e-commerce at all."
+    },
+    {
+      "start": 141.04,
+      "end": 144.5,
+      "text": "I'll help you with it. I'm pretty good at conference decks and talks."
+    },
+    {
+      "start": 144.5,
+      "end": 145.34,
+      "text": "Oh, that's awesome. Yeah."
+    },
+    {
+      "start": 145.54,
+      "end": 146.42,
+      "text": "We can spin something up. Yeah."
+    },
+    {
+      "start": 146.42,
+      "end": 152.28,
+      "text": "I'd love that. OK. I know I want to talk about Envato today or Envato. I don't know really how to"
+    },
+    {
+      "start": 152.28,
+      "end": 157.72,
+      "text": "pronounce it. I guess it's Envato. You want to talk about Tandem. So let me talk about Envato first,"
+    },
+    {
+      "start": 157.78,
+      "end": 159.28,
+      "text": "if that's OK with you. Yeah."
+    },
+    {
+      "start": 159.96,
+      "end": 165.96,
+      "text": "Envato is a site that everyone who's ever used WordPress or WooCommerce knows. And I think"
+    },
+    {
+      "start": 165.96,
+      "end": 170.44,
+      "text": "nobody else knows it. And the reason that everyone who uses WordPress knows about it"
+    },
+    {
+      "start": 170.44,
+      "end": 176.08,
+      "text": "is because it's actually like the unofficial WordPress theme store. So Shopify has its app store."
+    },
+    {
+      "start": 176.82,
+      "end": 181.74,
+      "text": "WordPress has Envato, which is a privately owned and completely divorced from WordPress. Like"
+    },
+    {
+      "start": 181.74,
+      "end": 187.14,
+      "text": "they're not actually related in any way as far as I know. It's basically the site you go to if you"
+    },
+    {
+      "start": 187.14,
+      "end": 191.54,
+      "text": "want a theme for WordPress. If you want a theme to start a blog, you go to Envato. If you want to"
+    },
+    {
+      "start": 191.54,
+      "end": 195.64,
+      "text": "start a WooCommerce site and you're like, hey, I want a theme, you go to Envato and they're like,"
+    },
+    {
+      "start": 195.74,
+      "end": 200.88,
+      "text": "here's a bunch of WooCommerce themes. And like the Shopify app store and the Shopify theme store,"
+    },
+    {
+      "start": 201.02,
+      "end": 205.72,
+      "text": "you can go and preview the themes and what they'll look like before you actually sign up and download it."
+    },
+    {
+      "start": 205.72,
+      "end": 212.9,
+      "text": "And they're like sorted by reviews. And so anything with under 500 reviews, you don't want because"
+    },
+    {
+      "start": 212.9,
+      "end": 217,
+      "text": "it's not going to be a stable theme. It's going to have a bunch of problems and a bunch of bugs."
+    },
+    {
+      "start": 217.24,
+      "end": 222.12,
+      "text": "Like anyone can post anything. It's a marketplace. So the guys who own this thing have created a"
+    },
+    {
+      "start": 222.12,
+      "end": 226.24,
+      "text": "marketplace for people who write apps and for people who create themes and for people who"
+    },
+    {
+      "start": 226.24,
+      "end": 231.12,
+      "text": "create plugins for WooCommerce and WordPress. And on the other side for merchants and stores and"
+    },
+    {
+      "start": 231.12,
+      "end": 236.6,
+      "text": "the whole nine yards. And that's how I discovered it. I actually bought a theme off of this. When I"
+    },
+    {
+      "start": 236.6,
+      "end": 242.62,
+      "text": "started Caskers back in 2012, I bought a theme off of this site. And so that was more than a decade"
+    },
+    {
+      "start": 242.62,
+      "end": 249.86,
+      "text": "ago that I paid $45 for this theme. And unlike Shopify, there's no renewals here. Once you buy"
+    },
+    {
+      "start": 249.86,
+      "end": 254.4,
+      "text": "something, you own the code and the theme and the plugin and all that kind of stuff forever."
+    },
+    {
+      "start": 254.4,
+      "end": 258.4,
+      "text": "So it's not like you have monthly recurring fees. Like for instance, WooCommerce subscriptions."
+    },
+    {
+      "start": 258.98,
+      "end": 264.88,
+      "text": "Once you pay the $200 for WooCommerce subscriptions plugins, you won't get any updates after one year,"
+    },
+    {
+      "start": 264.92,
+      "end": 268.82,
+      "text": "but you never have to pay more than $200 again. You never have to pay a portion of your revenue,"
+    },
+    {
+      "start": 269.12,
+      "end": 272.5,
+      "text": "portion of your sales or any of that kind of stuff. All of the Shopify themes have that."
+    },
+    {
+      "start": 273.02,
+      "end": 276.36,
+      "text": "WooCommerce doesn't have that. You don't have to pay a portion of anything, which is pretty awesome."
+    },
+    {
+      "start": 276.92,
+      "end": 282.8,
+      "text": "And so I started using it. I downloaded a theme a decade ago to start Caskers. I downloaded a theme"
+    },
+    {
+      "start": 282.8,
+      "end": 288.86,
+      "text": "seven years ago called Shopkeeper to start Native. So those are both really old businesses, obviously."
+    },
+    {
+      "start": 289.38,
+      "end": 292.98,
+      "text": "And the reason I wanted to get into it because recently I've been like, what is this business?"
+    },
+    {
+      "start": 293.18,
+      "end": 298.64,
+      "text": "It's like this garbage... They have a garbage site and a garbage backend and a garbage checkout"
+    },
+    {
+      "start": 298.64,
+      "end": 302.92,
+      "text": "process, actually. If you're going to checkout with a WooCommerce theme, if you want to pay,"
+    },
+    {
+      "start": 303.08,
+      "end": 306.36,
+      "text": "you have to pay via PayPal and then they charge you an extra processing fee."
+    },
+    {
+      "start": 306.38,
+      "end": 307.42,
+      "text": "I think I've only paid with PayPal."
+    },
+    {
+      "start": 307.84,
+      "end": 310.86,
+      "text": "Yeah. They charge you an extra processing fee because you're paying with PayPal."
+    },
+    {
+      "start": 310.86,
+      "end": 315.3,
+      "text": "If you're like, oh, we're adding 3% of whatever your transaction is for PayPal. And you're like,"
+    },
+    {
+      "start": 315.58,
+      "end": 320.16,
+      "text": "nobody does this. You're supposed to eat that 3%, not me. And then if you want to pay via like,"
+    },
+    {
+      "start": 320.22,
+      "end": 323.86,
+      "text": "I think it was like American Express. I'm sorry. I think they only accept Visa and MasterCard."
+    },
+    {
+      "start": 323.94,
+      "end": 328.22,
+      "text": "I don't think they accept American Express. You can only buy like a $25 or higher gift card."
+    },
+    {
+      "start": 328.4,
+      "end": 328.82,
+      "text": "You have to have a minimum."
+    },
+    {
+      "start": 329.46,
+      "end": 332.92,
+      "text": "Yeah. So if you want to buy something for $10, no, you've got to load $25,"
+    },
+    {
+      "start": 333.28,
+      "end": 339.18,
+      "text": "like a Starbucks gift card basically, and then buy the item. And so I've been using them for over a"
+    },
+    {
+      "start": 339.18,
+      "end": 343.66,
+      "text": "year. They've got a couple other branches called like PhotoDune where you can license a photo,"
+    },
+    {
+      "start": 343.68,
+      "end": 348.72,
+      "text": "basically. Like if you want to create a photo for some social media stuff. They've also got one for"
+    },
+    {
+      "start": 348.72,
+      "end": 353.62,
+      "text": "email templates. Like you can download an email template, play around with it in Photoshop,"
+    },
+    {
+      "start": 353.66,
+      "end": 358.04,
+      "text": "and then send out an email. So it's pretty great. When I was running native, I used to do this all"
+    },
+    {
+      "start": 358.04,
+      "end": 363.36,
+      "text": "with like their... I downloaded a template for like Thanksgiving and Christmas and New Year's and"
+    },
+    {
+      "start": 363.36,
+      "end": 368.22,
+      "text": "cost like $5 for the template. It was so affordable. And then I blasted out to a million people and I was"
+    },
+    {
+      "start": 368.22,
+      "end": 373.94,
+      "text": "like the $5 is so meaningless here. Anyway, I was looking into the numbers. In 2020,"
+    },
+    {
+      "start": 374.16,
+      "end": 380.14,
+      "text": "this brand did $135 million in revenue and had $6 million in EBITDA. Now don't get me wrong. It's"
+    },
+    {
+      "start": 380.14,
+      "end": 386.52,
+      "text": "been around for more than a decade. It's been around for about 15 years. In 2021, the brand did $171"
+    },
+    {
+      "start": 386.52,
+      "end": 391.74,
+      "text": "million. So $40 million more basically than the previous year. They doubled their EBITDA to about"
+    },
+    {
+      "start": 391.74,
+      "end": 397.24,
+      "text": "12 million. And the crazy part is this business is completely bootstrapped. So some guys out there"
+    },
+    {
+      "start": 397.24,
+      "end": 405.06,
+      "text": "own this business that's generating $171 million in revenue, $12 million in EBITDA. And there was an"
+    },
+    {
+      "start": 405.06,
+      "end": 410.8,
+      "text": "article recently out that they were trying to sell this business to Blackstone for a billion dollars,"
+    },
+    {
+      "start": 411,
+      "end": 411.58,
+      "text": "which is bananas."
+    },
+    {
+      "start": 412.18,
+      "end": 416.44,
+      "text": "Isn't the profit insanely low for this type of business? You would imagine that this business"
+    },
+    {
+      "start": 416.44,
+      "end": 421.8,
+      "text": "has... It's on the other end. It should be like a 75% to 90% margin business."
+    },
+    {
+      "start": 422.4,
+      "end": 425.98,
+      "text": "Great question. I think first, that's a great question. And I think primarily it's because this"
+    },
+    {
+      "start": 425.98,
+      "end": 432,
+      "text": "is a market... I don't think they do any advertising, but this is a marketplace. So they have $171 million,"
+    },
+    {
+      "start": 432.38,
+      "end": 433.44,
+      "text": "but I think that revenue is actually GMV."
+    },
+    {
+      "start": 433.44,
+      "end": 436.08,
+      "text": "Oh, so they're counting revenue? Yeah, they're counting revenue as GMV."
+    },
+    {
+      "start": 436.22,
+      "end": 437.14,
+      "text": "Okay, that makes sense."
+    },
+    {
+      "start": 437.38,
+      "end": 441.6,
+      "text": "But they do do other interesting things. They give away, I think, 10% of profits to their"
+    },
+    {
+      "start": 441.6,
+      "end": 445.68,
+      "text": "employees and 1% to charity. So I think they do some interesting things like that as well."
+    },
+    {
+      "start": 445.68,
+      "end": 451.62,
+      "text": "But I think their $171 million is total GMV before they get to their own cut."
+    },
+    {
+      "start": 452.3,
+      "end": 458.16,
+      "text": "I've also been a customer of Envato for probably since 2014, I think is when I first"
+    },
+    {
+      "start": 458.16,
+      "end": 463.86,
+      "text": "bought something. And you can tell the site has always kind of been built by nerds,"
+    },
+    {
+      "start": 464,
+      "end": 469.72,
+      "text": "never these capitalistic focused investors who decided we got to double profits in any way."
+    },
+    {
+      "start": 469.72,
+      "end": 476.16,
+      "text": "And it's always had such a nice touch to it. But I think this is a super underrated site."
+    },
+    {
+      "start": 476.36,
+      "end": 481.1,
+      "text": "Everybody, they have a theme for everything. You could go to under e-commerce and click Shopify."
+    },
+    {
+      "start": 481.52,
+      "end": 487.62,
+      "text": "And there's Shopify themes here for $29 that look beautiful. And because it's a marketplace,"
+    },
+    {
+      "start": 488.18,
+      "end": 493.38,
+      "text": "like with any marketplace where you're selling somewhat of a commodity, the price just keeps"
+    },
+    {
+      "start": 493.38,
+      "end": 499.2,
+      "text": "going down and the quality keeps going up. And so you can get a really, really amazing theme here."
+    },
+    {
+      "start": 499.2,
+      "end": 504.84,
+      "text": "For a very low cost of money. The other thing too, is like, you can use this for anything. Like"
+    },
+    {
+      "start": 504.84,
+      "end": 510.42,
+      "text": "you said, you can get photo templates. I've used it to buy decks, like a template for a deck that I need"
+    },
+    {
+      "start": 510.42,
+      "end": 517.28,
+      "text": "to make. And you just put that in and edit it up. But the real thing that I love about Envato is"
+    },
+    {
+      "start": 517.9,
+      "end": 522.86,
+      "text": "because it's a marketplace, there's two things that the sellers always do. This is specific to"
+    },
+    {
+      "start": 522.86,
+      "end": 528.38,
+      "text": "WordPress, which is all the stuff, mainly all the stuff I've bought. They always have incredible"
+    },
+    {
+      "start": 528.38,
+      "end": 534.18,
+      "text": "support. So every developer, if you have questions about the theme and you write within the first 60"
+    },
+    {
+      "start": 534.18,
+      "end": 540.7,
+      "text": "days of buying it, they're gunning for your review. Every review on this site matters a lot to every"
+    },
+    {
+      "start": 540.7,
+      "end": 545.74,
+      "text": "developer. And so they'll do anything to support. And the second thing they do, which is amazing,"
+    },
+    {
+      "start": 545.94,
+      "end": 552.32,
+      "text": "is they'll just give you demo content. So they'll give you a WordPress XML file, which is basically"
+    },
+    {
+      "start": 552.32,
+      "end": 557.86,
+      "text": "the file you can upload to just upload a bunch of content at once. So it's like, if you're migrating"
+    },
+    {
+      "start": 557.86,
+      "end": 562.54,
+      "text": "a site, you can just literally migrate all the content in one file. I mean, I don't know how to code"
+    },
+    {
+      "start": 562.54,
+      "end": 568.92,
+      "text": "for shit. And I don't think you do either. But I would just go in and there would be a whole site"
+    },
+    {
+      "start": 568.92,
+      "end": 573.84,
+      "text": "that populated and I would just go double click, backspace, backspace, backspace, and then write what"
+    },
+    {
+      "start": 573.84,
+      "end": 577.84,
+      "text": "I needed it to say versus trying to build these things from scratch. But it would have, you know,"
+    },
+    {
+      "start": 577.84,
+      "end": 584.02,
+      "text": "the demo site has like seven versions of a homepage, you know, 13 versions of like an article page."
+    },
+    {
+      "start": 584.2,
+      "end": 590.1,
+      "text": "And you can just quickly pick and choose. And literally you can get a site from nothing to buy"
+    },
+    {
+      "start": 590.1,
+      "end": 595.88,
+      "text": "the domain, set up hosting, and then add your theme and have a WordPress site within, you know, 30"
+    },
+    {
+      "start": 595.88,
+      "end": 603.28,
+      "text": "minutes. The last time I did this was for a site that I ideated called she told us.com. And the idea"
+    },
+    {
+      "start": 603.28,
+      "end": 608.9,
+      "text": "was, you know, I was moving into a new apartment. I'll just get free furniture and tell the brands"
+    },
+    {
+      "start": 608.9,
+      "end": 612.24,
+      "text": "like, yo, I'm going to write a story or write a review. You can drive traffic here and then"
+    },
+    {
+      "start": 612.24,
+      "end": 617.7,
+      "text": "it'll drive to your PDP. But I set this site up and it took me 30 minutes. I didn't really follow"
+    },
+    {
+      "start": 617.7,
+      "end": 620.76,
+      "text": "through on the rest of that promise, but... Did you get any free furniture or no?"
+    },
+    {
+      "start": 621.18,
+      "end": 624.68,
+      "text": "Yeah, yeah. Free furniture. A couple of things. Not really much, but..."
+    },
+    {
+      "start": 624.68,
+      "end": 628.96,
+      "text": "Nice. Okay. First, I didn't realize you were so familiar with WooCommerce. That's crazy."
+    },
+    {
+      "start": 628.96,
+      "end": 633.28,
+      "text": "I actually haven't done much WooCommerce, but WordPress. Yeah. I've been doing WordPress"
+    },
+    {
+      "start": 633.28,
+      "end": 635.18,
+      "text": "since probably 2013."
+    },
+    {
+      "start": 636.68,
+      "end": 641.44,
+      "text": "Okay. That's legit. And second, I guess you're so right. Like when you were saying that, I was like,"
+    },
+    {
+      "start": 641.48,
+      "end": 646.88,
+      "text": "yeah, you're so right about being able to buy any type of theme here. Like if you have a store that"
+    },
+    {
+      "start": 646.88,
+      "end": 652.02,
+      "text": "has, you know, 25,000 products, they have a theme for, you know, stores with huge catalogs and they"
+    },
+    {
+      "start": 652.02,
+      "end": 656.68,
+      "text": "have a theme for store with two products and they're like customized for that. They even have a theme"
+    },
+    {
+      "start": 659.02,
+      "end": 664.02,
+      "text": "because at first, a long time ago, I was like, I'm going to create a website. Like I'm going to"
+    },
+    {
+      "start": 664.02,
+      "end": 670.24,
+      "text": "create Yelp for 3PLs where all you do is write your 3PL. So I was like, wow, I can do that. I bought"
+    },
+    {
+      "start": 670.24,
+      "end": 674.94,
+      "text": "a theme and I was like, wow, instantly you have Yelp. Like, you know, you can do reviews, you know,"
+    },
+    {
+      "start": 674.98,
+      "end": 679,
+      "text": "people can log in, leave a review. It makes it really easy. And I was like, great. I'm going to start a"
+    },
+    {
+      "start": 679,
+      "end": 685.02,
+      "text": "Yelp. And then I was like, I see everyone is only posting one star reviews of all of every 3PL."
+    },
+    {
+      "start": 685.02,
+      "end": 688.92,
+      "text": "No one has ever had a good experience. I was like, okay, everyone is one star. This isn't"
+    },
+    {
+      "start": 688.92,
+      "end": 694.06,
+      "text": "going to be very helpful. It's like any subscription business that you look up reviews for on the BBB"
+    },
+    {
+      "start": 694.06,
+      "end": 699.88,
+      "text": "is just all one stars. I'm not sure if the BBB is like a real thing or like, you know, I'm not sure"
+    },
+    {
+      "start": 699.88,
+      "end": 704.92,
+      "text": "how honest, like, I'm not sure if the BBB is another form of Yelp, which is pay them and you get an"
+    },
+    {
+      "start": 704.92,
+      "end": 709.38,
+      "text": "accreditation at the bottom and you're always an A plus. And if you don't pay them, but I'm not,"
+    },
+    {
+      "start": 709.56,
+      "end": 713.54,
+      "text": "I don't know enough about the BBB, but like, you know, I was like, wow, you can buy,"
+    },
+    {
+      "start": 713.54,
+      "end": 717.44,
+      "text": "you can create your own Yelp in 30 minutes. Like you don't need any assets. And you're right."
+    },
+    {
+      "start": 717.54,
+      "end": 721.48,
+      "text": "The demo content, I never thought about it this way, but you're right. The demo content makes it"
+    },
+    {
+      "start": 721.48,
+      "end": 725.68,
+      "text": "so easy because like they immediately create a beautiful store. And then all you have to do"
+    },
+    {
+      "start": 725.68,
+      "end": 730.76,
+      "text": "is change like the copy. You don't have to worry about text size or text format, or should this"
+    },
+    {
+      "start": 730.76,
+      "end": 735.64,
+      "text": "be centered or not centered here? You're like the about us page, just change an image and like your"
+    },
+    {
+      "start": 735.64,
+      "end": 740.8,
+      "text": "name and what you want it to say. But the design is already pre-formatted and that's pretty awesome."
+    },
+    {
+      "start": 741.24,
+      "end": 745.92,
+      "text": "I think it's a wonderful site. I'm, I'd be very sad to see it go to Blackstone because"
+    },
+    {
+      "start": 746.84,
+      "end": 749.74,
+      "text": "I'm sure every price would triple and they'd be like, you know, if you want to use this,"
+    },
+    {
+      "start": 749.74,
+      "end": 754.1,
+      "text": "you have to pay us every week. Yeah. Yeah. But it's an amazing job that these people have done."
+    },
+    {
+      "start": 754.46,
+      "end": 758.64,
+      "text": "It's owned by this Australian couple. I don't know if it's like another family member or something"
+    },
+    {
+      "start": 758.64,
+      "end": 763.56,
+      "text": "that like they share the same last name that those guys own about 85% of the business."
+    },
+    {
+      "start": 763.84,
+      "end": 768.92,
+      "text": "You know, they've got 600 employees. It's just an insane business. And I think nobody talks about it."
+    },
+    {
+      "start": 768.92,
+      "end": 774.88,
+      "text": "Like it's a massively successful e-commerce marketplace for e-commerce merchants that sells"
+    },
+    {
+      "start": 774.88,
+      "end": 780.68,
+      "text": "digital assets and just remains under the radar all the time. The beauty with WordPress in general"
+    },
+    {
+      "start": 780.68,
+      "end": 786.84,
+      "text": "is there are just like a handful of plugins you can pretty much install for free. You remember Yoast"
+    },
+    {
+      "start": 786.84,
+      "end": 792.94,
+      "text": "SEO? Yeah. Yeah, of course. Like there's just a handful of things you can put in and they're"
+    },
+    {
+      "start": 792.94,
+      "end": 799.02,
+      "text": "completely free. They will never break. Like it'll just never break. I don't think WordPress has ever"
+    },
+    {
+      "start": 799.02,
+      "end": 805.78,
+      "text": "gone down on me. And especially if you use a server like WP Engine for hosting, you are almost like"
+    },
+    {
+      "start": 805.78,
+      "end": 810.48,
+      "text": "unstoppable with page speed and like making sure your site never goes down."
+    },
+    {
+      "start": 810.94,
+      "end": 817.16,
+      "text": "It is really incredible. I mean, to be clear, the WooCommerce is built on WordPress. It's actually a"
+    },
+    {
+      "start": 817.16,
+      "end": 823.52,
+      "text": "plugin to WordPress. It's also free and like, you know, just doesn't go down. And I remember actually"
+    },
+    {
+      "start": 823.52,
+      "end": 827.94,
+      "text": "like when we were scaling native and we were on WordPress, we would scale it. And like at some"
+    },
+    {
+      "start": 827.94,
+      "end": 832.08,
+      "text": "point when we started sending out emails, like we didn't have the servers, we had bought our own"
+    },
+    {
+      "start": 832.08,
+      "end": 838.36,
+      "text": "server and installed in New Jersey because I was like the server costs $5,000 and then like $80 to rent"
+    },
+    {
+      "start": 838.36,
+      "end": 842.98,
+      "text": "this place per month. So it's pretty cheap. But like whenever we'd send out an email,"
+    },
+    {
+      "start": 842.98,
+      "end": 848.06,
+      "text": "we would crash the site because, you know, we'd have a hundred thousand people coming to the site"
+    },
+    {
+      "start": 848.06,
+      "end": 852.7,
+      "text": "at one time or like not a hundred thousand, but 10,000 people. And that was a disaster. So we had"
+    },
+    {
+      "start": 852.7,
+      "end": 856.88,
+      "text": "to like start spacing out the emails. We're like slow send this thing on Klaviyo. We're like,"
+    },
+    {
+      "start": 857.12,
+      "end": 862.86,
+      "text": "don't crash the site until we like we bought another server and then ultimately switched to AWS. But I"
+    },
+    {
+      "start": 862.86,
+      "end": 866.96,
+      "text": "thought it's really amazing what these guys can do. I feel like it's not talked about enough."
+    },
+    {
+      "start": 867.38,
+      "end": 868.36,
+      "text": "Yeah, fully agreed."
+    },
+    {
+      "start": 868.94,
+      "end": 872.86,
+      "text": "Let's switch gears to Tandem. Tell me what Tandem is because you put on the agenda,"
+    },
+    {
+      "start": 872.98,
+      "end": 875.1,
+      "text": "and I didn't really know about it until I started looking it up."
+    },
+    {
+      "start": 875.42,
+      "end": 880.4,
+      "text": "All right. Do you know how big the market cap of American Airlines is?"
+    },
+    {
+      "start": 880.92,
+      "end": 885.2,
+      "text": "No, I don't. Well, it says on the sheet $6 billion. I'm going to guess $6 billion."
+    },
+    {
+      "start": 885.5,
+      "end": 893.28,
+      "text": "So $6 billion. Now the market cap of American Airlines's loyalty program is $26 billion."
+    },
+    {
+      "start": 894.42,
+      "end": 899.4,
+      "text": "It's almost five times bigger than the actual business that the bank is built on."
+    },
+    {
+      "start": 900.78,
+      "end": 908.24,
+      "text": "So yeah, a few years ago, I bought this like Google phone, the Pixel, mainly just to like play with it"
+    },
+    {
+      "start": 908.24,
+      "end": 913.02,
+      "text": "and see how sites load on it. I think I was also just bored and thought it would entertain me."
+    },
+    {
+      "start": 913.54,
+      "end": 919.52,
+      "text": "So I bought it. And immediately, it was like, you know, it's probably three, 400 bucks. It gave me the"
+    },
+    {
+      "start": 919.52,
+      "end": 925.78,
+      "text": "option to not pay it all now just like pay, basically pay it in installments. And basically,"
+    },
+    {
+      "start": 925.78,
+      "end": 931.64,
+      "text": "what they do is they will open up a credit card in your name under this company called Synchrony Bank,"
+    },
+    {
+      "start": 931.68,
+      "end": 938.62,
+      "text": "which also does the credit cards for PayPal and a few other buy now, pay later type solutions."
+    },
+    {
+      "start": 939.28,
+      "end": 943.62,
+      "text": "So I got like, I think it was a $1,500 line of credit in the Google card,"
+    },
+    {
+      "start": 944.28,
+      "end": 950.52,
+      "text": "and it'll use the amount of the purchase. And then it'll just bring it back. You know,"
+    },
+    {
+      "start": 950.52,
+      "end": 957.1,
+      "text": "over time, without a fee. So then I started thinking, you know, I wonder like, why couldn't"
+    },
+    {
+      "start": 957.1,
+      "end": 963.88,
+      "text": "Native have a credit card, where instead of all these banks getting the percentage, that's percentage"
+    },
+    {
+      "start": 963.88,
+      "end": 969.76,
+      "text": "off of gross revenue to not even net revenue. And so you know, like, how could a company like Native"
+    },
+    {
+      "start": 969.76,
+      "end": 976.58,
+      "text": "high frequency of purchase, somewhat habitual, take advantage of just the money that credit cards print?"
+    },
+    {
+      "start": 976.58,
+      "end": 983.36,
+      "text": "And you know, the credit card processing fee that a merchant pays 2.9% or whatever it is,"
+    },
+    {
+      "start": 983.92,
+      "end": 988.42,
+      "text": "that is like just straight cake for these credit card companies. So it gets broken out"
+    },
+    {
+      "start": 988.42,
+      "end": 994.4,
+      "text": "into basically three different fees. There's the payment processing fee, which is set by,"
+    },
+    {
+      "start": 994.54,
+      "end": 1000.52,
+      "text": "you know, whoever's processing your card. So Stripe or Square or Chase, whatever you use to actually"
+    },
+    {
+      "start": 1000.52,
+      "end": 1006.42,
+      "text": "process. There's the assessment fee, which goes to the network. So if you swipe a Capital One"
+    },
+    {
+      "start": 1006.42,
+      "end": 1012.94,
+      "text": "card, for example, it'll go to Visa, this goes straight to the network. Their job is like network"
+    },
+    {
+      "start": 1012.94,
+      "end": 1017.98,
+      "text": "protection and basically making sure that, you know, things are secure. And that ranges anywhere"
+    },
+    {
+      "start": 1017.98,
+      "end": 1025.66,
+      "text": "from 0.13% to 0.15% on the higher end, the higher end is always Amex. Then there's the last fee,"
+    },
+    {
+      "start": 1025.76,
+      "end": 1031.88,
+      "text": "which is the biggest part of it, which is the interchange fee. And so this is basically one and a half"
+    },
+    {
+      "start": 1031.88,
+      "end": 1038.8,
+      "text": "percent, which is the lowest for Visa and MasterCard up to 3.3% with Amex. And this is where"
+    },
+    {
+      "start": 1038.8,
+      "end": 1046.72,
+      "text": "all your loyalty programs are made or the credit card itself, whether it's Parker or Brex or American"
+    },
+    {
+      "start": 1046.72,
+      "end": 1052.92,
+      "text": "Express, this is where they keep the issue or it keeps all the percentage. So this is how, for example,"
+    },
+    {
+      "start": 1053.1,
+      "end": 1058.78,
+      "text": "Parker, they'll say, you know, we'll extend your payment terms 60 days. No problem. You'll pay us in 60"
+    },
+    {
+      "start": 1058.78,
+      "end": 1065.04,
+      "text": "days, but we're going to pocket, let's say, 2% of your million dollars in ad spend on Facebook."
+    },
+    {
+      "start": 1065.28,
+      "end": 1071.46,
+      "text": "It's like a brilliant business. So anyways, all these companies are paying massive credit card fees,"
+    },
+    {
+      "start": 1071.96,
+      "end": 1075.94,
+      "text": "even to your point where like, you know, Envato says, we're not going to pay this. You're going to"
+    },
+    {
+      "start": 1075.94,
+      "end": 1081.54,
+      "text": "pay this if you're going to pay with a card, right? And so this company, Tandem, got on my radar"
+    },
+    {
+      "start": 1081.54,
+      "end": 1090.2,
+      "text": "last year. And basically it's this woman named Jennifer Glaspy. She was basically leading this"
+    },
+    {
+      "start": 1090.2,
+      "end": 1096.52,
+      "text": "program at Capital One. They were the backend of the branded credit card for companies like a Kate"
+    },
+    {
+      "start": 1096.52,
+      "end": 1100.8,
+      "text": "Spade or Macy's, for example. So those are essentially, you know, it's not Macy's building"
+    },
+    {
+      "start": 1100.8,
+      "end": 1106.56,
+      "text": "the bank. They just leverage the technology of Capital One. And, you know, it's great for"
+    },
+    {
+      "start": 1106.56,
+      "end": 1112.14,
+      "text": "the companies because they get a better repeat purchase rate. You know, consumers tend to spend"
+    },
+    {
+      "start": 1112.14,
+      "end": 1118.88,
+      "text": "a little bit more, like 10 to 15% more in AOV. And they're also making some money along the way."
+    },
+    {
+      "start": 1119.2,
+      "end": 1124.34,
+      "text": "So she said, you know, most of these companies, like to work with a synchrony bank or Capital One"
+    },
+    {
+      "start": 1124.34,
+      "end": 1130.74,
+      "text": "for these branded cards, you have to be a business doing over $10 billion usually, or you have to have,"
+    },
+    {
+      "start": 1130.84,
+      "end": 1135.92,
+      "text": "you know, you have to have a market cap of over $10 billion. And then the next tier down is like,"
+    },
+    {
+      "start": 1135.92,
+      "end": 1141.4,
+      "text": "you know, you have to have a billion to $10 billion. And so all these small businesses or,"
+    },
+    {
+      "start": 1141.7,
+      "end": 1144.98,
+      "text": "you know, not even that small businesses, even multi-hundred million dollar businesses"
+    },
+    {
+      "start": 1144.98,
+      "end": 1149.48,
+      "text": "don't get the advantage of, you know, having a credit card through one of these other platforms."
+    },
+    {
+      "start": 1149.6,
+      "end": 1154.62,
+      "text": "And so she built this platform called Tandem, which I thought was really cool for a couple reasons."
+    },
+    {
+      "start": 1155.28,
+      "end": 1161.68,
+      "text": "But there are, I think, one or two things that don't make sense. So it's cool because instead of"
+    },
+    {
+      "start": 1161.68,
+      "end": 1168.24,
+      "text": "paying like 3% for a swipe, you now pay 0.5%, which is basically like just the tandem fee."
+    },
+    {
+      "start": 1168.42,
+      "end": 1173,
+      "text": "There is no middlemen, there's no interchange fee, assessment fee, et cetera. The second piece"
+    },
+    {
+      "start": 1173,
+      "end": 1178.04,
+      "text": "that's really cool is like, you can build this into a loyalty program where you can now reward your"
+    },
+    {
+      "start": 1178.04,
+      "end": 1182.28,
+      "text": "customers with cash back. It's essentially like the Costco model. Costco gives you, I think it's"
+    },
+    {
+      "start": 1182.28,
+      "end": 1188.24,
+      "text": "2% cash back for the executive plan. And, you know, every, like, you know this, every brown"
+    },
+    {
+      "start": 1188.24,
+      "end": 1195.94,
+      "text": "parent says, no, we're going to get it from Costco. It's cash back. Right? And so there's a lot of"
+    },
+    {
+      "start": 1195.94,
+      "end": 1202.68,
+      "text": "benefits there. Where I think it might not work, but I hope it does because I invested, is you can"
+    },
+    {
+      "start": 1202.68,
+      "end": 1209.38,
+      "text": "only use the Tandem credit card right now on the Tandem network, which means like if Native has it,"
+    },
+    {
+      "start": 1209.54,
+      "end": 1215.72,
+      "text": "you can use it at Native. And if another company has it, let's say you want to buy Buck Mason t-shirts"
+    },
+    {
+      "start": 1215.72,
+      "end": 1221.04,
+      "text": "and they have it, you can use it there. But other than that, you don't necessarily get the benefits."
+    },
+    {
+      "start": 1221.66,
+      "end": 1227.58,
+      "text": "Yeah, that's really tough because it's basically like a gas cart. You can only use it at that gas"
+    },
+    {
+      "start": 1227.58,
+      "end": 1232.92,
+      "text": "station. You can't use it at the grocery store as well. It's exclusive. And I think those gas"
+    },
+    {
+      "start": 1232.92,
+      "end": 1237.34,
+      "text": "cards have sort of went the way of the dinosaur. Like, you know, when we owned gas stations, I remember"
+    },
+    {
+      "start": 1237.34,
+      "end": 1242.94,
+      "text": "we owned a Citgo gas station and for a while, 10% of consumers or 15% of consumers would have Citgo"
+    },
+    {
+      "start": 1242.94,
+      "end": 1248.52,
+      "text": "gas card. But by the time like our gas stations were slowing down, the number of people who had"
+    },
+    {
+      "start": 1248.52,
+      "end": 1252.78,
+      "text": "a Citgo branded gas card went down significantly. And everyone was sort of like, I use this visa"
+    },
+    {
+      "start": 1252.78,
+      "end": 1258.72,
+      "text": "everywhere I go. I don't have a specific card for a specific brand. So I think that's tough. Like"
+    },
+    {
+      "start": 1259.26,
+      "end": 1262.76,
+      "text": "is it an uphill battle? I mean, you mentioned you're an investor. I'm not an investor."
+    },
+    {
+      "start": 1262.96,
+      "end": 1266.8,
+      "text": "Is it an uphill battle to get a bunch of... Like, you know, if we launched at Native,"
+    },
+    {
+      "start": 1267.1,
+      "end": 1270.14,
+      "text": "first, if I were CEO of Native, I'd never launch that because I'd just be like,"
+    },
+    {
+      "start": 1270.64,
+      "end": 1274.22,
+      "text": "I don't love loyalty programs when it comes to e-commerce businesses just because I think they're"
+    },
+    {
+      "start": 1274.22,
+      "end": 1278.14,
+      "text": "a little gimmicky. I'm like, you know, I get airlines. Airlines, everyone's like, look,"
+    },
+    {
+      "start": 1278.24,
+      "end": 1283,
+      "text": "I want to travel. I want to save like this is thousands of dollars when I travel or hundreds"
+    },
+    {
+      "start": 1283,
+      "end": 1287.06,
+      "text": "of dollars at least. And so I want to save money. And I was like, what are we going to get people?"
+    },
+    {
+      "start": 1287.16,
+      "end": 1290.96,
+      "text": "We're going to say buy a coconut travel size deodorant today and get four extra points."
+    },
+    {
+      "start": 1291.1,
+      "end": 1292.24,
+      "text": "I'm like, I don't want to... Yeah."
+    },
+    {
+      "start": 1292.5,
+      "end": 1298.32,
+      "text": "Like, this is horseshit. Like, I didn't like that type of monotony. Although today,"
+    },
+    {
+      "start": 1298.32,
+      "end": 1303.08,
+      "text": "you know, Native does have that program. I guess, is it hard to get people to sign up if,"
+    },
+    {
+      "start": 1303.22,
+      "end": 1308.18,
+      "text": "you know, service is exclusive basically to you? So if you're Casper Mattresses and you launch a"
+    },
+    {
+      "start": 1308.18,
+      "end": 1311.36,
+      "text": "Tandem card, it's exclusive to Casper Mattresses or a couple other stores?"
+    },
+    {
+      "start": 1311.94,
+      "end": 1320.64,
+      "text": "That's a good question that I didn't ask. She did say that the adoption for customers that got a card"
+    },
+    {
+      "start": 1320.64,
+      "end": 1325.6,
+      "text": "went up about 15%. So they were reordering 15% more."
+    },
+    {
+      "start": 1325.72,
+      "end": 1326.78,
+      "text": "More free. Yeah."
+    },
+    {
+      "start": 1326.94,
+      "end": 1327.88,
+      "text": "Yeah. Which makes sense."
+    },
+    {
+      "start": 1328.46,
+      "end": 1332.16,
+      "text": "I was looking at one of my portfolio companies, Stripe accounts, while you were talking about"
+    },
+    {
+      "start": 1332.16,
+      "end": 1337.2,
+      "text": "interchange and stuff. And basically, they did a million dollars in revenue last month,"
+    },
+    {
+      "start": 1337.36,
+      "end": 1341.04,
+      "text": "give or take. And their network... So like, you know, they use interchange with Stripe."
+    },
+    {
+      "start": 1341.04,
+      "end": 1348.02,
+      "text": "Their network costs on Stripe were $28,000. And that's basically the interchange fees were,"
+    },
+    {
+      "start": 1348.02,
+      "end": 1354.46,
+      "text": "you know, $28,000. And then the Stripe fees were about $4,000, give or take a couple hundred"
+    },
+    {
+      "start": 1354.46,
+      "end": 1361.96,
+      "text": "dollars here or there. So $28,000 network fees, $4,000 Stripe fees on a little over a million dollars"
+    },
+    {
+      "start": 1361.96,
+      "end": 1363.56,
+      "text": "in revenue for the month. Damn."
+    },
+    {
+      "start": 1363.56,
+      "end": 1369.98,
+      "text": "So how does that work? Like, the interchange fees go to Capital One and... Like, the Stripe fees"
+    },
+    {
+      "start": 1369.98,
+      "end": 1374.86,
+      "text": "go straight to Stripe. The interchange fees goes a little bit to Capital One, a little bit to Visa."
+    },
+    {
+      "start": 1374.98,
+      "end": 1375.7,
+      "text": "Is that how it works?"
+    },
+    {
+      "start": 1376.04,
+      "end": 1380.7,
+      "text": "So the assessment fee goes to the network. You know, there's four main networks. I think it's"
+    },
+    {
+      "start": 1380.7,
+      "end": 1388.16,
+      "text": "MasterCard, Visa, Amex, and maybe Discover. And then the interchange fee goes to the card. So,"
+    },
+    {
+      "start": 1388.38,
+      "end": 1393.4,
+      "text": "you know, if you swipe your card, your interchange fee goes to American Express. If somebody else uses"
+    },
+    {
+      "start": 1393.56,
+      "end": 1400.16,
+      "text": "a Capital One, it'll go to Capital One. If you use Parker, it goes to Parker. And so basically goes"
+    },
+    {
+      "start": 1400.16,
+      "end": 1405.4,
+      "text": "to whoever issues the card. So of this $28,000, I guess, I'm not sure if you know this, but like,"
+    },
+    {
+      "start": 1405.48,
+      "end": 1411.14,
+      "text": "okay, so basically some portion of the fee goes to Visa, Amex, MasterCard, or Discover. And some"
+    },
+    {
+      "start": 1411.14,
+      "end": 1417.4,
+      "text": "portion goes to Capital One, whoever the guy is who got this guy to sign on. What percentage goes to"
+    },
+    {
+      "start": 1417.4,
+      "end": 1419.5,
+      "text": "Parker or Capital One? Any idea?"
+    },
+    {
+      "start": 1420.7,
+      "end": 1422.3,
+      "text": "Of the interchange fee?"
+    },
+    {
+      "start": 1422.74,
+      "end": 1423.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 1423.64,
+      "end": 1428.26,
+      "text": "Or of the total? So the fee that you see probably includes assessment and interchange."
+    },
+    {
+      "start": 1428.62,
+      "end": 1433.72,
+      "text": "So the assessment fee on average maxes out at 0.15% of the value."
+    },
+    {
+      "start": 1433.72,
+      "end": 1435.66,
+      "text": "Okay, that would be the amount that goes to Parker, 0.15%."
+    },
+    {
+      "start": 1435.66,
+      "end": 1439.78,
+      "text": "No, no, no. That would be the amount going to the network. So if Parker, I don't know what they're"
+    },
+    {
+      "start": 1439.78,
+      "end": 1446,
+      "text": "on. Are they on Visa or MasterCard? That would go to one of them. The interchange fee is 1.5 to 3.3."
+    },
+    {
+      "start": 1446,
+      "end": 1449.3,
+      "text": "So they're probably around, like, my guess is they're around 2."
+    },
+    {
+      "start": 1449.86,
+      "end": 1451.78,
+      "text": "So 2% would go to Parker?"
+    },
+    {
+      "start": 1452.1,
+      "end": 1452.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 1453.18,
+      "end": 1453.62,
+      "text": "Wow."
+    },
+    {
+      "start": 1453.92,
+      "end": 1455.46,
+      "text": "That's why it's a crazy business."
+    },
+    {
+      "start": 1456.22,
+      "end": 1456.56,
+      "text": "Wow."
+    },
+    {
+      "start": 1456.58,
+      "end": 1460.86,
+      "text": "And it's just about like signing up, you know, I mean, they hit it right with getting Facebook"
+    },
+    {
+      "start": 1460.86,
+      "end": 1465.62,
+      "text": "advertisers. If you're spending a million dollars a month on Facebook and you're using their card"
+    },
+    {
+      "start": 1465.62,
+      "end": 1470.3,
+      "text": "and you're getting 60 days, all they have to do is make sure that they just got 60 days afloat behind"
+    },
+    {
+      "start": 1470.3,
+      "end": 1474.6,
+      "text": "them. And let's say they pay, you know, 10% on the 60 days."
+    },
+    {
+      "start": 1474.6,
+      "end": 1476.82,
+      "text": "Right. It's like an arbitrage between the two."
+    },
+    {
+      "start": 1477.5,
+      "end": 1478.48,
+      "text": "That's bananas."
+    },
+    {
+      "start": 1478.84,
+      "end": 1479.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 1480.14,
+      "end": 1482.68,
+      "text": "You can't argue with the data, so here's some for you."
+    },
+    {
+      "start": 1483.04,
+      "end": 1487.72,
+      "text": "Two months after streetwear brand Rip A Dip launched their app with Tapcart, their total"
+    },
+    {
+      "start": 1487.72,
+      "end": 1492.26,
+      "text": "sales increased 53.2% and then another 43% the next month."
+    },
+    {
+      "start": 1492.54,
+      "end": 1497.2,
+      "text": "Apps make your customers stickier. They appeal to your diehard fans and keep them coming back."
+    },
+    {
+      "start": 1497.38,
+      "end": 1502.4,
+      "text": "It's as simple as that. Tapcart can build your mobile e-commerce app in two weeks, not months."
+    },
+    {
+      "start": 1502.4,
+      "end": 1505.82,
+      "text": "Go to tapcart.com slash limited and get two months free."
+    },
+    {
+      "start": 1507.48,
+      "end": 1515.06,
+      "text": "Now, the other interesting business out of this too is plastic. You know that company plastic where"
+    },
+    {
+      "start": 1515.06,
+      "end": 1524.34,
+      "text": "you can pay wires or ACH with a credit card? So I think they charge 3.15%, something like that."
+    },
+    {
+      "start": 1524.7,
+      "end": 1528.94,
+      "text": "And so they're probably taking about half a point on every transaction as well."
+    },
+    {
+      "start": 1529.6,
+      "end": 1533.42,
+      "text": "It's like out of thin air money. Like credit card money just comes out of thin air."
+    },
+    {
+      "start": 1533.92,
+      "end": 1539.06,
+      "text": "I feel like it always comes out of the merchant pocket. It's coming out of my pocket actually."
+    },
+    {
+      "start": 1539.14,
+      "end": 1539.62,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 1540.12,
+      "end": 1546.16,
+      "text": "But you know the crazy part is how if you really get into this, there are so many loopholes."
+    },
+    {
+      "start": 1546.48,
+      "end": 1554.16,
+      "text": "So cash back on credit cards generally is tax-free. I'm not sure. I think it's income tax-free and I"
+    },
+    {
+      "start": 1554.16,
+      "end": 1558.34,
+      "text": "think it's supposed to be income tax-free. But even if it's not supposed to be, I feel like no one"
+    },
+    {
+      "start": 1558.34,
+      "end": 1564.6,
+      "text": "declares it as income. If you're going to plastic and using your credit card to pay for a wire transfer,"
+    },
+    {
+      "start": 1565.1,
+      "end": 1568.08,
+      "text": "okay, that means that you're paying a 3% fee, right?"
+    },
+    {
+      "start": 1568.44,
+      "end": 1568.66,
+      "text": "Right."
+    },
+    {
+      "start": 1568.78,
+      "end": 1573.92,
+      "text": "A 3% fee is tax deductible because that's a fee that you're incurring as a cost of doing business."
+    },
+    {
+      "start": 1574.12,
+      "end": 1577.26,
+      "text": "And so let's say you're paying 33% in taxes, right?"
+    },
+    {
+      "start": 1577.5,
+      "end": 1583.8,
+      "text": "You've got a tax deduction of the $3. Let's say you paid $100 wire transfer and you paid $3 in plastic"
+    },
+    {
+      "start": 1583.8,
+      "end": 1590.22,
+      "text": "fees. $1 of that plastic fee is tax deductible if you're paying a 33% income tax. So now you've only"
+    },
+    {
+      "start": 1590.22,
+      "end": 1597.36,
+      "text": "paid $2 in fees because the other dollar was written off of your income. And you can go get"
+    },
+    {
+      "start": 1597.36,
+      "end": 1602.26,
+      "text": "a credit card that pays you more than 2% in rebates. You can get a credit card that pays you"
+    },
+    {
+      "start": 1602.26,
+      "end": 1613,
+      "text": "2.675% cash back. And now that 0.675% is tax-free income and you can put it in your personal pocket."
+    },
+    {
+      "start": 1613,
+      "end": 1617,
+      "text": "And so now all of a sudden you've got a tax deduction for your business and you've actually"
+    },
+    {
+      "start": 1617,
+      "end": 1622.26,
+      "text": "arbitraged that opportunity. It's a tax deduction. You get a 3% tax deduction. Those $3 are tax"
+    },
+    {
+      "start": 1622.26,
+      "end": 1628.72,
+      "text": "deductible, bringing your cost down to $2. You've got $2.67 in rebates, which means that you're up"
+    },
+    {
+      "start": 1628.72,
+      "end": 1635.7,
+      "text": "$0.67. And that $2.67 can actually be put into your personal pocket as opposed to the business pocket."
+    },
+    {
+      "start": 1635.86,
+      "end": 1640.38,
+      "text": "So you've also moved cash from your business to yourself personally without paying any income."
+    },
+    {
+      "start": 1640.38,
+      "end": 1645.94,
+      "text": "You know, there's no laws around this. It's the wild west of- It's like the crypto of dollars"
+    },
+    {
+      "start": 1645.94,
+      "end": 1650.5,
+      "text": "is credit card rewards. Also, the people who probably make the laws don't want to change them."
+    },
+    {
+      "start": 1651,
+      "end": 1656.3,
+      "text": "Yeah. Yeah. In fact, there was a law that recently got passed that said now senators and congressmen can"
+    },
+    {
+      "start": 1656.3,
+      "end": 1660.48,
+      "text": "book travel on their personal card and get reimbursed from the federal government"
+    },
+    {
+      "start": 1660.48,
+      "end": 1663.46,
+      "text": "so that they can get their own accounts. Oh, wow."
+    },
+    {
+      "start": 1663.46,
+      "end": 1665.08,
+      "text": "Wow. Which is pretty crazy."
+    },
+    {
+      "start": 1665.58,
+      "end": 1670.96,
+      "text": "Yeah. That is wild. There's actually a company, I was thinking in my head, why don't we start a"
+    },
+    {
+      "start": 1670.96,
+      "end": 1676.7,
+      "text": "credit card? Who better to go get cash back than us? And there's actually a company called Zurp,"
+    },
+    {
+      "start": 1676.86,
+      "end": 1685,
+      "text": "Z-U-R-P.com that has not launched yet, but they're basically creatorifying the credit card process. So"
+    },
+    {
+      "start": 1685,
+      "end": 1690.78,
+      "text": "we can have a limited supply credit card and people who get a line of credit and then spend,"
+    },
+    {
+      "start": 1690.78,
+      "end": 1696.34,
+      "text": "we'll keep probably like half a percent or something. Another interesting thing as a loophole,"
+    },
+    {
+      "start": 1696.68,
+      "end": 1703.14,
+      "text": "somebody just sent this to me today. If you're a pre-seed or a seed stage company based in New York"
+    },
+    {
+      "start": 1703.14,
+      "end": 1711.84,
+      "text": "and you raise between 50 to 250K or you've raised 2 million or less of prior funding,"
+    },
+    {
+      "start": 1712.12,
+      "end": 1718.76,
+      "text": "you can get a 100% match from the state of New York and they will own no equity."
+    },
+    {
+      "start": 1719.46,
+      "end": 1722.82,
+      "text": "Repeat the numbers again so that I can move to New York and get it."
+    },
+    {
+      "start": 1723.04,
+      "end": 1732.54,
+      "text": "Yeah. So if we start limited supply merch LLC, let's say we raise 250K from Moise Ali Ventures,"
+    },
+    {
+      "start": 1732.54,
+      "end": 1740.92,
+      "text": "we can get the state to match 250K and go start our business."
+    },
+    {
+      "start": 1741.52,
+      "end": 1745.2,
+      "text": "And the state of New York is doing that up to 250K to $2 million?"
+    },
+    {
+      "start": 1745.92,
+      "end": 1750.92,
+      "text": "No, no, no. It's 50 to 250K. You have to have raised less than 2 million before."
+    },
+    {
+      "start": 1751.56,
+      "end": 1754.74,
+      "text": "What are the other restrictions? Because I actually have 400 businesses"
+    },
+    {
+      "start": 1754.74,
+      "end": 1757,
+      "text": "that are going to be incorporated tomorrow."
+    },
+    {
+      "start": 1757.14,
+      "end": 1757.82,
+      "text": "We're about to start."
+    },
+    {
+      "start": 1757.98,
+      "end": 1760.3,
+      "text": "They each raise 250K from Moise Ali Ventures."
+    },
+    {
+      "start": 1762.24,
+      "end": 1767.92,
+      "text": "Is there an Upwork? I'm going to be like, who can fill out all these applications for me?"
+    },
+    {
+      "start": 1768.54,
+      "end": 1772.12,
+      "text": "Business one, Moise Ali one LLC. Business two, Moise Ali two LLC."
+    },
+    {
+      "start": 1772.94,
+      "end": 1775.96,
+      "text": "Have you ever gone through the process of Stripe Atlas?"
+    },
+    {
+      "start": 1776.66,
+      "end": 1777.72,
+      "text": "No, I haven't."
+    },
+    {
+      "start": 1778.08,
+      "end": 1786.46,
+      "text": "I don't know how they have not spent more money on marketing Stripe Atlas, but it costs $500 and they"
+    },
+    {
+      "start": 1786.46,
+      "end": 1792.22,
+      "text": "will set you up with an LLC or a C-Corp. All the filing, all the paperwork, articles of incorporation"
+    },
+    {
+      "start": 1792.22,
+      "end": 1796.78,
+      "text": "start to finish. And then you take that document and you set up a Mercury account,"
+    },
+    {
+      "start": 1797.04,
+      "end": 1803.32,
+      "text": "which takes 30 seconds. And you can have a LLC or a C-Corp launched in 48 hours."
+    },
+    {
+      "start": 1803.9,
+      "end": 1808.28,
+      "text": "I don't understand how Stripe consistently does this kind of stuff. They're still the only guys"
+    },
+    {
+      "start": 1808.28,
+      "end": 1812.34,
+      "text": "that you can go to to immediately create a merch. You want to start processing credit cards today"
+    },
+    {
+      "start": 1812.34,
+      "end": 1816.46,
+      "text": "and you're on WooCommerce. You can only go to Stripe. Everyone else is like, hey,"
+    },
+    {
+      "start": 1816.56,
+      "end": 1820.48,
+      "text": "we need your bank account information. We need to do all this other stuff. Stripe is like, here you go."
+    },
+    {
+      "start": 1820.88,
+      "end": 1825.02,
+      "text": "Start charging some cards. I don't know how they're the only guys who have figured this kind of stuff"
+    },
+    {
+      "start": 1825.02,
+      "end": 1825.9,
+      "text": "out. Yeah."
+    },
+    {
+      "start": 1826.5,
+      "end": 1830.42,
+      "text": "I only saw this on Twitter like two moments ago, right before we were about to record. But"
+    },
+    {
+      "start": 1830.88,
+      "end": 1835.66,
+      "text": "supposedly they signed some deep contract with Amazon, where Amazon is now going to process even"
+    },
+    {
+      "start": 1835.66,
+      "end": 1840.94,
+      "text": "more of their credit cards through Stripe. I don't know the details because it just got"
+    },
+    {
+      "start": 1840.94,
+      "end": 1842.86,
+      "text": "announced like two minutes ago, but it's pretty incredible."
+    },
+    {
+      "start": 1843.54,
+      "end": 1846.14,
+      "text": "Wow. That'll skyrocket their valuation."
+    },
+    {
+      "start": 1846.14,
+      "end": 1846.76,
+      "text": "Their valuation."
+    },
+    {
+      "start": 1847.04,
+      "end": 1847.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 1847.6,
+      "end": 1849.24,
+      "text": "Yeah. Yeah. I hope you're right about that."
+    },
+    {
+      "start": 1849.7,
+      "end": 1852.98,
+      "text": "I think like, you know, I used to listen to, I haven't listened to All In for a while,"
+    },
+    {
+      "start": 1853.06,
+      "end": 1856.82,
+      "text": "but I used to listen to All In podcasts and like Chamath beeped out a name and he's like,"
+    },
+    {
+      "start": 1856.96,
+      "end": 1863.64,
+      "text": "someone offered me beeped out name company, which is a darling in Silicon Valley for 40% off."
+    },
+    {
+      "start": 1864.2,
+      "end": 1867.68,
+      "text": "And I'm waiting for it to be 60% off. And I was like, do you mean Stripe? And if so,"
+    },
+    {
+      "start": 1867.68,
+      "end": 1872.06,
+      "text": "I would like to purchase that because I'm a big believer in what they're doing. They just seem to"
+    },
+    {
+      "start": 1872.06,
+      "end": 1876.18,
+      "text": "have solutions to real problems and it seems to be frictionless."
+    },
+    {
+      "start": 1876.68,
+      "end": 1880.86,
+      "text": "Yeah. Fully agreed. All right. Which one of these topics should we talk about next?"
+    },
+    {
+      "start": 1881.62,
+      "end": 1885.66,
+      "text": "Let's talk a little bit about P\u0026G sales volume. Actually, I'd love to chat about this. I wrote a"
+    },
+    {
+      "start": 1885.66,
+      "end": 1892.02,
+      "text": "tweet about this because they just announced earnings for their fiscal year ends June 30th."
+    },
+    {
+      "start": 1892.02,
+      "end": 1898.88,
+      "text": "So this is like their Q2, but like, you know, it's Q4 calendar. So basically the last three months"
+    },
+    {
+      "start": 1898.88,
+      "end": 1905.44,
+      "text": "of 2022, their sales volume was down across the board. Sales volume was down 6% overall."
+    },
+    {
+      "start": 1905.82,
+      "end": 1909.7,
+      "text": "And the big drops were, I think in like grooming where sales volume was down 8%."
+    },
+    {
+      "start": 1910.2,
+      "end": 1915.34,
+      "text": "Beauty sales volume was down 4%. Fabric sales volume was down 7%."
+    },
+    {
+      "start": 1915.34,
+      "end": 1920.28,
+      "text": "These are massive businesses for volume to be down that much. And generally like, you know,"
+    },
+    {
+      "start": 1920.56,
+      "end": 1926.04,
+      "text": "they keep up with inflation or at least, you know, do better than the market. So sales volume falling"
+    },
+    {
+      "start": 1926.04,
+      "end": 1933.56,
+      "text": "that much is huge. So volume was down on average 6% across the entire company, but they increased"
+    },
+    {
+      "start": 1933.56,
+      "end": 1940.34,
+      "text": "their prices 10% across the entire company. So like, you know, their beauty increased prices by 9%,"
+    },
+    {
+      "start": 1940.34,
+      "end": 1949.32,
+      "text": "9%, grooming by 11% and fabric care, which basically means tied and gain by 13%. So tied prices are up,"
+    },
+    {
+      "start": 1949.32,
+      "end": 1955.9,
+      "text": "you know, 13% a year or like more than 10% from a year ago, which is a lot because tied is already"
+    },
+    {
+      "start": 1955.9,
+      "end": 1957.38,
+      "text": "pretty expensive. Yeah."
+    },
+    {
+      "start": 1957.38,
+      "end": 1963.66,
+      "text": "Beauty is up 10% from a year ago, which is again, a lot. And really the beauty division for a long time"
+    },
+    {
+      "start": 1963.66,
+      "end": 1968.84,
+      "text": "was led by this brand that's big in Asia, but not so big in the United States called SK2."
+    },
+    {
+      "start": 1969.34,
+      "end": 1973.66,
+      "text": "And that's seen some sales volume decline just based on what the 10 Ks and 10 Qs say"
+    },
+    {
+      "start": 1973.66,
+      "end": 1979,
+      "text": "that I've been reading. So overall their sales are up, but that's because even though volume is down,"
+    },
+    {
+      "start": 1979.48,
+      "end": 1985.22,
+      "text": "prices are up so much that their overall revenue is up still, which I think is bananas. Like,"
+    },
+    {
+      "start": 1985.28,
+      "end": 1989.82,
+      "text": "you know, sales volume is down 13%, but they are sales volume for fabric care is down 7%."
+    },
+    {
+      "start": 1989.82,
+      "end": 1992.72,
+      "text": "They made up for it by increasing prices 13%."
+    },
+    {
+      "start": 1993.8,
+      "end": 1996.74,
+      "text": "This is a dumb question. Does that kind of balance it out then to zero?"
+    },
+    {
+      "start": 1997.16,
+      "end": 2001.46,
+      "text": "It does better than that. It shows growth. Like, uh, cause basically if like, uh,"
+    },
+    {
+      "start": 2001.58,
+      "end": 2007.34,
+      "text": "sales are down 1%, if the number of units you sell falls 1%, but your prices go up 10%,"
+    },
+    {
+      "start": 2007.34,
+      "end": 2012.4,
+      "text": "you actually see growth. So organic sales are actually up, but like, you know, the problem is"
+    },
+    {
+      "start": 2012.4,
+      "end": 2016.5,
+      "text": "how much longer can they be up? Like, you know, I'm sure someone is thinking inside the organization."
+    },
+    {
+      "start": 2016.96,
+      "end": 2020.82,
+      "text": "If sales continue to fall, if the number of units continues to go down,"
+    },
+    {
+      "start": 2020.82,
+      "end": 2026.6,
+      "text": "we can't just consistently raise prices by 10% year over year to make up for it. At some point,"
+    },
+    {
+      "start": 2026.68,
+      "end": 2030.8,
+      "text": "someone's going to be like, I'm not going to pay $40 for this, uh, you know, box of tide."
+    },
+    {
+      "start": 2031,
+      "end": 2035.92,
+      "text": "Like that's too expensive. And so, um, I think that like, you know, somebody there has got to be"
+    },
+    {
+      "start": 2035.92,
+      "end": 2041.2,
+      "text": "like, Hey, how do we get sales volume up? And like, the scary part is sales volume was down across"
+    },
+    {
+      "start": 2041.2,
+      "end": 2045.76,
+      "text": "every single category. It's not like, okay, you know what? In beauty, we were selling more units,"
+    },
+    {
+      "start": 2045.76,
+      "end": 2050.62,
+      "text": "but in fabric care, we were selling fewer units or in grooming, which is like Gillette,"
+    },
+    {
+      "start": 2051.02,
+      "end": 2055.2,
+      "text": "Gillette sold fewer units, but you know what sold more is Pampers. That's not what it was."
+    },
+    {
+      "start": 2055.4,
+      "end": 2061.22,
+      "text": "Everybody sold fewer units last, last quarter than they had a year before, although they raised"
+    },
+    {
+      "start": 2061.22,
+      "end": 2067.1,
+      "text": "prices so much it made up for it. So sales volume is still up. Would you say that's a recession thing"
+    },
+    {
+      "start": 2067.1,
+      "end": 2072.34,
+      "text": "or it's just, there's more competition eating at their ankles? I think personally, it's more of a"
+    },
+    {
+      "start": 2072.34,
+      "end": 2077.18,
+      "text": "recession thing where they're like, we have to raise prices a ton. Uh, like, you know, who's"
+    },
+    {
+      "start": 2077.18,
+      "end": 2081.84,
+      "text": "the next tide? I'm not sure who the next time. Uh, yeah, I don't know. In my mind, maybe like"
+    },
+    {
+      "start": 2081.84,
+      "end": 2089.48,
+      "text": "true earth, but that's a, that's like ego strip. Yeah. Mrs. Myers, maybe. Yeah. I use Mrs. Myers."
+    },
+    {
+      "start": 2090.16,
+      "end": 2096.06,
+      "text": "Okay. Gotcha. But that's SC Johnson. I think. Mrs. Myers is SC Johnson. Yeah. Yeah. Yeah."
+    },
+    {
+      "start": 2096.06,
+      "end": 2099.32,
+      "text": "Yeah. I just don't know who like, it's not method. Like for a while, everyone thought it'd be"
+    },
+    {
+      "start": 2099.32,
+      "end": 2103.16,
+      "text": "method. It isn't. And I think it's really hard to know who the next guy, like who the"
+    },
+    {
+      "start": 2103.16,
+      "end": 2108.66,
+      "text": "up and comer is, but sales volume going down that much is a lot. Like, you know, sales volume"
+    },
+    {
+      "start": 2108.66,
+      "end": 2113.22,
+      "text": "for beauty going down 4%. People buying fewer sticks of deodorant. Why would people be buying"
+    },
+    {
+      "start": 2113.22,
+      "end": 2117.76,
+      "text": "fewer sticks of deodorant? Are people buying fewer jars of Olay? Like why would they be"
+    },
+    {
+      "start": 2117.76,
+      "end": 2122.4,
+      "text": "doing that? Like, what's the problem where it's down across every single category in the entire"
+    },
+    {
+      "start": 2122.4,
+      "end": 2126.94,
+      "text": "organization? Like this organization spans from paper towels to diapers, to laundry detergent,"
+    },
+    {
+      "start": 2126.94,
+      "end": 2132.82,
+      "text": "to deodorant, to skincare, to, you know, Swiffer. How is it that every single thing is like,"
+    },
+    {
+      "start": 2133.04,
+      "end": 2136.58,
+      "text": "you know, every single category is down and that's got to be a little bit scary for them."
+    },
+    {
+      "start": 2137.02,
+      "end": 2142.4,
+      "text": "Totally. Huh. What's your take on it? I think prices have gotten really high. Like,"
+    },
+    {
+      "start": 2142.48,
+      "end": 2146.16,
+      "text": "you know, I don't follow every category, but like, you know, when I look at native deodorant"
+    },
+    {
+      "start": 2146.16,
+      "end": 2153.26,
+      "text": "now and I'm like, okay, it's $13. That seems super high to me. And I priced it at 12 and at $13,"
+    },
+    {
+      "start": 2153.26,
+      "end": 2158.2,
+      "text": "it seems super high to me. And Tide is, you know, like one of the reasons I grew a beard"
+    },
+    {
+      "start": 2158.2,
+      "end": 2162.4,
+      "text": "seven years ago was because I was like, you know what I can't keep affording is Gillette razor blades."
+    },
+    {
+      "start": 2162.66,
+      "end": 2164.72,
+      "text": "Yeah. Like this is too expensive."
+    },
+    {
+      "start": 2165.5,
+      "end": 2169.9,
+      "text": "Yeah. Yeah. I was like, you know, this is a separate line item on my personal budget of like"
+    },
+    {
+      "start": 2169.9,
+      "end": 2174.12,
+      "text": "shaving. You know, I was like, I can't, I can't afford to buy. And that's why they're kept in those,"
+    },
+    {
+      "start": 2174.22,
+      "end": 2178.8,
+      "text": "you know, safes at Kroger, right? Like if you want to go to, if you want to go to a Kroger and buy"
+    },
+    {
+      "start": 2178.8,
+      "end": 2182.58,
+      "text": "Gillette razor blade, they use a time lock safe. They enter a code and they're like, come back in"
+    },
+    {
+      "start": 2182.58,
+      "end": 2187,
+      "text": "15 minutes. A safe will open. We can give you a pack of these. Like, you know, it's, they have"
+    },
+    {
+      "start": 2187,
+      "end": 2190.9,
+      "text": "like Wells Fargo come and deliver them with a guy with a gun delivers Gillette razor blades."
+    },
+    {
+      "start": 2191.42,
+      "end": 2192.68,
+      "text": "The armored Gillette truck."
+    },
+    {
+      "start": 2192.94,
+      "end": 2197.38,
+      "text": "Yeah, exactly. And so I think part of it is that like, it's just too, too expensive,"
+    },
+    {
+      "start": 2198.06,
+      "end": 2203.06,
+      "text": "but curious to see like how other guys, you know, SC Johnson is a privately held company,"
+    },
+    {
+      "start": 2203.06,
+      "end": 2207.7,
+      "text": "but I'm curious to see how other guys report in the next coming months. Like I think honest is"
+    },
+    {
+      "start": 2207.7,
+      "end": 2212.62,
+      "text": "coming out in March. I'm curious to see how honest does, um, in terms of their sales."
+    },
+    {
+      "start": 2213.1,
+      "end": 2213.96,
+      "text": "Yeah. Agreed."
+    },
+    {
+      "start": 2214.56,
+      "end": 2217.72,
+      "text": "Across your portfolio companies. Are you seeing growth? Are you like, you know, how,"
+    },
+    {
+      "start": 2217.8,
+      "end": 2222.04,
+      "text": "how was Q4? How's January shaping up? Where do you know, two thirds of the way done with January?"
+    },
+    {
+      "start": 2222.74,
+      "end": 2227.64,
+      "text": "It's a lot slower growth. It's still growth, but it's much slower than where it was like, you know,"
+    },
+    {
+      "start": 2227.64,
+      "end": 2234.36,
+      "text": "um, few years ago and kind of took me a second to get used to with the investor updates. Cause"
+    },
+    {
+      "start": 2234.36,
+      "end": 2239.18,
+      "text": "it was like, we only grew a little bit, but we didn't lose money and we, you know,"
+    },
+    {
+      "start": 2239.24,
+      "end": 2244.06,
+      "text": "we figured things out. So it's actually good. I think it's actually great. I think it forces a"
+    },
+    {
+      "start": 2244.06,
+      "end": 2249.6,
+      "text": "lot of people to also just be smart in where they're spending, even as it relates to hiring,"
+    },
+    {
+      "start": 2249.74,
+      "end": 2254.6,
+      "text": "right? If you're going to hire, you know, if we were in like a total bull market and you needed"
+    },
+    {
+      "start": 2254.6,
+      "end": 2258.82,
+      "text": "to build a creative team, you might hire like seven people out of which, you know, five people"
+    },
+    {
+      "start": 2258.82,
+      "end": 2264.68,
+      "text": "are kind of working at 50% capacity. But you know, now you're hiring two people and not only do they"
+    },
+    {
+      "start": 2264.68,
+      "end": 2269.52,
+      "text": "know how to design and also get into final cut pro, but they also know how to go into ads manager"
+    },
+    {
+      "start": 2269.52,
+      "end": 2275.72,
+      "text": "and read the data and understand what works and then go back to final cut. And so I think it's also"
+    },
+    {
+      "start": 2275.72,
+      "end": 2283.6,
+      "text": "forcing like a, um, a stronger candidate that comes into roles nowadays too, where you're getting"
+    },
+    {
+      "start": 2283.6,
+      "end": 2289.46,
+      "text": "people who are more like Swiss army knives versus like a pocket knife. Are there good places where"
+    },
+    {
+      "start": 2289.46,
+      "end": 2293.32,
+      "text": "there's like e-commerce job boards that you look at? Like I want to hire us a guy who knows final cut"
+    },
+    {
+      "start": 2293.32,
+      "end": 2297.02,
+      "text": "pro and then knows how to get into ads manager and read the data and be like, Hey, this is what's"
+    },
+    {
+      "start": 2297.02,
+      "end": 2301.76,
+      "text": "working. This is what's not. Are there good e-commerce job boards or is that, is that a $10"
+    },
+    {
+      "start": 2301.76,
+      "end": 2306.7,
+      "text": "million idea that's on the table right now? I don't know of one that exists. Honestly,"
+    },
+    {
+      "start": 2306.7,
+      "end": 2313.38,
+      "text": "we should start one and just pool like people should submit both companies should submit roles"
+    },
+    {
+      "start": 2313.38,
+      "end": 2318.3,
+      "text": "they're hiring for, but there's probably a lot of people who are listening who are looking to, um,"
+    },
+    {
+      "start": 2318.56,
+      "end": 2323.86,
+      "text": "find something new that's like, you know, without us blowing their cover. And I bet we could help"
+    },
+    {
+      "start": 2323.86,
+      "end": 2328.96,
+      "text": "companies find candidates as well. What I've been doing lately, which has actually been working"
+    },
+    {
+      "start": 2328.96,
+      "end": 2337.08,
+      "text": "in my favor is instead of a job description that has a bunch of responsibilities listed out,"
+    },
+    {
+      "start": 2337.32,
+      "end": 2344.04,
+      "text": "it basically says, here are all the results that you need to have done by the end of this quarter,"
+    },
+    {
+      "start": 2344.04,
+      "end": 2348.84,
+      "text": "or like, here are the results that pertain to your role. So, you know, it might be like, you know,"
+    },
+    {
+      "start": 2348.98,
+      "end": 2354.32,
+      "text": "we have to have X amount of dollars in revenue at the end of the first quarter, or, you know,"
+    },
+    {
+      "start": 2354.32,
+      "end": 2360.72,
+      "text": "we need to reach out and seed 25 creators to generate, you know, 200 pieces of content"
+    },
+    {
+      "start": 2360.72,
+      "end": 2365.92,
+      "text": "every quarter. And then from there, just telling people, all right, here's, here's the role."
+    },
+    {
+      "start": 2366.1,
+      "end": 2370.56,
+      "text": "You can take it or leave it. If you want it, apply your name and like why, you know, why you should"
+    },
+    {
+      "start": 2370.56,
+      "end": 2376.72,
+      "text": "basically actually apply with your name and email. Tell me what you've done before that qualifies"
+    },
+    {
+      "start": 2376.72,
+      "end": 2382.36,
+      "text": "you to make me think that you can do this. Wow. Okay. So you're basically giving a KPI that"
+    },
+    {
+      "start": 2382.36,
+      "end": 2386.12,
+      "text": "you're looking for at the, like their quarterly performance review. You're like, this is how"
+    },
+    {
+      "start": 2386.12,
+      "end": 2390.98,
+      "text": "you're going to be a standout star, which is you've done this. Okay. Gotcha. Yeah. It's worked"
+    },
+    {
+      "start": 2390.98,
+      "end": 2396.36,
+      "text": "phenomenally. I've been doing it for probably like a month and a half now. Wow. Okay, great. Yeah. You"
+    },
+    {
+      "start": 2396.36,
+      "end": 2401.34,
+      "text": "know, Sam Parr did this one thing. I forgot when it was. And he's like, he's like, here are five"
+    },
+    {
+      "start": 2401.34,
+      "end": 2406.28,
+      "text": "people that I know that are single that you, everyone should date. And let me tell you who they are."
+    },
+    {
+      "start": 2406.72,
+      "end": 2409.76,
+      "text": "And I remember one was this guy Ramon. Have you met Ramon by the way?"
+    },
+    {
+      "start": 2410.1,
+      "end": 2414.88,
+      "text": "Is he the one that has alpha paw? Yeah. Yeah. Oh yeah. I love his story. I haven't met him"
+    },
+    {
+      "start": 2414.88,
+      "end": 2418.9,
+      "text": "though. Okay. He's in Austin. So when we're at the Whaley's, we should hang out with him."
+    },
+    {
+      "start": 2419.26,
+      "end": 2424.08,
+      "text": "Yeah. He'll be like, um, let's go boxing. And I'll be like, okay, great. Are we going to rumble?"
+    },
+    {
+      "start": 2424.14,
+      "end": 2427.56,
+      "text": "He's like, no, we're going to box each other. And I'm like, are you joking? And he's like, no,"
+    },
+    {
+      "start": 2427.9,
+      "end": 2432.46,
+      "text": "I'm going to hit you in the head. I'm like, okay, I quit. Like I surrender immediately."
+    },
+    {
+      "start": 2433.04,
+      "end": 2438.88,
+      "text": "And he used to be like an MMA fighter. So he's like, let's go fight for real. Like,"
+    },
+    {
+      "start": 2438.88,
+      "end": 2444.14,
+      "text": "and he's like, I love fighting. And I'm like, are you crazy? You can't do this. You got a kid."
+    },
+    {
+      "start": 2444.38,
+      "end": 2448.94,
+      "text": "And he's like, yeah, I love fighting. Uh, but in any case, you know, I remember he was on that list."
+    },
+    {
+      "start": 2449.1,
+      "end": 2452.34,
+      "text": "If five people DM us, I think we should do the same thing and be like, you know, this isn't"
+    },
+    {
+      "start": 2452.34,
+      "end": 2456.44,
+      "text": "going to be under the radar certainly. But if you're a great candidate and you're looking for a new role,"
+    },
+    {
+      "start": 2456.6,
+      "end": 2461.1,
+      "text": "DM me or DM Nick. And if we get five good people, I'll create a thread and I'll be like,"
+    },
+    {
+      "start": 2461.36,
+      "end": 2463.94,
+      "text": "here are five people in the community looking for a good role."
+    },
+    {
+      "start": 2464.42,
+      "end": 2465.44,
+      "text": "Yeah. Great."
+    },
+    {
+      "start": 2466.22,
+      "end": 2469,
+      "text": "Let me switch gears one more time and talk about the triple will event."
+    },
+    {
+      "start": 2469.24,
+      "end": 2469.56,
+      "text": "Yes."
+    },
+    {
+      "start": 2469.58,
+      "end": 2473.1,
+      "text": "Cause I've been struggling about what to talk about. Like I'm trying to give not the native"
+    },
+    {
+      "start": 2473.1,
+      "end": 2476.86,
+      "text": "stump speech, which is how I built native. And then I'm like, this is the only thing I can talk"
+    },
+    {
+      "start": 2476.86,
+      "end": 2480.54,
+      "text": "about. You were saying, what else should I talk about? I was like, okay, let me talk about how"
+    },
+    {
+      "start": 2480.54,
+      "end": 2485.04,
+      "text": "I built native, what I've been up to afterwards, what's going on in the e-commerce community."
+    },
+    {
+      "start": 2485.28,
+      "end": 2487.22,
+      "text": "Is that a good prompt or does that suck?"
+    },
+    {
+      "start": 2487.22,
+      "end": 2493.72,
+      "text": "Like the audience here from what I know is basically a bunch of people like us, just nerds"
+    },
+    {
+      "start": 2493.72,
+      "end": 2500.66,
+      "text": "who are looking to soak in nuggets. So didn't you buy a few brands recently? You bought that"
+    },
+    {
+      "start": 2500.66,
+      "end": 2502.84,
+      "text": "cleaning brand and then you bought a couple others, right?"
+    },
+    {
+      "start": 2503.28,
+      "end": 2503.44,
+      "text": "Yep."
+    },
+    {
+      "start": 2503.54,
+      "end": 2508.9,
+      "text": "You could, this is what I think would actually be pretty interesting. If you just talked about,"
+    },
+    {
+      "start": 2509.16,
+      "end": 2511.3,
+      "text": "so you did native, that's great."
+    },
+    {
+      "start": 2511.74,
+      "end": 2512.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 2512.26,
+      "end": 2513.62,
+      "text": "And everybody knows native."
+    },
+    {
+      "start": 2514.22,
+      "end": 2514.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 2515.28,
+      "end": 2519.44,
+      "text": "And also native had an office native had this and that all the bells and whistles, right?"
+    },
+    {
+      "start": 2519.7,
+      "end": 2520.88,
+      "text": "But now you have,"
+    },
+    {
+      "start": 2522.14,
+      "end": 2524.9,
+      "text": "I love that an office is bells and whistles."
+    },
+    {
+      "start": 2525.04,
+      "end": 2526.12,
+      "text": "It is the bells and whistles."
+    },
+    {
+      "start": 2526.12,
+      "end": 2530.5,
+      "text": "You had a desk, you had a desk. Fuck, you are extravagant over there."
+    },
+    {
+      "start": 2531.94,
+      "end": 2536.84,
+      "text": "So I think it would be cool for you to talk about like how, how big is your operational team"
+    },
+    {
+      "start": 2536.84,
+      "end": 2541.8,
+      "text": "that like runs your brands today? So one, I think you should talk about that. You should talk"
+    },
+    {
+      "start": 2541.8,
+      "end": 2546.98,
+      "text": "about what their roles are. Cause a lot of people are, a lot of people are either like one or the"
+    },
+    {
+      "start": 2546.98,
+      "end": 2552.06,
+      "text": "other. They're either like, I'm all in, in this company and I'm working super hard or it's like,"
+    },
+    {
+      "start": 2552.22,
+      "end": 2557.62,
+      "text": "no, this is a nine to five, like five o'clock. I'm off the clock. My weekends are my personal time"
+    },
+    {
+      "start": 2557.62,
+      "end": 2562.76,
+      "text": "and both are okay. And in different scenarios, but I think it would be interesting for you to talk"
+    },
+    {
+      "start": 2562.76,
+      "end": 2568.62,
+      "text": "through like, what are their personalities? Like, why are they a good fit for you? Somebody who"
+    },
+    {
+      "start": 2568.62,
+      "end": 2573.78,
+      "text": "probably hates meetings, loves a clear calendar, uh, running, let's say three brands at any given"
+    },
+    {
+      "start": 2573.78,
+      "end": 2578.42,
+      "text": "time. Like who are those people and how does that whole operation work? I think that would be a cool"
+    },
+    {
+      "start": 2578.42,
+      "end": 2584.26,
+      "text": "talk. I think I can add that as part of the talk. You're right. I love people who don't want meetings"
+    },
+    {
+      "start": 2584.26,
+      "end": 2590.16,
+      "text": "and like the answer is I hire people who are so independent. You know, I expect no calls or emails"
+    },
+    {
+      "start": 2590.16,
+      "end": 2595.26,
+      "text": "ever. Maybe like an annual, in fact, I have access to like revenue reports. So I'm just like,"
+    },
+    {
+      "start": 2595.26,
+      "end": 2599.26,
+      "text": "I don't need anything from you. I can look at your revenue. I can look at your, I can understand"
+    },
+    {
+      "start": 2599.26,
+      "end": 2603.42,
+      "text": "EBITDA, uh, share the P and L at the end of the month and don't ever talk to me again."
+    },
+    {
+      "start": 2603.9,
+      "end": 2608.42,
+      "text": "And you know, you're the benefit for you is you will also never talk to me again. Like you don't"
+    },
+    {
+      "start": 2608.42,
+      "end": 2612.48,
+      "text": "have to deal with a boss. You're basically your own person in every single respect. If things aren't"
+    },
+    {
+      "start": 2612.48,
+      "end": 2616.52,
+      "text": "going well, you know, you're accountable to yourself, but that's an interesting conversation."
+    },
+    {
+      "start": 2616.64,
+      "end": 2620.74,
+      "text": "And I think I can talk about that a little bit in part, like also how to compensate people."
+    },
+    {
+      "start": 2620.88,
+      "end": 2623.56,
+      "text": "Uh, cause for a long time I didn't understand how to compensate people,"
+    },
+    {
+      "start": 2623.56,
+      "end": 2627.76,
+      "text": "especially senior level executives. And now I think I'm doing a better job of that."
+    },
+    {
+      "start": 2628.22,
+      "end": 2629.88,
+      "text": "What else were you thinking of talking about?"
+    },
+    {
+      "start": 2630.54,
+      "end": 2633.88,
+      "text": "What I've been up to today, the challenges the e-commerce community has faced,"
+    },
+    {
+      "start": 2634.14,
+      "end": 2638.22,
+      "text": "like from iOS 14 and a half to a bunch, like, you know, to container costs,"
+    },
+    {
+      "start": 2638.42,
+      "end": 2644.08,
+      "text": "a bunch of just other challenges and also like how to think about exits and how to think about like,"
+    },
+    {
+      "start": 2644.22,
+      "end": 2647.88,
+      "text": "uh, what do you do afterwards? Like, you know, a bunch of the calls I take now are people who are"
+    },
+    {
+      "start": 2647.88,
+      "end": 2652.12,
+      "text": "like, look, my business is generating $2 million in EBIT a year. I don't know what to do with this"
+    },
+    {
+      "start": 2652.12,
+      "end": 2655.86,
+      "text": "money. Like, you know, it's working. What do I do with money? Like now that I'm earning it,"
+    },
+    {
+      "start": 2655.98,
+      "end": 2659.28,
+      "text": "I'm earning more than I can spend, even though I've lived a very good lifestyle. So what should"
+    },
+    {
+      "start": 2659.28,
+      "end": 2662.7,
+      "text": "I do with it? Uh, and so I wasn't going to go into like, you know, how to invest money,"
+    },
+    {
+      "start": 2662.8,
+      "end": 2666.9,
+      "text": "but sort of how to think about life outside of your business. Cause I feel like now I've had a"
+    },
+    {
+      "start": 2666.9,
+      "end": 2670.66,
+      "text": "chance to do that, but it's hard, you know, I live in my own bubble. It's just like, I think we all"
+    },
+    {
+      "start": 2670.66,
+      "end": 2674.7,
+      "text": "do. So it's hard for me to know whether that bubble translates into other people's bubbles or"
+    },
+    {
+      "start": 2674.7,
+      "end": 2677.96,
+      "text": "they're just like, go fuck yourself boys. Like, I don't want to hear about all these problems you've got."
+    },
+    {
+      "start": 2677.96,
+      "end": 2683.42,
+      "text": "Yeah. You can also talk about how hard it was to find an Airbnb under $25,000. That was"
+    },
+    {
+      "start": 2683.42,
+      "end": 2687.4,
+      "text": "reasonable to live in. It was impossible. Actually. That's I, that's why I left New York."
+    },
+    {
+      "start": 2687.72,
+      "end": 2691.8,
+      "text": "Like I don't live in New York anymore because that doesn't like, I couldn't do that. I couldn't"
+    },
+    {
+      "start": 2691.8,
+      "end": 2697.02,
+      "text": "make that happen, which sounds ridiculous. I went like, um, I hosted this event with Parker at"
+    },
+    {
+      "start": 2697.02,
+      "end": 2701.18,
+      "text": "Nobu Malibu this last week on Thursday. I wish you'd been able to come. It was so much fun."
+    },
+    {
+      "start": 2702.26,
+      "end": 2707.58,
+      "text": "And the Parker CEO and I, uh, we were both just talking about how hard it was to find a place in"
+    },
+    {
+      "start": 2707.58,
+      "end": 2710.38,
+      "text": "New York. And so we both rented blue grounds. Are you familiar with blue ground?"
+    },
+    {
+      "start": 2711.5,
+      "end": 2715.2,
+      "text": "No, there's an apartment building in New York city and you rent a 400 square foot,"
+    },
+    {
+      "start": 2715.2,
+      "end": 2719.12,
+      "text": "a furnished apartment. That's a one bedroom where, you know, from your bedroom, you can basically"
+    },
+    {
+      "start": 2719.12,
+      "end": 2723.12,
+      "text": "flush the toilet from your bed. You can be lying in bed and flush the toilet without having to get up."
+    },
+    {
+      "start": 2723.12,
+      "end": 2729.34,
+      "text": "And you know, it's like $17,000 a month. And for several months I was paying $17,000 a month and"
+    },
+    {
+      "start": 2729.34,
+      "end": 2734,
+      "text": "basically sleeping right next to my toilet. And that was the best thing I could find. I think"
+    },
+    {
+      "start": 2734,
+      "end": 2738.52,
+      "text": "things have gotten a little bit better since COVID is sort of relaxed and people are more open to"
+    },
+    {
+      "start": 2738.52,
+      "end": 2745.9,
+      "text": "travel, but I'm not positive. Yeah. Insane. Damn. Anyway. Okay. So next week, first, super excited"
+    },
+    {
+      "start": 2745.9,
+      "end": 2751.06,
+      "text": "about the Whaley's, uh, next week I'm going to try and set up some interviews. Um, and, and let's record"
+    },
+    {
+      "start": 2751.06,
+      "end": 2757.2,
+      "text": "and we'll find some great guests to record with. Perfect. Awesome. That's it for episode three."
+    },
+    {
+      "start": 2757.54,
+      "end": 2761.88,
+      "text": "Uh, please join us episode four and five sound like they're going to be live. Um, so I'm excited"
+    },
+    {
+      "start": 2761.88,
+      "end": 2766.8,
+      "text": "about those two. Oh, we're out. Thanks for tuning in. We'll be back next time to cut through the"
+    },
+    {
+      "start": 2766.8,
+      "end": 2772.28,
+      "text": "noise and CPG retail and e-commerce. And if you enjoyed this episode, then why not share it with"
+    },
+    {
+      "start": 2772.28,
+      "end": 2776.54,
+      "text": "a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

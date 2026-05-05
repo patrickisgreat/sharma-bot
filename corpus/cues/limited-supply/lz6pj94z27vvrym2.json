@@ -1,0 +1,5624 @@
+{
+  "cues": [
+    {
+      "start": 0.18,
+      "end": 30.16,
+      "text": "The reason some brands have such low customer acquisition costs and such high returns when they spend on ads is because their organic side is doing extremely well. A lot of celebrity brands, their biggest advantage actually outside of, you know, maybe getting the first couple million dollars in revenue without spending a dollar on ads, their biggest advantage is that long term, their acquisition costs are super low because there's already awareness on the product. And the best way to think of paid is really just extending what you're doing to do."
+    },
+    {
+      "start": 30.7,
+      "end": 43.24,
+      "text": "Organically, you don't want to think of paid as sort of like the end all be all strategy to acquire customers and to build your business. You want to make sure that paid is a piece of that, but organic should also be a piece of that."
+    },
+    {
+      "start": 45.49,
+      "end": 54.45,
+      "text": "Welcome to Limited Supply, the place for refreshingly real takes on what D2C is really like. I'm your host, Nik Sharma. Let's start talking about money."
+    },
+    {
+      "start": 55.87,
+      "end": 61.73,
+      "text": "I'm so excited to take a second and talk about this season sponsor, Motion. If you don't already use it, Motion is a SaaS,"
+    },
+    {
+      "start": 61.81,
+      "end": 71.33,
+      "text": "tool that launched three years ago. I even invested in the company pre-launch just based on how they were thinking about creative analytics. Today, Motion is a no brainer tool to use in your marketing stack."
+    },
+    {
+      "start": 71.83,
+      "end": 83.27,
+      "text": "Yes, it's creative analytics. Yes, it lets you track your competitors ads. Yes, it has the most beautiful UX and UI to report your ad performance. But let me tell you how people at Sharma Brands describe Motion."
+    },
+    {
+      "start": 83.27,
+      "end": 95.25,
+      "text": "So I asked my team in Slack, why do you like Motion? And here were the answers. The first reply says, it's really moldable. You can use it for high level, more creative driven analytics, or get really granular into the media buying analytics and data."
+    },
+    {
+      "start": 95.25,
+      "end": 125.19,
+      "text": "It's a super accessible platform for all use cases. And I think it brings our creative and paid teams together. The second reply says, it unites everyone, agency and client, creative and paid founder and marketer. It's so dang easy to understand that everyone really can grip performance and speak the same growth language. The third reply says, I love being able to reference prior campaigns using their filters. And I love that we can use data from the past to make educated decisions on future content. As you can tell, we can't live without Motion at Sharma Brands. And once you see a"
+    },
+    {
+      "start": 125.25,
+      "end": 139.07,
+      "text": "demo, I bet you won't be able to either. Visit Motionapp.com to get 50% off your first month when you mention limited supply to their sales team. Again, that's Motionapp.com to get 50% off your first month when you mention limited supply to their sales team."
+    },
+    {
+      "start": 144,
+      "end": 158.76,
+      "text": "Welcome back to limited supply today, as you can tell if you're watching from YouTube, or seeing a clip somewhere on TikTok or anywhere else, you'll see that we've got a new setup here. We worked with Kevin at Dream Studio and put this"
+    },
+    {
+      "start": 158.76,
+      "end": 187.28,
+      "text": "amazing studio together. It was a long project, but so worth it. You can see how amazing the studio looks. It sounds great. It looks great. I'm actually talking to a camera. The lighting is perfect. You can't get any better than this. So, welcome back to limited supply. This is one of our last episodes of 2024, which is very exciting. And so with that, we will be doing a listener mailbag today. And what's fun about today's episode is a lot of the questions are focused on customer acquisition."
+    },
+    {
+      "start": 187.28,
+      "end": 212.04,
+      "text": "So, I think going into the new year, one thing I want to do is really focus on customer acquisition tactics that I'm excited for personally, meaning, you know, things I'm excited to test myself, excited to channels I'm ready to explore, tactics I want to try out. And so I'll talk a little bit about some of that today. But for the most part, for the most part, I will be focused on today's questions."
+    },
+    {
+      "start": 212.04,
+      "end": 228.62,
+      "text": "So, a lot of these questions actually came in from our Slack community, which is now at just under 6,000 people, which is amazing. 6,000 marketers, CMOs, founders. We've got investors in there. We've got experts in fulfillment and optimizing costs and everything that you can think of related to e-commerce."
+    },
+    {
+      "start": 229.22,
+      "end": 244.36,
+      "text": "So, if you're not in there already, go to slack.limitedsupplypod.com, sign up, or just click the button on the homepage. It'll take you to a form. Once you fill the form out within 24 hours, my boy Shen will let you in."
+    },
+    {
+      "start": 244.36,
+      "end": 255.78,
+      "text": "And you'll be categorized and put into a number of Slack channels. You'll get a proper intro. And it's just a great way to interact with the community. A lot of times I love seeing how people are just asking questions on a daily basis."
+    },
+    {
+      "start": 255.98,
+      "end": 270.04,
+      "text": "You know, what are your Shopify? What's your payment rate for Shopify, for Shopify payments? Or what are you guys paying for shipping for this? Or, you know, what vendor should I use for this? The questions are awesome. And it encourages a lot of dialogue."
+    },
+    {
+      "start": 270.04,
+      "end": 278.12,
+      "text": "So, definitely check that out. We're going to be doing a lot more with that going into the new year and with meetups around the globe, which have already been happening, which is so cool."
+    },
+    {
+      "start": 278.48,
+      "end": 288.42,
+      "text": "But for today, we're going to get into today's episode. We're going to talk all about customer acquisition. So, we have a number of questions here. And we're going to go deeper on them."
+    },
+    {
+      "start": 289.62,
+      "end": 302.2,
+      "text": "By the way, I appreciate everybody who sent me a voice note or an email with feedback on limited supply. It seems like a lot of people want a lot more things around customer acquisition and scaling that and a lot more tactical."
+    },
+    {
+      "start": 302.48,
+      "end": 307.88,
+      "text": "So, going into the new year, what I want to do is basically put together a list of all the things I want to talk about."
+    },
+    {
+      "start": 308,
+      "end": 312.36,
+      "text": "And then I'm going to try to go find experts for everything if I don't specifically know something about that."
+    },
+    {
+      "start": 312.36,
+      "end": 316.54,
+      "text": "My expertise is mainly around customer acquisition and growth marketing."
+    },
+    {
+      "start": 316.76,
+      "end": 328.1,
+      "text": "And so, for those of you who asked for things around, you know, optimizing operational costs or, you know, raising capital, I'm going to try to find experts to bring in to do that."
+    },
+    {
+      "start": 328.8,
+      "end": 332.04,
+      "text": "So, without further ado, I think let's get started on today's episode."
+    },
+    {
+      "start": 332.26,
+      "end": 341.2,
+      "text": "The first question comes from Amy and she asks, how should a small self-funded brand optimize their budgets for ads when every dollar counts?"
+    },
+    {
+      "start": 342.36,
+      "end": 350.32,
+      "text": "Well, Amy, the first thing I'll say is, and this is something that's going to keep coming up because a lot of people have asked sort of like a similar thing,"
+    },
+    {
+      "start": 351.52,
+      "end": 364,
+      "text": "is what you don't do in terms of organic marketing, meaning what you cannot drive in terms of eyeballs or clicks or awareness from your organic marketing efforts."
+    },
+    {
+      "start": 364.14,
+      "end": 366.78,
+      "text": "That's what you're going to make up for on the paid side."
+    },
+    {
+      "start": 366.78,
+      "end": 378.7,
+      "text": "The best way to think of it is like, you know, if you're not able to get impressions on organic, meaning whether it's on TikTok, whether it's on, you know, PR articles,"
+    },
+    {
+      "start": 378.88,
+      "end": 386.62,
+      "text": "which I don't think are that effective anymore, whether it's on, you know, other people posting and tagging your product to their own network."
+    },
+    {
+      "start": 386.92,
+      "end": 391.02,
+      "text": "You know, if you can't seem to do that, then where you make it up is on the paid side."
+    },
+    {
+      "start": 391.02,
+      "end": 403.16,
+      "text": "The reason some brands have such low customer acquisition costs and such high returns when they spend on ads is because their organic side is doing extremely well."
+    },
+    {
+      "start": 403.36,
+      "end": 411.26,
+      "text": "A lot of celebrity brands, their biggest advantage actually outside of, you know, maybe getting the first couple million dollars in revenue without spending a dollar on ads,"
+    },
+    {
+      "start": 411.6,
+      "end": 418.38,
+      "text": "their biggest advantage is that long term, their acquisition costs are super low because there's already awareness on the product."
+    },
+    {
+      "start": 418.38,
+      "end": 424.4,
+      "text": "And the best way to think of paid is really just extending what you're doing organically."
+    },
+    {
+      "start": 424.64,
+      "end": 431.42,
+      "text": "You don't want to think of paid as sort of like the end all be all strategy to acquire customers and to build your business."
+    },
+    {
+      "start": 431.42,
+      "end": 437.26,
+      "text": "You want to make sure that paid is a piece of that, but organic should also be a piece of that."
+    },
+    {
+      "start": 437.6,
+      "end": 443.02,
+      "text": "So to your question, Amy, how should small self-funded brands optimize their budgets for ads when every dollar counts?"
+    },
+    {
+      "start": 443.42,
+      "end": 448.28,
+      "text": "First, you really need to understand the content that works."
+    },
+    {
+      "start": 448.38,
+      "end": 455.24,
+      "text": "And I think the best place to do that if, you know, every dollar really does count your small budget brand is testing that on organic social."
+    },
+    {
+      "start": 455.48,
+      "end": 466.8,
+      "text": "All these platforms, TikTok, Reels, Shorts, even LinkedIn, X, Facebook Stories, all these platforms push your organic content pretty heavily."
+    },
+    {
+      "start": 467.02,
+      "end": 470.2,
+      "text": "And you can easily get a read of does something work?"
+    },
+    {
+      "start": 470.3,
+      "end": 470.9,
+      "text": "Does it not work?"
+    },
+    {
+      "start": 471,
+      "end": 472.66,
+      "text": "Does it have a chance of doing really well, et cetera?"
+    },
+    {
+      "start": 473.68,
+      "end": 476.42,
+      "text": "Whatever does well, move it over to the paid side."
+    },
+    {
+      "start": 476.42,
+      "end": 483.06,
+      "text": "If you think about some of the fastest growing brands on TikTok today that, you know, it's a bar soap doing $5 million a month."
+    },
+    {
+      "start": 483.24,
+      "end": 491.44,
+      "text": "The reason that their ads work so well is because all they're doing is actually taking content that's doing really well organically and then boosting it from an ad standpoint."
+    },
+    {
+      "start": 493.28,
+      "end": 497.94,
+      "text": "Separately, another way to answer this would be if you were starting with just meta, right?"
+    },
+    {
+      "start": 497.94,
+      "end": 501.64,
+      "text": "If you're like, okay, Nick, you know, don't tell me about organic content."
+    },
+    {
+      "start": 501.8,
+      "end": 503.06,
+      "text": "Don't tell me how to whitelist stuff."
+    },
+    {
+      "start": 503.48,
+      "end": 507.18,
+      "text": "Just tell me how do I maximize dollars with ads."
+    },
+    {
+      "start": 507.42,
+      "end": 509.78,
+      "text": "The way I would do it is basically start with meta."
+    },
+    {
+      "start": 510.4,
+      "end": 515.44,
+      "text": "The reason I like to start with meta is the feedback loops are really sharp and really quick."
+    },
+    {
+      "start": 517.66,
+      "end": 521.36,
+      "text": "Meta is for the most part a click-through based platform."
+    },
+    {
+      "start": 521.36,
+      "end": 524.16,
+      "text": "Which means there's two ways to do it."
+    },
+    {
+      "start": 524.28,
+      "end": 528.22,
+      "text": "Click-through based platforms and view through and click-through."
+    },
+    {
+      "start": 528.8,
+      "end": 532.98,
+      "text": "And they're actually sort of more attribution ways to categorize it."
+    },
+    {
+      "start": 533.1,
+      "end": 537.54,
+      "text": "So click-through attribution is, you know, I see the ad, I click it within a certain window."
+    },
+    {
+      "start": 537.84,
+      "end": 539.04,
+      "text": "Usually that's seven days."
+    },
+    {
+      "start": 540.74,
+      "end": 548.06,
+      "text": "So within that seven day window, if I go buy the product after clicking an ad, that ad gets the click-through attribution credit."
+    },
+    {
+      "start": 548.42,
+      "end": 554.4,
+      "text": "If I see an ad, like the platform knows that I saw it, I saw the impression."
+    },
+    {
+      "start": 554.82,
+      "end": 558.26,
+      "text": "But then later, I didn't click it, but then later ended up buying the product."
+    },
+    {
+      "start": 558.46,
+      "end": 560.12,
+      "text": "That gets view through credit."
+    },
+    {
+      "start": 560.5,
+      "end": 565.46,
+      "text": "Now the reason platforms like a North Beam are so important is because it'll actually help you understand"
+    },
+    {
+      "start": 565.46,
+      "end": 568.9,
+      "text": "which view through or click-through credit to give credit to."
+    },
+    {
+      "start": 569.04,
+      "end": 569.6,
+      "text": "Right?"
+    },
+    {
+      "start": 569.74,
+      "end": 577.98,
+      "text": "If I see a Facebook ad for a phone case, but then I go to Google and search Pila phone case,"
+    },
+    {
+      "start": 578.02,
+      "end": 581.18,
+      "text": "and I click the Google ad, now you're kind of conflicted, right?"
+    },
+    {
+      "start": 581.3,
+      "end": 582.26,
+      "text": "Do I go into Facebook?"
+    },
+    {
+      "start": 582.42,
+      "end": 584.1,
+      "text": "Do I give credit to Facebook or credit to Google?"
+    },
+    {
+      "start": 584.28,
+      "end": 587.62,
+      "text": "That's where platforms like North Beam are really helpful because it helps you understand"
+    },
+    {
+      "start": 588.22,
+      "end": 591.3,
+      "text": "which channel or which ad deserves the attribution."
+    },
+    {
+      "start": 592.58,
+      "end": 593.66,
+      "text": "I'm getting off topic."
+    },
+    {
+      "start": 593.8,
+      "end": 598.92,
+      "text": "But all this said, Amy, the best way to do this is start building funnels inside Meta."
+    },
+    {
+      "start": 599.04,
+      "end": 601.14,
+      "text": "So think about who you're targeting."
+    },
+    {
+      "start": 601.52,
+      "end": 605.5,
+      "text": "What is their sort of problem and what's your solution to their problem?"
+    },
+    {
+      "start": 606.56,
+      "end": 607.42,
+      "text": "Design the ad."
+    },
+    {
+      "start": 607.54,
+      "end": 608.64,
+      "text": "Where are you landing people?"
+    },
+    {
+      "start": 608.74,
+      "end": 609.62,
+      "text": "Is it a product page?"
+    },
+    {
+      "start": 609.7,
+      "end": 611.06,
+      "text": "Is it a landing page?"
+    },
+    {
+      "start": 611.18,
+      "end": 611.98,
+      "text": "Is it a listicle?"
+    },
+    {
+      "start": 612.18,
+      "end": 613.14,
+      "text": "Is it an advertorial?"
+    },
+    {
+      "start": 613.5,
+      "end": 615.98,
+      "text": "And then you want to basically see how those users convert."
+    },
+    {
+      "start": 616.56,
+      "end": 617.8,
+      "text": "So start with Meta."
+    },
+    {
+      "start": 618.44,
+      "end": 620.7,
+      "text": "You can usually get the most amount of data there."
+    },
+    {
+      "start": 620.88,
+      "end": 623.36,
+      "text": "It's also the easiest place to start with smaller budgets."
+    },
+    {
+      "start": 623.36,
+      "end": 628.58,
+      "text": "You can start on Meta with 50 bucks a day and start to see what works versus maybe on TV,"
+    },
+    {
+      "start": 628.82,
+      "end": 631.52,
+      "text": "you've got to spend 1,000 bucks a day, 2,000 bucks a day."
+    },
+    {
+      "start": 632.4,
+      "end": 634.62,
+      "text": "And so start with Meta, see what works."
+    },
+    {
+      "start": 634.82,
+      "end": 637.5,
+      "text": "And then as things start to work, just double down, right?"
+    },
+    {
+      "start": 637.62,
+      "end": 643.78,
+      "text": "Don't try to go and scale too quickly or do anything that's not going to be beneficial to you."
+    },
+    {
+      "start": 644.04,
+      "end": 644.92,
+      "text": "Just start slow."
+    },
+    {
+      "start": 645.3,
+      "end": 646.22,
+      "text": "Start to see what works."
+    },
+    {
+      "start": 646.38,
+      "end": 647.46,
+      "text": "And then really hit the gas."
+    },
+    {
+      "start": 647.46,
+      "end": 651.58,
+      "text": "A lot of the brands that do well sort of follow this path."
+    },
+    {
+      "start": 652.26,
+      "end": 655.7,
+      "text": "Of course, they've got their organic piece, but they start slow."
+    },
+    {
+      "start": 655.82,
+      "end": 659.6,
+      "text": "And then as they start to see things that work, you just start adding more fuel to that fire."
+    },
+    {
+      "start": 660.22,
+      "end": 661.2,
+      "text": "Hopefully that helps."
+    },
+    {
+      "start": 662.14,
+      "end": 664.42,
+      "text": "Next question comes from Koljit."
+    },
+    {
+      "start": 664.66,
+      "end": 672.92,
+      "text": "Koljit asks, how can brands measure ad creative effectiveness and know when to scale or cut abs?"
+    },
+    {
+      "start": 672.92,
+      "end": 679.1,
+      "text": "Well, Koljit, you asked also about CTR, CPM and CPA benchmarks."
+    },
+    {
+      "start": 679.5,
+      "end": 683.4,
+      "text": "I can't necessarily give those to you because those are so specific from brand to brand,"
+    },
+    {
+      "start": 683.66,
+      "end": 686.04,
+      "text": "not even from category to category."
+    },
+    {
+      "start": 686.24,
+      "end": 691.78,
+      "text": "We have two supplement brands we work with where, you know, one brand's good ROAS is 20."
+    },
+    {
+      "start": 692.06,
+      "end": 696.38,
+      "text": "The other brand's good ROAS is two, both in the same category."
+    },
+    {
+      "start": 696.38,
+      "end": 704.84,
+      "text": "But again, because the one with 20 has such a high organic market penetration, their paid ads perform extremely better,"
+    },
+    {
+      "start": 705.04,
+      "end": 708.02,
+      "text": "much better than the one that's just running paid ads."
+    },
+    {
+      "start": 708.22,
+      "end": 711.18,
+      "text": "So anyways, how can you measure ad creative effectiveness?"
+    },
+    {
+      "start": 712.14,
+      "end": 717.32,
+      "text": "Well, I would 100% recommend you use motion because motion is probably the easiest way to visualize that"
+    },
+    {
+      "start": 717.32,
+      "end": 720.94,
+      "text": "from a standpoint of a designer, video editor, animator, copywriter."
+    },
+    {
+      "start": 721.98,
+      "end": 729.26,
+      "text": "However, the way I would do it is essentially create a rigorous creative testing program inside your ad account."
+    },
+    {
+      "start": 730.02,
+      "end": 737.06,
+      "text": "And I like to do this inside meta or I'll at least give the example of meta because I'm assuming that's where most people are spending."
+    },
+    {
+      "start": 738.1,
+      "end": 741.78,
+      "text": "And the way I like to do it is you've got your scaling campaigns, right?"
+    },
+    {
+      "start": 741.88,
+      "end": 744.4,
+      "text": "Those might be CBO campaigns."
+    },
+    {
+      "start": 744.42,
+      "end": 746.44,
+      "text": "Those might be ASC campaigns."
+    },
+    {
+      "start": 747.18,
+      "end": 749.1,
+      "text": "But essentially, these are campaigns that are scaling."
+    },
+    {
+      "start": 749.26,
+      "end": 751.06,
+      "text": "They've got majority of your daily budget in them."
+    },
+    {
+      "start": 751.48,
+      "end": 756.3,
+      "text": "Now, separate from that, you want to have a campaign that's set up entirely for creative testing."
+    },
+    {
+      "start": 757.52,
+      "end": 762.88,
+      "text": "So the way that I like to do it is you have basically three ad sets inside this."
+    },
+    {
+      "start": 763.08,
+      "end": 765.64,
+      "text": "You have a CBO and then you have three ABOs inside."
+    },
+    {
+      "start": 766.04,
+      "end": 767.38,
+      "text": "One is focused on broad."
+    },
+    {
+      "start": 767.6,
+      "end": 770.84,
+      "text": "One is focused on lookalikes."
+    },
+    {
+      "start": 771.04,
+      "end": 772.32,
+      "text": "And one is focused on interests."
+    },
+    {
+      "start": 772.32,
+      "end": 776.62,
+      "text": "And what you do is you put your, let's say you have creative number one."
+    },
+    {
+      "start": 776.78,
+      "end": 780.64,
+      "text": "You take creative number one and you put it into the ad set that goes broad."
+    },
+    {
+      "start": 780.82,
+      "end": 790.28,
+      "text": "You give yourself basically two days inside that ad set for creative number one to get a purchase."
+    },
+    {
+      "start": 790.28,
+      "end": 797.54,
+      "text": "And you give yourself three times your allowable CAC for that to hit its first purchase within the creative testing."
+    },
+    {
+      "start": 798.48,
+      "end": 809.24,
+      "text": "What that does is it forces Facebook to push it a little bit and allows you to push it without just cutting it right at the, you know, the main CPA goal you have, the CAC goal, customer acquisition cost."
+    },
+    {
+      "start": 809.98,
+      "end": 814.8,
+      "text": "If it doesn't hit in the broad ad set, move it down to the lookalike ad set."
+    },
+    {
+      "start": 815.12,
+      "end": 816.24,
+      "text": "Let it spend two days there."
+    },
+    {
+      "start": 816.42,
+      "end": 820.18,
+      "text": "If it doesn't hit there, move it down to the interest group ad set."
+    },
+    {
+      "start": 820.42,
+      "end": 824.94,
+      "text": "Now, whichever one it works in, port that over to the equivalent scaling campaign."
+    },
+    {
+      "start": 824.94,
+      "end": 829.7,
+      "text": "There might be a scaling for broad, a scaling for lookalike and a scaling for interest."
+    },
+    {
+      "start": 830.08,
+      "end": 833,
+      "text": "So, if it works in an interest, put it over to the scaling interest."
+    },
+    {
+      "start": 833.28,
+      "end": 836.1,
+      "text": "If it works in broad, put it over to the scaling broad."
+    },
+    {
+      "start": 836.56,
+      "end": 842.9,
+      "text": "And essentially what you do there is you have a six-day turnaround max to understand whether or not a creative is going to work."
+    },
+    {
+      "start": 844.98,
+      "end": 846.5,
+      "text": "And if it works, it's great."
+    },
+    {
+      "start": 847.12,
+      "end": 849.5,
+      "text": "If it doesn't work, you tested it on a low budget."
+    },
+    {
+      "start": 850.68,
+      "end": 852.94,
+      "text": "And, you know, you didn't put it in your scaling campaign."
+    },
+    {
+      "start": 852.94,
+      "end": 853.68,
+      "text": "So, it's all good."
+    },
+    {
+      "start": 853.68,
+      "end": 855.02,
+      "text": "But that's how I would do it."
+    },
+    {
+      "start": 855.14,
+      "end": 862.18,
+      "text": "Every week or at a minimum every two weeks, you should be rotating a new creative using what you know works from a data standpoint."
+    },
+    {
+      "start": 862.18,
+      "end": 863.52,
+      "text": "You can use motion for that."
+    },
+    {
+      "start": 863.84,
+      "end": 865.96,
+      "text": "And then taking that and actioning that."
+    },
+    {
+      "start": 866.08,
+      "end": 872.12,
+      "text": "You might see that, for example, you know, one of your best creatives has a huge, has a really high hook rate."
+    },
+    {
+      "start": 872.32,
+      "end": 875.08,
+      "text": "Meaning people who see it stop scrolling and they want to watch something."
+    },
+    {
+      "start": 875.44,
+      "end": 880.3,
+      "text": "And so, you might then take that information and apply the same hook to another video, right?"
+    },
+    {
+      "start": 880.42,
+      "end": 882.12,
+      "text": "Keep the same hook as the one that you know works."
+    },
+    {
+      "start": 882.24,
+      "end": 884.36,
+      "text": "But then test out what is the main talking points?"
+    },
+    {
+      "start": 884.4,
+      "end": 885.58,
+      "text": "How does that differ from the hook?"
+    },
+    {
+      "start": 885.66,
+      "end": 886.6,
+      "text": "Or what is the call to action?"
+    },
+    {
+      "start": 886.68,
+      "end": 887.22,
+      "text": "How does that differ?"
+    },
+    {
+      "start": 887.32,
+      "end": 888.16,
+      "text": "Maybe it's a different offer."
+    },
+    {
+      "start": 889.7,
+      "end": 891.36,
+      "text": "So, all that said, that's how I would do it."
+    },
+    {
+      "start": 892.38,
+      "end": 897.52,
+      "text": "But if you look inside a motion for, if you just use ads manager, you'll be able to understand."
+    },
+    {
+      "start": 897.72,
+      "end": 902.62,
+      "text": "You're going to know what's your CPM, what's your CTR, what's your CPC, your cost per click."
+    },
+    {
+      "start": 903.34,
+      "end": 904.74,
+      "text": "And eventually, what's your CPA."
+    },
+    {
+      "start": 905.04,
+      "end": 912.2,
+      "text": "But the best way to do this is in motion because you can actually compare it to the rest of the ad account or to a specific campaign or to a specific creative or specific time period."
+    },
+    {
+      "start": 913.14,
+      "end": 914.92,
+      "text": "Which is why I recommend doing it that way."
+    },
+    {
+      "start": 915.06,
+      "end": 916.4,
+      "text": "But hopefully that helps."
+    },
+    {
+      "start": 917.88,
+      "end": 926.52,
+      "text": "And if this is fun or interesting, then I would love to do an entire episode on account structure, breaking that down and just see how most people do that."
+    },
+    {
+      "start": 927.38,
+      "end": 927.82,
+      "text": "Okay."
+    },
+    {
+      "start": 928.32,
+      "end": 930.26,
+      "text": "Next question comes from Christy."
+    },
+    {
+      "start": 930.26,
+      "end": 936.18,
+      "text": "And Christy asks, can you simplify marketing metrics and KPIs for people who aren't experts in the field?"
+    },
+    {
+      "start": 936.9,
+      "end": 937.9,
+      "text": "Absolutely, Christy."
+    },
+    {
+      "start": 938.22,
+      "end": 943.18,
+      "text": "So, marketing metrics and KPIs."
+    },
+    {
+      "start": 943.36,
+      "end": 945.88,
+      "text": "Well, I'll tell you the few that I think come to mind."
+    },
+    {
+      "start": 946.26,
+      "end": 952.94,
+      "text": "One is CPM, cost per, I believe it's cost per metro, basically cost per thousand people that see your ads."
+    },
+    {
+      "start": 953.64,
+      "end": 959.68,
+      "text": "CPM is essentially, it's dynamic in most of the ad."
+    },
+    {
+      "start": 959.82,
+      "end": 964.18,
+      "text": "In the context that we're speaking in, which is performance marketing, CPM is very dynamic."
+    },
+    {
+      "start": 964.46,
+      "end": 979.3,
+      "text": "The reason people love channels like TV or, you know, postcards or even some of these more like traditional publisher banner ads is because a lot of them tend to have flat CPMs."
+    },
+    {
+      "start": 979.3,
+      "end": 987.68,
+      "text": "And, you know, Procter \u0026 Gamble can go in and say, you know, hey, Vice Media, we want to buy 25 million impressions at a $3 CPM."
+    },
+    {
+      "start": 987.9,
+      "end": 989.7,
+      "text": "And we're going to prepay that for the whole year."
+    },
+    {
+      "start": 990.46,
+      "end": 1004.2,
+      "text": "With performance marketing, that CPM tends to change based on what creative you give to the platform, based on your targeting, based on how well you're positioning your problem solution against the persona that you're going after and what you have to offer."
+    },
+    {
+      "start": 1004.2,
+      "end": 1006.14,
+      "text": "However, your CPM will fluctuate."
+    },
+    {
+      "start": 1006.38,
+      "end": 1013.94,
+      "text": "If you are serving the platform things that the platform believes are good for its own users, your CPM will be on the lower side."
+    },
+    {
+      "start": 1013.94,
+      "end": 1023.7,
+      "text": "If you're mismatching what the platform believes their customer wants versus what you're offering, you're going to have a much higher CPM and a lower click-through rate, CTR."
+    },
+    {
+      "start": 1024.22,
+      "end": 1025.76,
+      "text": "So, CPM is really important."
+    },
+    {
+      "start": 1026,
+      "end": 1028.46,
+      "text": "The next one I think is important to understand is CTR."
+    },
+    {
+      "start": 1028.46,
+      "end": 1032.92,
+      "text": "And CTR in this context would be the click-through rate of the ad that people see."
+    },
+    {
+      "start": 1033.06,
+      "end": 1040.38,
+      "text": "So, what percentage of people who see the ad actually end up clicking the ad and going through to the website or the landing page or wherever it is?"
+    },
+    {
+      "start": 1041.42,
+      "end": 1043.34,
+      "text": "CTR in general is just click-through rate."
+    },
+    {
+      "start": 1043.46,
+      "end": 1048.58,
+      "text": "So, you might leverage the acronym CTR or click-through rate in a number of things."
+    },
+    {
+      "start": 1048.66,
+      "end": 1049.64,
+      "text": "It might be on a landing page."
+    },
+    {
+      "start": 1049.64,
+      "end": 1056.82,
+      "text": "If you're trying to understand from a listicle going to a product page, you know, what's the CTR of people who go who read the listicle and end up on the landing page?"
+    },
+    {
+      "start": 1056.82,
+      "end": 1059.48,
+      "text": "You know, if it's 50%, that's an amazing CTR."
+    },
+    {
+      "start": 1059.58,
+      "end": 1062.9,
+      "text": "If you're at 20%, you've got to really fix that landing, that listicle."
+    },
+    {
+      "start": 1063.56,
+      "end": 1065.8,
+      "text": "Next one is CPC, cost per click."
+    },
+    {
+      "start": 1066.06,
+      "end": 1072.52,
+      "text": "So, coming out of the ad platform, this is just a function of CPM times CTR, right?"
+    },
+    {
+      "start": 1072.62,
+      "end": 1077.72,
+      "text": "So, what is the click-through rate out of the cost of what it takes to show 1,000 people?"
+    },
+    {
+      "start": 1077.98,
+      "end": 1080.76,
+      "text": "That's your CPC, your cost per click."
+    },
+    {
+      "start": 1081.28,
+      "end": 1085.64,
+      "text": "Moving to the website, you've got AOV, which is average order value."
+    },
+    {
+      "start": 1085.64,
+      "end": 1090.12,
+      "text": "So, how many, what is the dollar amount that we're averaging when people are checking out?"
+    },
+    {
+      "start": 1090.44,
+      "end": 1096.52,
+      "text": "There's another one that's used a lot in high-skew brands called UPT, which is units per transaction."
+    },
+    {
+      "start": 1096.52,
+      "end": 1098.88,
+      "text": "How many items are people checking out with?"
+    },
+    {
+      "start": 1098.94,
+      "end": 1101.6,
+      "text": "Not the dollar amount, but how many actual items in the cart?"
+    },
+    {
+      "start": 1102.14,
+      "end": 1103.5,
+      "text": "The next one is ROAS."
+    },
+    {
+      "start": 1103.66,
+      "end": 1108.06,
+      "text": "So, looking at both the ad platform and the website, what is the return on ad spend?"
+    },
+    {
+      "start": 1108.18,
+      "end": 1109.24,
+      "text": "That's what ROAS stands for."
+    },
+    {
+      "start": 1109.24,
+      "end": 1115.18,
+      "text": "And ROAS, keep in mind, is specific either to a channel or to a campaign or to a creative."
+    },
+    {
+      "start": 1115.36,
+      "end": 1117.42,
+      "text": "ROAS is always tied to something specific."
+    },
+    {
+      "start": 1118.74,
+      "end": 1123.1,
+      "text": "The next one is MER, M-E-R, or media efficiency ratio."
+    },
+    {
+      "start": 1123.38,
+      "end": 1127.42,
+      "text": "This is generally viewed as total spend to total revenue."
+    },
+    {
+      "start": 1127.42,
+      "end": 1131.8,
+      "text": "So, if you're selling, you know, if you're advertising on Facebook and Google and TikTok"
+    },
+    {
+      "start": 1131.8,
+      "end": 1138.62,
+      "text": "and Snapchat and TV, and you're sold online on your .com, on Amazon, in Sephora, on Goop,"
+    },
+    {
+      "start": 1139.1,
+      "end": 1144,
+      "text": "you know, your MER is total spend on all the platforms to total sales on all the platforms."
+    },
+    {
+      "start": 1144.78,
+      "end": 1150.18,
+      "text": "It sort of just helps you understand from a very high level, how is your performance doing?"
+    },
+    {
+      "start": 1151.48,
+      "end": 1157.2,
+      "text": "Now, it can be dangerous to look at MER as, if you look at MER as an excuse for bad performance"
+    },
+    {
+      "start": 1158.38,
+      "end": 1161,
+      "text": "on an individual channel, it's not a good way to look at MER."
+    },
+    {
+      "start": 1161.26,
+      "end": 1166.28,
+      "text": "If you look at MER as a function of, you know, we're spending a lot, we're generating a lot,"
+    },
+    {
+      "start": 1166.3,
+      "end": 1169.88,
+      "text": "or maybe, you know, you're a brand that's doing a few hundred million dollars in revenue"
+    },
+    {
+      "start": 1169.88,
+      "end": 1174.54,
+      "text": "and you need to understand what your ad spend is doing to that, that's a much better way to look at it."
+    },
+    {
+      "start": 1174.54,
+      "end": 1178.42,
+      "text": "The last one I think is worth mentioning is iROAS."
+    },
+    {
+      "start": 1178.84,
+      "end": 1186.52,
+      "text": "So, your incremental ROAS, meaning if you were to run an incrementality test with a new channel,"
+    },
+    {
+      "start": 1186.7,
+      "end": 1193.14,
+      "text": "so for example, let's say you're running Snapchat and you're driving sales to the .com, right?"
+    },
+    {
+      "start": 1193.78,
+      "end": 1201.32,
+      "text": "You might see in Snap that your .com only has a 1.4x ROAS in platform,"
+    },
+    {
+      "start": 1201.32,
+      "end": 1205.4,
+      "text": "meaning for every dollar you spend on Snap, you're making $1.40 in revenue."
+    },
+    {
+      "start": 1206.1,
+      "end": 1211.42,
+      "text": "Now, when you factor in your iROAS, that would be after running an incrementality test"
+    },
+    {
+      "start": 1211.42,
+      "end": 1215.38,
+      "text": "where you might say, well, let's understand what that Snapchat spend,"
+    },
+    {
+      "start": 1215.56,
+      "end": 1220.72,
+      "text": "let's see what that does to sales in Target or on Amazon or on Goop."
+    },
+    {
+      "start": 1220.92,
+      "end": 1226.14,
+      "text": "And you can actually understand, maybe you might realize that even though you're making $1.40 on your site,"
+    },
+    {
+      "start": 1226.14,
+      "end": 1231.44,
+      "text": "you're actually making another $2.60 across the other platforms."
+    },
+    {
+      "start": 1231.44,
+      "end": 1236.22,
+      "text": "So, your iROAS is actually a 3, not just 1.4. Does that make sense?"
+    },
+    {
+      "start": 1236.38,
+      "end": 1241.9,
+      "text": "So, for every dollar you spend on Snap, in reality, that translates to $3 in revenue."
+    },
+    {
+      "start": 1242.46,
+      "end": 1248.84,
+      "text": "This is something that seven or eight years ago when I was running advertising,"
+    },
+    {
+      "start": 1249.48,
+      "end": 1252.18,
+      "text": "scaling online for a direct-to-consumer beverage company,"
+    },
+    {
+      "start": 1252.18,
+      "end": 1260.54,
+      "text": "we worked off iROAS because we measured the incrementality of sales in Target, in Costco, in Walmart, on Amazon."
+    },
+    {
+      "start": 1261,
+      "end": 1264.86,
+      "text": "And we could actually see that for every dollar we spent online,"
+    },
+    {
+      "start": 1265.14,
+      "end": 1269.38,
+      "text": "we had a 1.ROAS on our .com, which we were happy with because as a beverage company,"
+    },
+    {
+      "start": 1269.56,
+      "end": 1273.2,
+      "text": "we had really good return rates, we had really high subscription rates."
+    },
+    {
+      "start": 1273.5,
+      "end": 1275,
+      "text": "So, the business was fine there."
+    },
+    {
+      "start": 1275.1,
+      "end": 1278.42,
+      "text": "In fact, we could have gone down to a 0.6 or 0.7 and still been happy."
+    },
+    {
+      "start": 1278.42,
+      "end": 1285.7,
+      "text": "But when we looked at the incremental ROAS across all of our channels, Amazon, retail, etc.,"
+    },
+    {
+      "start": 1285.7,
+      "end": 1286.94,
+      "text": "it was actually a 3."
+    },
+    {
+      "start": 1287.1,
+      "end": 1291.08,
+      "text": "So, that's why we had the ability to continue spend even more."
+    },
+    {
+      "start": 1291.6,
+      "end": 1294.9,
+      "text": "Those are some of the metrics that are KPIs that I would focus on."
+    },
+    {
+      "start": 1296.06,
+      "end": 1299.56,
+      "text": "Obviously, if you're looking at channels like email, you might look at deliverability,"
+    },
+    {
+      "start": 1300.1,
+      "end": 1304.52,
+      "text": "you might look at open rate, click rate, unique open rate, revenue per subscriber."
+    },
+    {
+      "start": 1305.4,
+      "end": 1308.54,
+      "text": "If you're looking on the website, you might look at email opt-in rate."
+    },
+    {
+      "start": 1308.74,
+      "end": 1312.98,
+      "text": "So, depending on where you're focused, you might look at different metrics."
+    },
+    {
+      "start": 1313.3,
+      "end": 1318.38,
+      "text": "But for today's episode in the context of performance marketing, I chose those."
+    },
+    {
+      "start": 1320.53,
+      "end": 1325.83,
+      "text": "Whether you're spending $50,000 per month, $50,000 per week, or $50,000 per day on ads,"
+    },
+    {
+      "start": 1325.95,
+      "end": 1328.07,
+      "text": "there's one thing that you need in all those scenarios."
+    },
+    {
+      "start": 1328.23,
+      "end": 1332.51,
+      "text": "It's creative analytics that help you understand what's working and driving more revenue."
+    },
+    {
+      "start": 1332.51,
+      "end": 1336.87,
+      "text": "With Motion, their software makes it so stupid simple to see what is performing,"
+    },
+    {
+      "start": 1337.07,
+      "end": 1340.03,
+      "text": "what is missing the mark, and what you should continue to double down on."
+    },
+    {
+      "start": 1340.25,
+      "end": 1344.05,
+      "text": "With Motion, their software makes it so stupid simple to see what's performing,"
+    },
+    {
+      "start": 1344.29,
+      "end": 1347.49,
+      "text": "what's missing the mark, and what you should continue to double down on."
+    },
+    {
+      "start": 1347.75,
+      "end": 1352.77,
+      "text": "Motion reports are also the only reports I've ever been able to send to a brand CEO or CMO,"
+    },
+    {
+      "start": 1352.97,
+      "end": 1356.25,
+      "text": "but also to the performance marketing team and to the creative team."
+    },
+    {
+      "start": 1356.25,
+      "end": 1360.51,
+      "text": "Their UI makes it so easy to interface, so whatever you're looking for,"
+    },
+    {
+      "start": 1360.67,
+      "end": 1363.05,
+      "text": "you can find it or you can create custom reports for it."
+    },
+    {
+      "start": 1363.27,
+      "end": 1368.27,
+      "text": "It's literally an idiot-proof software, and I say that as someone who gets easily confused with complex UI."
+    },
+    {
+      "start": 1368.65,
+      "end": 1373.27,
+      "text": "I want you to try Motion because, like myself, I bet you won't be able to live without it once you try it."
+    },
+    {
+      "start": 1373.49,
+      "end": 1376.73,
+      "text": "Go to motionapp.com, and when you talk to their sales team,"
+    },
+    {
+      "start": 1376.91,
+      "end": 1379.89,
+      "text": "mention limited supply to get 50% off your first month."
+    },
+    {
+      "start": 1379.89,
+      "end": 1386.43,
+      "text": "Again, that's motionapp.com to get 50% off your first month when you mention limited supply to their sales team."
+    },
+    {
+      "start": 1386.81,
+      "end": 1388.37,
+      "text": "Try it out and let me know how you like it."
+    },
+    {
+      "start": 1393.71,
+      "end": 1395.47,
+      "text": "Next one comes from Caitlin."
+    },
+    {
+      "start": 1395.99,
+      "end": 1399.83,
+      "text": "How can brands improve email and SMS deliverability to increase engagement?"
+    },
+    {
+      "start": 1400.01,
+      "end": 1403.51,
+      "text": "This is actually a place where we do a lot of email and SMS work,"
+    },
+    {
+      "start": 1403.71,
+      "end": 1407.83,
+      "text": "and increasing deliverability is a huge part of it, especially as we onboard clients."
+    },
+    {
+      "start": 1408.91,
+      "end": 1411.19,
+      "text": "That said, I'm not personally the email expert."
+    },
+    {
+      "start": 1411.21,
+      "end": 1413.05,
+      "text": "I have hired those email experts."
+    },
+    {
+      "start": 1413.05,
+      "end": 1416.43,
+      "text": "So I'd love to do maybe a full episode on retention marketing,"
+    },
+    {
+      "start": 1416.43,
+      "end": 1420.81,
+      "text": "but the punchline is you just got to create content that people care about,"
+    },
+    {
+      "start": 1421.03,
+      "end": 1426.57,
+      "text": "stuff that maximizes open rates, stuff that gets people to want to open, to click, to forward, to reply."
+    },
+    {
+      "start": 1426.83,
+      "end": 1430.37,
+      "text": "You know, one thing that I do, if you've subscribed to my newsletter,"
+    },
+    {
+      "start": 1430.55,
+      "end": 1432.93,
+      "text": "if you haven't, go to nik.co slash email."
+    },
+    {
+      "start": 1434.41,
+      "end": 1438.79,
+      "text": "You'll see that once you sign up, I send you an email, and I basically say,"
+    },
+    {
+      "start": 1438.87,
+      "end": 1441.39,
+      "text": "hey, I'm going to give you this brand launch deck."
+    },
+    {
+      "start": 1441.39,
+      "end": 1442.55,
+      "text": "It's a 40-page deck."
+    },
+    {
+      "start": 1442.89,
+      "end": 1448.35,
+      "text": "In exchange, as a thank you, just reply to this email and tell me what kind of food you like."
+    },
+    {
+      "start": 1448.45,
+      "end": 1449.63,
+      "text": "I personally love Thai food."
+    },
+    {
+      "start": 1449.79,
+      "end": 1451.19,
+      "text": "You tell me, what's your favorite food?"
+    },
+    {
+      "start": 1451.57,
+      "end": 1452.59,
+      "text": "Now, what does that do?"
+    },
+    {
+      "start": 1452.73,
+      "end": 1457.15,
+      "text": "It tells Gmail, hey, when Nick emails, I'm going to reply,"
+    },
+    {
+      "start": 1457.19,
+      "end": 1459.69,
+      "text": "and that tells Gmail, hey, put this in the important inbox."
+    },
+    {
+      "start": 1461.81,
+      "end": 1464.85,
+      "text": "The higher level version of that is basically just increase engagement."
+    },
+    {
+      "start": 1465.07,
+      "end": 1468.01,
+      "text": "You need to make sure that what you're offering in terms of your content,"
+    },
+    {
+      "start": 1468.23,
+      "end": 1471.53,
+      "text": "your copy, is matching up to what these people are looking for."
+    },
+    {
+      "start": 1472.13,
+      "end": 1475.63,
+      "text": "So the more you can do that, the more you can increase deliverability."
+    },
+    {
+      "start": 1476.71,
+      "end": 1479.57,
+      "text": "On SMS specifically, it's a lot more,"
+    },
+    {
+      "start": 1480.31,
+      "end": 1484.59,
+      "text": "it's a lot more, you know, you just need to be a lot smarter."
+    },
+    {
+      "start": 1484.59,
+      "end": 1487.89,
+      "text": "You can't necessarily overload somebody's SMS inbox,"
+    },
+    {
+      "start": 1488.05,
+      "end": 1491.97,
+      "text": "and you'd be really, really, what's the word here?"
+    },
+    {
+      "start": 1492.15,
+      "end": 1494.47,
+      "text": "Basically, you need to be very specific about what you're sending"
+    },
+    {
+      "start": 1494.47,
+      "end": 1495.63,
+      "text": "and why you're sending it."
+    },
+    {
+      "start": 1496.85,
+      "end": 1498.61,
+      "text": "Because if you don't, you're going to get report,"
+    },
+    {
+      "start": 1498.87,
+      "end": 1501.17,
+      "text": "you're going to get spam complaints, which is just going to,"
+    },
+    {
+      "start": 1501.45,
+      "end": 1504.03,
+      "text": "you know, it's a whole thing you don't want to deal with."
+    },
+    {
+      "start": 1504.21,
+      "end": 1509.53,
+      "text": "So basically, maximize your alignment between the problem and solution"
+    },
+    {
+      "start": 1509.53,
+      "end": 1513.17,
+      "text": "that your customer has and what you can, or sorry,"
+    },
+    {
+      "start": 1513.25,
+      "end": 1516.13,
+      "text": "the problem your customer has, the solution that you're offering,"
+    },
+    {
+      "start": 1516.25,
+      "end": 1519.23,
+      "text": "and why does that a convenient offer for them?"
+    },
+    {
+      "start": 1519.43,
+      "end": 1522.01,
+      "text": "The more you do that, the more you can increase deliverability."
+    },
+    {
+      "start": 1523.29,
+      "end": 1527.13,
+      "text": "Jordan asks, how can brands prevent coupon code leaks"
+    },
+    {
+      "start": 1527.13,
+      "end": 1530.89,
+      "text": "and maximize influencer slash affiliate marketing ROI?"
+    },
+    {
+      "start": 1531.35,
+      "end": 1535.99,
+      "text": "Well, Jordan, if you Google social snowball safe links,"
+    },
+    {
+      "start": 1535.99,
+      "end": 1539.73,
+      "text": "that is probably, tactically, that's probably the easiest way to do it."
+    },
+    {
+      "start": 1540.07,
+      "end": 1543.57,
+      "text": "You can essentially use these links that, you know,"
+    },
+    {
+      "start": 1543.89,
+      "end": 1546.27,
+      "text": "somebody clicks the link, let's say I'm an affiliate,"
+    },
+    {
+      "start": 1546.57,
+      "end": 1551.03,
+      "text": "I get my safe link that I share to my list or to my, you know, blog"
+    },
+    {
+      "start": 1551.03,
+      "end": 1551.97,
+      "text": "or whatever it is."
+    },
+    {
+      "start": 1552.17,
+      "end": 1555.29,
+      "text": "When you click the link, it actually, there's no coupon code"
+    },
+    {
+      "start": 1555.29,
+      "end": 1556.29,
+      "text": "that you're clicking right away."
+    },
+    {
+      "start": 1556.73,
+      "end": 1558.21,
+      "text": "Instead, as soon as you click the link,"
+    },
+    {
+      "start": 1558.39,
+      "end": 1562.65,
+      "text": "you'll get a pop-up on my website or whoever the brand site is."
+    },
+    {
+      "start": 1562.65,
+      "end": 1567.41,
+      "text": "And it populates a unique coupon code"
+    },
+    {
+      "start": 1567.41,
+      "end": 1569.65,
+      "text": "for basically a single use of that session."
+    },
+    {
+      "start": 1570.31,
+      "end": 1574.23,
+      "text": "This makes sure that, you know, instead of Sharma 10 or Sharma 20"
+    },
+    {
+      "start": 1575.09,
+      "end": 1578.93,
+      "text": "being the code which can easily get leaked to RetailMeNot"
+    },
+    {
+      "start": 1578.93,
+      "end": 1580.65,
+      "text": "or any of these coupon sites,"
+    },
+    {
+      "start": 1580.87,
+      "end": 1584.15,
+      "text": "instead, you get a random string of letters and numbers"
+    },
+    {
+      "start": 1584.15,
+      "end": 1587.87,
+      "text": "that you copy or will auto-apply to your checkout session"
+    },
+    {
+      "start": 1587.87,
+      "end": 1589.07,
+      "text": "in that browser session."
+    },
+    {
+      "start": 1590.55,
+      "end": 1592.91,
+      "text": "And me as the affiliate, I get credit"
+    },
+    {
+      "start": 1592.91,
+      "end": 1597.13,
+      "text": "and the brand doesn't have to worry about getting put onto a coupon code site"
+    },
+    {
+      "start": 1597.13,
+      "end": 1599.15,
+      "text": "because those coupons aren't going to last, right?"
+    },
+    {
+      "start": 1599.25,
+      "end": 1602.27,
+      "text": "That's a one-time use coupon for you and you only."
+    },
+    {
+      "start": 1603.17,
+      "end": 1606.65,
+      "text": "So I would definitely try that to prevent coupon code leaks"
+    },
+    {
+      "start": 1606.65,
+      "end": 1610.21,
+      "text": "and then to maximize affiliate and influencer marketing ROI."
+    },
+    {
+      "start": 1611.01,
+      "end": 1614.23,
+      "text": "There's so much to say here about how you can do that."
+    },
+    {
+      "start": 1614.37,
+      "end": 1615.85,
+      "text": "So that might be a separate episode."
+    },
+    {
+      "start": 1615.85,
+      "end": 1618.87,
+      "text": "But, you know, at a high level, I think,"
+    },
+    {
+      "start": 1619.35,
+      "end": 1622.27,
+      "text": "one, make sure that the creators you work with,"
+    },
+    {
+      "start": 1622.43,
+      "end": 1625.29,
+      "text": "the affiliates you work with, they know their audience best."
+    },
+    {
+      "start": 1626.23,
+      "end": 1629.71,
+      "text": "So try to work with them to understand what is the best thing."
+    },
+    {
+      "start": 1629.89,
+      "end": 1632.63,
+      "text": "Is it a steep discount?"
+    },
+    {
+      "start": 1632.73,
+      "end": 1634.21,
+      "text": "No, sorry, not a steep discount."
+    },
+    {
+      "start": 1634.41,
+      "end": 1636.67,
+      "text": "Is it a specific offer on a bundle?"
+    },
+    {
+      "start": 1636.87,
+      "end": 1640.03,
+      "text": "Is it that they need a specific type of discount"
+    },
+    {
+      "start": 1640.03,
+      "end": 1641.29,
+      "text": "that they know is going to work well?"
+    },
+    {
+      "start": 1641.53,
+      "end": 1643.73,
+      "text": "You know, sometimes your brand might offer 10%,"
+    },
+    {
+      "start": 1643.73,
+      "end": 1646.71,
+      "text": "but they know that a 15% is going to go way crazier."
+    },
+    {
+      "start": 1646.91,
+      "end": 1648.83,
+      "text": "So definitely talk to them about that."
+    },
+    {
+      "start": 1648.93,
+      "end": 1651.59,
+      "text": "And then from a content standpoint, make sure it feels authentic."
+    },
+    {
+      "start": 1651.79,
+      "end": 1653.59,
+      "text": "This is the biggest thing that most brands forget"
+    },
+    {
+      "start": 1653.59,
+      "end": 1656.91,
+      "text": "is that these influencers and affiliates,"
+    },
+    {
+      "start": 1657.23,
+      "end": 1660.39,
+      "text": "all they do, the reason that you're paying them"
+    },
+    {
+      "start": 1660.39,
+      "end": 1662.43,
+      "text": "is because they know how to create content."
+    },
+    {
+      "start": 1662.59,
+      "end": 1664.97,
+      "text": "So leverage those learnings that they already have."
+    },
+    {
+      "start": 1665.13,
+      "end": 1667.53,
+      "text": "Ask them, what do you think is going to do best?"
+    },
+    {
+      "start": 1667.61,
+      "end": 1668.99,
+      "text": "What should the brief contain?"
+    },
+    {
+      "start": 1669.27,
+      "end": 1670.87,
+      "text": "You know, if our goal is X,"
+    },
+    {
+      "start": 1670.87,
+      "end": 1672.97,
+      "text": "then how would you work backwards from there?"
+    },
+    {
+      "start": 1673.21,
+      "end": 1674.73,
+      "text": "Don't just give them a brief and say,"
+    },
+    {
+      "start": 1674.97,
+      "end": 1675.87,
+      "text": "these are your talking points."
+    },
+    {
+      "start": 1675.95,
+      "end": 1677.41,
+      "text": "This is exactly what you need to say."
+    },
+    {
+      "start": 1677.79,
+      "end": 1679.09,
+      "text": "Make sure you say it like this."
+    },
+    {
+      "start": 1679.33,
+      "end": 1681.27,
+      "text": "You know, ask them what they do."
+    },
+    {
+      "start": 1681.77,
+      "end": 1682.79,
+      "text": "Sephora does a good job of this."
+    },
+    {
+      "start": 1682.89,
+      "end": 1683.65,
+      "text": "I've mentioned this before,"
+    },
+    {
+      "start": 1683.79,
+      "end": 1686.37,
+      "text": "but like on a quarterly basis or every few months,"
+    },
+    {
+      "start": 1686.43,
+      "end": 1688.95,
+      "text": "they meet with their own affiliates, creators, influencers,"
+    },
+    {
+      "start": 1689.11,
+      "end": 1690.13,
+      "text": "and they just ask them,"
+    },
+    {
+      "start": 1690.21,
+      "end": 1691.41,
+      "text": "hey, what are you seeing in the market?"
+    },
+    {
+      "start": 1691.63,
+      "end": 1692.75,
+      "text": "How should we be positioning this?"
+    },
+    {
+      "start": 1692.83,
+      "end": 1694.07,
+      "text": "How should we be talking about this?"
+    },
+    {
+      "start": 1694.27,
+      "end": 1695.07,
+      "text": "Just this morning,"
+    },
+    {
+      "start": 1695.93,
+      "end": 1698.89,
+      "text": "we're working with a huge beauty influencer to launch a brand."
+    },
+    {
+      "start": 1699.19,
+      "end": 1700.79,
+      "text": "And I asked her as well."
+    },
+    {
+      "start": 1700.89,
+      "end": 1701.51,
+      "text": "I said, you know,"
+    },
+    {
+      "start": 1701.65,
+      "end": 1703.93,
+      "text": "you've seen what we have on this page."
+    },
+    {
+      "start": 1704.23,
+      "end": 1707.43,
+      "text": "Based on what people ask you on a personal level,"
+    },
+    {
+      "start": 1707.59,
+      "end": 1709.49,
+      "text": "do you think that all those questions are answered"
+    },
+    {
+      "start": 1709.49,
+      "end": 1710.93,
+      "text": "in this product page?"
+    },
+    {
+      "start": 1711.17,
+      "end": 1713.51,
+      "text": "So it's just asking them,"
+    },
+    {
+      "start": 1713.65,
+      "end": 1714.81,
+      "text": "I would say at a high level,"
+    },
+    {
+      "start": 1714.93,
+      "end": 1716.69,
+      "text": "like what do you think can be done"
+    },
+    {
+      "start": 1716.69,
+      "end": 1718.19,
+      "text": "to make this stronger or,"
+    },
+    {
+      "start": 1719.03,
+      "end": 1721.77,
+      "text": "you know, more quote unquote UX friendly."
+    },
+    {
+      "start": 1724.09,
+      "end": 1725.75,
+      "text": "But yeah, hopefully that helps."
+    },
+    {
+      "start": 1725.91,
+      "end": 1727.39,
+      "text": "And of course, you know, whitelisting,"
+    },
+    {
+      "start": 1727.65,
+      "end": 1729.05,
+      "text": "making sure you have good copy,"
+    },
+    {
+      "start": 1729.59,
+      "end": 1732.31,
+      "text": "making sure you have a beautifully edited video,"
+    },
+    {
+      "start": 1732.53,
+      "end": 1733.49,
+      "text": "making sure you have subtitles,"
+    },
+    {
+      "start": 1733.71,
+      "end": 1734.97,
+      "text": "all those kinds of small things,"
+    },
+    {
+      "start": 1734.99,
+      "end": 1736.39,
+      "text": "of course, maximize it as well."
+    },
+    {
+      "start": 1737.07,
+      "end": 1738.63,
+      "text": "Okay, next question."
+    },
+    {
+      "start": 1738.85,
+      "end": 1740.25,
+      "text": "Sean is asking,"
+    },
+    {
+      "start": 1740.49,
+      "end": 1743.43,
+      "text": "what are the best strategies for running teams efficiently"
+    },
+    {
+      "start": 1743.43,
+      "end": 1746.19,
+      "text": "and focusing on operational excellence?"
+    },
+    {
+      "start": 1746.61,
+      "end": 1750.83,
+      "text": "Well, Sean, my advice is stay lean."
+    },
+    {
+      "start": 1750.83,
+      "end": 1755.33,
+      "text": "If I've seen anything in the last year,"
+    },
+    {
+      "start": 1755.99,
+      "end": 1760.49,
+      "text": "it is that some of these lean teams are just crushing."
+    },
+    {
+      "start": 1760.73,
+      "end": 1763.85,
+      "text": "I'm talking about a brand doing $50 million"
+    },
+    {
+      "start": 1763.85,
+      "end": 1767.15,
+      "text": "with four people, six people max."
+    },
+    {
+      "start": 1768.77,
+      "end": 1770.45,
+      "text": "You know, the beauty is that"
+    },
+    {
+      "start": 1770.45,
+      "end": 1773.55,
+      "text": "you don't need to have a ton of people."
+    },
+    {
+      "start": 1773.55,
+      "end": 1776.45,
+      "text": "You can leverage freelancers, contractors, agencies."
+    },
+    {
+      "start": 1776.79,
+      "end": 1778.99,
+      "text": "Some of our clients who lean on us"
+    },
+    {
+      "start": 1778.99,
+      "end": 1780.83,
+      "text": "to do everything from a digital standpoint,"
+    },
+    {
+      "start": 1781.07,
+      "end": 1783.01,
+      "text": "they entirely focus on brand building"
+    },
+    {
+      "start": 1783.57,
+      "end": 1784.79,
+      "text": "and product development."
+    },
+    {
+      "start": 1785.01,
+      "end": 1786.93,
+      "text": "And they leave everything digital to us."
+    },
+    {
+      "start": 1787.13,
+      "end": 1788.25,
+      "text": "But because of that,"
+    },
+    {
+      "start": 1788.45,
+      "end": 1789.65,
+      "text": "there are four people internally"
+    },
+    {
+      "start": 1789.65,
+      "end": 1791.29,
+      "text": "and they might do $40 million"
+    },
+    {
+      "start": 1791.29,
+      "end": 1792.75,
+      "text": "in revenue this year,"
+    },
+    {
+      "start": 1792.95,
+      "end": 1793.85,
+      "text": "completely profitably,"
+    },
+    {
+      "start": 1794.31,
+      "end": 1794.99,
+      "text": "super lean,"
+    },
+    {
+      "start": 1795.43,
+      "end": 1797.39,
+      "text": "super focused on what they need to get done."
+    },
+    {
+      "start": 1797.53,
+      "end": 1799.37,
+      "text": "And then they leave the rest of the things"
+    },
+    {
+      "start": 1799.37,
+      "end": 1800.37,
+      "text": "that they're not good at,"
+    },
+    {
+      "start": 1800.57,
+      "end": 1802.39,
+      "text": "which is generally performance marketing,"
+    },
+    {
+      "start": 1803.03,
+      "end": 1803.77,
+      "text": "site optimization,"
+    },
+    {
+      "start": 1804.35,
+      "end": 1805.09,
+      "text": "ad creation."
+    },
+    {
+      "start": 1805.09,
+      "end": 1806.95,
+      "text": "They can lead these things to us."
+    },
+    {
+      "start": 1807.05,
+      "end": 1807.99,
+      "text": "We're the experts in that."
+    },
+    {
+      "start": 1808.21,
+      "end": 1809.87,
+      "text": "They can focus on product development"
+    },
+    {
+      "start": 1809.87,
+      "end": 1810.91,
+      "text": "and brand building."
+    },
+    {
+      "start": 1811.25,
+      "end": 1813.05,
+      "text": "They're generally the experts in that."
+    },
+    {
+      "start": 1814.25,
+      "end": 1816.09,
+      "text": "Internally, like as a team structure,"
+    },
+    {
+      "start": 1816.41,
+      "end": 1817.37,
+      "text": "I would say you want to make sure"
+    },
+    {
+      "start": 1817.37,
+      "end": 1819.17,
+      "text": "you have ops, product,"
+    },
+    {
+      "start": 1819.95,
+      "end": 1820.91,
+      "text": "customer experience,"
+    },
+    {
+      "start": 1821.17,
+      "end": 1822.65,
+      "text": "and brand building covered."
+    },
+    {
+      "start": 1823.51,
+      "end": 1825.41,
+      "text": "If you've got most of those covered,"
+    },
+    {
+      "start": 1825.63,
+      "end": 1828.67,
+      "text": "then majority of things will work themselves out."
+    },
+    {
+      "start": 1828.67,
+      "end": 1833.23,
+      "text": "And you can always find the right teams,"
+    },
+    {
+      "start": 1833.51,
+      "end": 1834.17,
+      "text": "freelancers,"
+    },
+    {
+      "start": 1834.91,
+      "end": 1836.63,
+      "text": "the Sharma brands of the world"
+    },
+    {
+      "start": 1836.63,
+      "end": 1838.17,
+      "text": "to help with everything else."
+    },
+    {
+      "start": 1838.81,
+      "end": 1840.27,
+      "text": "Okay, next question."
+    },
+    {
+      "start": 1840.55,
+      "end": 1841.43,
+      "text": "Jared asks,"
+    },
+    {
+      "start": 1841.63,
+      "end": 1843.79,
+      "text": "how can brands gain more awareness"
+    },
+    {
+      "start": 1843.79,
+      "end": 1845.11,
+      "text": "through influencer marketing"
+    },
+    {
+      "start": 1845.11,
+      "end": 1847.07,
+      "text": "apart from ads?"
+    },
+    {
+      "start": 1847.29,
+      "end": 1850.01,
+      "text": "Well, going back to what I was saying"
+    },
+    {
+      "start": 1850.01,
+      "end": 1851.55,
+      "text": "in the first question,"
+    },
+    {
+      "start": 1851.99,
+      "end": 1855.09,
+      "text": "what you don't do organically,"
+    },
+    {
+      "start": 1855.09,
+      "end": 1856.87,
+      "text": "you make up for by paying for it."
+    },
+    {
+      "start": 1856.87,
+      "end": 1858.01,
+      "text": "So whether that's by ads"
+    },
+    {
+      "start": 1858.01,
+      "end": 1859.23,
+      "text": "or by paying influencers."
+    },
+    {
+      "start": 1860.39,
+      "end": 1861.83,
+      "text": "So, you know, one thing,"
+    },
+    {
+      "start": 1862.01,
+      "end": 1863.05,
+      "text": "I think this is, again,"
+    },
+    {
+      "start": 1863.25,
+      "end": 1866.19,
+      "text": "super dependent on a case-by-case basis."
+    },
+    {
+      "start": 1866.39,
+      "end": 1867.77,
+      "text": "But the first idea that comes to mind"
+    },
+    {
+      "start": 1867.77,
+      "end": 1869.61,
+      "text": "is figure out how you can do more"
+    },
+    {
+      "start": 1869.61,
+      "end": 1870.83,
+      "text": "with these influencers, right?"
+    },
+    {
+      "start": 1871.19,
+      "end": 1872.79,
+      "text": "Instead of just going to an influencer"
+    },
+    {
+      "start": 1872.79,
+      "end": 1873.25,
+      "text": "and saying,"
+    },
+    {
+      "start": 1873.37,
+      "end": 1875.03,
+      "text": "we want to pay you 10 grand for a post"
+    },
+    {
+      "start": 1875.03,
+      "end": 1876.93,
+      "text": "or we want to pay you 5 grand"
+    },
+    {
+      "start": 1876.93,
+      "end": 1877.59,
+      "text": "to do a video"
+    },
+    {
+      "start": 1877.59,
+      "end": 1880.51,
+      "text": "or, you know, $2,000 to do a story post,"
+    },
+    {
+      "start": 1880.77,
+      "end": 1884.03,
+      "text": "you know, how about creating"
+    },
+    {
+      "start": 1884.89,
+      "end": 1886.51,
+      "text": "some more unique pieces of content?"
+    },
+    {
+      "start": 1886.57,
+      "end": 1888.29,
+      "text": "How about doing a seeding thing?"
+    },
+    {
+      "start": 1888.51,
+      "end": 1889.83,
+      "text": "Maybe, you know, Christmas is coming up"
+    },
+    {
+      "start": 1889.83,
+      "end": 1892.67,
+      "text": "and if you sell coffee beans,"
+    },
+    {
+      "start": 1892.95,
+      "end": 1895.49,
+      "text": "why not create a nice influencer box,"
+    },
+    {
+      "start": 1896.05,
+      "end": 1897.27,
+      "text": "you know, presentable box"
+    },
+    {
+      "start": 1897.27,
+      "end": 1897.83,
+      "text": "that looks great"
+    },
+    {
+      "start": 1897.83,
+      "end": 1899.09,
+      "text": "when you open it up on social,"
+    },
+    {
+      "start": 1899.83,
+      "end": 1901.15,
+      "text": "pack it with a bunch of stuff"
+    },
+    {
+      "start": 1901.15,
+      "end": 1902.17,
+      "text": "and ship it out to,"
+    },
+    {
+      "start": 1902.29,
+      "end": 1902.85,
+      "text": "let's say I'm working"
+    },
+    {
+      "start": 1902.85,
+      "end": 1905.13,
+      "text": "with influencer named Sophia, right?"
+    },
+    {
+      "start": 1905.53,
+      "end": 1906.21,
+      "text": "Let's ship it out"
+    },
+    {
+      "start": 1906.21,
+      "end": 1907.57,
+      "text": "to Sophia's closest friends"
+    },
+    {
+      "start": 1907.57,
+      "end": 1909.11,
+      "text": "who all have massive followings"
+    },
+    {
+      "start": 1909.11,
+      "end": 1910.09,
+      "text": "who we know,"
+    },
+    {
+      "start": 1910.31,
+      "end": 1912.11,
+      "text": "as soon as they get a package from Sophia"
+    },
+    {
+      "start": 1912.11,
+      "end": 1913.33,
+      "text": "and it's a big influencer box,"
+    },
+    {
+      "start": 1913.47,
+      "end": 1914.51,
+      "text": "they're going to want to film it"
+    },
+    {
+      "start": 1914.51,
+      "end": 1916.33,
+      "text": "and tag her and post it up."
+    },
+    {
+      "start": 1916.47,
+      "end": 1917.49,
+      "text": "They're going to tag the brand."
+    },
+    {
+      "start": 1917.63,
+      "end": 1918.71,
+      "text": "It's going to get a ton of exposure."
+    },
+    {
+      "start": 1918.99,
+      "end": 1921.99,
+      "text": "Now, if 15 or 20 of Sophia's friends"
+    },
+    {
+      "start": 1921.99,
+      "end": 1922.59,
+      "text": "are doing that,"
+    },
+    {
+      "start": 1922.91,
+      "end": 1925.03,
+      "text": "it'll create a mini sort of firefest moment"
+    },
+    {
+      "start": 1925.03,
+      "end": 1925.65,
+      "text": "where, you know,"
+    },
+    {
+      "start": 1925.75,
+      "end": 1927.39,
+      "text": "everybody's posting around the same time."
+    },
+    {
+      "start": 1927.53,
+      "end": 1928.49,
+      "text": "They're talking about the brand."
+    },
+    {
+      "start": 1928.65,
+      "end": 1929.67,
+      "text": "It creates this hype."
+    },
+    {
+      "start": 1930.29,
+      "end": 1931.59,
+      "text": "That's just one way to do it."
+    },
+    {
+      "start": 1932.21,
+      "end": 1933.29,
+      "text": "Other ways to do it,"
+    },
+    {
+      "start": 1933.43,
+      "end": 1935.75,
+      "text": "I would leverage things like landing pages."
+    },
+    {
+      "start": 1935.97,
+      "end": 1937.77,
+      "text": "You can check out like Superfiliate."
+    },
+    {
+      "start": 1937.89,
+      "end": 1938.99,
+      "text": "They do a really good job with this,"
+    },
+    {
+      "start": 1939.11,
+      "end": 1940.27,
+      "text": "driving traffic from creators"
+    },
+    {
+      "start": 1940.27,
+      "end": 1941.81,
+      "text": "to very creator-specific pages."
+    },
+    {
+      "start": 1942.11,
+      "end": 1943.19,
+      "text": "They talk about the brand,"
+    },
+    {
+      "start": 1943.29,
+      "end": 1944.83,
+      "text": "but also focus on the products"
+    },
+    {
+      "start": 1944.83,
+      "end": 1946.29,
+      "text": "that that creator is talking about."
+    },
+    {
+      "start": 1946.63,
+      "end": 1948.51,
+      "text": "And another one would be like,"
+    },
+    {
+      "start": 1948.53,
+      "end": 1950.11,
+      "text": "you know, IRL stuff."
+    },
+    {
+      "start": 1950.37,
+      "end": 1951.67,
+      "text": "Anytime you have a,"
+    },
+    {
+      "start": 1951.75,
+      "end": 1953.01,
+      "text": "in fact, you know who does this best?"
+    },
+    {
+      "start": 1953.15,
+      "end": 1953.63,
+      "text": "It's Lemmy."
+    },
+    {
+      "start": 1953.81,
+      "end": 1955.21,
+      "text": "There's a supplement brand called Lemmy."
+    },
+    {
+      "start": 1955.33,
+      "end": 1957.93,
+      "text": "And anytime they have a new product,"
+    },
+    {
+      "start": 1958.17,
+      "end": 1960.03,
+      "text": "they do a full campaign around it."
+    },
+    {
+      "start": 1960.07,
+      "end": 1964.09,
+      "text": "They do a full like seeding program."
+    },
+    {
+      "start": 1964.09,
+      "end": 1965.31,
+      "text": "So they send out product"
+    },
+    {
+      "start": 1965.31,
+      "end": 1967.29,
+      "text": "to all of their creators and influencers."
+    },
+    {
+      "start": 1968.07,
+      "end": 1970.67,
+      "text": "And they do IRL events."
+    },
+    {
+      "start": 1970.77,
+      "end": 1971.51,
+      "text": "They might do a dinner."
+    },
+    {
+      "start": 1971.51,
+      "end": 1973.03,
+      "text": "They might do a product launch event,"
+    },
+    {
+      "start": 1973.23,
+      "end": 1974.43,
+      "text": "a party, whatever it is."
+    },
+    {
+      "start": 1974.79,
+      "end": 1976.51,
+      "text": "But sitting around that table"
+    },
+    {
+      "start": 1976.51,
+      "end": 1978.67,
+      "text": "or in that room during the event"
+    },
+    {
+      "start": 1978.67,
+      "end": 1979.69,
+      "text": "is, you know,"
+    },
+    {
+      "start": 1980.01,
+      "end": 1982.07,
+      "text": "a ton of influencers and creators."
+    },
+    {
+      "start": 1982.27,
+      "end": 1983.67,
+      "text": "And they're all excited to be there"
+    },
+    {
+      "start": 1984.17,
+      "end": 1985.55,
+      "text": "because the brand is very exciting"
+    },
+    {
+      "start": 1985.55,
+      "end": 1986.53,
+      "text": "to be a part of as well."
+    },
+    {
+      "start": 1986.71,
+      "end": 1989.67,
+      "text": "And so why would they not want to post"
+    },
+    {
+      "start": 1989.67,
+      "end": 1990.33,
+      "text": "and do that?"
+    },
+    {
+      "start": 1990.65,
+      "end": 1991.89,
+      "text": "Another thing that I've seen,"
+    },
+    {
+      "start": 1991.95,
+      "end": 1994.41,
+      "text": "you guys have probably heard of the app Citizen."
+    },
+    {
+      "start": 1994.75,
+      "end": 1996.23,
+      "text": "If you look at their Instagram feed,"
+    },
+    {
+      "start": 1996.23,
+      "end": 1998.33,
+      "text": "what they do is they cross post"
+    },
+    {
+      "start": 1998.33,
+      "end": 2001.49,
+      "text": "with other more publisher style pages"
+    },
+    {
+      "start": 2001.49,
+      "end": 2003.13,
+      "text": "or news pages."
+    },
+    {
+      "start": 2003.35,
+      "end": 2004.49,
+      "text": "And so what they're doing"
+    },
+    {
+      "start": 2004.49,
+      "end": 2006.53,
+      "text": "is cross posting from the Citizen account,"
+    },
+    {
+      "start": 2006.65,
+      "end": 2007.51,
+      "text": "which has a bunch of followers,"
+    },
+    {
+      "start": 2007.75,
+      "end": 2009.39,
+      "text": "but they're also taking advantage"
+    },
+    {
+      "start": 2009.39,
+      "end": 2010.83,
+      "text": "of all of the followers"
+    },
+    {
+      "start": 2010.83,
+      "end": 2012.19,
+      "text": "that all the other accounts"
+    },
+    {
+      "start": 2012.19,
+      "end": 2013.85,
+      "text": "who are cross posting also have,"
+    },
+    {
+      "start": 2014.01,
+      "end": 2016.31,
+      "text": "which drives a ton of impressions."
+    },
+    {
+      "start": 2017.37,
+      "end": 2017.97,
+      "text": "Okay."
+    },
+    {
+      "start": 2018.07,
+      "end": 2020.45,
+      "text": "Next question from Landon."
+    },
+    {
+      "start": 2020.45,
+      "end": 2021.75,
+      "text": "What are effective ways"
+    },
+    {
+      "start": 2021.75,
+      "end": 2024.19,
+      "text": "to bring down CPMs and CAC"
+    },
+    {
+      "start": 2024.19,
+      "end": 2026.07,
+      "text": "while increasing ROAS?"
+    },
+    {
+      "start": 2026.71,
+      "end": 2028.81,
+      "text": "Well, I mean, tactically,"
+    },
+    {
+      "start": 2029.03,
+      "end": 2030.67,
+      "text": "there's a few things you can do."
+    },
+    {
+      "start": 2030.87,
+      "end": 2033.83,
+      "text": "You know, essentially the biggest lever,"
+    },
+    {
+      "start": 2033.93,
+      "end": 2034.51,
+      "text": "I would say,"
+    },
+    {
+      "start": 2035.23,
+      "end": 2036.37,
+      "text": "the big lever,"
+    },
+    {
+      "start": 2036.61,
+      "end": 2037.49,
+      "text": "the overarching lever"
+    },
+    {
+      "start": 2037.49,
+      "end": 2038.55,
+      "text": "is basically making sure"
+    },
+    {
+      "start": 2038.55,
+      "end": 2040.35,
+      "text": "that who you're targeting"
+    },
+    {
+      "start": 2040.35,
+      "end": 2041.77,
+      "text": "in terms of a persona"
+    },
+    {
+      "start": 2041.77,
+      "end": 2044.01,
+      "text": "and the problem that they have"
+    },
+    {
+      "start": 2044.01,
+      "end": 2046.41,
+      "text": "is aligning with the solution"
+    },
+    {
+      "start": 2046.41,
+      "end": 2048.43,
+      "text": "you're presenting in your creative."
+    },
+    {
+      "start": 2049.31,
+      "end": 2050.95,
+      "text": "And it has an offer"
+    },
+    {
+      "start": 2050.95,
+      "end": 2052.39,
+      "text": "that feels convenient for them."
+    },
+    {
+      "start": 2052.79,
+      "end": 2054.11,
+      "text": "So for example,"
+    },
+    {
+      "start": 2055.05,
+      "end": 2056.97,
+      "text": "let's take Hint water,"
+    },
+    {
+      "start": 2057.09,
+      "end": 2057.81,
+      "text": "for example, right?"
+    },
+    {
+      "start": 2059.45,
+      "end": 2061.69,
+      "text": "The ads that focus on Hint"
+    },
+    {
+      "start": 2061.69,
+      "end": 2063.33,
+      "text": "might speak about,"
+    },
+    {
+      "start": 2063.89,
+      "end": 2064.57,
+      "text": "you know,"
+    },
+    {
+      "start": 2064.79,
+      "end": 2066.53,
+      "text": "getting rid of your diet Coke habit"
+    },
+    {
+      "start": 2066.53,
+      "end": 2067.85,
+      "text": "or your diet soda habit."
+    },
+    {
+      "start": 2068.03,
+      "end": 2068.81,
+      "text": "So that's a problem."
+    },
+    {
+      "start": 2069.33,
+      "end": 2071.29,
+      "text": "Now Hint offers the solution,"
+    },
+    {
+      "start": 2071.65,
+      "end": 2072.73,
+      "text": "which is flavored water,"
+    },
+    {
+      "start": 2072.93,
+      "end": 2073.37,
+      "text": "no sugar,"
+    },
+    {
+      "start": 2073.49,
+      "end": 2074.05,
+      "text": "no calories,"
+    },
+    {
+      "start": 2074.19,
+      "end": 2074.79,
+      "text": "no sweetener,"
+    },
+    {
+      "start": 2075.01,
+      "end": 2075.93,
+      "text": "no preservatives,"
+    },
+    {
+      "start": 2076.11,
+      "end": 2076.53,
+      "text": "blah, blah, blah."
+    },
+    {
+      "start": 2077.29,
+      "end": 2080.49,
+      "text": "And the offer is a dollar a bottle."
+    },
+    {
+      "start": 2080.75,
+      "end": 2081.53,
+      "text": "You buy three cases,"
+    },
+    {
+      "start": 2081.53,
+      "end": 2082.97,
+      "text": "it's $1 per bottle."
+    },
+    {
+      "start": 2083.67,
+      "end": 2086.07,
+      "text": "You get 36 bottles for 36 bucks."
+    },
+    {
+      "start": 2086.37,
+      "end": 2087.93,
+      "text": "And here you have clear alignment"
+    },
+    {
+      "start": 2087.93,
+      "end": 2088.91,
+      "text": "between the problem,"
+    },
+    {
+      "start": 2089.15,
+      "end": 2090.03,
+      "text": "the solution presented,"
+    },
+    {
+      "start": 2090.03,
+      "end": 2092.01,
+      "text": "and the offer that feels convenient to them."
+    },
+    {
+      "start": 2092.15,
+      "end": 2092.99,
+      "text": "If we were like,"
+    },
+    {
+      "start": 2093.11,
+      "end": 2093.25,
+      "text": "hey,"
+    },
+    {
+      "start": 2093.39,
+      "end": 2094.85,
+      "text": "you have to go buy"
+    },
+    {
+      "start": 2096.67,
+      "end": 2098.53,
+      "text": "a $23 pack"
+    },
+    {
+      "start": 2099.49,
+      "end": 2100.91,
+      "text": "to test the product"
+    },
+    {
+      "start": 2100.91,
+      "end": 2102.87,
+      "text": "and you get 12 bottles out of it."
+    },
+    {
+      "start": 2103.05,
+      "end": 2103.79,
+      "text": "And oh,"
+    },
+    {
+      "start": 2103.91,
+      "end": 2104.33,
+      "text": "by the way,"
+    },
+    {
+      "start": 2104.45,
+      "end": 2105.89,
+      "text": "you're not going to get free shipping on that"
+    },
+    {
+      "start": 2105.89,
+      "end": 2107.27,
+      "text": "because it's only one case"
+    },
+    {
+      "start": 2107.27,
+      "end": 2108.03,
+      "text": "instead of three."
+    },
+    {
+      "start": 2108.27,
+      "end": 2108.69,
+      "text": "Well,"
+    },
+    {
+      "start": 2108.73,
+      "end": 2109.87,
+      "text": "that's not a convenient offer"
+    },
+    {
+      "start": 2109.87,
+      "end": 2111.39,
+      "text": "for that new customer."
+    },
+    {
+      "start": 2111.61,
+      "end": 2113.35,
+      "text": "So when I say problem,"
+    },
+    {
+      "start": 2113.59,
+      "end": 2114.13,
+      "text": "solution,"
+    },
+    {
+      "start": 2114.45,
+      "end": 2114.67,
+      "text": "offer,"
+    },
+    {
+      "start": 2114.97,
+      "end": 2115.91,
+      "text": "you have to make sure"
+    },
+    {
+      "start": 2115.91,
+      "end": 2116.67,
+      "text": "that the offer"
+    },
+    {
+      "start": 2116.67,
+      "end": 2118.13,
+      "text": "is just as convenient"
+    },
+    {
+      "start": 2118.13,
+      "end": 2120.09,
+      "text": "to the person with the problem"
+    },
+    {
+      "start": 2120.09,
+      "end": 2121.47,
+      "text": "as the solution matches"
+    },
+    {
+      "start": 2121.47,
+      "end": 2122.63,
+      "text": "what they're looking for."
+    },
+    {
+      "start": 2123.25,
+      "end": 2123.87,
+      "text": "All right."
+    },
+    {
+      "start": 2123.97,
+      "end": 2124.95,
+      "text": "So Sophia asks,"
+    },
+    {
+      "start": 2125.13,
+      "end": 2126.55,
+      "text": "what are the most common mistakes"
+    },
+    {
+      "start": 2126.55,
+      "end": 2128.07,
+      "text": "DTC founders make in their business?"
+    },
+    {
+      "start": 2128.07,
+      "end": 2128.79,
+      "text": "Um,"
+    },
+    {
+      "start": 2129.97,
+      "end": 2130.21,
+      "text": "well,"
+    },
+    {
+      "start": 2130.47,
+      "end": 2130.99,
+      "text": "to be honest,"
+    },
+    {
+      "start": 2131.21,
+      "end": 2132.27,
+      "text": "I think the biggest one"
+    },
+    {
+      "start": 2132.27,
+      "end": 2133.35,
+      "text": "is a lot of,"
+    },
+    {
+      "start": 2133.41,
+      "end": 2134.67,
+      "text": "a lot of founders"
+    },
+    {
+      "start": 2134.67,
+      "end": 2135.55,
+      "text": "or no,"
+    },
+    {
+      "start": 2135.69,
+      "end": 2137.05,
+      "text": "I should say a lot of companies."
+    },
+    {
+      "start": 2137.57,
+      "end": 2138.61,
+      "text": "And when I say a lot,"
+    },
+    {
+      "start": 2138.75,
+      "end": 2139.11,
+      "text": "I mean,"
+    },
+    {
+      "start": 2139.27,
+      "end": 2139.47,
+      "text": "um,"
+    },
+    {
+      "start": 2140.41,
+      "end": 2141.59,
+      "text": "the ones that I think"
+    },
+    {
+      "start": 2141.59,
+      "end": 2143.27,
+      "text": "most people probably don't hear about"
+    },
+    {
+      "start": 2143.27,
+      "end": 2143.99,
+      "text": "because I think the ones"
+    },
+    {
+      "start": 2143.99,
+      "end": 2144.97,
+      "text": "that we hear about a lot"
+    },
+    {
+      "start": 2144.97,
+      "end": 2145.95,
+      "text": "tend to be,"
+    },
+    {
+      "start": 2146.09,
+      "end": 2146.81,
+      "text": "you know,"
+    },
+    {
+      "start": 2146.95,
+      "end": 2148.21,
+      "text": "done by teams"
+    },
+    {
+      "start": 2148.21,
+      "end": 2148.63,
+      "text": "or,"
+    },
+    {
+      "start": 2148.77,
+      "end": 2150.23,
+      "text": "or maybe like former operators."
+    },
+    {
+      "start": 2150.25,
+      "end": 2151.53,
+      "text": "But a lot of times"
+    },
+    {
+      "start": 2151.53,
+      "end": 2152.47,
+      "text": "when I look at sites"
+    },
+    {
+      "start": 2152.47,
+      "end": 2153.41,
+      "text": "or jump on the phone"
+    },
+    {
+      "start": 2153.41,
+      "end": 2153.95,
+      "text": "with brands"
+    },
+    {
+      "start": 2153.95,
+      "end": 2154.23,
+      "text": "and,"
+    },
+    {
+      "start": 2154.23,
+      "end": 2154.71,
+      "text": "and,"
+    },
+    {
+      "start": 2154.85,
+      "end": 2155.05,
+      "text": "um,"
+    },
+    {
+      "start": 2155.23,
+      "end": 2155.79,
+      "text": "talk to them,"
+    },
+    {
+      "start": 2155.99,
+      "end": 2157.01,
+      "text": "their biggest problem"
+    },
+    {
+      "start": 2157.01,
+      "end": 2158.13,
+      "text": "is they don't address"
+    },
+    {
+      "start": 2158.13,
+      "end": 2159.05,
+      "text": "problem solution"
+    },
+    {
+      "start": 2159.05,
+      "end": 2160.19,
+      "text": "in their content"
+    },
+    {
+      "start": 2160.19,
+      "end": 2161.39,
+      "text": "or in their ads."
+    },
+    {
+      "start": 2161.61,
+      "end": 2162.53,
+      "text": "Their website"
+    },
+    {
+      "start": 2162.53,
+      "end": 2163.71,
+      "text": "makes sense to them,"
+    },
+    {
+      "start": 2163.79,
+      "end": 2164.47,
+      "text": "but it doesn't make sense"
+    },
+    {
+      "start": 2164.47,
+      "end": 2165.53,
+      "text": "to a person who's coming"
+    },
+    {
+      "start": 2165.53,
+      "end": 2166.73,
+      "text": "who's never heard of the business."
+    },
+    {
+      "start": 2167.23,
+      "end": 2167.67,
+      "text": "Um,"
+    },
+    {
+      "start": 2168.87,
+      "end": 2169.57,
+      "text": "and so there's not"
+    },
+    {
+      "start": 2169.57,
+      "end": 2170.21,
+      "text": "a lot of alignment"
+    },
+    {
+      "start": 2170.21,
+      "end": 2171.81,
+      "text": "or not a lot of education"
+    },
+    {
+      "start": 2171.81,
+      "end": 2173.25,
+      "text": "on what is the product?"
+    },
+    {
+      "start": 2173.45,
+      "end": 2174.57,
+      "text": "Why is it something worth"
+    },
+    {
+      "start": 2174.57,
+      "end": 2175.77,
+      "text": "buying or,"
+    },
+    {
+      "start": 2175.95,
+      "end": 2176.37,
+      "text": "you know,"
+    },
+    {
+      "start": 2176.77,
+      "end": 2178.11,
+      "text": "using or trying"
+    },
+    {
+      "start": 2178.11,
+      "end": 2179.01,
+      "text": "or tasting"
+    },
+    {
+      "start": 2179.55,
+      "end": 2179.99,
+      "text": "or,"
+    },
+    {
+      "start": 2179.99,
+      "end": 2180.53,
+      "text": "um,"
+    },
+    {
+      "start": 2180.87,
+      "end": 2181.05,
+      "text": "you know,"
+    },
+    {
+      "start": 2181.17,
+      "end": 2181.95,
+      "text": "subscribing to"
+    },
+    {
+      "start": 2181.95,
+      "end": 2182.39,
+      "text": "there's,"
+    },
+    {
+      "start": 2182.47,
+      "end": 2183.17,
+      "text": "there's the product"
+    },
+    {
+      "start": 2183.17,
+      "end": 2183.65,
+      "text": "and it's,"
+    },
+    {
+      "start": 2183.83,
+      "end": 2184.97,
+      "text": "and it has the option"
+    },
+    {
+      "start": 2184.97,
+      "end": 2185.41,
+      "text": "to subscribe,"
+    },
+    {
+      "start": 2185.63,
+      "end": 2186.83,
+      "text": "but there's no reasoning"
+    },
+    {
+      "start": 2186.83,
+      "end": 2188.01,
+      "text": "as to why should I put this"
+    },
+    {
+      "start": 2188.01,
+      "end": 2188.69,
+      "text": "into a routine,"
+    },
+    {
+      "start": 2188.85,
+      "end": 2189.35,
+      "text": "for example."
+    },
+    {
+      "start": 2189.99,
+      "end": 2190.87,
+      "text": "So I think just"
+    },
+    {
+      "start": 2191.49,
+      "end": 2192.43,
+      "text": "making sure that you're"
+    },
+    {
+      "start": 2192.43,
+      "end": 2193.81,
+      "text": "sort of always answering,"
+    },
+    {
+      "start": 2194.07,
+      "end": 2194.33,
+      "text": "you know,"
+    },
+    {
+      "start": 2194.47,
+      "end": 2195.83,
+      "text": "the few main questions,"
+    },
+    {
+      "start": 2195.83,
+      "end": 2196.35,
+      "text": "which is,"
+    },
+    {
+      "start": 2196.43,
+      "end": 2196.57,
+      "text": "you know,"
+    },
+    {
+      "start": 2196.65,
+      "end": 2197.31,
+      "text": "what is the product?"
+    },
+    {
+      "start": 2197.45,
+      "end": 2198.21,
+      "text": "Why does it exist?"
+    },
+    {
+      "start": 2198.43,
+      "end": 2199.57,
+      "text": "How is this going to help me?"
+    },
+    {
+      "start": 2199.69,
+      "end": 2200.73,
+      "text": "Why is this the best option"
+    },
+    {
+      "start": 2200.73,
+      "end": 2201.23,
+      "text": "on the market?"
+    },
+    {
+      "start": 2201.45,
+      "end": 2202.33,
+      "text": "If I get it today,"
+    },
+    {
+      "start": 2202.43,
+      "end": 2203.23,
+      "text": "when does it arrive?"
+    },
+    {
+      "start": 2203.75,
+      "end": 2204.11,
+      "text": "Um,"
+    },
+    {
+      "start": 2204.35,
+      "end": 2204.51,
+      "text": "you know,"
+    },
+    {
+      "start": 2204.59,
+      "end": 2205.39,
+      "text": "what is it made of?"
+    },
+    {
+      "start": 2205.49,
+      "end": 2206.63,
+      "text": "Where is it sourced from?"
+    },
+    {
+      "start": 2207.27,
+      "end": 2207.59,
+      "text": "Um,"
+    },
+    {
+      "start": 2209.11,
+      "end": 2209.85,
+      "text": "these types of things"
+    },
+    {
+      "start": 2209.85,
+      "end": 2210.63,
+      "text": "are things that"
+    },
+    {
+      "start": 2211.67,
+      "end": 2212.39,
+      "text": "you internally"
+    },
+    {
+      "start": 2212.39,
+      "end": 2213.61,
+      "text": "probably understand"
+    },
+    {
+      "start": 2213.61,
+      "end": 2214.37,
+      "text": "and so that's why"
+    },
+    {
+      "start": 2214.37,
+      "end": 2214.89,
+      "text": "a lot of times"
+    },
+    {
+      "start": 2214.89,
+      "end": 2215.63,
+      "text": "it doesn't make it on"
+    },
+    {
+      "start": 2215.63,
+      "end": 2216.19,
+      "text": "because you're like,"
+    },
+    {
+      "start": 2216.31,
+      "end": 2216.41,
+      "text": "well,"
+    },
+    {
+      "start": 2216.57,
+      "end": 2217.05,
+      "text": "I know this,"
+    },
+    {
+      "start": 2217.15,
+      "end": 2217.79,
+      "text": "so why would everybody"
+    },
+    {
+      "start": 2217.79,
+      "end": 2218.53,
+      "text": "else not know it?"
+    },
+    {
+      "start": 2218.93,
+      "end": 2219.29,
+      "text": "But,"
+    },
+    {
+      "start": 2219.29,
+      "end": 2219.61,
+      "text": "uh,"
+    },
+    {
+      "start": 2219.69,
+      "end": 2220.25,
+      "text": "in most cases,"
+    },
+    {
+      "start": 2220.43,
+      "end": 2221.19,
+      "text": "most people have no idea"
+    },
+    {
+      "start": 2221.19,
+      "end": 2221.87,
+      "text": "about those things"
+    },
+    {
+      "start": 2221.87,
+      "end": 2222.59,
+      "text": "and a lot of times"
+    },
+    {
+      "start": 2222.59,
+      "end": 2223.65,
+      "text": "adding that information"
+    },
+    {
+      "start": 2223.65,
+      "end": 2224.61,
+      "text": "is what gets people"
+    },
+    {
+      "start": 2224.61,
+      "end": 2226.57,
+      "text": "to end up buying the product"
+    },
+    {
+      "start": 2226.57,
+      "end": 2227.45,
+      "text": "or trying the product"
+    },
+    {
+      "start": 2227.45,
+      "end": 2227.77,
+      "text": "or,"
+    },
+    {
+      "start": 2227.77,
+      "end": 2228.73,
+      "text": "or wanting to do it."
+    },
+    {
+      "start": 2228.91,
+      "end": 2229.83,
+      "text": "So those are probably"
+    },
+    {
+      "start": 2229.83,
+      "end": 2230.75,
+      "text": "the main ones."
+    },
+    {
+      "start": 2230.91,
+      "end": 2231.03,
+      "text": "You know,"
+    },
+    {
+      "start": 2231.09,
+      "end": 2231.99,
+      "text": "I think some of the other ones"
+    },
+    {
+      "start": 2231.99,
+      "end": 2232.63,
+      "text": "that come to mind"
+    },
+    {
+      "start": 2232.63,
+      "end": 2233.93,
+      "text": "is like skipping corners"
+    },
+    {
+      "start": 2233.93,
+      "end": 2234.29,
+      "text": "on,"
+    },
+    {
+      "start": 2234.43,
+      "end": 2234.63,
+      "text": "you know,"
+    },
+    {
+      "start": 2234.71,
+      "end": 2234.99,
+      "text": "if you've,"
+    },
+    {
+      "start": 2235.09,
+      "end": 2236.51,
+      "text": "if you've spent two years"
+    },
+    {
+      "start": 2237.07,
+      "end": 2238.13,
+      "text": "developing the product"
+    },
+    {
+      "start": 2238.13,
+      "end": 2238.95,
+      "text": "and it's something"
+    },
+    {
+      "start": 2238.95,
+      "end": 2239.81,
+      "text": "that's really going to change"
+    },
+    {
+      "start": 2239.81,
+      "end": 2240.51,
+      "text": "people's lives"
+    },
+    {
+      "start": 2240.51,
+      "end": 2241.81,
+      "text": "and you're so confident"
+    },
+    {
+      "start": 2241.81,
+      "end": 2242.19,
+      "text": "in that,"
+    },
+    {
+      "start": 2242.37,
+      "end": 2243.45,
+      "text": "don't spend two months"
+    },
+    {
+      "start": 2243.45,
+      "end": 2244.31,
+      "text": "building the website."
+    },
+    {
+      "start": 2244.59,
+      "end": 2245.05,
+      "text": "You know,"
+    },
+    {
+      "start": 2245.27,
+      "end": 2245.47,
+      "text": "if you,"
+    },
+    {
+      "start": 2245.47,
+      "end": 2246.23,
+      "text": "if you spent,"
+    },
+    {
+      "start": 2246.67,
+      "end": 2247.07,
+      "text": "um,"
+    },
+    {
+      "start": 2248.05,
+      "end": 2248.81,
+      "text": "three years building"
+    },
+    {
+      "start": 2248.81,
+      "end": 2249.29,
+      "text": "the product"
+    },
+    {
+      "start": 2249.29,
+      "end": 2250.75,
+      "text": "or $100,000"
+    },
+    {
+      "start": 2250.75,
+      "end": 2252.09,
+      "text": "invested in R\u0026D"
+    },
+    {
+      "start": 2252.09,
+      "end": 2252.97,
+      "text": "or whatever it may be,"
+    },
+    {
+      "start": 2253.27,
+      "end": 2253.55,
+      "text": "you know,"
+    },
+    {
+      "start": 2253.69,
+      "end": 2254.69,
+      "text": "don't go and try to get"
+    },
+    {
+      "start": 2254.69,
+      "end": 2255.39,
+      "text": "a company"
+    },
+    {
+      "start": 2255.39,
+      "end": 2255.69,
+      "text": "to,"
+    },
+    {
+      "start": 2255.69,
+      "end": 2256.53,
+      "text": "to do a website"
+    },
+    {
+      "start": 2256.53,
+      "end": 2257.33,
+      "text": "for 10 grand"
+    },
+    {
+      "start": 2257.33,
+      "end": 2259.79,
+      "text": "because it's just like,"
+    },
+    {
+      "start": 2259.93,
+      "end": 2260.93,
+      "text": "why are you cutting corners?"
+    },
+    {
+      "start": 2261.09,
+      "end": 2261.45,
+      "text": "You know what I mean?"
+    },
+    {
+      "start": 2261.53,
+      "end": 2262.37,
+      "text": "Same thing with packaging."
+    },
+    {
+      "start": 2262.51,
+      "end": 2262.89,
+      "text": "A lot of people"
+    },
+    {
+      "start": 2262.89,
+      "end": 2263.73,
+      "text": "will cut corners"
+    },
+    {
+      "start": 2263.73,
+      "end": 2264.31,
+      "text": "on packaging"
+    },
+    {
+      "start": 2264.31,
+      "end": 2265.49,
+      "text": "from a cost standpoint."
+    },
+    {
+      "start": 2265.49,
+      "end": 2266.47,
+      "text": "You know,"
+    },
+    {
+      "start": 2266.65,
+      "end": 2267.21,
+      "text": "that all,"
+    },
+    {
+      "start": 2267.35,
+      "end": 2268.33,
+      "text": "it all catches up to you"
+    },
+    {
+      "start": 2268.33,
+      "end": 2268.89,
+      "text": "in my opinion."
+    },
+    {
+      "start": 2268.89,
+      "end": 2269.51,
+      "text": "If you don't have"
+    },
+    {
+      "start": 2269.51,
+      "end": 2270.33,
+      "text": "a really good product"
+    },
+    {
+      "start": 2270.33,
+      "end": 2271.73,
+      "text": "or a really good presentation,"
+    },
+    {
+      "start": 2272.33,
+      "end": 2272.77,
+      "text": "um,"
+    },
+    {
+      "start": 2273.19,
+      "end": 2274.17,
+      "text": "it catches up to you,"
+    },
+    {
+      "start": 2274.29,
+      "end": 2274.55,
+      "text": "you know?"
+    },
+    {
+      "start": 2275.63,
+      "end": 2276.07,
+      "text": "So,"
+    },
+    {
+      "start": 2276.07,
+      "end": 2277.13,
+      "text": "those are the things"
+    },
+    {
+      "start": 2277.13,
+      "end": 2277.77,
+      "text": "that I think"
+    },
+    {
+      "start": 2277.77,
+      "end": 2278.89,
+      "text": "come to mind right away."
+    },
+    {
+      "start": 2279.85,
+      "end": 2280.87,
+      "text": "Suzanne asked me,"
+    },
+    {
+      "start": 2281.05,
+      "end": 2282.55,
+      "text": "what are the most effective"
+    },
+    {
+      "start": 2282.55,
+      "end": 2283.61,
+      "text": "brand awareness strategies"
+    },
+    {
+      "start": 2283.61,
+      "end": 2284.67,
+      "text": "for DTC founders?"
+    },
+    {
+      "start": 2284.95,
+      "end": 2285.51,
+      "text": "Let me tell you,"
+    },
+    {
+      "start": 2285.99,
+      "end": 2286.27,
+      "text": "content,"
+    },
+    {
+      "start": 2286.75,
+      "end": 2287.49,
+      "text": "make content,"
+    },
+    {
+      "start": 2287.65,
+      "end": 2288.11,
+      "text": "get good,"
+    },
+    {
+      "start": 2288.29,
+      "end": 2288.87,
+      "text": "get comfortable,"
+    },
+    {
+      "start": 2289.71,
+      "end": 2289.79,
+      "text": "uh,"
+    },
+    {
+      "start": 2290.19,
+      "end": 2291.25,
+      "text": "create a process"
+    },
+    {
+      "start": 2291.25,
+      "end": 2292.51,
+      "text": "with checks and balances"
+    },
+    {
+      "start": 2292.51,
+      "end": 2293.39,
+      "text": "around content."
+    },
+    {
+      "start": 2293.69,
+      "end": 2294.13,
+      "text": "Again,"
+    },
+    {
+      "start": 2294.27,
+      "end": 2295.33,
+      "text": "what you don't do"
+    },
+    {
+      "start": 2295.33,
+      "end": 2296.15,
+      "text": "in content"
+    },
+    {
+      "start": 2296.15,
+      "end": 2297.49,
+      "text": "you will pay for"
+    },
+    {
+      "start": 2297.49,
+      "end": 2298.53,
+      "text": "in ads."
+    },
+    {
+      "start": 2298.81,
+      "end": 2300.27,
+      "text": "If you are"
+    },
+    {
+      "start": 2300.89,
+      "end": 2301.77,
+      "text": "not that good"
+    },
+    {
+      "start": 2301.77,
+      "end": 2302.77,
+      "text": "at pumping things out"
+    },
+    {
+      "start": 2302.77,
+      "end": 2303.55,
+      "text": "and getting eyeballs"
+    },
+    {
+      "start": 2303.55,
+      "end": 2304.25,
+      "text": "on a daily,"
+    },
+    {
+      "start": 2304.43,
+      "end": 2304.79,
+      "text": "a weekly,"
+    },
+    {
+      "start": 2304.89,
+      "end": 2305.23,
+      "text": "a monthly,"
+    },
+    {
+      "start": 2305.37,
+      "end": 2306.03,
+      "text": "a quarterly basis,"
+    },
+    {
+      "start": 2306.55,
+      "end": 2307.37,
+      "text": "you will just basically"
+    },
+    {
+      "start": 2307.37,
+      "end": 2308.29,
+      "text": "pay for those eyeballs"
+    },
+    {
+      "start": 2308.29,
+      "end": 2309.35,
+      "text": "through CPMs."
+    },
+    {
+      "start": 2309.49,
+      "end": 2309.63,
+      "text": "You know,"
+    },
+    {
+      "start": 2309.71,
+      "end": 2310.65,
+      "text": "if you can't go get,"
+    },
+    {
+      "start": 2310.71,
+      "end": 2311.43,
+      "text": "um,"
+    },
+    {
+      "start": 2312.07,
+      "end": 2313.23,
+      "text": "10,000 views a day,"
+    },
+    {
+      "start": 2313.41,
+      "end": 2313.97,
+      "text": "well,"
+    },
+    {
+      "start": 2314.09,
+      "end": 2314.77,
+      "text": "you're going to probably"
+    },
+    {
+      "start": 2314.77,
+      "end": 2316.19,
+      "text": "end up spending 600 bucks"
+    },
+    {
+      "start": 2316.19,
+      "end": 2317.05,
+      "text": "to get those views"
+    },
+    {
+      "start": 2317.05,
+      "end": 2317.71,
+      "text": "through an ad,"
+    },
+    {
+      "start": 2317.93,
+      "end": 2318.29,
+      "text": "right?"
+    },
+    {
+      "start": 2318.47,
+      "end": 2318.71,
+      "text": "So,"
+    },
+    {
+      "start": 2318.83,
+      "end": 2319.97,
+      "text": "content is huge."
+    },
+    {
+      "start": 2320.29,
+      "end": 2321.53,
+      "text": "Partnerships is another one"
+    },
+    {
+      "start": 2321.53,
+      "end": 2322.53,
+      "text": "that is super easy,"
+    },
+    {
+      "start": 2322.65,
+      "end": 2323.49,
+      "text": "whether that's partnering"
+    },
+    {
+      "start": 2323.49,
+      "end": 2324.17,
+      "text": "with a brand,"
+    },
+    {
+      "start": 2324.35,
+      "end": 2324.77,
+      "text": "you know,"
+    },
+    {
+      "start": 2324.77,
+      "end": 2325.83,
+      "text": "on an affiliate basis,"
+    },
+    {
+      "start": 2326.09,
+      "end": 2326.83,
+      "text": "whether that's dropping"
+    },
+    {
+      "start": 2326.83,
+      "end": 2328.13,
+      "text": "a collaborative product,"
+    },
+    {
+      "start": 2328.31,
+      "end": 2329.07,
+      "text": "um,"
+    },
+    {
+      "start": 2330.13,
+      "end": 2330.83,
+      "text": "whether that's doing"
+    },
+    {
+      "start": 2330.83,
+      "end": 2331.67,
+      "text": "an event together,"
+    },
+    {
+      "start": 2331.81,
+      "end": 2332.43,
+      "text": "whatever it may be,"
+    },
+    {
+      "start": 2332.49,
+      "end": 2333.79,
+      "text": "but partnerships are also huge"
+    },
+    {
+      "start": 2333.79,
+      "end": 2334.85,
+      "text": "and easy to get"
+    },
+    {
+      "start": 2334.85,
+      "end": 2335.53,
+      "text": "brand awareness"
+    },
+    {
+      "start": 2335.53,
+      "end": 2336.41,
+      "text": "because you can leverage"
+    },
+    {
+      "start": 2336.41,
+      "end": 2337.19,
+      "text": "both sides."
+    },
+    {
+      "start": 2337.49,
+      "end": 2337.97,
+      "text": "Um,"
+    },
+    {
+      "start": 2338.37,
+      "end": 2339.19,
+      "text": "influencer marketing,"
+    },
+    {
+      "start": 2339.31,
+      "end": 2340.01,
+      "text": "product seeding,"
+    },
+    {
+      "start": 2340.11,
+      "end": 2340.75,
+      "text": "another easy way"
+    },
+    {
+      "start": 2340.75,
+      "end": 2341.69,
+      "text": "to get brand awareness,"
+    },
+    {
+      "start": 2341.87,
+      "end": 2342.61,
+      "text": "especially if you've got"
+    },
+    {
+      "start": 2342.61,
+      "end": 2343.45,
+      "text": "those relationships"
+    },
+    {
+      "start": 2343.45,
+      "end": 2344.45,
+      "text": "or if you know"
+    },
+    {
+      "start": 2344.45,
+      "end": 2345.59,
+      "text": "that you're selling"
+    },
+    {
+      "start": 2345.59,
+      "end": 2346.71,
+      "text": "a product that people want,"
+    },
+    {
+      "start": 2346.83,
+      "end": 2346.95,
+      "text": "you know,"
+    },
+    {
+      "start": 2347.07,
+      "end": 2347.81,
+      "text": "Jolie is probably"
+    },
+    {
+      "start": 2347.81,
+      "end": 2348.79,
+      "text": "the best example."
+    },
+    {
+      "start": 2349.01,
+      "end": 2350.07,
+      "text": "Jolie or Lemmy,"
+    },
+    {
+      "start": 2350.21,
+      "end": 2350.63,
+      "text": "those are two"
+    },
+    {
+      "start": 2350.63,
+      "end": 2351.71,
+      "text": "of my favorite examples."
+    },
+    {
+      "start": 2351.71,
+      "end": 2353.13,
+      "text": "Cadence Capsule is another one."
+    },
+    {
+      "start": 2353.53,
+      "end": 2353.89,
+      "text": "Um,"
+    },
+    {
+      "start": 2355.03,
+      "end": 2355.35,
+      "text": "of course,"
+    },
+    {
+      "start": 2355.39,
+      "end": 2356.35,
+      "text": "I'm biased to all three,"
+    },
+    {
+      "start": 2356.51,
+      "end": 2356.73,
+      "text": "but,"
+    },
+    {
+      "start": 2356.73,
+      "end": 2357.27,
+      "text": "uh,"
+    },
+    {
+      "start": 2357.33,
+      "end": 2358.57,
+      "text": "all three are great examples."
+    },
+    {
+      "start": 2359.19,
+      "end": 2359.55,
+      "text": "Um,"
+    },
+    {
+      "start": 2360.03,
+      "end": 2360.31,
+      "text": "and,"
+    },
+    {
+      "start": 2360.39,
+      "end": 2361.29,
+      "text": "and then you just got"
+    },
+    {
+      "start": 2361.29,
+      "end": 2361.79,
+      "text": "to figure out,"
+    },
+    {
+      "start": 2361.89,
+      "end": 2362.01,
+      "text": "you know,"
+    },
+    {
+      "start": 2362.11,
+      "end": 2362.35,
+      "text": "if you,"
+    },
+    {
+      "start": 2362.51,
+      "end": 2362.67,
+      "text": "if,"
+    },
+    {
+      "start": 2362.77,
+      "end": 2363.33,
+      "text": "if you feel like"
+    },
+    {
+      "start": 2363.33,
+      "end": 2364.27,
+      "text": "you still can't do that,"
+    },
+    {
+      "start": 2364.41,
+      "end": 2364.55,
+      "text": "then,"
+    },
+    {
+      "start": 2364.67,
+      "end": 2365.11,
+      "text": "you know,"
+    },
+    {
+      "start": 2365.25,
+      "end": 2367.05,
+      "text": "my kind of like fail safe"
+    },
+    {
+      "start": 2367.05,
+      "end": 2367.31,
+      "text": "is,"
+    },
+    {
+      "start": 2367.41,
+      "end": 2367.55,
+      "text": "well,"
+    },
+    {
+      "start": 2367.73,
+      "end": 2367.97,
+      "text": "what's,"
+    },
+    {
+      "start": 2368.09,
+      "end": 2368.91,
+      "text": "what can I put out"
+    },
+    {
+      "start": 2368.91,
+      "end": 2369.45,
+      "text": "that's going to get"
+    },
+    {
+      "start": 2369.45,
+      "end": 2370.57,
+      "text": "thrown into a group chat?"
+    },
+    {
+      "start": 2370.71,
+      "end": 2371.55,
+      "text": "What can I put out"
+    },
+    {
+      "start": 2371.55,
+      "end": 2372.13,
+      "text": "from the brand,"
+    },
+    {
+      "start": 2372.31,
+      "end": 2373.05,
+      "text": "whether it's on Instagram,"
+    },
+    {
+      "start": 2373.37,
+      "end": 2374.05,
+      "text": "whether it's on,"
+    },
+    {
+      "start": 2374.17,
+      "end": 2374.65,
+      "text": "uh,"
+    },
+    {
+      "start": 2374.83,
+      "end": 2375.73,
+      "text": "any social channel,"
+    },
+    {
+      "start": 2375.91,
+      "end": 2376.71,
+      "text": "whether it's on the blog,"
+    },
+    {
+      "start": 2376.91,
+      "end": 2377.77,
+      "text": "whether it's through an email,"
+    },
+    {
+      "start": 2377.97,
+      "end": 2378.97,
+      "text": "what can I put out"
+    },
+    {
+      "start": 2378.97,
+      "end": 2379.51,
+      "text": "that's going to get"
+    },
+    {
+      "start": 2379.51,
+      "end": 2380.11,
+      "text": "screenshotted"
+    },
+    {
+      "start": 2381.83,
+      "end": 2382.27,
+      "text": "um,"
+    },
+    {
+      "start": 2382.97,
+      "end": 2384.17,
+      "text": "that's called dark social"
+    },
+    {
+      "start": 2384.17,
+      "end": 2385.57,
+      "text": "because that's a social sharing"
+    },
+    {
+      "start": 2385.57,
+      "end": 2386.85,
+      "text": "you can't necessarily track."
+    },
+    {
+      "start": 2387.23,
+      "end": 2387.67,
+      "text": "But,"
+    },
+    {
+      "start": 2387.95,
+      "end": 2388.15,
+      "text": "um,"
+    },
+    {
+      "start": 2388.41,
+      "end": 2388.69,
+      "text": "you know,"
+    },
+    {
+      "start": 2388.95,
+      "end": 2389.31,
+      "text": "that is,"
+    },
+    {
+      "start": 2389.45,
+      "end": 2390.51,
+      "text": "those are the best ways"
+    },
+    {
+      "start": 2390.51,
+      "end": 2391.35,
+      "text": "to get brand awareness."
+    },
+    {
+      "start": 2391.87,
+      "end": 2392.07,
+      "text": "Um,"
+    },
+    {
+      "start": 2392.49,
+      "end": 2393.95,
+      "text": "there's no sort of magic bullet."
+    },
+    {
+      "start": 2394.13,
+      "end": 2395.41,
+      "text": "The real answer is content."
+    },
+    {
+      "start": 2395.79,
+      "end": 2396.23,
+      "text": "And,"
+    },
+    {
+      "start": 2396.23,
+      "end": 2396.45,
+      "text": "uh,"
+    },
+    {
+      "start": 2396.61,
+      "end": 2397.67,
+      "text": "if you can't do content,"
+    },
+    {
+      "start": 2397.95,
+      "end": 2398.79,
+      "text": "then you're sort of always"
+    },
+    {
+      "start": 2398.79,
+      "end": 2399.41,
+      "text": "going to be searching"
+    },
+    {
+      "start": 2399.41,
+      "end": 2400.45,
+      "text": "for this magic bullet"
+    },
+    {
+      "start": 2400.45,
+      "end": 2401.31,
+      "text": "of brand awareness."
+    },
+    {
+      "start": 2401.47,
+      "end": 2402.15,
+      "text": "I'll tell you,"
+    },
+    {
+      "start": 2402.33,
+      "end": 2403.17,
+      "text": "jumping on channels"
+    },
+    {
+      "start": 2403.17,
+      "end": 2403.85,
+      "text": "that are considered"
+    },
+    {
+      "start": 2403.85,
+      "end": 2404.53,
+      "text": "top of funnel,"
+    },
+    {
+      "start": 2404.99,
+      "end": 2405.35,
+      "text": "TV,"
+    },
+    {
+      "start": 2405.77,
+      "end": 2406.45,
+      "text": "app loving,"
+    },
+    {
+      "start": 2406.67,
+      "end": 2407.35,
+      "text": "whatever it may be,"
+    },
+    {
+      "start": 2407.55,
+      "end": 2408.29,
+      "text": "those are not going to make"
+    },
+    {
+      "start": 2408.29,
+      "end": 2408.97,
+      "text": "this thing work"
+    },
+    {
+      "start": 2408.97,
+      "end": 2409.91,
+      "text": "magically overnight."
+    },
+    {
+      "start": 2410.05,
+      "end": 2411.17,
+      "text": "Those will actually work"
+    },
+    {
+      "start": 2411.17,
+      "end": 2412.27,
+      "text": "a lot more effectively"
+    },
+    {
+      "start": 2412.27,
+      "end": 2413.25,
+      "text": "if you have a good"
+    },
+    {
+      "start": 2413.25,
+      "end": 2414.37,
+      "text": "content engine going."
+    },
+    {
+      "start": 2414.71,
+      "end": 2415.17,
+      "text": "But,"
+    },
+    {
+      "start": 2415.17,
+      "end": 2415.51,
+      "text": "uh,"
+    },
+    {
+      "start": 2415.63,
+      "end": 2416.65,
+      "text": "there is no magic bullet"
+    },
+    {
+      "start": 2416.65,
+      "end": 2417.51,
+      "text": "for brand awareness."
+    },
+    {
+      "start": 2417.51,
+      "end": 2418.45,
+      "text": "It's a combination"
+    },
+    {
+      "start": 2418.45,
+      "end": 2419.87,
+      "text": "of doing,"
+    },
+    {
+      "start": 2420.19,
+      "end": 2420.45,
+      "text": "um,"
+    },
+    {
+      "start": 2421.41,
+      "end": 2421.99,
+      "text": "doing the right thing"
+    },
+    {
+      "start": 2421.99,
+      "end": 2422.57,
+      "text": "as a brand,"
+    },
+    {
+      "start": 2422.89,
+      "end": 2423.35,
+      "text": "you know,"
+    },
+    {
+      "start": 2424.07,
+      "end": 2424.89,
+      "text": "building trust,"
+    },
+    {
+      "start": 2425.19,
+      "end": 2426.25,
+      "text": "putting out good content,"
+    },
+    {
+      "start": 2426.77,
+      "end": 2427.91,
+      "text": "delivering on your promise,"
+    },
+    {
+      "start": 2428.47,
+      "end": 2428.99,
+      "text": "and,"
+    },
+    {
+      "start": 2429.17,
+      "end": 2429.33,
+      "text": "you know,"
+    },
+    {
+      "start": 2429.39,
+      "end": 2430.17,
+      "text": "essentially your customer"
+    },
+    {
+      "start": 2430.17,
+      "end": 2431.13,
+      "text": "is just being happy"
+    },
+    {
+      "start": 2431.13,
+      "end": 2432.25,
+      "text": "with the product"
+    },
+    {
+      "start": 2432.25,
+      "end": 2433.61,
+      "text": "or what they bought into."
+    },
+    {
+      "start": 2434.75,
+      "end": 2435.01,
+      "text": "Um,"
+    },
+    {
+      "start": 2435.29,
+      "end": 2436.21,
+      "text": "last question for today"
+    },
+    {
+      "start": 2436.21,
+      "end": 2437.25,
+      "text": "comes from Wes,"
+    },
+    {
+      "start": 2437.51,
+      "end": 2437.93,
+      "text": "uh,"
+    },
+    {
+      "start": 2438.39,
+      "end": 2439.41,
+      "text": "which is quite deep"
+    },
+    {
+      "start": 2439.41,
+      "end": 2440.11,
+      "text": "and actually is something"
+    },
+    {
+      "start": 2440.11,
+      "end": 2441.09,
+      "text": "I was thinking last night"
+    },
+    {
+      "start": 2441.09,
+      "end": 2442.69,
+      "text": "specifically around copywriting"
+    },
+    {
+      "start": 2442.69,
+      "end": 2443.85,
+      "text": "that I want to go deeper on."
+    },
+    {
+      "start": 2443.97,
+      "end": 2445.13,
+      "text": "So maybe a full episode here,"
+    },
+    {
+      "start": 2445.29,
+      "end": 2446.51,
+      "text": "but what are actionable"
+    },
+    {
+      "start": 2446.51,
+      "end": 2448.27,
+      "text": "CRO and copywriting tactics"
+    },
+    {
+      "start": 2448.27,
+      "end": 2449.81,
+      "text": "to improve customer conversion"
+    },
+    {
+      "start": 2449.81,
+      "end": 2450.49,
+      "text": "and retention?"
+    },
+    {
+      "start": 2450.49,
+      "end": 2452.85,
+      "text": "If you go to a past episode"
+    },
+    {
+      "start": 2452.85,
+      "end": 2453.71,
+      "text": "of Limited Supply,"
+    },
+    {
+      "start": 2453.85,
+      "end": 2454.89,
+      "text": "I believe it was this season"
+    },
+    {
+      "start": 2454.89,
+      "end": 2455.73,
+      "text": "or last season,"
+    },
+    {
+      "start": 2455.87,
+      "end": 2459.07,
+      "text": "I had 40 or so CRO tips"
+    },
+    {
+      "start": 2459.07,
+      "end": 2460.03,
+      "text": "that you can literally"
+    },
+    {
+      "start": 2460.03,
+      "end": 2460.85,
+      "text": "just listen to,"
+    },
+    {
+      "start": 2461.05,
+      "end": 2461.57,
+      "text": "write them down,"
+    },
+    {
+      "start": 2461.73,
+      "end": 2462.87,
+      "text": "and action it on your site."
+    },
+    {
+      "start": 2463.37,
+      "end": 2463.51,
+      "text": "Um,"
+    },
+    {
+      "start": 2463.71,
+      "end": 2464.43,
+      "text": "all of them,"
+    },
+    {
+      "start": 2464.59,
+      "end": 2465.35,
+      "text": "or most of them,"
+    },
+    {
+      "start": 2465.35,
+      "end": 2466.11,
+      "text": "don't even require"
+    },
+    {
+      "start": 2466.11,
+      "end": 2467.09,
+      "text": "a lot of dev changes."
+    },
+    {
+      "start": 2467.09,
+      "end": 2468.51,
+      "text": "They're all fairly straightforward"
+    },
+    {
+      "start": 2468.51,
+      "end": 2469.87,
+      "text": "around copy and UX."
+    },
+    {
+      "start": 2470.49,
+      "end": 2470.89,
+      "text": "But,"
+    },
+    {
+      "start": 2471.15,
+      "end": 2471.17,
+      "text": "um,"
+    },
+    {
+      "start": 2471.41,
+      "end": 2471.59,
+      "text": "you know,"
+    },
+    {
+      "start": 2471.63,
+      "end": 2472.13,
+      "text": "high level,"
+    },
+    {
+      "start": 2472.25,
+      "end": 2473.21,
+      "text": "I would say you want to speak"
+    },
+    {
+      "start": 2473.21,
+      "end": 2473.75,
+      "text": "to benefits,"
+    },
+    {
+      "start": 2473.89,
+      "end": 2474.53,
+      "text": "not value props."
+    },
+    {
+      "start": 2474.65,
+      "end": 2475.31,
+      "text": "A lot of people speak"
+    },
+    {
+      "start": 2475.31,
+      "end": 2476.01,
+      "text": "to value props."
+    },
+    {
+      "start": 2476.13,
+      "end": 2476.73,
+      "text": "It's an easy,"
+    },
+    {
+      "start": 2476.93,
+      "end": 2478.05,
+      "text": "that goes back to,"
+    },
+    {
+      "start": 2478.27,
+      "end": 2479.47,
+      "text": "I believe it was Sophia's question"
+    },
+    {
+      "start": 2479.47,
+      "end": 2480.73,
+      "text": "around common mistakes."
+    },
+    {
+      "start": 2481.17,
+      "end": 2482.93,
+      "text": "Most sites focus on value props."
+    },
+    {
+      "start": 2483.05,
+      "end": 2483.97,
+      "text": "They don't focus on benefits."
+    },
+    {
+      "start": 2484.17,
+      "end": 2484.31,
+      "text": "You know,"
+    },
+    {
+      "start": 2484.45,
+      "end": 2485.33,
+      "text": "I don't care that,"
+    },
+    {
+      "start": 2485.33,
+      "end": 2485.65,
+      "text": "uh,"
+    },
+    {
+      "start": 2486.15,
+      "end": 2488.19,
+      "text": "Hint Water has no preservatives."
+    },
+    {
+      "start": 2488.35,
+      "end": 2490.11,
+      "text": "I care that it's water"
+    },
+    {
+      "start": 2490.11,
+      "end": 2490.71,
+      "text": "that's going to kick"
+    },
+    {
+      "start": 2490.71,
+      "end": 2491.75,
+      "text": "my Diet Coke habit,"
+    },
+    {
+      "start": 2491.95,
+      "end": 2492.13,
+      "text": "right?"
+    },
+    {
+      "start": 2492.27,
+      "end": 2493.63,
+      "text": "I don't care that,"
+    },
+    {
+      "start": 2493.89,
+      "end": 2494.15,
+      "text": "um,"
+    },
+    {
+      "start": 2494.71,
+      "end": 2496.61,
+      "text": "my rice cakes have,"
+    },
+    {
+      "start": 2496.61,
+      "end": 2496.95,
+      "text": "uh,"
+    },
+    {
+      "start": 2497.03,
+      "end": 2497.69,
+      "text": "low calories."
+    },
+    {
+      "start": 2497.93,
+      "end": 2498.83,
+      "text": "I care that it makes"
+    },
+    {
+      "start": 2498.83,
+      "end": 2500.29,
+      "text": "for a great afterstool snack"
+    },
+    {
+      "start": 2500.29,
+      "end": 2501.03,
+      "text": "for my kids."
+    },
+    {
+      "start": 2501.21,
+      "end": 2502.65,
+      "text": "So focus on benefits"
+    },
+    {
+      "start": 2502.65,
+      "end": 2503.75,
+      "text": "versus just value props."
+    },
+    {
+      "start": 2503.91,
+      "end": 2504.13,
+      "text": "Obviously,"
+    },
+    {
+      "start": 2504.25,
+      "end": 2505.23,
+      "text": "value props are supporting"
+    },
+    {
+      "start": 2505.23,
+      "end": 2506.11,
+      "text": "and you want to have them"
+    },
+    {
+      "start": 2506.11,
+      "end": 2506.73,
+      "text": "on the,"
+    },
+    {
+      "start": 2506.75,
+      "end": 2507.39,
+      "text": "on the site."
+    },
+    {
+      "start": 2507.55,
+      "end": 2508.83,
+      "text": "But from a higher level,"
+    },
+    {
+      "start": 2508.83,
+      "end": 2509.87,
+      "text": "you need to draw people"
+    },
+    {
+      "start": 2509.87,
+      "end": 2510.59,
+      "text": "in with benefits"
+    },
+    {
+      "start": 2510.59,
+      "end": 2511.73,
+      "text": "that they can relate to"
+    },
+    {
+      "start": 2511.73,
+      "end": 2512.61,
+      "text": "as a consumer."
+    },
+    {
+      "start": 2513.47,
+      "end": 2514.11,
+      "text": "Next one,"
+    },
+    {
+      "start": 2514.35,
+      "end": 2515.29,
+      "text": "focus on optimizing"
+    },
+    {
+      "start": 2515.29,
+      "end": 2515.89,
+      "text": "the experience"
+    },
+    {
+      "start": 2515.89,
+      "end": 2517.09,
+      "text": "for somebody who's using"
+    },
+    {
+      "start": 2517.09,
+      "end": 2519.45,
+      "text": "a phone with slow service."
+    },
+    {
+      "start": 2519.69,
+      "end": 2519.83,
+      "text": "So,"
+    },
+    {
+      "start": 2520.19,
+      "end": 2520.35,
+      "text": "you know,"
+    },
+    {
+      "start": 2520.41,
+      "end": 2520.83,
+      "text": "I always think,"
+    },
+    {
+      "start": 2520.97,
+      "end": 2521.55,
+      "text": "this is what I call"
+    },
+    {
+      "start": 2521.55,
+      "end": 2522.35,
+      "text": "the grandma test,"
+    },
+    {
+      "start": 2522.43,
+      "end": 2522.61,
+      "text": "right?"
+    },
+    {
+      "start": 2522.81,
+      "end": 2523.99,
+      "text": "Your grandma pulls up"
+    },
+    {
+      "start": 2523.99,
+      "end": 2524.57,
+      "text": "your phone"
+    },
+    {
+      "start": 2524.57,
+      "end": 2525.67,
+      "text": "or pulls up your site"
+    },
+    {
+      "start": 2525.67,
+      "end": 2526.43,
+      "text": "on her phone."
+    },
+    {
+      "start": 2526.61,
+      "end": 2526.73,
+      "text": "You know,"
+    },
+    {
+      "start": 2526.81,
+      "end": 2527.67,
+      "text": "things are bolded"
+    },
+    {
+      "start": 2527.67,
+      "end": 2528.29,
+      "text": "on the text."
+    },
+    {
+      "start": 2528.45,
+      "end": 2529.25,
+      "text": "They're zoomed in."
+    },
+    {
+      "start": 2529.45,
+      "end": 2529.75,
+      "text": "You know,"
+    },
+    {
+      "start": 2529.79,
+      "end": 2531.27,
+      "text": "how does that site experience look?"
+    },
+    {
+      "start": 2531.43,
+      "end": 2532.31,
+      "text": "Is it still fast?"
+    },
+    {
+      "start": 2532.41,
+      "end": 2533.01,
+      "text": "Is it easy?"
+    },
+    {
+      "start": 2533.45,
+      "end": 2533.69,
+      "text": "Uh,"
+    },
+    {
+      "start": 2533.89,
+      "end": 2534.77,
+      "text": "can she load a page"
+    },
+    {
+      "start": 2534.77,
+      "end": 2535.79,
+      "text": "without getting frustrated?"
+    },
+    {
+      "start": 2535.79,
+      "end": 2536.75,
+      "text": "Is it easy for her"
+    },
+    {
+      "start": 2536.75,
+      "end": 2537.57,
+      "text": "to go through the site"
+    },
+    {
+      "start": 2537.57,
+      "end": 2538.17,
+      "text": "and understand"
+    },
+    {
+      "start": 2538.17,
+      "end": 2539.11,
+      "text": "what she's buying?"
+    },
+    {
+      "start": 2539.39,
+      "end": 2539.87,
+      "text": "Um,"
+    },
+    {
+      "start": 2540.13,
+      "end": 2540.63,
+      "text": "if not,"
+    },
+    {
+      "start": 2540.75,
+      "end": 2541.79,
+      "text": "that's generally a function"
+    },
+    {
+      "start": 2541.79,
+      "end": 2543.43,
+      "text": "of UX and copywriting."
+    },
+    {
+      "start": 2543.97,
+      "end": 2545.15,
+      "text": "And then the last one"
+    },
+    {
+      "start": 2545.15,
+      "end": 2546.85,
+      "text": "is to basically copyright"
+    },
+    {
+      "start": 2546.85,
+      "end": 2547.83,
+      "text": "with UX in mind."
+    },
+    {
+      "start": 2547.95,
+      "end": 2548.01,
+      "text": "So,"
+    },
+    {
+      "start": 2548.11,
+      "end": 2548.79,
+      "text": "think about where"
+    },
+    {
+      "start": 2548.79,
+      "end": 2550.27,
+      "text": "somebody's focus goes first."
+    },
+    {
+      "start": 2550.27,
+      "end": 2551.49,
+      "text": "If it's the headline"
+    },
+    {
+      "start": 2551.49,
+      "end": 2552.55,
+      "text": "and then the CTA"
+    },
+    {
+      "start": 2552.55,
+      "end": 2553.53,
+      "text": "and then the description"
+    },
+    {
+      "start": 2553.53,
+      "end": 2554.09,
+      "text": "in the middle,"
+    },
+    {
+      "start": 2554.57,
+      "end": 2554.71,
+      "text": "you know,"
+    },
+    {
+      "start": 2554.79,
+      "end": 2555.43,
+      "text": "make sure that those"
+    },
+    {
+      "start": 2555.43,
+      "end": 2556.27,
+      "text": "play with each other"
+    },
+    {
+      "start": 2556.27,
+      "end": 2556.95,
+      "text": "in the right way."
+    },
+    {
+      "start": 2557.51,
+      "end": 2557.83,
+      "text": "Um,"
+    },
+    {
+      "start": 2558.27,
+      "end": 2559.43,
+      "text": "but you need to always"
+    },
+    {
+      "start": 2559.43,
+      "end": 2560.33,
+      "text": "basically put yourselves"
+    },
+    {
+      "start": 2560.33,
+      "end": 2562.33,
+      "text": "in your consumer's shoes."
+    },
+    {
+      "start": 2562.33,
+      "end": 2563.01,
+      "text": "You can actually,"
+    },
+    {
+      "start": 2565.79,
+      "end": 2566.43,
+      "text": "device type,"
+    },
+    {
+      "start": 2566.85,
+      "end": 2566.95,
+      "text": "you know,"
+    },
+    {
+      "start": 2567.05,
+      "end": 2567.53,
+      "text": "what traffic,"
+    },
+    {
+      "start": 2567.71,
+      "end": 2569.05,
+      "text": "what devices drive"
+    },
+    {
+      "start": 2569.05,
+      "end": 2569.85,
+      "text": "the highest number"
+    },
+    {
+      "start": 2569.85,
+      "end": 2570.51,
+      "text": "of conversions"
+    },
+    {
+      "start": 2570.51,
+      "end": 2571.67,
+      "text": "and then do everything"
+    },
+    {
+      "start": 2571.67,
+      "end": 2572.15,
+      "text": "for that."
+    },
+    {
+      "start": 2572.35,
+      "end": 2573.13,
+      "text": "Don't just build"
+    },
+    {
+      "start": 2573.13,
+      "end": 2573.67,
+      "text": "your website"
+    },
+    {
+      "start": 2573.67,
+      "end": 2574.87,
+      "text": "for desktop and Figma,"
+    },
+    {
+      "start": 2575.13,
+      "end": 2575.57,
+      "text": "you know,"
+    },
+    {
+      "start": 2575.73,
+      "end": 2576.43,
+      "text": "build your website"
+    },
+    {
+      "start": 2576.43,
+      "end": 2577.05,
+      "text": "for mobile"
+    },
+    {
+      "start": 2577.05,
+      "end": 2578.15,
+      "text": "and then apply it"
+    },
+    {
+      "start": 2578.15,
+      "end": 2578.67,
+      "text": "for desktop"
+    },
+    {
+      "start": 2578.67,
+      "end": 2579.83,
+      "text": "or build it for mobile"
+    },
+    {
+      "start": 2579.83,
+      "end": 2580.55,
+      "text": "and then build it"
+    },
+    {
+      "start": 2580.55,
+      "end": 2581.01,
+      "text": "for desktop,"
+    },
+    {
+      "start": 2581.01,
+      "end": 2582.93,
+      "text": "which is the optimal"
+    },
+    {
+      "start": 2582.93,
+      "end": 2583.55,
+      "text": "way to do it."
+    },
+    {
+      "start": 2583.65,
+      "end": 2583.71,
+      "text": "So,"
+    },
+    {
+      "start": 2583.81,
+      "end": 2584.27,
+      "text": "you've got,"
+    },
+    {
+      "start": 2584.27,
+      "end": 2584.61,
+      "text": "uh,"
+    },
+    {
+      "start": 2584.87,
+      "end": 2585.13,
+      "text": "two,"
+    },
+    {
+      "start": 2585.53,
+      "end": 2585.63,
+      "text": "you know,"
+    },
+    {
+      "start": 2585.75,
+      "end": 2586.61,
+      "text": "basically a site"
+    },
+    {
+      "start": 2586.61,
+      "end": 2587.53,
+      "text": "that works for everything."
+    },
+    {
+      "start": 2588.13,
+      "end": 2588.57,
+      "text": "Um,"
+    },
+    {
+      "start": 2588.91,
+      "end": 2589.09,
+      "text": "okay,"
+    },
+    {
+      "start": 2589.27,
+      "end": 2590.15,
+      "text": "well that wraps up"
+    },
+    {
+      "start": 2590.15,
+      "end": 2591.57,
+      "text": "our episode for today."
+    },
+    {
+      "start": 2591.77,
+      "end": 2592.31,
+      "text": "Let me know"
+    },
+    {
+      "start": 2592.31,
+      "end": 2592.73,
+      "text": "what you thought"
+    },
+    {
+      "start": 2592.73,
+      "end": 2593.67,
+      "text": "of the audio quality."
+    },
+    {
+      "start": 2593.83,
+      "end": 2594.09,
+      "text": "Let me know"
+    },
+    {
+      "start": 2594.09,
+      "end": 2594.51,
+      "text": "what you thought"
+    },
+    {
+      "start": 2594.51,
+      "end": 2595.23,
+      "text": "of this background"
+    },
+    {
+      "start": 2595.23,
+      "end": 2595.93,
+      "text": "and the setup."
+    },
+    {
+      "start": 2596.27,
+      "end": 2596.91,
+      "text": "I'm excited"
+    },
+    {
+      "start": 2596.91,
+      "end": 2597.37,
+      "text": "to get more"
+    },
+    {
+      "start": 2597.37,
+      "end": 2597.83,
+      "text": "out of here."
+    },
+    {
+      "start": 2598.37,
+      "end": 2598.77,
+      "text": "Um,"
+    },
+    {
+      "start": 2598.93,
+      "end": 2599.59,
+      "text": "I hope you have"
+    },
+    {
+      "start": 2599.59,
+      "end": 2600.59,
+      "text": "an amazing holidays"
+    },
+    {
+      "start": 2600.59,
+      "end": 2601.85,
+      "text": "with your family."
+    },
+    {
+      "start": 2602.11,
+      "end": 2602.53,
+      "text": "Hopefully you're"
+    },
+    {
+      "start": 2602.53,
+      "end": 2603.13,
+      "text": "spending some time"
+    },
+    {
+      "start": 2603.13,
+      "end": 2603.79,
+      "text": "with your family."
+    },
+    {
+      "start": 2603.91,
+      "end": 2604.25,
+      "text": "Hopefully you're"
+    },
+    {
+      "start": 2604.25,
+      "end": 2604.73,
+      "text": "taking a couple"
+    },
+    {
+      "start": 2604.73,
+      "end": 2605.35,
+      "text": "days off."
+    },
+    {
+      "start": 2605.73,
+      "end": 2606.13,
+      "text": "Uh,"
+    },
+    {
+      "start": 2606.39,
+      "end": 2607.03,
+      "text": "for those of you"
+    },
+    {
+      "start": 2607.03,
+      "end": 2608.53,
+      "text": "who are media buying"
+    },
+    {
+      "start": 2608.53,
+      "end": 2609.31,
+      "text": "my,"
+    },
+    {
+      "start": 2609.45,
+      "end": 2609.59,
+      "text": "uh,"
+    },
+    {
+      "start": 2609.99,
+      "end": 2611.09,
+      "text": "my heart's with you."
+    },
+    {
+      "start": 2611.25,
+      "end": 2611.85,
+      "text": "I will be"
+    },
+    {
+      "start": 2611.85,
+      "end": 2612.91,
+      "text": "in ads manager"
+    },
+    {
+      "start": 2612.91,
+      "end": 2613.75,
+      "text": "as well,"
+    },
+    {
+      "start": 2613.95,
+      "end": 2615.03,
+      "text": "looking at numbers,"
+    },
+    {
+      "start": 2615.35,
+      "end": 2616.27,
+      "text": "making optimizations."
+    },
+    {
+      "start": 2616.99,
+      "end": 2617.39,
+      "text": "Um,"
+    },
+    {
+      "start": 2617.91,
+      "end": 2618.71,
+      "text": "and yeah,"
+    },
+    {
+      "start": 2618.89,
+      "end": 2619.43,
+      "text": "I'll see you"
+    },
+    {
+      "start": 2619.43,
+      "end": 2620.09,
+      "text": "on the other side."
+    },
+    {
+      "start": 2622.25,
+      "end": 2623.09,
+      "text": "Thanks for listening."
+    },
+    {
+      "start": 2623.29,
+      "end": 2624.19,
+      "text": "We'll be back next time"
+    },
+    {
+      "start": 2624.19,
+      "end": 2625.01,
+      "text": "to cut through the noise"
+    },
+    {
+      "start": 2625.01,
+      "end": 2626.13,
+      "text": "on CPG retail"
+    },
+    {
+      "start": 2626.13,
+      "end": 2626.81,
+      "text": "and e-commerce."
+    },
+    {
+      "start": 2627.07,
+      "end": 2627.77,
+      "text": "If you enjoyed"
+    },
+    {
+      "start": 2627.77,
+      "end": 2628.39,
+      "text": "this episode,"
+    },
+    {
+      "start": 2628.67,
+      "end": 2629.41,
+      "text": "why not share it"
+    },
+    {
+      "start": 2629.41,
+      "end": 2629.83,
+      "text": "with a friend"
+    },
+    {
+      "start": 2629.83,
+      "end": 2631.21,
+      "text": "and be sure to subscribe"
+    },
+    {
+      "start": 2631.21,
+      "end": 2632.01,
+      "text": "wherever you listen"
+    },
+    {
+      "start": 2632.01,
+      "end": 2632.53,
+      "text": "so you don't miss"
+    },
+    {
+      "start": 2632.53,
+      "end": 2633.03,
+      "text": "the next one."
+    },
+    {
+      "start": 2633.25,
+      "end": 2633.55,
+      "text": "Bye."
+    }
+  ]
+}

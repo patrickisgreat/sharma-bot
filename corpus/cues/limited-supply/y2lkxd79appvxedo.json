@@ -1,0 +1,2754 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 29.24,
+      "text": "One of the things Imaginary Prides itself on is really like our network and our relationships. And we're always having that conversation, right? Like, what are you looking for? You know, over the next 10 years, like, what are you looking to buy? Where do you want to deploy capital? Because there are great businesses, and maybe you'll like dividend out like your profits, and there's an opportunity there. But the excitement comes from when there's like a ton of strategic appetite in a certain category. And like, there are a lot of categories that are going to do a lot of revenue."
+    },
+    {
+      "start": 29.24,
+      "end": 34.66,
+      "text": "But like, there's not a huge buyer landscape for them. And I think that also informs where you invest."
+    },
+    {
+      "start": 37.2,
+      "end": 45.98,
+      "text": "Welcome to Limited Supply, the place for refreshingly real takes on what D2C is really like. I'm your host, Nik Sharma. Let's start talking about money."
+    },
+    {
+      "start": 47.38,
+      "end": 59.06,
+      "text": "I'm so excited to take a second and talk about this season sponsor, Motion. If you don't already use it, Motion is a SaaS tool that launched three years ago. I even invested in the company pre-launch just based on how they were thinking about creative analytics."
+    },
+    {
+      "start": 59.06,
+      "end": 71.66,
+      "text": "Today, Motion's a no-brainer tool to use in your marketing stack. Yes, it's creative analytics. Yes, it lets you track your competitors' ads. Yes, it has the most beautiful UX and UI to report your ad performance."
+    },
+    {
+      "start": 71.68,
+      "end": 78.48,
+      "text": "But let me tell you how people at Sharma Brands describe Motion. So I asked my team in Slack, why do you like Motion? And here were the answers."
+    },
+    {
+      "start": 103.28,
+      "end": 105.12,
+      "text": "The first reply says,"
+    },
+    {
+      "start": 113.06,
+      "end": 124.2,
+      "text": "As you can tell, we can't live without Motion at Sharma Brands. And once you see a demo, I bet you won't be able to either. Visit motionapp.com to get 50% off your first month when you mention limited supply to their sales team."
+    },
+    {
+      "start": 130.92,
+      "end": 153.16,
+      "text": "All right, everybody. Welcome back to limited supply. This is season 10. We're in our holiday season here. So hopefully you're gearing up for Black Friday sales. I see a lot of sales have already started. A lot of sales are humming, cranking from what I see on Meta and Shopify's backend."
+    },
+    {
+      "start": 153.16,
+      "end": 164.72,
+      "text": "So I hope that you're one of them and you're getting that bag. Today's episode is going to be slightly different than normal. I feel like normally, especially in the last couple of seasons, we've gotten so deep on the tactics side."
+    },
+    {
+      "start": 165.98,
+      "end": 181.08,
+      "text": "But today's is going to be sort of kind of an interview, a little bit more informative. I figured you're probably deep in the trenches right now. So I wanted to have something that you can more passively listen to, maybe take a couple nuggets from, especially around fundraising or whether or not you're the right fit."
+    },
+    {
+      "start": 183.16,
+      "end": 197.34,
+      "text": "With Kelly Dill. She's a partner at Imaginary Ventures. If you're not familiar with Imaginary, they're not too old. They started in 2017 with a $75 million debut fund and then quickly went to multi-hundred million dollar funds."
+    },
+    {
+      "start": 199.52,
+      "end": 218.56,
+      "text": "They're a partner of ours at Sharma Brands. We do a lot of work with them, either with their companies or with them directly. And so I'm very excited to have Kelly on. She's just a wealth of knowledge, especially around consumer, around venture, even just how she thinks about what's investable and what's not. So check it out. Let me know what you think and excited to get your thoughts."
+    },
+    {
+      "start": 220.82,
+      "end": 232.1,
+      "text": "Kelly, thank you for being here. Excited to have you on. Yeah, I feel like. Well, actually, first, why don't you tell us who you are very quickly, because that'll set the stage and then explain why I'm so excited that you're here."
+    },
+    {
+      "start": 232.1,
+      "end": 242.98,
+      "text": "Well, thank you. I'm so excited to be here. Very cool space. So very on brand for you. I'm Kelly. I am an investor at Imaginary Ventures."
+    },
+    {
+      "start": 242.98,
+      "end": 266.38,
+      "text": "We're a consumer-focused fund investing in all things consumer. So that could be brand, product, platform, consumer enablement business. So anything consumer, consumer adjacent and relatively stage agnostic, doing everything from ideation, which you know a lot about, all the way through growth stage investment."
+    },
+    {
+      "start": 266.38,
+      "end": 274.46,
+      "text": "So really think of ourselves as long-term capital partners and people who can be flexible across stage."
+    },
+    {
+      "start": 274.72,
+      "end": 279.94,
+      "text": "And how do you define growth stage investment? Is that like $100 million? Is that $10 million?"
+    },
+    {
+      "start": 280.46,
+      "end": 282.28,
+      "text": "No, I think it's, you know, I-"
+    },
+    {
+      "start": 282.28,
+      "end": 284.18,
+      "text": "Or is it more so about the stage of the company?"
+    },
+    {
+      "start": 284.4,
+      "end": 294.58,
+      "text": "Yeah, I think it can be, you know, I think we like to think of ourselves as flexible. So, you know, there's always opportunity for an SPV or an opportunistic investment."
+    },
+    {
+      "start": 294.58,
+      "end": 298.56,
+      "text": "But I think, you know, something $10 to $40 million is certainly within our wheelhouse."
+    },
+    {
+      "start": 298.82,
+      "end": 301.42,
+      "text": "Yeah. And then you mentioned ideation."
+    },
+    {
+      "start": 302.12,
+      "end": 302.58,
+      "text": "Yes."
+    },
+    {
+      "start": 302.62,
+      "end": 303.76,
+      "text": "Let's talk about ideation."
+    },
+    {
+      "start": 303.96,
+      "end": 304.8,
+      "text": "I love ideation."
+    },
+    {
+      "start": 304.8,
+      "end": 306.38,
+      "text": "I feel like most venture firms don't do ideation."
+    },
+    {
+      "start": 306.6,
+      "end": 308.84,
+      "text": "They start with the pre-seed or maybe the seed."
+    },
+    {
+      "start": 309.06,
+      "end": 318.62,
+      "text": "And we'll do ideas on paper too. And so, yeah, I think, you know, I call it ideation or new business development. I hesitate to call it incubation."
+    },
+    {
+      "start": 319.26,
+      "end": 332.18,
+      "text": "I think incubation can be a really loaded word and maybe triggering for some people because I think it potentially takes away from how complicated it is to start and found a business."
+    },
+    {
+      "start": 332.18,
+      "end": 352.6,
+      "text": "And so, when I think of ideation, I really think about how does imaginary take a more integral role in ideating and starting businesses, whether that's coming up with an idea, partnering with a founder, being, you know, very involved in hiring an operating team."
+    },
+    {
+      "start": 352.6,
+      "end": 358.32,
+      "text": "So, you know, just kind of taking a different approach and how a business gets started."
+    },
+    {
+      "start": 358.6,
+      "end": 367.02,
+      "text": "But, you know, really every investment or company we invest in is really its own individual organism."
+    },
+    {
+      "start": 367.96,
+      "end": 377.64,
+      "text": "And so, I think incubation can kind of be this idea of like platform, which we are not. Everything is its own individual business."
+    },
+    {
+      "start": 377.64,
+      "end": 386.46,
+      "text": "Yeah. And I'm curious, like, I feel like since when I moved to New York in 2019, I feel like so much money was being thrown at these like brand studios."
+    },
+    {
+      "start": 386.82,
+      "end": 387.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 387.46,
+      "end": 390.16,
+      "text": "How is this different than the approach of like brand studios?"
+    },
+    {
+      "start": 390.52,
+      "end": 394.6,
+      "text": "Yeah. And by the way, like a lot of them are incredible and great."
+    },
+    {
+      "start": 394.8,
+      "end": 397.06,
+      "text": "And so, I feel like so many of them just crashed and burned."
+    },
+    {
+      "start": 397.18,
+      "end": 399.22,
+      "text": "And then there are some that did crash and burn. Right."
+    },
+    {
+      "start": 399.22,
+      "end": 409.56,
+      "text": "Right. And so, yeah, this is a very different approach to that because this is this is a shared resource of imaginary and capital and brainpower."
+    },
+    {
+      "start": 409.88,
+      "end": 421.32,
+      "text": "Right. But like what we're not doing is hiring one marketing person to run everything or one ops person to figure out one single supply chain across every CPG company."
+    },
+    {
+      "start": 421.32,
+      "end": 426.5,
+      "text": "And I think part of that is because you lose a little bit of soul. Right."
+    },
+    {
+      "start": 426.64,
+      "end": 434.58,
+      "text": "Like and we are brand junkies. And so, in order for a company to really have soul, it has to have like its own lifeblood."
+    },
+    {
+      "start": 434.7,
+      "end": 443.64,
+      "text": "And I think a lot of times when it becomes so platformed, it loses a little bit of soul and then you're just kind of churning things out to turn them out."
+    },
+    {
+      "start": 443.86,
+      "end": 445.08,
+      "text": "It becomes like an Excel sheet business."
+    },
+    {
+      "start": 445.08,
+      "end": 451.96,
+      "text": "Yeah. And and we are certainly, by the way, like we are not starting businesses just to start them."
+    },
+    {
+      "start": 452.48,
+      "end": 460.1,
+      "text": "If somebody comes and pitches us the exact idea that we want, we would happily deploy capital and into that space."
+    },
+    {
+      "start": 460.1,
+      "end": 470.82,
+      "text": "I think the ones that we get excited about, you know, developing in partnership with operators are the ones where they're pretty thesis driven."
+    },
+    {
+      "start": 470.82,
+      "end": 477,
+      "text": "Yeah. Yeah. And I just lost my train of thought."
+    },
+    {
+      "start": 478.72,
+      "end": 481.74,
+      "text": "But you mentioned each company is like its own individual organism."
+    },
+    {
+      "start": 482.06,
+      "end": 486.42,
+      "text": "Yeah. And when we met a few weeks ago, you were talking about investing in platforms."
+    },
+    {
+      "start": 487.12,
+      "end": 488.84,
+      "text": "Yeah. How do you think about that?"
+    },
+    {
+      "start": 489.3,
+      "end": 495.66,
+      "text": "So I think that's, you know, first of all, there will be people and there I can think of some in my head."
+    },
+    {
+      "start": 495.66,
+      "end": 500,
+      "text": "There will be people who do a really good job at investing in platforms."
+    },
+    {
+      "start": 500,
+      "end": 510.38,
+      "text": "I think it becomes very hard to figure out how to deploy capital with for imaginary within another platform."
+    },
+    {
+      "start": 510.6,
+      "end": 523.58,
+      "text": "So investing in another incubator can be hard because if company A is really the standout company, like how do we ensure that all of our capital is going towards company A versus company B and C?"
+    },
+    {
+      "start": 523.58,
+      "end": 527.12,
+      "text": "So I think generally and, you know, like never say never."
+    },
+    {
+      "start": 527.34,
+      "end": 534.88,
+      "text": "We take positions in specific companies versus like other brand incubators, if that makes sense."
+    },
+    {
+      "start": 535.02,
+      "end": 540.56,
+      "text": "Yeah, totally. The thought I had earlier was that the only other firm I've seen this do well with is Night Ventures."
+    },
+    {
+      "start": 540.9,
+      "end": 541.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 541.38,
+      "end": 543.54,
+      "text": "Which launch Feastables and Matador and Blocks."
+    },
+    {
+      "start": 544.72,
+      "end": 548.16,
+      "text": "And for some reason, like it's so hard to do this right."
+    },
+    {
+      "start": 548.34,
+      "end": 551.08,
+      "text": "And I think part of it is the I think it's three things."
+    },
+    {
+      "start": 551.08,
+      "end": 553.22,
+      "text": "One is like the talent that you can recruit."
+    },
+    {
+      "start": 553.44,
+      "end": 558.92,
+      "text": "Like you guys deploy a lot of capital, which is why you can get such good talent to be a part of these things."
+    },
+    {
+      "start": 559.18,
+      "end": 559.64,
+      "text": "They did too."
+    },
+    {
+      "start": 559.98,
+      "end": 567.52,
+      "text": "The second part was I think the finding something with good product market fit, which I'd love to dive deep on how you guys think about that."
+    },
+    {
+      "start": 567.68,
+      "end": 567.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 567.78,
+      "end": 581.32,
+      "text": "And third is like access to eyeballs or distribution, which I think a lot of the earlier like brand incubators pretty much would just try to rely on meta or ads in order to get their eyeballs."
+    },
+    {
+      "start": 581.58,
+      "end": 586.4,
+      "text": "And, you know, they can't get their first couple million dollars without spending a couple million dollars."
+    },
+    {
+      "start": 587.28,
+      "end": 591.56,
+      "text": "Is there anything you'd say like or anything you would add to that or I just cut you off?"
+    },
+    {
+      "start": 592.02,
+      "end": 592.24,
+      "text": "No, no, no."
+    },
+    {
+      "start": 593.32,
+      "end": 595.5,
+      "text": "Kind of just want to co-sign everything you said."
+    },
+    {
+      "start": 595.74,
+      "end": 597.32,
+      "text": "Maybe we can just go through the podcast like that."
+    },
+    {
+      "start": 599.7,
+      "end": 601.64,
+      "text": "No, I agree."
+    },
+    {
+      "start": 601.64,
+      "end": 606.34,
+      "text": "Like gone are the days of like, well, I shouldn't say gone are the days of doing this."
+    },
+    {
+      "start": 606.46,
+      "end": 614.54,
+      "text": "I think you actually can create a really great business in arbitrage, meta and Facebook and be profitable and create an incredible lifestyle business."
+    },
+    {
+      "start": 614.62,
+      "end": 616.08,
+      "text": "And people should do that."
+    },
+    {
+      "start": 616.34,
+      "end": 616.4,
+      "text": "Right."
+    },
+    {
+      "start": 616.48,
+      "end": 618.9,
+      "text": "Like that is not a bad idea."
+    },
+    {
+      "start": 619.22,
+      "end": 620.34,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 620.92,
+      "end": 623.14,
+      "text": "One, that's venture investing."
+    },
+    {
+      "start": 623.8,
+      "end": 626.66,
+      "text": "But two, I also think it depends on the type of investor."
+    },
+    {
+      "start": 626.8,
+      "end": 630.5,
+      "text": "That's probably not the business that imaginary is investing in."
+    },
+    {
+      "start": 630.5,
+      "end": 637.56,
+      "text": "Right. And gone are the days where it's like, let's, you know, our CAC to LTV is really exciting."
+    },
+    {
+      "start": 637.56,
+      "end": 640.5,
+      "text": "So, like, let's just pour 10 million dollars into Facebook and grow that way."
+    },
+    {
+      "start": 642.14,
+      "end": 645.2,
+      "text": "I think those days are probably behind us again."
+    },
+    {
+      "start": 645.2,
+      "end": 647.86,
+      "text": "I actually think you can still do that and create a great lifestyle business."
+    },
+    {
+      "start": 647.86,
+      "end": 650.5,
+      "text": "So it's not to say that great businesses won't be built that way."
+    },
+    {
+      "start": 652.14,
+      "end": 657.52,
+      "text": "I think, again, kind of going back to what I said earlier, we're really brand junkies."
+    },
+    {
+      "start": 657.52,
+      "end": 665.34,
+      "text": "And I think it is not enough to have a great product and it's not enough to have a great idea."
+    },
+    {
+      "start": 665.54,
+      "end": 675.74,
+      "text": "You have to have some competitive advantage of getting in front of bracket millions of people in a way that other people can't."
+    },
+    {
+      "start": 675.98,
+      "end": 676.04,
+      "text": "Right."
+    },
+    {
+      "start": 676.8,
+      "end": 680.12,
+      "text": "Again, I think you can not do that and create a great business."
+    },
+    {
+      "start": 680.42,
+      "end": 685.3,
+      "text": "I just don't know if that is a venture business."
+    },
+    {
+      "start": 685.42,
+      "end": 685.5,
+      "text": "Right."
+    },
+    {
+      "start": 685.56,
+      "end": 690.76,
+      "text": "Like in venture, really, it's like, how do you turn one dollar into 10 quickly?"
+    },
+    {
+      "start": 691.92,
+      "end": 694.52,
+      "text": "And that isn't to say we aren't long term investors."
+    },
+    {
+      "start": 694.52,
+      "end": 695.9,
+      "text": "And actually, we are right."
+    },
+    {
+      "start": 695.9,
+      "end": 699.4,
+      "text": "Like we understand that like great brands are built brick by brick."
+    },
+    {
+      "start": 700.34,
+      "end": 705.62,
+      "text": "But I still think you need some sort of competitive advantage and like a go to market."
+    },
+    {
+      "start": 705.82,
+      "end": 706.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 706.16,
+      "end": 706.84,
+      "text": "In today's age."
+    },
+    {
+      "start": 707.06,
+      "end": 707.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 707.56,
+      "end": 712.62,
+      "text": "What do you think like like imaginary has been around since is it 2017?"
+    },
+    {
+      "start": 713.44,
+      "end": 718.5,
+      "text": "And that was before I feel like there was this whole hype cycle of like consumer brand investing."
+    },
+    {
+      "start": 719.44,
+      "end": 719.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 719.94,
+      "end": 729.28,
+      "text": "What do you think like these newer consumer brand investors got wrong in this last chunk of like three, four or five years that you guys didn't?"
+    },
+    {
+      "start": 729.36,
+      "end": 732.06,
+      "text": "Because a lot of the brands you guys are in are really soft."
+    },
+    {
+      "start": 732.14,
+      "end": 733.32,
+      "text": "They're like true brands."
+    },
+    {
+      "start": 733.54,
+      "end": 735.78,
+      "text": "You know, they're not these like Facebook ad machines."
+    },
+    {
+      "start": 736.02,
+      "end": 736.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 736.56,
+      "end": 738.4,
+      "text": "Well, I appreciate."
+    },
+    {
+      "start": 738.56,
+      "end": 740.62,
+      "text": "I think we love when people say that."
+    },
+    {
+      "start": 740.8,
+      "end": 741.22,
+      "text": "I think."
+    },
+    {
+      "start": 741.54,
+      "end": 742.48,
+      "text": "Let me say it again."
+    },
+    {
+      "start": 744.12,
+      "end": 749,
+      "text": "I, you know, I think that everyone gets plenty of things wrong, by the way."
+    },
+    {
+      "start": 749,
+      "end": 752.94,
+      "text": "And, you know, it's, it's great when you get them right."
+    },
+    {
+      "start": 753.06,
+      "end": 758.1,
+      "text": "But part of venture investing for everyone out there is like, you miss a lot and you get a lot wrong."
+    },
+    {
+      "start": 758.3,
+      "end": 758.44,
+      "text": "Right."
+    },
+    {
+      "start": 759.3,
+      "end": 762.86,
+      "text": "There's plenty of things that you're involved in that I wish we were involved in."
+    },
+    {
+      "start": 764.48,
+      "end": 772.38,
+      "text": "But I think imaginary thesis has always been our goal was always to invest in generationally defining brands."
+    },
+    {
+      "start": 774.38,
+      "end": 776.7,
+      "text": "And my partner, Nick, will always say this."
+    },
+    {
+      "start": 776.82,
+      "end": 780.94,
+      "text": "It's like what brand is going to be around for the next hundred years?"
+    },
+    {
+      "start": 781.14,
+      "end": 788.82,
+      "text": "Not because we need to be around it to be around for the next hundred years, but because when L'Oreal buys this company, that's what they care about."
+    },
+    {
+      "start": 789,
+      "end": 789.1,
+      "text": "Right."
+    },
+    {
+      "start": 789.1,
+      "end": 793.7,
+      "text": "Like not is this ephemeral, but can this last a generation?"
+    },
+    {
+      "start": 794.1,
+      "end": 802.28,
+      "text": "And I think when you keep that in mind, you cut away from even brands that are on paper, really exceptional companies."
+    },
+    {
+      "start": 802.64,
+      "end": 803.08,
+      "text": "Right."
+    },
+    {
+      "start": 803.22,
+      "end": 804.48,
+      "text": "Like they have all the right metrics."
+    },
+    {
+      "start": 804.48,
+      "end": 808.82,
+      "text": "But when you close your eyes and think like, is this going to be around for the next hundred years?"
+    },
+    {
+      "start": 809.52,
+      "end": 811.44,
+      "text": "It kind of puts things in perspective."
+    },
+    {
+      "start": 811.76,
+      "end": 820.78,
+      "text": "And I think we've, you know, Nick and Natalie, our founding partners, really instilled that at the foundation of what imaginary does."
+    },
+    {
+      "start": 821.1,
+      "end": 821.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 821.52,
+      "end": 822.22,
+      "text": "It's so interesting."
+    },
+    {
+      "start": 822.22,
+      "end": 834.98,
+      "text": "Like I, it, well, it doesn't blow my mind, but it's so fascinating that like Native, for example, Native sold to Procter \u0026 Gamble for a hundred million bucks a few years ago."
+    },
+    {
+      "start": 835.68,
+      "end": 841.08,
+      "text": "And, you know, I think is now doing like five or six X that, that number in revenue alone."
+    },
+    {
+      "start": 841.24,
+      "end": 841.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 841.82,
+      "end": 846.08,
+      "text": "But like, I feel like no one could have ever predicted that as this like Facebook ads machine."
+    },
+    {
+      "start": 846.52,
+      "end": 856.1,
+      "text": "And then, but as you say, like, you know, L'Oreal buying it, it's almost like you're, you're looking for brands that fit into the, the, it's like next stage of life as well."
+    },
+    {
+      "start": 856.24,
+      "end": 856.34,
+      "text": "Right."
+    },
+    {
+      "start": 856.44,
+      "end": 858.58,
+      "text": "Not just like what's going to make you a return immediately."
+    },
+    {
+      "start": 859.7,
+      "end": 860.1,
+      "text": "Absolutely."
+    },
+    {
+      "start": 860.46,
+      "end": 861.82,
+      "text": "Like where is their appetite?"
+    },
+    {
+      "start": 861.98,
+      "end": 868.28,
+      "text": "And I think again, like when we, like one of the things imaginary prides itself on is really like our network and our relationships."
+    },
+    {
+      "start": 868.48,
+      "end": 870.3,
+      "text": "And we're always having that conversation, right?"
+    },
+    {
+      "start": 870.36,
+      "end": 871.84,
+      "text": "Like, what are you looking for?"
+    },
+    {
+      "start": 872.02,
+      "end": 874.9,
+      "text": "You know, over the next 10 years, like, what are you looking to buy?"
+    },
+    {
+      "start": 874.9,
+      "end": 876.18,
+      "text": "Where do you want to deploy capital?"
+    },
+    {
+      "start": 876.38,
+      "end": 884.08,
+      "text": "Because there are great businesses and maybe you'll like dividend out like your profits and there's an opportunity there."
+    },
+    {
+      "start": 884.2,
+      "end": 890.9,
+      "text": "But, you know, the, the excitement comes from when there are like a ton of strategic appetite in a certain category."
+    },
+    {
+      "start": 890.9,
+      "end": 897.42,
+      "text": "And like, there are a lot of categories that are going to do a lot of revenue, but like there's not a huge buyer landscape for them."
+    },
+    {
+      "start": 898.08,
+      "end": 901.04,
+      "text": "And I think that also informs where you invest."
+    },
+    {
+      "start": 901.04,
+      "end": 908.06,
+      "text": "Do you think there's a, like a revenue sweet spot for acquisition or in general, a sweet spot?"
+    },
+    {
+      "start": 908.18,
+      "end": 918.16,
+      "text": "Like I remember, I remember a few years ago, Harry's was like looking specifically for brands to buy between the 20 to 50 or 20 to 70 million range somewhere in there."
+    },
+    {
+      "start": 918.32,
+      "end": 918.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 918.66,
+      "end": 919.34,
+      "text": "But they didn't want to pay more."
+    },
+    {
+      "start": 919.44,
+      "end": 920.26,
+      "text": "They didn't want to pay less."
+    },
+    {
+      "start": 920.42,
+      "end": 920.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 920.58,
+      "end": 924.06,
+      "text": "Um, yes, I do think that there is."
+    },
+    {
+      "start": 924.14,
+      "end": 928.6,
+      "text": "Um, I also think that there's like a profitability sweet spot."
+    },
+    {
+      "start": 929.02,
+      "end": 939.9,
+      "text": "Um, I think on the early stage side, um, founders can likely overcomplicate where they need to get to."
+    },
+    {
+      "start": 940.18,
+      "end": 940.52,
+      "text": "Guess what?"
+    },
+    {
+      "start": 940.62,
+      "end": 941.8,
+      "text": "When you get there, they'll come."
+    },
+    {
+      "start": 941.8,
+      "end": 942.7,
+      "text": "You know what I mean?"
+    },
+    {
+      "start": 942.8,
+      "end": 946.12,
+      "text": "It's a champagne problem to be like, I don't want to get too big."
+    },
+    {
+      "start": 946.34,
+      "end": 946.78,
+      "text": "Right."
+    },
+    {
+      "start": 946.86,
+      "end": 948.98,
+      "text": "Like most founders aren't running into that problem."
+    },
+    {
+      "start": 949.32,
+      "end": 966.18,
+      "text": "So to me, like over architecting exactly where that is, is like great businesses get bought and, um, yeah, there's a sweet spot and don't get bigger than the actual balance sheet of the buyers that can buy you."
+    },
+    {
+      "start": 966.18,
+      "end": 973,
+      "text": "Like, yes, but I would say it's, um, it really is a champagne problem."
+    },
+    {
+      "start": 973.28,
+      "end": 973.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 973.74,
+      "end": 973.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 974.42,
+      "end": 979.64,
+      "text": "Um, and also just for context, what are some of the companies that imaginary is in?"
+    },
+    {
+      "start": 979.92,
+      "end": 980.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 980.72,
+      "end": 984.42,
+      "text": "Um, we are investors in various beauty brands."
+    },
+    {
+      "start": 984.58,
+      "end": 995.04,
+      "text": "So we're in Kosas, Westman Atelier, Necessaire, um, on the apparel side, Skims, Good American, um, Glossier."
+    },
+    {
+      "start": 996.44,
+      "end": 998.84,
+      "text": "Um, Mila, a dumpling business."
+    },
+    {
+      "start": 999.08,
+      "end": 1001.54,
+      "text": "Um, yeah, a bunch of consumer brands."
+    },
+    {
+      "start": 1001.86,
+      "end": 1002.36,
+      "text": "All the goats."
+    },
+    {
+      "start": 1003.78,
+      "end": 1005.86,
+      "text": "Um, okay."
+    },
+    {
+      "start": 1006.02,
+      "end": 1011.4,
+      "text": "So, um, we, we're involved in a incubation together."
+    },
+    {
+      "start": 1011.84,
+      "end": 1023.22,
+      "text": "I'm very curious how, how did you guys arrive or maybe even in general, like how do you arrive at a conclusion of an incubation you guys want to dabble in or create or go hire a team for?"
+    },
+    {
+      "start": 1024.12,
+      "end": 1024.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 1025.2,
+      "end": 1025.42,
+      "text": "Um."
+    },
+    {
+      "start": 1025.54,
+      "end": 1029.9,
+      "text": "Like, what are you looking at to decide this is something we should totally focus on?"
+    },
+    {
+      "start": 1030.22,
+      "end": 1030.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1030.7,
+      "end": 1039.04,
+      "text": "I think it, um, it's hard to be like incredibly prescriptive on how any one of them comes to be, comes to be."
+    },
+    {
+      "start": 1039.2,
+      "end": 1043.62,
+      "text": "But I really do think they're all very much thesis driven, right?"
+    },
+    {
+      "start": 1043.62,
+      "end": 1048.2,
+      "text": "It's like, we see a huge white space or opportunity."
+    },
+    {
+      "start": 1048.58,
+      "end": 1063.1,
+      "text": "We see a unique go to market in that, um, we're partnering with a certain creator or talent or somebody that has a very authentic story."
+    },
+    {
+      "start": 1063.1,
+      "end": 1070.44,
+      "text": "Um, and then we see like an opportunity that doesn't exist."
+    },
+    {
+      "start": 1070.44,
+      "end": 1076.36,
+      "text": "I think what we're not trying to do is create like, um, brands for the sake of creating brands."
+    },
+    {
+      "start": 1076.78,
+      "end": 1084.36,
+      "text": "Um, so I think it's like, it's kind of, it kind of comes across as we wish that we would see this company."
+    },
+    {
+      "start": 1084.36,
+      "end": 1087.92,
+      "text": "And, you know, since 2017, we've been waiting to invest in a certain idea."
+    },
+    {
+      "start": 1088.84,
+      "end": 1098.52,
+      "text": "And instead of waiting for that idea, um, we kind of push the needle forward a little faster on like pushing the parts together."
+    },
+    {
+      "start": 1099.18,
+      "end": 1099.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 1099.58,
+      "end": 1102.56,
+      "text": "And then how do you think about like assembling the team?"
+    },
+    {
+      "start": 1102.68,
+      "end": 1107.3,
+      "text": "Because I also think very similar to, uh, like when we worked with Knight to launch Feastables."
+    },
+    {
+      "start": 1107.66,
+      "end": 1111.98,
+      "text": "I feel like that, that team is like the Avengers team of CPG."
+    },
+    {
+      "start": 1112.22,
+      "end": 1112.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 1112.6,
+      "end": 1116.64,
+      "text": "And, um, since then that early team has gone on to do a bunch of amazing things."
+    },
+    {
+      "start": 1116.64,
+      "end": 1124.3,
+      "text": "And, um, and similarly, I'm curious, like, how do you think about like the hiring of that initial team or building that initial team?"
+    },
+    {
+      "start": 1124.5,
+      "end": 1126.6,
+      "text": "I think it's like the most important part."
+    },
+    {
+      "start": 1126.74,
+      "end": 1126.82,
+      "text": "Right."
+    },
+    {
+      "start": 1126.96,
+      "end": 1131.14,
+      "text": "And that's when I go back to like, this is not an incubation."
+    },
+    {
+      "start": 1131.3,
+      "end": 1138.98,
+      "text": "This is really like new business development and finding people who are founders is so important."
+    },
+    {
+      "start": 1139.18,
+      "end": 1139.44,
+      "text": "Right."
+    },
+    {
+      "start": 1139.52,
+      "end": 1144.72,
+      "text": "Like, um, there are plenty of people that are super entrepreneurial."
+    },
+    {
+      "start": 1144.72,
+      "end": 1146.3,
+      "text": "It's weird right today."
+    },
+    {
+      "start": 1146.3,
+      "end": 1152.44,
+      "text": "Like in order to be a founder, you have to be like really good at raising capital or something like that."
+    },
+    {
+      "start": 1152.54,
+      "end": 1152.6,
+      "text": "Right."
+    },
+    {
+      "start": 1152.72,
+      "end": 1159.1,
+      "text": "But like the aspects of being a founder aren't necessarily such that you're a capital raiser,"
+    },
+    {
+      "start": 1159.24,
+      "end": 1159.34,
+      "text": "right?"
+    },
+    {
+      "start": 1159.38,
+      "end": 1164.02,
+      "text": "Like you're a salesperson that isn't necessarily an attribute of a great founder."
+    },
+    {
+      "start": 1164.26,
+      "end": 1169.72,
+      "text": "So we're in search or like, and again, through operating imaginary and, you know, working,"
+    },
+    {
+      "start": 1169.72,
+      "end": 1171.42,
+      "text": "we meet a ton of people."
+    },
+    {
+      "start": 1171.62,
+      "end": 1182.44,
+      "text": "And so I think it's so great to find people who have a passion for a certain category and are excited to build in that category."
+    },
+    {
+      "start": 1182.94,
+      "end": 1191.62,
+      "text": "And then they don't have to think, oh my God, I need to like go out and do a seed prelaunch fundraise because that's where imaginary's partnership comes in."
+    },
+    {
+      "start": 1191.76,
+      "end": 1191.88,
+      "text": "Right."
+    },
+    {
+      "start": 1191.88,
+      "end": 1195.18,
+      "text": "Um, so I think the early operating team is everything."
+    },
+    {
+      "start": 1195.42,
+      "end": 1200.76,
+      "text": "And like our entire role at imaginary is like how to support them."
+    },
+    {
+      "start": 1200.92,
+      "end": 1201.32,
+      "text": "Mm hmm."
+    },
+    {
+      "start": 1201.76,
+      "end": 1204,
+      "text": "Um, not how do they support this?"
+    },
+    {
+      "start": 1204.18,
+      "end": 1204.38,
+      "text": "Right."
+    },
+    {
+      "start": 1204.38,
+      "end": 1206.7,
+      "text": "It's like, how do we, they're the founders."
+    },
+    {
+      "start": 1207.02,
+      "end": 1208.2,
+      "text": "Like how do we support them?"
+    },
+    {
+      "start": 1208.32,
+      "end": 1208.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 1208.64,
+      "end": 1209.52,
+      "text": "What do they need from us?"
+    },
+    {
+      "start": 1209.68,
+      "end": 1209.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 1210.06,
+      "end": 1211.36,
+      "text": "And typically what are those things?"
+    },
+    {
+      "start": 1211.92,
+      "end": 1213.36,
+      "text": "I think every founder is different."
+    },
+    {
+      "start": 1213.62,
+      "end": 1215.76,
+      "text": "I think again, network is really important."
+    },
+    {
+      "start": 1215.94,
+      "end": 1224.14,
+      "text": "I think you probably experienced this a lot, um, with the people that you work with, but being a prelaunch early stage founder is like so heads down."
+    },
+    {
+      "start": 1224.14,
+      "end": 1239.1,
+      "text": "It is very, you know, I don't, I think it's nice for them to have a real thought partner on a like more intimate basis than a generic, not a generic, but a regular seed investor of like, here are the decisions I need to make."
+    },
+    {
+      "start": 1239.5,
+      "end": 1240.56,
+      "text": "What do you think of this?"
+    },
+    {
+      "start": 1240.66,
+      "end": 1241.02,
+      "text": "What do you think?"
+    },
+    {
+      "start": 1241.12,
+      "end": 1248.3,
+      "text": "Like, you know, like really having like a sounding board, just having someone who's not who you can come up from air and be like, what else are you saying?"
+    },
+    {
+      "start": 1248.3,
+      "end": 1251.3,
+      "text": "Like, how does this compare to the other things that you're saying?"
+    },
+    {
+      "start": 1251.72,
+      "end": 1254.32,
+      "text": "Um, I think is really helpful."
+    },
+    {
+      "start": 1254.72,
+      "end": 1258.94,
+      "text": "I think hiring, um, resources is really helpful."
+    },
+    {
+      "start": 1259.14,
+      "end": 1270.1,
+      "text": "Um, again, I think I've said this like 10 times, but like being a brand junkie, um, it's just nice to have like outside points of view that are pretty objective about things."
+    },
+    {
+      "start": 1270.28,
+      "end": 1270.98,
+      "text": "Yeah, totally."
+    },
+    {
+      "start": 1272.99,
+      "end": 1278.29,
+      "text": "Whether you're spending 50,000 per month, 50,000 per week, or 50,000 per day on ads."
+    },
+    {
+      "start": 1278.29,
+      "end": 1280.51,
+      "text": "There's one thing that you need in all those scenarios."
+    },
+    {
+      "start": 1280.81,
+      "end": 1284.97,
+      "text": "It's creative analytics that help you understand what's working and drive more revenue."
+    },
+    {
+      "start": 1285.31,
+      "end": 1292.47,
+      "text": "With Motion, their software makes it so stupid simple to see what is performing, what is missing the mark, and what you should continue to double down on."
+    },
+    {
+      "start": 1292.67,
+      "end": 1299.93,
+      "text": "With Motion, their software makes it so stupid simple to see what's performing, what's missing the mark, and what you should continue to double down on."
+    },
+    {
+      "start": 1300.17,
+      "end": 1305.21,
+      "text": "Motion reports are also the only reports I've ever been able to send to a brand CEO or CMO,"
+    },
+    {
+      "start": 1305.21,
+      "end": 1308.71,
+      "text": "but also to the performance marketing team and to the creative team."
+    },
+    {
+      "start": 1309.01,
+      "end": 1311.47,
+      "text": "Their UI makes it so easy to interface."
+    },
+    {
+      "start": 1311.65,
+      "end": 1315.51,
+      "text": "So whatever you're looking for, you can find it or you can create custom reports for it."
+    },
+    {
+      "start": 1315.77,
+      "end": 1317.67,
+      "text": "It's literally an idiot proof software."
+    },
+    {
+      "start": 1317.85,
+      "end": 1320.67,
+      "text": "And I say that as someone who gets easily confused with complex UI."
+    },
+    {
+      "start": 1321.07,
+      "end": 1325.73,
+      "text": "I want you to try Motion because like myself, I bet you won't be able to live without it once you try it."
+    },
+    {
+      "start": 1325.97,
+      "end": 1327.67,
+      "text": "Go to motionapp.com."
+    },
+    {
+      "start": 1327.67,
+      "end": 1332.35,
+      "text": "And when you talk to their sales team, mention limited supply to get 50% off your first month."
+    },
+    {
+      "start": 1332.77,
+      "end": 1338.89,
+      "text": "Again, that's motionapp.com to get 50% off your first month when you mention limited supply to their sales team."
+    },
+    {
+      "start": 1339.27,
+      "end": 1340.83,
+      "text": "Try it out and let me know how you like it."
+    },
+    {
+      "start": 1346.59,
+      "end": 1352.13,
+      "text": "Now going into the investing side, I feel like whenever I get a deck or hear a pitch,"
+    },
+    {
+      "start": 1352.51,
+      "end": 1355.17,
+      "text": "there's a couple of like main things that always throw me off."
+    },
+    {
+      "start": 1355.17,
+      "end": 1357.85,
+      "text": "One is usually like absurd valuations."
+    },
+    {
+      "start": 1358.67,
+      "end": 1364.25,
+      "text": "Either, you know, they're like, or sometimes the absurd valuation might be justified."
+    },
+    {
+      "start": 1364.61,
+      "end": 1371.83,
+      "text": "Like, you know, A-list celebrity is launching a brand and they'll value it at 50 million as the first round."
+    },
+    {
+      "start": 1372.27,
+      "end": 1376.55,
+      "text": "But those easily are justified by the time they start doing sales."
+    },
+    {
+      "start": 1376.67,
+      "end": 1383.85,
+      "text": "But like, you know, somebody's launching a new face serum and they're raising two on 15 or two on 10."
+    },
+    {
+      "start": 1384.63,
+      "end": 1388.59,
+      "text": "And then in my head, my first thought is you're not going to get to eight,"
+    },
+    {
+      "start": 1388.79,
+      "end": 1392.03,
+      "text": "which is not going to let you raise your next round, which is just going to dilute me."
+    },
+    {
+      "start": 1392.47,
+      "end": 1393.65,
+      "text": "That's one thought I have a lot."
+    },
+    {
+      "start": 1393.85,
+      "end": 1397.63,
+      "text": "The second thought is there's no understanding of like product market fit or distribution."
+    },
+    {
+      "start": 1398.33,
+      "end": 1400.55,
+      "text": "And everything we do is around performance marketing."
+    },
+    {
+      "start": 1401.29,
+      "end": 1406.19,
+      "text": "And even recently I saw this brand and they were like, yeah, our AOV is going to be $140"
+    },
+    {
+      "start": 1406.73,
+      "end": 1408.97,
+      "text": "and our CAC we're estimating at $9."
+    },
+    {
+      "start": 1409.67,
+      "end": 1411.39,
+      "text": "And I was like, in what world?"
+    },
+    {
+      "start": 1411.55,
+      "end": 1413.51,
+      "text": "In what world is this a $9 CAC?"
+    },
+    {
+      "start": 1413.51,
+      "end": 1416.09,
+      "text": "Like, if this was possible, we wouldn't be talking about it."
+    },
+    {
+      "start": 1416.11,
+      "end": 1417.23,
+      "text": "You wouldn't even need to raise money."
+    },
+    {
+      "start": 1417.39,
+      "end": 1417.91,
+      "text": "You wouldn't need money, yeah."
+    },
+    {
+      "start": 1417.91,
+      "end": 1418.07,
+      "text": "You know?"
+    },
+    {
+      "start": 1418.57,
+      "end": 1424.77,
+      "text": "What are some of the things that you see that are just like either it – I don't know."
+    },
+    {
+      "start": 1424.99,
+      "end": 1429.13,
+      "text": "Like some of these things I think people maybe just don't understand."
+    },
+    {
+      "start": 1429.31,
+      "end": 1431.65,
+      "text": "You know, they don't understand how to calculate CAC properly."
+    },
+    {
+      "start": 1433.21,
+      "end": 1436.93,
+      "text": "But others I think like they genuinely believe it and they have no idea what they're walking into."
+    },
+    {
+      "start": 1438.19,
+      "end": 1438.85,
+      "text": "Yeah."
+    },
+    {
+      "start": 1439.39,
+      "end": 1439.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 1439.45,
+      "end": 1444.97,
+      "text": "So I think first it's really important to separate like pre-launch from launch businesses"
+    },
+    {
+      "start": 1444.97,
+      "end": 1448.67,
+      "text": "because I think those pitch decks look very different, right?"
+    },
+    {
+      "start": 1448.67,
+      "end": 1448.69,
+      "text": "Right?"
+    },
+    {
+      "start": 1450.07,
+      "end": 1452.51,
+      "text": "And first and foremost, right?"
+    },
+    {
+      "start": 1452.51,
+      "end": 1458.87,
+      "text": "Like if you're starting a business, you've done the – you're doing the hard courageous thing."
+    },
+    {
+      "start": 1458.97,
+      "end": 1465.21,
+      "text": "And if you're going into any investor meeting, like you should be incredibly proud that like"
+    },
+    {
+      "start": 1465.21,
+      "end": 1470.79,
+      "text": "you've given up all whatever you're doing to be like, like I'm dying on this hill."
+    },
+    {
+      "start": 1470.95,
+      "end": 1471.99,
+      "text": "This is what I'm doing."
+    },
+    {
+      "start": 1471.99,
+      "end": 1472.75,
+      "text": "And guess what?"
+    },
+    {
+      "start": 1472.87,
+      "end": 1477.59,
+      "text": "Any investor talking to you is lucky that they get to talk to you about what you are like"
+    },
+    {
+      "start": 1477.59,
+      "end": 1479.69,
+      "text": "stopping and pausing your life to do."
+    },
+    {
+      "start": 1479.85,
+      "end": 1485.21,
+      "text": "And I think just like it's so important for entrepreneurs to remember it because like"
+    },
+    {
+      "start": 1485.79,
+      "end": 1490.81,
+      "text": "it's really easy as an investor to like sit through – like to sit through and say yes,"
+    },
+    {
+      "start": 1490.87,
+      "end": 1491.77,
+      "text": "no to a bunch of things."
+    },
+    {
+      "start": 1491.83,
+      "end": 1497.63,
+      "text": "It's really hard as an entrepreneur to like have the guts to tell someone else your idea."
+    },
+    {
+      "start": 1497.87,
+      "end": 1499.09,
+      "text": "Like that's a really hard thing to do."
+    },
+    {
+      "start": 1499.09,
+      "end": 1504.09,
+      "text": "So first and foremost, like whether you get it right or wrong, I think remember that like"
+    },
+    {
+      "start": 1504.09,
+      "end": 1507.93,
+      "text": "everyone that you pitch is lucky that they get to listen to you."
+    },
+    {
+      "start": 1508.45,
+      "end": 1511.13,
+      "text": "That's such a great thing for people to have in their head."
+    },
+    {
+      "start": 1511.37,
+      "end": 1512.81,
+      "text": "I mean it's true."
+    },
+    {
+      "start": 1513.05,
+      "end": 1515.79,
+      "text": "Like it's like you're – that takes a lot of guts."
+    },
+    {
+      "start": 1516.01,
+      "end": 1516.21,
+      "text": "Totally."
+    },
+    {
+      "start": 1516.45,
+      "end": 1517.09,
+      "text": "I fully agree."
+    },
+    {
+      "start": 1517.15,
+      "end": 1517.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 1517.59,
+      "end": 1517.73,
+      "text": "Yeah."
+    },
+    {
+      "start": 1529.09,
+      "end": 1530.87,
+      "text": "All the metrics, all that."
+    },
+    {
+      "start": 1531.01,
+      "end": 1536.55,
+      "text": "Like what are you building and why is it better than everything that already exists?"
+    },
+    {
+      "start": 1536.93,
+      "end": 1540.05,
+      "text": "Why can no one else but you do this?"
+    },
+    {
+      "start": 1540.21,
+      "end": 1541.71,
+      "text": "And why is the time now?"
+    },
+    {
+      "start": 1542.05,
+      "end": 1549.47,
+      "text": "And the most important is why is it that if Imaginary or anyone gives you $5 million that"
+    },
+    {
+      "start": 1549.47,
+      "end": 1554.43,
+      "text": "it's better than if they invest $5 million in the hundred other businesses that they see,"
+    },
+    {
+      "start": 1554.79,
+      "end": 1554.89,
+      "text": "right?"
+    },
+    {
+      "start": 1555.07,
+      "end": 1559.53,
+      "text": "Like answer those questions because – and get ahead of the narrative, right?"
+    },
+    {
+      "start": 1559.63,
+      "end": 1569.91,
+      "text": "If you are starting a – I don't know – a – it's funny because my friend just said this"
+    },
+    {
+      "start": 1569.91,
+      "end": 1572.17,
+      "text": "random idea but if you're starting a Zumpik for dogs, right?"
+    },
+    {
+      "start": 1573.11,
+      "end": 1574.89,
+      "text": "As like a hilarious like idea."
+    },
+    {
+      "start": 1575.15,
+      "end": 1576.07,
+      "text": "She just said this."
+    },
+    {
+      "start": 1577.35,
+      "end": 1583.05,
+      "text": "Like and let's pretend like the first question people are asking are like there are – you"
+    },
+    {
+      "start": 1583.05,
+      "end": 1585.65,
+      "text": "know, what's the market size of that?"
+    },
+    {
+      "start": 1585.83,
+      "end": 1590.57,
+      "text": "There's no – then second page of your prelaunch deck, tell me why this is the – that"
+    },
+    {
+      "start": 1590.57,
+      "end": 1593.45,
+      "text": "what I'm thinking about market size is off."
+    },
+    {
+      "start": 1593.61,
+      "end": 1596.29,
+      "text": "Like it's – then tell me how profitable it's going to be."
+    },
+    {
+      "start": 1596.29,
+      "end": 1603.71,
+      "text": "Get ahead of every pushback that I have and like if I ask you why this business – like"
+    },
+    {
+      "start": 1603.71,
+      "end": 1606.63,
+      "text": "how do I tell someone else about this business and why it should exist?"
+    },
+    {
+      "start": 1607.23,
+      "end": 1610.09,
+      "text": "It should take you – you should – you'll love this."
+    },
+    {
+      "start": 1610.15,
+      "end": 1611.51,
+      "text": "It should take you 10 seconds, right?"
+    },
+    {
+      "start": 1611.51,
+      "end": 1613.67,
+      "text": "Because that's how long you have to tell the consumer."
+    },
+    {
+      "start": 1613.91,
+      "end": 1614.83,
+      "text": "Less, right?"
+    },
+    {
+      "start": 1615.01,
+      "end": 1619.37,
+      "text": "Like you don't have a 30-minute pitch call to tell the consumer why this is better and"
+    },
+    {
+      "start": 1619.37,
+      "end": 1620.35,
+      "text": "why I should buy it."
+    },
+    {
+      "start": 1620.43,
+      "end": 1625.67,
+      "text": "And so I think, you know, if you're an investor like us who's so consumer-centric,"
+    },
+    {
+      "start": 1626.29,
+      "end": 1634.57,
+      "text": "just honing in on like those really broad key things to me is like the first part of all that."
+    },
+    {
+      "start": 1634.69,
+      "end": 1637.71,
+      "text": "Just getting ahead of every question that we have."
+    },
+    {
+      "start": 1637.87,
+      "end": 1638.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 1639.71,
+      "end": 1640.79,
+      "text": "It's probably the first thing."
+    },
+    {
+      "start": 1640.79,
+      "end": 1652.91,
+      "text": "And then I think if you've launched a brand and it's already in market, don't bury the thing that – like if you hide your gross margin"
+    },
+    {
+      "start": 1652.91,
+      "end": 1659.93,
+      "text": "and your traction until the last page or bury it in the appendix, I'm already like red flag."
+    },
+    {
+      "start": 1660.15,
+      "end": 1660.35,
+      "text": "Totally."
+    },
+    {
+      "start": 1660.67,
+      "end": 1662.07,
+      "text": "Like if you're not –"
+    },
+    {
+      "start": 1662.07,
+      "end": 1662.89,
+      "text": "Even if it's bad, right?"
+    },
+    {
+      "start": 1662.89,
+      "end": 1663.69,
+      "text": "Even if it's bad."
+    },
+    {
+      "start": 1664.33,
+      "end": 1664.87,
+      "text": "Get ahead of it."
+    },
+    {
+      "start": 1664.93,
+      "end": 1666.05,
+      "text": "Be like, here's where we are."
+    },
+    {
+      "start": 1666.45,
+      "end": 1668.65,
+      "text": "And if it's bad, here's where we're going."
+    },
+    {
+      "start": 1668.93,
+      "end": 1669.85,
+      "text": "Here's how we're getting there."
+    },
+    {
+      "start": 1669.95,
+      "end": 1675.41,
+      "text": "Here's why I need $5 million and why the capital that I have raised to date hasn't worked to get this."
+    },
+    {
+      "start": 1675.81,
+      "end": 1679.05,
+      "text": "It's not because – and tell me the narrative that you want to tell."
+    },
+    {
+      "start": 1679.11,
+      "end": 1682.53,
+      "text": "There's various reasons why the flywheel hasn't hit yet."
+    },
+    {
+      "start": 1682.53,
+      "end": 1686.85,
+      "text": "But what I need to know is why now, right?"
+    },
+    {
+      "start": 1686.95,
+      "end": 1689.41,
+      "text": "Like why is this trend not going to continue?"
+    },
+    {
+      "start": 1690.05,
+      "end": 1696.05,
+      "text": "But I think if you don't control that narrative, I'm going to tell the story for you."
+    },
+    {
+      "start": 1696.15,
+      "end": 1697.33,
+      "text": "And my story is not good."
+    },
+    {
+      "start": 1697.57,
+      "end": 1698.81,
+      "text": "My story is like –"
+    },
+    {
+      "start": 1698.81,
+      "end": 1699.91,
+      "text": "Because you're coming in with no context."
+    },
+    {
+      "start": 1700.03,
+      "end": 1700.31,
+      "text": "Yeah."
+    },
+    {
+      "start": 1700.47,
+      "end": 1704.81,
+      "text": "And so like if you bury it into the back and you're like – and I say, how much revenue did you do this year?"
+    },
+    {
+      "start": 1704.85,
+      "end": 1706.67,
+      "text": "And you're like, oh, let me get back to you."
+    },
+    {
+      "start": 1706.67,
+      "end": 1713.03,
+      "text": "So I'm immediately going to tell the partnership, oh, I think they're just like not doing well."
+    },
+    {
+      "start": 1713.39,
+      "end": 1717.59,
+      "text": "Versus you tell me what you're doing and you tell me why you've done it and how it's going to change."
+    },
+    {
+      "start": 1717.79,
+      "end": 1722.29,
+      "text": "Then I go, okay, I'm not going to craft my own narrative as to why you didn't do well."
+    },
+    {
+      "start": 1722.39,
+      "end": 1725.67,
+      "text": "I'm going to go, okay, here's the reason why it's not doing well, but here's why they are."
+    },
+    {
+      "start": 1726.31,
+      "end": 1728.99,
+      "text": "Better for you to tell me than for me to come up with my own narrative."
+    },
+    {
+      "start": 1729.23,
+      "end": 1729.37,
+      "text": "Totally."
+    },
+    {
+      "start": 1729.37,
+      "end": 1744.01,
+      "text": "And I think that's probably one thing I see a lot is people thinking that just because you don't lead with it that people somehow are not going to see it, which is almost worse."
+    },
+    {
+      "start": 1744.35,
+      "end": 1744.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 1744.73,
+      "end": 1751.41,
+      "text": "What would you say are like the top three to five things that you – or you're immediately – when you get on a call, you're immediately looking for these three things right away."
+    },
+    {
+      "start": 1751.57,
+      "end": 1754.63,
+      "text": "It sounds like revenue, traction, profit, those are part of it."
+    },
+    {
+      "start": 1754.63,
+      "end": 1755.23,
+      "text": "Yeah."
+    },
+    {
+      "start": 1755.57,
+      "end": 1764.21,
+      "text": "I think probably first and foremost is like why does the consumer need this, right?"
+    },
+    {
+      "start": 1764.29,
+      "end": 1767.33,
+      "text": "Like what exists today and why is this better?"
+    },
+    {
+      "start": 1767.55,
+      "end": 1770.09,
+      "text": "Like is it a better for you version of this?"
+    },
+    {
+      "start": 1770.85,
+      "end": 1774.13,
+      "text": "Is it like led with technology on the beauty side?"
+    },
+    {
+      "start": 1774.13,
+      "end": 1775.11,
+      "text": "Is it super innovative?"
+    },
+    {
+      "start": 1775.33,
+      "end": 1776.41,
+      "text": "Is it an ingredient story?"
+    },
+    {
+      "start": 1777.07,
+      "end": 1779.59,
+      "text": "Is it like a hit product?"
+    },
+    {
+      "start": 1779.59,
+      "end": 1786.35,
+      "text": "Is it like a category and brand that people don't have in their repertoire yet?"
+    },
+    {
+      "start": 1786.53,
+      "end": 1793.21,
+      "text": "Like what's the reason for this to exist is like to me the first thing and why does the consumer need it?"
+    },
+    {
+      "start": 1794.13,
+      "end": 1797.75,
+      "text": "I think everything around unit economics."
+    },
+    {
+      "start": 1797.93,
+      "end": 1801.05,
+      "text": "And then like why are you the right person to do this?"
+    },
+    {
+      "start": 1801.05,
+      "end": 1803.33,
+      "text": "Like are you exceptional at product?"
+    },
+    {
+      "start": 1803.55,
+      "end": 1804.97,
+      "text": "Are you exceptional at team building?"
+    },
+    {
+      "start": 1805.65,
+      "end": 1812.03,
+      "text": "Are you like – do you have some unique supply chain connection that like no one else has, right?"
+    },
+    {
+      "start": 1812.09,
+      "end": 1819.97,
+      "text": "Because if it's a great idea, then like I want to – you know, imaginary wants to make sure that like you're the right person."
+    },
+    {
+      "start": 1820.31,
+      "end": 1820.41,
+      "text": "Right."
+    },
+    {
+      "start": 1820.57,
+      "end": 1820.65,
+      "text": "Yeah."
+    },
+    {
+      "start": 1821.83,
+      "end": 1827.23,
+      "text": "And again, I think it varies by pre-launch versus launch businesses."
+    },
+    {
+      "start": 1827.23,
+      "end": 1830.63,
+      "text": "And in the launch stage, like what retail are you in?"
+    },
+    {
+      "start": 1830.85,
+      "end": 1833.79,
+      "text": "You know, like why do you have a competitive advantage in this retail?"
+    },
+    {
+      "start": 1835.43,
+      "end": 1837.21,
+      "text": "So I think it depends on the stage."
+    },
+    {
+      "start": 1837.35,
+      "end": 1842.83,
+      "text": "And I do think that there's a big difference between a launched brand and a pre-launch brand."
+    },
+    {
+      "start": 1843.07,
+      "end": 1843.27,
+      "text": "Totally."
+    },
+    {
+      "start": 1844.27,
+      "end": 1847.99,
+      "text": "I feel like in the last like couple years, SaaS investing has gotten huge."
+    },
+    {
+      "start": 1848.17,
+      "end": 1850.05,
+      "text": "Like all the infrastructure around e-commerce."
+    },
+    {
+      "start": 1850.47,
+      "end": 1850.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 1851.23,
+      "end": 1853.25,
+      "text": "Are you guys big into the SaaS investing side?"
+    },
+    {
+      "start": 1853.39,
+      "end": 1854.33,
+      "text": "I know we're both in Black Crow."
+    },
+    {
+      "start": 1854.57,
+      "end": 1854.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 1854.89,
+      "end": 1862.33,
+      "text": "Um, we definitely have enablement investments that we love and adore, including Black Crow."
+    },
+    {
+      "start": 1862.77,
+      "end": 1871.19,
+      "text": "Um, I would say I am not, um, as involved in a lot of the enablement investments."
+    },
+    {
+      "start": 1871.73,
+      "end": 1878.61,
+      "text": "Um, but I think if it's anything that our brands can use, then it's something that we'll invest in."
+    },
+    {
+      "start": 1878.75,
+      "end": 1879.01,
+      "text": "Yeah."
+    },
+    {
+      "start": 1879.13,
+      "end": 1879.27,
+      "text": "Right?"
+    },
+    {
+      "start": 1879.39,
+      "end": 1880.65,
+      "text": "I've always thought about it that way too."
+    },
+    {
+      "start": 1880.83,
+      "end": 1882.37,
+      "text": "Black Crow being one of those things."
+    },
+    {
+      "start": 1882.57,
+      "end": 1882.67,
+      "text": "Yeah."
+    },
+    {
+      "start": 1882.67,
+      "end": 1893.83,
+      "text": "Um, and so I think, you know, in this day and age, we think a lot, like the way that we diligence those opportunities is really sending them to our brands."
+    },
+    {
+      "start": 1894.03,
+      "end": 1894.19,
+      "text": "Right?"
+    },
+    {
+      "start": 1894.45,
+      "end": 1895.89,
+      "text": "Like, would you use this?"
+    },
+    {
+      "start": 1896.35,
+      "end": 1897.39,
+      "text": "Why do you like this?"
+    },
+    {
+      "start": 1897.49,
+      "end": 1898.75,
+      "text": "Is this top of mind for you?"
+    },
+    {
+      "start": 1898.89,
+      "end": 1901.35,
+      "text": "And as you know, like there are so many tools today."
+    },
+    {
+      "start": 1901.35,
+      "end": 1901.63,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1901.71,
+      "end": 1908.79,
+      "text": "And so I think it says a lot when your brands are really excited about, you know, oh my gosh, this is exactly what I've been looking for."
+    },
+    {
+      "start": 1908.87,
+      "end": 1911.93,
+      "text": "That is a huge signal to us versus like, this is really interesting."
+    },
+    {
+      "start": 1912.11,
+      "end": 1913.21,
+      "text": "I'll get back to it in six months."
+    },
+    {
+      "start": 1913.39,
+      "end": 1913.79,
+      "text": "Yeah, totally."
+    },
+    {
+      "start": 1913.99,
+      "end": 1918.93,
+      "text": "And so I think the best way for us to think about those is like, how excited do our brands get about them?"
+    },
+    {
+      "start": 1919.17,
+      "end": 1919.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 1919.47,
+      "end": 1924.23,
+      "text": "I've always thought with SaaS investing, if it doesn't solve a top five founder problem, it's never going to work."
+    },
+    {
+      "start": 1924.23,
+      "end": 1926.25,
+      "text": "To me, it's even, it's a top two."
+    },
+    {
+      "start": 1926.47,
+      "end": 1928.89,
+      "text": "Like, it's like, is this driving revenue immediately?"
+    },
+    {
+      "start": 1929.15,
+      "end": 1929.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 1929.35,
+      "end": 1931.19,
+      "text": "Or is this increasing profit immediately?"
+    },
+    {
+      "start": 1931.45,
+      "end": 1936.95,
+      "text": "And if it's not doing one of those two things, it's likely not a priority for most founders right now."
+    },
+    {
+      "start": 1937.03,
+      "end": 1944.25,
+      "text": "Just because like investors are on the other side being like, um, are you doing more with less?"
+    },
+    {
+      "start": 1944.47,
+      "end": 1944.81,
+      "text": "Right?"
+    },
+    {
+      "start": 1944.95,
+      "end": 1947.35,
+      "text": "Like that's like the annoying investor thing right now."
+    },
+    {
+      "start": 1947.45,
+      "end": 1950.31,
+      "text": "It's like, hey, be more profitable and grow faster."
+    },
+    {
+      "start": 1950.63,
+      "end": 1950.75,
+      "text": "Right."
+    },
+    {
+      "start": 1950.75,
+      "end": 1952.65,
+      "text": "And founders are like, what the hell?"
+    },
+    {
+      "start": 1952.83,
+      "end": 1953.95,
+      "text": "Like I can do one or the other."
+    },
+    {
+      "start": 1954.23,
+      "end": 1954.39,
+      "text": "Yeah."
+    },
+    {
+      "start": 1954.61,
+      "end": 1957.61,
+      "text": "And so if you're a tool that's not helping them do one of those things."
+    },
+    {
+      "start": 1957.87,
+      "end": 1958.01,
+      "text": "Yeah."
+    },
+    {
+      "start": 1958.35,
+      "end": 1963.79,
+      "text": "It's hard to become a priority, especially if you take like, you know, a year to integrate."
+    },
+    {
+      "start": 1964.09,
+      "end": 1964.27,
+      "text": "Totally."
+    },
+    {
+      "start": 1965.11,
+      "end": 1969.05,
+      "text": "Um, back on the consumer side, like where do you see the exit environment?"
+    },
+    {
+      "start": 1969.05,
+      "end": 1970.85,
+      "text": "I feel like it's been so slow lately."
+    },
+    {
+      "start": 1971.85,
+      "end": 1972.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 1972.51,
+      "end": 1982.17,
+      "text": "I mean, again, I think over engineering an exit early on is probably like not a priority for a founder."
+    },
+    {
+      "start": 1982.47,
+      "end": 1982.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 1982.63,
+      "end": 1986.65,
+      "text": "Um, that being said, I think great businesses get bought or have an exit."
+    },
+    {
+      "start": 1986.89,
+      "end": 1997.73,
+      "text": "And so to me, it's like as a founder focusing on creating incredible fundamentals, growing, being super profitable."
+    },
+    {
+      "start": 1997.73,
+      "end": 2003.81,
+      "text": "And there will be an opportunity for you to exit the business or take some secondary off the table."
+    },
+    {
+      "start": 2004.07,
+      "end": 2004.13,
+      "text": "Yeah."
+    },
+    {
+      "start": 2004.35,
+      "end": 2007.25,
+      "text": "Gone are the 2020 days of like early founder secondary though."
+    },
+    {
+      "start": 2007.55,
+      "end": 2007.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 2008.19,
+      "end": 2008.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 2009.09,
+      "end": 2010.69,
+      "text": "What, what does secondaries look like today?"
+    },
+    {
+      "start": 2011.43,
+      "end": 2013.47,
+      "text": "Um, I think it varies."
+    },
+    {
+      "start": 2013.59,
+      "end": 2021.21,
+      "text": "I think again, like, you know, imaginary is opportunistic about secondary opportunities for businesses that don't need primary capital."
+    },
+    {
+      "start": 2021.21,
+      "end": 2021.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 2022.27,
+      "end": 2029.85,
+      "text": "Um, but I think it's a lot harder for a founder to take, if you're a great business, you can do what you want."
+    },
+    {
+      "start": 2030.07,
+      "end": 2030.21,
+      "text": "Right."
+    },
+    {
+      "start": 2030.51,
+      "end": 2038.21,
+      "text": "Um, I think for some of the early stage businesses who wanted to take set, who could take secondary and probably like the 2020 era, it's a little bit harder today."
+    },
+    {
+      "start": 2038.51,
+      "end": 2038.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 2038.69,
+      "end": 2040.21,
+      "text": "To get that kind of liquidity."
+    },
+    {
+      "start": 2040.63,
+      "end": 2044.67,
+      "text": "And, um, when you think of like a great business, that's like, they can do whatever they want."
+    },
+    {
+      "start": 2044.85,
+      "end": 2046.25,
+      "text": "What do you, what do you, how do you define that?"
+    },
+    {
+      "start": 2047.07,
+      "end": 2051.73,
+      "text": "I mean, a business that's growing a hundred percent, that's super profitable."
+    },
+    {
+      "start": 2052.15,
+      "end": 2052.51,
+      "text": "Yeah."
+    },
+    {
+      "start": 2052.63,
+      "end": 2055.87,
+      "text": "Like that's, you know, a hundred million plus."
+    },
+    {
+      "start": 2056.11,
+      "end": 2056.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 2056.63,
+      "end": 2056.79,
+      "text": "Right."
+    },
+    {
+      "start": 2056.81,
+      "end": 2067.83,
+      "text": "Like if you, if you're, if you're spinning off 30% EBITDA, you don't like, what are you, what are you, what's, what are you going to do with the extra $20 million that imaginary wants to give you?"
+    },
+    {
+      "start": 2067.83,
+      "end": 2077.25,
+      "text": "But if imaginary wants to put it in treasuries, but if imaginary wants to be like a part of that business, it doesn't need cash."
+    },
+    {
+      "start": 2077.37,
+      "end": 2079.07,
+      "text": "So like, what's the other opportunity?"
+    },
+    {
+      "start": 2079.09,
+      "end": 2080.83,
+      "text": "That's like a secondary opportunity."
+    },
+    {
+      "start": 2080.97,
+      "end": 2081.51,
+      "text": "Yeah, totally."
+    },
+    {
+      "start": 2081.89,
+      "end": 2088.33,
+      "text": "Versus a business who's like, oh, I can put $20 million of primary capital work and expanding retail."
+    },
+    {
+      "start": 2088.55,
+      "end": 2088.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 2088.83,
+      "end": 2088.91,
+      "text": "Right."
+    },
+    {
+      "start": 2088.99,
+      "end": 2093.87,
+      "text": "Like, well, then why would the founder take a hundred percent of that?"
+    },
+    {
+      "start": 2094.03,
+      "end": 2094.21,
+      "text": "Right."
+    },
+    {
+      "start": 2094.43,
+      "end": 2094.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 2094.79,
+      "end": 2094.95,
+      "text": "Right."
+    },
+    {
+      "start": 2097.83,
+      "end": 2099.99,
+      "text": "You're like, what are some of the trends you're excited about in consumer?"
+    },
+    {
+      "start": 2100.25,
+      "end": 2103.59,
+      "text": "Do you think consumer investing is going to come back in a big way in the new year?"
+    },
+    {
+      "start": 2104.75,
+      "end": 2110.45,
+      "text": "I think it's always back in a big way because that's what imaginary does."
+    },
+    {
+      "start": 2110.81,
+      "end": 2113.57,
+      "text": "So there will always be new brands."
+    },
+    {
+      "start": 2113.57,
+      "end": 2116.27,
+      "text": "I think we've never been more excited about consumer."
+    },
+    {
+      "start": 2118.19,
+      "end": 2119.51,
+      "text": "We're really opportunistic."
+    },
+    {
+      "start": 2119.51,
+      "end": 2127.85,
+      "text": "We obviously spend a lot of time in categories, like I mentioned, like better for you food and beauty."
+    },
+    {
+      "start": 2128.93,
+      "end": 2132.95,
+      "text": "I think there's a lot of, you know, key areas of focus for us."
+    },
+    {
+      "start": 2133.09,
+      "end": 2141.75,
+      "text": "I think like, you know, I'm not unique in thinking of this, but, you know, the, for example, the rise in GLP ones, like what knock on effects does that have in beauty?"
+    },
+    {
+      "start": 2141.89,
+      "end": 2143.57,
+      "text": "What knock on effects does that have in protein?"
+    },
+    {
+      "start": 2143.57,
+      "end": 2149.13,
+      "text": "I mean, in snacks, like I think that there are all these like really exciting changes within consumer."
+    },
+    {
+      "start": 2149.37,
+      "end": 2152.41,
+      "text": "Like how can we better serve middle America?"
+    },
+    {
+      "start": 2152.63,
+      "end": 2152.83,
+      "text": "Right."
+    },
+    {
+      "start": 2152.91,
+      "end": 2156.23,
+      "text": "Like how can we focus on the mass consumer?"
+    },
+    {
+      "start": 2156.87,
+      "end": 2163.49,
+      "text": "Um, so I think, I think that there's like a ton of exciting stuff happening."
+    },
+    {
+      "start": 2163.51,
+      "end": 2168.31,
+      "text": "And then, you know, you know about some of the early stage ones that we're doing that I'm not saying."
+    },
+    {
+      "start": 2168.55,
+      "end": 2175.55,
+      "text": "Um, so yeah, I think there, there are a couple of key categories and I'm, um, being a little coy about that."
+    },
+    {
+      "start": 2175.67,
+      "end": 2176.77,
+      "text": "I think we're really excited about."
+    },
+    {
+      "start": 2177.01,
+      "end": 2177.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 2177.37,
+      "end": 2177.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 2179.59,
+      "end": 2182.97,
+      "text": "Um, I'm trying to think if I've got any other questions, anything you would add?"
+    },
+    {
+      "start": 2183.51,
+      "end": 2187.49,
+      "text": "I'm curious what you're excited about in the, in the, the year."
+    },
+    {
+      "start": 2189.27,
+      "end": 2206.65,
+      "text": "I, well, I feel like this year, one thing I recognized, um, across the board was that a lot of these like e-commerce brands that used to do well prior, really on the basis of performance marketing, they can't performance market their way out of building a true brand."
+    },
+    {
+      "start": 2206.65,
+      "end": 2207.31,
+      "text": "Yeah."
+    },
+    {
+      "start": 2207.47,
+      "end": 2209.91,
+      "text": "Now, you know, there's too much competition."
+    },
+    {
+      "start": 2209.93,
+      "end": 2213.81,
+      "text": "There's Temu, there's, uh, sellers on Amazon from around the world."
+    },
+    {
+      "start": 2214.09,
+      "end": 2229.63,
+      "text": "Uh, there's all these things that just make it so like, if, if you're not building a brand brand, you have no moat and you have no, you know, you could be gone tomorrow because somebody else might just undercut you by a dollar, sell the same product and you're gone."
+    },
+    {
+      "start": 2229.63,
+      "end": 2237.25,
+      "text": "You know, um, so I'm excited for, I'm excited to see like brands be built."
+    },
+    {
+      "start": 2237.25,
+      "end": 2246.67,
+      "text": "And I know like, there's a lot of brands I've talked to that are, that were built in the heyday of Facebook that are doing anywhere from, you know, 50 to four, 500 million."
+    },
+    {
+      "start": 2246.67,
+      "end": 2273.37,
+      "text": "And even they recognize this year that, uh, their investment into building a brand is what got them through Q3 and Q4 this year, or is going to get them through Q4 this year versus, um, you know, of the, almost the selling the exact same product, but, but didn't build that brand are, are having a really hard time right now trying to like continue and acquire customers and, um, and, and just retain the market share they have."
+    },
+    {
+      "start": 2273.95,
+      "end": 2287.17,
+      "text": "I think we feel the exact same way and actually get really excited about it because that's what we love is like real brand versus like performance arbitrage."
+    },
+    {
+      "start": 2287.39,
+      "end": 2291.77,
+      "text": "And that doesn't mean that you need to, you shouldn't have, like, to me, it's all working together, right?"
+    },
+    {
+      "start": 2291.77,
+      "end": 2303.11,
+      "text": "It's like making the flywheel of TikTok and meta and retail and distribution all work in your favor is like the unlock and like, that's what's exciting."
+    },
+    {
+      "start": 2303.37,
+      "end": 2303.55,
+      "text": "Yeah."
+    },
+    {
+      "start": 2333.37,
+      "end": 2334.73,
+      "text": "Or the seed stage side."
+    },
+    {
+      "start": 2334.89,
+      "end": 2341.49,
+      "text": "It's really with founders who have like a unique point of view who want to solve a problem."
+    },
+    {
+      "start": 2341.83,
+      "end": 2347.19,
+      "text": "And to me, that is like the core of why a brand starts and then everything else can work in your favor."
+    },
+    {
+      "start": 2347.47,
+      "end": 2355.15,
+      "text": "But if you don't have that and you're not creating product that doesn't exist already, like why is this product better than everything else on the market?"
+    },
+    {
+      "start": 2355.15,
+      "end": 2357.09,
+      "text": "Why should you be the founder of it?"
+    },
+    {
+      "start": 2357.23,
+      "end": 2359.85,
+      "text": "Like what's your reason for existing?"
+    },
+    {
+      "start": 2360.13,
+      "end": 2368.71,
+      "text": "I think without that, like Facebook and like performance marketing is great, but it's hard to build a generationally defining brand."
+    },
+    {
+      "start": 2369.09,
+      "end": 2369.21,
+      "text": "Yeah."
+    },
+    {
+      "start": 2369.43,
+      "end": 2381.43,
+      "text": "One of the, anytime I build like a website or a landing page, one of the questions I always ask is, um, or that we, I always like to answer throughout the site is how is this better than anything else on the market?"
+    },
+    {
+      "start": 2381.43,
+      "end": 2385.53,
+      "text": "That's the same thing. And if you can't answer that, you have no shot at converting people."
+    },
+    {
+      "start": 2385.73,
+      "end": 2393.13,
+      "text": "You should, um, be on our, some of our product calls on our physical product calls, because that's exactly, that's exactly right."
+    },
+    {
+      "start": 2393.21,
+      "end": 2397.37,
+      "text": "Like why even launch? Why build if it's not better?"
+    },
+    {
+      "start": 2397.37,
+      "end": 2397.93,
+      "text": "Totally."
+    },
+    {
+      "start": 2398.35,
+      "end": 2405.59,
+      "text": "Um, and I, and it's like, and I think going back to what you said, you know, will, what do consumers care about?"
+    },
+    {
+      "start": 2405.73,
+      "end": 2407.99,
+      "text": "I think there's always going to be newness."
+    },
+    {
+      "start": 2408.17,
+      "end": 2412.35,
+      "text": "Like I think 20 years ago, people were like, why do you need another beauty brand?"
+    },
+    {
+      "start": 2412.55,
+      "end": 2413.71,
+      "text": "Estee Lauder exists, right?"
+    },
+    {
+      "start": 2413.71,
+      "end": 2419.91,
+      "text": "Like there is so much opportunity still left to create and ideate and innovate."
+    },
+    {
+      "start": 2419.91,
+      "end": 2422.13,
+      "text": "And I think it's so exciting."
+    },
+    {
+      "start": 2422.35,
+      "end": 2431.49,
+      "text": "Some of the technology that like, I see our companies using, I see our founders taking advantage of, um, the one that like you're working on."
+    },
+    {
+      "start": 2431.59,
+      "end": 2437.69,
+      "text": "Like, I just think some of the innovation is so exceptional, um, that it gets us really excited."
+    },
+    {
+      "start": 2438.11,
+      "end": 2439.29,
+      "text": "Um, yeah, totally."
+    },
+    {
+      "start": 2439.29,
+      "end": 2445.07,
+      "text": "Absolutely. Um, okay. Well, that's, that's all I had for you today. I appreciate you coming."
+    },
+    {
+      "start": 2445.27,
+      "end": 2450.53,
+      "text": "And, uh, if people have questions or they want to pitch you something or send you something, what's the best way to get in touch?"
+    },
+    {
+      "start": 2450.69,
+      "end": 2452.81,
+      "text": "Kelly at imaginary.co."
+    },
+    {
+      "start": 2453.03,
+      "end": 2454.29,
+      "text": "Wow. So fancy."
+    },
+    {
+      "start": 2454.51,
+      "end": 2455.27,
+      "text": "So fancy."
+    },
+    {
+      "start": 2455.49,
+      "end": 2456.73,
+      "text": "Couldn't, no M."
+    },
+    {
+      "start": 2457.87,
+      "end": 2459.69,
+      "text": "Couldn't afford the M when we started."
+    },
+    {
+      "start": 2460.31,
+      "end": 2461.01,
+      "text": "Oh, .com."
+    },
+    {
+      "start": 2461.93,
+      "end": 2463.63,
+      "text": "Amazing. Thank you, Kelly."
+    },
+    {
+      "start": 2463.95,
+      "end": 2465.65,
+      "text": "Thank you so much, Nick. It was fun to be here."
+    },
+    {
+      "start": 2466.29,
+      "end": 2467.13,
+      "text": "Thanks for listening."
+    },
+    {
+      "start": 2467.13,
+      "end": 2470.81,
+      "text": "We'll be back next time to cut through the noise on CPG, retail and e-commerce."
+    },
+    {
+      "start": 2471.11,
+      "end": 2477.07,
+      "text": "If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

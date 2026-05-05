@@ -1,0 +1,449 @@
+{
+  "cues": [
+    {
+      "start": 1.09,
+      "end": 27.45,
+      "text": "Welcome back to Season 12 of Limited Supply, the only commerce podcast with unfiltered and refreshingly hot takes. I'm your host, Nik Sharma, and when I'm not recording, I'm behind the scenes scaling your favorite celebrity and consumer brands. Let's start talking all things direct to consumer. Nik Sharma, Nik Sharma, I'm going to tell you about a software that my agency Sharma Brands uses with our fastest scaling brands. Historically, last click advertising channels, think Facebook, Google, or TikTok, they take too much credit for what they do."
+    },
+    {
+      "start": 27.45,
+      "end": 56.47,
+      "text": "As a result, it's reduced confidence for brands to effectively scale their upper funnel strategies, which puts them in a pickle of higher CPAs. A few years ago, without Prescient, I would have said there's no real way to track what channels like YouTube, TV, or even newcomers like AppLovin are doing. But with Prescient, you can now look at daily, multi-channel forecasting and optimize your paid media without any bias. Prescient allows you to see the halo effect that is usually unrecognized with top funnel channels and allows you to measure those down to the campaign level."
+    },
+    {
+      "start": 56.47,
+      "end": 80.36,
+      "text": "See the impact your upper funnel media really has on e-commerce, Amazon, and even retail stores. Plus, once you go live, since it's not a pixel-based platform, you'll have data and results populating within a week. Try it out and go to prescientai.com slash limited to learn more. Welcome back to another episode of Limited Supply."
+    },
+    {
+      "start": 80.36,
+      "end": 108.84,
+      "text": "Welcome back to another episode of MMM, which is Media Mixed Modeling. We've talked before about MTA. We've talked about incrementality. Today, we're going to talk about the third one, which is MMM. We specifically brought on Mike True, who's the creator of Prescient or Prescient, however you want to say it. They're an MMM tool that a lot of our largest clients use. And Prescient is also the sponsor of this season."
+    },
+    {
+      "start": 109.14,
+      "end": 124.26,
+      "text": "But Mike is a good friend, incredibly talented, incredibly smart, knows this space better than anybody else. And we broke a lot of things down to a very basic level. So, it's very easy to understand and sort of follow along."
+    },
+    {
+      "start": 124.62,
+      "end": 152.5,
+      "text": "And specifically, if you run media on channels that are view-through channels, channels like TV, TikTok, AppLovin, YouTube, or you're selling in places like retail, Amazon, you know, things that are not your .com. This episode is definitely a must-listen for you. And, yeah, I hope you enjoy it. If you have any questions, you can always hit me on Twitter DMs or by email. You can hit up Mike, his email is at the end. And I hope you enjoy the episode."
+    },
+    {
+      "start": 153.94,
+      "end": 183.02,
+      "text": "All right, Mike. Well, it's an honor to have you here. You know, I think a lot of people think that real-time tracking is now dead. And they might open up their meta dashboard and think, you know, these numbers can't be right, but it might be working. And so, I'm excited to go through that whole thought process with you today. But to start off, could you give us just a quick background on what is MMM? And then I want to get into just who you are and why you built Prescient. Yeah, of course. Good to see you, brother. Thanks for having me on."
+    },
+    {
+      "start": 183.92,
+      "end": 212.26,
+      "text": "MMM stands for Media Mixed Model, Marketing Mixed Model. They've been around since the 60s. It was the primary form of measurement where we spent on a billboard or catalog TV, anything for the newspaper. And they still wanted to know how was my spend driving retail sales. And so, they built these statistical models that tried to look at spend and revenue and find correlations between the two of them. Easiest way to think about an MMM nowadays is it's going to help you measure your top of funnel spend."
+    },
+    {
+      "start": 212.76,
+      "end": 240.76,
+      "text": "Essentially taking credit from your last click and redistributing it back up to campaigns where you have the highest level of confidence that the credit deserves to be to that campaign. And then it will provide some like budget optimization and recommendation models on how you should shift your spend. We can unpack some of the nitty gritty that goes underneath the MMM, but in the general thesis, it's top of funnel measurement. And then how do you reallocate and re-optimize your budgets? Basically, if you run paid media, this is the episode to listen to. Mike, I want to get into your story real quick."
+    },
+    {
+      "start": 241.04,
+      "end": 270.88,
+      "text": "So, tell us just quickly, you know, you're like, you're a fun dude, but you're also a big software guy now. And you weren't always a big software guy. So, how did you get to, you know, where you are today? And really just talk about like the story of Prescient. How'd you get into MMM? How'd you know that this was something to focus on? You know, I know Prescient separately and outside of this conversation, obviously, but I know that you did, you started doing this before anybody else was doing this in a different industry. So walk us through that story just to give the listeners some context."
+    },
+    {
+      "start": 271.4,
+      "end": 297.18,
+      "text": "Yeah, I'd say I never thought I was going to start a software company. I was always doing large scale software transactions within the analytics space. So I don't know if anyone remembers like the IBM Watson back in 2014 that beat the Jeopardy. So I was on that team and predominantly focused on healthcare and financial services. I mean, it was interesting. I know we were just catching up about music, but I was at a Byron Bay's Blues Festival in Australia at the end."
+    },
+    {
+      "start": 297.42,
+      "end": 318.1,
+      "text": "I said, I'm going to go build a platform that I'm going to sell to a record label and initially went to go build a model that would predict where artists should tour and recommend local venues, things of that nature. And then after COVID hit, touring stopped, I was back against the wall. I'm like, you know, go back and sell software again. You know, it's a good job. But one of my advisors said, hey, you know, with COVID, everybody's going to be inside."
+    },
+    {
+      "start": 319.06,
+      "end": 347.4,
+      "text": "Labels are adjusting their strategies to spend or do awareness tactics, spend and earned to drive awareness for people to stream songs while they're inside their house. The problem is there's no Google Analytics behind Spotify and Apple, so you don't get that last click. Music is the most difficult industry to measure of any industry, right? Because you're going to think of the noise around Cardi B when she is promoting a song. She's on the James Corbin show. They're doing Twitter live streams."
+    },
+    {
+      "start": 347.54,
+      "end": 373.18,
+      "text": "They're doing all sort of these viral moments of a dance that goes viral on TikTok. But they're also spending across seven to eight, you know, digital advertising channels just like you would as a DTC brand. So idea came from a music festival and evolved into where we are today. And could you just talk like I remember. So for just just so you know, the things that you think in your brain are so simple, make no sense to most people."
+    },
+    {
+      "start": 373.4,
+      "end": 397.2,
+      "text": "So what I'm thinking about is you were showing me this demo of Preshi in a while ago and you were literally showing me how you were predicting. You were able to dictate where you could put where you could allocate spend and calculate it down to the number of streams that it would output or number of music sales it would output. And that was kind of the catalyst for building this. Could you just talk a little bit about that and how that worked and also like how you even go about calculating that stuff?"
+    },
+    {
+      "start": 397.36,
+      "end": 420.48,
+      "text": "And I think it's I'm going to layer on like when you think about an MMM, the questions you want to ask, whether it's us or other MMM vendors is one of the big things when you go to a label exec and they say, well, how do you get them confident in your form of measurement? How do you say, hey, they knew that there was a song by Cardi B is a very derogatory song, but it blew up on tick tock where little kids were going to record their parents reaction when they heard this song."
+    },
+    {
+      "start": 420.48,
+      "end": 450.26,
+      "text": "And it went absolutely viral. The label execs knew that there was a halo effect from that organic onto these streams. And we were able to start quantifying that. But the first question was, how do you get somebody confident in your measurement? And what you do with an MMM is you do a series of back testing. So we got Cardi B, Roddy, Rich, all these songs. We got all of their old streams by day by platform. And then we had all of their spend by day by platform. So you can think about this, your Shopify to Spotify. And then you have the same similar ad channels."
+    },
+    {
+      "start": 450.44,
+      "end": 477.56,
+      "text": "And then we had some of like events that took place. Think of those as like a tentpole moment, like a PR thing, which a lot of brands might be familiar with. And we would train our models on that. And then we would see, could we predict how our songs were going to perform in the past? They've already happened. The songs happened. So we knew the actuals and we train up on everything until that song. And then we just use the spend the seasonality to see if we can predict how that song will go. We're coming 93 to 98 percent accurate consistency with consistently with these artists."
+    },
+    {
+      "start": 477.88,
+      "end": 506.88,
+      "text": "So MMM historical measurement, right? That's how you can initially think of how we started in music and then how that translates over today. The next question we said, Hey, Mr. and Mrs. Label Execs, if we had that same budget for these songs and our model had spent them, here's how many songs we think incrementally you could have gotten compared to how many songs you achieved in the past historically. So I remember it was February of 2021. We were watching Cardi B's Up song come out."
+    },
+    {
+      "start": 507.12,
+      "end": 527.42,
+      "text": "And I'll never forget it. We called the GM of Atlantic Records. There was no tech platform available. It was just send us data. We'd run it through our models. We'd give them a report. We'd type it out. And we said, Hey, if you shift from Spotify to YouTube and Facebook to Snapchat, here's how many incremental streams you're going to get over the next 30 days. And they took our spend recommendation and we predicted it at 96.3 percent accurate."
+    },
+    {
+      "start": 528.5,
+      "end": 554,
+      "text": "And that was really that aha moment of, wow, this worked in an industry with no last click data, a lot of noise with this level of accuracy. Hey, it makes sense for us to go explore turning this into a software platform where marketers can log in and get those insights in a consumable way. And then as you shifted this from the music industry to the world of consumer brands, how did you then, you know, what did you change?"
+    },
+    {
+      "start": 554.24,
+      "end": 576.42,
+      "text": "And also, how do you like, I think the thing that I think about and a lot of people probably are wondering is like, how can you predict like what data sets can you use to predict the future with such uncertainty? And how do you do that with your MMM? And then we can get into the specifics. Yeah, yeah, of course. So your spend does not drive 100% of your revenue."
+    },
+    {
+      "start": 578.1,
+      "end": 600.94,
+      "text": "The seasonality, there's promotional periods that just word of mouth, there's just truly organic things that take place where, you know, I cut my knee, I need to go buy a bandaid because I cut my knee that had nothing really. Maybe I had exposure to, you know, a brand that was associated to that. So MMMs are using historical data to try to understand and quantify the impact of how much seasonality drives for your business, right?"
+    },
+    {
+      "start": 600.94,
+      "end": 630.92,
+      "text": "How much word of mouth, like what is truly organic? So if your brand made $10 million last year, we're going to look at your historical data and say, all right, 65% of your revenue was generated from your spend. Right. And that spend is going to fight for credit, right? So the inputs that you have from there, you have to see some sort of spend by day. And then we look at impressions, which unique to us as we look at actually GA session level conversion. So like paid organic and direct, and then we look at the revenue and we're looking at this from, you know,"
+    },
+    {
+      "start": 630.94,
+      "end": 659.64,
+      "text": "from your Shopify, from your Amazon, from your retail, from your GA or GA4, and then all of your different ad channels that could range from connected TV to podcasts to Reddit and Google. And things can happen that you can't predict and the models will be wrong. You can't predict if COVID is going to happen. You can't predict if tariffs are going to take place, but what you can do with MMMs, and I can talk more about what's specific to ours is the models like to see change. And so when something changes, it's going to want to try to know something else happened."
+    },
+    {
+      "start": 659.74,
+      "end": 687.46,
+      "text": "But if you tell the model what happened, now you can start to like quantify the impact of COVID, quantify the impact of tariffs alongside the impact of all of your paid media spend. Totally. Before we dive into the prescient differences, can you speak to the difference between, you know, as if you're talking to my mom here, the difference between MTA, MMM, incrementality, and even just looking at in-platform data? MTA would be, I want to know deterministically, right?"
+    },
+    {
+      "start": 687.62,
+      "end": 715.66,
+      "text": "Because an MTA is going to say this person based off an IP address did this, this, and this. And I'm very sure of it, right? It's indisputable. This is exactly what happened based off of clicks that took place across our different ad campaigns. Now, what that's great for is for channels that have very click-based channels, bottom of funnel channels. What it's not very good for something like linear TV or connected TV or podcast or YouTube or TikTok where they're more view-based channels."
+    },
+    {
+      "start": 716.56,
+      "end": 745.06,
+      "text": "Now you could think about an incrementality test is, hey, if I'm running five channels and I shut everything off and see what the impact of that one channel is or vice versa, right? You're just kind of like shutting off, off spend. You're looking at like, hey, what was that incremental impact? Because the other things are no longer in the equation anymore. And what incrementality is great for is says, hey, at this point in time, this channel is incremental, right? But it doesn't tell you what to go do next. And you have to go run it again and recalibrate and run it again."
+    },
+    {
+      "start": 745.66,
+      "end": 773.52,
+      "text": "An MMM historically would run once a year, maybe now twice a year, quarterly or maybe monthly, sometimes weekly. MMMs are statistical models that are using historical data, right? To try to find, hey, what is that sweet spot of how much you should be spending and then forecast out what does that predictive impact if you make those changes. Now they're all unified to work together. And it's funny. My favorite quote is George Box. It says all models are wrong, but some are useful. Right?"
+    },
+    {
+      "start": 774.12,
+      "end": 803.08,
+      "text": "I am a firm believer and I'll stand by this since coming into e-commerce. People will say, well, this is my source of truth. And I'm like, no, there's no source of truth. The source of truth is you. There's a variety of forms of measurement that are designed to tell you different things for brands that have different, different marketing mixes. You know, I love these, love all the pure play MTA players out there. We'll send them three to five deals a week. And if the brand is just comes to us and the Shopify and Meta and Google, they do not need an MMM at this time."
+    },
+    {
+      "start": 803.08,
+      "end": 832.72,
+      "text": "And they should go dial in that with an MTA. And then as they're going to start going into upper frontal channels, they're going to go into Amazon or retail. Then this is when you're going to want to start considering an MMM and making sure you're asking the right questions about the validation of the MMM. Incrementality is, hey, put the holdout data inside of MMMs is a big thing you're hearing a lot of people talk about now. So can you explain that? So taking incrementality data and putting it into MMM. Can you explain what that means? And also like an example of that? Yeah."
+    },
+    {
+      "start": 833.16,
+      "end": 858.4,
+      "text": "So I was just looking at a shout out to, it's a great incrementality provider from a platform called house. They do a lot of incrementality holdout results. And we share a ton of mutual clients. And, you know, when they were looking at YouTube, for example, they're showing what is that cost per incremental acquisition. And they show that from those holdout results. And the brand say, hey, listen, like, I'm really confident that this holdout is accurate."
+    },
+    {
+      "start": 858.54,
+      "end": 884.26,
+      "text": "And I want to put in, you know, this measurement into your model. So now our model believes, right, we call them priors, think of priors as a prior belief, our models using the measurement from that holdout test. We have other clients that say, hey, I want to put in my post purchase survey results into your MMM."
+    },
+    {
+      "start": 884.8,
+      "end": 911.38,
+      "text": "We have some clients that have, this is a real big mind blown from here, but we have other clients that are running Google. Google's Meridian, which is an open source MMM. I suggest the folks out there take a look at that. There's Robin, which is an open source MMM. And they're taking results from other MMMs and putting it into our models as well. And so now these marketers have the flexibility to use. We have the most reliable forecasting."
+    },
+    {
+      "start": 911.7,
+      "end": 939.86,
+      "text": "So you're using first and second or third data party sets to, in addition to like everything you gather from a brand and even stuff they try to upload, like post purchase survey results or retail sales. And you're basically creating a very accurate model based on all the data that you're sourcing together. Is that right? Yeah, we're truly unbiased in a sense, like, because MMMs are designed to say, go do this next, right? Right. You do this."
+    },
+    {
+      "start": 940.02,
+      "end": 969.18,
+      "text": "If you shift from YouTube over to AppLovin and Meta over to CTV, right, we predict that you're going to get 2,000 incremental new customers and your cap will go down by 20% on Amazon. Right. It's a great use case that people use our platform for, but there's some sort of measurement that is telling them how much they should be increasing or decreasing the spend. You can use our payload effect measurement. You're going to get your own MMM measurement from us."
+    },
+    {
+      "start": 969.82,
+      "end": 999.64,
+      "text": "But if you have results from post purchase surveys, this is a 3, 2 row as we saw, we're saying it's a 2, 8 and the incrementality saying it's a 3, 4. If you want to use the 3, 4, by all means use the 3, 4. If you want to use the post purchase survey, use the post purchase survey. Right. And our models are really focused on putting the power in the decisions back into the hand of the marketer and then using us for that forecasting and optimization. Agnostic to any form of measurement."
+    },
+    {
+      "start": 1000.64,
+      "end": 1029.7,
+      "text": "I've always gotten the question of, you know, what data set do you operate off of? And having bought media, like so much media online, I feel like internally I get almost like a gut feeling when you read the data and you sort of intuitively know what to do. But how do you explain that answer to somebody, you know, a founder who's listening and they're like, well, I'm going to trust my marketing person with this. You know, do they have the gut feeling for that? Are you saying that you should be trusting intuition over data?"
+    },
+    {
+      "start": 1030.68,
+      "end": 1058.52,
+      "text": "No, definitely not intuition over data. But to your point of like, you know, if you have three different reads and you're trying to figure out which one to optimize toward, right? Whether it's the 2.8, the 3.2 or the 3.4. Usually, you know, if there's no one source of truth, you're sort of using the data to calibrate where you should go toward. But for me, that's always been somewhat of a gut feeling or intuition, kind of like your own data layered on top of the data you're seeing. Yeah, it's a great question."
+    },
+    {
+      "start": 1058.52,
+      "end": 1080.42,
+      "text": "We have some feature coming out within our model that's actually going to recommend and tell them transparently which form of measurement would be best suited for the model. Right. And so they can use the kind of intuition. But if you have three different forms of measurement, help me figure out what is that best one that should be used. And so more to more to come on that."
+    },
+    {
+      "start": 1080.54,
+      "end": 1103.42,
+      "text": "But it's a very strategic priority of ours to be transparent instead of just assuming that, you know, one form of measurement is best for MMM. Right. Could be other forms of measurement. And we're going to help them transparently guide them towards which form of measurement they should use. So it's a big black box today in that sense. And the industry is going that direction."
+    },
+    {
+      "start": 1103.42,
+      "end": 1131.8,
+      "text": "So, you know, like one thing I was thinking about yesterday was with the concept of AI agents getting more and more mainstream. Like I think right now we're about to in the next three, four months, we're going to see a bunch of well-known SaaS companies release agent use cases or allow you to use agents that they've created. And then I think the six months after that, there's going to be a whole world of open source agents. And then the six months after that, it's going to be a marketplace of agents."
+    },
+    {
+      "start": 1132.88,
+      "end": 1143.1,
+      "text": "And, you know, one of the things that about these agents is just like your AI, it keeps getting stronger with more sets of data and more access to data and more context."
+    },
+    {
+      "start": 1143.1,
+      "end": 1173.02,
+      "text": "Do you think that as, as AI becomes more normalized to use in decision making and pattern recognition that a lot of these platforms that have walled gardens around their data are going to start allowing you to export data more freely so that, you know, prescient can not only bring in all the, you know, like truly unfiltered data from all the platforms to give better recommendations. But, you know, that might include anything, you know, just a bunch of unfiltered data that today you just can't get."
+    },
+    {
+      "start": 1173.44,
+      "end": 1203.38,
+      "text": "I think a great example of that is retail. Traditionally, we talk to brands and sure, especially ones that are not owned and operated where they own their own brick and mortar store. Like we have brands that sell in Costco and Whole Foods and then like GNC. I mean, the list goes on and on. Target, Walmart, and Beauty is a tough one with like Sephora and Alta Beauty. And like, so how often do you get the data from them, right? Are you getting a generalized national report? Are you starting to get DMA level? At what frequency does it come in?"
+    },
+    {
+      "start": 1203.86,
+      "end": 1231.72,
+      "text": "And I'm starting to see even the retail media networks now as well. People are starting to open up their data because they understand the importance of having it integrated into different AI platforms and models. And it's almost a necessity at this point, right? Because it creates a level of stickiness for retail providers. You know, the more data they're going to give you, the more better insights you can get. Ideally, the more products are going to be sold throughout these locations."
+    },
+    {
+      "start": 1231.96,
+      "end": 1259.34,
+      "text": "And so I think you're going to see a democratization of first party, third party data based off of what you just described on the AI kind of forefront. Yeah. Yeah. It's spot on, by the way. I couldn't agree with you more. A few years ago, without Prescient, I would have said there's no real way to track what channels like YouTube, TV, or even newcomers like Applovin are doing. But with Prescient, you can now look at daily omni-channel forecasting and optimize your paid media without any bias."
+    },
+    {
+      "start": 1259.34,
+      "end": 1285.8,
+      "text": "Today, brands like Port \u0026 Leather, Satva, Jones Road, Hexclad, and so many more of our clients use Prescient to understand what these top-of-funnel channels actually do to impact their sales in retail, Amazon, and their DTC site. Last-click channels have taken too much credit for far too long and reduced confidence in upper-funnel channels. Prescient allows you to see the halo effect that is usually unrecognized with top-of-funnel channels and allows you to measure those down to the campaign level."
+    },
+    {
+      "start": 1285.8,
+      "end": 1309.97,
+      "text": "See the impact of upper-funnel on your revenue, ROAS, and new customers today by going to prescientai.com slash limited to learn more. That's prescientai.com slash limited. All right. Next thing I want to jump into is how are brands using Prescient today or just MMM in general in modern-day applications?"
+    },
+    {
+      "start": 1309.97,
+      "end": 1339.69,
+      "text": "You know, if I'm a, you know, if I'm a brand, it sounds like if I'm a brand that's just really spending on meta Google, maybe a little bit of TikTok and driving sales on Shopify, I probably don't need it yet. But if I'm now adding in, you know, CTV, app-loving, maybe some podcast advertising, I'm starting to do some pop-ups, PR events. You know, tell me a little bit about like, how does MMM work if I'm a brand doing 30 million versus, you know, a brand doing 400 million?"
+    },
+    {
+      "start": 1340.69,
+      "end": 1364.89,
+      "text": "Yeah. Yeah. I think some, I'm going to give two use cases. I'm going to give the halo effect use case and then I'm going to give the budget optimization use case. Brands that are on Shopify and say, hey, we need to go diversify our revenue mix. And so they move into a marketplace like Amazon. And just like with last click and search, you know, Amazon tends to have inflated credit because it's not kind of seeing what's pushing people over there."
+    },
+    {
+      "start": 1364.89,
+      "end": 1394.41,
+      "text": "And so they use Prescient for, which you need, again, this is unique to us. Our models go down to an individual campaign, right? Which for an MMM is very statistically, it's challenging. So, and our models will run every single day. And so they'll use our platform to look at, hey, how is this YouTube campaign that we just turned on, you know, a couple of weeks ago, impacting sales on Amazon or new customers on Amazon for brands that have a subscription? They don't care about ROAS, but they still want to know that new customer count."
+    },
+    {
+      "start": 1394.67,
+      "end": 1424.13,
+      "text": "And so given them that holistic view to understand, hey, the work that we're doing on our paid social, there is a halo effect over there. And people know that there is. Now they can stand by it. They can justify it. They can go have meaningful conversations with their finance teams, agencies with their clients and working closely with us on those strategies. So halo effects is going to be a big one. The same thing for retail, right? I'm going to give a shout out to a quick aside for anybody on Shopify POS. Please reach out to me. We're doing some design partner stuff."
+    },
+    {
+      "start": 1424.27,
+      "end": 1454.13,
+      "text": "We're actually about to quantify these halo effects of, you know, YouTube or linear or TV or meta on your retail sales. And this model has been in work for about eight months now. Now it's with some of our early design partners, it's been a very effective insight for them to have more holistic perspective and opinion on how their paid media spend is driving revenue across all channels. So let's use case number one. What happened yesterday? What happened in the past using these halo effects?"
+    },
+    {
+      "start": 1455.97,
+      "end": 1478.17,
+      "text": "There's been a lot of buzz around tariffs right now. Actually, any of our clients are listening to this. You'll see an email coming out from me tonight talking about these tariffs. There was some news yesterday on coming from that. Some of the talks between the U.S. and China on tariffs. It's encouraging. Right. Is it solidified? You know, it's still to be determined."
+    },
+    {
+      "start": 1479.35,
+      "end": 1508.97,
+      "text": "And a lot of our clients, they're doing a lot of scenario planning and modeling of like, give me the worst case scenario of these tariffs. And what are some of the first things to go is people cut down on some of their media budgets. And we're seeing it a lot. Right. We are engaging with our clients where we have an optimization tool where you can create dynamic list of certain campaigns based off of performance. And so, hey, I have a $250 CAC target. Right."
+    },
+    {
+      "start": 1509.03,
+      "end": 1533.31,
+      "text": "We're going to have a list of all those campaigns that are left less than a $250 CAC. And we need to cut down our media budgets by 25%. And so they're using us to reduce their media spend on the selected channels. And then we're going to come back and tell them, hey, here's how you should reallocate those budgets. So here's the best we think you can do based off of a reduction in your spend."
+    },
+    {
+      "start": 1534.09,
+      "end": 1560.45,
+      "text": "It's been a very relevant topic of how to utilize our platform. In some cases, we have brands that say, I have an additional half a million dollars. And they sit down and you talk to the finance team. You talk to your channel managers and your agency and everybody put a plan together and say, well, how should we spend this additional $500,000? Well, what do you want to do? Do you try to optimize for CAC on Amazon? Are you going to drive new customers through the dot column? Are you trying to go pure top line revenue growth?"
+    },
+    {
+      "start": 1561.67,
+      "end": 1587.11,
+      "text": "And then just simply in 20 to 40 seconds, selecting those campaigns, increasing the budget by $25,000, $500,000, clicking a button. And 40 seconds later, you're going to have a predicted media plan where you can look at saturation. We are currently spending here. Here's what you should spend here to give some of that validation and justification of why we think you should change that spend. And alongside, we know the seasonality of your business. We know what that impact should be."
+    },
+    {
+      "start": 1587.53,
+      "end": 1616.45,
+      "text": "And one quick aside, I know you didn't ask this question, but I have to share something that I have been seeing a lot from this data is there's a lot of wasted spend that takes place around holiday seasons. You see people trying to chase that revenue or ROAS like right during that tentpole moment. It's ineffective. It's largely, in a sense, like driving down the highway, opening up your sunroof and just letting money fly out the top of the window. There's a relationship between a ratio between your top of funnel and your bottom of funnel."
+    },
+    {
+      "start": 1616.63,
+      "end": 1635.35,
+      "text": "And then there's a time component to that, right? So you think of ratio, top of funnel, bottom of funnel, time component that's aware of upcoming seasonal moments, right? And then you have the third kind of pieces like these saturation plots, diminishing returns. You spend $2 and make $10. You can't expect to spend $2 million and make $10 million. Eventually, it's going to saturate."
+    },
+    {
+      "start": 1635.35,
+      "end": 1663.87,
+      "text": "And the optimizer knows that you need to start spending 45 days in advance of this holiday moment to make sure that ratio between your top of funnel and bottom of funnel is at that right element, right? Because the bottom of funnel is going to do its work just based off of the seasonal moment. And so that's another, I would say, big use case of media planning. Yeah, that is actually a really interesting point and I think a really applicable use case here."
+    },
+    {
+      "start": 1664.27,
+      "end": 1688.53,
+      "text": "So in that specific example, what is that onboarding process to integrate Prescient so that you can get to a point where you can see all of that data and predictability inside the platform? It's usually anywhere from like 12 to 16 minutes. I had some early people time. That's it? Yeah. And so what all are you connecting? You connect your Shopify."
+    },
+    {
+      "start": 1689.75,
+      "end": 1719.35,
+      "text": "We can connect into other e-commerce platforms like Salesforce Commerce Cloud, your GA, and then all of your ad channels. So anything from Tatari to Mountain to Keynes to Neon Pixel to, you know, Tenuity on the TV provider side, the Trade Desk, PodScribe. So under PodScribe, your Meta, Google, TikTok, Reddit, everything under the sun is really point and click. Your Amazon Seller Central, 3P, we can ingest. And then Amazon Vendor Central, 1P, we can also stand up as well."
+    },
+    {
+      "start": 1719.63,
+      "end": 1748.11,
+      "text": "All of your Amazon ads. How do you account for channels like out of home or direct mail? Good question. We have a little data schema, we call it, like a Google Sheets, right? And it's very simple. They just kind of campaign. We just ingest via Google Sheets. I see. So you can basically ingest everything. To your point earlier, you can either present a couple different options of models or Prescient will create its own model for that brand specifically, right?"
+    },
+    {
+      "start": 1748.25,
+      "end": 1777.87,
+      "text": "And then within what, a week, all your data is populated and ready to go? Yeah. So there's no good, great question. We talk about this all the time. There are no humans that are going to tinker with this model on your behalf. It's all learned from your historical data. We're not sharing other brands' data with you. We have a philosophy that, you know, the research that we've conducted is we should have our core belief of how your business generates revenue based off of the data that we have available associated to that."
+    },
+    {
+      "start": 1806.45,
+      "end": 1831.87,
+      "text": "Yeah. We don't have to send us an export or upload it in some fashion. But 99% of the onboarding is important. What is the product feature that you think blows people's mind the most? I think it's our optimizer for sure. Well, you know what? It's like when we get, I was on the phone this morning with a private equity fund that invests into a lot of consumer CPG companies."
+    },
+    {
+      "start": 1831.87,
+      "end": 1856.79,
+      "text": "And I was walking through and it's like, they sit together when these board meetings and they're like, I know that there is a halo effect happening here. And I'm used to an MMM that would run once a quarter. And it's like too much time has already passed. So it's the speed in which our model can recalibrate, which is every single day. The granularity that it goes down to an individual campaign almost feels like an MTA in a sense, right? Because it's running daily."
+    },
+    {
+      "start": 1857.01,
+      "end": 1886.63,
+      "text": "It's getting very granular, but it's having these very powerful machine learning models that are giving more of a holistic view. I'd say that's one side. Then the optimizer for people that are like, hey, I'm sitting here in a team or trying to figure out like a lot of intuition and gut instincts, but we have a big channel mix. And I really just want to take some big swings, right? I remember at Shop Talk, I was chatting with one of our clients, publicly traded companies like, dude, I want to go back. We have a board meeting. I want to take some big swings. I get five to 20% that like, depending on what the data says, I want to swing it."
+    },
+    {
+      "start": 1886.63,
+      "end": 1916.41,
+      "text": "And so for people that can go in and click buttons and set up different scenario models and press it in 20 to 40 seconds, you're going to get a recommended media plan. They say, I don't like that. I'm going to switch it a little bit. Click another button. And you could do it unlimited times at no additional cost to the client where, you know, we have computational costs. We figured out how to do it a cheap way. So speed, granularity, flexibility, and accuracy, I think are the things that people are most excited about our platform or find value in our platform."
+    },
+    {
+      "start": 1916.85,
+      "end": 1946.25,
+      "text": "Yeah. Okay. Speaking of, I'm curious, just as a observer of somebody who's in, you know, you have the admin log in to press you. What are some of the most interesting underrated channels, tactics, strategies you're seeing brands do that maybe even you thought were going to be just a crazy, you know, this is not going to work. But then, you know, it runs and you're just like, wow, this was an amazing move. I was not too sure about AppLovin. There was a lot of buzz around it."
+    },
+    {
+      "start": 1946.51,
+      "end": 1972.37,
+      "text": "And we've come out with our second AppLovin benchmark report. We've seen, on average, brand spend hover between that 5% to 7% of incremental budget. It wasn't taken away from somewhere else. It was, you know, additional budget on top of that. Another one is YouTube. I always believed that YouTube was a strong performer. Yeah. But it's always been a view-through channel. So, it was really hard to measure. Yeah. You know, it was Cody from Jones Road."
+    },
+    {
+      "start": 1972.51,
+      "end": 1998.49,
+      "text": "He did a holdout test on YouTube, found out it was incremental, used our optimizer to scale the YouTube, and then ran another test after that. And, like, it all matched up within, like, a certain percentage range, being like, wow, this channel really checks out. And I love that textbook play. It was, like, validated it was incremental, used an MMM for what it was designed to do to scale it, and then validated it again. But YouTube has been a great view-based channel."
+    },
+    {
+      "start": 1999.09,
+      "end": 2026.17,
+      "text": "I think we just analyzed about 2,000 YouTube campaigns over the last year now. So, we have a pretty decent sample size of this spend. Granted, you have to have good content. You have to have, like, your strategy, all that stuff. We're not a silver bullet. It's like, oh, spend on YouTube with a model. I'm going to make you a gazillion dollars. Like, but for the people that have YouTube dialed in and the right strategy, the data is showing it's a very reliable channel. Depending on the brand, Linear TV has been an interesting one for some beauty brands in particular."
+    },
+    {
+      "start": 2026.17,
+      "end": 2054.35,
+      "text": "And when you see these things, like this beauty brand, for example, are you seeing that halo effect or the results online, on Amazon, when it's an omni-channel brand? Yeah. I looked. We just did a retail analysis for a beauty brand. 47% of their revenue over the last year came from their media spend on retail. Wow. We back-tested on this one. This was insane."
+    },
+    {
+      "start": 2054.35,
+      "end": 2076.53,
+      "text": "We back-tested, we call it a MAPE, but think about it inversely. Our MAPE was like 6.4%, meaning we were off predicting daily revenue for this retail brand at about 93.5% accurate out 90 days. So, again, like, how do you feel confident? And, hey, 47% of your media budget drove retail."
+    },
+    {
+      "start": 2076.53,
+      "end": 2105.15,
+      "text": "Well, I feel confident because these guys are so dialed in with a high level of accuracy on these back-testing methodologies and explanations of, well, we're going to tell them trend. It's like, just because the brand exists and they didn't spend any money, this is how much revenue you're going to make. Then you layer on things like seasonality and word of mouth and truly organic. So, Deacon pulls all that down. But that was a very interesting insight is a good chunk of their revenue on retail is coming from their media spend."
+    },
+    {
+      "start": 2105.55,
+      "end": 2125.93,
+      "text": "And I got a message from one of their chief digital officers and was like, we can now sit down in our next board meeting and just have a very thoughtful conversation and we're going to change our strategies. I love to hear insights like that. Yeah. Yeah. This data set from Prescient really allows you to make big swings pretty confidently."
+    },
+    {
+      "start": 2126.33,
+      "end": 2155.89,
+      "text": "And, you know, especially in those like rooms with people who are wearing suits, they don't understand anything about the, you know, they don't understand the day-to-day of Facebook ads or managing spend. But when you show them this type of reporting, it helps so much getting the point across the table. A hundred percent, man. And there's another pretty, I probably should have layered this one on, but I am going to backtrack for a quick second. You know, when I was talking to the private equity guy, he was like, hey, we wait three months or six months and too much time has already passed."
+    },
+    {
+      "start": 2156.83,
+      "end": 2185.39,
+      "text": "Something that we've just recently released is a, as we call it, a scenario tracking ability. So, for example, I'm going to, if it's cool, I'm going to walk you through the workflow. So, hey, we want to keep our budget the same and we want to scale campaigns that have less than a $250 CAC. So, you're going to select those campaigns and you're going to create optimization scenario. Okay. You lock in on that optimization scenario. In the platform, you can say accept or reject. I accept this change. Tell us the date you're going to implement it."
+    },
+    {
+      "start": 2185.51,
+      "end": 2211.51,
+      "text": "I reject this one for whatever reason. Tell us so our models can learn. And we're going to see when you make those changes to your media budgets. Now, this scenario is based on a forecast over the next 28 days. When you start spending and we start to see conversion and we're seeing performance of each one of these campaigns, we're going to tell you at some point in the middle of that flight which campaigns are on track to hit that forecast."
+    },
+    {
+      "start": 2211.87,
+      "end": 2237.99,
+      "text": "It's a very unique way of thinking about an MMM where you don't have to wait even until at the end of the flight to finish. Tell you in the middle of the flight, it's not going to work 100% every time. At least you now have a heads up of like which ones are working and which ones you should consider reshuffling around a little bit. So I thought that was an important one to highlight just in the way people feel about MMMs because they're so programmed to say Nielsen runs once a year, a million dollars, PDF report."
+    },
+    {
+      "start": 2238.29,
+      "end": 2266.87,
+      "text": "And it's like, wait, like we can run these so fast and you can tell me like if I'm halfway through there, it's like I want to lose weight, right? It's like, hey, if you keep doing what you're doing or if you pull up or down these levers, like you're going to hit this weight target faster. It's essentially until you get there and step on the scale 30 days later and see if you actually hit that target weight or not. Yeah, totally. Okay, so future of attribution to close us out here. Where do you think the future of attribution is?"
+    },
+    {
+      "start": 2267.07,
+      "end": 2292.73,
+      "text": "You know, there's all of the, there's a lot more growing concerns around privacy. So there's a lot less trackability. You know, tell us a little bit about where you think it's going. I think you're going to continue to see the consolidation of different forms of measurement together, like you're seeing with MMM plus incrementality. And how do you start layering in creative level analytics, but generated of AI, like, you know, people who are at motion and they're doing all these really interesting things on the creative side."
+    },
+    {
+      "start": 2292.73,
+      "end": 2322.66,
+      "text": "So I just think it's going to be more of a universal media measurement powered by augmented, it's going to sound word salad or whatever, but augmented automation. Like there's not, everything's not going to get automated, right? Like portions of media buying will get automated, but like, I think there's going to be some augmentation of human, you know, interactions, if you will. Yeah. Almost like checkpoints in the process. Correct."
+    },
+    {
+      "start": 2322.88,
+      "end": 2352.58,
+      "text": "Yeah. Curated insights, super simple, clean and easy. Like I've always envisioned this, like newspaper, like you wake up and it's like, here's what's going on. Like, you know, just kind of like very conversational in that way. Right. You know, say, Hey, I want to go buy a, talk with your wife. I want to go buy a house and, you know, soon. And then you get to wake up, you see the newspaper. It's like, Oh, the fed's going to hike the interest rate in 30 days. Like, okay, we should probably go look at a house sooner than that. Right. So we can take advantage of that sort of like thinking I'm thinking where AI will go. Here's what to go."
+    },
+    {
+      "start": 2356.18,
+      "end": 2384.8,
+      "text": "Yeah. Fully agreed. Um, all right, Mike, anything we missed that you want to cover? I would highlight, you know, we are into, you know, retail, we are into different verticals. So like gambling sites for neither the audiences that might not be in the e-commerce DTC in the case, airlines, hotels, you know, financial services platforms. Um, the models are now diversified to support different industries. And so, um, yeah. And, uh, how much media do you track every month? Cause this number is crazy. North of $200 million a month."
+    },
+    {
+      "start": 2385.94,
+      "end": 2410.22,
+      "text": "Wow. That's amazing. And, uh, if people want to learn more about prescient, if they want to talk to you, they want to ask you a question about MMM, how do they find you? How do they find prescient? Prescient AI.com. Um, I'm on LinkedIn, Michael true. Uh, and then my email is Mike at prescient AI.com. Um, I like meeting new people and talking, as you can tell from this conversation, I have no, I don't have any shortage for words."
+    },
+    {
+      "start": 2410.22,
+      "end": 2437.82,
+      "text": "So, um, give us a shout out, even if you're just curious about MMM or you want to learn about the type of questions you should ask when doing an MMM evaluation. You know, two models are the same and the math matters. Well, thanks for coming on, Mike. Appreciate it. I mean, it's good to see you, bud. You too. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

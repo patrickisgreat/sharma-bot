@@ -1,0 +1,394 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 30.41,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned, the wins, the losses, the experiments, the tactics and the insights. Also, you can unlock your next $100,000 in revenue. Today's episode is a good one. But before we dive into the next episode, we'll be right back to our next episode."
+    },
+    {
+      "start": 30.41,
+      "end": 60.09,
+      "text": "Hi Ben, let me tell you about our chosen sponsor for this week's episode. Think about your best friend and how they shop. It's vastly different than how you might shop online and you both should never get the same card reminder emails. That's where Instant AI takes over. In just the last few weeks, Instant's rolled out AI flows for over 300 brands. The momentum is crazy and I've been talking on stage with Liam at the Q4 Summit and Grow New York about it nonstop. Here's why it works. Instant can immediately understand who's on your site and what all they've been looking at."
+    },
+    {
+      "start": 60.09,
+      "end": 82.63,
+      "text": "The discount, the copy, the imagery, the on-site promotion, all of that's pulled dynamically into personal email flows. Then it sends it at the exact moment that the shopper is ready to buy. Don't let your retention emails stay old and lame. Check out Instant AI and start tripling your email revenue. Grab a demo by October 31st and get 50% off your first 60 days at instant.one slash Sharma."
+    },
+    {
+      "start": 113.78,
+      "end": 143.26,
+      "text": "All right, Liam. Chris, before we go into all this, why don't you give a quick background of yourself at the intersection of AI? Why is it fun to have you on and talk all things AI? Yeah, well, thanks for having me back. I mean, we've had an incredible podcast previously and we've spoken on so many stages and together in your newsletter, etc. at this point. So thanks for having me back on. I mean, AI is if you're not adopting it in your business now, you're already behind."
+    },
+    {
+      "start": 143.26,
+      "end": 173.24,
+      "text": "And one of my topics that I speak about on stage a lot is that if AI isn't driving at least 25% of your revenue today, whether it's across email, SMS, retention marketing, you're already failing. And I think that AI is still being spoken about, particularly in the world of e-commerce and brand founders as a hypothetical. It's coming in the future. It's not here yet. It's really cool. Or people think they're using AI because they're addicted to chat GPT."
+    },
+    {
+      "start": 173.24,
+      "end": 199.48,
+      "text": "But then there's this completely other side where AI is real. And if it's not such a big part of how you're thinking in the operations of your business today, you're already behind. So excited to cover some of that. In terms of instant, I mean, started the company when I was 17. We work with thousands of brands today. Started the company when I was back in Australia, now spending majority of my time in New York."
+    },
+    {
+      "start": 199.48,
+      "end": 222.18,
+      "text": "And I think that we actually started as a shop pay competitor. I didn't know that until recently. Yeah, to Shopify. That was our biggest product. We helped brands with one-click checkout, remembering their shoppers every time they came back to their website. And then eventually we decided that Shopify was the beast that we didn't really want to compete with."
+    },
+    {
+      "start": 222.84,
+      "end": 245.94,
+      "text": "And so we used that technology of being able to remember a shopper every time they came back to your website and bring it into the marketing world and help a marketer unlock their anonymous shoppers that are visiting their website. 98% of people that visit your website, you have absolutely no idea who they are. And so we uncovered a huge portion of that, enabling brands to trigger email marketing."
+    },
+    {
+      "start": 246.48,
+      "end": 262.08,
+      "text": "And alongside that, I've been on the podcast before talking about audiences and instant audiences and helping brands unlock that channel. And that grew so quickly. That product, we went from zero to 500 brands in 10 months, which was wild."
+    },
+    {
+      "start": 262.08,
+      "end": 289.04,
+      "text": "But out of that and kind of where we started to invest in AI was we were building all of these optimizers because across all of our portfolio of brands, email marketing was something that just had zero investment, you know, hadn't been updated in a year. We're seeing like declining results. And we built this tool that helped the brand optimize their flows and campaigns. And eventually we stood back and went, hang on, why don't we just do it all for you?"
+    },
+    {
+      "start": 289.04,
+      "end": 314.16,
+      "text": "Um, you know, we've already identified the problems with these emails. Why don't we just fix it with AI? Um, and that's our biggest product today, instant AI, which helps brands to completely, um, uh, automate their, their email marketing from end to end. And, uh, and that's like, that's actually doing all the generative copy, pulling imagery in. Are you, are you making these emails from scratch or are they just templates? We make them from scratch for every brand."
+    },
+    {
+      "start": 314.16,
+      "end": 343.04,
+      "text": "So, um, it like we had a huge fashion brand in Australia, fate, the label, um, similarly Karen Kane, uh, here in the U S third love. Um, and they're all up and running in like 24 hours. They have a conversation with us and we're live 24 hours later. Um, and the way we do it is you, uh, input the URL of your website. We connect to Shopify. Um, and we basically analyze your website. Um, so we look for, um, your tone of voice based on the copy on your website."
+    },
+    {
+      "start": 343.04,
+      "end": 370.2,
+      "text": "We pull all your brand colors, images, logos. Um, and then we use that information to create one-to-one, uh, email emails to every shopper. So every shopper receives a different email. No two shoppers receive the same email twice. Um, and for those brands, what they saw in the last three months, uh, with their ordinary outdated flows, uh, we generated for them in the last 30 days. Um, with instant emails. It's pretty crazy."
+    },
+    {
+      "start": 370.38,
+      "end": 395.84,
+      "text": "I feel like there's, uh, there's so many flaws in the way that modern, like the way email is handled today, right? Most brands will maybe have one person internally who's managing email, but like they're pretty much. If you're lucky. Yeah. And they're pretty much drinking from the fire hose, trying to get the next campaign out, you know, managing a copywriter, a designer, putting it into Klaviyo. So, you know, maybe exporting audiences for the paid team, um, running reports because the Klaviyo reporting is not that great."
+    },
+    {
+      "start": 396.72,
+      "end": 425.86,
+      "text": "Um, or you have an agency and the agency's goal is to just churn out, uh, you know, a high volume of creative, but then they're not usually going back and looking at flows or updating campaigns or testing new dynamic blocks or figuring out, you know, what AB testing, you know, layout works better than the other. Cool. And, um, I mean, to your point too, like being able to pull from the site, you get a lot of other signals that you just can't do at scale. Uh, cause you know, those are one to many versus this is sounds like it's all one to one. Exactly."
+    },
+    {
+      "start": 426.12,
+      "end": 450.46,
+      "text": "And we, um, we, uh, a common misconception amongst agencies, um, or brands when it comes to AI is stealing people's jobs. Um, and it's just not true because it's never been possible before. And it still isn't possible today for either an agency or a marketing manager to sit there and, and, and send a unique email to every shopper that abandoned your site."
+    },
+    {
+      "start": 450.46,
+      "end": 480.38,
+      "text": "Um, and so it's not a war against, you know, this, um, this mindset of being, uh, having no agencies in your business. There's, there's still absolutely a place for them. Um, however, emails that are attention marketing that is unique to every shopper that visits your website, um, is it converts wildly better. And an example of this is today, every single retention flow that you get, um, no matter what website you get will be, Hey Nick, saw you abandon your cart."
+    },
+    {
+      "start": 480.58,
+      "end": 506.56,
+      "text": "Right. Come back to purchase. There's like a standard playbook of 60 standard. And everyone just goes delete, delete, delete, never has any cut through. Um, no discount, no discount, 10%, 50%, 20%. Right. Because that's all that's available. Right. Whereas now and like, um, one of our, you know, really large brands, July luggage, you go on their website. And rather than it saying, uh, basically any brand that uses instant AI, there's thousands of them now."
+    },
+    {
+      "start": 506.96,
+      "end": 528.88,
+      "text": "Um, it, it, it starts to pull in copy into those emails, like the name of the shopper, um, the item that they viewed maybe for the luggage, you know, it's telling, it's reminding the shopper. It might say like, come back and check out the pistachio dark green travel case. This is your perfect travel case for your next trip. Um, 30, you know, blah, blah, blah liters."
+    },
+    {
+      "start": 529.4,
+      "end": 558.98,
+      "text": "Um, uh, free shipping, like the emails auto update based on the updates that you make to your website as well. So sometimes you're doing free shipping. Um, and so that copy is automatically, um, injected into the email. It's like an agent is constantly going, reviewing the site. Almost like it. Your emails are always up to date. Yeah. And like somebody's sitting on the site, watching this viewer come in and see what they're doing. And then tailors the content basically just to them. Yes, exactly. It's, um, it's very hard to explain like on a podcast."
+    },
+    {
+      "start": 559.18,
+      "end": 585.44,
+      "text": "Yeah. It's such a visual product. Totally. But when you see it. I mean, for me, the whole instant thing was visual. Like when I saw the demo. Yeah. That's when I was like, whoa, this is crazy. And then the revenue results just back it up as well. Right. Um, and that's what I think excites brands and us most. Yeah. I mean, we see usually like a two X base or double lift. Um, but what do you think are like, you know, there's been all these, uh, Shopify SaaS companies that have been doing AI and personalization for years."
+    },
+    {
+      "start": 585.58,
+      "end": 614.26,
+      "text": "What do you think is actually now possible with AI, whether it's generative or, you know, in the personalization world that wasn't possible a couple of years ago? I think copy personalization really is just the surface. Um, and, uh, there's a lot of companies, a lot of, um, opportunity with copy generation to really increase conversion. If you're not using AI to generate copy, unique copy to every single shopper, no two shoppers should receive the same email twice."
+    },
+    {
+      "start": 614.72,
+      "end": 644.06,
+      "text": "Um, you're not doing that today. You, you are, um, already, yeah, I mean, you're, you are so far behind. It's crazy. Um, and the, the brands that invest in that early, um, are the ones that are clearly winning. Um, but there's also so much other opportunity that really moves the needle. Um, like one of our biggest features today, um, is smart coupons. Um, ordinarily, you know, it's the standard to, to do kind of what you mentioned before. All right."
+    },
+    {
+      "start": 644.28,
+      "end": 672.28,
+      "text": "Every shopper gets 10% off no matter their behavior, no matter their shopping history, no matter the time of day. Whereas now a brand can set a minimum order value and a maximum percentage and let the AI do everything in between. Some shoppers will get 12% off. Some shoppers will get 10% off. Some shoppers will get 0% off. Some will get 20% off. Um, on every shopper gets a unique discount based on the minimum percentage that the AI thinks, um, to convert that shopper."
+    },
+    {
+      "start": 672.4,
+      "end": 701.54,
+      "text": "And so you're converting more shoppers. You're also protecting margin and profitability as well in a completely automated way. Um, another really cool thing with AI, um, is send time optimization, um, in your emails today. Like if you look at any report across the internet, um, any case study, any downloadable, any email that these SaaS companies put in your email inbox, the number one thing that they always say is to send emails two hours after a shopper abandons their cart."
+    },
+    {
+      "start": 701.78,
+      "end": 728.4,
+      "text": "Um, and the reason why they say that is because there's just no, uh, there's just no alternative. I mean, what's the alternative, right? Um, and however, today you should be sending emails based on when that particular shopper is most likely to convert, not a blanket rule, two hours to everyone like Nick. He loves shopping at 10 PM at night when he's lying in bed. So let's send him an email then, um, to remind him to purchase, you know, this really busy mom."
+    },
+    {
+      "start": 728.6,
+      "end": 757.56,
+      "text": "She really loves to purchase at 8 PM at night when the kids have gone to bed. Um, and so based on her previous shopping behavior, um, let's send her an email then, um, verse just two hours. It's almost like having like a, a little team of agents and they basically sit on your site and they see somebody come in, they get the email or they figure out who the person is. They try to connect them with an email. Then they watch what they do on the site and then they figure out what they know about this person from before. And then they craft a personal email and they fire it off."
+    },
+    {
+      "start": 757.78,
+      "end": 786.78,
+      "text": "Except that happens in like what? 30 seconds easily. Um, and even down to the subject line, um, uh, it's again, like you, you can have all these little features, um, but it's never been worth a marketing manager's time to sit there and go, shit, what is this subject line that is best going to convert? And what happens is a marketing manager will sit there once and they'll craft the subject line. Um, and you know, that's the subject line that they stick to forever."
+    },
+    {
+      "start": 786.78,
+      "end": 813.56,
+      "text": "Um, whereas these AI agents now just consistently experiment with the best subject lines. The subject lines consistently change based on the time of day of that shopper consistently change based on, uh, you know, the sale that's running on your website. If you're running a birthday sale, that subject line now includes it. You get rid of that birthday sale and now have free shipping. It includes a lot of like micro optimizations that you can now make because the technology enables it. Exactly. Yeah."
+    },
+    {
+      "start": 813.8,
+      "end": 838.58,
+      "text": "And, uh, the, the, the biggest feedback we get from brands is all right. Email marketing is 20 to 30% of our business. Basically nobody spends any time on it. Um, and I think the biggest reason for that is because honestly, if you look back, what innovation has there been in email for the last decade? Um, it's, it's been the same, uh, the same advice, the same percentage of your revenue for decades."
+    },
+    {
+      "start": 838.58,
+      "end": 867.98,
+      "text": "And so I don't think it's a matter of brands not wanting to invest in the innovation of email. There's just been no innovation. Yeah. Whereas that has changed. There's been, yeah, there's been some innovation I feel on, on the SMS side, but there's been very little on the, on the email side. Yeah. And also there's been no, um, well, I mean also, yeah, it's just, uh, I don't know why there's been no, no innovation to be honest. I think, I think there's like, there's a few players in the space that are just happy with being what, wherever they're at right now, maybe."
+    },
+    {
+      "start": 869,
+      "end": 895.34,
+      "text": "Absolutely. I mean, um, I think that brands that if a brand could increase their, their revenue from, from email, they would be ecstatic because it hasn't moved in forever. Yeah. Um, cost them anything. You're already getting these shoppers to your website. So you're already spending a shitload of money in meta ads to get these people to your website in the first place. They're landing there. You may as well be targeting them, uh, to bring them back. Yeah."
+    },
+    {
+      "start": 895.48,
+      "end": 920.04,
+      "text": "Um, if you can increase the amount of shoppers that are identified on your website and increase, uh, or improve the emails that are going out to, um, to bring these shoppers back to convert, you win. Totally. Um, and like, I think the revenue results to speak for, I mean, one of the brands that we work with is higher dose, right? Like what re X in 60 days. Yeah. Crazy. More than three X, but yeah, nuts."
+    },
+    {
+      "start": 920.22,
+      "end": 948.7,
+      "text": "And from a relatively simple or relatively low time investment, where do you think AI is finding itself in other places in the marketing stack? I think that, uh, like, do you think, do you think the same way that, um, you're able to generate emails on the fly based on it, you know, uh, the signals or data points you grab immediately? Like when is that coming to a landing page where as soon as, you know, instant identifies"
+    },
+    {
+      "start": 948.7,
+      "end": 971.46,
+      "text": "you're the person coming to the landing page, it immediately builds the page. I think that stuff is coming. Um, I, I, I really do. I think that today we definitely focus on kind of the retention piece. Um, but where I really see, um, AI going most when it comes to marketing is what I was"
+    },
+    {
+      "start": 971.46,
+      "end": 999.42,
+      "text": "just speaking about around, um, these really, uh, consistent optimization, consistent experiments. Um, and one of our biggest features is, uh, called instant labs. Um, and it's just, you know, unless you're a brand that is willing to sit there and do these, you know, really frustrating AB tests, testing what, you know, two things at a time. Yeah. Waiting for two weeks. Nobody's interested. Yeah."
+    },
+    {
+      "start": 999.42,
+      "end": 1025.94,
+      "text": "Um, and then you do the experiment and it's like, well, of course it generated more revenue because of the time of year. And so it's just so hard to get an accurate answer. And so you just stop doing it. Um, and the brands that need to do this most, uh, either really big brands that have, you know, so much internal complexity or really small brands who just don't have the manpower. Um, and so I think AI now gives a brand the ability to do these micro optimizations"
+    },
+    {
+      "start": 1025.94,
+      "end": 1052.24,
+      "text": "consistently without any human involvement, um, consistently figuring out the best subject line formula. We spoke about this on stage yesterday where a women's fashion brand, we see having a, an emoji, the shopper's first name comma, and the name of the product being the best winning formula, um, in terms of a subject line. Um, but that subject line formula significantly changes during black Friday, cyber Monday. Right."
+    },
+    {
+      "start": 1052.46,
+      "end": 1081.62,
+      "text": "Um, which significantly changes to a store that heavily focuses on, uh, men's products or, you know, it has a different persona. Um, and so these micro optimizations on a store by storefront, um, is very interesting rather than these blanket, um, I guess blanket rules or advice across the entire industry. Yeah. Brands like third love liquid IV and neuro gum all swear by instant."
+    },
+    {
+      "start": 1081.84,
+      "end": 1110.54,
+      "text": "They've tripled their email revenue and some like Karen Kane even see a five X increase. Why? Well, because AI can build hundreds of versions that you'll never have time to make while you're running your brand. Instant is running all the experiments, figuring out what works and then continuously optimizing those to keep the conversions growing. Don't get left behind while everybody else goes AI. Grab a demo by October 31st and get 50% off your first 60 days at instant.one slash Sharma. Go lock it in and crush BFCM."
+    },
+    {
+      "start": 1113.59,
+      "end": 1140.29,
+      "text": "Um, if somebody wanted to like, you know, we've basically evolved from the generative AI to the agentic AI. If somebody wanted to start using these, you know, building agents and, you know, everybody talks about getting agents to replace, uh, routine tasks, even if it's something as simple as, you know, generating a report about email performance for the last 30 days or, uh, analyzing that and giving opportunities to, to do better."
+    },
+    {
+      "start": 1140.63,
+      "end": 1169.49,
+      "text": "How, where can, how can people like start with building things like this? It's interesting. I think that there's, I mean, so many tools out there now, like lovable replet, um, the vibe coding stuff, you can really start to experiment with different tools. And I guess we're still in the phase where people are learning, um, where I, I think that if you're not learning or becoming very, um, sharp on AI, it's basically you're becoming illiterate."
+    },
+    {
+      "start": 1169.75,
+      "end": 1197.17,
+      "text": "Um, and if you're not adopting it into your business or as a leader, you're not pushing people in the business to, uh, to adopt AI, um, you're already behind. I think that's the biggest thing that I, you know, talking to merchants today, it's always the senior leader in the company that is pushing back, um, because maybe they're scared of it. They don't understand it. They don't experiment with it. Um, and so it's all of a sudden the leaders of these businesses actually holding the business back."
+    },
+    {
+      "start": 1197.49,
+      "end": 1224.53,
+      "text": "Um, and so I think, you know, using those types of tools, you know, there's also so many other tools out there, like analytics platforms, um, are really starting to bring AI, uh, into, into the business. Um, Shopify is heavily leaning into, into AI if you're not using those tools. Yeah. Sidekick and whatnot. Huge, right? Yeah. Um, I feel like, uh, you know, a few years ago I was getting called into like the, the"
+    },
+    {
+      "start": 1224.53,
+      "end": 1253.89,
+      "text": "boardrooms of like Tom Ford, Diageo, Bacardi, and these guys were like, we don't know anything about direct to consumer. Yeah. We need you to come teach us. Um, you know, and maybe like we hire you to basically educate our whole staff on how this works and, you know, do an audit of what we're doing wrong and what we're about, what we need to change. I feel like that same type of wave is about to hit on the AI side as a lot of these like senior leaders are like, yeah, we, no, we don't use AI."
+    },
+    {
+      "start": 1254.11,
+      "end": 1283.67,
+      "text": "And they're reporting that up and the board's like, what the fuck do you mean? You don't use AI. Yeah. That's what's happening. Yeah. Um, have you gotten calls like that? I feel like you're like the, the, the person to call for that. A huge, we always, um, we always lean into, uh, I mean, we have so many features across AI now that it's hard to jump on a podcast or a particular, you know, piece of content and explain it all. Yeah. Um, and so I think that we get so many, uh, yeah, I mean, we had 300 brands in the last"
+    },
+    {
+      "start": 1283.67,
+      "end": 1312.69,
+      "text": "six weeks alone, um, move to instant AI, which is crazy. Um, and a big push for that is not the hardcore sales, you know, you need this, you need this. Like we don't cold call anyone. Um, it's brands coming to us going, well, we just received this, um, this wildly unique email from another brand that I was shopping on. We need that on our site. Um, or I was at this dinner with X brand last night and they said that they'd three times"
+    },
+    {
+      "start": 1312.69,
+      "end": 1338.51,
+      "text": "their revenue on email, um, unheard of, haven't focused on email in years. Um, we need instant. Um, and so I think there's word of mouth amongst AI tools. You should only follow, uh, you know, adopting an AI tool if you hear about it organically because they're the best ones. Yeah. There's a lot of, uh, apps or a lot of advertising garbage in the AI world. Absolutely. And look at the, the, the quality of brands using them as well."
+    },
+    {
+      "start": 1338.63,
+      "end": 1362.65,
+      "text": "I mean, there's plenty of brands that, and I think this is going to be the real shift over the next six months is seeing where, um, individuals, businesses, D to C brands, what tools become very sticky. I mean, you, you look on Twitter X and majority of, uh, majority of, you know, these AI tools like, yeah, we've gone from zero to a hundred million dollars of revenue in six, 12 months."
+    },
+    {
+      "start": 1362.65,
+      "end": 1391.45,
+      "text": "Um, I think that, that, that a lot of that will be very, um, you know, interesting to see if those businesses actually, I feel like if they scaled at, if they scaled that fast, it's going to be easy for more people to just replicate that and do it themselves. Whereas the, the, the really good tools, um, I think we'll start to pop up over the next six to 12 months where these, these really large businesses are relying on it, um, to, to, to run their majority of their revenue."
+    },
+    {
+      "start": 1391.45,
+      "end": 1419.89,
+      "text": "Um, and today a brand that uses instant AI, we are accountable for about 20 to 30% of their entire revenue, their site revenue, um, driving that instant. So, you know, it's not these, I would be looking for, you know, there's plenty of tools out there that, you know, can drive like 2% of your revenue, 3% of your revenue is a nice to have charging you thousands of dollars a month. Yeah. But you need to look for those tools that are like, you know, straight in, um, and"
+    },
+    {
+      "start": 1419.89,
+      "end": 1449.56,
+      "text": "really moving the needle on your business. Totally. Where do you think, um, like CMOs today can spend time incorporating AI? I think that I would be focused on incorporating AI so I can focus on the most important things in the business. Um, for example, you know, there's been lots of innovation in SMS marketing. Um, like AI should be running your SMS marketing today. Um, there's a lot of innovation, uh, in, uh, in, uh, retention experimentation."
+    },
+    {
+      "start": 1450.02,
+      "end": 1479.94,
+      "text": "Um, AI should be your experimentation agent today. There should not be a single person in your business that is, um, doing one-to-one A-B tests, um, and experimentation. AI should be doing that. Um, there is, uh, you know, uh, in terms of, uh, email marketing, AI should be running your email marketing, uh, from a retention perspective almost entirely. Um, a human should be going in and, uh, maybe having a small part of creative control to"
+    },
+    {
+      "start": 1479.94,
+      "end": 1509.84,
+      "text": "make sure it's on brand. Um, maybe adding some things to a campaign. Have you played much with Nano Banana? I haven't. No? No. What is it? Google's, uh, it's Google's, one of Google's like image video models. Okay. Um, does a phenomenal job of removing things, swapping products out. I mean, there's, there's, um, there's, there's a couple of GLP one brands that I'm aware of that, um, their best ads across the ad account where they're spending, you know, a hundred"
+    },
+    {
+      "start": 1509.84,
+      "end": 1535.82,
+      "text": "to $200,000 a day are videos of, uh, women holding products or taking something out of a box. It's all made by Google, um, using renders and like stock video and then putting them together. So good. And I think, I mean, the image generation was something that was behind for a long time. For a long time. Yeah. Um, a long time in this world is like four months though. Yeah. Exactly. And now it's world class. Yeah."
+    },
+    {
+      "start": 1535.9,
+      "end": 1561.26,
+      "text": "And so if you're wasting all this time on things that could be automated and not spending your human time on, all right, what influencer are we working with next? You know, what in real life, um, event are we putting together? You know, creating, you know, doing photography, um, in real life and, you know, maybe designing, uh, certain campaigns. If you're not spending your human time on that and you're spending your human time on things that could be automated, you're behind."
+    },
+    {
+      "start": 1561.38,
+      "end": 1589.5,
+      "text": "And I, you know, we work with incredible brands like NeuroGum, Third Love, Karen Kane, um, Liquid IV, uh, and the, the, the number one thing that I look at across those brands and why they're so successful is because they are just so keen on experimentation. Um, they are so obsessed with experimentation. Um, AI, yep, we're in, we're going to trial it. Um, and they, they get rid of things just as quickly as they bring them in, but that's"
+    },
+    {
+      "start": 1589.5,
+      "end": 1618.04,
+      "text": "fine because they're just experimenting consistently to grow their revenue. Right. Um, that's why they win. Yeah, totally. As, uh, as I got... The brands that are behind are the brands that are just waiting. Waiting, waiting, waiting. Totally. They're too scared to be... They're waiting for the next tool to kind of do it all for them. You're already behind. But, uh, but yeah, by the time they get on that. Also, I think another problem is like, you know, I think, I think a lot of times about like, I always say modern day media buyers on, uh, ad platforms have no idea about that, like gut feeling when something's about to rip."
+    },
+    {
+      "start": 1618.68,
+      "end": 1647.26,
+      "text": "And, uh, it's because, you know, they never used the power editor back in the day where you had to, you had to feel it out a lot more before, you know, you got the more condensed version of it. Sure. And I think the same thing goes with AI. If you're not, if you're not kind of like in it as it's evolving, you're going to miss out on what the parameters are or what the inputs are or what the outputs can be. And you're not going to know how to maximize the use case of it. You'll just be confined to whatever it's delivered to you in. For sure. I agree. Completely."
+    },
+    {
+      "start": 1647.52,
+      "end": 1676.18,
+      "text": "As a, as a founder who's building in the world of AI. So like you're probably building, I mean, you just said four months is a long time. So like whatever you're building now that's coming out in a month or two months or six months, like, what are you seeing? That's not even out yet. That is exciting or cool coming. Um, I think what I'm seeing is that, uh, you know, it's becoming apparent that personalization on the surface level, um, is no longer, uh, you know, just someone's first name."
+    },
+    {
+      "start": 1676.36,
+      "end": 1704,
+      "text": "I mean, that's, that's been around forever. Um, it's no longer, you know, and now we've kind of moved into personalization being, uh, product based and, you know, very particular things about that specific brand that shoppers, you know, previous behavior. I think now we're going into kind of the tier three of personalization that's coming over the next two or three months, particularly on our front where it's really taking into account more of that, uh, shoppers previous behavior."
+    },
+    {
+      "start": 1704.48,
+      "end": 1732.2,
+      "text": "Um, it's really taking into account, uh, how that, what, what that shopper interacts with. Do you think, uh, do you think like data sources are going to become like, do you think that somebody is going to have a business where all they do is sell data about shoppers to companies so that their AI generative AI is much more targeted and on point? Like, do you think like in some world, you know, instant. No, I think that the, the brand needs to, that's the number one thing that I think needs"
+    },
+    {
+      "start": 1732.2,
+      "end": 1761.08,
+      "text": "to stay with the brand to own because I think it's just a dangerous world. If, uh, if people are not compliant with, with data, like it's so important, um, to, to be compliant when it came comes to data. And I think the rules around, you know, having an opted in shopper, um, is, is, is important and it will be important increasingly, um, as we go into this world of, uh, personalization. Um, otherwise it becomes super creepy. Yeah."
+    },
+    {
+      "start": 1761.34,
+      "end": 1789.24,
+      "text": "And so it's like a fine line balance between creepy and all right, this is a cool email. This, I feel, you know, special. Um, this is on point as a shopper. I think to the less personalized the email is, the more creepy it is. Like from my experience, um, you know, running instant, but also other, other companies like it, the, the creepiness comes when the, when the content is not personalized and it's just a generic, you left this in your cart, you left this on the site."
+    },
+    {
+      "start": 1789.76,
+      "end": 1814.9,
+      "text": "PayPal used to do this one that was like, uh, they'd give you a $5 coupon and then they would take an affiliate fee if somebody used that. Right. And people found that so creepy because it was like within 45 seconds of leaving the site, you get this generic email. Sure. But I think when you have the, the content so personalized and like you said, you can use buyer behavior to generate content in a way that that person is going to understand and consume the best, you lose the creepiness factor. Exactly."
+    },
+    {
+      "start": 1814.9,
+      "end": 1839.88,
+      "text": "I, I, I think it just, uh, forces brands now to be more curious, more conscious of, all right, if we need an opt-in shopper and we don't want to be creepy, we need to find new ways to collect this data, um, properly. And so, you know, there's so much, uh, opportunity again with AI around, uh, looking at a shopper's behavior to simply display a pop-up at the right moment."
+    },
+    {
+      "start": 1839.88,
+      "end": 1865.58,
+      "text": "You know, you land on most Shopify stores today and you get that annoying pop-up as soon as you're trying to load the website and almost every shopper exit out of it. It's out of it. And then when they're finally ready to purchase, they're like, Oh, where was that 20% pop-up? Like I'm ready now. Um, and so displaying that pop-up using behavior about that shopper and consistent learning, um, to display that pop-up at the right moment when that shopper is most likely to either"
+    },
+    {
+      "start": 1865.58,
+      "end": 1893.92,
+      "text": "purchase or not purchase, um, has astronomical increases in conversion, but also astronomical increases in, uh, collect, uh, collecting that opted in shoppers information. Um, you know, there's, there's so much to do, uh, in, I think brands should focus on looking at their, their website as a funnel where AI should be powering basically everything from that shopper first landing on their website all the way through to, to converting."
+    },
+    {
+      "start": 1894.14,
+      "end": 1923.36,
+      "text": "And, um, you know, top of the funnel is displaying the pop-up at the right moment to collect, collect more information. Um, the second phase of that is, uh, is sending the right email at the right time using things like smart coupons and send time optimization. And then the third part of that is crafting a unique email, um, to that shopper in a very personalized way that engages with them. Um, and so if you look at it as a funnel, you can see, all right, we're increasing identification."
+    },
+    {
+      "start": 1923.6,
+      "end": 1951.58,
+      "text": "That means we're able to send more emails. Let's send that email at the right time. And by sending that email at the right time in a very unique way, you significantly increase results. So it's not one thing, but AI can do all of it. Right. I'm curious, like in your own personal life, do you use AI a lot? Do you use a chat GPT to ask questions? Absolutely. I mean, I think that, uh, you know, who use, I, who uses Google now really? Yeah. Um, although if you do use Google, they have a really good, um, summary at the top now,"
+    },
+    {
+      "start": 1951.76,
+      "end": 1980.54,
+      "text": "which I kind of like, um, but yes, I do use, I mean, chat GPT is the simplest version of using, um, AI, but we, um, we on the other front of, you know, being four months ahead and, or four months behind with AI, we significantly invest in product and engineering. I mean, we triple our product and engineering team almost every quarter this year, uh, which is wild. And I look at us compared to other SaaS companies and sure you can have the best marketing and the best sales."
+    },
+    {
+      "start": 1980.78,
+      "end": 2006.82,
+      "text": "Um, but in our world, if, if you're not investing in product and engineering significantly, both from a product perspective, a safety perspective, you know, uh, a future advancement perspective, you just lose. Yeah. And I think that's why we're able to work with so many incredible brands is that we are just clearly ahead, um, from a product perspective. But, you know, even our team uses things like cursor now to significantly increase, um, engineering capacity."
+    },
+    {
+      "start": 2007.16,
+      "end": 2033.84,
+      "text": "Um, you know, even down to things like meeting notes, customer success, things in our dashboard. Um, you can get a real picture on instant just by clicking an AI summary in our dashboard, which shows you all the results of instant in a very summarized way. Do you look for, uh, when, when you're hiring team members across all spots, you know, from HR to marketing to finance, do you look for people who are using AI in interesting ways too? Definitely."
+    },
+    {
+      "start": 2034.12,
+      "end": 2061.04,
+      "text": "I'm, if you're not using AI today, I mean, you're behind no matter where you are. Yeah. Um, I think it's a fine line between using AI to advance your business or advance your personal ability and using AI to be lazy though. Yeah. Um, like AI is not. You know what's crazy is half the country thinks that AI is the worst thing to man because of that, which is crazy. I have never read, maybe it's like the bubble I'm, I'm in."
+    },
+    {
+      "start": 2061.24,
+      "end": 2087.5,
+      "text": "I've never read or consumed one piece of content where AI is looked at as negative. But like, isn't drafting, you know, a shit email to your boss to tell them how much they, you know, you hate them or what's going wrong. Like that's just lazy. Right. Um, like if it's something that is, um, that is personal and needs a personal charge, don't rely on AI. Right. Um, like I, you know, uh, I, I think that crafting an email shouldn't be left to AI."
+    },
+    {
+      "start": 2087.74,
+      "end": 2114.6,
+      "text": "Um, but maybe the collection of data, um, or what to say in that email or to summarize the most important points should be used in that email. Right. But I think mostly AI in the world of business, um, whether you're a SAS company or a D2C brand should be focused on, all right, how are we using AI to actually drive revenue? Yep. Do we really like, sure. Let's use AI to save time. Let's use AI to do customer support. Let's use AI to do the basics."
+    },
+    {
+      "start": 2115,
+      "end": 2144.84,
+      "text": "Um, but that's just, um, that's just common practice now. You need to be finding ways to use AI that actually moves the needle on your business and moving the needle in my mind is driving revenue and driving profitability, not saving time in the warehouse. Yep. Um, that's, that's the real, if you can crack, uh, if you can crack figuring out how to use AI to actually move your business forward, you win. Amazing. Well, Liam, thank you for, uh, coming up on limited supply again. We'll have to do this again."
+    },
+    {
+      "start": 2145.14,
+      "end": 2160.64,
+      "text": "Thanks for having me on there. We hear more about what you're doing on the AI side. Thanks for having me. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

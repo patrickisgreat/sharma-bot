@@ -1,0 +1,459 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.67,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.67,
+      "end": 53.49,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. You may have heard of AppLovin before or maybe not, but let me tell you why you need to pay attention. Whether or not you realize it, you've interacted with AppLovin as a consumer. They're the largest ad network for mobile games reaching 150 million people per day, not per month, not per week, but per day."
+    },
+    {
+      "start": 53.49,
+      "end": 82.37,
+      "text": "The network has grown so much that they reached a billion dollar run rate in AppLovin just from e-commerce spend. It's the fastest growing ad platform for D2C brands, and it allows you to drive measurable performance at scale. Sign up to be the first to know when AppLovin can onboard you and get to the front of the line with my special link. It's nik.co slash app beta. See why brands like Hexclad and Ridge rely on AppLovin. Go to nik.co slash app beta."
+    },
+    {
+      "start": 82.55,
+      "end": 109.57,
+      "text": "That's nik.co slash app beta to see when you can get onboarded to AppLovin. Welcome back to another episode of Limited Supply. Today is actually a fun one. We dive in with Miranda Atkins, who's at 365 Holdings and specifically runs performance marketing at Cuddle Clones."
+    },
+    {
+      "start": 112.15,
+      "end": 137.47,
+      "text": "She oversees Meta, Google, AppLovin, and Pinterest. She's got a huge creative background and a knack for data. And I just thought not only can we dive into some of the new channels she's testing, new strategies, whether it's shops, whether it's AppLovin, whether it's affiliates, whether it's just tactics that are working on the paid side or what is working, for example, on Meta. But also wanted to get her take because her background is so deeply extensive in creative."
+    },
+    {
+      "start": 137.89,
+      "end": 167.09,
+      "text": "And the marriage of creative and performance marketing is really the future of advertising anyways. So I have Miranda on. She's very excited to talk all things creative, strategy, media. We talked about brand versus performance teams. We talked about how to think about testing new channels, what kind of budgets to use, how much credit you should get from some of these companies, as well as AI and where to use AI, how much to use it, etc."
+    },
+    {
+      "start": 167.39,
+      "end": 193.95,
+      "text": "So it's a very good episode. It's very kind of dense and packed. Hopefully there's a few nuggets in there for you. And if you have any questions, you can reach out to Miranda directly on LinkedIn or Twitter. You can also just DM me or email me. I'm always n at sharma.com. And without further ado, I hope you enjoy this episode. As always, please leave a review or subscribe, follow the podcast, whatever it is on the platform you're listening on. And I hope you enjoy it."
+    },
+    {
+      "start": 194.87,
+      "end": 222.35,
+      "text": "Miranda, it's so nice to have you on the Limited Supply Podcast. Thank you for joining us. And I'm excited to dive into all the things that are actually working and not working for you. But before we get into that, do you want to give our listeners just a quick background on yourself, your background, where you come from, and almost brag in a way that would convince people to want to listen to the rest of this episode? Yeah, sounds good. Yeah, so I am a performance marketing manager for a holdings company called 365 Holdings."
+    },
+    {
+      "start": 222.43,
+      "end": 245.93,
+      "text": "So we own and operate several different e-commerce brands. Everything owned under the company is very vertically integrated. So we do as much as we can in-house, including marketing, operations, fulfillment. So I do all of our performance marketing. And that involves all of our paid ads channels. Now AppLovin, formerly mostly was Google and Meta. I have a background in photography."
+    },
+    {
+      "start": 245.93,
+      "end": 275.93,
+      "text": "So I have a kind of that media buying side and the creative side that I think is really important when you are approaching brands and marketing. Being able to take visual elements and also advertising and combine them together. I started my own photography e-commerce brand kind of back in 2014. So I've been in the e-commerce space for a while, but more in the performance side for the past four years. Nice. I always feel like the performance side is where the fun is at anyways. Oh yeah. If you like money, you'll like it a lot. Yeah, it's so funny."
+    },
+    {
+      "start": 275.93,
+      "end": 305.75,
+      "text": "I first started doing performance marketing at a beverage company. And I just remember like waking up and seeing how much money is being spent on a daily basis on Facebook. And I almost lost touch with reality of like what the concept of money is because you just see 10 grand, 50 grand, 120 grand by 7 a.m. sometimes. And it feels like it's fake and monopoly money. I know. Then I'll go to the grocery store and be like, do I really need blueberries for $5.99? Yeah, 100%."
+    },
+    {
+      "start": 305.75,
+      "end": 333.07,
+      "text": "I spent like $200,000 today already. Yeah, it's like, oh, that 10K test was easy. But sometimes too, even I remember like I asked the company if I could buy a camera because it would be so much faster to just shoot some product images versus, you know, use a studio. And it was such a fight to get a 3K camera approved when like we can run a 45K test, even if it fails, you know? Exactly. That's why the organic team is always mad at the ads team. Yeah, 100%."
+    },
+    {
+      "start": 334.09,
+      "end": 361.99,
+      "text": "So I'm curious, like how do you think about the current landscape of paid for e-commerce? It seems like every year there's new challenges, whether it's privacy, CPMs, just new channels to consider. So like from where you sit, where do you see what's changed in the last couple of years and how are you guys adapting? Yeah, so I mean, I kind of joined like media buying after iOS 14. So I never was in like the golden era of meta ads. So I've kind of always had to overcome that, those changes that have come to meta."
+    },
+    {
+      "start": 362.95,
+      "end": 390.33,
+      "text": "I think what's been changing a lot over probably the last year has been a lot of brands realizing they can't be so meta heavy and you can't have all of your eggs in one basket. And I think that's really important going into, you know, the holidays this year and even just into the future of if your brand is 100% dependent on new customer acquisition through meta, like you will fail at some point. Like you will run out of customers that you can find on one channel. And especially if you have a bad day on meta, it's then a bad day for your company."
+    },
+    {
+      "start": 391.27,
+      "end": 420.37,
+      "text": "And that is just not a good place to be in. So definitely towards the middle of last year, I was trying to find a way to diversify our portfolio of where we were spending on advertising. Meta was really struggling for us in Q4. We had seen almost 50% growth month over month, like the entire year and just kind of slammed into November. And we're really having a hard time finding more eyeballs, especially in Q4 on meta. And kind of was like, okay, we need to find somewhere else to advertise because this is just we can't find the scale."
+    },
+    {
+      "start": 420.55,
+      "end": 443.29,
+      "text": "Like we were having efficiency, but we could not scale as much as we wanted to. So that's kind of where I dove into AppLovin and Pinterest. And I'm now testing Snapchat. Like I'm just trying to diversify our whole portfolio of like even if I have 10 ad channels, they all get 10% of my spend. And like that to me is a more healthy business and an efficient way to scale than having one channel driving all of your revenue. Yeah."
+    },
+    {
+      "start": 443.53,
+      "end": 468.41,
+      "text": "And assuming like meta wasn't a channel that you cut, did these other channels like Pinterest, Snap, AppLovin, which I consider to be very like view through heavy channels. Did these guys help with driving that awareness so that meta became more efficient or you were able to then scale with efficiencies? Yeah, I think we ended up spending about 5% of our budget on Pinterest. So not anything crazy in Q4, but we did see some lift from it. And I think the whole system works together."
+    },
+    {
+      "start": 468.69,
+      "end": 497.33,
+      "text": "So if your customer is on Pinterest and meta, like if I happen to reach them first on Pinterest, now I can reach them on meta and vice versa. So the whole kind of wave comes together, especially when you're remarketing and the pixels are picking them up in different places. Like maybe your customer would have never seen your ad on meta, but they were looking for something similar on Pinterest and found you. So that's kind of my approach to marketing is your customers live in all different corners of the internet, not just one. So if you can reach them on one, you now can remarket them on the other."
+    },
+    {
+      "start": 497.51,
+      "end": 527.05,
+      "text": "And then you can kind of grow the whole tidal wave together. Yeah, totally. How do you think about like measurement or measuring success in some of these channels? Because these three specifically are very like view through heavy. Yeah, we I try to not look at view through. I know there's like controversy there, but it just has to make sense profitably with click data for me. And if everything through the click data is the row as that we need to be profitable, we know can be profitable. If there's more on top of that, fantastic. Like that's extra lift for the brand."
+    },
+    {
+      "start": 527.29,
+      "end": 551.33,
+      "text": "But for me to keep investing dollars there, like it has to beat that that number that we need, depending on what company I'm running an ad for and what row as they need to be profitable. So I mostly am looking at click through data and triple oil. I don't really trust the in platform numbers of any of any platform meta Google anything new. I'm trying to just trust what, you know, third party neutral reporting is giving us."
+    },
+    {
+      "start": 552.23,
+      "end": 580.29,
+      "text": "And I like to look at long, like look back windows, like 28 days, like I can take 28 days. And if within 28 days I'm hitting, you know, a two row as like fantastic, let's keep scaling. Like I know it may take more than just that first click, but I also don't trust the view through. So I think just knowing what your window is and if you can figure out your lag time of like, well, if my row as is a one on day one and then by day 28, it's going to become a two. Like, cool, I'm going to drive that one row as on day one, like as hard as I can."
+    },
+    {
+      "start": 581.43,
+      "end": 606.05,
+      "text": "Yeah, fully agreed. How, like from a positioning standpoint, how do you think like, you know, so many, so many brands I've worked with, they usually sell. Well, sometimes small catalogs, sometimes large, but they tend to all have like hero SKUs that really drive a lot of the paid acquisition. How do you think about it? Because I know for like apparel specifically, which I feel like you guys might be a similar adjacency to apparel in terms of catalog setup."
+    },
+    {
+      "start": 606.27,
+      "end": 635.81,
+      "text": "But like, do you focus on a specific product or do you focus on like the benefit, like the value prop of Cuddle Clones and then let customers choose a specific product? Or how do you think about that? Because that also plays a huge role into like new channel expansion, especially when you have that being like a testing variable versus something that's like set in stone. Yeah, so with Cuddle Clones, we have basically two hero products that we advertise the most. We have other smaller SKUs, but especially like launching into new platforms, we usually test two."
+    },
+    {
+      "start": 636.03,
+      "end": 664.63,
+      "text": "So we have the Cuddle Clone, which is basically a replica of your stuffed animal. So they're all, you know, handmade. They're very high OV. They're about $200 to $250. So that's a higher SKU, like higher ticket item versus we also sell your pet space on pajamas. And that's definitely a more like only popular at the holidays because for whatever reason, no one wants to buy pajamas in July. But those are the kind of the two SKUs that we'll go to market with a new platform with."
+    },
+    {
+      "start": 664.85,
+      "end": 689.17,
+      "text": "And some work for some and some don't work for others just because of the cost, I think sometimes. You know, Pinterest buyer might buy a $2,000 couch, but they don't want to buy a $200 gift. So you also just have to be considerate of the users that you have. AppLovin, we had wild success selling our pajamas on there, but not as much volume for the clone because, again, that's a more expensive purchase."
+    },
+    {
+      "start": 689.17,
+      "end": 714.05,
+      "text": "And I think it's easier to check out at $80 to $90 when you're playing a mobile game than maybe a $200 to $250 purchase. But then we do see the follow on later on because people then go researching for the brand and maybe do want to buy the Cuddle Clone at a later time. But they're not ready to, you know, exit their Candy Crush game and buy that at the moment. Yeah, that makes total sense. Outside of like it sounds like AppLovin is a big one, which we'll talk about."
+    },
+    {
+      "start": 714.05,
+      "end": 742.15,
+      "text": "But outside of that, are there any like tactics or campaigns or strategies or tools, vendors you've used recently that have like surprisingly hit some home runs for you that you don't see used as commonly? I think using your ads across different channels isn't always the best tactic. Like, oh, this worked on Meta. Let's use it on YouTube and on AppLovin and on Snapchat. And sometimes you have to really consider what platform you're on. It's definitely the lowest cost, easiest point of entry to just repurpose your Meta creatives."
+    },
+    {
+      "start": 742.15,
+      "end": 770.73,
+      "text": "Yeah, we found with AppLovin making game specific ads and more so thinking like, OK, we're in front of a user who has to be forced to watch this ad for 30 seconds. Like, how can we fit as much possible information into that ad? Because they know they're watching an ad versus Meta. Sometimes you almost feel like you have to trick the user into being obtained first before you can sell them. Versus AppLovin is a completely different strategy because you are genuinely selling them because they know they're watching an ad."
+    },
+    {
+      "start": 770.73,
+      "end": 798.45,
+      "text": "You don't have to convince them to stop what they're doing to watch it because they are forced in that 30 second impression. So you almost get to be more DR style, more, you know, direct to the point and just feed them as much information as you can get so that they do want to click and buy. Instead of like, oh, can we just stop them from scrolling and get five seconds to get six seconds to get seven seconds of an ad versus I've got 30 seconds. And what can I tell you in 30 seconds about our product? And the way that you make an ad in that way versus Meta is just very different. Yeah."
+    },
+    {
+      "start": 799.07,
+      "end": 828.25,
+      "text": "Do you think about that too with like hand gestures and TikTok and Snap and how like, you know, a swipe left in TikTok is different than a swipe up and Snap or a tap on Instagram? Like, do you think about that when you're also considering creative briefing or like working with your creative team? Yeah. And I think the way that you consume media depends too. So if you're scrolling on Meta or Instagram or even a reel, like you're clicking probably a lot quicker than you are in a feed. So that's why people are like, oh, well, image ads work better on Meta than video."
+    },
+    {
+      "start": 828.75,
+      "end": 857.59,
+      "text": "But you have to have both because people are interacting with them in different ways. But you might not see that purchase until they're like a scroll on, you know, a feed is slower than clicking through reels or TikTok. Yeah. A hundred percent agreed. Going more into creative, do you use any AI as it relates to creative right now? Or like do you use AI tools? Yeah. We've definitely been testing different AI tools. I think some are better than others and some, you know, you're like, wow, that was really bad. We're going to go back to the drawing board."
+    },
+    {
+      "start": 857.65,
+      "end": 882.65,
+      "text": "And others, you're like, wow, this is actually pretty well, works pretty well. I think one thing that we found, even just graphics are a lot easier to do with AI. I think you have to be careful of how much AI you use. And I wouldn't go 100% AI in your new ad creative because the end user still can sometimes figure out that that is AI and maybe will lose trust in the brand. So I think there's a fine line. But I think everyone should be using it in their, you know, in their briefing."
+    },
+    {
+      "start": 882.87,
+      "end": 912.37,
+      "text": "You know, if you can feed as much information to the AI about your customer, you'll help write better scripts. And like all of that will just keep compounding as AI gets better. Do you use the triple whale AI at all? Yeah, I've been playing around with Moby. I've seen some crazy videos that it's been able to make. Yeah, it's nuts. Even in the demo, they like screenshotted our homepage and they were like, make these dogs talk. And like it, it was, it looked like an animator did it. And it was like maybe, maybe a minute of load time."
+    },
+    {
+      "start": 912.57,
+      "end": 936.27,
+      "text": "So we'll definitely be using it more and more as we continue to test it. That's awesome. Okay, cool. So, oh, on the briefing piece, is there anything you figured out in terms of like any tick tactics or tips that you figured out on the briefing side? I find that a lot of people have a struggle when it comes to like thinking about what to brief or how to brief or how do you leverage past data?"
+    },
+    {
+      "start": 936.27,
+      "end": 965.77,
+      "text": "From performance or from brand or from customer complaints or whatever it may be to try to get ahead of like the next, the next wave of briefing. Is there anything that you've seen or thought about or like any thoughts there? We do have some AI ads that we, that were briefed. And it's almost like we have kind of that like, even like point of view video to start of an AI character that looks real. And then it goes into all of our like collected, like real UGC content with a voiceover."
+    },
+    {
+      "start": 965.77,
+      "end": 992.41,
+      "text": "So I think if you don't have like a face, give it like explaining whatever your hook is, I think implementing that into your script is pretty easy. And there's so many AI generators now that can make a real person saying at least a sentence or two to kind of open up that ad if you don't have that like filmed POV UGC style. Yeah, makes sense. All right. I want to dive into AppLovin a little bit. So they are, they're actually the sponsor of this season."
+    },
+    {
+      "start": 992.41,
+      "end": 1019.51,
+      "text": "And so a lot of people have already heard about AppLovin, but many haven't tried it yet. I'm curious how did AppLovin first get on your radar? And then like what was your incentive or why did you want to test it? Yeah, so we were in November and like the brand had really phenomenal growth all year long. And then we kind of hit November and we were falling short of our goals. And we were like, well, maybe it's because, you know, Cyber Monday and Black Friday is late this year. Maybe it's just things aren't working."
+    },
+    {
+      "start": 1019.67,
+      "end": 1048.13,
+      "text": "But Meta's performance, definitely we were having a really hard time finding that volume. It was almost like we hit a wall and there will seem to be other people on Twitter like sharing similar sentiments of like it's just not working the way that it should have this, you know, this season. And that's kind of where we dove into Pinterest. And then with AppLovin, there had been, you know, some hype on Twitter about it. They had the credit going on and our CEO emailed me. He was like, let's just get on this right now. And it was the week before Black Friday."
+    },
+    {
+      "start": 1048.31,
+      "end": 1071.67,
+      "text": "So it's like the last week that you want to be onboarding a new channel. But it was kind of the point of like we should just take like if we spend the 10K and it isn't successful, like whatever, hopefully we got some eyeballs into the funnel. So it was very much like let's just let's just try it. Like let's throw a Hail Mary and see if we can kind of get some eyeballs before we head into Black Friday next week. So I think it was like Friday. It was like the Friday before Black Friday."
+    },
+    {
+      "start": 1072.29,
+      "end": 1101.13,
+      "text": "And like the AppLovin team is like messaging me on Saturday and on like evenings, like getting us onboarded like super quickly, like pretty much white glove service, which was so helpful when I was running around like a chicken with my head cut off trying to get, you know, everything ready for Black Friday. And they spent through the 10K for us. Like we gave them creatives and everything that we wanted to run. And like they basically managed the budget for us and spent it like way faster than I would have spent it."
+    },
+    {
+      "start": 1101.25,
+      "end": 1124.91,
+      "text": "Like within I think four or five days maybe. I probably would have spread that out over like two weeks to see like how much like slow learnings can I get out of this. But because they kind of jolted us so quickly, we were able to just like scale wicked fast because all the click data we were seeing in Triple Whale was like very profitable. It was beating all of our MetaROAS numbers even within, you know, three days of running."
+    },
+    {
+      "start": 1124.91,
+      "end": 1146.79,
+      "text": "And so basically we went from zero to $80,000 a day and spend in seven days. Wow. That's crazy. And is that just like was the was the sales cycle just significantly faster through AppLovin as a channel versus Meta? I think so. And like the creatives we ran on AppLovin like weren't even running on Meta."
+    },
+    {
+      "start": 1146.79,
+      "end": 1176.49,
+      "text": "Like we took some of our like winning creative, but for our pajamas, normally like statics always worked on Meta and our videos were just crushing it on App. Whereas we never really got much spend out of them on Meta. Wow. So it was a completely different ad. It's not like, oh, we had like these 10 winning, you know, Meta creatives and we plugged them in and they just worked like they were pretty much brand new creatives that we made specifically for AppLovin. And yeah, we ended up spending a million dollars in 30 days with the platform versus, you know, Pinterest at the same time."
+    },
+    {
+      "start": 1176.49,
+      "end": 1205.25,
+      "text": "I think we spent maybe $100,000. So the scale there was just so much, so much bigger than anything I would have expected. Yeah. What does the creative lift look like for AppLovin? Is it are you producing? It sounds like you produce it or maybe taking some stuff that from other channels, but then like modifying the text overlays and the post production to make it fit the AppLovin parameters. Yeah. I mean, they now you can upload your own end cards. But when we were starting with them, they would make the end cards for us."
+    },
+    {
+      "start": 1205.25,
+      "end": 1234.33,
+      "text": "So kind of those call to actions at the end of the videos. They didn't yet have that like shopping carousel yet. So that was before that they've added that now. And yeah, I mean, mostly we just tried to make the creatives like get into that the brain of the customer. Like, okay, they're watching a game. We know we have 30 seconds to talk to them. Like, what can we tell them in 30 seconds? Can we tell them about all the colors we have to offer? Can we give them all the features and benefits of the product? Can we give them the offer? Can we create urgency with it of, you know, it's only available for this long."
+    },
+    {
+      "start": 1234.93,
+      "end": 1262.73,
+      "text": "And like that just really worked for us because we really got in their head and thought about like, if you are an end user playing a game, like how can we make sure that you're going to really remember our brand? Whether you click and buy right now or not, like you will remember the name brand because you had to watch that whole ad versus how many ads did we scroll past on meta a day? It's like, I don't remember half of them. Yeah, I know. They're like meta ads that come, especially from a brand itself, remind me of like billboards on the side of the highway."
+    },
+    {
+      "start": 1262.89,
+      "end": 1289.97,
+      "text": "Like you're just trained, especially now, everybody's just trained to skip them. Yep. We just onboarded two brands who are new to AppLovin' but very heavy Facebook spenders. One is a high AOV in-home product and one is a supplement brand. Now why? Why? Well, AppLovin sees 150 million active users per day. The same way you'd want to test a channel like Snap is the same way we approach testing AppLovin. So far, the onboarding was super smooth."
+    },
+    {
+      "start": 1290.09,
+      "end": 1320.03,
+      "text": "We've been able to ramp up spend in just a short amount of time and I think we're still hitting our planned ROAS targets. Candidly, I haven't seen many platforms able to ramp up this quickly and I'm excited to continue investing into the channel. Throughout the season, I'm going to keep you updated with how our results are going. But right now, you can get updates on AppLovin's e-commerce beta and be the first to know when opportunities become available at nick.co slash app beta. That's n-i-k dot c-o slash a-p-p-b-e-t-a."
+    },
+    {
+      "start": 1320.33,
+      "end": 1348.11,
+      "text": "Check it out. With getting to like 80k a day in spend, how often are you refreshing creative? Is it on the same like creative refresh cycle as something like meta? I think some of them can run actually longer than I think meta. I think it really depends on probably your industry. We're still running ads we ran in Q4 now and they're still profitable and they still run. And we've been adding new creative to that. I think the more creative you add, just the more opportunity you give the AI to learn."
+    },
+    {
+      "start": 1348.33,
+      "end": 1374.79,
+      "text": "I think that goes with pretty much any ad platform. The more creative you give it, it's just going to continue to learn. And maybe you can't beat your best, but you at least can get close. So I think probably less demanding than meta. I feel like people are like, oh, you need 200 new ads a day in meta to scale. And I don't think you need that with AppLovin, but you definitely need something that is new and different than what you're going to run on meta. Where do you feel like AppLovin? I mean, it sounds like it drives a lot of like last click sales."
+    },
+    {
+      "start": 1375.03,
+      "end": 1402.97,
+      "text": "So maybe it's like towards the bottom, but I also feel like it's a pretty good discovery channel as well, or like getting you in front of different people that maybe Facebook and Instagram aren't. Do you feel like it's a full funnel channel or is it more focused on the upper funnel or lower funnel? I really think it's full funnel because we'll look at customer journeys and Triple Whale and we'll see a lot of first clicks from Apple Whale. And then we'll see last click on Google or we'll see, you know, first and last click on AppLovin. So I think you have impulse purchases depending on what you're selling."
+    },
+    {
+      "start": 1403.09,
+      "end": 1431.91,
+      "text": "Like, especially for us, it's, you know, there's a variety of things you can buy in the pajamas if you buy like one piece or pants or a set. But like the AOV can be anywhere from $50 to $100. So like it can be an impulse purchase. Our demographic leans female. So there are a lot of females using mobile games. I mean, it's probably 50-50 split male and female on mobile games depending on which game. But I feel like we really just found a different pocket of users. And our December like just absolutely crushed last year."
+    },
+    {
+      "start": 1432.03,
+      "end": 1459.93,
+      "text": "Like I think we were up like 150% year over year, maybe 200%. And like we had such an outsized December than we expected because I think we had these additional incremental users that we didn't have from Meta or had ever had from Meta. So I think that was like a big part of, you know, growing Q4 and then just growing the brand this year when I feel like Meta is struggling a bit. Yeah. When AppLovin was scaling, did you see efficiencies on other channels like as a direct result maybe?"
+    },
+    {
+      "start": 1461.55,
+      "end": 1486.55,
+      "text": "Google definitely went up. But I think that's more of a correlation for Brandlift. I'm sure like if we had run like a direct study on it of like, you know, the day we started AppLovin and then searches for Quddle clones on Google, I'm sure there's a correlation. We ended up spending the exact same on Meta and AppLovin in the month of December. So it really wasn't like we took away from Meta. Like that was about what I had planned to spend on Meta. It was just like all incremental."
+    },
+    {
+      "start": 1487.63,
+      "end": 1516.37,
+      "text": "We've seen like cross clicks from Meta and AppLovin and people converting on both. But I think like what we found on AppLovin and what we continue to find is like a new customer that just isn't on social media. Because in the grand scheme of things, not everyone in this country is on social media. Yeah. True. What about... Okay. So I want to just talk a little bit about creative on AppLovin. So I believe you guys are running like 70 different videos at once or you were maybe during like the Black Friday approach."
+    },
+    {
+      "start": 1516.55,
+      "end": 1542.75,
+      "text": "But how do you like... Like you were talking about that 30 seconds that's unskippable. How do you captivate them? Do you lean into humor? Do you lean into being like, look, we know this is an unskippable ad. You have to be here. So we're going to make it valuable. Or like how do you think about that? Yeah, we have a different variety. So some we have like literally like, hey, you should stop like playing your game and listen to what we have to say. Like along those lines is the hook. And those do pretty well. We also have like..."
+    },
+    {
+      "start": 1543.73,
+      "end": 1572.57,
+      "text": "There's like all of those text in context ads where it's like a post-it or a letter board. And like one of our winning ads is actually like a letter board that we ran a graphic of at the start. But we just recorded it as a video instead of taking a picture of it. And then like leading into the sales copy. A lot of things we did was like mashing up UGC with, you know, different clips and pictures that we have of our different creators we've worked with. So it's kind of like a mashup of everything that's worked on meta."
+    },
+    {
+      "start": 1572.95,
+      "end": 1598.57,
+      "text": "And then calling out like the features and the benefits of the product. Nice. And what about like end card wide? Is there any winning formula you found for like the highest click through end card? I think really just calling out the product of like why they should click on it. I've seen like some really good things from True Classic too with their up-loving ads of like, you know, it's just a t-shirt. But they're calling out all of the reasons why you should, you know, remember the brand."
+    },
+    {
+      "start": 1598.77,
+      "end": 1621.39,
+      "text": "I think we've done that a lot for Cuddle Clones too, especially for apparel of like, it's, you know, it's soft and breathable. And it has your pet's face on it. And they're on sale now. Like what do you want them to remember and put that on that end card so that they do remember it when they go back to their game or when they're, you know, scrolling in bed later and they see a meta ad and they're like, oh, I remember that brand that I saw in my Candy Crush. You know, I'm going to click on it and buy now because I'm ready to buy. Yeah."
+    },
+    {
+      "start": 1621.83,
+      "end": 1645.91,
+      "text": "Were you able to reuse a lot of existing assets for these app-loving video ads or did you guys have to go shoot new stuff for it? We ended up just mixing a lot of the stuff that we've collected for meta. A lot of what we do run is UGC creative and that seems to work the best of working with a lot of creators, especially for having like a relatively small team. It's kind of hard to have like that full in-house creative team, especially when you aren't, you know, a ginormous brand."
+    },
+    {
+      "start": 1646.21,
+      "end": 1671.23,
+      "text": "So we found a lot of success of trying to just source what we can from creators and then kind of mash it together with some in-house stuff and some content that we shoot ourselves. So it feels really native to the platform. Yeah. Yeah. As far as like app-loving customers, have they been good customers that have come in? Like they stay or have a similar LTV to other channels? Yeah, I would say so."
+    },
+    {
+      "start": 1671.37,
+      "end": 1699.11,
+      "text": "Our brand doesn't have a lot of LTV because they're custom products and normally you buy one thing and kind of move on. But that's why like new customer acquisition is so important for us of being profitable. We're also bootstrapped. So like the ads have to work, you know, to keep the brand sustainable. And I think running ads for venture capital versus bootstrapped is very different. And especially with testing a new channel, like have to prove this works or, you know, it's your job on the line, basically."
+    },
+    {
+      "start": 1699.37,
+      "end": 1728.09,
+      "text": "Like you can't, like I couldn't have just gone and spent a million dollars on a new platform without proving that it worked. If you have venture capital, you could probably do that. But I think a lot of D2C businesses are bootstrapped or there's, you know, small business owners that are trying to find new places to advertise. And like it has to work. Like you can't just burn cash. Yeah. When I worked at a beverage company, I used to always tell vendors, like if you give us a 10K test opportunity or a 30K test with a 10K credit, like we can test anything. Yeah."
+    },
+    {
+      "start": 1728.19,
+      "end": 1753.81,
+      "text": "But we can't sign like an IO for 50 or 100 without first showing that it works. You mentioned you have a scrappy team right now or like a kind of a tight knit team. What is the I'm curious what the current team looks like. Yeah. So we have a VP of marketing that oversees, you know, the high level marketing decisions. And then we have a retention specialist. And then we have kind of like a brand manager and manages the website."
+    },
+    {
+      "start": 1753.87,
+      "end": 1779.41,
+      "text": "And then I'm on like the media buying side and I'm trying to, you know, handle growth and strategy. And like how can we how can we grow? How can we, you know, work with new channels? And then I have a creative strategist that works underneath me. And then we have I have an assistant and then we have two people that are on organic social and then on managing content creator relationships. So we kind of have like a little flywheel where it's like creative strategist to content creators."
+    },
+    {
+      "start": 1779.41,
+      "end": 1808.19,
+      "text": "And then also having the organic social to content creators and then having kind of that content creator affiliate manager that's kind of bringing all that content up and then kind of continuing to go through the flywheel. Wow. And are you are you the one that's like taking learnings and what's working and sending it back to the creative team? Or is somebody else pulling that? Or do you guys use any tools for pulling analysis like that? We also just use triple well. We use motion for a little bit, but we're not currently using them."
+    },
+    {
+      "start": 1809.11,
+      "end": 1838.59,
+      "text": "But yeah, mostly just looking at the data and I'm kind of taking that data analyst role and deciding like, OK, this is working. Let's make an iteration of it or, you know, here's a here's a brand new idea. We should test it. And then, you know, which channel should we prioritize? Should we prioritize app loving? Should we prioritize snap this week? You know, where should those resources go based on like, you know, the ROAS and the revenue and spend we're seeing from each channel? Like we're very seasonal. So it's very much like we're very much just a Q4 business. Like it's a strong business year round."
+    },
+    {
+      "start": 1838.77,
+      "end": 1865.35,
+      "text": "But Q4 is a completely different beast because everything we sell is giftable. So we get Q4 and like it's really much like make or break it. Like you have to hit the metrics in those that month of the year. And that just makes the whole year for that brand. So that's why onboarding with app love and onboarding with new channels. Like I feel like especially in Q4, like most media buyers probably wouldn't say they went from zero to 80K in seven days on a new channel. Definitely not before Black Friday. Yeah."
+    },
+    {
+      "start": 1865.55,
+      "end": 1888.77,
+      "text": "Like but when you're in the heat of the moment and when you're in Q4, it's like I either have to make this week work or like the business is not going to hit its goals for the year. So it's very important. And it also can just like blow the doors off and take the whole office staff into the warehouse for a week. So totally have you have you do you got well with like a lean team?"
+    },
+    {
+      "start": 1888.93,
+      "end": 1906.01,
+      "text": "Do you guys outsource a lot of functions like like do you use agencies for creative for UGC for media, different things like that? We've started to a little bit more. I think once you hit a certain revenue peak, I think you kind of have to continue to outsource a little bit."
+    },
+    {
+      "start": 1907.21,
+      "end": 1926.57,
+      "text": "I think it gets too hard to do it with an internal team, especially if you're trying to, especially if you're seasonal to, you know, like we're so heavy into Q4 where it's like we do need those extra resources in Q4, but the rest of the year, not as much. So I think it depends on your brand and what your brand needs. Like we do really well with UGC, that's low cost."
+    },
+    {
+      "start": 1927.55,
+      "end": 1951.07,
+      "text": "But then I think if you're trying to get to 100 million, 150 million, like that's where you might need to step in and be like, OK, we need to hire, you know, some high production shoots or, you know, add to the creative that we already have. Yeah, totally. Do you ever feel like with vendors, you kind of like lose the soul of the brand or like the soul from a creative or anything like that? So that's kind of been our standpoint historically."
+    },
+    {
+      "start": 1951.59,
+      "end": 1974.75,
+      "text": "I think we're continuing to acquire brands that are bigger and have more demands to where, you know, unless you hire a very large, expensive in-house team, I think you'll struggle there. So I think, yeah, I mean, we haven't worked with a lot of agencies, so I don't have like a strong opinion one way or the other. But I think if you're under 30 million, you can probably do it without an agency."
+    },
+    {
+      "start": 1974.75,
+      "end": 2000.09,
+      "text": "If you're trying to get to 100 million, you probably need to start, you know, adding more resources and just more brains together. Yeah. The last thing I want to chat through is the brand versus performance fight of teams. How do you guys currently like divide responsibilities between brand and performance? Is like email considered brand? I'm assuming social is probably brand. Is website under brand or performance?"
+    },
+    {
+      "start": 2000.91,
+      "end": 2025.97,
+      "text": "Yeah, I think the size that we are and just thinking about like holistically, like all of advertising and marketing, I think performance has to dictate sometimes of like what's working is just what will perform and what the brand should be in a way. So like for Cuddle Clones, historically, the brand didn't have a lot of emotional content. It was very cheerful and happy."
+    },
+    {
+      "start": 2026.27,
+      "end": 2049.85,
+      "text": "But then the more viral TikToks we had of people, you know, crying and emotional, you know, unboxing their Cuddle Clone. And like just seeing like the reaction that we got from customers, even then when running those ads of people being, you know, emotional about, you know, opening this, this package or this present. And then like the brand shifted more emotional because of the performance we saw."
+    },
+    {
+      "start": 2050.01,
+      "end": 2078.69,
+      "text": "So I think you kind of have to take them hand in hand versus like the original brand book was like Cuddle Clones is not emotional or somber. But then if somber and emotional work really, really well for the brand, like you have to forego, you know, what you wrote on a sheet because that's what's going to reach the most customers or that's going to reach your ideal customer that is already looking for you or has never heard of you, but really will connect with your brand. Totally. I feel like too, those brand books are all built in like conference rooms by creatives."
+    },
+    {
+      "start": 2078.91,
+      "end": 2103.51,
+      "text": "And then, but there's no like data that goes into those and, and there's no brand with no customers. So yeah, exactly. I think, yeah, I think you have to take, you have to take both into consideration. I think you can do something that's completely out of left field with no data behind it. Like, oh, we're going to like throw a bunch of Cuddle Clones off a bridge. Like that makes no sense. That has no context. Like that wouldn't fit the brand."
+    },
+    {
+      "start": 2103.57,
+      "end": 2130.33,
+      "text": "But also like if I have data to show like, hey, all these unboxing videos of people being really emotional, I have all this data to show that like these ads performed really, really well. Then it goes back to like, okay, can we create assets for email for the website that reflect that and maybe go away from the brand book, but I have data to back it up. Yeah. Makes total sense. For like the rest of the year going into next year, you know, it sounds like AppLovin was a huge opportunity that worked out really well."
+    },
+    {
+      "start": 2130.33,
+      "end": 2159.61,
+      "text": "Are there any other channels or tactics you're seeing that you're looking to bet on, whether it's TV, whether it's, you know, social shopping, live shopping, et cetera, anything you're experimenting with? Yeah, we're actually experimenting with a lot right now heading into Q4. We have one brand that I haven't talked about, but we're launching on TikTok shops there. And they had like a shop set up previously before they were owned by us, but never really sold anything."
+    },
+    {
+      "start": 2159.67,
+      "end": 2185.51,
+      "text": "So we're kind of pivoting and trying to go really deeply on that. So we're giving that a shot. I've seen kind of mixed bag results on that, but we're going to go forward with the strategy. I think we can try it and we'll see what happens. I think you have to bet on some channels at least a little bit before you can call them a winner or loser. So we're testing shops. I'm testing Snapchat currently. I'm getting pretty good results from Snap."
+    },
+    {
+      "start": 2186.57,
+      "end": 2211.43,
+      "text": "I haven't found like the volume, nearly the volume that I have on AppLovin currently. But I think it'll be a part of our Q4 strategy. Same with Pinterest was very much like it worked really well in Q4 and it didn't work the rest of the year. So that'll be one that like maybe we just spend some money in Q4 on there and it really works well for us then, but it doesn't work the rest of the year. But I think regardless, every brand should be diversifying as much as they can and getting away from meta."
+    },
+    {
+      "start": 2212.47,
+      "end": 2237.69,
+      "text": "Like, you know, we as a holding company, we see a lot of, you know, different companies come through that are maybe bankrupt or in a bad financial situation. And if you're really heavily just on one channel, like, and that channel doesn't work for you anymore or your ad account gets banned or like anything happens in the ecosystem and you just you don't even have a company anymore. So I think it's really important that you can acquire customers from organic and from affiliates and from content and from TikTok."
+    },
+    {
+      "start": 2237.69,
+      "end": 2262.79,
+      "text": "Like, the more flywheels you have going, like just the healthier business you have and the more the easier it'll be to acquire customers because they've maybe already heard about you from somewhere that you didn't have to pay to show them an ad. Yeah, I was going to ask for some parting advice, but I think that's the perfect way to end it there. One last question is, where do you find like your place to consume information or kind of like stay a step ahead of everywhere else?"
+    },
+    {
+      "start": 2262.79,
+      "end": 2289.75,
+      "text": "Like, you know, the the publications in our space are always like two months late to talk about anything. So like, where do you stay ahead? Honestly, on Twitter or X a lot, like that's where I spend a lot of time. I think one thing I find on there that is harder to find in other places are just genuine brand owners. And I take honestly the most merit from them. I think creators and I think YouTube channels are really great, too. Like Dara Denny, I think is fantastic. She's amazing."
+    },
+    {
+      "start": 2289.75,
+      "end": 2317.57,
+      "text": "Yeah, so like things that you can talk to like an expert that's like a consultant or is working with brands, I think is a phenomenal place to learn. But then also, like if you can talk to brand, like see what brand owners are saying, like Sean from Ridge is fantastic or like anyone else that's running a company and in the weeds. And even if they're small, I think it's really important to like take note of that and sometimes even take what like an agency has to say with a grain of salt sometimes because they have an ulterior agenda to get you as a client."
+    },
+    {
+      "start": 2317.57,
+      "end": 2344.67,
+      "text": "Versus if a brand owner or like a thought leader is sharing something, it's because it's working. It's not because they have an ulterior agenda. So that's something I've just noticed sometimes or pay attention if there's someone trying to sell you a course and they're also giving you content. Like there's a motive here. So I think it's important to like look at both spaces, but I think like brand owners, brand operators, and then also just like experts in the space probably have the best advice to give you."
+    },
+    {
+      "start": 2344.79,
+      "end": 2372.13,
+      "text": "Sometimes an agency or someone selling courses or selling you something on the back end, you sometimes just need to pay attention to how true what they're telling you is. Yeah, fully agreed. Where can people find you if they want to reach out to you? I'm on Twitter and LinkedIn, so I'm always happy to chat on comments or DMs. I just like talking about ads. So I had fun talking about it on Twitter with people and sometimes arguing, but it's a fun space and I love e-com."
+    },
+    {
+      "start": 2372.37,
+      "end": 2399.33,
+      "text": "So I think there's some really smart, kind people in this space that I don't think you'd find in other industries. Like the more conferences I go to and the more people I meet, like there's just genuinely good people in this space. And I think everyone wants each other to win. I don't think there's any, oh, I want this brand to go bankrupt. Like no, everyone wants to see you win. And I think that's really special about e-com. Yeah, I couldn't agree more. I think the community in this industry is really special. And a lot of people who come from other industries also say the same thing."
+    },
+    {
+      "start": 2399.45,
+      "end": 2427.29,
+      "text": "Like it's a very like let me help you out type of a community, even if it's competitive brands. Like everybody's looking to help each other out, which is awesome. Yeah, it's fantastic. I was in LA earlier this year for a conference and I just posted on Twitter. I was like, does anyone want to meet up and talk about ads and met up with two people? And we just talked for three hours over coffee, just talking about advertising. Like I don't think there's many spaces you could do that. I love it. Well, thank you so much for coming on. I'll leave your Twitter and LinkedIn in the show notes."
+    },
+    {
+      "start": 2429.03,
+      "end": 2444.47,
+      "text": "And hopefully we'll have you back soon. Sounds good. Thank you for having me on. Thank you. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

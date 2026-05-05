@@ -1,0 +1,329 @@
+{
+  "cues": [
+    {
+      "start": 1.12,
+      "end": 23.74,
+      "text": "Welcome to Season 11 of Limited Supply, a place for hot takes on what it's really like building and scaling consumer brands. I'm your host, Nik Sharma. Let's get into today's episode. As a brand, you know that you're spending hard earned dollars driving traffic to your site. The problem is 98% of that traffic is anonymous. You don't know who they are. And once they leave, it's hard to find them again."
+    },
+    {
+      "start": 23.74,
+      "end": 53.26,
+      "text": "There's a new tool that helps you identify these visitors and get in front of them. It's called Instant. Instant gives you another chance to convert these shoppers into buyers using their retention marketing platform. You can use their platform to send two to three times more site abandonment emails, which you know generate meaningful revenue, and build audiences to retarget on meta. Double your abandoned flow revenue and increase your ROAS with Instant. Go to instant.one slash limited to learn more. That's instant.one slash limited. Now back to the show."
+    },
+    {
+      "start": 56.82,
+      "end": 84.44,
+      "text": "All right. Welcome back to Limited Supply. In today's episode, we're actually going to do something a little bit different. We're just going to go through a bunch of topics that have been on my mind and that people have been emailing me about or DMing me about. So a lot of things on the docket. One is that there's a lot of events coming up. So hopefully, if you plan to be at Shop Talk, if you plan to be at Triple E Miami, if you plan to be at Commerce Summit, Commerce Next, Sub Summit, let me know."
+    },
+    {
+      "start": 84.44,
+      "end": 111.76,
+      "text": "You know, we'd love to host a meetup at one of these, maybe a limited supply meetup like we did in Canada. I believe there's one happening in the UK next week. Also, if you're not familiar with any of the meetups nearby, go to the Limited Supply Slack channel, limitedsupplypod.com, and join the Slack. You can see all of the local meetups happening. There's a bunch that happen all around the world. We are also going to be putting on a social shopping and top of funnel style event."
+    },
+    {
+      "start": 111.76,
+      "end": 127.08,
+      "text": "There's, you know, I basically talk to 15 plus brands per week. Anybody who is pre-launch and launching something in the, you know, with a massive celebrity, all the way to brands that are doing, you know, 50 to 100 million, brands that are doing, you know, 400 million."
+    },
+    {
+      "start": 127.08,
+      "end": 154.92,
+      "text": "And they all sort of have this same problem, which is generating top of funnel, more awareness, you know, how do you make sure the brand feels cool, well represented, and basically just make it relevant so that your performance marketing ads work properly. And, you know, there's a few things that we've definitely talked about here before in the scale episode, which was a few episodes ago, we were talking about everything from advertorial to YouTube to TikTok and all of that."
+    },
+    {
+      "start": 154.92,
+      "end": 183.72,
+      "text": "And through these conversations, and even just talking with more brands that have successfully done it, it's pretty obvious that the easiest and, you know, biggest arbitrage opportunity here is the social shopping slash kind of short form content platforms and figuring out how to game those. So we're going to be hosting a virtual summit for that in the coming weeks. So if you want to be a part of the virtual event and grab an early ticket, we're going to do free tickets for the first few hundred people."
+    },
+    {
+      "start": 183.72,
+      "end": 211.06,
+      "text": "So join it. Just go to nick.co, N-I-K dot C-O slash virtual summit. And it will bring you to a Google form, fill that form out. And as soon as everything is scheduled and locked in, we will go ahead and send you a ticket. Okay. So there's a couple of things I want to go through today in today's episode. One is how are telemedicine brands getting around all of the meta changes that are now going to be hitting this month?"
+    },
+    {
+      "start": 211.06,
+      "end": 231.44,
+      "text": "The second one is going to be how you can make your subscription business stronger, more resilient and focused on acquiring longer LTV customers. And then if we have some time, I want to get into some of the A-B tests that we've run with some of our clients and what some of the best wins have been. Okay. So starting with telemedicine."
+    },
+    {
+      "start": 231.66,
+      "end": 255.34,
+      "text": "So if you are not aware, there's actually been a lot of changes that are coming that have been written out and explained, I guess, somewhat, somewhat clearly to telemedicine brands. And that is basically that meta is changing their policies around what data gets collected and stored and how it's stored and how it's processed and then how it's internalized and then leveraged, of course, for advertising."
+    },
+    {
+      "start": 255.94,
+      "end": 285.08,
+      "text": "And basically what they're trying to do is eliminate any sort of knowledge around people's personal problems. They don't want to know if somebody is going through depression and is looking for medication. They don't want to know if somebody has acne issues and is looking for a solution. They don't want to know about erectile dysfunction. They don't want to know about hair loss. And it's partially that a lot of these kind of telemedicine brands are sending so much data back to the ads platform,"
+    },
+    {
+      "start": 285.08,
+      "end": 309.72,
+      "text": "which obviously creates a liability on Facebook side for hosting that or, you know, holding and then leveraging that PII. The other problem is there's all these companies like hospitals and, you know, insurance companies and pharmacy websites that all have a Facebook pixel. And without knowing it, they're actually accidentally sending back a bunch of PII that their customers are not even aware of."
+    },
+    {
+      "start": 309.72,
+      "end": 338.94,
+      "text": "And, you know, there's been a lot of legal or government concern around Facebook having this data. And so in order for them to try to comply and get past this, what they're trying to do is just say, hey, going forward, we're actually not letting anybody run purchase objective campaigns. We don't want to be involved in, you know, anything related to that. And so it kind of leaves you, leaves most brands figuring out exactly how are you going to continue running purchase based campaigns?"
+    },
+    {
+      "start": 339.08,
+      "end": 363.52,
+      "text": "Or how are you going to continue acquiring customers if you can't run a purchase objective campaign in Facebook? So I'll tell you how brands are getting around it and basically what I've seen work well. So first off is, you know, you have to be a brand that is focused on brand awareness and, you know, branding itself right. You should have good name recognition, good name association with your brand."
+    },
+    {
+      "start": 363.7,
+      "end": 392.64,
+      "text": "You know, if you're a brand like Curology or Roman or one of these companies, like obviously that's, you know, that exists. It's harder for net new companies coming into this space to do that. And so I really encourage focusing on building that upper funnel, focusing on content, focusing on education, you know, try to become a resource versus just a point of sale for consumers. There's a brand called Eden that I recently discovered that does a lot of telemedicine stuff."
+    },
+    {
+      "start": 392.64,
+      "end": 419.9,
+      "text": "And they've been very fascinating to watch as a brand and kind of how they're playing the content game, the web game, the ads game, etc. So I would definitely focus on upper funnel stuff. But now on the lower funnel side of things, how are brands acquiring new subscribers? Well, they're using a lot more content focused pages. So the web pages are a lot more descriptive. They're a lot more focused on education. They're a lot more kind of full funnel approach and they are essentially landing pages."
+    },
+    {
+      "start": 420.36,
+      "end": 449.54,
+      "text": "There's also a lot of new custom events being tested. So whether that's time on site, whether that's pages visited within a session, you know, a number of pages and it triggers an event. Most brands that are telemedicine brands are finding success by putting custom events inside the quiz flow. But before it starts to ask you anything proprietary. So let's say you've got, you know, a 12 question or a 20 question onboarding flow that people need to fill out before they can become a customer."
+    },
+    {
+      "start": 449.54,
+      "end": 478.3,
+      "text": "Before you start asking about any sort of information relating to, you know, the reason they're there, the cause that they're there for. That's where you want to put that event. And the idea is that, you know, let's say it's on the fourth slide. You have data that says, well, people who hit the fourth slide, what percentage of those people become a customer? And then you basically optimize towards that event and you, you know, sort of figure out the math of what percent of those people end up becoming customers."
+    },
+    {
+      "start": 480.12,
+      "end": 506.9,
+      "text": "Combining that with incrementality testing is something I would also recommend because that also lets you, one, it lets you test that event. But incrementality will let you test a ton of events and that too effectively in terms of understanding the conversion. Because Facebook's not going to tell you what converts or not. So you're not going to be able to get that reporting from there. You're going to have to get it through incrementality testing. And you can actually test other events and see how those compare for your account."
+    },
+    {
+      "start": 507.04,
+      "end": 531.2,
+      "text": "So, for example, you know, we have clients where we might test something like an add to cart focused campaign and see what that does on the website itself, but also in its omni channel performance. You can only test stuff like that and measure those results with incrementality testing. And I would recommend doing the same here. Maybe there, maybe it's not a custom event, but maybe it's, you know, website click, maybe it's add to cart, whatever it may be."
+    },
+    {
+      "start": 531.58,
+      "end": 561.5,
+      "text": "It might be something, you know, more upper funnel than just purchase, but using incrementality testing, you can actually do a look back and understand what impact does that have? Most brands that are doing telemedicine are doing this, custom events and incrementality testing. And those are basically the things that work. Of course, even, you know, more granular tactics wise, advertorials, whitelisting, sparking, those are still things that are, you know, basically just crushing. Listicles, obviously, the kind of the run of the mill stuff that's still working."
+    },
+    {
+      "start": 561.66,
+      "end": 588.24,
+      "text": "But this has kind of been the piece of the equation. And this is early on in the equation, right? It's like right when the ad's getting served and deciding who to serve. So this was a thing that was really tough to figure out, but seems like the solution is really lying within custom events and incrementality testing. For my conversations with Facebook, it feels like they sort of feel like their hands are tied as well. They don't necessarily want to do this. They're obviously missing out on a ton of revenue and potential revenue."
+    },
+    {
+      "start": 589.24,
+      "end": 607.96,
+      "text": "And but at the same time, they don't want to deal with being, you know, taking the fall for the legal stuff, which is why they're sort of just letting this happen. That said, this has been pushed back quite a bit, at least six weeks now. So it does feel like they're trying to figure out like how how they can help brands get around this in a way that is legal."
+    },
+    {
+      "start": 608.56,
+      "end": 638.38,
+      "text": "If you remember when all the Cambridge Analytica stuff happened to I think in 2017 or 18, there were you know, we lost all access to those really granular audiences that we used to get. And but then, of course, they opened up the back door to let you know, you could buy these audience exact same audiences from Oracle or Data Logix or Experian and then bring them right back into your account and sort of pay, you know, basically go around the back door. So it feels like they're basically building the back door right now."
+    },
+    {
+      "start": 639.28,
+      "end": 665.3,
+      "text": "Hopefully that's the case. That would be amazing if there becomes a back door for, you know, this type of stuff. I do think that there's got to be a way to, you know, I would even be fine if Facebook said, hey, we're by default not allowing this. However, you can submit to a committee and, you know, basically say, here's my brand. Here's my website. Here's the products we sell. You know, let your team come come to us and inspect everything."
+    },
+    {
+      "start": 665.3,
+      "end": 694.9,
+      "text": "Make sure from a data and compliance standpoint, we're not sending anything back that is, you know, against your terms of service and then whitelist us so we can run these ads like normal. I feel like that would make the most sense. And my guess is that's what's coming, some variation of that. But I'm not sure why that wasn't the way that it started. Anyways, that's all I had on the telemedicine side. Moving on to the next topic is, you know, how do you make your subscription business better?"
+    },
+    {
+      "start": 695.12,
+      "end": 724.88,
+      "text": "So I was thinking about telemedicine. Obviously, telemedicine is largely subscription based. And so I just started thinking, what are ways to make a subscription business better? And what are some of the things that I've seen? I've always thought that the best subscription businesses are actually media companies. Media companies like, you know, Wall Street Journal, for example. If you try to cancel, it's nearly impossible. And they keep giving you offers and ways out, you know, to not cancel. Trend reduction."
+    },
+    {
+      "start": 725.58,
+      "end": 751.86,
+      "text": "New York Times does a good job of this. I think at one point, New York Times made you call and try to cancel, which I think is now illegal to do. Thank God. WellBell, Hubble Contacts, Harry's, Armour. These are all great examples of companies that do really well on the churn reduction side and also kind of focused on providing a good subscription experience. So, all right. So here's some ideas I had. One is dead simple."
+    },
+    {
+      "start": 752.06,
+      "end": 780.64,
+      "text": "So on your website, a lot of brands don't even have a subscribe and save landing page or collections page or some sort of a page that explains why somebody should subscribe. It's not super obvious all the time why somebody, I keep saying somebody. It's not obvious why somebody should subscribe. You know, it may be for convenience. It may be that, you know, if you stop taking a WellBell, you know, its effects actually lessen while you're maybe waiting for a new shipment to come in."
+    },
+    {
+      "start": 780.82,
+      "end": 803.88,
+      "text": "You know, if you're selling something that you need every day and you don't have that, then that obviously works against you. But whatever it may be, you want to make sure you focus on these benefits on a subscribe and save specific page. And that lives on your site. We've found that a lot of times having this in your nav bar is actually the best place to host it because it tends to get a lot of clicks."
+    },
+    {
+      "start": 803.88,
+      "end": 830.2,
+      "text": "And if you have a product that is accustomed to subscription or recurring purchases or recurring consumption, then it makes a lot of sense to have this in your nav bar where somebody can click it and go see those benefits. Now, the second step to that is then figuring out what are the sections that get the most engagement or actually what are the points on that page that drive the most number of new subscribers? And then fitting that into a landing page that you are driving from paid social."
+    },
+    {
+      "start": 831.16,
+      "end": 857.18,
+      "text": "If you're running a subscription business or looking to run a subscription business, but you're just driving traffic to a product page or to your homepage, it's a very good chance you're working too hard in the sense that you're spending too much to acquire a customer because you don't have the right funnel in place. The best funnels for subscription-focused brands is going straight to landing pages. You want to minimize the number of clicks that they need to click around for."
+    },
+    {
+      "start": 857.86,
+      "end": 887.78,
+      "text": "Also, something to check out is, are your best customers actually subscribing on the first purchase? There's a good chance that they're not. I remember at Hint, our best subscribers came on the third purchase. So they would spend money on the sample pack or a variety pack up front. Their second purchase would be choosing a flavor that they liked the best. And if the third purchase was a subscription, that customer had the highest LTV."
+    },
+    {
+      "start": 887.92,
+      "end": 907.98,
+      "text": "It was higher than if somebody bought the variety pack and then subscribed or subscribed right away. And so that's one of the reasons that subscribe and save is not a default option on that site. Although, you know, I'll talk about it in the next segment. But that is something that has been winning lately. So I recommend testing that on a brand-to-brand basis."
+    },
+    {
+      "start": 908.36,
+      "end": 936.3,
+      "text": "But building out a landing page where you're driving subscriber traffic for new subscribers is kind of what you want to do in terms of setting yourself up for the best possible funnels and onboarding of new customers. On that page, you want to also make sure that you've got a great welcome offer or new customer offer. And so by that, I mean something along the lines of, you know, gift with purchase, a discount."
+    },
+    {
+      "start": 937.7,
+      "end": 961.06,
+      "text": "You know, sometimes I've even seen brands do digital gift with purchase. So, you know, it's a PDF guide or a recipe book or a workout, you know, a book of workouts or, you know, whatever it may be. It's kind of something still along the lines of and related to the product that you have. But, you know, that might be a $9, a $19 value that you give for free."
+    },
+    {
+      "start": 961.16,
+      "end": 985.52,
+      "text": "And the real cost of that is hosting a Google Drive link that you submit or hosting the PDF somewhere. And having this new customer offer is great because if you can somehow make the new customer offer number equivalent or similar to what they're going to get charged on a recurring basis, either it's similar or the second charge is less."
+    },
+    {
+      "start": 986.74,
+      "end": 1008.64,
+      "text": "You sort of create this nice little slide for, well, I think of it as a slide because you start high and go down on the second purchase or, you know, it's kind of just like monkey bars. You stay at the same level. But that tends to do really well for acquiring customers. It also makes them feel like they're getting a deal coming in. And, you know, it's just another reason for them to actually try your product."
+    },
+    {
+      "start": 1010.66,
+      "end": 1040.06,
+      "text": "Hundreds of brands like Garrett Popcorn, July Luggage and Selfie Leslie are making six figures in incremental revenue through instant supercharged retention marketing platform. It takes less than 60 minutes to go live and you see results just within days. You most likely already send site abandonment emails, but because most of the traffic on your site is anonymous, you don't get to email 98% of these site visitors. Instant gives you another chance to convert these visitors into buyers and send two to three times more cart abandonment emails than you were before."
+    },
+    {
+      "start": 1040.48,
+      "end": 1065.74,
+      "text": "Learn how you can double your abandoned flow revenue at instant.one slash limited. That's instant.one slash limited. Now back to the show. There's also, you want to figure out what are the shipping and consumption patterns of your product. For example, most brands will offer to ship every two weeks, four weeks, six weeks, and eight weeks. I think that's the default on a lot of the subscription apps."
+    },
+    {
+      "start": 1066.04,
+      "end": 1095.24,
+      "text": "You know, in most situations, every four weeks is probably the best. If it's something like wine, maybe it's every eight weeks or 12 weeks because, you know, it's heavy to ship. And the more you can stack in and optimize shipping costs, the better. I remember at Hint, we also had a lot of customers who would do every two weeks and every six weeks. But we were like, wait a second, this costs way more for us in shipping."
+    },
+    {
+      "start": 1095.24,
+      "end": 1118.56,
+      "text": "Let's just make the default four weeks or 30 days. And then we don't have to deal with any of the extra shipping costs, which it saved us on. And also, you know, customers getting too little product or too much product. Four weeks was kind of the best in there. So definitely look into and understand what is it that people actually want and what cadence is actually the best. And then just focus on that."
+    },
+    {
+      "start": 1118.56,
+      "end": 1145.4,
+      "text": "Offering too many things also just creates analysis paralysis for customers as they're checking out or going through the whole flow. So I don't recommend that. Another thing is, you know, basically, how do you make these subscribers feel special? So a couple ideas. One is, you know, make sure it feels convenient to them to be a subscriber, whether that's by, you know, giving them access or early access to new products, perks."
+    },
+    {
+      "start": 1145.4,
+      "end": 1170.56,
+      "text": "You know, whether that's discounts at other brands or friendly brands. You know, I'm thinking like if you're a Sathva mattress and you partner up with, you know, some brand that makes some cool lamps, Govi. You know, I'm just making this up. None of this exists. But that sort of relationship is great for subscribers. So I guess no one's subscribing to Sathva."
+    },
+    {
+      "start": 1170.56,
+      "end": 1199.04,
+      "text": "But, you know, maybe if you're an Orgain subscriber and you get access to go to LA Fitness, you know, your first month is free. Or you get, if you're a subscriber to Orgain for six months, you get two free guest passes to Equinox around the country. You know, stuff like that is how you keep subscribers happy and also make them feel like they're getting more than what they're paying. It's really just a matter of making sure subscribers feel like they get more than what they pay for. Which is why I mentioned like the intro offer or the welcome offer because they feel like they're getting more."
+    },
+    {
+      "start": 1200.02,
+      "end": 1229.06,
+      "text": "And in this case, too, you know, if you can figure out something like the Equinox guest pass or if it's like, you know, let's say you have a supplement that enhances, you know, mental cognition or, you know, your ability to think. And it gives you three months free of Masterclass as a result. You know, that sets itself up to be customer acquisition for Masterclass or for Equinox. And they're probably very happy to offer those trials to your customers. So I would definitely do that and look into that."
+    },
+    {
+      "start": 1229.3,
+      "end": 1258.98,
+      "text": "And then the last one is creating any sort of specialized content for subscribers. So whether that's, you know, a special text blast, a special newsletter that they get, you know, a lot of times I'll also like take a piece of creative and then run those as video view ads just to the audience of subscribers. So your CPMs are really low, but you're getting very targeted and in front of your exact subscribers. And maybe it's just a video of the founder saying thanks for subscribing and we're so happy that you're a part of our family, blah, blah, blah."
+    },
+    {
+      "start": 1258.98,
+      "end": 1288.54,
+      "text": "Doesn't have to be anything too crazy, but something that basically allows your subscribers to feel special definitely goes a long way. Okay, moving on to the next segment here. So this next segment is some of the A-B tests that I've seen us run lately that have succeeded. And I just want to share the wins with you. Again, all of this, really anything I share is, you know, pretty individualized."
+    },
+    {
+      "start": 1288.54,
+      "end": 1314.62,
+      "text": "But a lot of times you can take learnings from. So any of this stuff I advise you to test, but don't just copy paste whatever I say, because that may not work and I don't want to get in trouble. I don't want to get you in trouble. So starting off, first one is adding a massive CTA to see nutrition facts. We've seen this actually work, obviously, in food, beverage, supplements, but also in beauty and personal care."
+    },
+    {
+      "start": 1315.46,
+      "end": 1343.08,
+      "text": "Adding the CTA button near the photo gallery, basically above the fold on the PDP or definitely near the shop section on a landing page. Adding the CTA, it's the thing that gets the most clicks. And it's the thing that has the highest driver to add to cart. Obviously, if you have good ingredients. If you have bad ingredients, it's not going to work that well. But everybody wants to know what are the ingredients in the products?"
+    },
+    {
+      "start": 1343.62,
+      "end": 1372.48,
+      "text": "What is the dosage of those ingredients? Anything you can do to enhance that section. Most people will probably just have the CTA pop up a frame of an image. But if you can make that section interactive at all, I would highly recommend that. And I would definitely recommend testing that. If you sell anything consumable or anything topical, that's probably a good thing to do. Second one is, so we tested taking regular."
+    },
+    {
+      "start": 1372.64,
+      "end": 1398.54,
+      "text": "So, you know, I'm a huge fan of social proof on websites, on product pages, landing pages, etc. So we have a supplement brand. And we tested regular, you know, just regular customer social proof against an industry-specific quote. So social proof from, you know, think like somebody who's got a really big podcast in the wellness space or has a really big following in the wellness space."
+    },
+    {
+      "start": 1398.54,
+      "end": 1427.34,
+      "text": "And her quote significantly outperformed in terms of driving conversion rate up compared to the just run-of-the-mill customer social proof. So, you know, there was definitely a point where I feel like the endorsement style social proof or, you know, celebrity or influencer stuff, like, was not performing as strong. But with a recent test, it seems like the opposite might be true right now."
+    },
+    {
+      "start": 1427.86,
+      "end": 1452.64,
+      "text": "I don't know if that's just a now thing, but we'll definitely be retesting it again soon. But that's something I would definitely recommend testing as well. And also, it's just like a good, it's basically a cosign, right? Like you're not leveraging this person's reach per se, but you're getting their cosign on your website that this is a good product. Next one is swapping out paragraphs for icons. So I've always talked about this."
+    },
+    {
+      "start": 1453.2,
+      "end": 1481.84,
+      "text": "Of course, this is a test I love to run and get up and running, get going and show clients that you don't need paragraphs to explain what you've got. You can hide those in the drawers and you can use icons and one or two sentences to really explain everything else. You want to make everything super skimmable, scannable, easy to read, easy to screenshot and share. And, you know, basically just help people get to the punchline quicker. So icons over paragraphs is the results of that test."
+    },
+    {
+      "start": 1482.58,
+      "end": 1499.86,
+      "text": "The next one was one that I have been a fan of and love doing because I think it's messy, but I think messy and non-scalable is where the secrets of conversion lie. So this one is screenshotting social proof from other apps and putting it into a landing page."
+    },
+    {
+      "start": 1499.86,
+      "end": 1517.98,
+      "text": "So, you know, not just taking customer reviews from your site or taking quotes from a customer and putting it into your stylized branding, but actually just taking a screenshot of TikTok comments or a screenshot of TikTok shop reviews or a screenshot of an Instagram DM."
+    },
+    {
+      "start": 1517.98,
+      "end": 1546.12,
+      "text": "And putting that on your landing page did really well for adding to cart and ultimately converting to, but much higher add to cart rate when people saw that there was social proof that was not necessarily the website or, you know, like something that looked like an endorsement. It was basically like a straight up screenshot of what somebody commented on a TikTok video or reviewed within TikTok shop. So definitely recommend testing that out."
+    },
+    {
+      "start": 1546.12,
+      "end": 1575.68,
+      "text": "Uh, it's very similar to what we had tested before a while ago, which was, um, you know, uh, a headline that said as seen on TikTok shop or a badge that says as seen on TikTok shop or as seen on TikTok or, uh, you know, number one viral TikTok product. Um, for some reason, TikTok has got a really strong social proof to it. Um, even if you can't really see much or, you know, you can't necessarily see what those usernames are that are commenting, but just in the TikTok UI,"
+    },
+    {
+      "start": 1575.68,
+      "end": 1598.98,
+      "text": "that design does really well. Next one, uh, that we put in was adding a taste like or smells like section next to something that is a better for you consumption product or, um, you know, fragrance. So something that says like, you know, tastes like pineapple dole whip or smells like an apple pie and a candle, these types of things, um, just make it very relatable."
+    },
+    {
+      "start": 1598.98,
+      "end": 1617.94,
+      "text": "You know, taste and smell, um, are two very hard things to sell, uh, on the internet because they're two things that people don't believe until they see it, or I guess smell it or taste it. And, um, and, and that's why I always also say like, if you work in beverage or fragrance, you know, everything else you do after that, it's going to be pretty easy."
+    },
+    {
+      "start": 1617.94,
+      "end": 1644.62,
+      "text": "But, um, so adding something that makes it very relatable, uh, in terms of explaining how simple the taste or the smell is, is a huge, huge, uh, successful test and would highly recommend that. Similarly, uh, leveraging a comparison chart that compares you to the generic options. So, you know, if you're selling an electrolytes powder, compare it to a sports drink or a running gel versus naming specific competitors."
+    },
+    {
+      "start": 1645.02,
+      "end": 1668.42,
+      "text": "Uh, we just saw this outperform, um, for, uh, a friend of mine who runs a brand. Uh, he just ran this test and shared those results with me. Last one I want to call out is, uh, taking, so everybody's got UGC videos on your site and, um, you know, some people have animated thumbnails on those and some people don't. I would definitely recommend the animated thumbnails because I think those do well."
+    },
+    {
+      "start": 1668.92,
+      "end": 1694.24,
+      "text": "And, um, if you don't have animated thumbnails, uh, or whether or not you do, I would also recommend that you have, that you create thumbnails, like have, uh, you know, value props, benefits, et cetera. So those are the three main things from today's episode. Uh, did you like it? Tell me if you liked it. It's a more sectional. There's something I'm working on, uh, for the upcoming episode that I'm really excited about."
+    },
+    {
+      "start": 1694.24,
+      "end": 1720.7,
+      "text": "And, um, I'm sure you guys are going to enjoy it too, but I hope you, uh, found this episode valuable. Please sign up for the virtual summit, nick.co slash virtual summit. And, uh, I will see you next week. Have a great week. Thanks for listening. We'll be back next time to cut through the noise on CPG retail and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

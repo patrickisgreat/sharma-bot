@@ -1,0 +1,1049 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 10.08,
+      "text": "We fundamentally don't think that a business is just a spreadsheet, right? That there is a lot that we're trying to capture both in how we price the business but basically based on the question"
+    },
+    {
+      "start": 10.08,
+      "end": 27.28,
+      "text": "of how well can we run this business. And so that's a very very key difference. We're not simply offering an EBITDA multiple and hoping to you know basically cash out later at a bigger EBITDA multiple. Our approach is to become e-commerce operations experts for these brands so that"
+    },
+    {
+      "start": 27.28,
+      "end": 43.76,
+      "text": "they can reach their full potential. This is Limited Supply, the place for refreshingly real takes on what D2C is really like. We're your hosts, Nik and Moiz. Let's start talking about money. Hey guys, I'm super excited that this season's sponsor is Fulfill.io."
+    },
+    {
+      "start": 43.76,
+      "end": 58.72,
+      "text": "I'm an early investor in Fulfill. I invested in about seven years ago. Back then the business was really nascent and they were working with smaller direct-to-consumer businesses. Now they work with huge brands including Nectar and Ridge, Hexclad, Carraway. In fact another brand that"
+    },
+    {
+      "start": 58.72,
+      "end": 74.64,
+      "text": "I've invested in, Cadence. It's a fantastic ERP. The same thing that Clavio did to MailChimp in terms of building an email system made exclusively for our industry. Well that's what Fulfill is doing to NetSuite. They're making an ERP built exclusively for our industry. It's fantastic."
+    },
+    {
+      "start": 74.64,
+      "end": 89.12,
+      "text": "It is a single source of truth for your business. They offer everything from accounting to order management to inventory, warehouse management, EDI operations. Make sure you never miss a sale. Learn more at Fulfill.io. All right. Welcome back to Limited Supply"
+    },
+    {
+      "start": 89.12,
+      "end": 107.6,
+      "text": "Season 8, Episode 10. Today we've got an awesome guest, actually two awesome guests. We've got Lucas and Trenton from OpenStorm. We did an episode last season where we went through and grilled the founder of PostScript. When we asked our community who else we should grill"
+    },
+    {
+      "start": 107.68,
+      "end": 122.64,
+      "text": "in the vendor space, OpenStorm was the next most voted one. So today we're doing exactly that. We've got Lucas who runs operations across the board and then we've got Trenton who's been there since the beginning and I believe he's the president now. I'll let them introduce themselves"
+    },
+    {
+      "start": 122.64,
+      "end": 136.16,
+      "text": "in a second. Also just before we get started, Trenton was kind enough to offer 10 people who qualify for an OpenStorm offer a free trip for two people down to Miami. Essentially it's a business"
+    },
+    {
+      "start": 136.16,
+      "end": 151.6,
+      "text": "and pleasure trip. So you put your offer in on my.open.store.com. If you qualify for an offer, then the first 10 people who do that, the first 10 businesses, you'll win essentially two tickets"
+    },
+    {
+      "start": 151.6,
+      "end": 165.76,
+      "text": "to go down to Miami, spend a weekend there, talk to the OpenStorm team, talk about the offer, the acquisition, et cetera. You can meet with their teams. You'll get to enjoy the whole weekend exploring the city. You learn about exit strategies, valuation exercises, and diligence processes."
+    },
+    {
+      "start": 166.08,
+      "end": 177.84,
+      "text": "You get an immersive experience with the operations teams to see exactly how they run the brands at OpenStorm. Highly recommend you do it. Remember it's a non-binding offer. So even if you put your info in, I've actually done this before just to see what comes back."
+    },
+    {
+      "start": 177.84,
+      "end": 188.16,
+      "text": "As long as you qualify for an offer, you're open to get this trip to Miami. Seems like a no brainer to me. But all that said, let's get started on the episode and we'll pass"
+    },
+    {
+      "start": 188.16,
+      "end": 203.92,
+      "text": "it over to the OpenStorm team to introduce themselves. I'm Trent. I'm the president of OpenStorm. I've been here from the start. And so I've seen through the massive growth journey that we've been on and also through the portfolio of brands we've onboarded. I have the pleasure"
+    },
+    {
+      "start": 203.92,
+      "end": 217.68,
+      "text": "of working with folks like Lucas and the rest of the team to support growing these brands in-house. So my name is Lucas. I'm our head of business operations here at OpenStorm. What that means is that I get to work with our great team here to build the technology,"
+    },
+    {
+      "start": 217.68,
+      "end": 231.12,
+      "text": "the processes and the teams required to manage our portfolio of direct-to-consumer brands. And we're big fans of the podcast. And so it's really great to be with you and answer any questions and talk about what we're doing here at OpenStorm."
+    },
+    {
+      "start": 231.68,
+      "end": 246.08,
+      "text": "Yeah, I feel like we've had Keith on the podcast before. And so now excited to get in with the actual operators. I doubt Keith is in Facebook Ads Manager or logging into Shopify. So just for a quick background, for those who may not know,"
+    },
+    {
+      "start": 246.64,
+      "end": 260.4,
+      "text": "maybe Trenton, since you've been there since the beginning, what's the story behind OpenStorm? What's the mission for the company? What's the vision for the company? Obviously, OpenStorm launched at a time where raising money was a lot easier than it feels like it is today."
+    },
+    {
+      "start": 261.12,
+      "end": 275.76,
+      "text": "So yeah, what was the mission and the vision of OpenStorm and the story? OpenStorm really started out of this idea of there's over 2 million businesses built on Shopify. Most of these businesses are too small for private equity. They're not growing quick"
+    },
+    {
+      "start": 275.76,
+      "end": 290.88,
+      "text": "enough for venture capital. And a lot of these entrepreneurs, they're spending 60 hours a week running supply chain, customer experience, biz ops, marketing, all facets of what it takes to run an eCommerce business. And then they are looking to exit eventually and they don't really have"
+    },
+    {
+      "start": 290.88,
+      "end": 307.92,
+      "text": "great options. They're either expensive, there's no surety to it, they take a lot of time. And so we really wanted to serve entrepreneurs and fill that void in the market. So OpenStorm's mission is to inspire entrepreneurs and shoppers to find something new. And for"
+    },
+    {
+      "start": 308.56,
+      "end": 323.68,
+      "text": "entrepreneurs, that means giving them certainty of an offer and an exit when they're ready to move on to what's next. We've seen a lot of these entrepreneurs go on to start other businesses, and that's fantastic to see. And then for consumers, that means increasing the discoverability of these"
+    },
+    {
+      "start": 323.68,
+      "end": 338.08,
+      "text": "products. And so taking a brand that created something special and working to amplify that and continue to grow that and bring it to more consumers in-house. Amazing. Do you feel like the vision of the mission has changed since it started a few years ago?"
+    },
+    {
+      "start": 338.8,
+      "end": 354.16,
+      "text": "No, not really. I mean, it's taken us time, obviously, to build a portfolio of direct to consumer brands that we're really excited about. The first challenge we had to solve as a business was, how do we deliver fair and competitive offers to these merchants that have"
+    },
+    {
+      "start": 354.88,
+      "end": 370.96,
+      "text": "limited data, sometimes sparse data, not horribly long operating track records? And that was the first challenge that we probably spent the first six months of OpenStorm figuring out how to solve. We've been able to do that. And now we own and operate the"
+    },
+    {
+      "start": 370.96,
+      "end": 390.08,
+      "text": "largest portfolio of Shopify businesses in the world. And we do so across categories. And it's just a fantastic space to be building in. How does the OpenStorm model work? So you basically buy a bunch of brands, optimize them, I'm assuming from a marketing standpoint, a supply chain standpoint,"
+    },
+    {
+      "start": 390.8,
+      "end": 404.56,
+      "text": "cut some costs, increase the margin. Is that pretty much the model? Yeah. So if you think of one of these DTC entrepreneurs, they typically will start with developing or sourcing a product. They'll build a brand around it. They'll activate it"
+    },
+    {
+      "start": 404.56,
+      "end": 419.68,
+      "text": "across some marketing channels. We find most people start on meta. Maybe they expand to Google, maybe they do a little bit of CRM, but they typically have left those channels pretty under optimized and they haven't looked at channels outside of meta. And so by virtue"
+    },
+    {
+      "start": 419.68,
+      "end": 438.96,
+      "text": "of running a large portfolio of brands, we're able to bring in channel experts across all marketing channels, SEO, TV, meta TikTok, Google, affiliates, things these merchants typically don't do, while we're also able to lower the cost side and improve margins."
+    },
+    {
+      "start": 438.96,
+      "end": 455.68,
+      "text": "And we can do that through the scale efficiencies we get by consolidating fulfillment at one partner location, working to improve manufacturer relationships, working to never run out of stock by being really accurate with demand forecasting and planning. And that goes a"
+    },
+    {
+      "start": 455.68,
+      "end": 470.32,
+      "text": "long way for these small businesses if we can add additional points of margin that then we can reinvest in testing new channels on the marketing side. Okay, cool. And so essentially bringing together brands, you guys are sort of bringing the,"
+    },
+    {
+      "start": 471.04,
+      "end": 484.64,
+      "text": "I guess like channel experts across, but like channel experts, I put in quotes for everything, the channel expert, basically the GM of supply chain, the GM of Facebook, the GM of Google, and you're able to scale this across all the brands that you guys acquire. Is that right?"
+    },
+    {
+      "start": 485.2,
+      "end": 500.96,
+      "text": "Yeah, that's exactly right. A good example is supply chain, our head of supply chain, David, opened some of Amazon's first fulfillment centers and that has been in startup sense. And bringing that level of expertise to these small DTC brands is really unheard of."
+    },
+    {
+      "start": 501.92,
+      "end": 520.24,
+      "text": "There's open store regular, then there's open store drive. What are the different lines of open store that exists that somebody could participate in? Yeah, drive and acquisition are our two core products. Acquisition is exactly as it sounds, we'll acquire the business outright and give merchants the"
+    },
+    {
+      "start": 520.24,
+      "end": 537.36,
+      "text": "freedom to either focus on what's next, whether that's a new business venture or something entirely different. Drive is for a segment of merchants who aren't quite ready to step away from their business, but they need help running it. And so we'll end up running end-to-end"
+    },
+    {
+      "start": 537.36,
+      "end": 554.08,
+      "text": "operations for the business with guaranteed income that we pay back to the merchant. And so it really allows us to start to build relationships with merchants. And what we found coming out of that initial drive cohort that we had is multiple of those businesses ended up"
+    },
+    {
+      "start": 554.08,
+      "end": 566.32,
+      "text": "turning into acquisition offers. If you think of just the idea of selling your business, it's a big decision. You built the thing from scratch, you probably spent years toiling on it. And it's not likely that you're going to wake up one day and be like,"
+    },
+    {
+      "start": 566.32,
+      "end": 581.12,
+      "text": "hey, I want to sell. And so it's important to us to build those relationships with entrepreneurs, get them more comfortable with the open store model, and then turn those into acquisition offers later in the business's history. Have you ever had an instance where"
+    },
+    {
+      "start": 581.68,
+      "end": 598.16,
+      "text": "you've promised somebody a guarantee, but then their actual numbers came in lower or you've had to basically overpay? We have. I mean, the benefit of a portfolio is those things cancel each other out. It's obviously hard to forecast where these businesses are going"
+    },
+    {
+      "start": 598.16,
+      "end": 616.08,
+      "text": "to be years into the future. There's macroeconomic factors, there's platform challenges, there's competitors that come into the space, but we've gotten really good at that over time. And we feel like we're able to give merchants a fair offer, whether it's for acquisition or drive."
+    },
+    {
+      "start": 616.16,
+      "end": 629.28,
+      "text": "And then the good thing about programs is we then bear the downside if it doesn't go as planned. So drive is essentially you guys take over, you run the business and you guarantee a monthly"
+    },
+    {
+      "start": 629.28,
+      "end": 645.04,
+      "text": "payment back to the owner. Is that for a set period of time or an indefinite amount or as long as somebody wants? Yeah, it's a 12-month term. Obviously, it takes time to get to onboard the business to optimize things on the supply chain. Those"
+    },
+    {
+      "start": 645.04,
+      "end": 655.2,
+      "text": "things don't happen overnight. And so we want to make sure the business is set up for success. And to do that, there isn't a predetermined amount of time that it takes. And then after that,"
+    },
+    {
+      "start": 655.2,
+      "end": 664.24,
+      "text": "if the merchant wants to renew, that's an option. If they want to sell like a few of our merchants have, then we're able to give them an offer with even higher confidence."
+    },
+    {
+      "start": 664.96,
+      "end": 678.08,
+      "text": "So for number sake, if I have a brand that's doing, let's say $10 million a year in revenue, let's say it's netting 150K a month in profit, how would you guys look at that and determine"
+    },
+    {
+      "start": 678.08,
+      "end": 690.4,
+      "text": "what to pay me on a monthly basis? The biggest things that go into factors for either acquisition or drive because they're relatively the same is what do we think the business is going to do under"
+    },
+    {
+      "start": 690.4,
+      "end": 705.92,
+      "text": "our ownership in the next 12 months. So obviously, our cost structure looks different from fulfillment and shipping. It looks different from how do we handle customer support operations. It looks different in terms of channels that we're going to activate on marketing."
+    },
+    {
+      "start": 706.48,
+      "end": 714.48,
+      "text": "There's some things a founder does that we may not be able to do at scale, but there's 10 other things that we're going to be able to do that a founder is not able to do. And so"
+    },
+    {
+      "start": 714.48,
+      "end": 728.16,
+      "text": "we try to take all of those pieces together into a single forecast. And then we use that to determine what the drive payment would be or what the acquisition offer would be. And at that point, you guys are pretty much running everything, right? Like I could literally"
+    },
+    {
+      "start": 728.16,
+      "end": 740.8,
+      "text": "be sitting on a beach and not have my phone and everything is fine. Yeah, that's exactly right. Awesome. So how does somebody qualify for an offer? What makes a business enticing to"
+    },
+    {
+      "start": 740.8,
+      "end": 761.44,
+      "text": "open store? And how do you write offers? What goes into that price point or the offer itself? So we look at businesses that are doing anywhere from $250,000 to $10 million in annual sales. The general things that we're looking for is we want to be looking to acquire growing businesses"
+    },
+    {
+      "start": 762.24,
+      "end": 776.96,
+      "text": "with healthy margin profiles that are cashflow positive. We're not in the business of doing turnarounds. That's a different skill set. And so we want to acquire products that are differentiated that customers love. And we can see that feedback either in reviews,"
+    },
+    {
+      "start": 776.96,
+      "end": 787.52,
+      "text": "we can see it in customer support tickets, we can see it in the repeat rate and behavior of the business. But we really want to acquire healthy unit economics because that is harder to change"
+    },
+    {
+      "start": 788.16,
+      "end": 796.4,
+      "text": "than some of the other levers. And then we want to accelerate that in-house. So those are the biggest determining factors for us. And what are some of the things that"
+    },
+    {
+      "start": 796.4,
+      "end": 807.68,
+      "text": "when you're buying a business? So like a few years ago, I bought a business and I looked at the email list, the reviews, the repeat purchase, everything was good. But as soon as I got the container,"
+    },
+    {
+      "start": 807.68,
+      "end": 818.8,
+      "text": "it was like, I got got. All the product was melted. All the machinery that it came with was broken. The sticker said four ounces on the deodorant, but it only weighed three ounces."
+    },
+    {
+      "start": 819.36,
+      "end": 833.04,
+      "text": "I feel like I got scammed. How do you guys avoid that? Or what would you do differently that I didn't do? Yeah. So we have a super fantastic diligence team that really sits down with the founder and all members of their staff to the"
+    },
+    {
+      "start": 833.04,
+      "end": 849.84,
+      "text": "extent they have other folks helping them run the business and really walks through ends and operations of that business and is looking for those exact things. We have acquired over 40 businesses at this point. And so we've learned a few things along the way about our processes."
+    },
+    {
+      "start": 850.24,
+      "end": 862,
+      "text": "We've acquired businesses that didn't have any barcodes on products early on. It doesn't really work when you're trying to put it into a large commercial 3PL. And so we've had to fly members of"
+    },
+    {
+      "start": 862,
+      "end": 874.24,
+      "text": "our team out to this person's house and help them label the product. We've learned from those challenges and I've built processes around being able to identify that earlier on. It doesn't mean"
+    },
+    {
+      "start": 874.24,
+      "end": 883.28,
+      "text": "we're not going to be able to acquire the business or give that merchant an offer, but it's going to be a consideration and something we work with the merchant on getting through. But we've had some"
+    },
+    {
+      "start": 883.28,
+      "end": 900.96,
+      "text": "of those learnings and hopefully our process today is much more smooth because of those. When you think about the other aggregators in the e-commerce space, most of them I feel like raise too much money and will never catch up to their valuation if they're still around. The"
+    },
+    {
+      "start": 900.96,
+      "end": 913.36,
+      "text": "others have gone bankrupt or just flopped. I remember when, we won't name them, but when they raised a ton of money, first I was like, this doesn't make any sense. This is basically like"
+    },
+    {
+      "start": 913.36,
+      "end": 927.6,
+      "text": "an Excel sheet business. They're thinking we're going to buy a bunch of stuff. We're going to consolidate it, consolidate costs that'll increase margin and everything should work. But two things, one is they raised that evaluation where I was like the money you're raising today, let's say"
+    },
+    {
+      "start": 927.6,
+      "end": 942.48,
+      "text": "it's 25 on 250. 25 is not going to get you to 100, which is what you need to get another raise after 250. Secondly, if you've got a boots company and a Tupperware company and a towel cleaning company"
+    },
+    {
+      "start": 942.48,
+      "end": 959.2,
+      "text": "and a headphones business, where in the world does optimization even play a role? Those are like four completely different supply chains, four completely different packaging vendors. Obviously, you could get shipping costs and 3PL, but how do you guys think about that? Where's the"
+    },
+    {
+      "start": 959.2,
+      "end": 977.92,
+      "text": "optimization there? First, the reason we're focused on Shopify is because we are targeting the discovery segment of direct to consumer. They Who Must Not Be Named famously focused on Amazon and that is very intent-based. It was a bit of a multiple arbitrage at the time."
+    },
+    {
+      "start": 978.88,
+      "end": 989.12,
+      "text": "Granted, the Shopify space is a lot more difficult to build in. You have to own supply chain, you have to own customer support, you have to own customer acquisition, all these things that Amazon abstracts"
+    },
+    {
+      "start": 989.12,
+      "end": 1002.16,
+      "text": "away from running your business. But there's much more value to be had if you can pull that off successfully. Second is the way we operate. About 40% of open store is technical. I think engineers,"
+    },
+    {
+      "start": 1002.16,
+      "end": 1022.32,
+      "text": "data scientists, data analytics, that is very unique in the aggregator space. We need to be able to build a platform of tools internally that allow specialized operators to have 10 times the amount of leverage they would otherwise be able to have. Otherwise, you end up in a scenario similar"
+    },
+    {
+      "start": 1022.32,
+      "end": 1039.04,
+      "text": "to the Amazon aggregator space where they acquired 250 businesses on Amazon, but they had 1,200 employees to do so. The economics of that just don't work at scale and you don't get any of the benefit of owning a portfolio of brands and doing so. That's been something we've"
+    },
+    {
+      "start": 1039.04,
+      "end": 1057.36,
+      "text": "been very intentional about since we started open store is we really need to index on differentiating with technology, not just by adding more operators to solve human-driven problems. On the capital side, yeah. A lot of people raised a lot of capital early on. We were at this unique"
+    },
+    {
+      "start": 1057.92,
+      "end": 1069.68,
+      "text": "point in the market where there was an abundance of capital that was able to be raised. Obviously, to get scale on these types of businesses, you need capital to go and give merchants compelling"
+    },
+    {
+      "start": 1069.68,
+      "end": 1083.92,
+      "text": "offers and to be able to acquire those businesses. So it was strategic on our part to be able to have that pool of capital to then be able to deploy on buying fantastic businesses. That's what we've been focused on for the last couple of years."
+    },
+    {
+      "start": 1084.64,
+      "end": 1101.6,
+      "text": "Then the last point I'll add is just our envision is different. We want to acquire and grow these brands in-house. Long-term, we want to build a consumer destination where we can help consumers discover the long tail of products, like the magic of what these Shopify stores produce."
+    },
+    {
+      "start": 1101.6,
+      "end": 1115.76,
+      "text": "We want to increase the discoverability of, and that's almost the antithesis of Amazon where it's very intent-based. Those are the key differentiators for open store. Yeah, maybe I can just add on the operation side as well, Nick. I think"
+    },
+    {
+      "start": 1116.72,
+      "end": 1131.36,
+      "text": "what Trent mentioned at the end there is our end goal is very different. For us, everything from our pricing approach, how we value the business through to our integration of the business into our systems, and then the ongoing running of it after that,"
+    },
+    {
+      "start": 1131.36,
+      "end": 1143.92,
+      "text": "is that we fundamentally don't think that a business is just a spreadsheet. That there is a lot that we're trying to capture, both in how we price the business, but basically based on the question of how well can we run this business."
+    },
+    {
+      "start": 1144.8,
+      "end": 1160.72,
+      "text": "So that's a very, very key difference. We're not simply offering an EBITDA multiple and hoping to basically cash out later at a bigger EBITDA multiple. Our approach is to become e-commerce operations experts for these brands so that they can reach their full potential."
+    },
+    {
+      "start": 1160.8,
+      "end": 1178.4,
+      "text": "I think that's a very fundamentally different approach to the maybe a little too finance heavy side of how a lot of people have tried to do a similar type of business. You mentioned discoverability. Is there a lot of overlap, product or persona overlap amongst"
+    },
+    {
+      "start": 1178.4,
+      "end": 1193.84,
+      "text": "open store brands? Because I remember there's a brand that sells leather boots. There's a brand that's like Jack Archer, which sells men's clothing. There's a brand that sells drones. How do you envision discoverability for siloed brands like that?"
+    },
+    {
+      "start": 1194.96,
+      "end": 1213.44,
+      "text": "Obviously, it takes a little bit of scale to be able to have a compelling consumer destination where you can promote discoverability. We have found pockets within the portfolio where customers who buy pants also like to buy shoes and wallets and leather bags and things that"
+    },
+    {
+      "start": 1213.44,
+      "end": 1223.76,
+      "text": "are adjacent to that. Maybe you're not going to be as successful selling customers who buy pants drones, but you might be successful selling the drones people other things within the portfolio."
+    },
+    {
+      "start": 1224.88,
+      "end": 1239.84,
+      "text": "We're not trying to force any of this by any means. We're not going to take a customer who has bought Jack Archer pants and absolutely loves them and bombard them with water flossers and things that are totally out of the context of what they're thinking about."
+    },
+    {
+      "start": 1240.48,
+      "end": 1257.28,
+      "text": "We are going to be really thoughtful about it and only show customers products that we think they'd be really excited about. You also mentioned you have a bunch of technical people, and you mentioned some internal apps and softwares. What kind of stuff are you guys building? I think"
+    },
+    {
+      "start": 1257.28,
+      "end": 1274.72,
+      "text": "you said 30% of your people are technical. What are they doing that doesn't already exist in the market from a tools or software standpoint? For every single function, there are things which are specifically for OpenStore to help us operate these brands, so many brands within one"
+    },
+    {
+      "start": 1274.72,
+      "end": 1292.64,
+      "text": "team. Then there are some to really generate performance from a particular part of the business. One that is more infrastructure focused is what we coined internally like our promo engine, for example. What this is is that one person or one team can effectively load up a"
+    },
+    {
+      "start": 1292.72,
+      "end": 1310.16,
+      "text": "brand's entire promotional calendar, the discount code usage, some of the email templates, etc. that business is going to need for pretty much an entire year. That without any touching is going to update hero banners, it's going to update the offer code activations, etc. across the portfolio."
+    },
+    {
+      "start": 1310.16,
+      "end": 1320.48,
+      "text": "All we have to then do is monitor performance and actually make tweaks if we need to. That's an example of more like an infrastructure piece. I think recently a very big thing for us"
+    },
+    {
+      "start": 1320.48,
+      "end": 1332.16,
+      "text": "in terms of performance has been, for example, using AI and customer support. For every D2C brand, every merchant out there knows you have to look after your customers. The bigger you grow, the more"
+    },
+    {
+      "start": 1332.16,
+      "end": 1344.4,
+      "text": "of that you have to do. For us, we realized that this was something that technology could really generate a lot of efficiencies for us. I would say today OpenStore easily has one of the best"
+    },
+    {
+      "start": 1344.4,
+      "end": 1363.36,
+      "text": "customer support AIs for ecommerce today. Today I think we're automating around 60% to 70% of all interactions with customers with really, really high customer satisfaction scores. These things enable us to generate performance out of each part of the operating platform,"
+    },
+    {
+      "start": 1363.36,
+      "end": 1379.2,
+      "text": "but also allow us to gain a lot of leverage as we try and operate all of these brands every year. And that 60% to 70%, did you see a drastic cut down in headcount required for customer service as a result? We did. I think it's also as you're"
+    },
+    {
+      "start": 1379.2,
+      "end": 1391.2,
+      "text": "growing, you just don't need to add as many new people to the squad as well. As well as the automating away of tickets, there's also the side of helping the existing agents that we have be"
+    },
+    {
+      "start": 1391.2,
+      "end": 1403.2,
+      "text": "even more valuable to OpenStore. We have tools that we built for new heads up displays for them to ask questions to an AI database rather than needing to escalate, should I do this return?"
+    },
+    {
+      "start": 1403.2,
+      "end": 1418.16,
+      "text": "Should I manage this in this way, et cetera. That allows us to not only not continue to expand that part of our operating expenses, but also get higher efficiency out of the people that we have. And then also better customer interaction so that customers are answered quicker,"
+    },
+    {
+      "start": 1418.16,
+      "end": 1462,
+      "text": "they're happier and we can maximize the retention and the relationship with those customers. Is your customer service, is that onshore or offshore? We're near shore today. So we work with a team in South America. Businesses working with Fulfill, Ridge, Hexclad, Carraway, another business I invested in called"
+    },
+    {
+      "start": 1462,
+      "end": 1471.44,
+      "text": "Cadence. The best part about Fulfill is how hands-on they are. It's one of those founder-led businesses where the founder is still deep in the code and deep in the product. If you work"
+    },
+    {
+      "start": 1471.44,
+      "end": 1480.96,
+      "text": "with something like NetSuite, it might take you a year or two years. I've seen five years to get NetSuite implemented. That will not happen with Fulfill. Fulfill implementations take five weeks."
+    },
+    {
+      "start": 1480.96,
+      "end": 1495.28,
+      "text": "It's not a traditional ERP. It's a 21st century ERP. And the same thing that Klaviyo did to MailChimp in terms of creating an email system built specifically for our industry, well, that's what Fulfill is doing to ERPs. Go check them out at fulfill.io."
+    },
+    {
+      "start": 1496.4,
+      "end": 1513.28,
+      "text": "How many customers or brands are you guys working with currently? We're operating around nearly 50 brands today. And we've served almost 2 million customers. And how does the internal structure work? I'll give you an example. For Shimer Brands,"
+    },
+    {
+      "start": 1513.28,
+      "end": 1528.64,
+      "text": "when we work with clients, we have tracks. We've got a UX UI track, a create ad creative track, a growth team track, an account team track, email team track. But we don't necessarily have pods. We sort of like depending on the brand, different people will be assigned."
+    },
+    {
+      "start": 1528.64,
+      "end": 1544.8,
+      "text": "How do you guys manage that for the 50 or so brands that you have today? We have a similar structure in terms of how we prioritize work. So for example, if we find that some stores, the conversion rates need a lot more work, right? Let's say that's either degraded,"
+    },
+    {
+      "start": 1544.8,
+      "end": 1559.52,
+      "text": "or we just see an opportunity when we benchmark it against other stores. We may prioritize that in our queue of work for our storefronts team. And so it's a similar way with marketing. Some brands are very meta heavy. Some are more Google"
+    },
+    {
+      "start": 1559.52,
+      "end": 1576.8,
+      "text": "heavy. Some, really the retention side and the retail calendar for promotions is what needs work. Some need offer optimization, some need pricing optimization. And so what we have is a network of tools to basically help us figure out which KPIs need work for this business. How does that"
+    },
+    {
+      "start": 1576.8,
+      "end": 1591.84,
+      "text": "fit into the operating strategy for that brand, which hopefully we've written down from integration of the store. And then if we need that work, you will get prioritized with those teams accordingly. So you mentioned meta. So I think a couple of years ago, Keith mentioned about 80 to 85%,"
+    },
+    {
+      "start": 1592.4,
+      "end": 1608.64,
+      "text": "I think was of the customers are acquired through meta. Is that still the case today? Today, that's no longer the case, actually. So we've diversified our channel mix quite substantially. And some of our brands have really taken off on other channels than meta. And so as a result,"
+    },
+    {
+      "start": 1608.64,
+      "end": 1619.12,
+      "text": "the mix has kind of shifted. I'll give you an example with, for example, one of our most popular brands that you mentioned earlier is Jack Archer. When we acquired that brand, it was, I think,"
+    },
+    {
+      "start": 1619.12,
+      "end": 1633.04,
+      "text": "probably around 70%, 80% meta in terms of revenue. Today, Google alone as a new channel, we really optimize for that brand is doing 35 to 40%. And so yeah, and our CRM and repeatability as we've"
+    },
+    {
+      "start": 1633.04,
+      "end": 1645.28,
+      "text": "launched new products and the like, have really also bumped up the share of revenue that is not no longer coming from Instagram. Do you know what percent of your customers are buying from multiple brands on the open store platform? Like they're buying"
+    },
+    {
+      "start": 1645.28,
+      "end": 1662.4,
+      "text": "Jack Archer and they're buying something else. I think at one point, maybe 5% of our revenue was from cross selling. And so there is definitely a decent amount of that activity going on today. But like Trent mentioned earlier, it's not something that we really force, you know,"
+    },
+    {
+      "start": 1662.4,
+      "end": 1672.08,
+      "text": "through the system. If we don't think it's working as you launch a new product or you send a cross email, et cetera, we're not going to force it for the sake of trying to generate cross sell."
+    },
+    {
+      "start": 1672.08,
+      "end": 1681.44,
+      "text": "But it is something that naturally occurs when you have a growing portfolio of products and you occasionally surface them to your customers and sometimes they want to buy them and it fits"
+    },
+    {
+      "start": 1681.44,
+      "end": 1697.12,
+      "text": "that brand profile. So once you guys get a brand, are you mainly only running D2C or do you also push through Amazon retail B2B channels, et cetera? One of the things for us when you submit your"
+    },
+    {
+      "start": 1697.12,
+      "end": 1707.44,
+      "text": "store for review with open store for an offer is that we do want most of the sales to be coming through Shopify. And so if the majority of your sales are coming through Shopify, we're very"
+    },
+    {
+      "start": 1707.44,
+      "end": 1719.04,
+      "text": "willing to work on constructing an offer for you. And so usually the majority is going to be through D2C. However, there have been brands where, you know, we felt that a channel is necessary to"
+    },
+    {
+      "start": 1719.04,
+      "end": 1730.48,
+      "text": "continue for this brand and that was important part of the success criteria for operating that brand. And so we've built the operation to do so. So there are one or two brands which have very,"
+    },
+    {
+      "start": 1730.48,
+      "end": 1741.84,
+      "text": "you know, small Amazon presences, for example. And so we'll try and maintain those operations. But the vast, vast majority of everything we do is D2C. And that's kind of where we feel like"
+    },
+    {
+      "start": 1741.84,
+      "end": 1759.12,
+      "text": "we have the most leverage and the most opportunity most of the time with these stores. And then I have to ask because I know Moises isn't here, but he would definitely ask, are you guys paying 50 individual Klaviyo bills and 50 individual Shopify bills and 50, like, do you get any"
+    },
+    {
+      "start": 1759.12,
+      "end": 1774,
+      "text": "bulk discounts? How does that work? Because Klaviyo is extremely expensive. It's not cheap. With some vendors we get definitely bulk discounts. So, you know, if we sometimes we negotiate with the vendor and, you know, we're telling them basically we're 50 customers,"
+    },
+    {
+      "start": 1774,
+      "end": 1787.36,
+      "text": "right? Like we're 50 accounts for you, you know, that is quite valuable. And so we can get, you know, we can work with some amazing partners on pricing that makes sense for OpenStore specifically. Okay. Could you tell me a little bit about the process of selling"
+    },
+    {
+      "start": 1787.36,
+      "end": 1798.32,
+      "text": "a business? So let's say I decide, you know, I've got my store it's doing, let's call it 6 million, 500K a month. I want to come to OpenStore and sell my business. Where do I start? What do I"
+    },
+    {
+      "start": 1798.32,
+      "end": 1810.08,
+      "text": "need to know? Who am I talking to? Am I talking to anybody on the phone? Do I meet with somebody in person? How does this work? So the first thing you'll do is go to open.store there. You'll,"
+    },
+    {
+      "start": 1810.08,
+      "end": 1824.16,
+      "text": "you know, just fill out a couple of quick pieces of information about your business. Basically, what is it? What is your website? What's your contact information? And that allows us to get started on the offer process. And so what you'll do is you will connect"
+    },
+    {
+      "start": 1824.16,
+      "end": 1843.12,
+      "text": "Shopify data, you'll connect ad account data, and that allows our automated pricing process to run in the background, basically structure all that data, pull out, you know, what's the margins? How much scalability left is there in the various ad platforms? How are those performing? How have"
+    },
+    {
+      "start": 1843.12,
+      "end": 1860.48,
+      "text": "those trended over time? How much do your customers like your brand? Are they coming back? And all that information is used by our pricing and diligence team to end up constructing an offer. And then the offers are presented back to the merchants, you know, shortly thereafter. And,"
+    },
+    {
+      "start": 1860.48,
+      "end": 1871.6,
+      "text": "you know, our team will hop on a call and walk them through all aspects that went into constructing that offer. I think for a lot of merchants, it's a good chance to educate them on some things about"
+    },
+    {
+      "start": 1871.6,
+      "end": 1882.08,
+      "text": "their business too. A lot of merchants haven't seen, you know, all of that data stitched together in a cohesive way about their business before. Sometimes we, you know, even discovered things"
+    },
+    {
+      "start": 1882.08,
+      "end": 1891.52,
+      "text": "in their P\u0026L that they didn't know, and we're able to then help them back and being even more effective at their business, at running their business. And for some businesses, you know,"
+    },
+    {
+      "start": 1891.52,
+      "end": 1901.52,
+      "text": "it's not, they're not quite ready to sell and that's fine. You know, we want to maintain a relationship with them and be able to, you know, help merchants who are building on Shopify and"
+    },
+    {
+      "start": 1901.52,
+      "end": 1912.32,
+      "text": "provide them with as much feedback and advice as we can, given we have a lot of expertise doing this. Robert Leonard So once I submit, offer comes back in, I think it's like 24 hours? Chris Yeah."
+    },
+    {
+      "start": 1912.4,
+      "end": 1926.16,
+      "text": "And then is that, so let's say it's, I don't know, you're going to buy the business. How much would you imagine a $6 million a year business would go for? Aaron It really depends on margins. You know,"
+    },
+    {
+      "start": 1926.16,
+      "end": 1937.28,
+      "text": "we look specifically at how much EBITDA do we think we would be generating running the business and what does that growth look like in the next 12 months? We really want to be able to give offers to"
+    },
+    {
+      "start": 1937.28,
+      "end": 1947.6,
+      "text": "a wide variety of merchants, which means we see everything from hyper growth companies, that are going to command a much higher offer from us. And we see, you know, slow growth or even"
+    },
+    {
+      "start": 1947.6,
+      "end": 1960.72,
+      "text": "stagnant companies too, that we want to be able to, you know, offer liquidity for. And all that should be wrapped up along with the margin profile, the repeat behavior of the business and, you know, macro trends we see. And also like, where do we think we're going to"
+    },
+    {
+      "start": 1961.28,
+      "end": 1971.12,
+      "text": "be able to lean into our strengths to operate the business? And all that comes together in an offer. And so there is a wide variance depending on, you know, those certain aspects of the business."
+    },
+    {
+      "start": 1971.92,
+      "end": 1983.92,
+      "text": "It's not just a simple EBITDA multiple that we're going for in terms of how we price a store. And so if the entrepreneur, you know, is engaging with our team, our pricing team and our diligence team,"
+    },
+    {
+      "start": 1983.92,
+      "end": 1998.88,
+      "text": "you know, we're very open to having a conversation about where you as the entrepreneur see the opportunities for that store as well. So if you're like, you know, I've not really tried these channels. I've never really expanded my product range into these things, which I think my supplier"
+    },
+    {
+      "start": 1998.88,
+      "end": 2009.28,
+      "text": "has been asking me to do. And I just haven't had the time to do it or I haven't got the capital to do it. If you feel like you probably underinvested in landing page optimization in the past, and"
+    },
+    {
+      "start": 2009.28,
+      "end": 2024.4,
+      "text": "really, you're just more the creative ad person as an entrepreneur, and that's where you've won, but you really see so many opportunities elsewhere. Our team will be able to consider all of those factors in constructing, you know, maybe another offer after that initial scan. And so that's why"
+    },
+    {
+      "start": 2024.4,
+      "end": 2034.32,
+      "text": "it's really an open conversation of us trying to understand the business so that we can basically take into that, you know, and answer the question of how well would open store run this business,"
+    },
+    {
+      "start": 2034.32,
+      "end": 2046.24,
+      "text": "given all of our advantages in capital technology and team size. And so that all of those things go into that process as well. And so it really is best to if you're considering selling your business,"
+    },
+    {
+      "start": 2046.8,
+      "end": 2056.64,
+      "text": "or exploring that as an option, just to get in touch with our team, and just really just to talk with them. And they're very, very proactive in making sure that they have, you know, explained"
+    },
+    {
+      "start": 2056.64,
+      "end": 2071.6,
+      "text": "every single step, every single line of how they've thought about the business, and have that open dialogue with any entrepreneur out there. And these are all non-binding, right? So somebody could submit, get an offer, and they're not committed to going through with it. 100%."
+    },
+    {
+      "start": 2072.24,
+      "end": 2081.2,
+      "text": "It's funny, Nick, we've had, you know, some entrepreneurs come back 10 times and get 10 different offers over the course of multiple years. And you have used it almost as a health"
+    },
+    {
+      "start": 2081.2,
+      "end": 2090.8,
+      "text": "check on their business, on how are they doing? Is it going up over time? You know, as you know, the eCommerce and Shopify space is very community driven. And so we want to, you know, build these"
+    },
+    {
+      "start": 2090.8,
+      "end": 2104.8,
+      "text": "relationships early on with entrepreneurs and be able to give them, you know, direct and opinionated feedback and advice that allows them to either be more successful running their business or, you know, get a higher offer from open store in the future if they're not quite ready today."
+    },
+    {
+      "start": 2105.36,
+      "end": 2122.88,
+      "text": "I'm curious where you guys feel like the sentiment is currently seeing 50 different brands between like consumer spending, or, you know, like, I'd say the average brand today is not growing as fast as they were last year, same time. Is that an issue you think on the consumer"
+    },
+    {
+      "start": 2122.88,
+      "end": 2131.92,
+      "text": "spending side? Or is that more of an issue you think on the Facebook side? Or like, where do you feel like there's been a shift in things? You know, even for example, like, I feel like we work"
+    },
+    {
+      "start": 2131.92,
+      "end": 2144.96,
+      "text": "with the cream of the crop brands, but and they're still, you know, instead of growing 100%, they're growing at 60% or 40% year over year. And you know, the cost of Facebook keeps getting more expensive. But also what are you going to do? You're nothing, you're just going to keep"
+    },
+    {
+      "start": 2144.96,
+      "end": 2159.04,
+      "text": "spending because where else are you going to go? Are you guys seeing similar things? Or like, where do you see the outlook of direct consumer, especially with this being the main channel that open store is looking at? One of the joys of operating this kind"
+    },
+    {
+      "start": 2159.04,
+      "end": 2169.12,
+      "text": "of portfolio and these these direct to consumer brands is we can see across a lot of different AOVs, a lot of different categories, kind of what is happening in the market, what is the same? And"
+    },
+    {
+      "start": 2169.12,
+      "end": 2179.28,
+      "text": "then what is different? I think like what you said, definitely on the Facebook side, we've seen, you know, CPMs just even with a lot of creative refresh and a lot of creative wins,"
+    },
+    {
+      "start": 2179.28,
+      "end": 2188,
+      "text": "you're still seeing those those rates go up. And so that's kind of why really early on, you know, in the last year or so last couple years, we really put a lot of focus on building channel"
+    },
+    {
+      "start": 2188,
+      "end": 2199.04,
+      "text": "expertise in other areas as well. And so you know, to be a successful merchant today, to be a successful entrepreneur today, you really have to have a lot more tools in your toolkit than"
+    },
+    {
+      "start": 2199.04,
+      "end": 2209.36,
+      "text": "just loading up Facebook ads and kind of maybe tweaking one landing page over time. And so we have to be very, very good at CRM. And we have to be very good at offer optimization,"
+    },
+    {
+      "start": 2209.36,
+      "end": 2218.4,
+      "text": "we have to be very good at pricing and bundle strategies, we have to be very good at Google, we have to be very good at affiliate, we have to be very good at even organic social and"
+    },
+    {
+      "start": 2218.4,
+      "end": 2229.2,
+      "text": "being able to post enough content to generate, you know, cheaper impressions overall for all types of ways to get traffic. And so we really see that across the board. And it's been one of"
+    },
+    {
+      "start": 2229.2,
+      "end": 2241.04,
+      "text": "the big things that we have to lean into basically, when it comes to diversifying ways to acquire customers. I think in terms of consumer spending overall, the macro data does seem to be true,"
+    },
+    {
+      "start": 2241.04,
+      "end": 2251.28,
+      "text": "which is that the consumer is not tapping out just yet, even if credit card debt is high and things like that. But we're not seeing an overall pullback in purchasing. And so you know, the main"
+    },
+    {
+      "start": 2251.28,
+      "end": 2268.4,
+      "text": "thing for us is just making sure our spend efficiencies are there, we have the channel mix and the constant continuous improvement across every channel to combat any of these inflationary factors over time. What kind of technology are you guys planning to continue building or developing"
+    },
+    {
+      "start": 2268.4,
+      "end": 2278.08,
+      "text": "based on everything you guys see across the brands? I know, I feel like I've looked on the app store and seen you have a bunch of brands that have their own apps. And I think there's also an"
+    },
+    {
+      "start": 2278.08,
+      "end": 2292.48,
+      "text": "influencer app, right, like a two sided influencer marketplace where influencers can download something, but you guys also have the brand side. And then you mentioned the AI stuff, what are some of the other things you guys are making? What you mentioned there is our influencer platform"
+    },
+    {
+      "start": 2292.48,
+      "end": 2304.56,
+      "text": "called Gumdrop. And so effectively, what this is, is a way for creators to effectively sign up to this app where every single week you'll get drops of products from open store that you can select"
+    },
+    {
+      "start": 2304.56,
+      "end": 2315.84,
+      "text": "to collaborate with. And so if you find a product in there in that drop every week that you like, we'll send it to you. You'll post at the moment, I think the most popular ask from us is to do a"
+    },
+    {
+      "start": 2315.84,
+      "end": 2327.04,
+      "text": "three carousel story with a CTA link in the last slide, and make one post with links to our accounts. And effectively, you'll earn commission by doing so. And if you prove to be a very good"
+    },
+    {
+      "start": 2327.04,
+      "end": 2339.36,
+      "text": "creator on that app, we'll actually reach out to you to just re-collab with you more frequently with that product or with similar products. So it's a way for us to really scalably unlock"
+    },
+    {
+      "start": 2339.36,
+      "end": 2356.08,
+      "text": "influencers for a lot of our brands. And then we do have a consumer app just for Jack Archer, for example, and a few of our bigger brands where repeat purchase is really high, customers enjoy getting the latest offers from us that way, and push notifications and the like,"
+    },
+    {
+      "start": 2356.08,
+      "end": 2364.64,
+      "text": "and maybe discoverability of the catalog is just a bit easier for them that way. So we do have some of those things in the app space. And then in terms of on the horizon,"
+    },
+    {
+      "start": 2364.64,
+      "end": 2379.36,
+      "text": "like I mentioned, we've had a lot of success with the customer support cost reduction side and quality side. One thing that's on every marketer's minds right now is definitely generative AI in creative. And I think that's a very interesting space where we're definitely"
+    },
+    {
+      "start": 2379.36,
+      "end": 2390.16,
+      "text": "starting to dabble there in how we create content and assets for nearly 50 stores. And so there's a lot going on in the technology space, and it's why a lot of us love working at"
+    },
+    {
+      "start": 2390.16,
+      "end": 2399.84,
+      "text": "open stores that we get to be on the cutting edge of these things. And I'll just add on top of that, though, we have a network of incredible vendors in the Shopify ecosystem as well who work"
+    },
+    {
+      "start": 2399.84,
+      "end": 2410.24,
+      "text": "with us. So maybe just to give a couple shout outs to some of them, like for price testing, we've mentioned that. Drew and the intelligence team have been pretty instrumental for us in kind"
+    },
+    {
+      "start": 2410.24,
+      "end": 2425.92,
+      "text": "of learning that technology. Yeah, very, very big fan. Really great guys. And I know you're very familiar with Fermat, for example. Fermat we've used for some of our stores to allow performance marketers to mock up landing pages very quickly if they need to test into some new concepts."
+    },
+    {
+      "start": 2425.92,
+      "end": 2440.64,
+      "text": "We're really working on the edge here at technology to try and find the best tools. And if we don't see one, we have the incredible engineering power to go and build one. And I think that's really what we're about and why open store fundamentally is a technology company."
+    },
+    {
+      "start": 2441.36,
+      "end": 2458.72,
+      "text": "Are open stores brands on TikTok shop? Some are. Some are today. The creative requirements to do TikTok well are just very immense. It's not a channel that we've leaned into 100% just yet, but it is something we're exploring for some of our brands and playing with today."
+    },
+    {
+      "start": 2459.28,
+      "end": 2475.92,
+      "text": "Yeah, Nick, I'll tell you one of the challenges of being an aggregator and owning and operating so many stores is when there's these new channels like TikTok shops, they occasionally have constraints like you can only have five businesses registered through a single EIN. And a lot of"
+    },
+    {
+      "start": 2475.92,
+      "end": 2490.48,
+      "text": "these channels aren't purpose built for operators with our use case. So occasionally we run into some friction kind of getting these things live, but that's just the way the world works. How open are you guys to testing out new technologies? You know, like Amped,"
+    },
+    {
+      "start": 2490.48,
+      "end": 2506,
+      "text": "for example, we use this company called Amped for pop-ups. I'm sure it's different because you have 50, essentially 50 clients that you would onboard. How do you guys go about testing out new things and validating new tech? The joy of having so many stores is that we can really"
+    },
+    {
+      "start": 2506,
+      "end": 2516.08,
+      "text": "try a lot of things at the same time. That's one thing on different stores without interrupting performance too much. We are trying Amps right now as well, actually on a couple of our stores."
+    },
+    {
+      "start": 2516.08,
+      "end": 2523.92,
+      "text": "And so, you know, for the email team, if it's about email capture, you know, they might make a recommendation. This is what I heard from Nick on the latest limited supply podcast. Should we"
+    },
+    {
+      "start": 2523.92,
+      "end": 2532.16,
+      "text": "check this out? Should we have a look? And in other places, like I went to a conference and we heard about this or this is just the hot thing that everyone's talking about right now. And so"
+    },
+    {
+      "start": 2532.72,
+      "end": 2548.96,
+      "text": "the beauty of having very strong functional expertise is that people also have the time to go and find these new tools and opportunities and also understand, are they working right? Really monitor the performance very carefully on some of the stores. If suddenly we're using Fermat and"
+    },
+    {
+      "start": 2548.96,
+      "end": 2560.08,
+      "text": "those landing pages are just performing just way better across this category, why would we not try it on the others as well? And so it's things like that where having the functional expertise has"
+    },
+    {
+      "start": 2560.08,
+      "end": 2574.16,
+      "text": "some significant advantages for us as well in keeping up on the latest here and trying a lot of things at the same time to figure out what's the best way to improve performance. The last question I'm interested to learn, especially like working under the leadership"
+    },
+    {
+      "start": 2574.16,
+      "end": 2585.76,
+      "text": "that you guys have, if you were on the advisory board of a consumer brand doing 5 to 50 million a year in revenue, are there any nuggets you would tell them based on the experience,"
+    },
+    {
+      "start": 2585.76,
+      "end": 2594.72,
+      "text": "the things you've seen and learned at OpenStore that you would make sure that are ingrained in their brain so that they don't make mistakes that you see brands coming to you that get rejected"
+    },
+    {
+      "start": 2594.72,
+      "end": 2606.48,
+      "text": "have made? So before OpenStore, I helped to build a company called HelloFresh for nearly 10 years. And so I think a lot of the things I experienced in that journey is very similar to what we're"
+    },
+    {
+      "start": 2606.48,
+      "end": 2626.4,
+      "text": "learning a lot here. And I think one of them is as you scale, don't forget about your most loyal customers. Make sure that your channel mix and your customer support, your customer experience management is really, really great. Retention is never a weakness. It's always a strength. And so"
+    },
+    {
+      "start": 2626.4,
+      "end": 2638,
+      "text": "making sure you're taking the best care of customers all the time and make sure you have the right setup in terms of metrics to track as you're scaling your business will make your life"
+    },
+    {
+      "start": 2638,
+      "end": 2650.08,
+      "text": "a lot easier on that journey, but then also when you get to the next level. So taking a brand from like 100,000 a year in sales to a million is one thing to go from a million to 5 million is another"
+    },
+    {
+      "start": 2650.08,
+      "end": 2664.8,
+      "text": "and from five to 20 to 50 million is another. And the one thing that is going to be a constant through that whole journey is ensuring that you're looking after your customer experiences and maintaining that as you scale and focus on other things. And so that would be the biggest"
+    },
+    {
+      "start": 2664.8,
+      "end": 2675.76,
+      "text": "thing. You can never cheat the customer experience, always focus on it, build it, add value to your users and your customers. And that would be my personal biggest thing. Trenton, anything else"
+    },
+    {
+      "start": 2675.76,
+      "end": 2687.12,
+      "text": "you'd add? Well, I think as you're building out the team to be able to grow and scale a business, whether it's 50 million, 5 million or a hundred million is really making sure you're bringing in"
+    },
+    {
+      "start": 2687.76,
+      "end": 2706.16,
+      "text": "an incredible talent base of operators. One thing we've been doing here at OpenStore recently is making sure everyone has an understanding of how their work ladders up to the performance of any one of the individual stores and really educating folks from customer support to marketing to supply"
+    },
+    {
+      "start": 2706.16,
+      "end": 2719.2,
+      "text": "chain. Everyone's work matters and showing them how do they directly impact the P\u0026L of a business and the growth is really important. The thing that gets me most excited about OpenStore"
+    },
+    {
+      "start": 2720.16,
+      "end": 2732,
+      "text": "is the fact that you guys are so innovative in your own tech because you're not just an aggregator, you're not just an agency, you're not just a software company. You're kind of in between all"
+    },
+    {
+      "start": 2732,
+      "end": 2749.52,
+      "text": "three where you guys are buying the companies also in an interesting way. I know Keith is involved in a few companies like Taito, for example, that also probably work closely with OpenStore. And it's just cool to see that you guys are building legitimate tech. It's not just like"
+    },
+    {
+      "start": 2749.52,
+      "end": 2766.24,
+      "text": "copycat tech. It's not like a URL shortener. It's stuff that's actually useful. The stuff you talked about with being able to change 50 different websites heroes for promotions. That's awesome. I wish we had that technology and we could do that across our client sites"
+    },
+    {
+      "start": 2766.24,
+      "end": 2778.88,
+      "text": "when we're running 20 different Black Fridays this year. Yeah, very cool. Don't forget to head to, well, definitely go check out OpenStore but Lucas and Trenton also are going to fly 10 people out"
+    },
+    {
+      "start": 2778.88,
+      "end": 2790.88,
+      "text": "to Miami. So go to my.open.store slash limited supply for a chance to win a free trip to Miami. The first 10 listeners who qualify for an offer will enjoy a weekend getaway in Miami"
+    },
+    {
+      "start": 2791.6,
+      "end": 2805.44,
+      "text": "for the full complimentary valuation from OpenStore and you'll just get to have fun in Miami. Who doesn't want to go to Miami? So definitely check that out. Absolutely. Yeah, my.open.store slash limited supply. Submit for an offer. It's non-binding"
+    },
+    {
+      "start": 2806.16,
+      "end": 2816.8,
+      "text": "and Lucas and Trenton will greet you there at the airport holding your name on a sign and take you home to Miami in a limo. Anything else you guys want to add before we get out of here?"
+    },
+    {
+      "start": 2816.8,
+      "end": 2826.64,
+      "text": "Sure, sure. No, I mean, thanks for that. I think we really feel like our mission at OpenStore is to reward these entrepreneurs for their hard work, right? So if you've made the effort to"
+    },
+    {
+      "start": 2826.64,
+      "end": 2841.36,
+      "text": "create this store, our job is to continue that legacy and make sure we're operating that brand long after you've moved on to whatever's next in your life. And so, like you said, we'd love to fly you down if you've heard this podcast and you're interested in getting a"
+    },
+    {
+      "start": 2841.36,
+      "end": 2852.56,
+      "text": "valuation on your store, connect with our team, go to my.open.store slash limited supply and we'll fly you out. If you want to hang out with us, that's cool. If you don't enjoy Miami and eat"
+    },
+    {
+      "start": 2852.56,
+      "end": 2862.8,
+      "text": "some great food, go to the beach. Either way, we'd love to hear from you and get in touch with us. And thanks so much for having us today, Nick. Amazing. Thanks for coming on. That's a wrap for"
+    },
+    {
+      "start": 2862.8,
+      "end": 2877.44,
+      "text": "this week and we'll see you next Wednesday for episode 11. Thanks, Nick. It's been great. Thanks for tuning in. We'll be back next time to cut through the noise in CPG, retail and e-commerce. And if you enjoyed this episode, then why not share it with a friend"
+    },
+    {
+      "start": 2877.44,
+      "end": 2881.28,
+      "text": "and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

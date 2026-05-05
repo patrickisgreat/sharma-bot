@@ -1,0 +1,399 @@
+{
+  "cues": [
+    {
+      "start": 0.62,
+      "end": 29.46,
+      "text": "Welcome back to Season 12 of Limited Supply, the only commerce podcast with unfiltered and refreshingly hot takes. I'm your host, Nik Sharma, and when I'm not recording, I'm behind the scenes scaling your favorite celebrity and consumer brands. Let's start talking all things direct to consumer. Today's sponsor is OmniSend, email marketing that actually makes sense. OmniSend gives you powerful features without the clunky, complicated, and overpriced experience. Email, SMS, flows, reporting, everything you need."
+    },
+    {
+      "start": 29.46,
+      "end": 58.91,
+      "text": "Learn more about how OmniSend stacks up against its competitors at Nik.co.com. Hey everybody, welcome back to Limited Supply. My name is Nik, I'm your host. And today we've got another fun interview with Sam Springfield, who is the Senior Director of Content at Bark. Bark is not the dog company, but it's a parental controls company that make hardware and software."
+    },
+    {
+      "start": 58.91,
+      "end": 79.35,
+      "text": "And, you know, for being a company that's Omni distributed, I would say, whether it's digital or non-digital platforms, I wanted to dive in and see how Sam had built the creative team and the content team for Bark. They have a mix of agencies, freelancers, internal vendors, influencers, or sorry, not internal vendors, but internal people."
+    },
+    {
+      "start": 79.69,
+      "end": 102.83,
+      "text": "And I was more so curious about how she gets through all of this, how she leverages AI across the board, how she manages all projects and ensures that everything is done on time, how she thinks about maintaining brand voice and tone across the board. And basically just a lot of tactical things that help you more on the operations side. So if that's of interest, I hope you enjoyed today's episode."
+    },
+    {
+      "start": 103.53,
+      "end": 133.07,
+      "text": "If you run a creative team, if you have a creative team, if you are figuring out how to build your creative team or expand it, especially as you need to flex up and flex down given seasonal timing, this is a must listen for you. So I hope you enjoy it. If you've got any questions, feel free to hit me up on Twitter or by email as usual. And otherwise, I hope you enjoy this episode. Sam, very excited for you to be here with us. Thank you for joining us to talk all things Bark. Yeah, I'm excited to be here. Bark's, for those of you who don't know, a parental controls company."
+    },
+    {
+      "start": 133.45,
+      "end": 159.43,
+      "text": "So we started out as an app and then we launched a phone and a smartwatch. So these are all for kids' devices. And it basically uses AI and machine learning to scan the kid's device on social media platforms, Google Docs, text, emails, those sorts of things, and flags parents to anything concerning. So that's things like suicidal ideation, cyberbullying, predation, the list goes on."
+    },
+    {
+      "start": 159.43,
+      "end": 183.87,
+      "text": "But a little bit about me. I actually started my career in the executive assistant space, made the transition over to marketing when I started supporting my CMO back at Sales Loft. Decided I just really loved the marketing side of the business. And so spent a little time doing content marketing there and then made my way over to Bark as our senior director of content."
+    },
+    {
+      "start": 183.87,
+      "end": 213.77,
+      "text": "So I oversee all of our social content, organic social, anything you see on our website, video content. We support all areas of the business. So it's a wide range of things that we're working on. Amazing. Yeah, it sounds like you're running... You have massive output with a pretty lean team. I'm curious how big is the team and the resources that you have right now? Yeah, my internal team is four. I have a head of copy, two designers, and a social media manager."
+    },
+    {
+      "start": 214.03,
+      "end": 238.11,
+      "text": "Outside of that, I do have... I love to leverage freelancers. So I have a freelance writer, a freelance designer, and a videographer. So yeah, I absolutely make sure that I'm taking advantage of external partners on top of what we have inside. Amazing. And for the listeners, what are the main KPIs that you're focused on driving towards with all the content that's being outputted?"
+    },
+    {
+      "start": 238.11,
+      "end": 266.65,
+      "text": "Yeah. So I mean, the big one is definitely our reach and just general engagement with the content we're creating. Largely focused on our social following. That's where we really lean into those things. Our organic channels are really educational pieces or educational resources for parents. And so I think just really watching how the videos are performing. Where do we need to change a hook? How could we have caught someone and kept them longer?"
+    },
+    {
+      "start": 266.65,
+      "end": 296.35,
+      "text": "So I would say reach and engagement are huge. And then kind of in my vein with content, but more so like on the press side, just our share of voice in general. And how many people we're reaching and yeah. Yeah, I'm excited to dive into some of that later, especially around tone of voice and keeping that similar. I'm curious, like right now. So what are what are can you just give an idea of like all the channels you guys are producing for along with what the output kind of looks like out of this very lean team?"
+    },
+    {
+      "start": 296.35,
+      "end": 324.01,
+      "text": "Yeah, so our biggest areas are probably going to be all of our organic social channels. So that's Instagram, Twitter, LinkedIn, Facebook, TikTok, and YouTube. So that's where we're leaning really heavily on most of our content. Outside of that, we produce a ton of different blogs, tech guides, resources for parents like app reviews, content reviews. So there's a lot of output for a very small team."
+    },
+    {
+      "start": 324.45,
+      "end": 353.37,
+      "text": "I think, you know, we eat, sleep and breathe all things Asana. And that's the one thing that really keeps us focused and making sure we're working on the right things and really tracking our progress on items. But yeah, I think that when I think about where the team puts the majority of their effort on our initiatives is definitely on the social side. Yeah, I feel like social is such an amazing platform for parents, especially because they share it around so much. Do you find that shares are a big driver of engagement? Yeah, absolutely."
+    },
+    {
+      "start": 353.63,
+      "end": 377.81,
+      "text": "That's one thing that my social media manager keeps a really close eye on is, you know, what are parents interacting with the most? What are they sharing the most? What's resonating with them the most? So yeah, we find that some of our posts tend to blow up because the shares that, you know, parents are sharing their stories or they're sending it or saving it. We notice that they save posts a ton as well. Yeah. Yeah."
+    },
+    {
+      "start": 377.81,
+      "end": 405.13,
+      "text": "I feel like there's some better tools now to track the social sharing, but there's still not a lot that really gives it the full attribution. Yeah. Yeah. And we use Sprout Social as our social tool right now. Um, and it's great for tracking, you know, especially doing like quarter over quarter, year over year comparisons just to see like, okay, where did we kind of not fail, but where did we not grow as much as we thought we were going to? Where do we not do as well?"
+    },
+    {
+      "start": 405.37,
+      "end": 434.69,
+      "text": "And then trying to lean into like, okay, what are the different strategies? Because it's always changing. Uh, the ever changing landscape of social media is crazy. Um, one thing we've noticed lately is video content is where it's at. Like we are always producing video content. Um, and we started a podcast. And so a lot of our video content comes from that. And that's been really, really helpful to, you know, you get one big long episode, as you know, and then you're able to produce tiny little bite-sized pieces of information."
+    },
+    {
+      "start": 434.69,
+      "end": 460.21,
+      "text": "And that's so much easier digested by people today. Uh, attention spans are not as long as they once were. And I think that we've learned that, you know, parents want to come learn the one thing and then they want to be able to be like, okay, now I can go apply this. Yeah, totally. Have you found any interesting like tips or hacks or tactics around like, you know, taking this concept of parental controls and making it exciting for social? Yeah."
+    },
+    {
+      "start": 460.47,
+      "end": 489.23,
+      "text": "It's not necessarily like, you know, the, um, the sexiest thing to market, but it's definitely important. And so I think, you know, leaning into, again, that educational piece of it is, is what we've learned as well. Um, and so I think, you know, not necessarily selling them on like the parental controls themselves, but weaving that message in by educating them on like, okay, this is what's happening on Roblox."
+    },
+    {
+      "start": 489.23,
+      "end": 518.65,
+      "text": "For example, you know, kids are being coerced by predators and then kidnapped. Those are things, those are real things that are happening. And so making it more so like, yes, it's a scary world to raise kids in today, but it's also like, we're here to be your partner and just kind of reinforce to them that, you know, they're not doing this alone. And so we're, we're more of like a support system for them. Um, and you know, there's a really easy way to, to go fear mongery with this sort of information. And obviously that's the last thing we want to do."
+    },
+    {
+      "start": 518.77,
+      "end": 547.79,
+      "text": "So we really just try and take an approach. It's like, we're just trying to make sure that you're aware that these things are happening and that you're able to do something about them. Right. Yeah. It makes total sense. You mentioned that you have like a lean internal team and some freelancers. And a lot of times I talk to brands and they want to either hire a full agency to do something like social or make all their banners and creative, or they want to build it internally. But rarely do they create some sort of a combination. How did you approach building out that like mini org chart for, for content?"
+    },
+    {
+      "start": 548.51,
+      "end": 574.33,
+      "text": "Yeah, I think, you know, we've, uh, barks is a small company of around a hundred employees. So we've always operated at like a pretty lean scale. Um, you know, we definitely still have that startup mentality. So I think figuring out how to get scrappy with things without necessarily having to hire, um, was just one thing that was like, you know, if we can absolutely prove we need this and it's going to, drive X, Y, Z things like the higher can be considered."
+    },
+    {
+      "start": 574.35,
+      "end": 602.55,
+      "text": "But I think for the most part, it was like, how can we still make sure our output is as high as it can be without having to bring people on fully internally. And it's been, I mean, they're like an extension of my team. I don't ever think of them as, you know, just my freelancers. They know the brand super well. They know the voice super well, you know, especially with my videographer, we're spending time with him in real life. Uh, barks a fully remote company. So I don't get to do that as much with my other two, but you know, they really become an extension of who we are."
+    },
+    {
+      "start": 602.69,
+      "end": 631.01,
+      "text": "Um, and I've, I've had all of them for anywhere from two to three years on my team now. So. Wow. Yeah. I feel like for a lot of brands, I've always recommended that they, like, even if you're just trying to find freelance content creators or graphic designers that you need at the last minute, at least like have them locked in, ready to go. Agreed on turnaround time, agreed on a rate, agreed on what deliverables look like, you know, test project done. And, uh, it creates a really easy way to just flex up and flex down as you need it. Yeah."
+    },
+    {
+      "start": 631.09,
+      "end": 651.45,
+      "text": "Well, especially with, you know, priorities changing and all, of course, everyone's going to have competing priorities. And because we sort of serve as like this creative agency to all of barks internal teams, we have to be flexible and we have to be able to know like, okay, we're going to have two things that might have the same hard deadline. We just have to get it done. So where are we shifting priorities?"
+    },
+    {
+      "start": 651.45,
+      "end": 680.67,
+      "text": "And it's all, it's so nice knowing that I have someone kind of on standby, if you will, like it might not have been a project that was in my design freelancers queue to start with, but I know that it's one she can take. And I don't have to take my focus of my internal team away from what they're working on. And that's just been huge to be able to jump on things, um, and still be able to turn things around and support the company the way they need to be. Um, yeah, it's, it's a game changer. Totally. How do you, um, how do you like organize that?"
+    },
+    {
+      "start": 680.67,
+      "end": 706.41,
+      "text": "Do you use, uh, like what's your workflow as it relates to, you know, freelancers versus agencies versus internal team? And how do you make sure that like you as the overseer are on top of everything with updated timelines or knowing what's happening? Yeah, I think, um, the, the one tool that we like, I don't know what we would do without it is Asana. Um, and I actually manage all of my, I, you know, my SEO agency, we work out of Asana."
+    },
+    {
+      "start": 706.41,
+      "end": 731.65,
+      "text": "Like that's where we track everything we're working on all of my internal team, all of my freelancers are on it. So it's just a one source of truth for us. Um, and we run on a sprint base. So, you know, we're looking at everything in a weekly cadence. Um, and then of course, you know, we're tracking bigger milestones on a quarterly basis through Asana to build that roadmap so that anyone could go into Asana and kind of see like, okay, this is what this team's working on. This is where their focus is."
+    },
+    {
+      "start": 731.89,
+      "end": 759.71,
+      "text": "Um, and I think just having that level of transparency and, you know, I could go look at any other team's board too and really see what they're working on. So I can make sure I'm aligned in what my team's initiatives are. Um, so yeah, I mean, sometimes I don't know how we stay on top of it all, but if it weren't for us, if it weren't for Asana, it wouldn't happen. And just out of my own curiosity, cause I always find Asana and Slack to be very competing. Do you like have guidelines against what is discussed in which platform?"
+    },
+    {
+      "start": 760.33,
+      "end": 787.63,
+      "text": "Oh man, that's, that's one thing that's a struggle. There's certain teams that we've, while we probably shouldn't bend our rules, we will bend our rules where things are reviewed just because we know we're going to get quicker feedback in Slack versus Asana with certain teams. Um, so yeah, we definitely try to make sure all communication stays within Asana, but there's, there's definitely times where it's like, I just need an answer quicker because we're on a tight timeline and I just need their feedback. So that's when we'll jump into Slack."
+    },
+    {
+      "start": 787.63,
+      "end": 816.83,
+      "text": "Um, but a lot of times we'll consolidate that feedback and drop it into an Asana comment so that it's still tracking just maybe not coming directly from whoever's requesting. Yeah, that makes a lot of sense. And is there anything in your process that you feel like you've cut over the last year or two that has actually made it more efficient? So when I was at SalesLoft, I kind of owned, we were in Monday at the time. Um, and I owned that whole like creative review process and the management of all of the projects."
+    },
+    {
+      "start": 817.49,
+      "end": 844.03,
+      "text": "And, um, I kind of took what we did there and put a different twist on it here at Bark. And so I think some of the things that I removed is a little bit more of that, like strict, like it has to happen in here. And this is like, you need to turn something around like this quickly. Um, and that's helped us move quicker on things I've learned is like the less people I can involve on something, the better. Just, I need obviously the stakeholder there."
+    },
+    {
+      "start": 844.13,
+      "end": 873.21,
+      "text": "And then some, if there's one or two other people, but really keeping it streamlined to not get too many people involved for feedback, especially, um, has been, uh, a big time saver for us. Yeah. I feel like the more cooks in the kitchen, the more opinions and the more revisions. Yes, absolutely. Um, okay. So moving into like the Bark voice. So, you know, when you're speaking to parents, there's obviously a very, uh, like there, there's this, you can't go past a certain line, um, especially when you're talking about child safety."
+    },
+    {
+      "start": 873.23,
+      "end": 903.13,
+      "text": "And so how do you think about like one, you know, ensuring that the voice is consistent across everything, but then two, also making sure that you're still fighting for attention and pushing the boundaries here and there so that, you know, you're able to get eyeballs. Yeah. Yeah. That's something that we have to, we battle every single day is, you know, like how are we reaching these parents? How are we talking to them? We always take an educational approach, really making them feel like we're a partner in this to them. Um, because you know, there's new apps every single day. There's new trends happening every single day."
+    },
+    {
+      "start": 903.25,
+      "end": 930.71,
+      "text": "And these things move so quickly. And so I think approaching it, you know, where it's like, we're here to help you. We're here to support you. But again, we're speaking to parents who are on a very broad spectrum. So you've got parents on one end who absolutely know this is an issue. It's something that they need to be aware of. And it's something they need to be proactive about. And then on the other end of that spectrum, you have parents who, what we like to call not my kid syndrome. They just think it could never happen to their kid. And there's no way that they would ever, you know, be harmed online."
+    },
+    {
+      "start": 931.15,
+      "end": 959.57,
+      "text": "Um, so it's two very different audiences we're talking to. So kind of trying to meet them in the middle, um, is, is what we're trying to do. And I think we do take a different approach, uh, on various platforms. So like on Instagram, for example, you know, we're never, we're going to do something to hook them in, but we're never going to do anything that's like, you know, cheekier or anything like that, or a little more bold. Whereas on YouTube, we kind of lean into that boldness and we do use a bit more,"
+    },
+    {
+      "start": 960.05,
+      "end": 988.11,
+      "text": "you know, not click baby, but to some degree, you know, we do lean into that a little bit more there just because that's kind of what the platform wants. Right. It can be more impactful. Yes, absolutely. And so I think fine tuning it based on where we're, where we're sharing and where we're speaking to the parents. And then also what the content is in general that we're talking about. Right. Is the tone of voice, is that something that's like documented or is it just kind of like knowledge that's known amongst the company? Or is there like one writer who has veto power?"
+    },
+    {
+      "start": 988.67,
+      "end": 1015.97,
+      "text": "Yeah. So my head of copy, um, her, her name's Haley. She's been at Bark since the very early days. So she has kind of crafted this voice for Bark. Um, and we have a whole, you know, messaging and brand guide, the tone of voice. We're trying to use words that we do say words that we don't say and like kind of how we approach online safety for children. Um, so there's definitely guidelines, um, and most everything comes through for a review on our end."
+    },
+    {
+      "start": 1016.29,
+      "end": 1043.89,
+      "text": "Um, so I don't think that there's a piece of content that Haley probably doesn't touch at Bark. Um, just, just for the sake of making sure we're staying on brand. Yeah. And, and like in that, or on that note, like with agencies and freelancers who are constantly doing work as well, how do you try to minute, like what can, what can brands do to minimize the number of revisions that have to get done? Is, has there, have you found like there's a certain format of a copy doc or brand guidelines or something that goes to these people?"
+    },
+    {
+      "start": 1044.45,
+      "end": 1073.59,
+      "text": "Yeah. So with our, uh, freelance writer, especially just go read our blog. Like if you, you can learn so much about how we approach things, what our voice should sound like, and she knocks it out of the park every single time. Um, she also by trait is an editor. So from like a grammar and the, you know, like just general copy perspective, she's super clean. So that saves us a ton of time. Um, I think I looked at, I don't even know how many like sample pieces from freelance"
+    },
+    {
+      "start": 1073.59,
+      "end": 1100.15,
+      "text": "writers and there was one who really stood out and it's the one that we have. Um, so I think just being really strict on like, if, if it doesn't seem like it's going to be a fit, like, just don't, I don't, don't waste your time, I guess. Like I feel like, you know, when you find someone who seems to work well, like hold on to them and that's what I've done. She actually stopped freelancing for us. And I came back and I was like, can you please come back and freelance for us? Because it just, we learned that if we were relying on certain agencies or people, it just,"
+    },
+    {
+      "start": 1100.19,
+      "end": 1130.11,
+      "text": "it took us more time than it should, um, to have content being written for us. And then as far as like a design perspective, um, yeah, I mean, sharing brand guidelines, uh, that's a trickier one because all of my designers would approach things differently, uh, which is what's great about them. You know, they're, they're talented in all their own ways, but I think, you know, after probably about six or so months with our freelance designer, she really, really picked up on like the types of things we would look for, or, you know, coming up"
+    },
+    {
+      "start": 1130.11,
+      "end": 1157.05,
+      "text": "with some more concepts of our own. Like a lot of times, like we'll outline exactly what we want, but we've been way more lenient in being like, whatever, you know, if you have ideas you want to try out, like, please do. And half the time we like them more than what our original concept would be. So I think the other part of that is like, yes, you want to make sure that your freelancers or your external agencies are aligned with what your brand is. Like be open to them also sharing their ideas because it, a fresh perspective is everything."
+    },
+    {
+      "start": 1158.25,
+      "end": 1186.17,
+      "text": "Ever feel like your email marketing tools are working against you? The more you want to do, the more they start charging you with OmniSend customers can earn $68 on average for every dollar they spend. Why pay enterprise pricing for features you don't even use with OmniSend? It's so good. It's boring, which is how it should be with email. No clunky dashboards, no unnecessary roadblocks, just a platform that lets you focus on strategy and revenue. Learn more or try it for free at nick.co slash OmniSend."
+    },
+    {
+      "start": 1186.51,
+      "end": 1211.94,
+      "text": "That's nick.co slash OmniSend. Totally. And then how do you like find the balance between them having their own voice and kind of like how they experience the product and want to talk about it or want to share it and the guidelines that you guys have to make sure that everything sounds cohesive across, you know, any channel or any influencer?"
+    },
+    {
+      "start": 1211.94,
+      "end": 1235.28,
+      "text": "Yeah, I think especially like on the since you mentioned influencers on the creator note, we always give guidelines, you know, for any of our paid content that we're doing. Like, here's how you're supposed to be talking about Bark, but we don't want we want their content to feel authentic to their followers. They have their own following and audience for a reason. They're clearly a trusted person in the space."
+    },
+    {
+      "start": 1235.28,
+      "end": 1261.42,
+      "text": "And so just kind of always checking them for factuality versus, you know, the tone or how they might want to say something. And we've learned to a certain creators, just really letting them lean into who they are and like the brand that they've built, but also just making sure they're talking about Bark correctly is perfectly fine. And I think it resonates better with their audiences too. Yeah, totally agreed."
+    },
+    {
+      "start": 1261.88,
+      "end": 1288.9,
+      "text": "Um, and then last piece on this is like for things like PR, how do you like PR is usually I found some PR teams are very like, oh no, we can't tell them what to say because that's anti journalistic or something similar. I don't know. Um, and then there's other PR teams that are like, no, you guys are only going to say this or you're not going to get the story. And I'm curious, like, how do you think about making sure that the voice stays consistent"
+    },
+    {
+      "start": 1288.9,
+      "end": 1318.56,
+      "text": "across, um, a channel like earned media press, you know, anywhere where the brand shows up and it's not being paid for. Yeah. Um, I think, you know, we, we've been very fortunate to, we get press hits like crazy, just given the space we're in and to think that things are always changing, that we're called a lot, called on a lot, um, for our opinions and for our, you know, our thoughts on things. I think the biggest thing, um, that I've learned is just, you know, when it comes to something"
+    },
+    {
+      "start": 1318.56,
+      "end": 1346.1,
+      "text": "like a joint press release or something like that, like really making sure that both brands are represented in the way that they want, but also so that it's like cohesive, you know, we just launched a partnership with Talkspace. Um, so all of our phones come pre-download Talkspace and Talkspace Go come pre-downloaded on all of our Bark phones now for, for free. Um, and so that was like a really cool partnership to announce. And while we have very similar missions and like, you know, we're very aligned on mental"
+    },
+    {
+      "start": 1346.1,
+      "end": 1375.64,
+      "text": "health and everything, it was interesting to see, you know, how they wanted to talk about certain things and how we did and like kind of figuring out, okay, how do we make this work together? Um, so I think it's just a lot of collaboration. Um, and you know, if we ever find things that weren't earned, uh, just reaching out and seeing if they're open to adjusting anything that we feel is like a misrepresentation of, of, um, who we are. And I think, you know, it doesn't hurt to ask. So that's, yeah, that's one thing I would say. Amazing."
+    },
+    {
+      "start": 1376.1,
+      "end": 1403.22,
+      "text": "Um, I want to move toward the topic of AI. I'm curious how, um, well, maybe just a quick summary of how you guys are thinking about AI or using AI in your workflows and then I'll dive in. Yeah. Um, I am like a late adopter. I hate to say it. I just, especially with things like chat GBT, we use Claude internally. Um, coaching it was the part I struggled with the most, but once I really understood it and could figure out how to coach it, it's been a game changer."
+    },
+    {
+      "start": 1403.66,
+      "end": 1433.62,
+      "text": "Um, I also love Opus AI, which is like a, uh, if you upload any video, it'll shoot out however many clips, uh, like 30 second shorts, um, or however long you want them to be. They're auto generating the caption. So that's, those are kind of like the big spaces. I lean into it when I'm working on content calendars. Um, I'm leveraging things like chat should be to your Claude to determine, you know, what's the content that we're missing on our website that parents are actively looking for?"
+    },
+    {
+      "start": 1433.7,
+      "end": 1459.94,
+      "text": "Like where are the gaps that we need to fill? Um, and then also, you know, I, it puts together a whole SEO output. So all I have to do is give that to my freelancer. And I'm like, here's your keywords. Here's, you know, generally what I want this blog to be and she can run with it. Right. Are you, um, you mentioned like teaching Claude or kind of like being able to basically like train it. How did you go about that? Or what were like, what was the hard part at first? And then how'd you figure out how to get past that?"
+    },
+    {
+      "start": 1460.56,
+      "end": 1487,
+      "text": "Yeah, I think just trying to figure out like the, the nuances of it. So making sure like anytime I was trying to get help on something, like here's our website, here's, you know, what we're talking about, here's, you know, just like giving it as much information as I could to make sure that then what I'm getting back is actually helpful. And I can be, it could be applied to what I'm trying to do. Um, I think at first I just was like, oh, it should just know everything, but I really"
+    },
+    {
+      "start": 1487,
+      "end": 1513.78,
+      "text": "wanted it to know Bark, how I see Bark and how we view Bark, um, and not just whatever it's pulling from the internet. Right. Yeah. I feel like there's, um, there's, there's so many ways to use it on the, on the content side. Do you, have you done anything on like the creative or design or like YouTube thumbnail side? So I tried messing with it, um, for the YouTube thumbnails and it was not working for me. So if you have any tips or pointers, I would love to take them."
+    },
+    {
+      "start": 1514.12,
+      "end": 1540.06,
+      "text": "Um, and we do, we have, we definitely use it, um, when we're conceptualizing something. Cause like, I'm not a designer by nature, but I might have something in mind, um, that I want to want us to create. So for me, it's easier to talk to Claude or chat GPT and be like, this is what I'm trying to explain to a designer and getting kind of like a rough example or like a starting point. Um, I feel like that's sometimes easier for a designer to take like, okay, I wasn't necessarily"
+    },
+    {
+      "start": 1540.06,
+      "end": 1567.14,
+      "text": "understanding what you were saying, but now that I have some inspiration or like general direction, it's easier for them to work off of. Um, so I think that's how I've used it as much or used it so far on that side of things. Yeah. We've also, um, that's an interesting point cause we we've seen it work really well for that use case, especially when there's media buyers who are on the accounts and they see something or they see a pattern that works or a pattern that's worked across multiple accounts and want to bring it to an, to another brand."
+    },
+    {
+      "start": 1567.58,
+      "end": 1597.06,
+      "text": "And, uh, it's been really good for helping them just articulate what is working or identifying patterns or even being able to export data and look at multiple sets of data and let the AI figure out what the patterns are across the board. Yeah. Have you used any like AI agents yet? Um, I know not that I can think of do you have like any examples that might ring a bell? Um, well, so, so in chat GPT, for example, if you use the deep research button in the new"
+    },
+    {
+      "start": 1597.06,
+      "end": 1622.6,
+      "text": "model, um, the concept of agents is just that once you tell it to do something, it can create 10 other, um, 10 other basically instances that are each doing something that may ladder up to whatever the final thing is that you want. Um, and, uh, and like recently we've been using it a lot on the creative side. So, you know, like an agent might or an agent, uh, process or what I'm not sure the exact verbiage, but you know, the yeah."
+    },
+    {
+      "start": 1622.74,
+      "end": 1652.62,
+      "text": "Process would be to, you know, look at the last two weeks of performance marketing data. Look at how the brand is being discussed on Reddit and Twitter and Tik TOK. Look at if there's any cultural events that tie into, you know, the same patterns you see of what works, what's working in the ads and then tell me everything that was positive and worked well, everything that was negative and didn't work well. And then write me a whole creative brief to give to the creative team. And that can be a process done in, you know, four minutes versus what used to take maybe like two or three hours."
+    },
+    {
+      "start": 1652.8,
+      "end": 1681.98,
+      "text": "Yeah, no kidding. No, that's genius. Um, I've definitely heard of the deep research. Haven't dug into it, but I will be now. Yeah, totally. Um, as far as like using AI currently, um, do you ever? Like it's, it sounds like you, you tend to conceptualize a lot with AI or, um, like I've even used it to build out a full brief to give to a designer, but do you ever use it the other way around where you've got something that's like kind of half baked or maybe ready and then use AI to enhance it anymore?"
+    },
+    {
+      "start": 1683.26,
+      "end": 1711.66,
+      "text": "Yeah. I think, um, with some of our content, it's, you know, putting that content in and being like, what are like one thing that we tried to implement or we have implemented, um, in some of our content is like, just kind of at the top, like almost like a TL, TLDR, like recap, like here's what you're going to learn in this blog to kind of get people hooked in to stay and like read the full piece. Um, so asking chat to be T to like pull the, the key takeaways out of this content, like,"
+    },
+    {
+      "start": 1711.76,
+      "end": 1740.38,
+      "text": "especially on pieces that we see performing really well, or that continue to, you know, get page loads, um, using it for that to, you know, see like, is this making a difference? Are these people staying on the page longer? Um, and are they engaging with more content now, you know, moving to a different piece because we kind of got them hooked in by, um, giving them just enough of what they're going to walk away with reading, but not giving them too much, if that makes sense so that they do stay and read it."
+    },
+    {
+      "start": 1740.82,
+      "end": 1766.6,
+      "text": "Um, so yeah, I think that that's one way that I've definitely, I've used it. Yeah, totally. And last thing on AI is like, how do you, uh, as far as it goes to copy, how do you make sure that, um, you know, you can kind of train it to be, or stay on brand in terms of the tone? Hmm. Yeah. Um, that's a good question. I don't know that we have used it that much in that way."
+    },
+    {
+      "start": 1766.74,
+      "end": 1795.88,
+      "text": "I think what I've done is just always made sure that anytime I'm asking it to, um, to help me with anything from like a copy perspective, um, linking to specific content that we've already written and, um, you know, just really coaching it to pick up those styles and make sure that it's, you know, it's staying in the same tone and, uh, brand voice. Um, so I think that that's been one way that it has helped, um, or that I've used it, but yeah. Amazing."
+    },
+    {
+      "start": 1796.8,
+      "end": 1826,
+      "text": "When, uh, new platforms come out, um, you know, whether it's, uh, well, maybe not even new, but like just platforms that are outside of the main ones you mentioned, whether it's something as wild as be real or something like a LinkedIn, uh, or medium, how do you think about deciding what to test or how to approach testing a new platform or, you know, how you allocate budget and resources to see if there's viability for Bark on there? Yeah. So one channel that we're actually just now starting to dive into is Reddit."
+    },
+    {
+      "start": 1826.28,
+      "end": 1854.14,
+      "text": "Um, and it was one of those things where it's like, I mean, anytime you Google search anything these days, like the first response or the first result outside of an AI overview is usually a Reddit thread. Um, and you know, there's, we've known we've needed to do it for a while. We just haven't had the team bandwidth to, and finally we were like, we're just going to get scrappy and figure it out. Um, and so, um, a lot of that right now we have like our true marketing and our growth marketing teams are split."
+    },
+    {
+      "start": 1854.26,
+      "end": 1880.7,
+      "text": "So a lot of that right now is falling on our growth marketing team. Um, but they're, you know, they're leveraging various tools to, you know, make sure that Bark's showing up in the places that they're supposed to. So really leaning into the SEO value of it. Um, I think that that's going to be like one of the biggest plays and figuring out, okay, what threads or what subreddits I'm not a Reddit user, clearly. Um, what, um, what subreddits do we need to be in?"
+    },
+    {
+      "start": 1880.8,
+      "end": 1910.38,
+      "text": "Like where, where are places that we may not think makes the most sense, but there's a lot of parents present or something like that. And so, um, I think, you know, there's, I'm leveraging, um, one of my writers to also help us engage in, in content there and like really kind of like provide a guide because Bark is full of parents, uh, and a lot of them are on Reddit. And so being able to leverage our own internal team to go and engage with Bark related content"
+    },
+    {
+      "start": 1910.38,
+      "end": 1935.38,
+      "text": "and Reddit. Um, so we're kind of putting together like guidelines for how our internal team can interact with all that content. Um, yeah, that was like a no brainer. We just knew it was one we needed to go to and whatever the cost was going to be. If, if much of anything was going to be worth it. And when channels like Instagram or YouTube come out with reels and shorts, like how, how quickly do you think about jumping on and adopting those? Oh yeah."
+    },
+    {
+      "start": 1935.38,
+      "end": 1962.04,
+      "text": "I mean, we love, like I said, we, we, so over like the last year and a half, I guess we really scaled our YouTube content. Um, like, especially on the shorts, just cause we knew that that's what they were pushing. So we're always as quick as we can be to jump on those sorts of things. Um, you know, it, we test the content differently too on each platform. So it might, we might take a different approach in how we post it, style it, whatever on Instagram"
+    },
+    {
+      "start": 1962.04,
+      "end": 1990.12,
+      "text": "versus a short, um, we've learned that with reels, especially lately, um, doing everything natively in the app helps its performance. Um, they, they don't want it uploaded outside of their platform. And so really tweaking it and editing the content itself within Instagram has made our reels perform so much better than when we were, you know, just kind of uploading them via sprout. Um, so that's been something that we've noticed and sure it takes a little bit of extra time,"
+    },
+    {
+      "start": 1990.12,
+      "end": 2018.78,
+      "text": "but it's worth it because we're getting a much bigger reach. Yeah. Makes total sense. Um, all right. I'm curious, what is one of your most overrated content best practices you've heard? Gosh, that's a good question. Um, maybe this isn't like overrated. Maybe this is more like a hot take. Um, you don't have to jump on every trend that's happening in content, uh, especially on the social side, you know, of course it, like, it could be cool to go viral, but if it"
+    },
+    {
+      "start": 2018.78,
+      "end": 2047.42,
+      "text": "doesn't align with your brand, there's not really a point. And so I think, um, there was a time where we were like, okay, how can we use this trending audio? How are we can do this thing? And it's like, if you have to think that hard about it, it's probably just cause it's not aligned with your brand. Um, so probably, yeah, not overrated, but a hot take. What about, um, uh, favorite, one of your favorite content tools that's insanely underrated? I don't know how many people know about Opus. Um, if like, I feel like I was late to the game."
+    },
+    {
+      "start": 2047.5,
+      "end": 2075.32,
+      "text": "I just actually got an email from them that they just turned to like yesterday or today or something like that. Um, but I've told so many people about it who did not know. And I'm like, how do more people not know about this when they're creating video content constantly? So if you're not using it, it's, I mean, the way that it grades your, your content, it gives you like, here's where you could improve this. Like it puts the captions on for you. It has all these different effects and it's insanely cheap. Um, I think it's like $200 for the year."
+    },
+    {
+      "start": 2075.58,
+      "end": 2102.84,
+      "text": "Um, so it's just one of those tools that like, I'm so glad I found out about it because it made my life so much easier. Amazing. And, uh, for people who say that AI is going to take jobs, what's your, what's your take on that? Um, I think that's a crazy thought personally. I think, especially for a company like Bark where it's like, I mean, and this is, this applies to any, any brand, like sure it can create great content, but at the end of the day, like"
+    },
+    {
+      "start": 2102.84,
+      "end": 2132.46,
+      "text": "you want to make sure that it's, it's aligned to your voice as it can be. It doesn't sound too robotic. And I think, you know, an actual writer is going to be able to have that like final touch of like, okay, I know this piece came directly from Bark because of X, Y, Z things. Um, so I think that we should be less afraid of it and leverage it because it really is an amazing tool. Um, but I, I don't think maybe there's some jobs it could take. I'm, I'm sure, but I don't think it's taking all jobs."
+    },
+    {
+      "start": 2132.72,
+      "end": 2162.22,
+      "text": "Yeah, totally. Um, okay. Amazing. And Sam, where can people find you or reach out to you or learn more about Bark? So if you go to bark.us, that's our main website. Um, and I think on Instagram, we're at Bark Technologies, which is where one of our biggest followings is. Um, and you can find me on LinkedIn. It's just Sam Springfield. Um, but yeah, that's, those are the places you can go. Amazing. Sam, thank you so much for coming on and teaching us all about the content back ends of Bark. Awesome."
+    },
+    {
+      "start": 2162.44,
+      "end": 2175.42,
+      "text": "Thank you so much for having me. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

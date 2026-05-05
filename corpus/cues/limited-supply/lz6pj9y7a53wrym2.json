@@ -1,0 +1,384 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 56.71,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. If you're a Shopify brand, pay attention. Roku Ads Manager is built for growth marketers and makes connected TV way easier to test. Go to advertising.roku.com slash limited supply. Nik, awesome to have you here. Welcome to Limited Supply. Nik Sharma Thank you. Excited to be here. Nik Sharma Well, first off, maybe give us like two minutes on your background."
+    },
+    {
+      "start": 56.71,
+      "end": 82.71,
+      "text": "How did you become the DDC guy? Because even before we met many years ago, I knew about you long before then. Maybe like, what's that background like? Nik Sharma Honestly, it's like every time I think about it, I'm like, wow, that's kind of a case study in branding to some degree. It was just really right place, right time. Like as direct-to-consumer was getting really big and becoming a real thing. There was this interview I did with Adweek because I was on their like young and influential list."
+    },
+    {
+      "start": 83.67,
+      "end": 109.37,
+      "text": "And in that interview, they called me the DDC guy and then they posted an article about it. And then that started ranking. Now, if you Google DDC guy or if you ask like Google AI, it's just me, which is crazy. That's crazy. Nik Sharma But then everybody else started to call me the DDC guy. There was like, there was a couple of reporters too at one point who like tried to slander it. And they would call me the DDC bro. And there was, there was a few articles about that. And then that slowly went away."
+    },
+    {
+      "start": 109.43,
+      "end": 136.77,
+      "text": "But yeah, no, it started there. And then honestly, everything I do, I feel like is so tied to DDC or e-commerce. Like that's kind of my domain expertise or like the one thing I'm really good at. I'm an active investor advisor to a bunch of different brands, have helped launch a bunch. I had an agency called Sharma Brands where we did a lot of big brand launches, worked with a lot of brands at their growth stage, helped a lot of conglomerate type companies figure out DDC, whether it was a Diageo or Bricardi or, you know, General Mills."
+    },
+    {
+      "start": 137.01,
+      "end": 164.19,
+      "text": "For me, like DDC feels like a cheat code or a hack or a playground. In my head, I'm just like, this is a crazy opportunity. Why would I not spend all my time in this? So when I started working in the e-commerce space, I did ad tech from 2014 to 2016 and learned all things ad tech and, you know, a lot of programmatic stuff. But seeing how shady that industry was pushed me to get really in love with paid social and paid search."
+    },
+    {
+      "start": 164.19,
+      "end": 188.65,
+      "text": "Because while they were also black boxes and didn't have open exchanges connecting a bunch of different systems and things together, it was reliable and it worked and performance driven. If you said you were targeting something on Facebook, like you were actually targeting that thing. It wasn't like if you sign up with a programmatic vendor, they tell you, yeah, we're going to give you, you know, a bunch of sales. And then they're secretly just giving you shitty ad placements and arbitraging your CPM."
+    },
+    {
+      "start": 188.65,
+      "end": 216.77,
+      "text": "So that pushed me into paid social. And then that got me really interested in the, I just kind of, I was doing a lot of stuff where I was helping internet publishers, like the players you see spending the most dollars on Taboola, Outbrain, a lot of those like native content recommendations, you know, they'd be spending 200 grand a day on Taboola and Outbrain. And then I would try to help them run similar article traffic from Facebook. So I got really good at clickbait really. And just knowing like, what's going to get people to click?"
+    },
+    {
+      "start": 216.95,
+      "end": 243.99,
+      "text": "What kind of copy? What kind of creative? How do you think about that? Like user psychology while somebody is in that experience of Instagram or Facebook. And then that ended up getting banned by Facebook around like 2016. They completely changed the algo. They went super heavy on video, banned clickbait. And that was when like little things was a big publisher and, you know, witty feed, buzzfeed, all these big guys. And then I ended up actually consulting for a beverage founder to help her build her social."
+    },
+    {
+      "start": 244.13,
+      "end": 268.47,
+      "text": "Because before I got into ad tech, I was doing social media and I started doing that. And then all of a sudden that started driving more revenue for the D2C business, for that brand, than their own internal marketing function. And all I was doing was just finding a hundred different ways to tell her story in a cool way that felt native to the internet. But that just started to click really well. And so then I ended up joining that beverage company."
+    },
+    {
+      "start": 268.59,
+      "end": 298.55,
+      "text": "And that's basically where I learned e-commerce coming in with the knowledge of like paid social and ad tech and what's possible, which I think was really helpful because a lot of the people that I would meet in e-commerce at the time were trying to figure out e-commerce, but they didn't understand like how paid media algorithms work and how kind of the user journey works. And how do you think about first party data versus second party versus third party data? So then I joined that company, Hint. I was there for two years, kind of learned everything about e-commerce really quickly. That ended up doing really well."
+    },
+    {
+      "start": 298.63,
+      "end": 327.83,
+      "text": "And we scaled that to mid eight figures within basically a year and a half, two years. And then I came to New York, joined an agency, found that, you know, I wasn't really the guy to sit in an office. So then I started consulting, which turned into my own agency. And that's kind of how I've landed here. Got to meet you along the way, which was awesome too. We're fortunate for that. But the amount of areas you've touched is actually pretty unique, like from Taboola to programmatic media buying, to the ad tech, to running e-commerce, to meta."
+    },
+    {
+      "start": 328.15,
+      "end": 351.89,
+      "text": "Like most brands just know meta, honestly. It's kind of like the easy box, but there is a massive world out there. And there's been different phases of growth. Like to your point, OG was SEO manipulating URLs. And then there was PPC and then that got saturated. Then there's meta and then there was TikTok and TikTok shops. So there's constantly this evolving space of growth. So I guess, are you seeing anything different? I know AI has thrown a wrench in a lot of things."
+    },
+    {
+      "start": 352.15,
+      "end": 377.73,
+      "text": "But I guess specifically for digital distribution and growth, has anything been changing in the last, let's call it 12 to 18 months? Or is it still pretty consistent for the last little while? It's still pretty consistent. Like the fundamentals, I would say, are still relatively consistent. You know, your goals of acquisition, retention, you know, reducing churn, getting more subscribers, building a high converting website, being available where people shop, whether that's Amazon or TikTok or retail or whatever."
+    },
+    {
+      "start": 377.91,
+      "end": 404.97,
+      "text": "But I do think the journeys to get to those final destinations has changed a lot. You know, a lot of those things like when I was at that company, Hint, we had like one person whose entire job was to just crunch our numbers and by the next morning have a daily report of sales. And then we had one person whose entire job was just running website promotions, deciding what is the content calendar? What is the emails attached to that? What's the percentage off? Was it a good promotion, a bad promotion?"
+    },
+    {
+      "start": 405.25,
+      "end": 433.31,
+      "text": "So like all of that has basically shrunk by a lot. And in two ways, one is from a resource standpoint, but two is from just a time to execute standpoint. I'm not even talking about AI being involved in this conversation yet. I just mean like the brands that even, you know, you call it a few years ago that were launched, like think Jolie or a Feastables or a Lemmy or IM8. Like these brands that are super high velocity and have done really well out the gate and been super efficient."
+    },
+    {
+      "start": 433.59,
+      "end": 457.93,
+      "text": "They just learned how to be a lot more efficient and focus on a couple of things, right? Like to your point, a lot of these brands don't know 30 different channels. And if you go to like an e-commerce brand that was live and running ads 10 years ago, they'll have a BounceX pixel, a Quantcast pixel, a Snapchat pixel, a TikTok pixel, Klaviyo, Attentive, PostScript, Yotpo. Like they've got every possible thing on their website, which to me just shows that they were super distracted."
+    },
+    {
+      "start": 458.09,
+      "end": 487.43,
+      "text": "Whereas if you go to like a brand, you know, like a Jolie, it's like insanely optimized, blazing fast site. Only the pixels you need. They're only focused on the two or three channels that they know work super well. And they focus everything on customer experience and reducing churn. So the playbook shifted slightly, but I think it's also really shifted on like, where are you really putting the resources and like, how fast are you going? Then you add the layer of AI, which, you know, you could say for the last year has been slowly bubbling up in e-commerce."
+    },
+    {
+      "start": 487.65,
+      "end": 510.47,
+      "text": "Like there's been a lot of gen AI progress. Remember like last year, maybe two years ago, we started to see even in the supply chain, at least like the overlap of mine and your world. We saw like a financial or like an analyst to help you proactively predict how much inventory you need to buy for upcoming sales periods using Shopify data, Facebook data and seasonality stuff. And like those also kind of all failed pretty much."
+    },
+    {
+      "start": 510.67,
+      "end": 535.09,
+      "text": "And now I feel like we've entered this new wave of AI more recently, more agentic focused, where now it's like, you're not just reaching for reports or trying to consolidate data or look at data in a different way. But like you're building things from scratch, you know, whether it's brand books or websites or apps, how fast and efficient brands were in this last era of DTC brands is about to become even crazier."
+    },
+    {
+      "start": 535.25,
+      "end": 563.91,
+      "text": "Like we're going to see a hundred million dollar brand that's run by one or two people in the next, I don't know, two years for sure. Speed and efficiency basis in the new world. The old days of running top line for top line focus. No, EBITDA profits. That means you need a lean team. AI is now a major factor in that. Some tons of software has existed right before then, but AI is a major factor to that as well as agility. It could be supply chain. It could be in anything that you do. Lean and mean, speed. Those are the brands that are absolutely crushing it."
+    },
+    {
+      "start": 564.01,
+      "end": 592.95,
+      "text": "Ryan from Jolie, absolute monster. And I think, but he's also had exposure before. He's run, you know, been in business prior that didn't take that approach and learned the hard way. Actually two things that came to mind just now. So you mentioned like actual profit. I think the three biggest places that people don't understand sink a lot of their dollars. One is ads, of course. That's the one everybody knows. One is inventory. Ads you can't really get away with like paying late. Facebook's about to cut the whole credit card thing and move straight to ACH next month."
+    },
+    {
+      "start": 593.37,
+      "end": 618.69,
+      "text": "Inventory, if you're really good, you can get better terms or, you know, maybe you float it with a credit card or float it with something. And then the third one that people don't really realize at all because it's usually just hidden within gibberish is everything related to 3PL and shipping. Like the actual cost of postage, the shipping carrier, the shipping rate you're getting. Most people are getting arbitrage on their shipping rates. They have no idea, you know, not to make it a direct tie into portless, but like it's actually crazy."
+    },
+    {
+      "start": 618.83,
+      "end": 648.07,
+      "text": "Like when you look at how portless for what you're doing with air freight directly from the source and delivering it here compared to what some of these 3PLs are charging. It's insane in there like hidden fees and tech fees and all these random things. And I think, and first of all, thanks for the call out. But I think to your point, it covers two of those areas. It covers inventory, how much inventory you need at any given time, which is usually where your largest dollars are sitting. Meta is in and out, right? At least you're spending, but you're making. Inventory is dead, right? It's sitting in the water."
+    },
+    {
+      "start": 648.23,
+      "end": 676.87,
+      "text": "It's not doing anything. You're putting 500 grand, a million bucks. It's not earning you money. You're taking a line of credit that's costing you 8, 10, 18% a year. Who knows why? Even shipping, at least it's variable, right? As you sell your pink. So I think that at least from a portless perspective, huge believers, lower your inventory risk and ship directly, starts at five bucks for a quarter pound. But that actually ties into my next question, which is you've seen a ton of brands. And I think what Shopify really empowered is honestly anyone could start."
+    },
+    {
+      "start": 677.07,
+      "end": 704.93,
+      "text": "And many people get to 500K, a million without too much rocket science. But then as we speak to more people, it seems like between that one to five million, that's where a lot of companies go bankrupt or pushing beyond five million, right? So I'm curious, you've seen it all. Where do you see brands kind of make mistakes in that period, in that zone where things go wrong? Yeah, I mean, a lot of times, you're right. It's usually like that five to 10 million range. They can go stale, run out of cash."
+    },
+    {
+      "start": 705.21,
+      "end": 732.67,
+      "text": "A lot of it is really just like, you know, to your point about Ryan, like doing it the second time. It's like not knowing what's ahead and not knowing where to put money or where to park your dollars or basically how to spend it, how to negotiate, what kind of vendors to use. Like so many brands just get ripped off using the wrong agency, wrong vendor, wrong SaaS provider. Two, three months of time are gone. That's two, three months of somebody's salary managing that. And then two, three months of those agency or vendor fees. So I think that's that five to 10 range."
+    },
+    {
+      "start": 732.83,
+      "end": 756.03,
+      "text": "And then the other range I see a lot is like 20 to 30 is another spot. And it's usually, you know, the plateaus I usually find are like, you know, first you got to get to a thousand bucks a day in revenue. And then you try to get to 2,500, then 5K, then 10K. Basically, like all these different tranches, they kind of add a different layer of complexity. But once you get past that 10K mark, like getting to 30K a day is a challenge. And then getting to maybe 100K a day is a different challenge completely."
+    },
+    {
+      "start": 756.33,
+      "end": 784.23,
+      "text": "And a lot of it is usually like people just are trying to do the same thing that got them to where they are, but they don't realize what they need to do on top of that to get to that next level. So, you know, when you're getting to, depending on the product you sell, when you're getting to that 5 million range or maybe even that 20 million range, you could have just done all of that through lower funnel, Facebook ads, you know, static ads, videos, whitelist, just all the stuff that you see on like D2C Twitter, for example. Very lower funnel, very performance marketing focused."
+    },
+    {
+      "start": 784.23,
+      "end": 812.43,
+      "text": "But like when you crack past that, you have to then shift into more brand and content and storytelling and product innovation and figuring out how you're going to tap into new audiences in a way that feels like you're actually coming in from the culture side versus like the side door of ads. That's where most brands like don't know where to go. I find that it's usually a combination of like, A, they just don't have that skill set internally. It's not an easy skill. Like most people don't have it, but then they don't get it. So they don't go and hire a consultant."
+    },
+    {
+      "start": 812.71,
+      "end": 842.29,
+      "text": "In my opinion, like for brand stuff, you probably want to just hire a consultant who's done it before a couple of times. Like that's usually your best bet. But then they also don't think about, OK, what do we do about top of funnel and like try to tap into new audience? You know, if we sell a weighted blanket or an air purifier, how do we speak to moms differently than the people who are really deep in the mold community versus older people who are maybe 65 plus and have asthma or whatever it is? Once you kind of hit your ceiling of performance after that is your point of diminishing returns. So then it starts to go back downhill a little bit."
+    },
+    {
+      "start": 842.53,
+      "end": 863.53,
+      "text": "But the way to combat that is then figuring out, OK, we got to find new, you know, new fresh land to go conquer, basically. So new audiences to go after. You have to figure out all the wedges and the angles. That's why when there are some brands that have completely gone through this and done it without having to go heavy on brand marketing. And those companies might be like an IM8. They might be a Rise Coffee. They might be a Grooms."
+    },
+    {
+      "start": 863.53,
+      "end": 883.47,
+      "text": "But they are kind of doing it without doing it because they're running a thousand ads that are testing tens or hundreds of different personas and angles and audiences at the same time. So they're doing it in a different way, just very kind of brute force with performance. But it still works because they're testing a bunch. So, yeah. So I feel like that's really where brands get stuck."
+    },
+    {
+      "start": 883.47,
+      "end": 912.57,
+      "text": "And then, to be honest, the other thing that I think a lot of people don't talk about is like most brands just don't hit the bar when it comes to design and UX and UI and visual identity that feels trustworthy. Like there are brands that are doing $10 to $20 million that can't get past their stage. And a big part of it is because they look like they were designed in 1970 and their site doesn't look trustworthy. And they can't seem to break into a new audience because no one wants to be associated with that. That's a big one that I see happen a lot."
+    },
+    {
+      "start": 912.57,
+      "end": 940.49,
+      "text": "I think it's only going to become a bigger thing with like the more AI that comes into the space. But I think like we see that, again, we work with hundreds of brands, right? And what we've seen is, I think to your point, your math works at a certain level of CAC. So in bottom funnel, you could run that. But depending on your brand, that will expire at some point. Now, what we see interesting for our businesses that we help, they have one or two choices. Or sometimes the really good ones do both, which is one, go global, right?"
+    },
+    {
+      "start": 940.53,
+      "end": 964.93,
+      "text": "So you could go to other markets and all of a sudden your bottom funnel just expanded. You could do UK, you could do Australia, you could do Canada, New Zealand. Now your performance marketing that you're aren't storytelling yet, you're finding more bottom funnel, the low-hanging fruit. But I think to your point, the best brands – and B2B businesses do this really well. You have to storytell. And once you storytell and you're selling the brand, then your blended CAC starts to – you could expand it that way."
+    },
+    {
+      "start": 965.01,
+      "end": 992.49,
+      "text": "But if you're not storytelling and you're just bottom funnel, just trying to grab a sale, there's only so many times you could do that. Totally. And there are ways to like do that in a smart way. Like B2B companies, I think, do it very well in the sense that they're always telling their story where they know their ICP is. Yeah. And so they're not kind of doing this like random spray and pray, which like on the B2C side is the first thought. Oh, let's run TV and billboards and branded urinal cakes or whatever it is."
+    },
+    {
+      "start": 992.67,
+      "end": 1022.29,
+      "text": "But like there's ways to do the B2B style of top of funnel in B2C. And it's basically whitelisting, content creators, clipping, advertorials, partnerships with publishers. Like those – it's very targeted. It's still very brand focused but also insanely measurable when it comes to performance. Shopify brands, this is the one. Roku Ads Manager lets you connect directly to your Shopify store and run streaming TV campaigns that can drive action, not just awareness."
+    },
+    {
+      "start": 1022.89,
+      "end": 1051.72,
+      "text": "Roku's positioned this as a big differentiator. Shoppable TV through action ads and their Shopify integration. If you want top of funnel on the big screen with a proper path to purchase, go to advertising.roku.com slash limited supply. You know what? Because I live on both sides, right? I ran a brand for eight years. Now I'm doing Portless. And to that point, the marketing team we hired at Portless versus the marketing team we hired at Browse, my DTC business, it's night and day."
+    },
+    {
+      "start": 1052,
+      "end": 1080.14,
+      "text": "But I've actually – and that's why I was so impressed with the B2B like education and marketing and branding. But I've actually haven't heard that from a DTC side. And the way you're saying is – because creators at one point was crazy. $10K for creator and you all of a sudden got $100K of revenue. But it feels like those days are gone too. And now you're getting way more sophisticated. So what does that look like? And you mentioned IM8, right? Which is – I think David Beckham is somehow involved there, right? So what are the best brands doing?"
+    },
+    {
+      "start": 1080.14,
+      "end": 1109.86,
+      "text": "And I guess you could throw in as well the – you've invested some really cool brands, Carraway, Feastables, many more. Are they doing this? And what does it look like? What is something that looked like for a brand? Yeah. I mean I think all these brands are kind of doing all the things I've mentioned here. Maybe if not actively right now, they did it at different stages. For example, advertorials. A lot of brands will use that as they catapult from maybe $30K to $300K million. But once they hit that $300K, maybe they don't need it as much because now they're running much larger scale stuff on the brand awareness side."
+    },
+    {
+      "start": 1109.86,
+      "end": 1137.86,
+      "text": "That then feeds itself right into retail and performance marketing, efficiency, and Amazon. I've always thought that this concept of performance branding is what e-commerce brands need to focus on. It's not performance marketing and it's not just brand because if you're just spending on brand, we all know that anytime there's any sort of pullback or the market is going down, brand budgets are the first to get cut. Brand marketers are the first to get let go. It's just how it is."
+    },
+    {
+      "start": 1137.86,
+      "end": 1155.06,
+      "text": "It's because there's no direct – you can't see on an Excel sheet that the $4 million you spent on billboards, TV, influencers, events, et cetera, you can't see the dollars that came back. Or the dollars you do see only really account for like a small percentage. And on the performance side, like I said earlier, you hit that ceiling relatively quick."
+    },
+    {
+      "start": 1155.06,
+      "end": 1173.18,
+      "text": "And if you don't kind of have like both sides pumping at the same time, meaning performance is constantly understanding what can you do better on the performance in the funnel, in subscription adoption, in email capture, in converting emails that you have. But on the brand side, you have to do the same thing. What are the new stories we're telling? What are the new punchlines?"
+    },
+    {
+      "start": 1173.3,
+      "end": 1199.64,
+      "text": "How do we make sure that every touch point from the ad to the website to the email that they get after they leave the site to the Google search that they put in once they get the email to the order thank you page to the box and the tape on the box and the insert? And then, you know, the customer service, how do you make sure that all of them sound consistent, cohesive? They're using the same messaging. They have the same tone of voice. That is really how you build a brand. And like building brand is something really that's just a function of time more than anything."
+    },
+    {
+      "start": 1199.82,
+      "end": 1226.8,
+      "text": "Like if you think of the best brands in the mall, Gucci or Prada or Louis Vuitton or Nordstrom, whatever it is, they've just been around much longer. And so they've had more time to build trust and social proof and people get excited and they tell each other about things. And like that really is building brand. There's no magical formula of run $200,000 of TV ads and $600,000 of outdoor advertising to build the brand. That's kind of like you're just trying to trade off in some way the length of time to build that brand."
+    },
+    {
+      "start": 1226.9,
+      "end": 1256.64,
+      "text": "But I really do think that like for brands today, like they have to be both performance marketing and brand marketing minded, which is why I call it performance branding. And in that definition, I think you can build brand equity on the back of your performance channels or your performance media. Like advertorial is a great example of it's all performance dollars, right? Being pushed behind that. You're optimizing for a purchase. But at the same time, you can tell 100 different stories across 20 different publishers targeting 15 different personas to sell the same product."
+    },
+    {
+      "start": 1256.82,
+      "end": 1283.74,
+      "text": "And those have 15 completely different reasons as to why somebody would buy it. So you still have attribution. You can still tie it. Yeah, exactly. But you're telling stories more than anything. Exactly. I was going to say the other thing I think has become so important is, and I don't even know if there's a way to measure this, but like, you know, if I was hiring like a head of growth, one of the most important things I'd want to know is how much context does this person have in their brain right now? Have they run ads at a crazy scale on meta, on Google? Have they tested YouTube?"
+    },
+    {
+      "start": 1283.74,
+      "end": 1311.16,
+      "text": "Have they been a part of the older programs where maybe they were using a shitty ads manager because there it showed you a little bit more of how each individual piece works? So now when it's a little more black box, you can understand how those pieces are working behind the scenes. Do they understand how to run Taboola ads? Do they understand how to brief creators? Do they understand how to move widgets around in Shopify or brief a developer or work with a UI designer? Do they even know what good design is in the first place? Or is their standard of design super low?"
+    },
+    {
+      "start": 1311.16,
+      "end": 1338.32,
+      "text": "So like these, as we get more towards agentic things or tools that are able to do more, I think it's so important that the people who are running this are insanely well versed in what is good for all these things and what is possible and what is doable. And how does it all work together behind the scenes? I remember seeing this, like when I worked at Hint, I had this title head of D2C, but everything I'm talking about was basically under my purview, like everything D2C related really."
+    },
+    {
+      "start": 1338.32,
+      "end": 1367.32,
+      "text": "And then like the second wave, you had more individual channel managers. You know, you had a Facebook person, you had a Google person, you have a Shopify person, you have an email person, you have a subscription person. And now we're basically going back the other way, which is like everything is sort of consolidating into one or two roles, maybe three max. Like the most common setup I see right now for brands doing 20 to 100 million is like two people who are kind of more senior, one more growth and acquisition, one more retention and life cycle."
+    },
+    {
+      "start": 1367.62,
+      "end": 1396.88,
+      "text": "And then maybe one or two assistants offshore who are kind of helping. And then they usually have either external vendors or they're using agentic stuff. We went from very small team, very big team, and now we're back to very small. And I think the nuance going back into the small is going to be that like measurement of how much context does this person have? You know, are they just coming from being a channel manager to now going into this head of growth role where they're going to have zero context of attribution, zero context of incrementality studies, zero context of how channels play together. And I see it a lot of times too."
+    },
+    {
+      "start": 1397,
+      "end": 1426.9,
+      "text": "Like I'll see people run programmatic ad tests thinking that they're believing the numbers coming back from those platforms just because they don't know any better from before, you know. And how have you seen tariffs affect the brands you work with? Like it's been rollercoaster, AIPA just struck down, great news, 10% versus right now versus 20%. Has that affected marketing? Has that affected, did you just raise prices? Like how have you seen the brands deal with that? Yeah, to be honest, I was pretty dumbfounded when it happened. How I've seen brands react to it is one is definitely raising prices. Like a lot of brands raise prices quietly."
+    },
+    {
+      "start": 1427.12,
+      "end": 1454.12,
+      "text": "And also there was not really much pushback from raising prices. Like conversion rate didn't dip. Some of the brands messaged and just were honest like, hey, we can't afford to have it at that price. We're bumping it up a couple dollars. I think it also made marketing efficiency a lot bigger of a topic in the sense that, you know, anything that was not showing really good results was basically just cut overnight. A lot of them have also shifted their team setup. So maybe they've reduced headcount internally."
+    },
+    {
+      "start": 1454.12,
+      "end": 1483.74,
+      "text": "A lot reduced headcount externally as well, meaning a lot of them cut agency partners or vendors. Or sometimes you have an agency that's like if you're spending half a million dollars, a million dollars a month, maybe you have like an agency that's 10K a month. You just kept on because it's 10K a month. And like you get a couple of things. All those guys are cut. Yeah. Kind of forced everybody to just rethink what are we doing? What are our numbers look like on a daily basis? At the same time, I think it's also prompted a lot of brands to figure out, okay, what is our like this tariff thing? We should have been prepared for this."
+    },
+    {
+      "start": 1483.86,
+      "end": 1510.74,
+      "text": "There's no reason that we should be bloated in the first place. And something like that made us realize that we were too bloated. So like what is our scalable and really intelligent but still efficient team look like going into the future? And that's really where I see that like two plus two setup. The two senior people onshore and two like senior insanely smart people offshore as well. It's crazy that the days of smaller teams getting sexier, right? The one person selling their sass is sexy. Yeah."
+    },
+    {
+      "start": 1510.84,
+      "end": 1537.44,
+      "text": "It used to be like people would brag about the office with how many people and what water cooler subscription they have and what snacks they got in the office. And now it's like, oh, that sounds like the biggest headache in the world. You know, I got two people and we do everything. Two people plus Claude. Yeah, exactly. You know what? And there was like there was the COVID chaos, which I think there was tons of free money. Venture was throwing money everywhere. Venture pulled back. People got tighter. Tariffs came in. And it got even tighter. But you know what? AI is supporting that, right?"
+    },
+    {
+      "start": 1537.54,
+      "end": 1567.3,
+      "text": "And I think that's the new sexy, like tight, small, profitable businesses. The people that are really at risk, in my opinion, are the average Shopify e-commerce manager or like, you know, supply chain and logistics manager who is just like not immersing themselves in all these new tools. Because the expectation of productivity, if it's not already higher, it's going to actually be a gold standard across the industry. I think like right now, you and I were just talking before this."
+    },
+    {
+      "start": 1567.3,
+      "end": 1594.18,
+      "text": "It still feels kind of early in e-commerce. But I think in six months' time, for sure, if not sooner, there is going to be a new standard industry-wide that everybody's going to feel in terms of what your expected output is. And if you're at a brand and doing the bare minimum, like you're about to be out of a job for sure. Completely out of a job. And I would say there are the people that are naturally leaning in and the people kind of refusing to adopt. It's kind of like early-day computers. Like, I don't want to touch a computer. Typewriter. You're going to be out of a job."
+    },
+    {
+      "start": 1594.18,
+      "end": 1623.88,
+      "text": "And, you know, on the AI topic, there's almost so much AI solutions out there. But I think for brand owners, and you mentioned that you've seen and we've seen it, I'm not seeing them adopt as fast as I would like to see them adopt. So if you are advising a brand owner, like what's the first three or two, three pieces of software that they should be looking at? Or I don't know if it's LLMs or if it's specific e-commerce focus software. Because like on the programming side, there's cursor, there's clock code. It's endless. But for e-commerce specific, I don't know if it's as clear."
+    },
+    {
+      "start": 1624.14,
+      "end": 1652.02,
+      "text": "Do you point to specific softwares or providers? This is like what I would recommend. One is like a lot of people haven't started because it's quite intimidating how the rate of innovation and how fast things are coming out. And when something does come out, it's like the biggest deal of the day. You know, like when Cloud Code came out or Cloud Cowork comes out, it's like the thing that everybody talks about for two days. When CloudBot came out, it's like one week straight of the timeline was just CloudBot. And so I think it's like intimidating to people because they don't know where to start or they feel like they're not technical."
+    },
+    {
+      "start": 1652.02,
+      "end": 1673.26,
+      "text": "But to be honest, the only way is like you got to sit down, grab a drink and just dedicate two hours of, you know, knowing that something may not come out of this. You may do absolutely nothing, but you got to spend those two hours and just play around with it. Most people will start with ChatGPT. That's like the Apple of the industry. Beautiful design, very simple to use, meant for really anybody."
+    },
+    {
+      "start": 1673.7,
+      "end": 1700.88,
+      "text": "And then where I think if you're a brand founder, what I would recommend you do is there's a good chance you're already recording all of your calls, whether it's with an agency, internally, whatever it may be. Cloud is basically like another LLM. So competitor to like a ChatGPT. I think of OpenAI kind of as like your buddy, like your buddy where you're not really talking much work. It's more like I use OpenAI mostly just on my phone when I'm looking for something quick. And then Cloud, I think of like as my buddy at work."
+    },
+    {
+      "start": 1700.88,
+      "end": 1729.92,
+      "text": "So my coworker, so what I do and anybody can do this is Cloud's got this thing called connectors. And the whole idea to make your LLM work as best as possible for you is you want to feed it as much data as possible. So recently, Cloud just added a connector, for example, with Fireflies, which is one of the call recording widgets that comes into your Google Meet or Zoom. And so before I used to download the transcript of every single call I would have and throw it into Cloud just so it has context. And now there's a connector which does it automatically."
+    },
+    {
+      "start": 1729.92,
+      "end": 1754.22,
+      "text": "If you don't want to connect your Gmail, some people are weird about that. You should do your Google Calendar, your Slack messages, your Fireflies, your Google Docs, Google Drive. Basically anywhere you've got majority of your context and information sitting is worth connecting into Cloud. And then what's crazy is like let's say you're a paid media manager and you've got all this context or you're a founder. You've got all this context sitting in your Cloud."
+    },
+    {
+      "start": 1754.46,
+      "end": 1783.78,
+      "text": "You can shorten that decision-making process because you don't have to think about all the things and all the things that could go wrong or all the things that could go right or all the nuances. Cloud already has it and Cloud will never forget that. Most people think of the AI LLMs as like the brain, but it's really like a second brain of yourself that you have to constantly feed and constantly train. I think it's only gotten this good the last four to six months. Like if you tried it in 2023 or 2024, even in early 2025, it's not the same. It's not the same."
+    },
+    {
+      "start": 1783.78,
+      "end": 1812.98,
+      "text": "And I think that time too was like, oh, we can write Facebook ad copy, but it all sounds like shit. It really evolved. And what do you think about the app store, Shopify app store? Brands, Yopo or the many ones, great companies. But now apparently there's a backlog of applications to the Shopify store. Then you just have to wait because everyone just is pumping out apps. Do you see a world where like e-com players back, you know, lean is sexy, start replacing apps with their own in-house application layers? Totally. It's already happening slowly."
+    },
+    {
+      "start": 1813.18,
+      "end": 1840.48,
+      "text": "Like some brands are starting to do it. You know, some things as simple as the cart upsell, the checkout blocks, the bundle builder on their page. You know, they're no longer using an app. They're just like, they've coded it. They add it in and it works. There was like this point, there was like a rollup of apps, like one app doing everything. Now there's like, no, I'll just do my own app. Those guys are cooked. Those guys, I mean, some of those companies raised a few hundred million. I still think there's going to be a market for sure where call it the true classics and bigger."
+    },
+    {
+      "start": 1840.72,
+      "end": 1870.54,
+      "text": "They're going to be like, we're not dealing with the privacy issues, the data breach issues. These guys say they've got that. So we're going to trust that. I think adoption is going to be a little bit slower in the e-commerce world. But like the brands that I look at and think, oh, these guys are always ahead of the curve. They're already doing that. And they're already starting to do that. Even I was talking to Cody from Jones Road. Like he himself is building modules of the website that he's designing, coding and putting in within, you know, an hour. It's crazy. You know, people are now hiring. I think, I think he posted on Expo. We're doing it too."
+    },
+    {
+      "start": 1870.74,
+      "end": 1898.58,
+      "text": "We're hiring just VP of AI. Like all you got to do is look at every single part of the business. What can we improve? What can we add? But to be honest, even I feel like that's crazy because like, I feel like I could go do that VP of AI role. And I've been like really immersed in it for like two months. Like anybody can literally start and become an expert in this. We have to do it. Not everyone's doing it. You just have to do it. Yeah. You just have to do it. Okay. Predictions. Let's talk five years from now. How are brands do you think are doing? What are they doing differently in five years from now? We already know today's lean."
+    },
+    {
+      "start": 1898.7,
+      "end": 1926.24,
+      "text": "Lean is the new sexy and time to market or time for speed. Anything different in five years from now? What does e-commerce look like in five years from now if you had to make a prediction? Much of it will be the same in terms of like shopping habits. I think one thing from the brands is going to be hugely different is like most brands do majority performance marketing and like 5% brand marketing. I think it's going to be the other way around because shopping will become more intent based and chat based. And the only thing that's going to pop into people's head is like what's the brand they remember?"
+    },
+    {
+      "start": 1926.68,
+      "end": 1950.62,
+      "text": "Like they're going to choose brands based on stories more. I also think at the same time like the commoditized products, the brands are going to be either obsolete or gone. You're not going to care where your Tupperware comes from or whatever it may be. I think we're going to have a $100 million brand run by two people in the next like two years. Crazy. I guess that is the biggest move here, right? It is the AI, either robotics or at any level. What that will do?"
+    },
+    {
+      "start": 1950.62,
+      "end": 1978.1,
+      "text": "And I mean even like last year, I remember like I talked to one company, they're generating about $70 million of profit as a managed service slash agency. They had fully automated media buying, creative production, copywriting, goes into the ad account, sees what's working, makes all like it does that whole thing. That company is valued at crazy valuation. And you know, you have to spend an ungodly amount of money to be on their platform and do that."
+    },
+    {
+      "start": 1978.22,
+      "end": 2007.26,
+      "text": "But like that whole concept is now doable yourself with Claude Code, for example. How that transcends and how the adoption of that, like how fast people are going to be to jump on and start doing things themselves will completely change. I think like it's crazy to think five years ahead. I think a year from now, it's going to be a completely different world, both in terms of like how brands are operating, you know, what the team setup looks like inside the brand. I think to your point, like profitable, healthy businesses is the future."
+    },
+    {
+      "start": 2007.72,
+      "end": 2036.04,
+      "text": "AI, portless supply chain, how you're buying inventory, how you're hiring, who you're hiring. I fully agree. That is the future. Running leaner, meaner businesses. Nik, this is an awesome conversation. Where can people follow you? Where can people connect with you? Easiest is Twitter, at Mr. Sharma on Twitter. You can hit me on LinkedIn or email is just nik at nik.co, N-I-K. Awesome. Nick, thank you so much. Thank you. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce."
+    },
+    {
+      "start": 2036.34,
+      "end": 2042.3,
+      "text": "If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

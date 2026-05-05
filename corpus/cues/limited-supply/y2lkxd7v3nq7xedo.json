@@ -1,0 +1,2409 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 29.98,
+      "text": "I thought it was genius that they had that at the exit intent level. So as soon as you're about to leave, it's like, hey, give us your email and your birthday because X, Y, or Z. So I thought that was really smart. I'm surprised more brands actually don't use the exit intent pop ups. It's something that I feel like was huge when I was doing the publisher arbitrage, like driving clickbait traffic from Facebook to these publisher sites that had slideshows littered with ads. They always had exit intent ad units that would pop up."
+    },
+    {
+      "start": 30,
+      "end": 40.94,
+      "text": "to make them extra revenue or exit intent email captures to try to get you on their email list to come back to see more things. But I haven't seen a lot of brands do it and I'm not exactly sure why."
+    },
+    {
+      "start": 43.74,
+      "end": 52.74,
+      "text": "Welcome to Limited Supply, the place for refreshingly real takes on what D2C is really like. I'm your host, Nik Sharma. Let's start talking about money."
+    },
+    {
+      "start": 54.12,
+      "end": 61.56,
+      "text": "I'm so excited to take a second and talk about this season sponsor, Motion. If you don't already use it, Motion is a SaaS tool that launched three years ago."
+    },
+    {
+      "start": 61.56,
+      "end": 69.64,
+      "text": "I even invested in the company pre-launch just based on how they were thinking about creative analytics. Today, Motion is a no brainer tool to use in your marketing stack."
+    },
+    {
+      "start": 70.1,
+      "end": 78.44,
+      "text": "Yes, it's creative analytics. Yes, it lets you track your competitors ads. Yes, it has the most beautiful UX and UI to report your ad performance."
+    },
+    {
+      "start": 78.7,
+      "end": 85.24,
+      "text": "But let me tell you how people at Sharma Brands describe Motion. So I asked my team in Slack, why do you like Motion? And here are the answers."
+    },
+    {
+      "start": 85.24,
+      "end": 93.54,
+      "text": "The first reply says, it's really moldable. You can use it for high level, more creative driven analytics or get really granular into the media buying analytics and data."
+    },
+    {
+      "start": 93.78,
+      "end": 98.92,
+      "text": "It's a super accessible platform for all use cases and I think it brings our creative and paid teams together."
+    },
+    {
+      "start": 99.3,
+      "end": 104.62,
+      "text": "The second reply says, it unites everyone, agency and client, creative and paid, founder and marketer."
+    },
+    {
+      "start": 104.62,
+      "end": 110.2,
+      "text": "It's so dang easy to understand that everyone really can grip performance and speak the same growth language."
+    },
+    {
+      "start": 110.38,
+      "end": 115.08,
+      "text": "The third reply says, I love being able to reference prior campaigns using their filters."
+    },
+    {
+      "start": 115.3,
+      "end": 119.72,
+      "text": "And I love that we can use data from the past to make educated decisions on future content."
+    },
+    {
+      "start": 119.72,
+      "end": 122.78,
+      "text": "As you can tell, we can't live without motion at Sharma Brands."
+    },
+    {
+      "start": 122.84,
+      "end": 125.44,
+      "text": "And once you see a demo, I bet you won't be able to either."
+    },
+    {
+      "start": 125.96,
+      "end": 130.96,
+      "text": "Visit motionapp.com to get 50% off your first month when you mentioned limited supply to their sales team."
+    },
+    {
+      "start": 131.2,
+      "end": 137.38,
+      "text": "Again, that's motionapp.com to get 50% off your first month when you mentioned limited supply to their sales team."
+    },
+    {
+      "start": 142.98,
+      "end": 144.9,
+      "text": "Welcome back to limited supply."
+    },
+    {
+      "start": 145.3,
+      "end": 149.6,
+      "text": "Today's episode is going to be a little bit different because I'm recording this one on the fly."
+    },
+    {
+      "start": 149.6,
+      "end": 153.46,
+      "text": "We are right in between Black Friday and Cyber Monday."
+    },
+    {
+      "start": 153.76,
+      "end": 159.04,
+      "text": "There's a bunch of things that are sort of popping up and, you know, consuming people's minds."
+    },
+    {
+      "start": 159.36,
+      "end": 161.64,
+      "text": "Black Friday obviously being the biggest thing."
+    },
+    {
+      "start": 161.98,
+      "end": 169.8,
+      "text": "It looks like we've had a record breaking Black Friday for Shopify, for Amazon, according to different articles on the internet,"
+    },
+    {
+      "start": 169.92,
+      "end": 178.62,
+      "text": "or actually according to Adobe Analytics, shoppers spent almost $11 billion on Friday, which is 10% more than last year."
+    },
+    {
+      "start": 179.12,
+      "end": 188.82,
+      "text": "And they're anticipating that Cyber Monday was going to be another record of, I believe, close to $13 billion, which is also up from last year."
+    },
+    {
+      "start": 189.92,
+      "end": 192.76,
+      "text": "I didn't realize how much bigger Cyber Monday is."
+    },
+    {
+      "start": 193,
+      "end": 196.5,
+      "text": "I mean, I guess I see it individually, but I've never thought of that collectively."
+    },
+    {
+      "start": 196.5,
+      "end": 202.36,
+      "text": "I've always thought that because it's retail on Black Friday, that it's going to be much bigger than Cyber Monday."
+    },
+    {
+      "start": 202.36,
+      "end": 207.26,
+      "text": "But anyways, for today's episode, I want to go through a couple of things."
+    },
+    {
+      "start": 207.26,
+      "end": 208.82,
+      "text": "Obviously, talk about Black Friday."
+    },
+    {
+      "start": 209.9,
+      "end": 214.72,
+      "text": "I want to talk about some of the things I really liked that brands did on Black Friday that I thought was really interesting."
+    },
+    {
+      "start": 215.02,
+      "end": 221.5,
+      "text": "Things that set themselves apart and sort of differentiated them from the rest of their competition."
+    },
+    {
+      "start": 222.08,
+      "end": 224.82,
+      "text": "I want to talk about what I saw from a performance standpoint."
+    },
+    {
+      "start": 225,
+      "end": 231.94,
+      "text": "I want to talk about some of the meta and health news that's come out around targeting specific medical conditions."
+    },
+    {
+      "start": 233.74,
+      "end": 240.86,
+      "text": "And then if we've got any time left, we can chat about something called App Lovin', which everybody's been talking about."
+    },
+    {
+      "start": 240.86,
+      "end": 248.94,
+      "text": "It's the new channel that is scaling usually as the second biggest spending channel for some brands in our network."
+    },
+    {
+      "start": 249.14,
+      "end": 251.08,
+      "text": "So that's what we're going to talk about today."
+    },
+    {
+      "start": 251.4,
+      "end": 253.46,
+      "text": "But I want to first talk about Black Friday."
+    },
+    {
+      "start": 253.74,
+      "end": 258.4,
+      "text": "So from everything I saw, Black Friday was a huge success."
+    },
+    {
+      "start": 259.28,
+      "end": 265.04,
+      "text": "Most of our brands were scaling on a daily basis, anywhere from 20 to 50 percent in budgets."
+    },
+    {
+      "start": 266.06,
+      "end": 269.12,
+      "text": "The best performing creative, I'm curious to see what you guys saw."
+    },
+    {
+      "start": 269.12,
+      "end": 278.24,
+      "text": "Also, as you're listening to this, if you hear something I say and you want to rebuttal it, you want to respond to it, you want to add to it, shoot me a DM on Twitter or shoot me an email."
+    },
+    {
+      "start": 278.4,
+      "end": 280.26,
+      "text": "Just n at Sharma dot com is my email."
+    },
+    {
+      "start": 282.16,
+      "end": 289.82,
+      "text": "And so Black Friday, we saw CPMs were up quite a bit, anywhere from 60 to 90 percent in some accounts, which was pretty crazy."
+    },
+    {
+      "start": 290.8,
+      "end": 297.54,
+      "text": "Conversion rate was up anywhere from probably 20 to, well, some brands saw 100 percent."
+    },
+    {
+      "start": 297.54,
+      "end": 300.26,
+      "text": "We have one brand that converts right around seven and a half percent."
+    },
+    {
+      "start": 300.56,
+      "end": 304.54,
+      "text": "They hit a peak of 14 percent on their conversion rate on their site."
+    },
+    {
+      "start": 305.8,
+      "end": 309.18,
+      "text": "That's macro conversion rate from Shopify, not just a specific channel."
+    },
+    {
+      "start": 310.32,
+      "end": 314.96,
+      "text": "Most brands that were not beauty had a pretty successful Black Friday."
+    },
+    {
+      "start": 315.2,
+      "end": 323,
+      "text": "For some reason, beauty brands did not have a huge Black Friday, at least from the beauty brands that I had visibility into."
+    },
+    {
+      "start": 323,
+      "end": 330.1,
+      "text": "I think that that was probably due to just the offer not being good enough or fresh enough or as unique."
+    },
+    {
+      "start": 330.38,
+      "end": 337.48,
+      "text": "I think it's also kind of hard to just stock up on a lot of beauty products because they have expiration dates and seasons change."
+    },
+    {
+      "start": 337.66,
+      "end": 342.18,
+      "text": "People want different shades of foundation or they want different shades of eyeliner, whatever it is."
+    },
+    {
+      "start": 342.18,
+      "end": 346.42,
+      "text": "I'm not really sure. I don't do that stuff, but that is my hypothesis."
+    },
+    {
+      "start": 347.6,
+      "end": 349.32,
+      "text": "Supplements had a really good Black Friday."
+    },
+    {
+      "start": 349.5,
+      "end": 359.54,
+      "text": "Obviously, the beauty of supplements is, you know, you can scale really hard and be slightly break even or below break even if you're really confident in your returning customer rate."
+    },
+    {
+      "start": 360.78,
+      "end": 371.2,
+      "text": "Emails and text messages proved to be an amazing last minute winning, last minute sort of like way to get revenue in last second."
+    },
+    {
+      "start": 371.36,
+      "end": 374.4,
+      "text": "We sent a lot of amazing emails out last night."
+    },
+    {
+      "start": 374.4,
+      "end": 382.82,
+      "text": "In fact, one of my favorite lines of copy that we used was, you know, today this is the price, tomorrow prices go up."
+    },
+    {
+      "start": 382.96,
+      "end": 392.66,
+      "text": "That subject line and that sort of messaging positioning for Cyber Monday at least did really well to bring in some more deals or sorry, some more sales."
+    },
+    {
+      "start": 394.9,
+      "end": 402.66,
+      "text": "We saw a lot of good conversations in different group chats, whether brands were, you know, they're normally doing $100,000 a month."
+    },
+    {
+      "start": 402.84,
+      "end": 403.98,
+      "text": "They're normally doing a million a month."
+    },
+    {
+      "start": 404.12,
+      "end": 413.5,
+      "text": "They're normally doing 10 million a month or they're doing, you know, we had some brands do 10 million in a day, but everybody had a really successful Black Friday."
+    },
+    {
+      "start": 413.7,
+      "end": 417.6,
+      "text": "I'll tell you what the biggest commonality was about brands that did well during Black Friday."
+    },
+    {
+      "start": 417.6,
+      "end": 426.26,
+      "text": "They, the brands that felt really prepared going into Black Friday, as in they felt confident that their offer, they had a good offer."
+    },
+    {
+      "start": 426.46,
+      "end": 429.08,
+      "text": "They felt confident in their website, UX and UI."
+    },
+    {
+      "start": 429.28,
+      "end": 434.46,
+      "text": "They felt confident in their email flows, their campaigns, the ad creative that they put out."
+    },
+    {
+      "start": 434.58,
+      "end": 436.7,
+      "text": "They felt confident that they had a good creator platform."
+    },
+    {
+      "start": 438.46,
+      "end": 447.72,
+      "text": "Those were the things, those were the brands I would say that performed really well and, and essentially crush Black Friday."
+    },
+    {
+      "start": 448.06,
+      "end": 450.62,
+      "text": "They, you know, they focused heavily on retargeting."
+    },
+    {
+      "start": 450.8,
+      "end": 465.54,
+      "text": "They weren't necessarily going for a prospect or I should say like net new prospecting in the sense that they weren't going after people who had only just heard about the brand and then decided to buy it at a deal or on a discount."
+    },
+    {
+      "start": 466.28,
+      "end": 474.32,
+      "text": "Instead, they were going after brands that, or sorry, they were going after customers who had interacted with the brand at some point before."
+    },
+    {
+      "start": 475.02,
+      "end": 487.44,
+      "text": "You know, either through post engagement, through site traffic, through interacting with an ad in the past, you know, maybe on social organically."
+    },
+    {
+      "start": 488.56,
+      "end": 491.5,
+      "text": "And, and those were the customers that really came in."
+    },
+    {
+      "start": 491.66,
+      "end": 503.38,
+      "text": "It was probably, I'd say like a 70-30 split in terms of maybe even 75% of the customers that have come in are all customers that have in the past interacted with the brand at some point."
+    },
+    {
+      "start": 503.38,
+      "end": 511.46,
+      "text": "The other thing that I thought was done really well was how some brands were taking advantage of TikTok."
+    },
+    {
+      "start": 512.32,
+      "end": 517.38,
+      "text": "So I'll talk about it in a second when I get into some of my favorite examples."
+    },
+    {
+      "start": 517.78,
+      "end": 529.98,
+      "text": "But on TikTok, there was not only brands that did a phenomenal job when it came to product seeding and talking about, you know, getting, getting creators to talk about the Black Friday deals that they're running."
+    },
+    {
+      "start": 529.98,
+      "end": 535.44,
+      "text": "There was also a bunch of brands who executed TikTok shop really well."
+    },
+    {
+      "start": 535.64,
+      "end": 545.5,
+      "text": "You know, they had promotions running, they had flash sales, they had different bundles for Black Friday, they updated their product image carousel to reflect the deal."
+    },
+    {
+      "start": 545.5,
+      "end": 560.9,
+      "text": "They had essentially, you know, all of the different landing page modules you would want, but in that carousel, some brands even did a really good job building mini landing pages within the TikTok shop description because you can add combinations of text blocks and image blocks."
+    },
+    {
+      "start": 561.1,
+      "end": 570.82,
+      "text": "And so essentially they use text blocks and then they grabbed images that essentially represent landing page modules and put those in between the text blocks, which I thought was really smart."
+    },
+    {
+      "start": 574.12,
+      "end": 578.82,
+      "text": "And then the last piece of that was brands that did a really good job on TikTok live."
+    },
+    {
+      "start": 579.08,
+      "end": 591.9,
+      "text": "So whether they were going live themselves and live streaming their sale or promoting the sale, the products that they're running, or it was them essentially doing this on an affiliate level."
+    },
+    {
+      "start": 592.04,
+      "end": 597.84,
+      "text": "So it's not the brand that's directly selling the product from their own account, but they've got all these other affiliates."
+    },
+    {
+      "start": 597.84,
+      "end": 609.44,
+      "text": "Or the third version was brands that sell on TikTok shop do not allow affiliates to join and sell, AKA, you know, me as a creator account on TikTok."
+    },
+    {
+      "start": 609.6,
+      "end": 615.02,
+      "text": "When I open up the TikTok shop, most products say, you know, earn an affiliate commission to sell this product."
+    },
+    {
+      "start": 615.92,
+      "end": 633.46,
+      "text": "There were some brands that did not allow that, but we're going live on TikTok with legitimate celebrities and huge influencers to exclusively promote their products on live, but not the general kind of like creator pool on TikTok."
+    },
+    {
+      "start": 633.46,
+      "end": 636.42,
+      "text": "So all three were really unique and really well done."
+    },
+    {
+      "start": 637.46,
+      "end": 641.46,
+      "text": "But for today's episode, I actually put together a list."
+    },
+    {
+      "start": 641.58,
+      "end": 643.88,
+      "text": "I actually wrote this in a newsletter and sent it out."
+    },
+    {
+      "start": 644,
+      "end": 644.9,
+      "text": "There's a bunch of examples."
+    },
+    {
+      "start": 645.1,
+      "end": 651.62,
+      "text": "And if you want to see all these examples, I've got links for everything I'm about to talk about."
+    },
+    {
+      "start": 651.98,
+      "end": 653.44,
+      "text": "They're all Docsend links."
+    },
+    {
+      "start": 653.44,
+      "end": 668.98,
+      "text": "So I'm not taking you to the brand site because these these site banners or the holiday shops or these drops or whatever I'm about to talk about has potentially been taken down by now because you're listening to this during Cyber Week or after Cyber Week."
+    },
+    {
+      "start": 669.24,
+      "end": 678.44,
+      "text": "So if you want to see all the links for this, join the limited supply Slack group and we're going to put it in the general channel there."
+    },
+    {
+      "start": 678.44,
+      "end": 684.84,
+      "text": "So it'll be there in general chat and either general chat or announcements."
+    },
+    {
+      "start": 685.1,
+      "end": 686.72,
+      "text": "So join there and you'll be able to see all these examples."
+    },
+    {
+      "start": 686.92,
+      "end": 687.96,
+      "text": "So let me get into it."
+    },
+    {
+      "start": 688.04,
+      "end": 697.94,
+      "text": "So the first one that I thought was sort of obvious, but surprisingly, most brands did not end up participating in it was creating a holiday shop."
+    },
+    {
+      "start": 698.2,
+      "end": 707.22,
+      "text": "I don't know how most so many people did not create a holiday shop, but, you know, you you're essentially it's not even creating a holiday shop."
+    },
+    {
+      "start": 707.22,
+      "end": 710.3,
+      "text": "It's not it's not like you're creating a micro site or any of anything of that sort."
+    },
+    {
+      "start": 710.5,
+      "end": 718.16,
+      "text": "You're really just creating a landing page experience where you've you've curated what products are there, what messaging is there."
+    },
+    {
+      "start": 718.28,
+      "end": 721.4,
+      "text": "You've probably got some holiday like photography holiday like messaging."
+    },
+    {
+      "start": 721.6,
+      "end": 723.24,
+      "text": "Some messaging focus on gifting."
+    },
+    {
+      "start": 723.84,
+      "end": 738.32,
+      "text": "Why other, you know, messaging even that is not necessarily talking about benefits or value props that you would, you know, have for yourself, but something that's easy to read and then regurgitate to somebody else as you're gifting the product."
+    },
+    {
+      "start": 738.32,
+      "end": 742.38,
+      "text": "So anyways, highly recommend the holiday shops."
+    },
+    {
+      "start": 742.5,
+      "end": 746.78,
+      "text": "The one that I put in this example was for Lemmy, which is Courtney Kardashian's supplement brand."
+    },
+    {
+      "start": 746.92,
+      "end": 750.18,
+      "text": "They had a beautiful holiday shop page."
+    },
+    {
+      "start": 750.52,
+      "end": 752.5,
+      "text": "It was a one stop shop experience."
+    },
+    {
+      "start": 752.5,
+      "end": 758.14,
+      "text": "It had everything from its hero banner, which, you know, had beautiful holiday like photography."
+    },
+    {
+      "start": 758.14,
+      "end": 763.3,
+      "text": "And you know me if if you've listened to this podcast before, you know how much I love good brand photography."
+    },
+    {
+      "start": 763.5,
+      "end": 767.52,
+      "text": "I think it adds a ton of credibility and trust to the brand itself."
+    },
+    {
+      "start": 767.82,
+      "end": 787.32,
+      "text": "And I think especially for a brand that is e-commerce only one of the best things you can do to build that sort of trust and social proof is have high quality photography because only a low quality brand or a brand that, you know, isn't legit would have product renders only or kind of like not cohesive."
+    },
+    {
+      "start": 787.32,
+      "end": 788.84,
+      "text": "Not really high quality imagery."
+    },
+    {
+      "start": 789.12,
+      "end": 791.88,
+      "text": "So I think that good photography adds a lot of trust."
+    },
+    {
+      "start": 792.3,
+      "end": 805.04,
+      "text": "It also contributes to building the brand and this holiday landing page or holiday shop specifically also did a beautiful job with iconography, with animations, with motion graphics."
+    },
+    {
+      "start": 805.8,
+      "end": 808.8,
+      "text": "And so I just thought it was a really beautifully done page."
+    },
+    {
+      "start": 808.92,
+      "end": 810.14,
+      "text": "It started with the hero."
+    },
+    {
+      "start": 810.42,
+      "end": 817.3,
+      "text": "It had very quickly you could choose between you want bundles, you want apparel, you want to shop by benefit, you want to shop by product type, you want something."
+    },
+    {
+      "start": 817.3,
+      "end": 818.16,
+      "text": "It's stocking stuffers."
+    },
+    {
+      "start": 818.32,
+      "end": 824.46,
+      "text": "So making it very convenient, sort of creating that red carpet like landing page experience."
+    },
+    {
+      "start": 825.72,
+      "end": 829.24,
+      "text": "And and they not only had that, but they had holiday messaging throughout."
+    },
+    {
+      "start": 829.48,
+      "end": 832.9,
+      "text": "So, for example, one of the products they sell is let me chill, which is a de-stressing gummy."
+    },
+    {
+      "start": 833.32,
+      "end": 840.6,
+      "text": "And, you know, they added this module in between that says stress less this holiday season, cozy up and wind down with let me chill gummies, blah, blah, blah, blah, blah."
+    },
+    {
+      "start": 840.6,
+      "end": 857.6,
+      "text": "You know, just figuring out how you can reposition a product within the context of how somebody is shopping is such an amazing framework to again, just just kind of like immerse somebody more into that holiday experience or or whatever promotion you're running."
+    },
+    {
+      "start": 857.6,
+      "end": 867.52,
+      "text": "Maybe it's holiday, maybe it's Easter, maybe it's Memorial Day, maybe it's Labor Day, you know, in the same way you could take this let me chill example and you could talk about let me chill during, you know, Christmas time."
+    },
+    {
+      "start": 867.68,
+      "end": 868.72,
+      "text": "Oh, your family's coming home."
+    },
+    {
+      "start": 868.9,
+      "end": 870.88,
+      "text": "You're going to need to take some of these gummies."
+    },
+    {
+      "start": 870.88,
+      "end": 872.34,
+      "text": "Oh, summer's coming up."
+    },
+    {
+      "start": 872.48,
+      "end": 873.48,
+      "text": "You know, there's so much going on."
+    },
+    {
+      "start": 873.62,
+      "end": 874.6,
+      "text": "You're going to want to take these gummies."
+    },
+    {
+      "start": 874.78,
+      "end": 880.58,
+      "text": "So leveraging that framework across different different promotions is really easy to do."
+    },
+    {
+      "start": 881.02,
+      "end": 886.6,
+      "text": "They also sold some merch, then they sold shop by benefit and then just sort of a grid of their top selling products."
+    },
+    {
+      "start": 886.8,
+      "end": 889.76,
+      "text": "So anyways, I thought the the Lemmy holiday shop was amazing."
+    },
+    {
+      "start": 890.36,
+      "end": 891.8,
+      "text": "You should check it out in the slack."
+    },
+    {
+      "start": 891.96,
+      "end": 893.86,
+      "text": "There's a whole video recording of the full page."
+    },
+    {
+      "start": 894.02,
+      "end": 900.12,
+      "text": "The next one was something that Lemmy site also did, but I first found it on the mirror mate website."
+    },
+    {
+      "start": 900.9,
+      "end": 910.2,
+      "text": "So mirror mate.com, they had this really beautiful holiday banner and it did a good job sort of just outlining the entire promotion for the holiday."
+    },
+    {
+      "start": 910.38,
+      "end": 912.64,
+      "text": "It looks like the banners already been taken down now."
+    },
+    {
+      "start": 913.52,
+      "end": 916.82,
+      "text": "But again, if you click the link in slack, then you'll see it's still there."
+    },
+    {
+      "start": 917.68,
+      "end": 922.14,
+      "text": "But this basically had a really beautifully designed, you know, holiday like graphic."
+    },
+    {
+      "start": 922.66,
+      "end": 925.66,
+      "text": "And it said the big sale 25% off now through Cyber Monday."
+    },
+    {
+      "start": 926.44,
+      "end": 930.94,
+      "text": "Very clearly outlined the offer, you know, 20% off one frame, 25% off two or more frames."
+    },
+    {
+      "start": 931.18,
+      "end": 932.12,
+      "text": "Very simple offer."
+    },
+    {
+      "start": 932.28,
+      "end": 938.64,
+      "text": "That's another thing I should mention that brands that crush Black Friday did a good job of is they just had very, very stupid, simple offers."
+    },
+    {
+      "start": 939.08,
+      "end": 940,
+      "text": "Nothing was complicated."
+    },
+    {
+      "start": 940.58,
+      "end": 944.04,
+      "text": "Nothing was, you know, too hard to do the math on."
+    },
+    {
+      "start": 944.26,
+      "end": 946.38,
+      "text": "Nothing was like if you get this, then you get that."
+    },
+    {
+      "start": 946.48,
+      "end": 949.06,
+      "text": "Or if you if you hit this threshold, then you unlock this."
+    },
+    {
+      "start": 949.06,
+      "end": 950.78,
+      "text": "But if you hit a different threshold, you hit that."
+    },
+    {
+      "start": 951.12,
+      "end": 952.34,
+      "text": "You know, it was all very simple."
+    },
+    {
+      "start": 952.46,
+      "end": 954.56,
+      "text": "And those were the ones that did the best ultimately."
+    },
+    {
+      "start": 955.26,
+      "end": 957.22,
+      "text": "But again, this was a site wide banner."
+    },
+    {
+      "start": 957.6,
+      "end": 961.22,
+      "text": "Every page you shop on it has this at the top right underneath the navigation bar."
+    },
+    {
+      "start": 961.36,
+      "end": 969.06,
+      "text": "So it probably takes just slightly more than the navigation bar's height and puts it right below, which obviously shrinks what you're above the fold can look like."
+    },
+    {
+      "start": 969.3,
+      "end": 972.58,
+      "text": "However, it just does a really good job of explaining the promotion."
+    },
+    {
+      "start": 972.58,
+      "end": 975.4,
+      "text": "And and I know they had a phenomenal Black Friday."
+    },
+    {
+      "start": 975.58,
+      "end": 977.2,
+      "text": "So big fan of that."
+    },
+    {
+      "start": 977.5,
+      "end": 987.5,
+      "text": "Next one that I thought was really interesting was there's a athleisure brand competitive to Lululemon and Viore, et cetera, et cetera, called Set Active."
+    },
+    {
+      "start": 987.8,
+      "end": 989.18,
+      "text": "They're based out in L.A."
+    },
+    {
+      "start": 989.34,
+      "end": 995.46,
+      "text": "And actually, a good friend of mine, Kira McKenzie Jackson, is now their chief brand officer."
+    },
+    {
+      "start": 995.68,
+      "end": 998.3,
+      "text": "And it's pretty amazing to see how this brand has evolved since you joined."
+    },
+    {
+      "start": 998.3,
+      "end": 1005.82,
+      "text": "So one of the things I noticed right away was a lot of their photography has shifted towards lifestyle versus more like in studio and product stuff."
+    },
+    {
+      "start": 1006.18,
+      "end": 1009.26,
+      "text": "But separately, talking about Black Friday, what they did was really interesting."
+    },
+    {
+      "start": 1009.52,
+      "end": 1016.34,
+      "text": "So they launched a they dropped the new collection on Black Friday and they put it."
+    },
+    {
+      "start": 1016.46,
+      "end": 1017.84,
+      "text": "I believe it was 30 percent off."
+    },
+    {
+      "start": 1018.1,
+      "end": 1019.58,
+      "text": "It looks like it's not live anymore."
+    },
+    {
+      "start": 1019.58,
+      "end": 1026.08,
+      "text": "So I'm going to have to check what the video was that I recorded for the Docs and group."
+    },
+    {
+      "start": 1026.08,
+      "end": 1029.26,
+      "text": "But essentially, they had 30 percent off site wide."
+    },
+    {
+      "start": 1029.72,
+      "end": 1032.26,
+      "text": "They had a sale page that was up to 80 percent off."
+    },
+    {
+      "start": 1032.44,
+      "end": 1044.02,
+      "text": "And then the thing I thought they did really well, that was such an easy, low lift thing to do and easy thing to execute, was they essentially created collections pages, which is very easy to do."
+    },
+    {
+      "start": 1044.02,
+      "end": 1056.92,
+      "text": "Right. Because it's just either you're creating a collection based on how a product is categorized in Shopify's back end or based on what products are tagged, which again happens in the product editor in the back end of Shopify."
+    },
+    {
+      "start": 1056.92,
+      "end": 1060.5,
+      "text": "So what they did is they tagged products different ways."
+    },
+    {
+      "start": 1060.8,
+      "end": 1062.44,
+      "text": "I'm guessing this is how they did this."
+    },
+    {
+      "start": 1062.82,
+      "end": 1068.16,
+      "text": "And they created these different gift guides for different groups of people that they sell to."
+    },
+    {
+      "start": 1068.72,
+      "end": 1083.9,
+      "text": "So, you know, one was so basically under the gift guides section, it says, you know, for the gym brat, for the queen of cozy, for the coolest girl, you know, for the jet setter, for the hot mom, for the then they had gifts under 25 stocking stuffers, stocking stuffers under 50 for the gym brat."
+    },
+    {
+      "start": 1083.9,
+      "end": 1091.7,
+      "text": "So anyways, all this to say, they created these really beautifully curated collections."
+    },
+    {
+      "start": 1092.6,
+      "end": 1098.08,
+      "text": "And when I say beautifully, I mean, I'm looking at the cover images here and they just look, they look, they're so simple."
+    },
+    {
+      "start": 1098.44,
+      "end": 1104.54,
+      "text": "It's literally just product imagery on a off white background with some nice text at the top."
+    },
+    {
+      "start": 1104.9,
+      "end": 1108.52,
+      "text": "It looks so simple. It's so on brand. It's so well done."
+    },
+    {
+      "start": 1108.52,
+      "end": 1113.7,
+      "text": "And when you click it, you immediately get to the collection and, you know, the collection is called for the hot mom."
+    },
+    {
+      "start": 1113.9,
+      "end": 1116.86,
+      "text": "So it's obviously just a tag collection, which is amazing."
+    },
+    {
+      "start": 1117.38,
+      "end": 1124,
+      "text": "And not only on that, but they're not only that, but they had a really nice collections page with quick ad."
+    },
+    {
+      "start": 1124.16,
+      "end": 1126.44,
+      "text": "And they also highlighted the discounted price."
+    },
+    {
+      "start": 1126.94,
+      "end": 1136.82,
+      "text": "The only thing I would probably do differently here is in the in the hero image, which is a full width image on the first, I don't know, 40% of the page."
+    },
+    {
+      "start": 1136.82,
+      "end": 1146.58,
+      "text": "I'd probably just add more details around the sale or reiterate sort of like why the hot mom would love set active or maybe even put a review from a hot mom and sort of call that out."
+    },
+    {
+      "start": 1146.74,
+      "end": 1153.98,
+      "text": "Like, you know, I would probably just put a name like Mackenzie over there and put, you know, whatever, whatever quote."
+    },
+    {
+      "start": 1153.98,
+      "end": 1160.52,
+      "text": "I love this thing. And, you know, signed Mackenzie, you know, in parentheses hot mom in L.A., whatever it is."
+    },
+    {
+      "start": 1161.28,
+      "end": 1166.48,
+      "text": "But anyways, I thought that was really smart to drop a collection on Black Friday and discount it."
+    },
+    {
+      "start": 1166.8,
+      "end": 1173.8,
+      "text": "I know that their community and their their just yeah, their community, their audience on social was really happy about it."
+    },
+    {
+      "start": 1173.94,
+      "end": 1180.32,
+      "text": "So I thought that was really well done. And again, big shout out to them on their photography, their campaign video that they dropped."
+    },
+    {
+      "start": 1180.32,
+      "end": 1187.58,
+      "text": "I thought that was also really nice and well done. It was always nice. It's always nice to see a brand like invest in a campaign video."
+    },
+    {
+      "start": 1187.9,
+      "end": 1193.76,
+      "text": "You know, obviously there are a lot more short lived now with with how fast media cycles work, but it was nice to see it happen."
+    },
+    {
+      "start": 1193.9,
+      "end": 1201.32,
+      "text": "And I think, again, it's something that just adds to the the trust or the validity or the proof that the brand is legit exists."
+    },
+    {
+      "start": 1201.58,
+      "end": 1205,
+      "text": "You're going to get your product on time. You know, your credit card is not going to be stolen, et cetera."
+    },
+    {
+      "start": 1205.78,
+      "end": 1217.22,
+      "text": "Next thing was was product imagery. So we just talked about this a little bit, but, you know, I'm a huge sucker for beautiful product imagery, especially around the holidays."
+    },
+    {
+      "start": 1217.34,
+      "end": 1221.2,
+      "text": "And there's three brands that I think did a really good job that I saw or sorry, four brands."
+    },
+    {
+      "start": 1221.2,
+      "end": 1234.76,
+      "text": "One was Hexclad and Carraway also, but all of their ads, all of their on site imagery, collections pages imagery, pop up imagery, organic social imagery."
+    },
+    {
+      "start": 1234.94,
+      "end": 1243.66,
+      "text": "Like it all used this really beautiful color matching holiday, essentially holiday ask imagery."
+    },
+    {
+      "start": 1243.66,
+      "end": 1250.84,
+      "text": "So they had, you know, ornaments in it. It had red ribbons in it. It had red backgrounds in it. It had off white backgrounds in it."
+    },
+    {
+      "start": 1250.96,
+      "end": 1256.34,
+      "text": "It was really well done. Hexclad did it. Carraway did it. Simple Modern did it. Crown Affair did it."
+    },
+    {
+      "start": 1256.56,
+      "end": 1261.5,
+      "text": "Actually, Crown Affair as I thought was really interesting because they didn't even go to the ornament and the red route."
+    },
+    {
+      "start": 1261.7,
+      "end": 1263.34,
+      "text": "They went straight to the Thanksgiving table."
+    },
+    {
+      "start": 1263.54,
+      "end": 1272.26,
+      "text": "They had a nice tablescape photo, which had all these beautiful tables with our sorry plates with products on it and forks and napkins on the side."
+    },
+    {
+      "start": 1272.26,
+      "end": 1279.08,
+      "text": "And then the other one is Cadence, which I've talked about before for sort of being really beautiful with their product photography."
+    },
+    {
+      "start": 1279.34,
+      "end": 1287.06,
+      "text": "But Cadence did a really good job with their photography as they always do, pushing their red and their kind of cream or off white colored products."
+    },
+    {
+      "start": 1287.24,
+      "end": 1294.04,
+      "text": "So I thought that the holiday photography again, it adds that trust. It sort of shows that, okay, the brand is legit."
+    },
+    {
+      "start": 1294.96,
+      "end": 1298.62,
+      "text": "And, you know, I'm sure it did really well from a click through standpoint as well."
+    },
+    {
+      "start": 1299.38,
+      "end": 1305.18,
+      "text": "Speaking of Carraway, two things that I thought they did really well that I want to implement going forward."
+    },
+    {
+      "start": 1305.38,
+      "end": 1311.86,
+      "text": "One was I thought they did a really good job on the UX for within their PDPs to add products."
+    },
+    {
+      "start": 1312.12,
+      "end": 1319.54,
+      "text": "So if you're buying a set or an individual product, there's one or two additional add on options."
+    },
+    {
+      "start": 1320.52,
+      "end": 1326.4,
+      "text": "And it's really nice because it's within the same experience before you hit the add to cart button."
+    },
+    {
+      "start": 1326.62,
+      "end": 1333.54,
+      "text": "Meaning most brands, when you add something to or when you get to that shop section of a PDP, you have to click add to cart."
+    },
+    {
+      "start": 1333.54,
+      "end": 1338.22,
+      "text": "And then underneath that usually is another, you know, upsell product."
+    },
+    {
+      "start": 1338.24,
+      "end": 1340.12,
+      "text": "And you have to again, click add to cart."
+    },
+    {
+      "start": 1340.26,
+      "end": 1347.32,
+      "text": "In this case, the way they did it was it was they had these two upsell modules right above the add to cart button."
+    },
+    {
+      "start": 1347.76,
+      "end": 1352.2,
+      "text": "And you just check, you know, as you're you choose your color of the pots and pans you want."
+    },
+    {
+      "start": 1352.34,
+      "end": 1360.16,
+      "text": "And then as you're moving your mouse down, that's where you choose if you want to add on, you know, whether it's the aprons or whatever else it was that they're selling."
+    },
+    {
+      "start": 1360.16,
+      "end": 1363.76,
+      "text": "And then you click add to cart. And so all of it goes in at once."
+    },
+    {
+      "start": 1363.76,
+      "end": 1366.22,
+      "text": "And then in the cart, it renders really beautifully."
+    },
+    {
+      "start": 1367.2,
+      "end": 1378.26,
+      "text": "In the cart too, they've got, well, they've always had an amazing gamification or gamified incentive, incentives driven, you know, progress bar in the top of the cart."
+    },
+    {
+      "start": 1378.46,
+      "end": 1386.06,
+      "text": "But what they did here is they actually brought that that progress bar onto the on basically sitewide."
+    },
+    {
+      "start": 1386.06,
+      "end": 1394.6,
+      "text": "So it lives at the bottom of the site and sitewide, you sort of see that at the bottom and it tells you, you know, you've unlocked free shipping or a gift or whatever it may be."
+    },
+    {
+      "start": 1394.94,
+      "end": 1397.08,
+      "text": "But I thought that was really good."
+    },
+    {
+      "start": 1397.28,
+      "end": 1399.88,
+      "text": "You know, most people only see that when they're in the cart."
+    },
+    {
+      "start": 1400.34,
+      "end": 1408.82,
+      "text": "Maybe, you know, maybe that incentives bar or progress bar doesn't stay sitewide forever, you know, because it's not a promotions period."
+    },
+    {
+      "start": 1408.82,
+      "end": 1415.1,
+      "text": "But I thought it was smart to lean into it because everybody's already thinking about deals and getting a good offer and things like that."
+    },
+    {
+      "start": 1415.24,
+      "end": 1417.04,
+      "text": "So it made a lot of sense in the context."
+    },
+    {
+      "start": 1417.04,
+      "end": 1421.08,
+      "text": "I wonder what the sort of business as usual or evergreen version of that is."
+    },
+    {
+      "start": 1421.22,
+      "end": 1430.04,
+      "text": "Maybe it's something that, you know, is sort of always, you know, showing, but it's not disruptive in the middle bottom of the screen."
+    },
+    {
+      "start": 1430.26,
+      "end": 1431.5,
+      "text": "Instead, it's just at the top right."
+    },
+    {
+      "start": 1431.62,
+      "end": 1439.1,
+      "text": "Maybe it's like popping out or or kind of like kind of like an iMessage bubble popping out of the cart icon that sort of shows you your progress."
+    },
+    {
+      "start": 1439.28,
+      "end": 1440.9,
+      "text": "But anyways, I thought that was really good."
+    },
+    {
+      "start": 1440.9,
+      "end": 1443.24,
+      "text": "And I and I sort of liked how they leaned into that."
+    },
+    {
+      "start": 1443.78,
+      "end": 1452.24,
+      "text": "They also had a really beautiful holiday shop and it didn't necessarily have too much like imagery and bells and whistles as maybe like the Lemmy holiday shop."
+    },
+    {
+      "start": 1452.62,
+      "end": 1455.48,
+      "text": "But it was really fast, really easy to navigate."
+    },
+    {
+      "start": 1455.88,
+      "end": 1463.24,
+      "text": "And they did a really good use, really good job using badges and and tags, you know, like in the collections page."
+    },
+    {
+      "start": 1463.38,
+      "end": 1467.24,
+      "text": "There's the image of the product and then you can put little badges within that image."
+    },
+    {
+      "start": 1467.38,
+      "end": 1472.84,
+      "text": "They did a really good job doing that, calling out what was new or what was the bestseller or what was a holiday sale, etc."
+    },
+    {
+      "start": 1475.03,
+      "end": 1482.55,
+      "text": "Whether you're spending 50,000 per month, 50,000 per week or 50,000 per day on ads, there's one thing that you need in all those scenarios."
+    },
+    {
+      "start": 1482.83,
+      "end": 1486.99,
+      "text": "It's creative analytics that help you understand what's working and drive more revenue."
+    },
+    {
+      "start": 1486.99,
+      "end": 1494.51,
+      "text": "With Motion, their software makes it so stupid simple to see what is performing, what is missing the mark and what you should continue to double down on."
+    },
+    {
+      "start": 1494.79,
+      "end": 1501.99,
+      "text": "With Motion, their software makes it so stupid simple to see what's performing, what's missing the mark and what you should continue to double down on."
+    },
+    {
+      "start": 1501.99,
+      "end": 1510.73,
+      "text": "Motion reports are also the only reports I've ever been able to send to a brand CEO or CMO, but also to the performance marketing team and to the creative team."
+    },
+    {
+      "start": 1511.17,
+      "end": 1513.47,
+      "text": "Their UI makes it so easy to interface."
+    },
+    {
+      "start": 1513.69,
+      "end": 1517.55,
+      "text": "So whatever you're looking for, you can find it or you can create custom reports for it."
+    },
+    {
+      "start": 1517.55,
+      "end": 1522.71,
+      "text": "It's literally an idiot-proof software and I say that as someone who gets easily confused with complex UI."
+    },
+    {
+      "start": 1523.09,
+      "end": 1527.75,
+      "text": "I want you to try Motion because like myself, I bet you won't be able to live without it once you try it."
+    },
+    {
+      "start": 1528.11,
+      "end": 1534.37,
+      "text": "Go to motionapp.com and when you talk to their sales team, mention limited supply to get 50% off your first month."
+    },
+    {
+      "start": 1534.79,
+      "end": 1540.91,
+      "text": "Again, that's motionapp.com to get 50% off your first month when you mention limited supply to their sales team."
+    },
+    {
+      "start": 1541.29,
+      "end": 1542.85,
+      "text": "Try it out and let me know how you like it."
+    },
+    {
+      "start": 1542.85,
+      "end": 1551.92,
+      "text": "Okay, another one that I thought was really well done was Salud."
+    },
+    {
+      "start": 1552.48,
+      "end": 1554.32,
+      "text": "I've definitely talked about this brand before."
+    },
+    {
+      "start": 1554.46,
+      "end": 1559.44,
+      "text": "It's one of my favorite websites that exists, not just because the Sharma Brands team designed and developed it."
+    },
+    {
+      "start": 1559.82,
+      "end": 1571.8,
+      "text": "But we launched this contest where essentially for every dollar you spend, you get an entry into a raffle to win a $25,000 giveaway."
+    },
+    {
+      "start": 1571.8,
+      "end": 1581.94,
+      "text": "And it was very similarly done, I would say, to some of the larger like celebrity or influencer brand giveaways that we've worked on before."
+    },
+    {
+      "start": 1582.32,
+      "end": 1594.22,
+      "text": "And it was also really well done in the sense that, you know, Josh Levia is the co-founder of Salud and he's also a huge YouTuber and podcaster."
+    },
+    {
+      "start": 1594.22,
+      "end": 1602.96,
+      "text": "And so we essentially did a photo shoot with him, built out a landing page with all those assets and, and yeah, ran the offer."
+    },
+    {
+      "start": 1603.1,
+      "end": 1603.8,
+      "text": "It did really well."
+    },
+    {
+      "start": 1604.3,
+      "end": 1615.2,
+      "text": "Today, it looks like we're back to business as usual, Cyber Monday is over, but it did really well and helped them turn a beautiful profit on Black Friday."
+    },
+    {
+      "start": 1616.06,
+      "end": 1618.56,
+      "text": "Um, next one was Jolie."
+    },
+    {
+      "start": 1618.78,
+      "end": 1629.42,
+      "text": "So Jolie, if you remember from last year, uh, or if you've listened to Ryan on the podcast before, you know that Ryan is very anti, well, he's anti Facebook, but he's also anti discount."
+    },
+    {
+      "start": 1629.82,
+      "end": 1633.02,
+      "text": "And so what does an anti discount brand do?"
+    },
+    {
+      "start": 1633.02,
+      "end": 1636.22,
+      "text": "Well, they just ran a gift with purchase offer."
+    },
+    {
+      "start": 1636.42,
+      "end": 1642.74,
+      "text": "So instead of discounting the product, um, they essentially gave a really beautiful tote bag as a gift with purchase."
+    },
+    {
+      "start": 1642.92,
+      "end": 1647.46,
+      "text": "Uh, that said, you know, I think a lot of brands go really cheap on their tote bag."
+    },
+    {
+      "start": 1647.58,
+      "end": 1653.46,
+      "text": "Uh, the Jolie tote bag was really nice, high quality, uh, thick, nice canvas bag."
+    },
+    {
+      "start": 1653.84,
+      "end": 1658.34,
+      "text": "And, um, and actually a lot of people that I know got their Jolie bag were really happy with it."
+    },
+    {
+      "start": 1658.34,
+      "end": 1665.02,
+      "text": "So not to say that you don't have to, or that you can't just run a gift with purchase offer as long as it's a high quality product."
+    },
+    {
+      "start": 1665.34,
+      "end": 1669.04,
+      "text": "But they also created a nice little campaign video that sort of went along with it."
+    },
+    {
+      "start": 1669.16,
+      "end": 1672.72,
+      "text": "That went out on social, that was on the landing page for the offer."
+    },
+    {
+      "start": 1672.84,
+      "end": 1675.6,
+      "text": "That was also on the product page in case somebody went there directly."
+    },
+    {
+      "start": 1676.28,
+      "end": 1679.24,
+      "text": "And, um, you know, it's actually pretty amazing."
+    },
+    {
+      "start": 1679.52,
+      "end": 1686.48,
+      "text": "Again, I know I always bring this up, but just to think that Jolie has still never discounted their Shopify literally doesn't have discounts in the backend."
+    },
+    {
+      "start": 1686.96,
+      "end": 1696.1,
+      "text": "While their competitors have are basically offering their, the same showerhead product or not same cause, uh, but you know, relatively similar showerhead product at 50% off."
+    },
+    {
+      "start": 1696.24,
+      "end": 1698.22,
+      "text": "That's what they have to offer in order to move units."
+    },
+    {
+      "start": 1698.7,
+      "end": 1701.6,
+      "text": "Jolie has never done a discount and still had record breaking days."
+    },
+    {
+      "start": 1702.24,
+      "end": 1703.62,
+      "text": "Um, okay."
+    },
+    {
+      "start": 1703.82,
+      "end": 1705.1,
+      "text": "To a couple more here."
+    },
+    {
+      "start": 1705.28,
+      "end": 1710.26,
+      "text": "One was, uh, I don't know if you've heard of Durf Avenue, D-J-E-R-F Avenue."
+    },
+    {
+      "start": 1710.68,
+      "end": 1714.52,
+      "text": "Um, I believe the founders and influencer named Matilda Durf."
+    },
+    {
+      "start": 1714.7,
+      "end": 1720.98,
+      "text": "I could be butchering that, but, um, they did a really cool job with, uh, creating this like holiday preview."
+    },
+    {
+      "start": 1721.78,
+      "end": 1725.64,
+      "text": "And I saw another beauty brand, a rare beauty actually did this, which I'll talk about in a second."
+    },
+    {
+      "start": 1726.24,
+      "end": 1730.08,
+      "text": "But with, uh, Durf essentially what they did is they had their black Friday sale."
+    },
+    {
+      "start": 1730.08,
+      "end": 1735.7,
+      "text": "And then the second module on the homepage was focused on this holiday shop preview."
+    },
+    {
+      "start": 1736.54,
+      "end": 1739.1,
+      "text": "And it was a huge module that took up the page."
+    },
+    {
+      "start": 1739.22,
+      "end": 1743.32,
+      "text": "And again, I have all these examples in, uh, in Slack, but it took up the whole page."
+    },
+    {
+      "start": 1743.92,
+      "end": 1750.02,
+      "text": "And, um, it said, you know, get access early access to the holiday shop or get an early preview to the holiday thing."
+    },
+    {
+      "start": 1750.02,
+      "end": 1754.7,
+      "text": "If you didn't put your email in, you could still click the button, like continue to see, uh, what's coming up."
+    },
+    {
+      "start": 1754.84,
+      "end": 1761.18,
+      "text": "So you click that and it's got the entire holiday collection that's about to drop in, I don't know, the next week or so."
+    },
+    {
+      "start": 1763.1,
+      "end": 1766.22,
+      "text": "And it just basically told you like, Hey, this is what we've got coming."
+    },
+    {
+      "start": 1766.42,
+      "end": 1767.86,
+      "text": "This is when the sale goes live."
+    },
+    {
+      "start": 1768.04,
+      "end": 1769.06,
+      "text": "Here's what the price is."
+    },
+    {
+      "start": 1769.34,
+      "end": 1770.78,
+      "text": "And then it's up to you as a shopper."
+    },
+    {
+      "start": 1770.88,
+      "end": 1771.98,
+      "text": "Do you want to buy on black Friday?"
+    },
+    {
+      "start": 1772.26,
+      "end": 1777.56,
+      "text": "Again, I think a lot of brands were focused on people who have already touched the brand at some point."
+    },
+    {
+      "start": 1777.56,
+      "end": 1785.48,
+      "text": "And, you know, essentially creating a pool of people who were excited to buy, you know, maybe have been waiting to buy, but just waiting for that discount."
+    },
+    {
+      "start": 1786.18,
+      "end": 1793.68,
+      "text": "In this case, what they did is they said, Hey, come shop our black Friday, but also just so you're aware, here's what's coming up next."
+    },
+    {
+      "start": 1793.9,
+      "end": 1799.28,
+      "text": "And, uh, I'm curious, I'm going to try to reach out to somebody there, or if somebody knows somebody there, please put me in touch."
+    },
+    {
+      "start": 1799.28,
+      "end": 1808.02,
+      "text": "I'm curious if that incrementally helped black Friday sales or, or incrementally did not help black Friday sales."
+    },
+    {
+      "start": 1808.12,
+      "end": 1809.32,
+      "text": "Like, did it take people away?"
+    },
+    {
+      "start": 1809.76,
+      "end": 1816.3,
+      "text": "But then again, if it took those people away and they came back and bought the holiday collection at full price, that's still a win for the brand."
+    },
+    {
+      "start": 1816.5,
+      "end": 1818.26,
+      "text": "So I'm curious to know how that did."
+    },
+    {
+      "start": 1818.26,
+      "end": 1821.74,
+      "text": "Similarly, rare beauty did, uh, did something like that."
+    },
+    {
+      "start": 1821.88,
+      "end": 1836.6,
+      "text": "They essentially had a page that was entirely, uh, full of all the offers from, you know, Thursday, Friday, Saturday, Sunday, cyber Monday, and, uh, what all the discounts were, what, uh, you know, how much you could save, what the dates were, when it starts, when it ends."
+    },
+    {
+      "start": 1836.6,
+      "end": 1843,
+      "text": "And, um, again, I think that just is a great job or a great example of like, Hey, this is what we're about to do."
+    },
+    {
+      "start": 1843.26,
+      "end": 1845.88,
+      "text": "Here's when we do it, you know, make sure you save your money for us."
+    },
+    {
+      "start": 1846.02,
+      "end": 1854.86,
+      "text": "I think if you're, if you're rare beauty, you can absolutely do that because you've got the brand and the credibility and the, the sort of clout to do that."
+    },
+    {
+      "start": 1855.06,
+      "end": 1860.12,
+      "text": "I don't know how that would work for necessarily a brand new company, but I think for well-established brands that would work."
+    },
+    {
+      "start": 1860.22,
+      "end": 1861.86,
+      "text": "I believe Jones road also did that."
+    },
+    {
+      "start": 1862.14,
+      "end": 1864.76,
+      "text": "Um, and, uh, they did it much earlier."
+    },
+    {
+      "start": 1864.76,
+      "end": 1869.4,
+      "text": "I think they were just like, Hey, we're going to be launching the mini miracle bombs on this day."
+    },
+    {
+      "start": 1869.58,
+      "end": 1870.9,
+      "text": "You know, be sure you're ready to buy."
+    },
+    {
+      "start": 1871.4,
+      "end": 1881.38,
+      "text": "Um, another thing that I saw rare beauty do that I'm shocked that more brands don't do or don't kind of focus on when they run promotions is having disclaimers on the site."
+    },
+    {
+      "start": 1882.26,
+      "end": 1889.56,
+      "text": "So, you know, it's, it's, uh, when, when I worked at hint, every single landing page we had had a disclaimer at the bottom."
+    },
+    {
+      "start": 1889.56,
+      "end": 1898.04,
+      "text": "And that is good practice to do because you got to make sure that you, um, very descriptively say, this is when the sale starts."
+    },
+    {
+      "start": 1898.04,
+      "end": 1899.46,
+      "text": "These are the products included."
+    },
+    {
+      "start": 1899.66,
+      "end": 1900.68,
+      "text": "This is the discount."
+    },
+    {
+      "start": 1900.98,
+      "end": 1906.4,
+      "text": "Um, you cannot combine discounts or offers or, uh, whatever else it may be."
+    },
+    {
+      "start": 1906.4,
+      "end": 1909.22,
+      "text": "And, you know, offer ends at this exact time."
+    },
+    {
+      "start": 1909.42,
+      "end": 1919.44,
+      "text": "And usually if you're on the East coast, you want to put, you know, 11 59 on the West coast and you want to start the promotion on a 1201 or sorry, 12 o'clock East coast."
+    },
+    {
+      "start": 1919.92,
+      "end": 1926.38,
+      "text": "So that way you sort of capture, you know, everybody in the East coast and you, you also capture everybody in the West coast on, on the, at the end."
+    },
+    {
+      "start": 1927.72,
+      "end": 1929.48,
+      "text": "But rare beauty did a really good job."
+    },
+    {
+      "start": 1929.62,
+      "end": 1932.62,
+      "text": "What they did is they created one page with all of their disclaimers."
+    },
+    {
+      "start": 1932.62,
+      "end": 1938.84,
+      "text": "So instead of having disclaimers on each page across the site, they just had one plain text page, uh, which everybody has."
+    },
+    {
+      "start": 1938.98,
+      "end": 1944.14,
+      "text": "You can just duplicate your terms of service or your privacy policy page, change the text and put all your disclaimers there."
+    },
+    {
+      "start": 1944.5,
+      "end": 1951.1,
+      "text": "Um, you know, that's really useful when people are trying to come back for chargebacks or for returns or whatever it may be."
+    },
+    {
+      "start": 1951.44,
+      "end": 1960.66,
+      "text": "Um, you want to make sure, especially if you're, you're, you know, you're shipping water at 40% off like hint water was, which we shouldn't even talk about how bad of an offer that was."
+    },
+    {
+      "start": 1961.2,
+      "end": 1975.22,
+      "text": "But, um, you know, if you're shipping something heavy, if you're shipping something perishable, if you're shipping something that is going to expire soon, you want to make sure you have these disclaimers and that they very clearly say that the order is final or, you know, no returns or, uh, sale is final, et cetera."
+    },
+    {
+      "start": 1975.72,
+      "end": 1983.72,
+      "text": "Um, and then you, you have those disclaimers to use as evidence when people come back and say they want to make a return or they want a refund, they want to, or they try to file a chargeback, whatever it is."
+    },
+    {
+      "start": 1984.9,
+      "end": 1985.24,
+      "text": "Okay."
+    },
+    {
+      "start": 1985.44,
+      "end": 1987.54,
+      "text": "Next one is, uh, there's only a couple left."
+    },
+    {
+      "start": 1987.56,
+      "end": 1989.98,
+      "text": "So next one was, um, IMI."
+    },
+    {
+      "start": 1989.98,
+      "end": 1994.44,
+      "text": "IMI makes the most delicious, high protein, low carb ramen."
+    },
+    {
+      "start": 1994.66,
+      "end": 1996.68,
+      "text": "I don't know how it's healthy, but it's very good."
+    },
+    {
+      "start": 1997.1,
+      "end": 2001,
+      "text": "And they, they had a holiday, uh, or they had a pop-up on their website."
+    },
+    {
+      "start": 2001.2,
+      "end": 2010.04,
+      "text": "I'm not sure if it was specific to the holidays, um, or if it was just something that is kind of always running business as usual."
+    },
+    {
+      "start": 2010.04,
+      "end": 2011.82,
+      "text": "I believe it's business as usual."
+    },
+    {
+      "start": 2011.92,
+      "end": 2017.06,
+      "text": "I don't see their holiday offer or holiday messaging live on their site anymore, but the pop-up is still there."
+    },
+    {
+      "start": 2017.52,
+      "end": 2020.04,
+      "text": "Essentially the pop-up is a two part pop-up."
+    },
+    {
+      "start": 2020.04,
+      "end": 2027.92,
+      "text": "Um, the first part is once you land on the site and you sort of get to, I think it's when, once you get to the second page is the behavior I've realized."
+    },
+    {
+      "start": 2028.3,
+      "end": 2032.92,
+      "text": "Once you click a page and get to the second page, or at least every time I've clicked to the product page, it pops up."
+    },
+    {
+      "start": 2032.92,
+      "end": 2037.68,
+      "text": "Um, it doesn't directly ask you to make a purchase or give you a discount right away."
+    },
+    {
+      "start": 2038.14,
+      "end": 2045.34,
+      "text": "Instead, it says, Hey, we want to do a huge giveaway of IMI, enter your email and be entered into a giveaway."
+    },
+    {
+      "start": 2045.84,
+      "end": 2061.98,
+      "text": "And, um, on the left side, it says, you know, the product is sold out seven times, which as a performance marketer, I could tell you from a headline standpoint that is if you're, if your copy or your ad says, you know, sold out X times and now back or something like that."
+    },
+    {
+      "start": 2061.98,
+      "end": 2065.14,
+      "text": "Um, that copy crushes."
+    },
+    {
+      "start": 2065.3,
+      "end": 2068.22,
+      "text": "And so I know that that copy does well in the pop-up too."
+    },
+    {
+      "start": 2068.74,
+      "end": 2070.44,
+      "text": "Um, so anyways, it asks for your email."
+    },
+    {
+      "start": 2070.62,
+      "end": 2074.52,
+      "text": "It asks for, uh, it says sold out and it's got a number of positive reviews."
+    },
+    {
+      "start": 2074.96,
+      "end": 2088.62,
+      "text": "Then, uh, you know, if you don't fill that out and you, you move your mouse up as if you're about to exit out the tab or, or quit the window, there's another exit intent pop-up that comes up and it asks for your email and it asks for your birthday."
+    },
+    {
+      "start": 2089.2,
+      "end": 2104.34,
+      "text": "Which, um, you know, from, I don't know if this has been tested or validated, but I know that for a fact, if you have something where you're asking somebody, if you have a form, if you have two forms and in form A, you're asking somebody for their email address."
+    },
+    {
+      "start": 2104.34,
+      "end": 2110.74,
+      "text": "And in form B, you're asking for their email address and their shirt size or email address and their shoe size or email address and their birthday."
+    },
+    {
+      "start": 2111.1,
+      "end": 2115.16,
+      "text": "And you promise, and, and, you know, you're teasing them like, Hey, there's going to be a gift."
+    },
+    {
+      "start": 2115.26,
+      "end": 2116.14,
+      "text": "There's going to be a giveaway."
+    },
+    {
+      "start": 2116.42,
+      "end": 2117.68,
+      "text": "You know, you could win this."
+    },
+    {
+      "start": 2117.94,
+      "end": 2124.12,
+      "text": "Um, the opt-in rate of form B is probably five times the opt-in rate of form A."
+    },
+    {
+      "start": 2124.36,
+      "end": 2128.3,
+      "text": "So I thought it was genius that they had that as the exit intent level."
+    },
+    {
+      "start": 2128.46,
+      "end": 2134.84,
+      "text": "So as soon as you're about to leave, it's like, Hey, give us your email and your birthday because, uh, you know, X, Y, or Z."
+    },
+    {
+      "start": 2134.84,
+      "end": 2136.24,
+      "text": "So I thought that was really smart."
+    },
+    {
+      "start": 2136.54,
+      "end": 2139.86,
+      "text": "Uh, I'm surprised more brands actually don't use the exit intent pop-ups."
+    },
+    {
+      "start": 2140.22,
+      "end": 2152.76,
+      "text": "Um, it's something that I feel like was huge when I was doing, uh, the publisher arbitrage, like driving clickbait traffic from Facebook to these publisher sites that had slideshows littered with ads."
+    },
+    {
+      "start": 2152.9,
+      "end": 2162.86,
+      "text": "They always had exit intent ad units that would pop up to make them extra revenue or exit intent email captures to try to get you on their email list to come back to, to, to see more things."
+    },
+    {
+      "start": 2163.48,
+      "end": 2165.26,
+      "text": "But I haven't seen a lot of brands do it."
+    },
+    {
+      "start": 2165.44,
+      "end": 2172.8,
+      "text": "And, uh, I'm not exactly sure why I can't imagine that it hurts the brand in any way, as long as it's still, you know, beautifully designed and whatnot."
+    },
+    {
+      "start": 2174.02,
+      "end": 2175.04,
+      "text": "Um, okay."
+    },
+    {
+      "start": 2175.28,
+      "end": 2181.38,
+      "text": "Two brands I thought had really interesting collections pages, uh, sort of stealing some elements from Amazon."
+    },
+    {
+      "start": 2181.8,
+      "end": 2185.32,
+      "text": "One of them was, uh, Revolve."
+    },
+    {
+      "start": 2185.46,
+      "end": 2187.94,
+      "text": "So Revolve is the clothing, uh, marketplace."
+    },
+    {
+      "start": 2188.32,
+      "end": 2191.62,
+      "text": "The other one is iHerb, which I actually discovered."
+    },
+    {
+      "start": 2192.04,
+      "end": 2192.84,
+      "text": "I'm sure I've read it."
+    },
+    {
+      "start": 2192.86,
+      "end": 2194.08,
+      "text": "I've heard of iHerb before."
+    },
+    {
+      "start": 2194.34,
+      "end": 2196.32,
+      "text": "It's the letter I and then H-E-R-B."
+    },
+    {
+      "start": 2196.9,
+      "end": 2202.08,
+      "text": "But I discovered it, uh, due to seeing their live stream on TikTok shop."
+    },
+    {
+      "start": 2202.24,
+      "end": 2207,
+      "text": "And then when I went to look up the products they were selling, it was on the iHerb website."
+    },
+    {
+      "start": 2207.36,
+      "end": 2212.16,
+      "text": "And, uh, so when I went to the collections page of Revolve, it was interesting."
+    },
+    {
+      "start": 2212.3,
+      "end": 2221.14,
+      "text": "They basically, it was a normal collections page, but they had this dynamic sort of animated badge, uh, which wasn't really designed nicely at all."
+    },
+    {
+      "start": 2221.14,
+      "end": 2229.9,
+      "text": "I thought it was very kind of like, uh, it felt kind of grifty and off brand and, you know, uh, tasteless."
+    },
+    {
+      "start": 2230.96,
+      "end": 2231.44,
+      "text": "Poor."
+    },
+    {
+      "start": 2231.44,
+      "end": 2232.04,
+      "text": "I don't know."
+    },
+    {
+      "start": 2232.12,
+      "end": 2233.26,
+      "text": "I don't know the best way to describe it."
+    },
+    {
+      "start": 2233.34,
+      "end": 2244.96,
+      "text": "It was just so off putting, but it basically highlighted like, you know, 25 units sold in the last 24 hours or, uh, 200 sold in the last 24 hours or, you know, units moving fast, something like that."
+    },
+    {
+      "start": 2244.96,
+      "end": 2253.7,
+      "text": "And then, um, on the iHerb collections page, which that site looks, uh, you know, old school, very old school."
+    },
+    {
+      "start": 2255.04,
+      "end": 2259.24,
+      "text": "They literally just stole Amazon like design elements."
+    },
+    {
+      "start": 2259.24,
+      "end": 2264.96,
+      "text": "So they took the Amazon yellow hex color stars and same star design."
+    },
+    {
+      "start": 2265.32,
+      "end": 2271.76,
+      "text": "And then how many units sold, uh, last month and basically took those two elements and put it on their collections page."
+    },
+    {
+      "start": 2272.24,
+      "end": 2273.5,
+      "text": "You know, is it shady?"
+    },
+    {
+      "start": 2273.7,
+      "end": 2276.28,
+      "text": "Maybe, but does it probably, does it work really well?"
+    },
+    {
+      "start": 2276.28,
+      "end": 2287.2,
+      "text": "I would imagine it crushes because I imagine the, the demographic that's going to that website probably sees that and immediately connects it with Amazon, AKA, I should trust this, et cetera."
+    },
+    {
+      "start": 2287.66,
+      "end": 2289.54,
+      "text": "Um, so I thought that was really interesting."
+    },
+    {
+      "start": 2289.6,
+      "end": 2296,
+      "text": "Um, more so just the fact that the framework of taking the social proof you can add, it's an additional form of social proof."
+    },
+    {
+      "start": 2296.12,
+      "end": 2306.82,
+      "text": "It's like, if you remember that old Shopify app that used to say, you know, Jenna just bought, uh, David, David protein variety pack in, uh, Wisconsin, right?"
+    },
+    {
+      "start": 2306.94,
+      "end": 2310.22,
+      "text": "That little pop-up that used to pop up at the bottom left of all the Shopify sites."
+    },
+    {
+      "start": 2310.36,
+      "end": 2313.56,
+      "text": "This is essentially that, but like the more modern version of it."
+    },
+    {
+      "start": 2313.68,
+      "end": 2315.06,
+      "text": "And it's not as cringy."
+    },
+    {
+      "start": 2316.12,
+      "end": 2319.32,
+      "text": "Um, so I thought that was really interesting and definitely something I want to steal."
+    },
+    {
+      "start": 2319.74,
+      "end": 2327.82,
+      "text": "Um, next was, I was always also very fascinated by how media companies and consumer apps have taken advantage of black Friday."
+    },
+    {
+      "start": 2327.98,
+      "end": 2330.84,
+      "text": "I didn't see too many cool examples on the media side."
+    },
+    {
+      "start": 2330.96,
+      "end": 2336.2,
+      "text": "Uh, but I did see a cool, uh, couple examples on the consumer app side."
+    },
+    {
+      "start": 2336.72,
+      "end": 2337.84,
+      "text": "One was in citizen."
+    },
+    {
+      "start": 2338.16,
+      "end": 2342.3,
+      "text": "Uh, they sort of built like this in app upsell landing page experience."
+    },
+    {
+      "start": 2342.3,
+      "end": 2345.5,
+      "text": "And then they were, they were also driving ad traffic."
+    },
+    {
+      "start": 2346.14,
+      "end": 2348.48,
+      "text": "Um, YouTube TV also did a good job of this."
+    },
+    {
+      "start": 2348.66,
+      "end": 2350.1,
+      "text": "YouTube also did a good job of this."
+    },
+    {
+      "start": 2350.56,
+      "end": 2352,
+      "text": "Um, Spotify did a good job of this."
+    },
+    {
+      "start": 2352.26,
+      "end": 2361.32,
+      "text": "Uh, basically all the big consumer brands, uh, or consumer apps, I should say, I thought did a really nice job of upselling and sort of pushing their own black Friday offer."
+    },
+    {
+      "start": 2362.24,
+      "end": 2367.54,
+      "text": "And now the last one, which, uh, I'm the most excited to talk about is the tick tock live streaming."
+    },
+    {
+      "start": 2367.54,
+      "end": 2371.7,
+      "text": "So there were so many brands that did such a good job of this."
+    },
+    {
+      "start": 2371.94,
+      "end": 2377.58,
+      "text": "Um, I saw David protein, um, was doing their own black Friday, uh, live stream."
+    },
+    {
+      "start": 2377.72,
+      "end": 2384.12,
+      "text": "They had two people who were basically on all weekend, uh, selling David protein bar variety packs on tick tock shop."
+    },
+    {
+      "start": 2384.26,
+      "end": 2386.46,
+      "text": "They had a flash sale running within tick tock."
+    },
+    {
+      "start": 2386.6,
+      "end": 2388.54,
+      "text": "They had discount codes within tick tock."
+    },
+    {
+      "start": 2388.72,
+      "end": 2389.74,
+      "text": "It was really amazing."
+    },
+    {
+      "start": 2390.16,
+      "end": 2392,
+      "text": "Guru Nanda was also doing the same thing."
+    },
+    {
+      "start": 2392.48,
+      "end": 2401.24,
+      "text": "Essentially what they do is they've created a set within like a booth and, um, in this booth, it's, it's almost like a booth that you would see at a trade show."
+    },
+    {
+      "start": 2401.36,
+      "end": 2402,
+      "text": "It's not very big."
+    },
+    {
+      "start": 2402.1,
+      "end": 2407.9,
+      "text": "It's maybe like six to eight feet wide and maybe six to eight feet deep."
+    },
+    {
+      "start": 2408.12,
+      "end": 2408.22,
+      "text": "Right?"
+    },
+    {
+      "start": 2408.38,
+      "end": 2411.9,
+      "text": "So it's basic thing like eight by eight is the real estate that you need here."
+    },
+    {
+      "start": 2412.08,
+      "end": 2413.22,
+      "text": "They've got a nice background."
+    },
+    {
+      "start": 2413.32,
+      "end": 2414.12,
+      "text": "It's branded."
+    },
+    {
+      "start": 2414.34,
+      "end": 2416.92,
+      "text": "They've got a big sign just like a trade show booth would."
+    },
+    {
+      "start": 2417.28,
+      "end": 2419.86,
+      "text": "And, uh, it's, it really is like a trade show booth set up."
+    },
+    {
+      "start": 2419.86,
+      "end": 2422.14,
+      "text": "You've merchandise products on a table, et cetera, et cetera."
+    },
+    {
+      "start": 2422.72,
+      "end": 2425.82,
+      "text": "And they're essentially live and they're basically selling the products."
+    },
+    {
+      "start": 2425.94,
+      "end": 2426.76,
+      "text": "They're talking about the benefits."
+    },
+    {
+      "start": 2426.94,
+      "end": 2428.12,
+      "text": "They're interacting with commenters."
+    },
+    {
+      "start": 2428.26,
+      "end": 2429.3,
+      "text": "They're interacting with those people."
+    },
+    {
+      "start": 2429.88,
+      "end": 2432.68,
+      "text": "And, um, and they're selling units."
+    },
+    {
+      "start": 2432.84,
+      "end": 2435.12,
+      "text": "Like you can see in real time units being sold."
+    },
+    {
+      "start": 2435.32,
+      "end": 2436.28,
+      "text": "Tick tock flags it."
+    },
+    {
+      "start": 2436.5,
+      "end": 2444.98,
+      "text": "Um, tick tock also flags when, um, when people are looking at the products, there's a lot of people looking at it, then a lot of people, uh, purchasing it."
+    },
+    {
+      "start": 2445.1,
+      "end": 2446.02,
+      "text": "So I thought that was interesting."
+    },
+    {
+      "start": 2446.02,
+      "end": 2453.56,
+      "text": "Guru Nanda, obviously one of the, I think the biggest product on tick tock shop, if not one of the top three or five, uh, they did a really good job of that."
+    },
+    {
+      "start": 2453.7,
+      "end": 2461,
+      "text": "And these live streams have hundreds, if not a thousand or a couple thousand people, um, better all, which makes these Shilajit gummies."
+    },
+    {
+      "start": 2461,
+      "end": 2472.26,
+      "text": "They did a really good job of that fashion brands nonstop, you know, whether it was big fashion or it was, uh, like, uh, you know, people who have these fashion brands, they've created themselves."
+    },
+    {
+      "start": 2472.26,
+      "end": 2476.52,
+      "text": "Uh, one that comes to mind was vivacious, which is, uh, based out of LA."
+    },
+    {
+      "start": 2476.72,
+      "end": 2479.12,
+      "text": "Like this influencer who created a fashion brand."
+    },
+    {
+      "start": 2479.24,
+      "end": 2484.28,
+      "text": "She was live streaming from her room, packing orders and putting orders together, interacting with commenters."
+    },
+    {
+      "start": 2484.82,
+      "end": 2490.22,
+      "text": "Um, another one that I thought was interesting was, uh, I don't know if you've heard of this company called MediCube."
+    },
+    {
+      "start": 2490.22,
+      "end": 2493.74,
+      "text": "M E D I C U B E. It's a, I believe it's a Korean skincare brand."
+    },
+    {
+      "start": 2494.12,
+      "end": 2510.5,
+      "text": "And they were the ones that I was speaking about earlier who did not allow any sort of, uh, affiliate, but they had this model, former model and now medical esthetician, uh, and YouTuber, uh, named Cassandra Bankson, who she was live streaming nonstop."
+    },
+    {
+      "start": 2510.5,
+      "end": 2523.22,
+      "text": "And she had hundreds, if not a couple thousand people in there at a time, not only did they have this amazing studio, like multi-camera angle setup, but it was so raw."
+    },
+    {
+      "start": 2523.38,
+      "end": 2530.66,
+      "text": "Like it felt like, it felt like somebody was literally on FaceTime with you, um, and sort of explaining the products."
+    },
+    {
+      "start": 2530.88,
+      "end": 2540.24,
+      "text": "And then, you know, it would shift from talking about the products to showing it being applied on her face to showing you on the phone, how to use the Tik TOK shop app, et cetera."
+    },
+    {
+      "start": 2540.5,
+      "end": 2542.58,
+      "text": "And, um, yeah, it was amazing."
+    },
+    {
+      "start": 2542.74,
+      "end": 2544.6,
+      "text": "I'm sure more brands are going to go into this."
+    },
+    {
+      "start": 2544.76,
+      "end": 2550.68,
+      "text": "I've already seen a huge number of Tik TOK shop, uh, or Tik TOK live agencies pop up."
+    },
+    {
+      "start": 2550.98,
+      "end": 2554.38,
+      "text": "Um, we've started working with a few with some of our brands."
+    },
+    {
+      "start": 2554.42,
+      "end": 2562.08,
+      "text": "And I think this is going to be like, I think next year, everybody is going to have a Tik TOK live streaming strategy if they didn't already this year."
+    },
+    {
+      "start": 2562.8,
+      "end": 2564.08,
+      "text": "Um, okay."
+    },
+    {
+      "start": 2564.28,
+      "end": 2567.14,
+      "text": "Those were the examples that I wanted to share for today."
+    },
+    {
+      "start": 2567.14,
+      "end": 2577.76,
+      "text": "There's a whole other, uh, list of examples in terms of emails, text messages, ad creative, uh, copywriting, uh, and just other offers."
+    },
+    {
+      "start": 2578.1,
+      "end": 2585.22,
+      "text": "So, um, I know we didn't get to talk much about meta and the health stuff, but let's save that for next week."
+    },
+    {
+      "start": 2585.36,
+      "end": 2588.6,
+      "text": "And then we're also going to talk app loving next week as well."
+    },
+    {
+      "start": 2588.7,
+      "end": 2591.2,
+      "text": "So, uh, I hope you enjoyed today's episode."
+    },
+    {
+      "start": 2591.2,
+      "end": 2594.76,
+      "text": "It was a quick one for you because, you know, I know you're busy as hell."
+    },
+    {
+      "start": 2595.14,
+      "end": 2597,
+      "text": "Um, DM me on Twitter."
+    },
+    {
+      "start": 2597.16,
+      "end": 2598.76,
+      "text": "Let me know how black Friday was for you."
+    },
+    {
+      "start": 2598.92,
+      "end": 2599.5,
+      "text": "Shoot me an email."
+    },
+    {
+      "start": 2599.62,
+      "end": 2600.88,
+      "text": "Let me know how black Friday was for you."
+    },
+    {
+      "start": 2601.24,
+      "end": 2602.9,
+      "text": "Uh, I'm not going to share your brand name."
+    },
+    {
+      "start": 2603.08,
+      "end": 2606.98,
+      "text": "So, you know, you don't have to worry about your numbers getting shared publicly, but, uh, tell me how it did."
+    },
+    {
+      "start": 2607.1,
+      "end": 2607.66,
+      "text": "Did it go up?"
+    },
+    {
+      "start": 2607.76,
+      "end": 2608.24,
+      "text": "Did it go down?"
+    },
+    {
+      "start": 2608.38,
+      "end": 2609.26,
+      "text": "Was your CAC really low?"
+    },
+    {
+      "start": 2609.36,
+      "end": 2610.46,
+      "text": "Was your CPMs really high?"
+    },
+    {
+      "start": 2610.62,
+      "end": 2611.76,
+      "text": "Was your conversion rate high?"
+    },
+    {
+      "start": 2611.92,
+      "end": 2613.02,
+      "text": "What was your best ad creative?"
+    },
+    {
+      "start": 2613.18,
+      "end": 2613.94,
+      "text": "Were you able to scale?"
+    },
+    {
+      "start": 2614.18,
+      "end": 2615.4,
+      "text": "How fast were you scaling?"
+    },
+    {
+      "start": 2615.78,
+      "end": 2617.1,
+      "text": "Uh, what was your best channel?"
+    },
+    {
+      "start": 2617.3,
+      "end": 2618,
+      "text": "All that kind of stuff."
+    },
+    {
+      "start": 2618.62,
+      "end": 2619.68,
+      "text": "Um, thank you for listening."
+    },
+    {
+      "start": 2619.68,
+      "end": 2621.02,
+      "text": "I'll see you next Wednesday."
+    },
+    {
+      "start": 2621.26,
+      "end": 2627.98,
+      "text": "We're going to be talking meta and app loving, and, uh, I hope you have a really successful rest of your cyber week."
+    },
+    {
+      "start": 2628.62,
+      "end": 2629.2,
+      "text": "See ya."
+    },
+    {
+      "start": 2630.48,
+      "end": 2631.22,
+      "text": "Thanks for listening."
+    },
+    {
+      "start": 2631.48,
+      "end": 2634.9,
+      "text": "We'll be back next time to cut through the noise on CPG, retail, and e-commerce."
+    },
+    {
+      "start": 2635.2,
+      "end": 2637.96,
+      "text": "If you enjoyed this episode, why not share it with a friend?"
+    },
+    {
+      "start": 2638.16,
+      "end": 2641.16,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

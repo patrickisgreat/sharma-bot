@@ -1,0 +1,1099 @@
+[00:00:00.080 --> 00:00:18.700] I've been watching a ton of live TV and I'm always looking at who are these advertisers and what's their end goal with this specific ad? Most of these ads suck. And when you think about why they suck, it's because they probably don't have real metrics tied to what needs to happen as a result.
+[00:00:18.700 --> 00:00:33.240] And we've worked with one of the largest alcohol companies in the world and their CDO would tell us that they would run a campaign for six months, then they'd spend the next six months trying to figure out if it even did anything.
+[00:00:33.580 --> 00:00:39.880] And then like by the time it's time to make the next campaign after that, it doesn't fucking matter because like we just got to focus on that.
+[00:00:40.100 --> 00:00:46.300] All right, we're back with Episode 9. It's Labor Day Monday. So I had no notifications today, which was great.
+[00:00:46.300 --> 00:00:50.200] Nobody was bothering me. Got my inbox down to 34 emails.
+[00:00:50.340 --> 00:00:51.160] Wow, that's fantastic.
+[00:00:52.360 --> 00:00:56.400] And yeah, we get to record this podcast, which is amazing. So what are we talking about today?
+[00:00:56.580 --> 00:01:05.960] Okay, four things on the agenda today. The first is this article that I saw in the New York Times about Senate Republicans raising money through digital ads.
+[00:01:06.200 --> 00:01:06.560] Wow.
+[00:01:06.880 --> 00:01:14.440] And it was really fascinating. When I think of like campaign finance like that, I think of them as like on the cutting edge of what e-commerce should be doing.
+[00:01:14.440 --> 00:01:25.720] And as we get into that, I think we're going to learn a lot more about why that's the case. Like these guys, basically these guys are doing what e-commerce companies are doing, but they're doing it at hundreds of millions of dollars of scale.
+[00:01:25.960 --> 00:01:26.860] Right. With no shame.
+[00:01:27.060 --> 00:01:32.460] Yeah, exactly. No shame. They're using cutting edge technology, which e-commerce companies don't have. I think it'll be really great to get into.
+[00:01:32.460 --> 00:01:43.300] The next thing is a Wall Street Journal article about basically laundry detergent, how customers are trading down. We're going to talk about the Mr. Beast burger shop opening up in New Jersey.
+[00:01:43.300 --> 00:01:47.240] I saw some Twitter photos that he shared. It was insane. Yeah.
+[00:01:47.780 --> 00:01:52.000] Crazy. Like the fire department should have been called. There were so many people. It was awesome. I thought it was amazing.
+[00:01:52.420 --> 00:02:01.220] And if we've got some time, some new ad platforms. Okay, so let's jump into the first thing, which is this New York Times article and basically about how they are running digital ads.
+[00:02:01.220 --> 00:02:11.600] So Senate Republicans have been raising money for a long time. Obviously, they've got a committee that's run by Rick Scott. Rick Scott is the he used to be the governor of Florida and now he's a senator of Florida.
+[00:02:11.820 --> 00:02:21.020] I grew up in Florida. He lives like close to where my parents lived. He's like a billionaire and ran this health care company. So he's quite savvy when it comes to business and technology.
+[00:02:21.020 --> 00:02:31.860] And so earlier in 2021, they were basically raving about how much money they were raising through online donors. They created this really sophisticated campaign of being able to text you.
+[00:02:32.060 --> 00:02:41.900] This is for Rick Scott. This is for Senate Republicans. So he's leading the charge of raising money for Senate Republicans entirely. Like that's his job right now, aside from being a senator.
+[00:02:42.440 --> 00:02:52.980] And so earlier, he was like raving about how much money he had raised. And he did some like potentially sketchy things, which was they would send you a text and they wouldn't tell you who it was from.
+[00:02:52.980 --> 00:03:03.060] And they'd say, do you want Joe Biden to resign? Reply yes and donate $25 to us. And it was unclear who you were donating to, at least according to this New York Times article.
+[00:03:03.360 --> 00:03:14.240] But what was really clever was they have the ability to like if you'd say yes, I want Joe Biden to resign and donate $25. They link your phone number and your credit card and immediately charge you.
+[00:03:14.680 --> 00:03:24.740] And I'm always wondering why e-commerce companies don't have that ability. Like at Native, I always wanted to be like, are you out of Native coconut and vanilla? Reply yes for us to charge you $12 and ship you a new one.
+[00:03:24.940 --> 00:03:25.080] Yeah.
+[00:03:25.380 --> 00:03:36.860] And like despite all of the advancements in text as in e-commerce with Postscript, with Klaviyo, with, you know, Attentive, nobody has that technology as far as I'm aware. Have you seen that anywhere?
+[00:03:36.860 --> 00:03:57.640] I have not. When I worked with Chacha Macha in 2019, we wanted to figure out how to build something like this. And we actually built a software custom on top of Recharge, where what we would do is every order flowed through Recharge as a canceled subscription order.
+[00:03:57.640 --> 00:04:05.960] So even just buying one variety pack as a one-time purchase, on the back end, it was a canceled subscription order. And what that would do is that would let us hold on to the payment token.
+[00:04:06.160 --> 00:04:06.340] Yeah.
+[00:04:06.400 --> 00:04:23.580] Because that's really the key is you have to have the payment token. Then we could do it where it was a bot. I think it was called Chachi. Like the whole idea was text Chachi. And you could text Chachi and say, I want a variety pack. And then you confirm with yes. And then we run it as another subscription order in the back end and then fulfill it.
+[00:04:23.580 --> 00:04:51.940] However, it turns out there was, when we had like somebody go through it to find, you know, could this thing get hacked? It was very easily hackable. So it never went live. But the other thing this reminds me of, well, two things. One is like, it's kind of interesting because SMS has some of the strictest laws around spam. Like I think for every person who you get reported and then in trouble for texting that you're not supposed to, it's $500 per text that's sent.
+[00:04:51.940 --> 00:05:02.820] So that's why like companies like PostScript, if you try to upload an SMS list, they make you basically agree, like swear by your life that, you know, you're not about to get screwed.
+[00:05:03.040 --> 00:05:03.500] Good for them.
+[00:05:03.700 --> 00:05:17.680] Yeah. The second one that's interesting is I'm like blanking on the exact thing. But do you remember years ago, you could call a phone number, you could like call and donate or you could text and donate.
+[00:05:17.680 --> 00:05:28.560] But it like it does the transaction through your carrier. So it shows up on your phone bill versus and I think that whatever that is, is kind of interesting. I don't know what the rules are.
+[00:05:28.920 --> 00:05:31.080] That was always like AT&T doing it. Like, yeah, exactly.
+[00:05:31.240 --> 00:05:37.920] They would bill you on these guys have your credit card linked to your phone number and are automatically charging you. They've got a database.
+[00:05:38.340 --> 00:05:38.800] Do you put it in once?
+[00:05:39.200 --> 00:05:44.340] Yeah. Like, like, let's say you put it in four years ago and you click yes today, they'll automatically charge you.
+[00:05:44.340 --> 00:05:47.100] Wow. I wonder how they get access to those payment tokens.
+[00:05:47.360 --> 00:05:52.780] I mean, they probably got access at one point or another. Just like in Cha Cha Matcha, you got access at one point, right?
+[00:05:52.820 --> 00:05:53.760] So the first time with them.
+[00:05:53.880 --> 00:05:56.640] Okay. So this might have been like the previous election you donated.
+[00:05:56.860 --> 00:05:57.060] Yeah.
+[00:05:57.200 --> 00:05:57.900] And now they've kept it.
+[00:05:57.900 --> 00:05:58.520] They still have it.
+[00:05:58.560 --> 00:05:59.540] Okay. That makes a lot of sense.
+[00:05:59.620 --> 00:06:06.760] What's crazy, that was like one of the things that I loved about WooCommerce as well when Native was on there was we owned every payment token and we would save every payment token.
+[00:06:06.920 --> 00:06:10.100] So we would email you and say, hey, do you want to purchase another product?
+[00:06:10.460 --> 00:06:15.720] If so, you can just you can go to our website or just reply yes and we'll confirm the order and do it all.
+[00:06:15.840 --> 00:06:17.500] Like we saved their payment token on Stripe.
+[00:06:17.560 --> 00:06:17.680] Wow.
+[00:06:17.800 --> 00:06:23.180] So we could do it. We couldn't do that on PayPal because PayPal, like we didn't save the token or like it was.
+[00:06:23.600 --> 00:06:24.280] They keep it separate.
+[00:06:24.440 --> 00:06:25.900] Yeah, exactly. It's just more difficult.
+[00:06:26.200 --> 00:06:29.300] But at WooCommerce, we saved all the tokens and I was waiting for a company.
+[00:06:29.560 --> 00:06:34.280] And there were so many companies that approached us with this idea of like, hey, we're going to be the company that does this.
+[00:06:34.280 --> 00:06:39.420] For a while, it was all on Messenger and people were like, we're going to make it so that you can reorder on Facebook Messenger.
+[00:06:39.680 --> 00:06:39.780] Right.
+[00:06:39.940 --> 00:06:42.040] And all of those companies sort of disappeared.
+[00:06:42.400 --> 00:06:43.940] Do you remember all those Messenger bots?
+[00:06:44.240 --> 00:06:46.620] Like all of those guys were huge for a day.
+[00:06:46.720 --> 00:06:47.800] I forgot what they were called even.
+[00:06:48.160 --> 00:06:48.220] Yeah.
+[00:06:48.420 --> 00:06:49.420] Do you remember any of their names?
+[00:06:50.960 --> 00:06:56.280] Well, no, but one that comes to mind is Octane and they even have shugged their bot.
+[00:06:56.400 --> 00:06:56.560] Yeah.
+[00:06:56.800 --> 00:06:58.460] They're more focused on the quizzes stuff now.
+[00:06:58.460 --> 00:06:58.920] Yeah, yeah.
+[00:06:59.080 --> 00:07:05.520] And so I was really impressed when I saw that they had this linked and I was like, why don't, why is e-commerce not solve this?
+[00:07:05.620 --> 00:07:08.540] Like these guys are doing it at hundreds of millions of dollars.
+[00:07:08.840 --> 00:07:12.240] You know, together e-commerce companies should be doing it at billions of dollars of scale.
+[00:07:12.420 --> 00:07:14.980] And we don't have a database link with text messages.
+[00:07:15.260 --> 00:07:15.420] Yeah.
+[00:07:15.500 --> 00:07:16.440] And I think that has to happen.
+[00:07:16.620 --> 00:07:17.500] Like a payment token with text messages.
+[00:07:17.500 --> 00:07:21.420] It really comes down to, well, first of all, I have a startup to pitch you.
+[00:07:21.540 --> 00:07:23.560] It's called Fast and it's this one click checkout.
+[00:07:25.240 --> 00:07:27.220] No, but I think it comes down to two things, right?
+[00:07:27.220 --> 00:07:28.580] Like the two people who could do it.
+[00:07:28.760 --> 00:07:36.520] Well, first of all, the companies that have tried to do the SMS one, what they say is we're going to basically collect somebody's card info once.
+[00:07:36.620 --> 00:07:40.820] So if you want to buy Native, you're going to fill out this card online once.
+[00:07:40.900 --> 00:07:41.060] Yeah.
+[00:07:41.360 --> 00:07:50.140] And now, whichever other brands use this same company, like use my company X, if I'm selling an iPhone, you know, I can say the same thing.
+[00:07:50.240 --> 00:07:54.120] Like reply here and I'll use the same payment token when I got it from when Native used it.
+[00:07:54.380 --> 00:07:55.240] So that's one way.
+[00:07:55.240 --> 00:08:01.380] I just don't like that because from a standpoint of your own customer data, it's like they know exactly who's customers who.
+[00:08:01.740 --> 00:08:03.520] Shopify does that a little with ShopPay though, right?
+[00:08:03.660 --> 00:08:04.220] Like there's...
+[00:08:04.220 --> 00:08:04.480] Oh, that's...
+[00:08:04.480 --> 00:08:05.320] Yeah, 100%.
+[00:08:05.320 --> 00:08:05.560] Yeah.
+[00:08:05.560 --> 00:08:07.700] So I think like the two players who could do it.
+[00:08:07.800 --> 00:08:08.360] One is Shopify.
+[00:08:08.900 --> 00:08:11.540] The other is Stripe if they wanted to do it more widely.
+[00:08:11.740 --> 00:08:11.840] Yeah.
+[00:08:12.060 --> 00:08:14.040] And Stripe does do one-click checkout.
+[00:08:14.220 --> 00:08:16.240] I mean, almost every company has one-click checkout.
+[00:08:16.420 --> 00:08:18.760] It's like not that innovative of a thing anymore.
+[00:08:18.920 --> 00:08:19.080] Sure, yeah.
+[00:08:19.400 --> 00:08:21.260] But Shopify sits on top of Stripe.
+[00:08:21.360 --> 00:08:25.460] So if Shopify wants to turn it on for people like us, it's really up to them to do it.
+[00:08:25.460 --> 00:08:30.100] But the question then comes around like, well, who's going to abuse this like one time?
+[00:08:30.540 --> 00:08:32.360] Or who's going to abuse the payment token?
+[00:08:32.780 --> 00:08:38.080] I think there's easy ways to make it so that, you know, ShopPay says, okay, we're limiting this to the garden of your store.
+[00:08:38.260 --> 00:08:38.400] Sure.
+[00:08:38.500 --> 00:08:40.260] So these people have purchased from you in the past.
+[00:08:40.420 --> 00:08:40.480] Right.
+[00:08:40.480 --> 00:08:41.860] And that's who it's limited to.
+[00:08:41.860 --> 00:08:46.680] Or, you know, you get 2% or more of people asking for refunds or saying stop at any given time.
+[00:08:46.860 --> 00:08:47.960] You're not on the platform.
+[00:08:48.460 --> 00:08:49.120] Yeah, that would fix it.
+[00:08:49.660 --> 00:08:52.800] What was crazy is they went through these numbers and this article was really good.
+[00:08:52.940 --> 00:08:57.220] And they said that, you know, generally about 2% of people ask for refunds.
+[00:08:57.680 --> 00:09:01.960] Like I had chargebacks that are asked for refunds when they donated money previously.
+[00:09:02.360 --> 00:09:05.420] During this, when they were doing this campaign where they're like, should Biden resign?
+[00:09:05.760 --> 00:09:06.420] Text yes.
+[00:09:06.820 --> 00:09:08.860] 7% of people ask for refunds.
+[00:09:09.020 --> 00:09:11.020] So like the refund rate went up a ton as well.
+[00:09:11.020 --> 00:09:18.980] And the other things that they mentioned were just like how they were initially really successful because they started this in 2021 and how it's gone really terribly recently.
+[00:09:19.260 --> 00:09:29.660] So they mentioned that like during a year period, sorry, from June 2021 to January 2022, they spent $23.3 million and raised $6.1 million.
+[00:09:30.220 --> 00:09:34.680] So they basically lost $17 million in trying to get these donations.
+[00:09:34.900 --> 00:09:36.640] And so they're like, fuck, this isn't working.
+[00:09:36.780 --> 00:09:37.640] We got to stop doing this.
+[00:09:37.640 --> 00:09:44.960] And at this point, they went from being the number one political spender on Facebook over the past year to spending $0 in August 2022.
+[00:09:45.680 --> 00:09:46.020] Wow.
+[00:09:46.400 --> 00:09:48.120] Number one political spender to $0.
+[00:09:48.120 --> 00:09:49.720] It's really changed fortunes.
+[00:09:49.820 --> 00:09:51.240] I wonder a few things.
+[00:09:51.400 --> 00:09:56.100] Like, you know, a lot of this is probably just due to politics and like, you know, what's going on in the political environment.
+[00:09:56.100 --> 00:10:03.120] I wonder how much of this is due to iOS changes because they said they were spending about $100,000 a day between Facebook and Google.
+[00:10:03.300 --> 00:10:05.300] And I bet the majority of that was actually on Facebook.
+[00:10:05.620 --> 00:10:06.500] I wonder how much of this.
+[00:10:06.720 --> 00:10:13.360] I wonder if the Republican like, you know, senatorial reelection committee is also suffering from iOS 14.5 changes.
+[00:10:13.840 --> 00:10:17.460] And like, you know, they're constantly denouncing Facebook and everyone's denouncing Facebook.
+[00:10:17.600 --> 00:10:20.260] And then everyone's like, hey, we're going to use Facebook to raise money.
+[00:10:20.260 --> 00:10:23.620] So I wonder if they're like biting the hand that feeds them a little bit.
+[00:10:23.800 --> 00:10:29.360] A friend of mine shared the Facebook reps that Trump's team uses.
+[00:10:29.760 --> 00:10:34.500] And he was always saying like the stuff that he would see, like his reps would get access to.
+[00:10:34.620 --> 00:10:35.220] Yeah, it was insane.
+[00:10:35.220 --> 00:10:38.800] It was like two years ahead of whatever most, you know, most people see.
+[00:10:39.020 --> 00:10:39.200] Yeah.
+[00:10:39.480 --> 00:10:41.060] And they spend a ton of money.
+[00:10:41.200 --> 00:10:44.240] And it's all basically around like collecting donations.
+[00:10:44.560 --> 00:10:44.620] Yeah.
+[00:10:44.620 --> 00:10:53.140] And making sure like another thing that the Republican Party does really well that e-commerce companies should do is they use landing pages really efficiently.
+[00:10:53.440 --> 00:11:02.820] Like basically every like little sub zip code, you know how like the four digits at the end of a zip code, every one of those different four digits had its own landing page.
+[00:11:02.980 --> 00:11:06.540] And it would like speak to that specific cul-de-sac's issues.
+[00:11:06.720 --> 00:11:06.940] Wow.
+[00:11:07.200 --> 00:11:08.420] And why you should vote for Trump.
+[00:11:09.180 --> 00:11:10.200] That's so impressive.
+[00:11:10.500 --> 00:11:11.020] It was nuts.
+[00:11:11.600 --> 00:11:15.960] There was another article a couple years ago about Facebook ad reps and working on election campaigns.
+[00:11:16.160 --> 00:11:19.760] And they were like, when we talked to the Trump campaign, they ate up everything that we said.
+[00:11:19.920 --> 00:11:22.640] And when we talked to the Clinton campaign, this was back when like, you know.
+[00:11:22.840 --> 00:11:23.320] I do remember this.
+[00:11:23.640 --> 00:11:26.500] They're like, the Clinton campaign was like, you know, we're flush with cash.
+[00:11:26.620 --> 00:11:27.860] We're doing everything right ourselves.
+[00:11:28.180 --> 00:11:28.420] Yeah.
+[00:11:28.440 --> 00:11:29.720] We don't care about what you have to say.
+[00:11:30.040 --> 00:11:31.440] But it's pretty mind boggling.
+[00:11:31.660 --> 00:11:35.080] And to be honest, for me, it's just mind boggling that a couple things.
+[00:11:35.220 --> 00:11:39.000] One, that the Republican Senate committee could be suffering from the changes of iOS 14 NAF.
+[00:11:39.000 --> 00:11:47.540] Two, they went from spending tens of millions of dollars a month or, you know, millions of dollars a month at least to spending zero in August because things weren't going well.
+[00:11:47.740 --> 00:11:51.000] And three, that they have such great technology, which e-commerce brands lack.
+[00:11:51.200 --> 00:11:52.520] And three is the most important.
+[00:11:52.620 --> 00:11:55.600] I really wish that e-commerce companies would develop this technology.
+[00:11:55.860 --> 00:12:02.140] I feel like if you look back on the history of the internet, the high-speed internet came out because everyone wanted to stream pornography.
+[00:12:02.140 --> 00:12:03.460] I'm pretty sure that's what happened.
+[00:12:03.460 --> 00:12:06.380] And, you know, e-commerce should evolve tenfold based on this.
+[00:12:06.500 --> 00:12:09.640] Like, you know, websites evolved because pornography got us to high-speed internet.
+[00:12:09.920 --> 00:12:11.120] And that's how we got Netflix.
+[00:12:11.420 --> 00:12:16.440] You know, e-commerce, we've got these guys who've linked phone numbers to credit cards.
+[00:12:16.640 --> 00:12:17.680] We need to be able to do that.
+[00:12:18.080 --> 00:12:19.240] Do you ever watch Silicon Valley?
+[00:12:19.440 --> 00:12:19.560] Yeah.
+[00:12:19.840 --> 00:12:20.920] Do you remember Pied Piper?
+[00:12:21.140 --> 00:12:21.260] Yeah.
+[00:12:21.300 --> 00:12:22.860] Their biggest client was just a porn site.
+[00:12:23.080 --> 00:12:26.740] I don't remember that, but that doesn't surprise me because they were all about data compression.
+[00:12:26.740 --> 00:12:27.320] Yeah, exactly.
+[00:12:27.640 --> 00:12:33.940] There was a great line where someone was like, 30% of the internet is watching porn at any given time.
+[00:12:34.080 --> 00:12:36.140] And Ehrlich Bachman's like, 31%.
+[00:12:38.680 --> 00:12:39.880] It was so good.
+[00:12:40.860 --> 00:12:41.320] Okay.
+[00:12:41.540 --> 00:12:47.060] There was one other article that I wanted to chat about recently, which was in the Wall Street Journal today or yesterday.
+[00:12:47.420 --> 00:12:51.060] And it basically said consumers are starting to trade down on personal care products.
+[00:12:51.120 --> 00:12:55.180] And they really went through laundry detergent and talked about P&G and Tide.
+[00:12:55.180 --> 00:13:01.760] You know, P&G owns 60% of the liquid laundry business in the United States, 80% of the pod business in the United States.
+[00:13:01.880 --> 00:13:02.140] Wow.
+[00:13:02.140 --> 00:13:06.200] They've raised their prices 10% over the past year to keep up with inflation.
+[00:13:06.860 --> 00:13:12.480] And they're like, you know, there were basically consumers who were like, I'm starting to trade down from Tide because it's getting too expensive.
+[00:13:12.860 --> 00:13:21.480] And like, you know, Church and Dwight, which owns Arm & Hammer, was like, we are crushing it when it comes to laundry detergent now because people are starting to trade down from Tide to Arm & Hammer.
+[00:13:21.480 --> 00:13:25.560] And Dollar General was like, we're selling a lot more laundry detergent than we have been in the past.
+[00:13:25.780 --> 00:13:27.280] All really interesting things.
+[00:13:27.700 --> 00:13:34.580] And it got me to thinking, like, you know, how much elasticity is there in the consumer when it comes to these direct-to-consumer brands?
+[00:13:34.780 --> 00:13:38.840] Like, you know, I've seen a lot of brands raise prices over the past year.
+[00:13:38.960 --> 00:13:42.740] And I've seen a lot of brands try not to raise prices because they're like, you know what, we're going to make things work.
+[00:13:43.060 --> 00:13:46.020] You know, Native, their prices went from $12 to $13.
+[00:13:46.560 --> 00:13:47.300] I'm not running it.
+[00:13:47.340 --> 00:13:48.480] I had, you know, no say in that.
+[00:13:48.560 --> 00:13:49.900] Obviously, I don't know what's going on.
+[00:13:49.920 --> 00:13:50.700] I just see it on their website.
+[00:13:50.820 --> 00:13:53.700] And I'm like, the profit margins on this product are so high already.
+[00:13:53.700 --> 00:13:55.800] How are you guys raising the price of dollars?
+[00:13:56.520 --> 00:14:02.580] And then it got me thinking back to the stimulus checks and how much, like, the stimulus checks really boosted e-commerce all over.
+[00:14:02.720 --> 00:14:04.840] Like, you know, no matter what category you were in.
+[00:14:05.200 --> 00:14:12.020] And it made me realize that, like, you know, when I was running Native, I was like, our consumer is really wealthy individuals in the United States.
+[00:14:12.540 --> 00:14:19.580] And, like, the more I did customer service, the more I'd see people who are like, you know what, I'm waiting until Friday until I get my paycheck in order to purchase this thing.
+[00:14:19.580 --> 00:14:26.000] And I was like, wow, that's a real, like, I was surprised that our customers were sort of reaching in order to be able to buy Native.
+[00:14:26.520 --> 00:14:31.200] I remember there was another person that I chatted with who was selling strollers, baby strollers.
+[00:14:31.300 --> 00:14:37.400] And they're like, we thought people would trade down from, like, up a baby's $800 stroller to our $250 stroller.
+[00:14:37.400 --> 00:14:38.960] And in reality, it was the opposite.
+[00:14:39.140 --> 00:14:43.420] It was people who were going to spend $100 trading up to $250 strollers.
+[00:14:43.800 --> 00:14:49.000] Like, I was so surprised that the direct-to-consumer customer is not just rich women, basically.
+[00:14:49.260 --> 00:14:50.760] It is actually people who struggle.
+[00:14:50.960 --> 00:14:54.020] And those, like, those stimulus checks really boosted.
+[00:14:54.220 --> 00:15:00.380] Like, you know, stimulus checks would come out and people would see 10% jumps in their revenue the week they came out or at least the day they came out.
+[00:15:00.480 --> 00:15:00.740] Oh, yeah, that's huge.
+[00:15:00.740 --> 00:15:03.080] Because, like, people were like, oh, I'm flush with cash.
+[00:15:03.140 --> 00:15:06.820] I always wanted to go buy this stroller or that deodorant or something like that.
+[00:15:06.900 --> 00:15:08.160] And that was really surprising to me.
+[00:15:08.620 --> 00:15:10.180] I remember when those were coming out.
+[00:15:10.460 --> 00:15:14.460] Everybody was, like, planning promotions around the next release of a stimulus check.
+[00:15:14.560 --> 00:15:18.260] Yeah, yeah, because they're like, we know we have to capture your money before you spend it all.
+[00:15:18.380 --> 00:15:18.700] Exactly.
+[00:15:19.360 --> 00:15:24.480] When I was running Native, there was also this interesting thing where Unilever would always run, like, back-to-school sales.
+[00:15:24.600 --> 00:15:26.980] Like, during March or something, they'd start running sales.
+[00:15:26.980 --> 00:15:27.820] It wasn't back-to-school.
+[00:15:28.040 --> 00:15:29.600] It was like a March madness sale.
+[00:15:29.600 --> 00:15:30.280] It didn't make any sense.
+[00:15:30.660 --> 00:15:31.980] Timing never made any sense to me.
+[00:15:32.080 --> 00:15:44.260] But the P&G guys were always like, we need to run our sale in February to try and get you to buy as many products as you can and load your pantry up with, you know, P&G products so that when the sale comes around, yeah, you don't buy Unilever products.
+[00:15:44.320 --> 00:15:44.500] Wow.
+[00:15:44.640 --> 00:15:50.280] Similarly, when, like, there's a—when the stimulus check is dropping, you want to capture all that money before anybody else does.
+[00:15:50.460 --> 00:15:50.620] Yeah.
+[00:15:51.220 --> 00:15:55.680] Also, like, you know, when the financial crisis came out, I remember a long time ago, I read this article.
+[00:15:55.680 --> 00:16:00.560] Like, you know, the financial crisis was pretty devastating, and you were too young for it.
+[00:16:00.680 --> 00:16:00.820] Yeah.
+[00:16:00.940 --> 00:16:01.800] I was probably 12.
+[00:16:02.000 --> 00:16:02.140] Yeah.
+[00:16:02.360 --> 00:16:16.680] But, like, Tide came out with this thing called Tide Basic, which they were like, look, we understand people can't afford Tide any longer, but it's gonna—you know, we can't do a body blow to the business of, like, dropping Tide from, you know, a dollar a load to 10 cents to 50 cents a load.
+[00:16:16.680 --> 00:16:20.300] And so they came out with, like, Tide Basic, which is basically a cheaper version of Tide.
+[00:16:20.460 --> 00:16:24.120] I think they've launched at Tide Simply, which is a cheaper version of Tide now.
+[00:16:24.480 --> 00:16:33.480] I wonder if e-commerce brands will ultimately end up doing that, which is like, is there an option for you to trade down so that you don't always have to pay the high price point that our products demand?
+[00:16:33.480 --> 00:16:44.320] Well, I feel like in that case, Tide's cost of acquiring the customer doesn't change, whereas in e-commerce, you still have to fork up that cost.
+[00:16:44.520 --> 00:16:44.660] Yeah, definitely.
+[00:16:45.260 --> 00:16:49.200] For—I mean, assuming you're, like, a traditional small e-commerce business.
+[00:16:49.580 --> 00:16:49.760] Yeah.
+[00:16:49.940 --> 00:16:50.140] Yeah.
+[00:16:50.500 --> 00:16:52.040] And you have less margin to do that.
+[00:16:52.040 --> 00:17:06.120] Yeah, the alternative could be, like, instead of one bottle of juice that has, you know, all the proper ingredients, you get three bottles of juice with half the ingredients, but it's like the AOV is still the same.
+[00:17:06.260 --> 00:17:06.380] Yeah.
+[00:17:06.520 --> 00:17:08.380] So you still make—you know, you make out there.
+[00:17:09.060 --> 00:17:09.460] Yeah.
+[00:17:09.700 --> 00:17:11.260] It's never, like, as good.
+[00:17:11.560 --> 00:17:12.140] Yeah, totally.
+[00:17:12.500 --> 00:17:13.660] It definitely hurts your margins.
+[00:17:13.780 --> 00:17:17.320] I just wonder if that—you know, obviously depends on what the economy looks like over the next year.
+[00:17:17.540 --> 00:17:17.760] Yeah.
+[00:17:17.760 --> 00:17:19.000] But definitely, like, scary stuff.
+[00:17:19.460 --> 00:17:29.480] I also feel like for D2C, the competition is just going to Amazon and getting whatever the basic version of the product is, whether it's cookware or makeup or whatever it is.
+[00:17:29.620 --> 00:17:29.800] Yeah.
+[00:17:29.960 --> 00:17:30.400] Yeah, you're right.
+[00:17:30.500 --> 00:17:31.720] Like, there are so many options, right?
+[00:17:31.780 --> 00:17:31.940] Yeah.
+[00:17:32.200 --> 00:17:34.980] Go to Amazon and type in, like, laundry detergent.
+[00:17:35.100 --> 00:17:37.560] And powder laundry detergent is generally cheaper than liquid.
+[00:17:37.820 --> 00:17:37.920] Right.
+[00:17:38.000 --> 00:17:41.020] So I imagine if people are going to trade, they're going to trade down to powder.
+[00:17:41.320 --> 00:17:41.400] Right.
+[00:17:41.460 --> 00:17:42.500] And not liquid.
+[00:17:42.840 --> 00:17:42.980] Totally.
+[00:17:43.860 --> 00:17:45.000] Okay, let's move on.
+[00:17:45.000 --> 00:17:54.860] Switch gears and talk about what was easily the biggest—the most burgers ever sold in a shop in any given day, which was Mr. Beast Burger Shop opening up in a mall.
+[00:17:54.940 --> 00:17:55.700] You didn't go, did you?
+[00:17:55.880 --> 00:17:56.560] I didn't go, no.
+[00:17:56.580 --> 00:17:56.920] Okay, yeah.
+[00:17:57.180 --> 00:18:03.220] But I opened up Twitter yesterday, and it was absolutely insane how many people were there.
+[00:18:03.560 --> 00:18:07.680] I want to say I saw a number around 10,000 people, which is crazy.
+[00:18:07.680 --> 00:18:10.700] That's like selling out a festival and your Tiesto.
+[00:18:10.700 --> 00:18:13.360] So, like, 10,000 people is a lot of people to show up.
+[00:18:13.800 --> 00:18:17.000] And it was pretty much packed across three or four floors.
+[00:18:17.440 --> 00:18:28.460] It was all for the first physical opening of Beast Burger in the Great American Mall, which the guy who's the CEO of the Great American Mall, he founded and IPO'd Braze.
+[00:18:28.740 --> 00:18:30.520] I think it's called Braze, the browser.
+[00:18:31.160 --> 00:18:32.440] He's this guy named Mark.
+[00:18:32.440 --> 00:18:35.100] And his family owns this mall.
+[00:18:35.460 --> 00:18:47.020] And I remember talking to him a couple years ago, or maybe it was even last year, and he was really interested in figuring out, like, how to make this mall really big again or, like, attractive to people—for people to come in.
+[00:18:47.220 --> 00:18:49.240] And so this was such a great collab.
+[00:18:49.560 --> 00:18:51.860] And so are you aware of the Beast Burger background?
+[00:18:52.100 --> 00:18:52.300] No.
+[00:18:52.300 --> 00:19:02.040] Okay, so with Beast Burger—so the best way to think of it is, like, there's all these ghost kitchens that sell on Uber Eats and DoorDash, Grubhub, Postmates, etc.
+[00:19:02.560 --> 00:19:05.220] And basically with a ghost kitchen, there's a set menu.
+[00:19:05.560 --> 00:19:10.360] You know, you generally have, like, a nice, more friendlier name that's, like, friendlier to the digital age.
+[00:19:10.400 --> 00:19:10.540] Yeah.
+[00:19:10.640 --> 00:19:12.040] The photography looks amazing.
+[00:19:12.580 --> 00:19:17.460] And it's made out of a kitchen where it's not necessarily marketed that there's a restaurant there.
+[00:19:17.460 --> 00:19:20.380] It's just a kitchen used to make those dishes specifically.
+[00:19:20.720 --> 00:19:22.560] And then people, you know, these Ubers come on their bikes.
+[00:19:22.560 --> 00:19:23.280] Yeah, ghost kitchen, you're saying, right?
+[00:19:23.420 --> 00:19:23.620] Yeah.
+[00:19:23.660 --> 00:19:23.760] Yeah.
+[00:19:24.020 --> 00:19:24.580] Or cars.
+[00:19:24.740 --> 00:19:25.520] They grab them and they leave.
+[00:19:25.980 --> 00:19:35.080] The best part of that was that, like, during the pandemic, Chuck E. Cheese started selling pizza under a different name in order to get—like, you know, they were looking for business, right?
+[00:19:35.080 --> 00:19:35.480] No way.
+[00:19:35.660 --> 00:19:40.980] So they started selling it not under the rat's name, Chuck E. Cheese, but under the human's name in the band.
+[00:19:41.240 --> 00:19:41.440] Yeah.
+[00:19:41.560 --> 00:19:42.780] I forgot what his name was.
+[00:19:42.900 --> 00:19:47.340] And they're like, you know, John's Pizza Shop, and it was, you know, delivered from Chuck E. Cheese.
+[00:19:47.460 --> 00:19:47.980] Wow.
+[00:19:48.220 --> 00:19:48.940] Which is pretty crazy.
+[00:19:49.180 --> 00:19:49.360] Yeah.
+[00:19:49.600 --> 00:19:50.940] So it's actually kind of interesting.
+[00:19:51.200 --> 00:19:53.480] More restaurants didn't think that way.
+[00:19:53.640 --> 00:19:53.800] Yeah.
+[00:19:54.380 --> 00:20:04.920] But anyway, so what Mr. Beast did is he saw there were so many, like, family-owned restaurants, you know, single location spots that were suffering as a result of COVID.
+[00:20:05.380 --> 00:20:12.500] And they didn't necessarily have the audience to go build up, like, an e-commerce business or a ghost kitchen business very fast.
+[00:20:12.500 --> 00:20:20.580] And so he basically created Beast Burger, which in theory is it's one set of packaging, one set of recipes, one menu.
+[00:20:21.220 --> 00:20:24.600] And, you know, he sends you—you do this training as a restaurant.
+[00:20:24.600 --> 00:20:28.740] He sends you all the products, all the packaging, and then you can go online.
+[00:20:28.740 --> 00:20:38.240] And now, you know, if you're in Chelsea at your restaurant making these burgers, that now turns on, like, maybe lower Manhattan to receive Beast Burger.
+[00:20:38.240 --> 00:20:39.700] And it's all coming out of your restaurant.
+[00:20:39.940 --> 00:20:47.120] And so he took all these restaurants that were potentially going out of business and basically said, well, I'm Mr. Beast and I have a shitload of followers.
+[00:20:47.540 --> 00:20:49.580] And I can drive business really efficiently.
+[00:20:49.600 --> 00:20:50.860] And I'll keep some of the margin.
+[00:20:50.860 --> 00:20:52.500] And you guys make it and sell it.
+[00:20:52.560 --> 00:20:53.280] And it's a good product.
+[00:20:53.300 --> 00:20:54.120] And everybody wins.
+[00:20:54.360 --> 00:21:00.680] So all of these places are turning on and selling Beast Burger now at, like, you know, all these kitchens that were sort of, like, not doing so hot.
+[00:21:00.900 --> 00:21:01.160] Yeah.
+[00:21:01.800 --> 00:21:03.800] It's almost franchised to them.
+[00:21:04.000 --> 00:21:04.280] Exactly.
+[00:21:04.280 --> 00:21:05.220] Wow, that's awesome.
+[00:21:05.340 --> 00:21:06.680] I had no idea what was happening.
+[00:21:06.920 --> 00:21:14.340] It's a combination, from my understanding, of small restaurants as well as, I want to say—I'm actually not 100% sure.
+[00:21:14.480 --> 00:21:22.720] My guess is that, like, if, you know, now that New York's back, if they want more help in New York, they'll just build ghost kitchens or share that.
+[00:21:22.860 --> 00:21:29.580] And really interestingly, next to our office that we used to have in Soho, there was a deli that was just always, like, nobody would ever walk in.
+[00:21:29.580 --> 00:21:34.060] But they had, like, six restaurants on Uber Eats at the same location.
+[00:21:34.300 --> 00:21:34.480] Yeah.
+[00:21:34.520 --> 00:21:36.320] And all you'd see is just people going in and out with bikes.
+[00:21:36.480 --> 00:21:36.900] Sure, sure.
+[00:21:37.820 --> 00:21:40.040] So, first of all, it's such a genius concept.
+[00:21:40.380 --> 00:21:48.180] Like, it reminds me of, you know, a lot of these brands that have tons of distribution points, whether it's, like, for example, Native, right?
+[00:21:48.360 --> 00:21:51.540] Native had Target, Walgreens, CVS, online.
+[00:21:51.760 --> 00:21:52.940] Like, you're basically available everywhere.
+[00:21:52.940 --> 00:21:53.200] Yeah.
+[00:21:53.640 --> 00:22:01.720] And all you have to do is if you get one really loud megaphone, everybody just goes normally to their distribution—to the points that they get their stuff.
+[00:22:02.440 --> 00:22:04.520] And in this case, they're buying Beast Burgers.
+[00:22:04.540 --> 00:22:06.060] In your case, they'd be buying deodorant.
+[00:22:06.140 --> 00:22:17.220] So I thought that was really interesting that, you know, instead of creating his own restaurant from the start, he was basically like, well, I can just flip these switches on and then just shout from the rooftop to go try my burger.
+[00:22:17.380 --> 00:22:18.260] That is crazy.
+[00:22:18.260 --> 00:22:18.800] And everybody wins.
+[00:22:18.960 --> 00:22:19.200] Yeah.
+[00:22:19.460 --> 00:22:19.760] You know?
+[00:22:19.760 --> 00:22:21.260] Yeah, that's a really interesting thing.
+[00:22:21.420 --> 00:22:22.960] Yeah, that's so mind-boggling.
+[00:22:23.020 --> 00:22:30.440] He's like, I'm going to create a product, which is a burger, and rather than create a restaurant around it, I'm just turning on ghost kitchens to make my product.
+[00:22:30.640 --> 00:22:31.360] Yeah, exactly.
+[00:22:32.000 --> 00:22:33.500] So I thought that was really interesting.
+[00:22:33.700 --> 00:22:34.060] That is genius.
+[00:22:34.300 --> 00:22:34.460] Yeah.
+[00:22:34.680 --> 00:22:35.580] And then it got me thinking—
+[00:22:35.580 --> 00:22:36.080] Mr. Beast is genius.
+[00:22:36.320 --> 00:22:37.580] Yeah, 100% genius.
+[00:22:38.020 --> 00:22:52.740] I think there's going to be a lot of these audience-first brands that are going to continue to win instead of the traditional, you know, I'm a venture-backed D2C company raising $2 million, and 30% of that's going to go toward marketing.
+[00:22:52.940 --> 00:22:59.580] Like, you will get destroyed by somebody who does the same thing, probably doesn't need to go raise $2 million and already has an audience in place.
+[00:22:59.660 --> 00:22:59.860] Yeah.
+[00:22:59.860 --> 00:23:04.860] So there's a few examples I wrote down of different ways celebrities get involved, or publishers.
+[00:23:05.120 --> 00:23:06.740] The first one's like a spokesperson.
+[00:23:06.760 --> 00:23:08.800] So you have like Roger Federer and Nike.
+[00:23:09.000 --> 00:23:09.140] Yeah.
+[00:23:09.260 --> 00:23:12.660] You know, he wears the product, he plays, and he's getting a check.
+[00:23:12.840 --> 00:23:16.660] So like, I think his last deal with Uniqlo is like $300 million over 10 years.
+[00:23:16.680 --> 00:23:17.240] So much, yeah.
+[00:23:17.240 --> 00:23:18.740] And all he has to do is wear the thing.
+[00:23:18.800 --> 00:23:19.160] Yeah, yeah.
+[00:23:19.280 --> 00:23:31.280] But when you do the math and think about it, $30 million a year, let's say $2.5 million a month, just him wearing the product for sure has got to sell $2.5 million a month to pay for himself.
+[00:23:31.460 --> 00:23:35.020] Yeah, like Tiger Woods is the only reason Nike has a golf department.
+[00:23:35.280 --> 00:23:36.500] Like, they had no golf department.
+[00:23:36.700 --> 00:23:39.120] They signed Tiger, and they're like, we're number one golf.
+[00:23:39.300 --> 00:23:39.440] Yeah.
+[00:23:39.600 --> 00:23:39.760] Yeah.
+[00:23:40.300 --> 00:23:43.420] So then the second example is like starting the brand yourself.
+[00:23:44.200 --> 00:23:50.460] So there's a supplements brand that's a high eight-figure brand called Love Wellness by Lauren Bosworth.
+[00:23:50.860 --> 00:23:53.740] And then there's Barstool Sports actually started one.
+[00:23:53.860 --> 00:24:00.220] I'm not sure how big this one is, but it's called Wood Grooming, which is kind of a funny name or play on words for their audience.
+[00:24:00.880 --> 00:24:01.980] So that's the other option, right?
+[00:24:02.040 --> 00:24:03.180] You can just go ahead and start it.
+[00:24:03.280 --> 00:24:05.660] I mean, Mr. Beast just did this with Feastables as well.
+[00:24:05.840 --> 00:24:06.000] Yeah.
+[00:24:06.420 --> 00:24:08.240] Emma Chamberlain did this with Chamberlain Coffee.
+[00:24:08.240 --> 00:24:13.620] Just before we move on to other food, like non-food brands, do you think other food companies should be doing this?
+[00:24:13.740 --> 00:24:16.560] Like, okay, McDonald's is everywhere and they don't need to do this.
+[00:24:16.740 --> 00:24:16.880] Yeah.
+[00:24:16.980 --> 00:24:19.900] But should Cheesecake Factory be like, hey, do you want to order our cheesecake?
+[00:24:20.400 --> 00:24:23.400] We don't have a store everywhere, but you can order delivery everywhere.
+[00:24:23.820 --> 00:24:27.120] There's one e-commerce site that I know of that does this called Gold Belly.
+[00:24:27.380 --> 00:24:27.520] Yeah.
+[00:24:27.680 --> 00:24:30.200] The problem is like you have to buy a whole feast worth of food.
+[00:24:30.340 --> 00:24:30.540] Yeah.
+[00:24:31.000 --> 00:24:33.440] But I do think this is something that more people could do.
+[00:24:33.560 --> 00:24:43.680] In fact, I think the real business is being the behind-the-scenes team that goes and licenses the cheesecake recipe and then says we're going to go live in 48 cities.
+[00:24:43.920 --> 00:24:44.260] Yeah, yeah.
+[00:24:44.360 --> 00:24:51.540] And Gold Belly, what they do is they – let's say you want to buy banana cream pie from Magnolia's here in New York City.
+[00:24:51.800 --> 00:24:56.760] They will go and get it from here in New York City and mail it to you in a box overnight.
+[00:24:57.080 --> 00:25:00.180] And shipping costs 50 bucks, but that's what you're signing up for.
+[00:25:00.720 --> 00:25:07.320] I wonder, should P.F. Chang's be like we're putting in ghost kitchens at every place that makes Chinese food already?
+[00:25:07.600 --> 00:25:08.020] Yeah.
+[00:25:08.020 --> 00:25:11.200] Like we're putting in a ghost kitchen so you can order Chang's spicy chicken?
+[00:25:11.340 --> 00:25:11.480] Yeah.
+[00:25:12.340 --> 00:25:19.760] You can't order the entire P.F. Chang's menu, but anywhere in the world you can order Chang's spicy chicken because we've got ghost kitchens doing this.
+[00:25:19.960 --> 00:25:20.140] Totally.
+[00:25:20.200 --> 00:25:21.160] That would be so interesting.
+[00:25:21.300 --> 00:25:27.740] I wonder if that really could revolutionize food because instead of having a restaurant, you actually have a recipe.
+[00:25:28.100 --> 00:25:28.180] Right.
+[00:25:28.180 --> 00:25:37.100] And that recipe just goes to ghost kitchens that make the food and sell it rather than all of this menu, this brand, all those kind of –
+[00:25:37.100 --> 00:25:42.120] like you have to have a brand first, I guess, because you're not going to go and be like, hey, here's this random food that I found online.
+[00:25:42.320 --> 00:25:43.800] Like then you're just this crappy restaurant.
+[00:25:44.480 --> 00:25:47.160] But P.F. Chang's, everyone knows what Chang's spicy chicken is.
+[00:25:47.260 --> 00:25:47.820] It could be everywhere.
+[00:25:48.140 --> 00:25:51.540] Cheesecake Factory, everyone knows what a cheesecake factory cheesecake looks like.
+[00:25:51.660 --> 00:25:51.800] Right.
+[00:25:51.800 --> 00:25:54.780] Imagine if they just licensed the recipe and had all these people making it.
+[00:25:54.900 --> 00:25:55.040] Yeah.
+[00:25:55.200 --> 00:25:56.480] I think it should totally happen.
+[00:25:56.600 --> 00:25:58.940] You franchise a product rather than a restaurant.
+[00:25:59.160 --> 00:25:59.300] Right.
+[00:25:59.700 --> 00:26:00.520] Or a recipe.
+[00:26:00.800 --> 00:26:01.320] Yeah, yeah.
+[00:26:01.720 --> 00:26:03.140] That blows my mind.
+[00:26:03.280 --> 00:26:05.160] I have never thought of anything like that.
+[00:26:05.280 --> 00:26:11.220] That's really – like I'm having a hard time understanding all the possibilities right now, but it really blows my mind.
+[00:26:11.360 --> 00:26:11.640] Yeah.
+[00:26:11.820 --> 00:26:13.900] We'll see some Moises spicy chicken soon.
+[00:26:13.900 --> 00:26:16.120] Yeah, that's a really great idea.
+[00:26:16.740 --> 00:26:18.600] Have you seen the movie The Founder, by the way?
+[00:26:18.760 --> 00:26:19.320] Yeah, I love it.
+[00:26:19.440 --> 00:26:20.160] It's so good.
+[00:26:20.300 --> 00:26:21.700] Every time I watch it, I'm like –
+[00:26:21.700 --> 00:26:23.300] I go to McDonald's just to support.
+[00:26:23.480 --> 00:26:27.120] Yeah, I think like McDonald's – I'm like this is the greatest institution I've ever seen in my town.
+[00:26:27.120 --> 00:26:28.680] The greatest real estate company in the world.
+[00:26:28.860 --> 00:26:34.340] Yeah, and also like there's this great scene early on where they're standardizing the product of like a hamburger.
+[00:26:34.660 --> 00:26:34.800] Yeah.
+[00:26:34.800 --> 00:26:44.240] And so they're like – they have this machine that squeezes or like squirts ketchup and mustard on every hamburger and it squirts the exact amount like spread out across the patty perfectly.
+[00:26:45.080 --> 00:26:47.780] And, you know, the guy who's playing whatever –
+[00:26:47.780 --> 00:26:48.260] Ray Kroc.
+[00:26:48.500 --> 00:26:49.080] Yeah, Ray Kroc.
+[00:26:49.200 --> 00:26:51.980] Yeah, whoever's playing Ray Kroc is like, where did you get this machine?
+[00:26:51.980 --> 00:26:53.040] I've never seen anything like it.
+[00:26:53.040 --> 00:26:54.340] And they're like, we welded this.
+[00:26:54.440 --> 00:26:55.520] Like we did it ourselves.
+[00:26:55.780 --> 00:27:03.240] Like in order to standardize products, we created this – in order to standardize a hamburger, we created this product so that everyone would get the exact same thing.
+[00:27:03.240 --> 00:27:06.160] I wonder if more food companies can do this.
+[00:27:06.460 --> 00:27:07.060] You probably could.
+[00:27:07.400 --> 00:27:11.720] Yeah, Travis, the guy who founded Uber, supposedly started a massive ghost kitchen business.
+[00:27:11.980 --> 00:27:12.140] Yeah.
+[00:27:12.320 --> 00:27:13.620] No one knows the scale of it.
+[00:27:13.740 --> 00:27:17.400] And if you start working there – I read this article where he like makes you sign an NDA.
+[00:27:17.560 --> 00:27:24.720] You cannot update your LinkedIn profile to say that you're working there because it's that under the radar because he doesn't want people to be like, how many employees work at this company?
+[00:27:24.880 --> 00:27:25.080] Yeah.
+[00:27:25.580 --> 00:27:27.880] Or just reporters who probably chase them for stories.
+[00:27:28.000 --> 00:27:28.920] Yeah, yeah, yeah, exactly.
+[00:27:29.340 --> 00:27:32.500] So the other types of companies where celebrities could get involved.
+[00:27:32.500 --> 00:27:35.240] One is – or different ways rather.
+[00:27:35.420 --> 00:27:36.160] So one's investment.
+[00:27:36.320 --> 00:27:37.900] So my friend Danny Duncan, he's a YouTuber.
+[00:27:38.160 --> 00:27:43.240] He's got probably close to like 10 million followers on the internet between YouTube, Instagram.
+[00:27:43.920 --> 00:27:47.680] You know, consistently has the number one selling product in Zoomies and Spencers.
+[00:27:47.880 --> 00:27:48.000] Yeah.
+[00:27:48.120 --> 00:27:48.680] Like worldwide.
+[00:27:49.480 --> 00:27:55.700] And he just invested and bought a significant part of 16 Handles, which is a Froyo shop in New York.
+[00:27:55.880 --> 00:27:56.080] Yeah, yeah.
+[00:27:56.260 --> 00:27:56.760] Oh, yeah.
+[00:27:56.820 --> 00:27:57.620] You're in that group chat.
+[00:27:57.920 --> 00:27:58.200] Yeah.
+[00:27:58.400 --> 00:27:59.060] The dinner group chat.
+[00:27:59.420 --> 00:28:06.300] So I thought that was a really interesting way because when I talked to him, he's talking about, well, you know, I'm going to basically – I'm going to bring this to my hometown.
+[00:28:06.860 --> 00:28:09.020] I'm going to do a ton of stuff more experiential-wise.
+[00:28:09.200 --> 00:28:10.500] There's a ton of content opportunities.
+[00:28:11.040 --> 00:28:20.380] And I think the way that he's thinking about it, the brand will probably blow up pretty quickly and we'll just get a lot more demand for new franchises to be built around the country.
+[00:28:20.880 --> 00:28:23.000] I mean, 16 Handles is a New York institute.
+[00:28:23.200 --> 00:28:24.900] I've been eating there for 10 years.
+[00:28:24.900 --> 00:28:26.580] I absolutely love 16 Handles.
+[00:28:26.800 --> 00:28:30.460] I love one in every single, you know, corner in the United States.
+[00:28:30.660 --> 00:28:30.860] Exactly.
+[00:28:30.860 --> 00:28:31.400] That's awesome.
+[00:28:31.660 --> 00:28:33.280] So the next one is Collab.
+[00:28:33.480 --> 00:28:36.900] So there's a candle and fragrance company called Sniff.
+[00:28:37.000 --> 00:28:37.160] Yeah.
+[00:28:37.380 --> 00:28:40.960] They did a collab with Steph Shep, who's kind of an influencer.
+[00:28:41.320 --> 00:28:47.620] And then similarly, Canopy did a collaboration with The Skinny Confidential, which is another big blogger influencer.
+[00:28:48.360 --> 00:28:50.240] The Skinny Confidential is the newsletter, right?
+[00:28:50.420 --> 00:28:52.880] The Skinny Confidential – no, I think you're thinking The Skim.
+[00:28:53.040 --> 00:28:53.520] Oh, yeah, yeah.
+[00:28:53.600 --> 00:28:55.380] The Skinny Confidential – yeah.
+[00:28:55.380 --> 00:29:03.820] The Skinny Confidential is – I want to say she was on a TV show, but now she's a podcaster, content creator, blogger.
+[00:29:04.220 --> 00:29:05.220] She's massive.
+[00:29:05.580 --> 00:29:10.980] And their units, both these companies, sold really fast as a result of the collab.
+[00:29:11.580 --> 00:29:14.180] And so I thought that was a really interesting way to get involved.
+[00:29:14.280 --> 00:29:19.720] It's not just them posting about it, but like they co-created a product from scratch.
+[00:29:19.800 --> 00:29:19.980] Yeah.
+[00:29:20.120 --> 00:29:21.520] That's not originally available.
+[00:29:22.160 --> 00:29:25.240] The next one is just very generic, like seeding and posting.
+[00:29:25.540 --> 00:29:30.640] So we did this Poopery collaboration with Judy and Kim Kardashian posted about it.
+[00:29:30.740 --> 00:29:31.800] So that's an example of that.
+[00:29:32.120 --> 00:29:36.620] There's not really anything huge about it other than you basically get alignment.
+[00:29:36.960 --> 00:29:43.620] It's more like when you as a brand reshare it, it's like, oh, well, look who uses our products and you do too.
+[00:29:43.800 --> 00:29:43.960] Yeah.
+[00:29:43.960 --> 00:29:47.100] So, you know, you and Kim are in the same bucket in our eyes.
+[00:29:47.180 --> 00:29:47.360] Yeah.
+[00:29:47.680 --> 00:29:48.120] That's awesome.
+[00:29:48.520 --> 00:29:53.760] And then the last one is just straight whitelisting, which I think more brands need to think about.
+[00:29:53.900 --> 00:29:55.740] And I don't know why more don't do it.
+[00:29:55.900 --> 00:30:04.900] But whitelisting is almost always baked into any kind of creator agreement we have now or influencer agreement we have.
+[00:30:05.120 --> 00:30:06.680] I feel like everyone already does it.
+[00:30:06.780 --> 00:30:09.420] Like I don't see ads from any brand directly any longer.
+[00:30:09.420 --> 00:30:09.620] Really?
+[00:30:09.800 --> 00:30:09.920] Yeah.
+[00:30:10.020 --> 00:30:10.040] Yeah.
+[00:30:10.500 --> 00:30:17.740] And like there was a while, a long time ago, you could, there was a marketplace where you could rent somebody else's like Facebook ad page.
+[00:30:17.980 --> 00:30:18.080] Yeah.
+[00:30:18.140 --> 00:30:18.740] There's a few of them.
+[00:30:18.860 --> 00:30:20.300] Hashtag paid is one of those.
+[00:30:20.580 --> 00:30:20.640] Yeah.
+[00:30:21.220 --> 00:30:21.940] But yeah, totally.
+[00:30:22.120 --> 00:30:31.140] And there were like, you know, there were like NBA influencers that were like, like Derek Fisher was on there and it'd be like, you know, a grand for a week of using his page to advertise whatever you want.
+[00:30:31.480 --> 00:30:32.520] I never did it.
+[00:30:32.600 --> 00:30:38.860] And I always wondered if you need to like, you know, I bet you need to make sure you get clearance from like Derek Fisher and he approves the ad.
+[00:30:39.000 --> 00:30:39.240] Totally.
+[00:30:39.240 --> 00:30:42.280] So that makes it a little bit tougher because you're going through so many creatives.
+[00:30:42.480 --> 00:30:42.620] Yeah.
+[00:30:43.140 --> 00:30:50.140] But I wonder what it's like, like otherwise I think you can, you know, even for small influencers who are boosting or like doing it to their own audience.
+[00:30:50.280 --> 00:30:53.780] Like let's say you have an Instagram influencer with 300,000 followers.
+[00:30:54.060 --> 00:30:57.660] You can whitelist and run paid ads to her 300,000 followers.
+[00:30:57.880 --> 00:31:04.580] You can't spend a ton of money on it, but it's going to be far more powerful than like, you know, running ads yourself for native to those 300,000.
+[00:31:04.580 --> 00:31:04.820] Totally.
+[00:31:05.100 --> 00:31:18.200] I mean, even like, even running really any non-brand account, like we, we've run ads with like an Instagram account that has like 600 followers, but then it's just so much, the click-through rate is so much higher to the same audience.
+[00:31:18.700 --> 00:31:25.620] And the overall, you know, ad is significantly more efficient just because it pops up from a person, not from the brand.
+[00:31:25.900 --> 00:31:26.040] Yeah.
+[00:31:26.440 --> 00:31:35.060] And the last one I was going to say there was, you know, a few years ago when really nobody was doing whitelisting, like probably five years ago.
+[00:31:35.580 --> 00:31:46.220] I had this idea where, you know, I thought, okay, if, if we're advertising this product and it's just coming from the brand, like the brand's obviously going to say, this is the best product in the world.
+[00:31:46.340 --> 00:31:46.940] You got to try it.
+[00:31:47.460 --> 00:31:50.420] And this was when like Facebook tracking was just so perfect.
+[00:31:50.680 --> 00:31:56.940] What if our, our first touch point was a YouTuber talking about how it fit into her day and then you go to our site.
+[00:31:56.960 --> 00:31:59.320] And then the second touch point was Jay Sean.
+[00:31:59.560 --> 00:32:02.740] And he's talking about why on tour he loves this product.
+[00:32:03.100 --> 00:32:08.080] And then the third touch point is a publisher talking about how this is the best product ever.
+[00:32:08.620 --> 00:32:10.860] And it worked pretty well, but it was very expensive.
+[00:32:11.200 --> 00:32:11.400] Yeah.
+[00:32:11.560 --> 00:32:12.940] Mainly because of the Jay Sean page.
+[00:32:12.940 --> 00:32:15.300] Well, also isn't three touch points a ton?
+[00:32:15.760 --> 00:32:17.280] I guess it depends on where your AOV is.
+[00:32:17.460 --> 00:32:17.540] Yeah.
+[00:32:18.100 --> 00:32:18.740] Definitely a ton.
+[00:32:19.380 --> 00:32:19.820] Yeah.
+[00:32:19.920 --> 00:32:22.600] We ended up finding that pretty much that first one just converted everybody.
+[00:32:23.120 --> 00:32:31.620] When I was running native ads, we couldn't spend a dollar on retargeting a second touch point until we were spending like 5,000 or $6,000 a day on ads.
+[00:32:31.720 --> 00:32:33.860] Then I could spend a hundred dollars on retargeting.
+[00:32:33.960 --> 00:32:34.560] I had no idea.
+[00:32:35.100 --> 00:32:38.620] At this point we were probably spending like 30, 40 K a day on day.
+[00:32:39.040 --> 00:32:39.120] Yeah.
+[00:32:39.360 --> 00:32:39.500] Okay.
+[00:32:39.560 --> 00:32:39.780] Gotcha.
+[00:32:40.000 --> 00:32:40.140] Wow.
+[00:32:40.280 --> 00:32:41.880] The peak, the peak of the peak.
+[00:32:42.120 --> 00:32:42.360] Yeah.
+[00:32:42.360 --> 00:32:48.780] I really wonder how much like those Republicans that I mentioned at the beginning of the pod, they were spending $100,000 a day.
+[00:32:48.980 --> 00:32:52.540] I wonder how much like that breakdown is of retargeting versus prospecting.
+[00:32:52.700 --> 00:32:57.880] I also wonder how they get their data sources because you know they're not going and building lookalikes and shit.
+[00:32:58.000 --> 00:33:05.780] They're going to like Polygon and they're saying, I want a map of every mall in, you know, middle America or every this of that.
+[00:33:06.200 --> 00:33:08.580] And they're also getting tons of credit card data, I bet.
+[00:33:08.740 --> 00:33:08.940] Yeah.
+[00:33:09.100 --> 00:33:11.060] And they're using all of that.
+[00:33:11.220 --> 00:33:11.320] Yeah.
+[00:33:11.320 --> 00:33:12.120] It's so sophisticated.
+[00:33:12.560 --> 00:33:18.380] Like I knew one e-commerce company that at one point was spending $100,000 a day for like several months.
+[00:33:18.580 --> 00:33:18.800] Wow.
+[00:33:19.120 --> 00:33:20.400] And like, you know, that's a fortune.
+[00:33:20.680 --> 00:33:20.840] Yeah.
+[00:33:21.040 --> 00:33:25.660] I don't know anyone who's gotten to pass like $30,000 a day on Facebook after that.
+[00:33:25.760 --> 00:33:30.040] Like it's really hard to break a million dollars and get to $2 million on Facebook.
+[00:33:30.200 --> 00:33:30.480] Agreed.
+[00:33:31.260 --> 00:33:31.660] Okay.
+[00:33:31.860 --> 00:33:35.640] Well, since we're talking about new ad platforms, should we switch gears and talk about like-
+[00:33:35.640 --> 00:33:36.320] Yeah, let's jump into this.
+[00:33:36.440 --> 00:33:36.580] Okay.
+[00:33:36.640 --> 00:33:36.820] Yeah.
+[00:33:37.100 --> 00:33:39.360] So this was something I put on.
+[00:33:39.360 --> 00:33:51.060] I saw all over Twitter, these memes of, you know, it's like the first line is people asking how high are CPMs going to be when Netflix turns advertising on?
+[00:33:51.060 --> 00:33:56.780] And it's like Netflix and you just see a picture of Snoop Dogg ripping a joint, you know, like insanely high.
+[00:33:56.780 --> 00:33:59.820] And so there was a blurb.
+[00:33:59.940 --> 00:34:02.540] So there's already a lot of channels people are spending on, right?
+[00:34:02.660 --> 00:34:10.560] There's Meta, Google, TikTok, Snapchat, Quora, Pinterest, Reddit, Programmatic, Editorial, Billboard, TV, Podcast, Direct Mail.
+[00:34:10.720 --> 00:34:10.960] Sure.
+[00:34:11.240 --> 00:34:12.860] And so the question is what's next?
+[00:34:13.040 --> 00:34:14.500] So Netflix is launching.
+[00:34:14.820 --> 00:34:17.820] They have 220.7 million subscribers.
+[00:34:17.820 --> 00:34:20.020] Now that's globally, not just in the US.
+[00:34:20.020 --> 00:34:33.040] Yes, they apparently looked at the Google and Comcast to be their ad sales teams, which is interesting because both Google has YouTube and Comcast has NBC, but also Peacock as their content businesses.
+[00:34:33.300 --> 00:34:38.000] They ended up going with Microsoft, which has no content business, which was kind of an interesting play.
+[00:34:38.740 --> 00:34:43.480] I feel like Microsoft's just like, we're sitting on this mountain of cash, but I guess so is Google.
+[00:34:43.760 --> 00:34:45.020] Like, they're just like, here's some.
+[00:34:45.220 --> 00:34:46.560] And Netflix is like, this is a fortune.
+[00:34:46.800 --> 00:34:46.960] Right.
+[00:34:47.680 --> 00:34:51.740] So reportedly, Netflix is going to launch with a $65 CPM.
+[00:34:52.440 --> 00:34:53.020] And I've been-
+[00:34:53.020 --> 00:34:54.620] $65 CPM?
+[00:34:54.820 --> 00:34:58.340] And I've been thinking like, who would possibly pay this?
+[00:34:58.580 --> 00:35:00.060] They're doing this for a couple of reasons.
+[00:35:00.240 --> 00:35:07.540] One is they're trying to curate just literally the cream of the crop brands logos wise to be visible on the platform.
+[00:35:07.680 --> 00:35:14.980] So they don't want like Jenny's dropshipping jewelry from Alibaba to show up on Netflix while you're watching Netflix.
+[00:35:14.980 --> 00:35:18.620] But at $65, the only ads they can get are like Peloton.
+[00:35:18.900 --> 00:35:20.440] Even Peloton, I don't think-
+[00:35:20.440 --> 00:35:20.560] Oh yeah.
+[00:35:20.640 --> 00:35:26.900] So I think the whole strategy is get brands that are just advertising and they don't have direct goals tied.
+[00:35:27.060 --> 00:35:29.200] So like, so I've been watching the US Open.
+[00:35:29.500 --> 00:35:29.640] Yeah.
+[00:35:29.640 --> 00:35:31.200] I rarely watch live TV.
+[00:35:31.460 --> 00:35:31.620] Yeah.
+[00:35:31.620 --> 00:35:36.200] But I've been watching a ton of live TV and I'm always looking at who are these advertisers and what are they trying to get across?
+[00:35:36.300 --> 00:35:37.080] Like what's their punch?
+[00:35:37.220 --> 00:35:39.840] What's their end goal with this specific ad?
+[00:35:39.940 --> 00:35:40.120] Yeah.
+[00:35:40.420 --> 00:35:42.760] Most of these ads suck.
+[00:35:43.020 --> 00:35:51.000] And when you think about why they suck, it's because, well, they probably don't have real metrics tied to what needs to happen as a result.
+[00:35:51.100 --> 00:35:51.440] Of course.
+[00:35:51.440 --> 00:36:02.300] And we've worked with one of the largest alcohol companies in the world and their CDO would tell us that they would run a campaign for six months.
+[00:36:02.460 --> 00:36:06.400] Then they'd spend the next six months trying to figure out if it even did anything.
+[00:36:06.600 --> 00:36:13.420] And then like by the time it's time to make the next campaign after that, it doesn't fucking matter because like we just got to focus on that.
+[00:36:13.420 --> 00:36:21.400] And so they actually have no clue about like, okay, we got X amount of impressions, but like what does that mean for the business or Lyft and different geos?
+[00:36:21.480 --> 00:36:24.900] And did that drive higher sell through in this demographic or this retailer?
+[00:36:25.080 --> 00:36:26.260] They don't look at any of that.
+[00:36:26.400 --> 00:36:37.220] And so I think anyways, the same advertisers that are on TV doing that, just like kind of advertising for the shits and gigs of spending their budget and like hiring that fancy creative team and whatever.
+[00:36:37.400 --> 00:36:38.940] It's the same ones that are going to be on Netflix.
+[00:36:39.460 --> 00:36:41.660] I bet you're right because like who else could it be?
+[00:36:41.800 --> 00:36:43.020] Nobody else can afford $65.
+[00:36:43.400 --> 00:36:46.480] Anyone who cared about their business metrics would be like, $65?
+[00:36:47.880 --> 00:36:49.940] I better get to play in the US Open.
+[00:36:50.680 --> 00:36:52.840] Better be me versus Serena Williams.
+[00:36:53.000 --> 00:36:54.020] You bring her back from retirement.
+[00:36:54.420 --> 00:36:57.000] It'll be me versus her and then I'll pay you this crazy rate.
+[00:36:57.140 --> 00:36:57.320] Yeah.
+[00:36:57.480 --> 00:36:58.240] So I think you're right.
+[00:36:58.380 --> 00:37:08.140] But I think the one word of caution that I would think about is that like if I were Netflix is I'd be like, you know, what happens in all of these dumb large companies is that some middle manager
+[00:37:08.540 --> 00:37:09.760] pays for this kind of stuff.
+[00:37:09.940 --> 00:37:13.200] Then they got a report to their boss and they're like, this is how many eyeballs we got.
+[00:37:13.380 --> 00:37:18.160] You know, the reporting is like your eyeballs as if eyeballs are what like matters.
+[00:37:18.460 --> 00:37:23.640] And it's not dollars and cents, you know, they're like we got 800,000 eyeballs as a result of this campaign.
+[00:37:23.640 --> 00:37:29.300] And our unaided awareness went from 3.2 to 3.3 percent.
+[00:37:29.760 --> 00:37:36.300] All metrics that are like, you know, would make any direct to consumer marketer just laugh for 45 minutes.
+[00:37:36.300 --> 00:37:36.400] Yeah, roll their eyes.
+[00:37:36.440 --> 00:37:38.360] Because you're just like, so is there money here?
+[00:37:38.500 --> 00:37:39.020] Burn money.
+[00:37:40.860 --> 00:37:44.760] I'm like, give me, don't start a sentence without a dollar sign first.
+[00:37:44.880 --> 00:37:45.060] Yeah.
+[00:37:45.120 --> 00:37:46.840] I only want dollar signs and numbers here.
+[00:37:46.840 --> 00:37:48.260] Or we made dollar signs.
+[00:37:48.260 --> 00:37:48.380] Right.
+[00:37:48.520 --> 00:37:48.640] Yeah.
+[00:37:48.820 --> 00:37:53.240] And so, you know, it's going to be hard for that middle manager to book this thing with Netflix.
+[00:37:53.420 --> 00:37:53.580] Yeah.
+[00:37:53.640 --> 00:37:59.660] If they're like, look, we were going to spend a million dollars and we were going to see 500,000 eyeballs or whatever it is.
+[00:37:59.820 --> 00:38:07.480] And now we're only going to see 200,000 eyeballs because, you know, this is a higher CPM than you get on ABC or NBC or like television.
+[00:38:07.560 --> 00:38:08.680] It's higher than Facebook.
+[00:38:08.900 --> 00:38:09.680] It's higher than everything.
+[00:38:09.960 --> 00:38:10.080] Yeah.
+[00:38:10.080 --> 00:38:20.940] And so I wonder if they're going to be like, this is scary because when we go to our boss and report this, you know, the boss will be like, why did the eyeballs go from, because he also, he or she also doesn't understand that metric.
+[00:38:21.840 --> 00:38:26.540] They're not looking for revenue either because they've been trained to only look for eyeballs because that's the only number they can measure.
+[00:38:26.600 --> 00:38:29.620] So they're going to be like, why did this go from 600,000 to 400,000?
+[00:38:29.760 --> 00:38:30.680] You're doing a poor job.
+[00:38:30.820 --> 00:38:30.980] Yeah.
+[00:38:31.260 --> 00:38:32.980] Although I do think there's a little bit of novelty.
+[00:38:32.980 --> 00:38:39.280] Like the first time or the first month that Netflix has ads, everyone's going to want to watch them because they're going to be like, what is this like?
+[00:38:39.420 --> 00:38:42.720] You know, what is it like to have a Netflix show to get interrupted?
+[00:38:43.120 --> 00:38:44.280] What ads are they running?
+[00:38:44.480 --> 00:38:48.260] What, like, what ads are like, you know, are they 30 second spots, 15 second spots, minute spots?
+[00:38:48.460 --> 00:38:48.620] Yeah.
+[00:38:48.800 --> 00:38:50.020] You know, it doesn't matter.
+[00:38:50.260 --> 00:38:53.860] Can you click on your phone while you're watching a spot to go directly to the website?
+[00:38:53.980 --> 00:38:54.100] Right.
+[00:38:54.100 --> 00:39:00.020] I think everyone will be really interested for the first 30 days at least and maybe longer depending on how well they come out with it.
+[00:39:00.280 --> 00:39:02.340] But I do a $65 CPM.
+[00:39:02.340 --> 00:39:04.220] I don't know what the Super Bowl CPMs look like.
+[00:39:04.700 --> 00:39:07.540] I imagine there may be triple that, but that's still a very high price.
+[00:39:08.060 --> 00:39:12.100] You know, I don't want to be watching Master of None and pay $65 for a CPM.
+[00:39:12.100 --> 00:39:14.900] So the Super Bowl CPM is about $58.
+[00:39:15.960 --> 00:39:19.800] And the only thing close to that is Hulu, which ranges from 20 to 60.
+[00:39:20.140 --> 00:39:21.360] So it is going to be interesting.
+[00:39:21.620 --> 00:39:24.280] The other thing that comes to mind is...
+[00:39:24.280 --> 00:39:25.440] Sorry to just interrupt you.
+[00:39:25.500 --> 00:39:28.660] I wonder how much, like, you know, Hulu always says, was this ad relevant to you?
+[00:39:28.780 --> 00:39:31.120] I wonder what their percentage of yes versus no is.
+[00:39:31.120 --> 00:39:31.260] Yeah.
+[00:39:31.520 --> 00:39:32.900] I've always wondered that.
+[00:39:33.280 --> 00:39:35.860] They've got to release those numbers once in a while.
+[00:39:35.940 --> 00:39:37.440] So then you're like, okay, this is really interesting.
+[00:39:37.540 --> 00:39:42.320] Do you ever see an ad on YouTube and then you see a brand lift study, like, pretty close right after?
+[00:39:42.440 --> 00:39:42.860] Oh, yeah, yeah, yeah.
+[00:39:42.860 --> 00:39:44.120] And do you ever just give it to them?
+[00:39:44.200 --> 00:39:46.560] Because you're like, I know that marketer needs this.
+[00:39:46.600 --> 00:39:47.020] No, no.
+[00:39:47.120 --> 00:39:49.080] I'm always like, I've never heard of any of these things.
+[00:39:49.440 --> 00:39:50.280] Fuck you guys.
+[00:39:50.960 --> 00:39:51.740] I'm the opposite.
+[00:39:51.960 --> 00:39:56.220] I'll see, like, a brand pop up that I know and I'm like, I'm rooting for you guys.
+[00:39:56.220 --> 00:39:57.020] I'm going to check it.
+[00:39:58.160 --> 00:40:00.320] But, like, those are the things.
+[00:40:00.420 --> 00:40:01.660] That's how Google comes back to you.
+[00:40:01.660 --> 00:40:06.300] I remember when we were running ads, like, our Google rep was so useless.
+[00:40:06.300 --> 00:40:07.940] He'd be like, you need to do more influencer stuff.
+[00:40:08.000 --> 00:40:09.400] I was like, we've done a bunch of influencer stuff.
+[00:40:09.780 --> 00:40:12.860] Google bought this influencer net marketplace.
+[00:40:13.240 --> 00:40:14.440] I kind of forgot what it was called.
+[00:40:14.440 --> 00:40:18.300] And they're like, you need to use this marketplace in order to get YouTube influencers.
+[00:40:18.540 --> 00:40:19.560] I was like, that is the worst.
+[00:40:19.740 --> 00:40:20.840] We've actually tried that.
+[00:40:20.980 --> 00:40:22.080] You're not talking to a P&G.
+[00:40:22.340 --> 00:40:22.420] Famed it.
+[00:40:22.700 --> 00:40:23.100] Yeah, yeah.
+[00:40:23.240 --> 00:40:25.200] I was like, you know, I've actually tried that.
+[00:40:25.360 --> 00:40:28.500] And I spent $1,000 and I got zero sales from it.
+[00:40:28.640 --> 00:40:31.040] It was the worst service I've ever heard of in my entire life.
+[00:40:31.380 --> 00:40:35.320] And the guy was like, it was me, a P&G person, and this guy.
+[00:40:35.480 --> 00:40:37.100] And I was like, that was the worst thing I've ever seen.
+[00:40:37.220 --> 00:40:40.600] And he's like, okay, we'll go look back into it and get back to you on that.
+[00:40:40.700 --> 00:40:42.280] I was like, what is there to get back to me about?
+[00:40:42.460 --> 00:40:43.160] I've tried it.
+[00:40:43.160 --> 00:40:47.640] You guys are pitching bullshit to people who you're hoping haven't tried your bullshit.
+[00:40:47.900 --> 00:40:48.620] I've tried it.
+[00:40:48.720 --> 00:40:49.520] It's complete garbage.
+[00:40:49.760 --> 00:40:50.880] You don't need to get back to me.
+[00:40:51.140 --> 00:40:52.860] Go tell your boss that it's garbage.
+[00:40:53.000 --> 00:40:53.980] You don't need to come back to me.
+[00:40:54.060 --> 00:40:55.440] Go tell your boss that it was garbage.
+[00:40:55.600 --> 00:40:58.960] I feel like every time I talk to a Google rep, they would pitch you.
+[00:40:59.100 --> 00:41:03.400] You'd be like, okay, well, we want to do more of this on search or we want to test this in Google
+[00:41:03.400 --> 00:41:03.780] shopping.
+[00:41:03.940 --> 00:41:06.740] And they're like, have you thought about upper funnel with YouTube?
+[00:41:08.280 --> 00:41:09.180] I don't understand.
+[00:41:09.920 --> 00:41:14.940] I've met with a bunch of Facebook senior execs, and they're simply the most brilliant people
+[00:41:14.940 --> 00:41:16.240] I've ever met in my entire life.
+[00:41:16.520 --> 00:41:20.580] I remember once meeting with somebody and they were like, look, when we go to Facebook shopping,
+[00:41:20.820 --> 00:41:22.180] we've actually done research.
+[00:41:22.180 --> 00:41:26.880] And if you have a name that sounds Caucasian, you're more likely to get a sale than if you
+[00:41:26.880 --> 00:41:28.400] have a name that doesn't sound Caucasian.
+[00:41:28.560 --> 00:41:31.740] So we're thinking about, I'm not sure if it was his name or something like that.
+[00:41:31.740 --> 00:41:36.020] So they're like, now we're blinding out names because we think that there's this inherent
+[00:41:36.020 --> 00:41:37.600] racism that we're fighting on Facebook.
+[00:41:37.600 --> 00:41:39.220] And I was like, you guys are brilliant.
+[00:41:39.220 --> 00:41:41.600] I can't believe you thought of this and gotten to this depth.
+[00:41:42.220 --> 00:41:43.900] And then I'll talk to my ad account rep.
+[00:41:44.080 --> 00:41:47.680] I kid you not, the last time I talked to him, I talked to one of them.
+[00:41:47.800 --> 00:41:49.540] They're like, how does this business make money?
+[00:41:49.640 --> 00:41:51.320] And I was like, this is an e-commerce business.
+[00:41:51.580 --> 00:41:55.200] Do you have any idea how we sell goods for money?
+[00:41:55.840 --> 00:41:56.860] Sir, we run ads.
+[00:42:02.120 --> 00:42:06.340] It was almost exactly like that where I was like, why are we wasting our time on this
+[00:42:06.340 --> 00:42:06.800] phone call?
+[00:42:07.140 --> 00:42:08.680] You want to pitch me some bullshit?
+[00:42:09.000 --> 00:42:10.660] Get my American Express off this account.
+[00:42:11.240 --> 00:42:12.520] I'm like, this is so bad.
+[00:42:12.920 --> 00:42:14.880] Their senior execs are so good.
+[00:42:14.940 --> 00:42:17.560] And most of their ad reps are such complete guards.
+[00:42:17.720 --> 00:42:21.580] Yeah, I have no idea why they're not investing in a better sales force.
+[00:42:22.420 --> 00:42:24.160] Yeah, I really don't understand why they're not.
+[00:42:24.320 --> 00:42:27.800] Either they should cut the cost of the sales force because they're on a hiring freeze.
+[00:42:28.180 --> 00:42:31.020] They don't need to let go of them or they can if they want or they can do it through
+[00:42:31.020 --> 00:42:35.140] attrition or they need to hire guys who are like, look, I've looked at, you know, you're
+[00:42:35.140 --> 00:42:38.540] spending $10,000, $20,000, $30,000 a day.
+[00:42:38.920 --> 00:42:41.420] Here are five tweaks to get you up 25%.
+[00:42:41.420 --> 00:42:42.480] Yeah, like internal consultants.
+[00:42:42.820 --> 00:42:43.280] Yeah, exactly.
+[00:42:43.460 --> 00:42:44.160] Internal consultants.
+[00:42:44.280 --> 00:42:45.460] We're like, we looked at this data.
+[00:42:45.680 --> 00:42:47.840] We think this audience is going to work well for you.
+[00:42:47.960 --> 00:42:51.700] We've created a Facebook audience and I've uploaded it to your Facebook ad manager.
+[00:42:51.960 --> 00:42:53.120] Please run ads to it.
+[00:42:53.200 --> 00:42:54.180] I think it's really going to work.
+[00:42:54.340 --> 00:42:54.580] Totally.
+[00:42:54.700 --> 00:42:55.480] I completely agree.
+[00:42:55.620 --> 00:42:59.320] You know, you're going to get an extra $5,000 to $10,000 a day from me.
+[00:42:59.320 --> 00:43:01.720] You know, we're talking about small fortunes.
+[00:43:01.880 --> 00:43:03.080] Like, you know, this ad account.
+[00:43:03.280 --> 00:43:05.980] Well, that happens with 20 companies and that's like millions of dollars.
+[00:43:06.120 --> 00:43:06.420] Exactly.
+[00:43:06.540 --> 00:43:06.660] Yeah.
+[00:43:06.660 --> 00:43:10.280] And like, I remember tweeting about this a long time ago and I was like, you guys need
+[00:43:10.280 --> 00:43:14.340] to either get better at, like, get better ad account reps and then incentivize them to
+[00:43:14.340 --> 00:43:14.780] do this.
+[00:43:15.120 --> 00:43:16.980] Give them 5% more.
+[00:43:17.140 --> 00:43:19.240] Be like, this is your baseline for the last 30 days.
+[00:43:19.420 --> 00:43:24.520] If I can increase your spend, I get 5% of whatever you increase or 2% so that I'm incentivized
+[00:43:24.520 --> 00:43:27.340] to do something as opposed to being like, how does this business make money?
+[00:43:27.440 --> 00:43:28.280] Which is so ridiculous.
+[00:43:28.280 --> 00:43:35.180] I remember like pre-Cambridge Analytica scandal, the reps that I always worked with were phenomenal
+[00:43:35.180 --> 00:43:35.620] reps.
+[00:43:35.920 --> 00:43:40.060] And granted, I think we were a part of the Facebook Disruptors program, but the reps were
+[00:43:40.060 --> 00:43:40.560] incredible.
+[00:43:40.560 --> 00:43:47.040] And they, I want to say they did get paid based on the increase quarter over quarter in spend.
+[00:43:47.280 --> 00:43:47.500] Wow.
+[00:43:47.500 --> 00:43:52.020] And so if they could help you figure out how to unlock more spend through different tools,
+[00:43:52.200 --> 00:43:56.500] tactics, strategies, betas, then, you know, they would win, you would win.
+[00:43:56.800 --> 00:44:00.820] But after that happened, there was something that happened with like the quality of reps just
+[00:44:00.820 --> 00:44:04.400] went way down or like maybe it's the information they got access to went away.
+[00:44:04.560 --> 00:44:08.140] I do remember like their, their entertainment budgets also went away.
+[00:44:09.680 --> 00:44:11.340] Which I felt that one the most.
+[00:44:13.280 --> 00:44:17.080] But, but yeah, there was, there's something did happen after the Cambridge thing where like
+[00:44:17.080 --> 00:44:21.000] the quality of the reps went way down and then they started hiring all these external,
+[00:44:21.220 --> 00:44:26.360] like, you know, 5,000 person marketing specialists and they just ring you up on the phone and try
+[00:44:26.360 --> 00:44:28.900] to sell you like, have you ever checked out ads manager?
+[00:44:28.900 --> 00:44:30.940] And you're like, I spend a hundred thousand dollars a month.
+[00:44:31.200 --> 00:44:31.460] Yeah.
+[00:44:31.560 --> 00:44:33.540] I'm not sure why they're not doing a better job.
+[00:44:33.660 --> 00:44:37.180] I think it's so like, you know, you don't have to do it to the guys who are spending $500
+[00:44:37.180 --> 00:44:37.860] a day.
+[00:44:38.060 --> 00:44:41.140] I get like, you know, they're probably not going to make it so that you can bet it.
+[00:44:41.220 --> 00:44:45.160] Like, you know, so the ROI for Facebook just isn't there, but like they should think about
+[00:44:45.160 --> 00:44:46.680] ROI once in a while as well.
+[00:44:46.880 --> 00:44:47.040] Yeah.
+[00:44:47.180 --> 00:44:49.700] And like their account reps add zero ROI right now.
+[00:44:49.820 --> 00:44:51.000] And I bet they're a huge expense.
+[00:44:51.420 --> 00:44:54.920] They can find people who are going to add genuine ROI and they should assign those people.
+[00:44:55.040 --> 00:44:57.880] They should be like, you're hitting $10,000 in ad spend a day.
+[00:44:57.880 --> 00:45:00.540] This is too meaningful an opportunity to miss out.
+[00:45:00.640 --> 00:45:04.320] If we can get you to like, if we can get you to double your spend, you know, we're making,
+[00:45:04.500 --> 00:45:08.560] you know, you just went from spending $300,000 a month to $600,000 a month.
+[00:45:08.680 --> 00:45:11.040] We're going to make an extra $3 million this year.
+[00:45:11.180 --> 00:45:11.320] Right.
+[00:45:11.460 --> 00:45:15.280] And I bet like, you know, there are opportunities to unlock that value if you do a better job
+[00:45:15.280 --> 00:45:15.600] of it.
+[00:45:15.760 --> 00:45:15.900] Yeah.
+[00:45:16.080 --> 00:45:16.640] Totally agreed.
+[00:45:17.420 --> 00:45:20.580] So we've touched on Apple's ad platform a few episodes ago.
+[00:45:21.500 --> 00:45:24.680] Surprisingly, a few people from Apple started signing up to my newsletter.
+[00:45:24.900 --> 00:45:25.240] Oh, really?
+[00:45:25.240 --> 00:45:27.020] So there's some Apple listeners here.
+[00:45:27.200 --> 00:45:27.300] Awesome.
+[00:45:27.780 --> 00:45:32.620] Which Apple listeners give me and Moyes the alphas to the ads platform as soon as you can.
+[00:45:33.420 --> 00:45:37.600] Anyways, they're going to do apparently a billion dollars this year in Apple ad revenue,
+[00:45:37.860 --> 00:45:39.440] which I think is mainly app store stuff.
+[00:45:39.720 --> 00:45:46.020] Their goal by 2026 is 30 billion people, $30 billion in revenue with double the headcount.
+[00:45:46.160 --> 00:45:50.200] So they're at about 220 right now and they're trying to get, or 250 right now.
+[00:45:50.300 --> 00:45:51.320] They want to add another 200.
+[00:45:51.480 --> 00:45:54.200] I love that they're doubling headcount and 30Xing revenue.
+[00:45:55.020 --> 00:45:55.960] That's the Apple way.
+[00:45:56.080 --> 00:45:56.380] Yeah, yeah.
+[00:45:56.740 --> 00:45:57.380] Good for them.
+[00:45:57.460 --> 00:45:57.920] That's awesome.
+[00:45:58.140 --> 00:46:02.480] But somebody did tweet something which was like, you know, are you going to open your home
+[00:46:02.480 --> 00:46:04.720] screen and see an ad in a small corner?
+[00:46:04.720 --> 00:46:07.780] Which I was like, that's actually very possible.
+[00:46:08.320 --> 00:46:11.920] That strikes me as something that Apple wouldn't do, but like not impossible.
+[00:46:12.120 --> 00:46:13.500] Like, you know who does that?
+[00:46:13.640 --> 00:46:14.160] It's Amazon.
+[00:46:14.560 --> 00:46:20.120] Like if you have a Kindle, you can buy a Kindle for like 250 bucks or you can buy a Kindle with
+[00:46:20.800 --> 00:46:25.020] ads that where those ads will show up on the home screen before you touch the Kindle for
+[00:46:25.020 --> 00:46:25.520] $200.
+[00:46:26.100 --> 00:46:31.440] So they basically give you a 50 bucks or something like that, about a $50 discount to get ads
+[00:46:31.440 --> 00:46:32.420] at any given time.
+[00:46:32.660 --> 00:46:34.160] And they're like, you know, we'll monetize us.
+[00:46:34.360 --> 00:46:35.620] That's so smart.
+[00:46:35.820 --> 00:46:36.720] Yeah, that is really smart.
+[00:46:36.860 --> 00:46:37.800] It's $20 difference.
+[00:46:38.060 --> 00:46:38.780] It's a $20 difference.
+[00:46:39.120 --> 00:46:39.520] That is crazy.
+[00:46:40.260 --> 00:46:44.320] You know, Apple would be much greater difference because it could be like, look, you used your
+[00:46:44.320 --> 00:46:48.180] Kindle once and then you stopped reading because nobody reads anymore.
+[00:46:48.440 --> 00:46:48.540] Yeah.
+[00:46:48.820 --> 00:46:51.940] But your iPhone, you open a billion times a day.
+[00:46:52.180 --> 00:46:54.900] So we'll have ads all the time and cater to you individually.
+[00:46:55.380 --> 00:46:58.560] And so, you know, I wonder if they, you know, could they be like, hey, we're going to give
+[00:46:58.560 --> 00:46:59.340] away iPhones.
+[00:47:00.140 --> 00:47:01.760] Yeah, if you're cool with running ads.
+[00:47:01.980 --> 00:47:02.200] Yeah, exactly.
+[00:47:02.340 --> 00:47:03.800] We're going to make so much on ads.
+[00:47:03.920 --> 00:47:04.060] Yeah.
+[00:47:04.200 --> 00:47:08.140] I also do wonder then the CPM associated with that.
+[00:47:08.480 --> 00:47:12.160] Like, I wonder what Amazon CPM is because it's got to be like the lowest of the lowest intent.
+[00:47:12.480 --> 00:47:12.560] Yeah.
+[00:47:12.560 --> 00:47:14.840] You know, it's just Amazon's like, we got a spot.
+[00:47:15.080 --> 00:47:15.180] Yeah.
+[00:47:15.180 --> 00:47:17.480] I don't know what's going to happen, but like we can throw an ad there.
+[00:47:17.580 --> 00:47:17.700] Yeah.
+[00:47:17.780 --> 00:47:20.000] And maybe they'll just advertise Amazon products to be honest.
+[00:47:20.000 --> 00:47:20.560] They're like, fuck it.
+[00:47:20.600 --> 00:47:21.760] We'll just advertise our own thing.
+[00:47:21.940 --> 00:47:22.080] Yeah.
+[00:47:22.200 --> 00:47:25.720] But yeah, I wonder like, you know, and that's a great way for Apple to be like, look, we're
+[00:47:25.720 --> 00:47:28.220] going to conquer the third, like the developing world.
+[00:47:28.400 --> 00:47:28.480] Right.
+[00:47:28.620 --> 00:47:32.260] Where we're like, look, no one in India or Pakistan can afford iPhones.
+[00:47:32.480 --> 00:47:32.600] Right.
+[00:47:32.720 --> 00:47:34.340] They're all using Android phones.
+[00:47:34.580 --> 00:47:37.920] A great way to get them to use iPhones is to subsidize that price with ads.
+[00:47:38.060 --> 00:47:40.900] I mean, I don't know if those ads are going to have a very high CPM to people
+[00:47:40.900 --> 00:47:42.440] who don't have a lot of money in India and Pakistan.
+[00:47:42.560 --> 00:47:42.880] Yeah.
+[00:47:43.020 --> 00:47:44.440] But it's a great way to try and reduce the price.
+[00:47:44.600 --> 00:47:44.620] Yeah.
+[00:47:44.620 --> 00:47:45.200] Totally agreed.
+[00:47:45.620 --> 00:47:47.080] That would be crazy if they did that.
+[00:47:47.220 --> 00:47:50.020] It just strikes me as something that Apple wouldn't do because like, you know, before
+[00:47:50.020 --> 00:47:52.260] the iPhone came out, I don't think people remember this.
+[00:47:52.440 --> 00:47:54.480] Cell phones came bloated with software.
+[00:47:54.740 --> 00:47:54.840] Yeah.
+[00:47:54.940 --> 00:47:56.440] Like you'd buy a phone from Verizon.
+[00:47:56.640 --> 00:48:00.540] Verizon would have their own maps, their own navigation, their own 411.
+[00:48:00.760 --> 00:48:04.480] Like, you know, you just have 400 Verizon apps that you can't delete and they're all
+[00:48:04.480 --> 00:48:04.860] garbage.
+[00:48:05.200 --> 00:48:08.200] And when Apple came out with it, they're like, look, you're not putting any garbage
+[00:48:08.200 --> 00:48:08.900] on the iPhone.
+[00:48:09.380 --> 00:48:11.740] It'd be shocking to me if they ended up putting ads on there.
+[00:48:11.960 --> 00:48:12.760] Not impossible.
+[00:48:12.900 --> 00:48:14.480] And who knows what happens 10 years from now.
+[00:48:14.620 --> 00:48:14.780] Right.
+[00:48:14.780 --> 00:48:17.680] Like, um, on the home screen, an ad would blow my mind.
+[00:48:17.800 --> 00:48:17.940] Yeah.
+[00:48:18.440 --> 00:48:19.020] Could be nuts.
+[00:48:19.180 --> 00:48:19.300] Yeah.
+[00:48:19.480 --> 00:48:25.780] So one, one idea I had for another ad platform is basically, uh, do you ever used to run sponsored
+[00:48:26.220 --> 00:48:28.360] editorials or advertorials with native?
+[00:48:28.360 --> 00:48:33.000] Um, so like five, you know, uh, here's why athletes are switching.
+[00:48:33.600 --> 00:48:34.240] Believe it or not.
+[00:48:34.360 --> 00:48:37.300] We tried doing that once with the bustle or somebody like that.
+[00:48:37.500 --> 00:48:40.600] We were negotiating the price and they were like, we want $50,000.
+[00:48:41.040 --> 00:48:42.680] And I was like, we'll pay you $10,000.
+[00:48:42.960 --> 00:48:43.900] And they're like, no, that's not enough.
+[00:48:43.900 --> 00:48:47.140] I was like, you want me to buy you a Mercedes Benz for this?
+[00:48:47.240 --> 00:48:48.080] Are you fucking crazy?
+[00:48:48.120 --> 00:48:50.820] Like, you know, this is going to take you 15 minutes.
+[00:48:51.080 --> 00:48:51.220] Yeah.
+[00:48:51.460 --> 00:48:55.040] Uh, you don't get a Mercedes Benz for, you're not Roger Federer over here.
+[00:48:55.040 --> 00:48:55.360] Okay.
+[00:48:56.000 --> 00:48:56.360] Relax.
+[00:48:56.820 --> 00:48:57.100] So.
+[00:48:57.260 --> 00:48:58.020] And then they went bankrupt.
+[00:48:58.020 --> 00:48:58.400] Yeah.
+[00:48:58.520 --> 00:49:03.320] So a lot of these companies, you know, the, the publishers for the longest time, like they
+[00:49:03.320 --> 00:49:08.440] made money or they still do make money with these massive programmatic takeovers.
+[00:49:08.540 --> 00:49:13.820] So like you go to vox.com, your whole screen is taken over by a Ford F-150.
+[00:49:14.120 --> 00:49:17.020] It's driving from the left programmatic ad to the right one.
+[00:49:17.100 --> 00:49:19.100] And there's a big header ad up top.
+[00:49:19.480 --> 00:49:23.760] And so vox created this cool platform called concert where you could basically go in.
+[00:49:23.860 --> 00:49:27.240] It's like an ads manager and you get access to like fortune and vox publishers.
+[00:49:27.240 --> 00:49:28.940] And a ton of other different publishers.
+[00:49:29.520 --> 00:49:34.180] There hasn't been one that, that has done a similar thing around the editorial side.
+[00:49:34.180 --> 00:49:39.660] And I think the re I consulted with vox for a bit to try to help them build an editorial product
+[00:49:39.660 --> 00:49:40.820] for direct consumer brands.
+[00:49:41.280 --> 00:49:46.080] And what I realized was like, there was a lot of friction just even generally among publishers
+[00:49:46.080 --> 00:49:53.960] because their ad sales team doesn't make that much on commission selling a $10,000 post sponsorship
+[00:49:55.220 --> 00:50:02.180] to Hintwater versus going to like Cadillac and getting a $700,000 month long takeover, which is fair.
+[00:50:02.400 --> 00:50:07.520] However, I think that there's a huge opportunities for these publishers that are just kind of slowly,
+[00:50:07.520 --> 00:50:12.540] you know, not really growing anyways to go and say, okay, well, here's a platform.
+[00:50:12.840 --> 00:50:15.060] Come on and choose the logos you want your article on.
+[00:50:15.060 --> 00:50:21.500] Even go ahead and write the draft so that when it comes to us, like our editors will make it in our voice.
+[00:50:21.680 --> 00:50:25.000] We'll make sure that your brand and whatever the fuck you're doing aligns with our values.
+[00:50:25.200 --> 00:50:26.180] And then we'll put it up.
+[00:50:26.380 --> 00:50:30.480] And then you can decide, do you want this to be something that shows up in SEO?
+[00:50:30.780 --> 00:50:31.080] Boom.
+[00:50:31.620 --> 00:50:32.180] Two grand.
+[00:50:32.360 --> 00:50:32.480] Yeah.
+[00:50:32.740 --> 00:50:35.680] Do you want this to be something that shows up on the site organically?
+[00:50:35.980 --> 00:50:36.380] Boom.
+[00:50:36.580 --> 00:50:36.960] Two grand.
+[00:50:37.260 --> 00:50:42.740] Do you want the basic package of, you know, showing up on the homepage or being tweeted or whatever?
+[00:50:45.100 --> 00:50:48.820] Opportunity for them to make money there because I think most people will go and check all those boxes.
+[00:50:49.180 --> 00:50:54.800] If I was doing it and the way that I did it with a ton of sites was I would just say,
+[00:50:55.100 --> 00:50:59.100] I'll just write you a draft and you upload it and then I'll pay you whatever your minimum fee is.
+[00:50:59.220 --> 00:50:59.820] Like we had some.
+[00:50:59.880 --> 00:51:00.680] All I need is the link.
+[00:51:00.800 --> 00:51:00.920] Yeah.
+[00:51:00.980 --> 00:51:01.640] I just need a link.
+[00:51:01.760 --> 00:51:02.640] I don't need your traffic.
+[00:51:02.740 --> 00:51:03.500] Your traffic sucks.
+[00:51:03.660 --> 00:51:04.500] I don't need your traffic.
+[00:51:04.780 --> 00:51:05.960] I don't need anything else.
+[00:51:06.060 --> 00:51:07.340] You can throw an email pop-up up.
+[00:51:08.060 --> 00:51:11.420] And I'm surprised nobody's built this as a platform, kind of like a marketplace.
+[00:51:11.700 --> 00:51:11.860] Yeah.
+[00:51:12.080 --> 00:51:13.820] There's one company doing it for bloggers,
+[00:51:13.820 --> 00:51:15.820] but nobody's done it across larger publishers.
+[00:51:15.820 --> 00:51:17.140] What's the company that's doing it for bloggers?
+[00:51:17.420 --> 00:51:20.200] My Subscription Addiction, which was spun out of the Ampush.
+[00:51:20.420 --> 00:51:20.580] Yeah, yeah.
+[00:51:20.880 --> 00:51:26.600] I think the hard part is that it's impossible to get the $700,000 Cadillac deal if you've got this going.
+[00:51:26.940 --> 00:51:27.140] Yeah.
+[00:51:27.140 --> 00:51:28.820] Because at some point Cadillac's going to be like,
+[00:51:28.920 --> 00:51:31.920] okay, I see that I could do everything that I wanted to do.
+[00:51:32.040 --> 00:51:33.500] You're trying to charge me $700,000
+[00:51:33.500 --> 00:51:37.100] and you're actually selling it to somebody else on this menu for $8,000.
+[00:51:37.540 --> 00:51:37.720] Right.
+[00:51:37.720 --> 00:51:40.100] So I'm overpaying $692,000.
+[00:51:40.900 --> 00:51:42.220] And that's really what it is.
+[00:51:42.300 --> 00:51:43.320] It's this crazy game.
+[00:51:43.440 --> 00:51:44.420] One is for eyeballs.
+[00:51:44.700 --> 00:51:47.780] The other is just for like the alignment of being up on their site.
+[00:51:48.080 --> 00:51:49.060] Yeah, I get it.
+[00:51:49.120 --> 00:51:50.360] But I do see your point of view too.
+[00:51:50.520 --> 00:51:50.640] Yeah.
+[00:51:50.740 --> 00:51:53.000] They're going to be like, you know, this seems a little bit fishy.
+[00:51:53.240 --> 00:51:55.200] We're like, you know, I think quickly, you know,
+[00:51:55.280 --> 00:51:57.180] I think what's happening is these publishers are real.
+[00:51:57.300 --> 00:52:01.140] Brands are realizing that these publishers have been overcharging them fortunes.
+[00:52:01.200 --> 00:52:01.340] Yeah.
+[00:52:01.340 --> 00:52:03.580] For generations where they're like, you know,
+[00:52:03.880 --> 00:52:06.500] we thought that when we advertised on Vox or somebody else,
+[00:52:06.640 --> 00:52:07.760] we were going to get a ton of eyeballs
+[00:52:07.760 --> 00:52:09.900] and this is going to be really beneficial to our site.
+[00:52:10.000 --> 00:52:11.020] And it's just not the case.
+[00:52:11.220 --> 00:52:11.320] Yeah.
+[00:52:11.400 --> 00:52:13.200] You're not driving enough traffic to our site.
+[00:52:13.360 --> 00:52:15.640] You're not driving enough eyeballs or interest or any,
+[00:52:15.740 --> 00:52:16.780] or giving us, you know,
+[00:52:16.860 --> 00:52:19.280] lifting us on unaided brand awareness studies.
+[00:52:19.560 --> 00:52:19.660] Right.
+[00:52:19.800 --> 00:52:22.120] And so it's just not worth the price that you're asking.
+[00:52:22.320 --> 00:52:24.940] And so I think that's the difficult part is you,
+[00:52:25.060 --> 00:52:26.740] they should do what you're talking about,
+[00:52:26.780 --> 00:52:29.100] but the Fugazi that they got going on,
+[00:52:29.100 --> 00:52:33.900] which is we're trying to charge Cadillac $700,000 will quickly crumble if they were like,
+[00:52:34.000 --> 00:52:36.680] yeah, actually, you know, to get a tweet, it only costs $1,000.
+[00:52:37.220 --> 00:52:37.500] That's true.
+[00:52:37.740 --> 00:52:41.560] I also do think that a lot of brands tried to create their own publishers,
+[00:52:41.580 --> 00:52:42.600] which didn't go so well.
+[00:52:42.720 --> 00:52:42.940] Yeah.
+[00:52:43.140 --> 00:52:43.340] Yeah.
+[00:52:43.400 --> 00:52:44.820] I remember Casper had one.
+[00:52:45.060 --> 00:52:45.840] Casper made one.
+[00:52:46.020 --> 00:52:47.060] Outdoor Voices made one.
+[00:52:47.200 --> 00:52:48.060] Harry's made one.
+[00:52:48.380 --> 00:52:49.040] Harry's made one.
+[00:52:49.220 --> 00:52:50.300] Dollar Shave bought one.
+[00:52:50.520 --> 00:52:50.880] Oh, really?
+[00:52:51.060 --> 00:52:51.900] And then they sunsetted it.
+[00:52:52.080 --> 00:52:54.440] Whenever I see a direct-to-consumer brand,
+[00:52:54.960 --> 00:52:57.560] let this be a piece of advice to all direct-to-consumer brands.
+[00:52:57.560 --> 00:53:01.160] Whenever I see a direct-to-consumer brand start their own publishing warehouse
+[00:53:01.160 --> 00:53:02.480] or like publisher like that,
+[00:53:02.620 --> 00:53:04.460] I'm like, this is the peak of that brand.
+[00:53:04.600 --> 00:53:04.740] Yeah.
+[00:53:04.840 --> 00:53:06.620] They're wasting money in a way that-
+[00:53:06.620 --> 00:53:07.160] They have enough money to waste.
+[00:53:07.300 --> 00:53:07.380] Yeah.
+[00:53:07.440 --> 00:53:07.520] Yeah.
+[00:53:07.560 --> 00:53:08.680] They're wasting too much money.
+[00:53:09.260 --> 00:53:11.140] As soon as like within a year,
+[00:53:11.240 --> 00:53:13.060] they're going to realize that this is a big waste of money.
+[00:53:13.600 --> 00:53:17.840] I think Casper hired like the guy who ran the New York Post or the New Yorker,
+[00:53:17.960 --> 00:53:19.920] something huge to run this publication.
+[00:53:20.240 --> 00:53:21.700] And it had like an interesting name as well.
+[00:53:21.820 --> 00:53:22.600] I forgot what it was called.
+[00:53:23.020 --> 00:53:25.220] And you know, ultimately the brand was worth $200 million.
+[00:53:25.820 --> 00:53:26.380] That's crazy.
+[00:53:26.380 --> 00:53:31.100] And so those things don't ever make sense unless they're a huge SEO play.
+[00:53:31.340 --> 00:53:34.900] The one guys who actually do that really well is Ancient Nutrition,
+[00:53:35.280 --> 00:53:40.500] which is like writing really long-form content that's unique and getting SEOed really well.
+[00:53:40.580 --> 00:53:45.060] I remember going to a conference sponsored by someone in San Francisco
+[00:53:45.060 --> 00:53:48.100] and they were speaking and they're like, this is how we SEO.
+[00:53:48.560 --> 00:53:51.580] And like, you know, we find out where there's a hole on Google.
+[00:53:51.580 --> 00:53:57.060] We write this really long-form content that's, you know, minimum of 3,000 words and drives a ton of our traffic.
+[00:53:57.300 --> 00:54:02.460] And like their ad strategy was sort of, at least this was many, many years ago, was get great SEO.
+[00:54:02.840 --> 00:54:04.140] We're going to hire a lot of publishers.
+[00:54:04.300 --> 00:54:06.060] That SEO is going to drive traffic to our website.
+[00:54:06.260 --> 00:54:09.120] So their marketing expense, a good portion of their marketing was not Facebook ads.
+[00:54:09.200 --> 00:54:11.640] It was actually guys writing articles, which is impressive.
+[00:54:11.640 --> 00:54:12.940] Yeah, very interesting.
+[00:54:13.660 --> 00:54:14.440] Okay, awesome.
+[00:54:14.560 --> 00:54:17.460] I think that's basically all the time we got for this episode nine.
+[00:54:17.940 --> 00:54:20.840] I know one of the episodes, okay, we got to talk about Quibi soon.
+[00:54:21.000 --> 00:54:24.780] We got to talk about trusting direct-to-consumer brands versus old incumbents.
+[00:54:25.140 --> 00:54:28.420] I always found it crazy that people would be like, yeah, I really trust Native.
+[00:54:28.600 --> 00:54:29.320] It's independently owned.
+[00:54:29.400 --> 00:54:35.160] And I was like, I did the science here and not the PhDs that they've got, but it worked out, obviously.
+[00:54:35.600 --> 00:54:39.940] And then I think at some point we've got to figure out a way to help people recommend TextTax,
+[00:54:40.120 --> 00:54:43.360] whether that's an episode or trying to get through at least a few of those things,
+[00:54:43.500 --> 00:54:45.080] through like subscriptions and SMS.
+[00:54:45.480 --> 00:54:46.920] So we want to get to all of that.
+[00:54:47.040 --> 00:54:49.580] And then we've got a big episode coming up in, I guess, a week now.
+[00:54:50.020 --> 00:54:50.240] Yeah.
+[00:54:50.640 --> 00:54:52.000] Okay, so season's almost over.
+[00:54:52.100 --> 00:54:52.780] A week from today is when we're recording it.
+[00:54:52.840 --> 00:54:53.020] Yeah.
+[00:54:53.240 --> 00:54:53.560] Okay, great.
+[00:54:53.720 --> 00:54:54.460] Season's almost over.
+[00:54:54.560 --> 00:54:54.740] Awesome.
+[00:54:54.980 --> 00:54:56.400] Well, thanks so much for joining.
+[00:54:56.660 --> 00:54:57.560] Please rate us.
+[00:54:57.780 --> 00:54:58.380] Please subscribe.
+[00:54:58.820 --> 00:54:59.460] Tell your friends.
+[00:54:59.620 --> 00:55:00.260] Text your mom.
+[00:55:01.160 --> 00:55:01.500] Fantastic.
+[00:55:01.800 --> 00:55:01.920] Okay.
+[00:55:02.700 --> 00:55:03.660] Thanks for tuning in.
+[00:55:03.660 --> 00:55:07.360] We'll be back next time to cut through the noise in CPG, retail, and e-commerce.
+[00:55:07.740 --> 00:55:10.920] And if you enjoyed this episode, then why not share it with a friend?
+[00:55:11.180 --> 00:55:14.580] And be sure to subscribe on whatever platform you listen to your podcasts on.

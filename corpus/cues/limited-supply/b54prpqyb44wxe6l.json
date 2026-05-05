@@ -1,0 +1,344 @@
+{
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 27.38,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nick.co slash email, I'm here to share everything I've learned, the wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.38,
+      "end": 55.2,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. All year long, everyone has been talking about measurement and incrementality, specifically making sure that your customer acquisition channels are actually driving incremental customers. This year, everyone was looking for a new channel that has scale and drives actual impact. And at Sharma Brands, we test everything for clients. One that actually works and I'm excited to partner with for Limited Supply is AppLovin."
+    },
+    {
+      "start": 55.2,
+      "end": 82.8,
+      "text": "Starting October 1st, AppLovin will be onboarding new advertisers who will be able to reach over 1 billion daily active users globally with over 150 million of those in the US alone. Think about everybody who plays Wordscapes or Candy Crush, for example. AppLovin integrates your ads into their game experience where it feels natural. To stay in the loop about product features, creative best practices, and how other advertisers are using the platform, go to nick.co slash AppLovin."
+    },
+    {
+      "start": 82.96,
+      "end": 112.26,
+      "text": "That's N-I-K dot C-O slash A-P-P-L-O-V-I-N. Welcome back to another episode of Limited Supply. Today, we've got a very fun episode. So you may remember that me and a couple of friends of mine, we hosted an event called the Q4 Summit hosted by Ecom Founders. And one of the talks that I got to do in the morning was with my good friend Aaron Nospich, who is the founder CEO of Breeze, the cannabis drink that's grown like crazy."
+    },
+    {
+      "start": 112.26,
+      "end": 139.44,
+      "text": "Aaron, you probably have seen screenshots on LinkedIn or Twitter, but he posts everything from his COGS, his P\u0026L, you know, everything he does. He shares it online and very transparently. And so during this talk, I got to ask him all the curious questions I had, you know, after seeing and synthesizing all the things that he's put out. So enjoy that episode today. And yeah, if you have any questions, you know, feel free to reach out to myself, feel free to reach out to Aaron."
+    },
+    {
+      "start": 139.98,
+      "end": 166.26,
+      "text": "He's very accessible as well. But enjoy the episode and I'll see you next week. All right. So today we've got one of my friends, very good friend for a long time. His name is Aaron. He's right here. And it's been amazing because just a few years ago we were in L.A. at a conference walking around and he was telling me that he's going to blow up this weed brand. And I thought this guy is crazy. You know, I've worked definitely a little crazy for sure."
+    },
+    {
+      "start": 166.8,
+      "end": 193.98,
+      "text": "I've worked in beverage. It's one of the hardest industries to work in, let alone doing it direct to consumer where you have the complications of the weight and the shipping and the packaging and everything that gets broken along the way. But this guy is on track to do 70 million dollars in revenue this year, completely bootstrapped. And I thought, what a better way to start the Q4 Summit than to just ask him a bunch of questions that I have myself. Hell yeah, dude. I appreciate you. Good to see you guys. So we'll save we'll save maybe 10 minutes at the end for Q\u0026A."
+    },
+    {
+      "start": 193.98,
+      "end": 221.48,
+      "text": "So if you've got a question, write it down. But Aaron, I want to start with just how did you how did you position Breeze from the beginning for explosive growth? We're going to get into Q4, but from the beginning, what did you set up that was different through all the experience you have, whether it's working, you know, as an agency with brands or specifically on the cannabis side, working with different cannabis brands? What did you do differently from a positioning, from a messaging, from a go to market standpoint that allowed you to have such explosive growth?"
+    },
+    {
+      "start": 221.48,
+      "end": 249.5,
+      "text": "Yeah, totally. Guys, this is the coolest conference of the year, by the way. Like, if you haven't realized this yet, this is like the place to be like the connections, the community. Like, this is a very curated group of people. A lot of us already know each other. If you don't know each other, like get connected quickly. This is a powerhouse of a group. And thank you for bringing us all together. So, you know, like with Breeze, in all brands that I build, like I really focus on myself first."
+    },
+    {
+      "start": 249.76,
+      "end": 276.24,
+      "text": "Like, and when I say myself, I try to identify the part of me that's the same part of you. And like, you know, we might be physically different. We might look different, you know, but like we both share. We both have our souls and those at some level have some interconnectivity. And so, at some level, humanity is the same. And so, I look at that part of myself and then I try to identify where is the opportunity for improvement, value add."
+    },
+    {
+      "start": 276.34,
+      "end": 295.48,
+      "text": "And so, for me, I was drinking a lot of alcohol. Been there, right? So, it's like I realized that as much fun as it was, that it was actually causing a lot of pain and harm. And alcohol is like a super old drug. Like, it's been around forever. There's not really been any innovation around it. And sometimes people think old things are just like good because they're old."
+    },
+    {
+      "start": 295.68,
+      "end": 323.3,
+      "text": "And that's not necessarily true. So, I saw that and I was like, okay, it sucks that something that feels so good and is so fun and helps me connect and celebrate and have such good times comes at such with so many consequences. And then I was smoking a lot of weed and I was like, this is great. I've loved that for a while. And then I'm like, okay, I got to figure out how to make this profitable. And legal. And legal. Legal. Super important. Yeah, because you don't want to be hiding around."
+    },
+    {
+      "start": 323.48,
+      "end": 351.88,
+      "text": "But also with weed, it's like you smoke weed and you're kind of like zonked a little bit. It's harder to connect with people. And they're taking an edible and it hits you 30 to 60 minutes later and you're like, where the fuck am I? I can sit in the corner and cry. So, I thought, and it's not good for your lungs. Like, cannabis can be great, but if it's not good for your lungs, it's like, how can you actually integrate these things? So, okay. I was like, okay, these two things are cool and they're great, but they're not really solving the problem."
+    },
+    {
+      "start": 351.88,
+      "end": 377.4,
+      "text": "So, what if there was a drink out there that would make you feel good? That would be comparable to the alcohol effect curve where you feel it quickly. It wears off quickly. You know, alcohol is cool because you can drink it and you feel like you're pretty conscious still. And so, you're like pretty aware. You feel connected and powerful or whatever. But what if it just gave you those benefits without the downsides? What if we could do that? So, we started with a THC, CBD, and lion's mane beverage. The THC came from hemp."
+    },
+    {
+      "start": 377.84,
+      "end": 407.32,
+      "text": "And for those of you who don't know, in 2018, they passed a farm bill that legalized cannabis sativa below 0.3%, which is called hemp. So, we took the THC from hemp and then we added the lion's mane. We did a lot of innovation on the ingredients, which is something people forget in e-commerce constantly. It's like, you can actually innovate, guys, and then you have a real moat. So, we did that, put them together, and we created this drink that was happy, euphoric, uplifting, that you felt in five minutes. Wear it off in like an hour, hour and a half."
+    },
+    {
+      "start": 407.5,
+      "end": 436.06,
+      "text": "It bypassed the liver so you didn't get this edible feeling. It was super chill. And so, we launched it on 420. We did 1.25 million our first eight months. And then we did 28.9 million our first full year. And then we did, we're pacing for like, I don't know, I think we'll do up to 75. Low in 50, high in 75. And it's been profitable this whole time. So, that's been sick. That's amazing. I think, too, one of the things, yeah, clap it up for Aaron. Thank you for drinking it."
+    },
+    {
+      "start": 437.6,
+      "end": 466.1,
+      "text": "One of the things that I remember you talking about at the very beginning, that's a common theme with a lot of the brands that we have here today, is they're all platforms for something, right? Like, a lot of these brands start with one product, but the goal is to be a platform. And you've sort of done that with Breeze. Can you talk a little bit about how you were thinking about that from the beginning? Yeah. So, there's kind of a couple ways I'd say. It's like one for beverage and one in general on the beverage side. So, you guys know like Coca-Cola. But then Coca-Cola owns all these other brands."
+    },
+    {
+      "start": 466.3,
+      "end": 491.8,
+      "text": "But it's not like you don't drink like Sprite by Coca-Cola. You drink Sprite and you drink Coke. And that's cool, but I don't think it's the best. I think it'd be cooler if it was like MacBook, iPhone, AirPods. Ooh, Apple. Right? That would be cooler. And so, the idea with Breeze is like, can we rank a range of feel-good tonics that would allow you to tap in, turn up, tune out, like whatever the vibe is,"
+    },
+    {
+      "start": 491.94,
+      "end": 518.1,
+      "text": "but be able to do so through a variety of effects all under one centralized brand. And no one's ever done that in beverage before. Also, no one's ever scaled a direct-to-consumer beverage before. It's like super heavy. It costs a shit ton. You got to convince Jimmy to ship it for you for cheap. I can't. So, yeah. So, the idea was if we could create a platform brand and essentially do the idea that Coke did, but Coca-Cola did, although they did have Coke in it originally, which is funny with Breeze."
+    },
+    {
+      "start": 518.1,
+      "end": 547.46,
+      "text": "So, if we could do that idea, put it all under one brand and kind of take the Apple model, the beverage, and then add like this internet layer to it, then we could probably build the biggest beverage in the whole world. And like, we're definitely fucking doing that. So, you were talking about D2C, but you have also now expanded to retail. Every retail store I've gone into that has Breeze, I always ask them, you know, how do these move? And they say they fly off the shelf, especially compared to the other brands. How have you thought about, you know, balancing out both channels?"
+    },
+    {
+      "start": 547.96,
+      "end": 576.92,
+      "text": "Well, it's kind of tricky, dude. Because like, you know, the internet thing has never been applied to beverage proper. Like, it's always been billboards or like sponsoring a stadium. And like, beverage companies are like really big companies. I didn't really realize that. Again, it's my first beverage company. And if I knew anything about beverage, I probably never would have started it. But, you know, the internet layer allows us to use the most efficient attention engines in human history, Facebook ads, TikTok, whatever, and drive so much awareness and demand."
+    },
+    {
+      "start": 576.92,
+      "end": 601.2,
+      "text": "And then that converts to sales so that we can have this like flywheel of attention and still revenue coming in. But here's the thing, guys. Like, maybe we can do some interaction just to like wake the fuck up. How many of you guys buy beverages online? Buy beverages online. Look how few people are holding their hands up. So if we're able to drive 28.9 million in online sales for a beverage company,"
+    },
+    {
+      "start": 601.36,
+      "end": 627.96,
+      "text": "what percentage of people want the product, would try the product if they saw it at retail? 80% probably. I mean, maybe 90% according to this room. So the thing that happened is like we did this whole D2C thing. And then as we went to retail, for example, Sprouts, we launched the Sprouts just recently. We gave them four months of inventory. They sold out in two weeks. It was the largest product launch they've ever had. Right. So it's like, why? Because people don't buy beverages online."
+    },
+    {
+      "start": 628.32,
+      "end": 657.92,
+      "text": "It's like they will buy a beverage online, but they don't want to. They want to buy it at retail. And the thing about big business, and that's probably one of the, you know, we talked about this later, but like guys, you can do so much bigger shit than you realize. Way bigger things than you realize. Like billion dollar companies are created often by people like you and me. And like we, in the e-commerce world, we get to this like a hundred million. Like that's the goal. If we can get to a hundred a million of revenue that I can buy the boat and I can have the house."
+    },
+    {
+      "start": 657.92,
+      "end": 684.34,
+      "text": "I got the girl or I got the guy and like, I'm good. I'm going to have kids and talk about my money forever. It's like, fuck that shit. Fuck that shit. Like, dude, the world is like literally our oyster. Like people, especially if you look at the last 200 years or 300 years, like there's anesties that were created. And guys, we have the internet, like an AI. What the fuck? Like, this is the first time in history that tools like this have been able, available."
+    },
+    {
+      "start": 684.64,
+      "end": 710.42,
+      "text": "Not just that, but like the infrastructure for like, uh, uh, for shipping and moving products. Like that hasn't existed. You can now do import and export across the globe, like legally and easily. So it's like, you know, we have to shake off this mindset of like small business and realize that the future is ours to create. Speaking of oysters, one of the oysters that you found was TikTok shop. Yeah."
+    },
+    {
+      "start": 710.42,
+      "end": 738.18,
+      "text": "And I want to talk a little bit about how, you know, I think one of the things that I've always thought, you know, eight years ago, I was working at a beverage company called Hintwater and also helped them go online. And I always thought kind of similar to you, like these large companies, they don't know, you know, the whole game in retail is getting people to the shelf. And with the large companies, they can just buy the aisle. Right. So no other brand is in there. And, um, online it's the best because it, it depends on who's the best at bringing people to your digital shelf."
+    },
+    {
+      "start": 739.02,
+      "end": 764.74,
+      "text": "And you've figured out a bunch of arbitrages by leveraging this platform that we just talked about within TikTok shop, within Amazon, on the.com. Can you talk a little bit about how you approached some of these channels and then how you even got on and scaled? Because TikTok, for example, you were one of the biggest beverages early on on TikTok. For one. Yeah. Yeah. Yeah. You know, the thing about the internet marketing world is that it changes all the time. Like Facebook is probably the only consistent piece of the whole thing."
+    },
+    {
+      "start": 765.14,
+      "end": 794.36,
+      "text": "So, um, you know, what I would say is like, you have to be really tapped into the community of like where the shift is happening and then see if that shift specifically applies to your brand. And not all things apply to your brand. Like Breeze did really well on Apple oven until we ran out of money and like couldn't pay them. And now it banned us, but it's a great channel. Like, um, but like, it doesn't work for like a lot of people, you know, it's like, so you have to like see where the puck is going. And then, so we got early on TikTok. I saw a lot of people were succeeding in TikTok shop."
+    },
+    {
+      "start": 794.74,
+      "end": 823.52,
+      "text": "And I was like, okay, let's try that. We hired a bunch of affiliates right out of the gate. And that first wave, it was all about automation. So just like mass sending emails to TikTok, uh, creators and like guys, people don't realize how big of a shift that was. Tick was TikTok was just like, I'm going to take our entire user base and turn it all to affiliates. No one's ever done that. So that was crazy. Uh, so we just got into that really quickly. We hired a bunch of creators to make videos about our product. And then we put ad spend behind it and they just blew up, uh, really quickly."
+    },
+    {
+      "start": 823.74,
+      "end": 852.02,
+      "text": "Also the side of the can said microdosed mushrooms in the can, which we changed. Cause that was probably a little illegal at the time. So I think that helped. Um, yeah, so it did really well. We kind of fell off with TikTok, but now we're reinvigorating it. You know, this is the thing. It's like these channels change so much so quickly. TikTok is actually pretty unprofitable of a channel for most people, but it's such a good demand engine that it leads to overflow for DTC sales and Amazon sales, uh, and retail sales."
+    },
+    {
+      "start": 852.02,
+      "end": 876.86,
+      "text": "And just to capstone that last piece about retail, I think the biggest opportunity in e-commerce today is retail biggest left by far. Like if we can have these attention engines that can drive so much demand cheaper than any like physical advertising can. And then you have your product at target that you can like move product move. Like Gillette has nothing on you literally. Yeah."
+    },
+    {
+      "start": 876.98,
+      "end": 906.22,
+      "text": "I remember when I was at hint, we did a incrementality study and found that on, on Facebook, we were okay at a 0.8 X return because in retail for every dollar we spent online, we'd make three. I need you to teach me how to do that. Cause like, I feel that impact, but I'm still like, that's the thing about attribution. You know, I feel bad for all these attribution companies cause they're all just lying. Like, I mean, they're trying, but they're, but it's not true. Like there's not really one way to effectively attribute this shit. Like got to have a collective picture. I mean, we were using triple whale."
+    },
+    {
+      "start": 906.36,
+      "end": 934.76,
+      "text": "We're using North bean. We're using like, we use literally all of them to tell a story. They all couldn't tell a different story. So you have to almost like intuit it a little bit or keep their own. Yeah. I've always thought that, uh, one thing that modern day media buyers don't have is that gut feeling from seven years ago. When you look at ads manager, well, until you get behind an ad account and you're like, feel the pulse of it, you know, like, and you don't really get it. You know, it's like, it's how do you teach people that? And especially the new, the new media buying, the new algorithm, it's not so obvious anymore. You're not."
+    },
+    {
+      "start": 935,
+      "end": 936.6,
+      "text": "So yeah, fully agreed."
+    },
+    {
+      "start": 965.18,
+      "end": 991.16,
+      "text": "You know me. You talk about app loving."
+    },
+    {
+      "start": 991.16,
+      "end": 1020.82,
+      "text": "Are there any other new channels you're looking at, um, or anything specific for, uh, that you've done that have helped, you know, build the brand in a more efficient way. I figured out how to create an offer recently. That was helpful. It's like, you know, an offers, I think are really kind of like a black box of, uh, information. So like the way I think about an offer is like, uh, you know, how you present the value of your product. Um, so it doesn't have to be a discount. It could be like, yo, like you're going to send you this breeze version."
+    },
+    {
+      "start": 1020.96,
+      "end": 1047.38,
+      "text": "We're going to send you flow and elevate and dream. You're going to get them all together. And you're going to say maybe a little bit of money and we're going to throw in some shots. It's like, do people want a deal? Like they want to feel like they're getting something or getting one over, you know, it's like, so if you can kind of create that and then drive traffic to it and then do like a variety of them and then iterate through them fairly quickly. You can kind of like even stabilize the landing page, like make a few good designs, get one good one and then rotate the offer. Um, there, there's a lot of opportunity there."
+    },
+    {
+      "start": 1047.76,
+      "end": 1076.54,
+      "text": "Like, see, the thing is like everyone gets so caught up in the tactics of like Apple oven is the way. Like if I figured up Apple oven, then I'll be able to scale to jillions of dollars like breeze, you know? And it's like, no, like just go back to the fundamentals of like good business. Like, um, what are your customers think about you? It's like, duh. Like, do the customers, uh, have a good experience? Like, what are they actually saying? I'm so glad I can see you finally. Uh, hi guys."
+    },
+    {
+      "start": 1076.96,
+      "end": 1106.42,
+      "text": "Um, like, what are the customers say about your product? What are the reviews say? Like, have you called them recently and just talk to them and see what they love and what they hate about you? Um, like when you do that, uh, you really start having a level of intimacy. Another way you can think of intimacy is into me. You see, right. So intimacy, like connection, this is what we're all actually just like dying for. Like, that's what we're really crazy. You know, like we're talking about like the humanity part of like, what do we actually all want? Love."
+    },
+    {
+      "start": 1108,
+      "end": 1134.44,
+      "text": "I like it for, um, speaking of that, you mentioned calling your customers. I think one of your best performing ads on Facebook is a video of you calling a customer is, is, uh, and that ties back to the offer piece. How did you come up with the offer? Was that by calling customers, understanding what they're buying, what they're keeping, what they're buying next? How did you go about that? The offer piece, like, uh, I still don't think we're like masters of it. Like we're figuring it out. You know, I have a lot of good friends like you and like that, like kind of point me in the right direction."
+    },
+    {
+      "start": 1134.62,
+      "end": 1162.1,
+      "text": "But, um, uh, you know, we just, I just thought like, okay, if, if you see all these options for breeze, you're like, which one do I buy? It probably had like a variety pack. So, so we did the variety pack. Um, for those of you don't know, the customer call thing we did. Um, so we were trying to come up with the creatives and a lot of the creative strategy I've done the entire time at breeze is just like put my phone up in the corner and just like record myself talking. Um, and I think that's what I would recommend to you as well. It's like, people are so sick of high production bullshit."
+    },
+    {
+      "start": 1162.26,
+      "end": 1190.66,
+      "text": "Like no one wants to watch some crazy commercial that cost a fortune. That's trying to convince them to do something. Like we're all kind of moving beyond the convincing to do something phase. Like you got to recognize that people are not these like little like rats to like trap into your e-commerce funnel. It's like the real people. It's like, how can you serve them at the highest level? So, so I take a lot of videos where I'm just like, I feel like I'm FaceTiming my friends and I'm just talking that way. And there's like some level of energy dynamic that's happening there that people can feel."
+    },
+    {
+      "start": 1191.08,
+      "end": 1220.78,
+      "text": "Um, more, most recently we were just like, okay, what if we would just call some of our top customers and see what they said? And so we called our top customers and they just like raved about how their husband got off alcohol and how it saved their marriage and, you know, things like this. And then we did another one recently. This one was hilarious. We're like, okay, what if we just called the customer who just bought the product like five to two, five minutes ago? And then we just refunded their money. Uh, and they did it on the call. So I, so I set the phone up on the side. Literally, I just record these on my iPhone. And I try not to edit them either."
+    },
+    {
+      "start": 1221,
+      "end": 1250.38,
+      "text": "Like just as close to raw as possible. And so I called the customer and this fucking order was $560. And I was like, my COO is going to kill me. So I was like, okay, we're going to call them and then we're going to flip our, or like, okay, what do we want to do this for this customer? I was like, let's flip a coin. If it's tails, we'll refund their money. If it's heads, we won't. But we recorded that part. So I'm like, literally, I'm like, we're going to call this customer. We're going to refund the money. If it's tails, we flip a coin. Like, fuck, it's tails. Okay."
+    },
+    {
+      "start": 1250.74,
+      "end": 1272.7,
+      "text": "So then we call the customers and we just like literally told them that. Like, hey, uh, you know, you just ordered them. The founder and CEO of breeze. And, um, you know, we just flipped the coin to decide if we're going to refund your money and they landed on tails. So we're going to refund your money. And she just flipped out, you know, she was so excited. So, so that cost me $500 and, uh, we ran it as an ad and probably made 500,000. Solid ROI."
+    },
+    {
+      "start": 1273.64,
+      "end": 1297,
+      "text": "Um, one of the things that I love about breeze is it's not, you know, like you're, you're a hardcore performance marketer. And I think everything that you do, even from a brand marketing standpoint, you, you validate it through a performance lens. And, um, one of the fascinating things about that is with breeze, it's built itself to be a brand to brand. It's not a Facebook ads brand. It's not a performance brand."
+    },
+    {
+      "start": 1297,
+      "end": 1324.3,
+      "text": "And the best part about that is there's a ton of organic conversation online, whether it's Reddit, whether it's Quora, whether it's TikTok, whether it's Twitter. Now, this all basically becomes the data set into LLMs and generative engine optimization. How do you think about that moving forward with breeze? Um, and also how do you think about and manage what's going on on Reddit and Quora? I mean, these are active conversations that are happening on a weekly basis."
+    },
+    {
+      "start": 1324.3,
+      "end": 1353.52,
+      "text": "I think that like organic conversations are an invitation to you, for you to be part of the conversation. Like, I don't think you should be monitoring them. I think you should be inside of them. And if people have shitty things to say about you, then respond to them and like deal with them, you know? And if you realize, oh shoot, we're actually doing bad things, like change it and then be better. You know, it's not about like the note that you played. It's about the next note that you play. Like, and that's just to be really clear. It's not about the thing that you did. It's about where you go from there. Like people think of a lot about like winning and failing."
+    },
+    {
+      "start": 1353.52,
+      "end": 1382.28,
+      "text": "Like it's like, oh man, I failed. I failed. It's like, dude, fuck that. Just like start winning. You know, it's like really just like keep going, making the next decision that is more aligned with success through reflection. So, um, so we integrate into the conversations that are organically happening. Uh, we try to talk directly to those people. Um, and then what was the other part of your question? No, just, uh, just how do you manage these communities? Is there anything you do on an ongoing basis to maintain them, to monitor them, reach out to people who complain? Yeah. Yeah."
+    },
+    {
+      "start": 1382.28,
+      "end": 1410.26,
+      "text": "We, um, we just try to be like really direct and open. We respond to every single Facebook comment we ever get, every Instagram comment we ever get. Um, you know, and like to your point about like the direct and the brand, I think a lot of people are either in like one camp or the other. It's like, we're brand marketers. Screw Facebook ads. Like we'll never be that brand, you know? And they're like, or we're just, you guys are all idiots. We're Facebook ads guys and we know how to make money quick. So screw your brand stuff. This is how you make money. It's like, put those shit together."
+    },
+    {
+      "start": 1410.7,
+      "end": 1435.2,
+      "text": "Like if you were, if you were going to recommend like three tactics or strategies that do a good job of combining brand and performance, what would you say? Organic content that you shoot yourself and then run it as ads. You know, it's like, what is a brand? Right. So like super important question. What is a brand? Uh, they like, if you've read zero to one by Peter Thiel, he like, he doesn't even know. So it's like, it's like, it's the magic mystery beyond everything. Yeah. It's really simple."
+    },
+    {
+      "start": 1435.38,
+      "end": 1465.08,
+      "text": "Like a brand is literally a capsule of meaning and everything that you do under that brand is what it means. So like, I'm in a spish, the things that you're hearing about me kind of define my brand to you. Right. Seems pretty accurate. I mean, maybe you know some things about me, like maybe you'll meet me later and we'll talk and like, now that's the brand. You know, it's like, try to bring that as close to authenticity and truth as possible because people feel that shit. They feel it. Like truth has a certain ring to it."
+    },
+    {
+      "start": 1465.24,
+      "end": 1490.28,
+      "text": "That ring is actually a resonance of the heart. It's not really a, it's not really an audible thing. It's a feeling. So it's like, you know, do your best to like integrate what you do as a brand as authentically and true as possible. And that's not like a tactic. It's just like, who are we and what do we actually want to do? And why are we trying to do it? And like, then do that and then remember that all those things that you do will be a reflection and become what the brand is."
+    },
+    {
+      "start": 1490.48,
+      "end": 1517.98,
+      "text": "And then like, just turn on a video camera, you know, like whatever you got to do, just like capture it and then put it out there. Like, it's important to like know how to say things so people can hear them more clearly. But if you're really just focused on truth fundamentally, they'll hear you. I always think too, I love that question of like, if this brand was a hotel or if this brand was a, you know, a luxury bus or whatever, how would it look? How would it feel? And if you can't really emulate that, you know, it's not that strong."
+    },
+    {
+      "start": 1518.32,
+      "end": 1548,
+      "text": "Room, you know, like an event, like, dude, this is a sick brand. Yeah. Yeah. Okay. So going into Q4, last Black Friday, I believe you started a promo. You did a layered promo. You started with a $15 store credit and I believe a giveaway. And then you did a $25 store credit for BFCM. And the New Year's you did like a New Year bundle. What did you learn from last year? How much we fucked up. Tell us, tell us what was wrong about this. It was so much. It was so bad."
+    },
+    {
+      "start": 1549.04,
+      "end": 1578.98,
+      "text": "And LLN, that's what you were asking me out earlier. We'll come back to that. So, you know, so the idea was let's start our Black Friday Cyber Monday promotion like way early. I think it was like October 1st because I wanted to, or not October 1st, yeah, October. Because I wanted to capture Halloween. I wanted to capture Thanksgiving and Black Friday. And I wanted to make sure people had drinks for the holiday. You know, Breeze is a beverage. So they take it to their family. It's like, hey, this is microdose, cannabis and mushrooms. Try it. Ha ha ha. So then they do that thing. So I wanted to make sure that they had it available so they could do that thing."
+    },
+    {
+      "start": 1579.04,
+      "end": 1608.7,
+      "text": "So I started early. That was a good decision. But the promotion was so long that we just became a discount brand for like two months, three months, you know. And then when Black Friday Cyber Monday came around, like you were talking about feeling the pulse. If you've been through a Black Friday Cyber Monday, you know when you're on it and you know when you're not on it. It's almost like surfing. Like you can kind of feel the wave roll through you or you can feel you're capturing the wave. So I was feeling that we were just missing the wave like completely. So I called Nick and I called Brandon and like we just like got in a video call."
+    },
+    {
+      "start": 1608.8,
+      "end": 1637.42,
+      "text": "We just like sat there and like changed everything in real time on Black Friday and then relaunched the promotion, pushed it and then captured a little bit of the wave. But we definitely, we definitely. So what I would say about that is like if you're gonna do a longer promotion, like change it before Black Friday Cyber Monday and not like little change, big change. Make it feel really novel and different. Like don't let it, don't let people get lost in the sameness of your brand."
+    },
+    {
+      "start": 1637.54,
+      "end": 1665.94,
+      "text": "You know, like really create some differentiation there. Totally. Totally. So what are you doing this year that's different or whether it's from an output standpoint, deliverable standpoint, promo standpoint, what are you doing? We're trying to integrate retail and digital at the same time. Like that's kind of the big innovation that Breeze kind of is doing in like in the beverage world is we're figuring out how to make the retail and the digital one thing."
+    },
+    {
+      "start": 1665.94,
+      "end": 1687.02,
+      "text": "Which, you know, retailers are super scared about it initially because they're like, oh my gosh, we're gonna lose all this money to your DTC stuff. But it's like, no, we're actually driving net new customers into your store and then they're buying other shit. And so then you're making a lot more money from us actually. So we're running the Black Friday and Cyber Monday promotion early again on both digital and retail, kind of like trying to create some parity between the two."
+    },
+    {
+      "start": 1687.86,
+      "end": 1715.06,
+      "text": "And it's, I forget exactly what it is, but it's something we're gonna change it right before Black Friday and Cyber Monday, but maybe a little bit longer before. So it has a little bit more of a runway so we don't get lost in the sauce of all mixed emails and stuff. And so we're gonna do that. I want to touch on the LM thing real quick. So this is super important. Like the content that you're putting out now is what's training these AI models actively. And like you don't have to get lost in the AI sauce of all the things you don't know."
+    },
+    {
+      "start": 1715.06,
+      "end": 1742.56,
+      "text": "Just like literally realize that the content that exists on the internet is what it's learning from. So if you have content out there, it's learning from it. If you don't have content out there, it's not learning or it's gonna make up its own stories. Funny enough. So some of you guys, do you guys know Nick Shackelford? Yeah, so we, okay, so Nick's my partner, right? And I love Nick. And this is something me and him had to like really go through together. Nick has a bigger audience than me on social media or has had."
+    },
+    {
+      "start": 1742.56,
+      "end": 1772.06,
+      "text": "And so when I started Breeze, I brought Nick on and I'm like, hey, I'll give you a percentage of the company. Come on and talk about the brand. Like if Nick Shackelford is behind this brand, it will blow up like crazy, especially that initial spark. You know, it was a little tension and no one was expecting that from him at all. So it was like, okay, this is gonna be like a lateral move. That would be crazy. We kind of talked about this at the beginning. So the trouble though is Nick has like talked so much on the internet. And so even though Nick's just a partner in Breeze, he didn't found Breeze or he's not co-founder. Or if you ask GPT who founded Breeze, it's like Nick's a co-founder."
+    },
+    {
+      "start": 1772.54,
+      "end": 1801.14,
+      "text": "Dude, that hurt my ego so bad for so long. You know, and then you realize like, dude, if people are like out there hearing about Breeze in like a wider and wider way, like they're the funnel or whatever is getting bigger and wider. And then they're all channeling back up to truth ultimately. So, you know, I'd say kind of two things. It's like realize that if you're not like writing your own shit or putting it out there, like it's going to make up its own stories. And so you have to like be vigilant to actually like, if you want that."
+    },
+    {
+      "start": 1801.88,
+      "end": 1831.8,
+      "text": "And two, just a lesson in ego for me, you know, publicly is like really whatever is getting attention to your brain at the end of the day is a good thing. Like ultimately. And like if you can take yourself out of it, and this was a hard lesson for me. So maybe you can learn from it. It's like if you can remove a little bit of the like I did this shit-ness, then it can become what it's supposed to be. And that is way cooler than I did it. Because like I didn't do it. You fucking did it. Right. Okay. I'm being told we are out of time."
+    },
+    {
+      "start": 1832,
+      "end": 1859.44,
+      "text": "However, one thing we're going to do is after this Black Friday for Breeze, Aaron's going to publish his numbers. If you sign up for the Q4 checklist at the end of the day, we'll send you all the numbers. We can compare it year over year and do a little analysis to everybody. We've got no more time for questions, unfortunately, but Aaron's here all day. We've got a snack break, lunch break, coffee break, so feel free to find Aaron or myself. And thanks for being here, guys. Bye, guys. Appreciate it. Thanks for listening."
+    },
+    {
+      "start": 1859.68,
+      "end": 1870,
+      "text": "We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one. Good afternoon.�"
+    }
+  ]
+}

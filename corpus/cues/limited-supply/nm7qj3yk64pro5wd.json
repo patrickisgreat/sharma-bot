@@ -1,0 +1,3514 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 5.5,
+      "text": " Think about all of the thousands of businesses that exist, that say they want to do something."
+    },
+    {
+      "start": 5.5,
+      "end": 10.3,
+      "text": " They say we're going to give 1% or 10% of net profits away."
+    },
+    {
+      "start": 10.3,
+      "end": 18.7,
+      "text": " There's no real way to validate that any of that happens until, you know, unless they file for bankruptcy or they go IPO or whatever it is."
+    },
+    {
+      "start": 18.7,
+      "end": 27.2,
+      "text": " And so I thought why doesn't something like this exist in the direct consumer world, or for brands that are doing sub a billion dollars in revenue?"
+    },
+    {
+      "start": 27.2,
+      "end": 42.2,
+      "text": " You know, I should be able to get- if I go buy mascara, I don't buy mascara, but if I bought mascara from Rare Beauty, I should be able to take that Shopify receipt or that Sephora receipt, upload it into this app and get, you know, 25 cents."
+    },
+    {
+      "start": 42.2,
+      "end": 50.2,
+      "text": " And when I get a dollar, then I can donate that to give a family 13 days of water in Africa and see that impact happening."
+    },
+    {
+      "start": 51.2,
+      "end": 57.2,
+      "text": " This is Limited Supply, the place for refreshingly real takes on what D to C is really like."
+    },
+    {
+      "start": 57.2,
+      "end": 61.2,
+      "text": " Where your host, Nik and Moiz? Let's start talking about money!"
+    },
+    {
+      "start": 61.2,
+      "end": 66.2,
+      "text": " Get paid monthly and take a year off from running your Shopify business with OpenStore Drive."
+    },
+    {
+      "start": 66.2,
+      "end": 73.2,
+      "text": " OpenStore's experts will handle everything including your businesses marketing, customer support, inventory, and more."
+    },
+    {
+      "start": 73.2,
+      "end": 81.2,
+      "text": " Shopify businesses with more than 500K and yearly net sales qualify had to open.store slash limited for details."
+    },
+    {
+      "start": 81.2,
+      "end": 87.2,
+      "text": " Alright Moiz, we've got episode three, season six, it's our second in person episode."
+    },
+    {
+      "start": 87.2,
+      "end": 94.2,
+      "text": " First one was kind of weird because people- there was 40 people, 80 eyeballs staring at us blinking straight out of a cartoon."
+    },
+    {
+      "start": 94.2,
+      "end": 99.2,
+      "text": " But I'm excited for this episode. I've prepared some fun topics to go through."
+    },
+    {
+      "start": 99.2,
+      "end": 103.2,
+      "text": " Some Moiz in this episode, we've got some interesting resources for people."
+    },
+    {
+      "start": 103.2,
+      "end": 112.2,
+      "text": " We're going to cover show fields whether it's worth doing it and a checklist that founders can use to evaluate if opportunities like show fields come up."
+    },
+    {
+      "start": 112.2,
+      "end": 118.2,
+      "text": " We'll give you a site that I- you are all that I made to protect you from Google's pricing transparency update."
+    },
+    {
+      "start": 118.2,
+      "end": 123.2,
+      "text": " We're going to discuss one thing that a brand did not do that they should have done at launch,"
+    },
+    {
+      "start": 123.2,
+      "end": 126.2,
+      "text": " that would have made them a lot of money upfront but they didn't do."
+    },
+    {
+      "start": 126.2,
+      "end": 130.2,
+      "text": " And I wrote out all the five things that they need to be doing so that's at the end of the episode."
+    },
+    {
+      "start": 130.2,
+      "end": 131.2,
+      "text": " Can't wait for that."
+    },
+    {
+      "start": 131.2,
+      "end": 136.2,
+      "text": " Alright, so the first one, it's actually an idea. I'm curious about your thoughts here."
+    },
+    {
+      "start": 136.2,
+      "end": 143.2,
+      "text": " It's a charitable focused idea and I was inspired by- I went to the Main Street Summit a couple weeks ago"
+    },
+    {
+      "start": 143.2,
+      "end": 148.2,
+      "text": " and I saw this guy named Scott talk about his charity called Charity Water."
+    },
+    {
+      "start": 148.2,
+      "end": 153.2,
+      "text": " Charity Water is really cool, they get 100% of the donation to building water wells around the world."
+    },
+    {
+      "start": 153.2,
+      "end": 162.2,
+      "text": " And so I thought what can we do in our capitalistic world that creates some offspring to go and focus on charity?"
+    },
+    {
+      "start": 162.2,
+      "end": 170.2,
+      "text": " So I saw recently- I think it was like an aerosol can and at the bottom it had- it said box tops."
+    },
+    {
+      "start": 170.2,
+      "end": 171.2,
+      "text": " Do you remember box tops?"
+    },
+    {
+      "start": 171.2,
+      "end": 172.2,
+      "text": " No."
+    },
+    {
+      "start": 172.2,
+      "end": 180.2,
+      "text": " Okay, so box tops is weird to me that it was on an aerosol can because box tops originated by General Mills in 1996."
+    },
+    {
+      "start": 180.2,
+      "end": 186.2,
+      "text": " So when I was born, General Mills said we're gonna put- I know you like that."
+    },
+    {
+      "start": 186.2,
+      "end": 193.2,
+      "text": " When I was born, General Mills said we're gonna put a little stamp or rectangle on the top of a Lucky Charms box."
+    },
+    {
+      "start": 193.2,
+      "end": 198.2,
+      "text": " You buy the box four bucks of cereal, you cut out the top, your kid takes it to school,"
+    },
+    {
+      "start": 198.2,
+      "end": 202.2,
+      "text": " the school can cash it in for a donation from General Mills."
+    },
+    {
+      "start": 202.2,
+      "end": 204.2,
+      "text": " I've never even- didn't even know you could do that."
+    },
+    {
+      "start": 204.2,
+      "end": 205.2,
+      "text": " Yeah."
+    },
+    {
+      "start": 205.2,
+      "end": 207.2,
+      "text": " And as born 1984 and I ate more cereal than you did, I bet."
+    },
+    {
+      "start": 207.2,
+      "end": 214.2,
+      "text": " Yeah well my mom never bought like General Mills cereal, it was always the one in like the organic aisle so I never got this opportunity."
+    },
+    {
+      "start": 214.2,
+      "end": 219.2,
+      "text": " But I was always jealous of the kids who came in with their box tops, tabs."
+    },
+    {
+      "start": 219.2,
+      "end": 220.2,
+      "text": " So anyways-"
+    },
+    {
+      "start": 220.2,
+      "end": 223.2,
+      "text": " Well they sound like they had- like you know they were eating sugar and you were eating sugar."
+    },
+    {
+      "start": 223.2,
+      "end": 224.2,
+      "text": " The better stuff so-"
+    },
+    {
+      "start": 224.2,
+      "end": 225.2,
+      "text": " Yeah definitely."
+    },
+    {
+      "start": 225.2,
+      "end": 229.2,
+      "text": " So every cut of this little rectangle cut, you know kid parts-"
+    },
+    {
+      "start": 229.2,
+      "end": 231.2,
+      "text": " Yeah I know what you're talking about, I remember seeing it now yeah."
+    },
+    {
+      "start": 231.2,
+      "end": 237.2,
+      "text": " Ten cents was how much it was worth and then I thought okay what about-"
+    },
+    {
+      "start": 237.2,
+      "end": 242.2,
+      "text": " Did you ever see that move the Netflix docky series of Pepsi when they had the rewards program?"
+    },
+    {
+      "start": 242.2,
+      "end": 245.2,
+      "text": " Yeah I mean we read about that case in contracts law."
+    },
+    {
+      "start": 245.2,
+      "end": 250.2,
+      "text": " Yeah and so I thought like what's the scenario here is that possible but no they cap it at 20k."
+    },
+    {
+      "start": 250.2,
+      "end": 251.2,
+      "text": " So 20k a year-"
+    },
+    {
+      "start": 251.2,
+      "end": 252.2,
+      "text": " For any school."
+    },
+    {
+      "start": 252.2,
+      "end": 253.2,
+      "text": " Okay gotcha."
+    },
+    {
+      "start": 253.2,
+      "end": 256.2,
+      "text": " Tell about the story about the Pepsi thing really quick life."
+    },
+    {
+      "start": 256.2,
+      "end": 264.2,
+      "text": " Yeah so Pepsi basically set up a genius rewards program back when nobody had a rewards program and they basically said for every-"
+    },
+    {
+      "start": 264.2,
+      "end": 268.2,
+      "text": " Was it a bottle cap or 12 pack or like yeah yeah."
+    },
+    {
+      "start": 268.2,
+      "end": 270.2,
+      "text": " You'd get some form of currency in your pack of things."
+    },
+    {
+      "start": 270.2,
+      "end": 276.2,
+      "text": " Yeah you send it into Pepsi and they log how many Pepsi points you have and you can get,"
+    },
+    {
+      "start": 276.2,
+      "end": 279.2,
+      "text": " you know it was really to drive merch and kind of brand awareness."
+    },
+    {
+      "start": 279.2,
+      "end": 281.2,
+      "text": " Yeah I had a Pepsi double bag from there."
+    },
+    {
+      "start": 281.2,
+      "end": 282.2,
+      "text": " Yeah oh really?"
+    },
+    {
+      "start": 282.2,
+      "end": 283.2,
+      "text": " Yeah I loved it."
+    },
+    {
+      "start": 283.2,
+      "end": 285.2,
+      "text": " It cost me 200 Pepsi points I still remember it."
+    },
+    {
+      "start": 285.2,
+      "end": 286.2,
+      "text": " Oh that's amazing."
+    },
+    {
+      "start": 286.2,
+      "end": 294.2,
+      "text": " In their commercial some ad agency said you know if you get 35 I think it was 35 million or 17 million Pepsi points we'll buy you a jet."
+    },
+    {
+      "start": 294.2,
+      "end": 296.2,
+      "text": " Yeah and there was no disclaimer."
+    },
+    {
+      "start": 296.2,
+      "end": 301.2,
+      "text": " And it was a hairier fighter jet to be clear not just like an airplane but like a military aircraft."
+    },
+    {
+      "start": 301.2,
+      "end": 302.2,
+      "text": " Full military aircraft."
+    },
+    {
+      "start": 302.2,
+      "end": 310.2,
+      "text": " Yeah and one kid saw it and raised money from an investor to go get all of these things they consulted with lawyers to make sure that"
+    },
+    {
+      "start": 310.2,
+      "end": 315.2,
+      "text": " from the ad it was allowed and they did it and I think they ended up settling after."
+    },
+    {
+      "start": 315.2,
+      "end": 322.2,
+      "text": " Well the guy he like sent in all the points and he said send me the hairier fighter jet and Pepsi's like that's a joke."
+    },
+    {
+      "start": 322.2,
+      "end": 329.2,
+      "text": " And so he sued Pepsi and he's like give me the hairier fighter jet and I'm almost certain it was this case in contracts law that we read."
+    },
+    {
+      "start": 329.2,
+      "end": 333.2,
+      "text": " And the judge was like like a frog when you dissect a joke you kill it."
+    },
+    {
+      "start": 333.2,
+      "end": 339.2,
+      "text": " Yeah and you know the judge was like okay this is not required you don't need to give the hairier jet because"
+    },
+    {
+      "start": 339.2,
+      "end": 345.2,
+      "text": " otherwise you could you know you'd have an army now anyway this is a size tell me about the charity thing."
+    },
+    {
+      "start": 345.2,
+      "end": 350.2,
+      "text": " Okay so they had this program for a while right you cut it out the top."
+    },
+    {
+      "start": 350.2,
+      "end": 357.2,
+      "text": " Campals had something similar called labels for education in fact I saw that a lot of other companies had something"
+    },
+    {
+      "start": 357.2,
+      "end": 362.2,
+      "text": " so Pampers have something has something called Gifts to Grow where PNG donates to charity."
+    },
+    {
+      "start": 362.2,
+      "end": 368.2,
+      "text": " Coke has my coke rewards where I think you can get some swag out of it but most people donate it to schools or charity."
+    },
+    {
+      "start": 368.2,
+      "end": 373.2,
+      "text": " Kellogg's has Kellogg's family rewards you scan the receipt to donate something to charity."
+    },
+    {
+      "start": 373.2,
+      "end": 379.2,
+      "text": " Essentially it's a huge write-off as well as a big brand building scheme for these companies and"
+    },
+    {
+      "start": 379.2,
+      "end": 382.2,
+      "text": " it's not used towards scheme."
+    },
+    {
+      "start": 382.2,
+      "end": 384.2,
+      "text": " Yeah I was trying to think of something else."
+    },
+    {
+      "start": 384.2,
+      "end": 386.2,
+      "text": " This charity is a scheme."
+    },
+    {
+      "start": 386.2,
+      "end": 389.2,
+      "text": " In addition, in addition to the bad word."
+    },
+    {
+      "start": 389.2,
+      "end": 397.2,
+      "text": " And so you know it's not classified as a business like if you ask the spokesperson they don't say it's a business or a department"
+    },
+    {
+      "start": 397.2,
+      "end": 400.2,
+      "text": " of business and they don't say it's a charity."
+    },
+    {
+      "start": 400.2,
+      "end": 402.2,
+      "text": " They say it's something kind of in between."
+    },
+    {
+      "start": 402.2,
+      "end": 411.2,
+      "text": " So anyways so in 2019 October 2019 box tops launched an app and the app the idea was we're going to stop"
+    },
+    {
+      "start": 411.2,
+      "end": 416.2,
+      "text": " getting people to cut these things out and take them manually and then the school has to manually process it."
+    },
+    {
+      "start": 416.2,
+      "end": 418.2,
+      "text": " We're just going to do it all through an app."
+    },
+    {
+      "start": 418.2,
+      "end": 421.2,
+      "text": " And so the way they do it is you kind of like I bought it."
+    },
+    {
+      "start": 421.2,
+      "end": 426.2,
+      "text": " You buy the product, you scan your receipt and then based on your receipt you can allocate the school you want to send it to."
+    },
+    {
+      "start": 426.2,
+      "end": 435.2,
+      "text": " The people who are buying this their initial thought was oh these guys are invading our privacy which is a wild thought to have but it makes sense."
+    },
+    {
+      "start": 435.2,
+      "end": 444.2,
+      "text": " Like if my mom was scanning her receipts she'd probably have the same thought and the donations dropped a ton like first they drop by a third then they drop by 90%"
+    },
+    {
+      "start": 444.2,
+      "end": 452.2,
+      "text": " and so a school that was supposed to make you know 20 grand or $14,000 was now making a couple hundred bucks."
+    },
+    {
+      "start": 452.2,
+      "end": 460.2,
+      "text": " Then I started thinking okay is there a company that exists like what if you were to buy native and every time you bought native instead of"
+    },
+    {
+      "start": 460.2,
+      "end": 468.2,
+      "text": " native on their site saying you know when you buy we're going to donate 1% to charity or whatever it's like in this case if you buy native"
+    },
+    {
+      "start": 468.2,
+      "end": 477.2,
+      "text": " or if you go to Sephora and buy a serum you know you get 25 cents put into an account in a universal app so this app has to work across everything."
+    },
+    {
+      "start": 477.2,
+      "end": 479.2,
+      "text": " And then you can decide where that money goes."
+    },
+    {
+      "start": 479.2,
+      "end": 487.2,
+      "text": " And so there is one company called Fetch Rewards but they only work with the Pepsi's, the General Mills, the Lori Al's, the Colgate to the world."
+    },
+    {
+      "start": 487.2,
+      "end": 497.2,
+      "text": " But think about all of the thousands of businesses that exist that say they want to do something you know they say oh we're going to give 1% or 10% of net profits away"
+    },
+    {
+      "start": 497.2,
+      "end": 507.2,
+      "text": " there's no real way to validate that any of that happens until you know unless they file for bankruptcy or they go IPO or whatever it is."
+    },
+    {
+      "start": 507.2,
+      "end": 515.2,
+      "text": " And so I thought why doesn't something like this exist in the direct consumer world or for brands that are doing sub a billion dollars in revenue."
+    },
+    {
+      "start": 515.2,
+      "end": 526.2,
+      "text": " You know I should be able to get if I go buy mascara, I don't buy mascara but if I bought mascara from Rare Beauty I should be able to take that Shopify receipt or that Sephora receipt"
+    },
+    {
+      "start": 526.2,
+      "end": 536.2,
+      "text": " uploaded into this app and get you know 25 cents and when I get a dollar then I can donate that to give a family 13 days of water in Africa"
+    },
+    {
+      "start": 536.2,
+      "end": 538.2,
+      "text": " and see that impact happening."
+    },
+    {
+      "start": 538.2,
+      "end": 553.2,
+      "text": " And one it's sort of a way to make it easy for everybody to see that their, that the brand is actually doing something to the consumers feel like oh you know if I buy Rare Beauty over Lori Al maybe I'll get an extra 3 cents or an extra 5 cents"
+    },
+    {
+      "start": 553.2,
+      "end": 561.2,
+      "text": " that makes me feel better as a customer and also 3 it just like it's so easy to do like I'm sure I'm shocked nobody has done this"
+    },
+    {
+      "start": 561.2,
+      "end": 566.2,
+      "text": " and I thought the first the easiest person that could probably do this overnight is probably the shop app."
+    },
+    {
+      "start": 566.2,
+      "end": 575.2,
+      "text": " I like your idea for a couple reasons as a business I like it because there's a real moat like you know the moat is everybody uses us"
+    },
+    {
+      "start": 575.2,
+      "end": 589.2,
+      "text": " like you know if you've got an app right let's say it was called like you know Nick Sharma app everyone uses Nick Sharma app across multiple brands from Rare Beauty to Native to Quip to whoever is on Shopify to say hey look your money is going to be earned on the Nick Sharma app"
+    },
+    {
+      "start": 589.2,
+      "end": 592.2,
+      "text": " go to the Nick Sharma app to like decide where you want to put it."
+    },
+    {
+      "start": 592.2,
+      "end": 600.2,
+      "text": " So I think the Nick Sharma app all of a sudden has a moat which is only one business will have the network effects to make sure that we aggregate and all."
+    },
+    {
+      "start": 600.2,
+      "end": 608.2,
+      "text": " The thing I'm not sure about is twofold one is does anyone like is the amount ever large enough."
+    },
+    {
+      "start": 608.2,
+      "end": 616.2,
+      "text": " Is the amount ever large enough to really make a difference for the rare beauties of the world like for instance if I was going to buy a L'Oreal makeup or a rare beauty makeup."
+    },
+    {
+      "start": 616.2,
+      "end": 627.2,
+      "text": " I wouldn't be like oh well I'm going to get 3 cents or like 10 cents or maybe even 50 cents to go donate to somebody because generally the AOV is $80 like I'm not thinking about 50 cents."
+    },
+    {
+      "start": 627.2,
+      "end": 635.2,
+      "text": " Maybe I'm wrong I could be wrong. I'm a little cautious about whether brands would adopt it because I'm not sure if brands would be like yes consumers care about this."
+    },
+    {
+      "start": 635.2,
+      "end": 640.2,
+      "text": " Yeah and then I also think the other worry would be that where does Nick Sharma app donate money to right now."
+    },
+    {
+      "start": 640.2,
+      "end": 641.2,
+      "text": " Yeah."
+    },
+    {
+      "start": 641.2,
+      "end": 646.2,
+      "text": " Like if it's only charity water great but if I have the right to choose between yeah I think you should be able to choose."
+    },
+    {
+      "start": 646.2,
+      "end": 655.2,
+      "text": " Yeah but okay so right now there could be people who are like I think this charity is supporting that like you know well I don't know if that like you know you're probably right you could probably say salvation army"
+    },
+    {
+      "start": 655.2,
+      "end": 661.2,
+      "text": " like a bunch of safe charities where you're like I'm not worried about people being like you're supporting people that I don't like."
+    },
+    {
+      "start": 661.2,
+      "end": 668.2,
+      "text": " Yeah I think on the charity side you would have to make sure that it's it's properly independently vetted and all of that stuff."
+    },
+    {
+      "start": 668.2,
+      "end": 669.2,
+      "text": " Yeah."
+    },
+    {
+      "start": 669.2,
+      "end": 680.2,
+      "text": " On the brand side there's got to be some sort of an advantage of hey you've got to figure out how to write off you know $5 million will help you do that by offsetting some of the purchases or yeah."
+    },
+    {
+      "start": 680.2,
+      "end": 689.2,
+      "text": " You know we can go from 10 cents to you know a dollar so every time you spend 80 customer spends 80 bucks will take a dollar from that and deduct that for you."
+    },
+    {
+      "start": 689.2,
+      "end": 693.2,
+      "text": " Yeah and the other interesting thing is you could all of a sudden run sales in this way too."
+    },
+    {
+      "start": 693.2,
+      "end": 694.2,
+      "text": " Yeah."
+    },
+    {
+      "start": 694.2,
+      "end": 698.2,
+      "text": " You could be like hey this weekend if you purchase we're going to donate 5% instead of just 1%."
+    },
+    {
+      "start": 698.2,
+      "end": 705.2,
+      "text": " Okay those sales do really well like if you've ever run a sale using like a shopping gives or a gives which is like a shopper."
+    },
+    {
+      "start": 706.2,
+      "end": 718.2,
+      "text": " But you can say like instead of running 20% off this weekend we're going to donate a 5 bucks or we're going to donate a meal for every everything you buy or we're going to donate X for every time you buy something."
+    },
+    {
+      "start": 718.2,
+      "end": 723.2,
+      "text": " And those sales do I would say almost just as well as if a customer is getting a discount."
+    },
+    {
+      "start": 723.2,
+      "end": 726.2,
+      "text": " That's interesting let me ask you one weird question."
+    },
+    {
+      "start": 726.2,
+      "end": 729.2,
+      "text": " If you're like box top you mentioned that like nobody wants to scan the receipt."
+    },
+    {
+      "start": 729.2,
+      "end": 730.2,
+      "text": " Yeah."
+    },
+    {
+      "start": 730.2,
+      "end": 739.2,
+      "text": " Even though it's a lot easier scanning a receipt than it is to clip out this thing and have your 8 year old son go take this to his teacher and remember to do that not lose it across along the way."
+    },
+    {
+      "start": 739.2,
+      "end": 747.2,
+      "text": " Is it like this is you know a little gross but is it better for Kellogg to be like okay great redemptions are followed by 90%."
+    },
+    {
+      "start": 747.2,
+      "end": 752.2,
+      "text": " You know what we're not going to do is we just save a lot of money and we still get the credit for doing box tops."
+    },
+    {
+      "start": 752.2,
+      "end": 762.2,
+      "text": " I think the motive also on the Kellogg's and the General Mill side is oh we can actually see what are people buying or what is moving or what is driving so you have in the stores."
+    },
+    {
+      "start": 762.2,
+      "end": 773.2,
+      "text": " Yeah that we are sitting next to or maybe even like you know if you're selling cereal General Mill says well who are we losing to in the nutrition bar category they can see sure sure sure."
+    },
+    {
+      "start": 774.2,
+      "end": 779.2,
+      "text": " Yeah I do like the idea and I do think that like it has network effects which I love."
+    },
+    {
+      "start": 779.2,
+      "end": 790.2,
+      "text": " It's good salt because you know usually I think that almost all of these software written for Shopify apps I think that some guy in India should be cloning and charging 10% the price and killing the market."
+    },
+    {
+      "start": 790.2,
+      "end": 795.2,
+      "text": " Like Clavio I think Clavio says they have you know 20,000 customers that are over $15,000 a year."
+    },
+    {
+      "start": 795.2,
+      "end": 803.2,
+      "text": " I know Jimmy is doing this or maybe Clavio is not a good example but there's a duplicate this order app that costs you certain amount."
+    },
+    {
+      "start": 803.2,
+      "end": 807.2,
+      "text": " Why isn't some guy in India copying this app and charging $10 a month for it."
+    },
+    {
+      "start": 807.2,
+      "end": 812.2,
+      "text": " All the review apps copy all offer reviews $10 a month."
+    },
+    {
+      "start": 812.2,
+      "end": 817.2,
+      "text": " Every single new shop of high business is going to use you instead of Yap Power or a Kendo or anybody."
+    },
+    {
+      "start": 817.2,
+      "end": 827.2,
+      "text": " And so I think that like all of like their very few network effects when it comes to software in the e-commerce space and so I think every some guy in India should own all the apps."
+    },
+    {
+      "start": 827.2,
+      "end": 834.2,
+      "text": " This is one that has genuine network effects where you got to go out to brands and say hey we're going to do a good job you're going to get more sales from us."
+    },
+    {
+      "start": 834.2,
+      "end": 840.2,
+      "text": " You can put a little badge at the bottom almost like that cruelty free bunny right everyone recognize it as this is legitimate."
+    },
+    {
+      "start": 840.2,
+      "end": 851.2,
+      "text": " That's exactly the thought I had to was like in that business of the labels that we've talked about before like the kosher label it's all before the gluten free label that's paid for."
+    },
+    {
+      "start": 851.2,
+      "end": 859.2,
+      "text": " This is another label you can put on you know it's like having at your 7-11 stores as clean air inside you know."
+    },
+    {
+      "start": 859.2,
+      "end": 861.2,
+      "text": " Sure."
+    },
+    {
+      "start": 861.2,
+      "end": 872.2,
+      "text": " I like the business. I think you're right that are I think that it does take a little bit of like time to get those businesses on board yeah I do like the idea of like okay now bought this guy I can go over here and spend my money for the shop app."
+    },
+    {
+      "start": 872.2,
+      "end": 882.2,
+      "text": " Like you know whenever I buy they say you're about to get 1% back where does that money go I never see it's in the app for something balance yeah and you plant trees which I feel like you could I wish you could change that you"
+    },
+    {
+      "start": 882.2,
+      "end": 888.2,
+      "text": " know I'd rather put water I'd rather contribute to building a well in Africa then plant another tree."
+    },
+    {
+      "start": 888.2,
+      "end": 900.2,
+      "text": " Wait the when it says you get 1% cash when it says 1% back at do I get the cash or does it goes towards water or something no no you get the cash and then but you know I think they're making 2.9 or whatever their split with"
+    },
+    {
+      "start": 900.2,
+      "end": 905.2,
+      "text": " the type is so some percentage of that goes toward it's probably one tree."
+    },
+    {
+      "start": 905.2,
+      "end": 913.2,
+      "text": " That's where there is a Shopify app that's like we plant trees somewhere like you know you can use it for every dollar in sales or I don't know every order you get they plant a tree and"
+    },
+    {
+      "start": 913.2,
+      "end": 924.2,
+      "text": " so they're like you know we planted millions of trees but again like the thing is some guy in India could do the same thing for you know 10 cents totally and that's why I like this app because there's network effects yeah agreed."
+    },
+    {
+      "start": 924.2,
+      "end": 934.2,
+      "text": " Okay what's the next thing on your next one is showfields have you seen the showfield store in noho yeah it's right next to like the lot that like next"
+    },
+    {
+      "start": 934.2,
+      "end": 943.2,
+      "text": " that equinox on bond right yeah yeah okay so show fields for the longest time has had that retail spot I think maybe since I moved to New"
+    },
+    {
+      "start": 943.2,
+      "end": 955.2,
+      "text": " York like four years ago they were there I always thought it was a strange business like it's like you walk in and it's all these brands have basically like 6 by 8"
+    },
+    {
+      "start": 955.2,
+      "end": 965.2,
+      "text": " or 4 by 5 rooms 4 4 by 5 foot rooms where they just sort of like spend a bunch of money and kind of deck it out for that little custom space."
+    },
+    {
+      "start": 965.2,
+      "end": 981.2,
+      "text": " And you know back when I had a friend working at swell she said that they paid something like 30 thousand dollars a month to be in there are they crazy yeah and this was when everybody was paying that rate and so there was I mean like 8 sleep was"
+    },
+    {
+      "start": 981.2,
+      "end": 991.2,
+      "text": " there but they use it for the purpose that they were raising money and investors could come and touch the bed 30 thousand dollars a month yeah farmers dog was this is why so many"
+    },
+    {
+      "start": 991.2,
+      "end": 999.2,
+      "text": " business is going out business I think crazy yeah how about some financial responsibility but okay tell me what you're going to say I think everybody had different rates though because"
+    },
+    {
+      "start": 999.2,
+      "end": 1009.2,
+      "text": " everybody asked had different rates this article I read this morning said that they got they paid 20 K for 6 months but it was always this weird concept of instead"
+    },
+    {
+      "start": 1009.2,
+      "end": 1021.2,
+      "text": " of you paying for a pop up shop we will take on everything that needs to be and you just come in for you know 3 months at a time 4 months at a time yeah you can host an event on the roof which like kind"
+    },
+    {
+      "start": 1021.2,
+      "end": 1023.2,
+      "text": " of a weird idea but anyways."
+    },
+    {
+      "start": 1023.2,
+      "end": 1035.2,
+      "text": " And one of the other things they said at show wheels was don't think that the sales from this store are like you know it's a branding thing you know don't yes you know they weren't like yes okay this store costs you"
+    },
+    {
+      "start": 1035.2,
+      "end": 1043.2,
+      "text": " thousand dollars a month you should expect ten thousand dollars in revenue and five thousand dollars in profits it will be break even like you know 5 thousand the cause use sold 10"
+    },
+    {
+      "start": 1043.2,
+      "end": 1051.2,
+      "text": " thousand dollars with a sleep mattresses you made 5000 are rents 5000 you're good they're like don't think of it that way think of it in the way of like this is good for your"
+    },
+    {
+      "start": 1051.2,
+      "end": 1059.2,
+      "text": " break like whatever marketing talk I don't even know the language the words that they use I've never I like you have it if someone says that to me I'm like I don't"
+    },
+    {
+      "start": 1059.2,
+      "end": 1066.2,
+      "text": " know what's this language I'm illiterate in the language you're speaking in fact whatever they say those things my blood boils because I'm like you're"
+    },
+    {
+      "start": 1066.2,
+      "end": 1073.2,
+      "text": " going to take my money put it in your pocket and you're going to pretend like this is marketing this is why we should go to war yeah it's like"
+    },
+    {
+      "start": 1073.2,
+      "end": 1083.2,
+      "text": " there's a call NYPD out here this guy's robbing me they're they're speaking some random village dialect and yeah yeah and they say it with a smile yes they're like you"
+    },
+    {
+      "start": 1083.2,
+      "end": 1094.2,
+      "text": " know hey holding their hand out saying give me I don't what what do they say Joe basically the founder says that show fields is the intersection of retail media and performance based retail and the way that"
+    },
+    {
+      "start": 1094.2,
+      "end": 1103.2,
+      "text": " they justify that is they say you pay us for a spot we have all these cameras up above with all these trackers will give you all the analytics of who's"
+    },
+    {
+      "start": 1103.2,
+      "end": 1112.2,
+      "text": " coming in how much time is being spent in your little you know four five foot area that was basically the sale it's like it's a brand marketing play"
+    },
+    {
+      "start": 1112.2,
+      "end": 1123.2,
+      "text": " well I would say look you know if I were a brand this is how I think about it one I look you know I can't afford this because it's not financially responsible actually that's what I'd say I'd say this isn't"
+    },
+    {
+      "start": 1123.2,
+      "end": 1130.2,
+      "text": " financially responsible you know what Facebook says they say you give us a dollar will give you two this guy saying hey you give us a dollar will"
+    },
+    {
+      "start": 1130.2,
+      "end": 1137.2,
+      "text": " give you 50 cents so you know one of them is I like one of them I don't like yeah the other thing I'd say is they don't have a big enough"
+    },
+    {
+      "start": 1137.2,
+      "end": 1145.2,
+      "text": " number of people walking into that store for me to give us about the number of people were coming to look at like you know five four five what do they have"
+    },
+    {
+      "start": 1145.2,
+      "end": 1153.2,
+      "text": " 25,000 people coming in a day or do they have a hundred people and doesn't matter all 32 people yeah yeah that's right yes yeah yeah and three of them came"
+    },
+    {
+      "start": 1153.2,
+      "end": 1162.2,
+      "text": " into use the bathroom three of them were came into like steel stuff yeah you know like your analytics are useless 100% agree yeah so I put together you know"
+    },
+    {
+      "start": 1162.2,
+      "end": 1172.2,
+      "text": " because I I've had a lot of people who've asked me if show fields if they should be in show fields they also then during the pandemic started doing this like live shopping"
+    },
+    {
+      "start": 1172.2,
+      "end": 1183.2,
+      "text": " thing and they used portfolio company of mine as an example of a brand that was killing it and when I asked the founder he was like we don't even work with them yeah so"
+    },
+    {
+      "start": 1183.2,
+      "end": 1191.2,
+      "text": " anyway so I put together a quick checklist when it comes to opportunities like this that I think founder should go through because this is what goes through my head so the first one is"
+    },
+    {
+      "start": 1191.2,
+      "end": 1200.2,
+      "text": " is this cheaper than if I were to do this myself so if I were to rent a space in the West Village which costs maybe like 15 20 K yeah and hire a small staff"
+    },
+    {
+      "start": 1200.2,
+      "end": 1208.2,
+      "text": " is this cheaper than that which in this case maybe break even or maybe equal but I think the West Village might still be cheaper because you own all"
+    },
+    {
+      "start": 1208.2,
+      "end": 1215.2,
+      "text": " of the space versus you know five feet by five feet I think that okay yeah got one of the other questions the second one is what is my estimated cost of"
+    },
+    {
+      "start": 1215.2,
+      "end": 1223.2,
+      "text": " customer acquisition cost of customer yeah so how much for all the people that are going to come through the total number that I spend divided"
+    },
+    {
+      "start": 1223.2,
+      "end": 1228.2,
+      "text": " by how many new customers am I going to get out here or even just orders in general yeah what is that number estimated to be"
+    },
+    {
+      "start": 1228.2,
+      "end": 1234.7,
+      "text": " infinite because it's not a number it's a zero you get zero people at the bottom whatever if it's one divided by zero that's not a"
+    },
+    {
+      "start": 1234.7,
+      "end": 1242.7,
+      "text": " number yeah and so so if you can't if they can't give you an estimate it's a red flag yes the next one is you know are people"
+    },
+    {
+      "start": 1242.7,
+      "end": 1249.2,
+      "text": " that are coming into this space actually here to see my product or they hear for something else but I'm still paying"
+    },
+    {
+      "start": 1249.2,
+      "end": 1256.2,
+      "text": " for their eyeballs to walk in good question the next one after that is if this is a shared pop up which it"
+    },
+    {
+      "start": 1256.2,
+      "end": 1263.7,
+      "text": " is what is the reason that people are coming are they coming because there's one brand they want to see in which case they have no interest"
+    },
+    {
+      "start": 1263.7,
+      "end": 1270.2,
+      "text": " in seeing what I have are they coming because there's an event there that aligns with the audience or going after in which"
+    },
+    {
+      "start": 1270.2,
+      "end": 1276.7,
+      "text": " case maybe there's something there but there's this thing there's a retail strategy called destination synergy which is like you know when you see"
+    },
+    {
+      "start": 1276.7,
+      "end": 1285.2,
+      "text": " soul cycle pop up you see sprouts pop up you see sweet green pop up that's what destination synergy is these guys had almost none of"
+    },
+    {
+      "start": 1285.2,
+      "end": 1293.2,
+      "text": " that they had a tattoo company next to a dog food company next to a water bottle company sort of all over the place I thought the only people walking"
+    },
+    {
+      "start": 1293.2,
+      "end": 1301.2,
+      "text": " in there were like D to see people already what's going on or like what's wasting money over you next one I have is you know what do I get from"
+    },
+    {
+      "start": 1301.2,
+      "end": 1307.2,
+      "text": " this from a content standpoint so if I'm not getting any question yeah is there anything I can do content wise or with the"
+    },
+    {
+      "start": 1307.2,
+      "end": 1312.8,
+      "text": " physical area like great question eight sleep for example they raised money because they had investors come feel the bed lie on it"
+    },
+    {
+      "start": 1312.8,
+      "end": 1320.8,
+      "text": " etc. And then the last thing is this going to drive any revenue and if so then what is the evidence that supports that if there's no evidence"
+    },
+    {
+      "start": 1320.8,
+      "end": 1328.8,
+      "text": " to support that upon signing then there's no reason to go ahead and move forward with the deal yeah let me say two things about this one"
+    },
+    {
+      "start": 1328.8,
+      "end": 1334.8,
+      "text": " is I think one of the question like you know I know your first question isn't dispositive but what I would say is there's some element"
+    },
+    {
+      "start": 1334.8,
+      "end": 1341.8,
+      "text": " to you know can I do this cheaper myself and also is it like worth doing it myself for sure so for instance like yes I'm going to pay a little"
+    },
+    {
+      "start": 1341.8,
+      "end": 1348.8,
+      "text": " bit more for a three PL because I don't want to manage did 30 people show up to pack packages this morning like that I'm in a different"
+    },
+    {
+      "start": 1348.8,
+      "end": 1354.8,
+      "text": " business than I am right now for sure the other thing I'd say is does this mean neighborhood goods is going to go out of"
+    },
+    {
+      "start": 1354.8,
+      "end": 1360.8,
+      "text": " like what do you think about neighborhood that's another one I mean I love the store yeah every time I go to Austin I love going"
+    },
+    {
+      "start": 1360.8,
+      "end": 1368.8,
+      "text": " where is it it's right next to the equinox in the South Con like so out area but that's another one where everybody I've known who's"
+    },
+    {
+      "start": 1368.8,
+      "end": 1376.8,
+      "text": " gotten into neighborhood goods it's average or below average in terms of sell through it just exists there and it's like it's like what we"
+    },
+    {
+      "start": 1376.8,
+      "end": 1382.8,
+      "text": " were talking about the last episode if you see the name you might remember it or might make you want to buy that body wash or that"
+    },
+    {
+      "start": 1382.8,
+      "end": 1389.8,
+      "text": " dollar t-shirt yeah I don't I've never seen anybody go in there and by product and walk out usually people go in there they tour around"
+    },
+    {
+      "start": 1389.8,
+      "end": 1394.8,
+      "text": " they started they built out a full cafe in the Austin one because I think and the New York one here in Chelsea market because I"
+    },
+    {
+      "start": 1394.8,
+      "end": 1399.8,
+      "text": " think they realize that's where they're going to make their money but I think they probably also go out of"
+    },
+    {
+      "start": 1399.8,
+      "end": 1405.8,
+      "text": " business they rate they both raise a ton of money. I really haven't you have any idea how much they raise well I know"
+    },
+    {
+      "start": 1405.8,
+      "end": 1412.8,
+      "text": " that the showfields owes about ten million dollars a file for bankruptcy. The interesting piece was like"
+    },
+    {
+      "start": 1412.8,
+      "end": 1421.8,
+      "text": " I looked into who do they owe money to you have the obvious ones like MX or you know the property manager yeah"
+    },
+    {
+      "start": 1421.8,
+      "end": 1426.8,
+      "text": " but the other interesting ones was like a huge one was talent recruitment probably for all the part time workers"
+    },
+    {
+      "start": 1426.8,
+      "end": 1433.8,
+      "text": " so they were probably paying them like a PEO and the other interesting one was BFA which is like you know all those"
+    },
+    {
+      "start": 1433.8,
+      "end": 1440.8,
+      "text": " event photographers at the bottom right either says like getty or FFA is those guys so they were throw events"
+    },
+    {
+      "start": 1440.8,
+      "end": 1446.8,
+      "text": " and have these photographers come try to make the place look cool yeah I remember when I tried to like neighborhood goods was"
+    },
+    {
+      "start": 1446.8,
+      "end": 1451.8,
+      "text": " trying to work with native and they reached out to me and they said the contract it was so onerous and I was like this provision"
+    },
+    {
+      "start": 1451.8,
+      "end": 1456.8,
+      "text": " I hate you guys for offering this provision I'll only do it but you have I forgot what the provision was if someone sends me"
+    },
+    {
+      "start": 1456.8,
+      "end": 1461.8,
+      "text": " to contract you DM your contract I'll remember what I'll look through and see what it was and I was like I want to"
+    },
+    {
+      "start": 1461.8,
+      "end": 1466.8,
+      "text": " I want you to agree that you're going to have to do it instead of me and they're like how about we take it out I was like no"
+    },
+    {
+      "start": 1466.8,
+      "end": 1470.8,
+      "text": " for spite you have to agree to do it now and they're like we can't agree to that I was like I know because"
+    },
+    {
+      "start": 1470.8,
+      "end": 1476.8,
+      "text": " fucking outrageous that you asked me to agree to it yeah fuck yourself yeah the reality is I think all those businesses were actually"
+    },
+    {
+      "start": 1476.8,
+      "end": 1484.8,
+      "text": " good ideas in 2019 or 2018 or 2017 because we didn't know what direction e-commerce was going and new brands were going"
+    },
+    {
+      "start": 1484.8,
+      "end": 1489.8,
+      "text": " were they going into regular brick and mortar stores were they going into like the targets of the world"
+    },
+    {
+      "start": 1489.8,
+      "end": 1493.8,
+      "text": " were they going to create their own pop ups like the war be parkers and all birds of the"
+    },
+    {
+      "start": 1493.8,
+      "end": 1498.8,
+      "text": " store of the world or did they need a mix of those two where they're like we are not responsible for this"
+    },
+    {
+      "start": 1498.8,
+      "end": 1504.8,
+      "text": " but we get a brand presence maybe there'll be some sell through this will grow our brand and we're going to take this"
+    },
+    {
+      "start": 1504.8,
+      "end": 1508.8,
+      "text": " will help us get the business to the next level the reality is I think that those like the neighborhood goods"
+    },
+    {
+      "start": 1508.8,
+      "end": 1514.8,
+      "text": " and show field stores never had the traction to be able to take your brand anywhere and they failed in and of"
+    },
+    {
+      "start": 1514.8,
+      "end": 1519.8,
+      "text": " themselves and I think they were bad businesses as a result of that but I also think that like you know"
+    },
+    {
+      "start": 1519.8,
+      "end": 1524.8,
+      "text": " businesses generally real like that the consumer businesses themselves realized if we're going to go into"
+    },
+    {
+      "start": 1524.8,
+      "end": 1529.8,
+      "text": " stores we either need to focus on it like all birds does and war be parker does or we need to let"
+    },
+    {
+      "start": 1529.8,
+      "end": 1534.8,
+      "text": " somebody else focus on it like native does and Harry's does and say we're going to go into a big box"
+    },
+    {
+      "start": 1534.8,
+      "end": 1539.8,
+      "text": " retailer the hybrid of those two which is like the show feels or neighborhood goods never got"
+    },
+    {
+      "start": 1539.8,
+      "end": 1543.8,
+      "text": " anything and I think in part that's because the consumer brands didn't ever focus on it on it and I think"
+    },
+    {
+      "start": 1543.8,
+      "end": 1548.8,
+      "text": " that's in part because neighborhood goods wasn't like we're going to build out 75 of these we're going to drive a"
+    },
+    {
+      "start": 1548.8,
+      "end": 1552.8,
+      "text": " ton of traffic in them somewhere another they were just sort of like here's the store hopefully we can charge"
+    },
+    {
+      "start": 1552.8,
+      "end": 1556.8,
+      "text": " you a lot maybe that's a good business model and that look like in 2017 we didn't know if that was"
+    },
+    {
+      "start": 1556.8,
+      "end": 1561.8,
+      "text": " a good business model I think in 2023 we know that's not a good business model yeah I feel like"
+    },
+    {
+      "start": 1561.8,
+      "end": 1567.8,
+      "text": " you know the other thing they did was like I'm never happy for somebody's business to shut down"
+    },
+    {
+      "start": 1567.8,
+      "end": 1573.8,
+      "text": " or for bankruptcy but what they did is they they tried to play the lazy game and they said you"
+    },
+    {
+      "start": 1573.8,
+      "end": 1579.8,
+      "text": " know instead of us making our money by properly building foot traffic and getting people in the"
+    },
+    {
+      "start": 1579.8,
+      "end": 1585.8,
+      "text": " door we're going to scam founders who are too novice to the game to realize that this is a"
+    },
+    {
+      "start": 1585.8,
+      "end": 1590.8,
+      "text": " bad investment and that's how we're going to capitalize and make money off of that I mean so many"
+    },
+    {
+      "start": 1590.8,
+      "end": 1596.8,
+      "text": " founders got I mean $20,000 a month or $30,000 a month is fucking ridiculous yeah bananas and you"
+    },
+    {
+      "start": 1596.8,
+      "end": 1600.8,
+      "text": " write like you know show me what you're going to do in the store like have a club you know have a"
+    },
+    {
+      "start": 1600.8,
+      "end": 1604.8,
+      "text": " brand representative sitting there being like let me tell you why swells awesome or eight sleep is"
+    },
+    {
+      "start": 1604.8,
+      "end": 1609.8,
+      "text": " awesome exactly sell stuff you know make them like you know move have some velocity showrooms are"
+    },
+    {
+      "start": 1609.8,
+      "end": 1613.8,
+      "text": " worth like you know this this isn't a car dealership I don't need a showroom I need"
+    },
+    {
+      "start": 1613.8,
+      "end": 1618.8,
+      "text": " velocity yeah and they didn't focus on that I think that was wrong and I think you know"
+    },
+    {
+      "start": 1618.8,
+      "end": 1622.8,
+      "text": " I would have had a lot more respect and a lot more excitement of those things if of these places"
+    },
+    {
+      "start": 1622.8,
+      "end": 1627.8,
+      "text": " if they're like look we're turning this into a convenience store you want like you know an"
+    },
+    {
+      "start": 1627.8,
+      "end": 1630.8,
+      "text": " eight sleep mattress it's right here for you know you want to discover new brands it's"
+    },
+    {
+      "start": 1630.8,
+      "end": 1633.8,
+      "text": " right here we're getting velocity and we're throwing events we're thinking about it that way"
+    },
+    {
+      "start": 1633.8,
+      "end": 1637.8,
+      "text": " there was sort of like we just made this room look beautiful yeah take some Instagram I"
+    },
+    {
+      "start": 1637.8,
+      "end": 1642.8,
+      "text": " think air one is a good comp of you know bring a ton of new brand we're going to find the best"
+    },
+    {
+      "start": 1642.8,
+      "end": 1646.8,
+      "text": " companies yes we're going to bring them in we're going to create an experience for customers"
+    },
+    {
+      "start": 1646.8,
+      "end": 1651.8,
+      "text": " whereas these guys were almost like we want to be the star yes we want show fields to be the star"
+    },
+    {
+      "start": 1651.8,
+      "end": 1656.8,
+      "text": " yes and you brands are a part of it whereas air one said we're going to do everything to make you"
+    },
+    {
+      "start": 1656.8,
+      "end": 1661.8,
+      "text": " brands the stars and we're going to do everything we can to bring customers in the door yeah"
+    },
+    {
+      "start": 1661.8,
+      "end": 1665.8,
+      "text": " and we're going to have a ton of velocity like you know you want to try a new beverage"
+    },
+    {
+      "start": 1665.8,
+      "end": 1668.8,
+      "text": " I everyone has every new beverage I've ever seen in fact that's where I go to discover"
+    },
+    {
+      "start": 1668.8,
+      "end": 1673.8,
+      "text": " beverages and I will buy that beverage because I'm already buying their hot food stuff yeah"
+    },
+    {
+      "start": 1673.8,
+      "end": 1679.8,
+      "text": " and so I think that's a great comparison that I not thought of which is air one is show"
+    },
+    {
+      "start": 1679.8,
+      "end": 1684.8,
+      "text": " fields and neighborhood goods but a successful version genuine velocity genuine customers"
+    },
+    {
+      "start": 1684.8,
+      "end": 1689.8,
+      "text": " and new customer acquisition and new eyeballs and sales people are swiping credit cards"
+    },
+    {
+      "start": 1689.8,
+      "end": 1693.8,
+      "text": " buying stuff yeah they did it the hard way and their business is going to last yeah"
+    },
+    {
+      "start": 1693.8,
+      "end": 1698.8,
+      "text": " it's incredible business want to take time off from running your current Shopify"
+    },
+    {
+      "start": 1698.8,
+      "end": 1702.8,
+      "text": " business to build your next Shopify business when you join open store drive"
+    },
+    {
+      "start": 1702.8,
+      "end": 1706.8,
+      "text": " you can take 12 months off to pursue other ventures while still getting paid"
+    },
+    {
+      "start": 1706.8,
+      "end": 1710.8,
+      "text": " you'll receive guaranteed monthly payments for a year at open store will manage"
+    },
+    {
+      "start": 1710.8,
+      "end": 1715.8,
+      "text": " everything including your businesses marketing us for support inventory and more"
+    },
+    {
+      "start": 1715.8,
+      "end": 1720.8,
+      "text": " Shopify businesses with more than $500,000 in yearly net sales ball fight"
+    },
+    {
+      "start": 1720.8,
+      "end": 1724.8,
+      "text": " had to open down store slash limited for details"
+    },
+    {
+      "start": 1724.8,
+      "end": 1729.8,
+      "text": " okay next thing I want to talk about is Google pricing transparency yeah"
+    },
+    {
+      "start": 1729.8,
+      "end": 1734.8,
+      "text": " do you know Caleb he owns Haven the back company yeah yeah so Caleb tweeted about this"
+    },
+    {
+      "start": 1734.8,
+      "end": 1740.8,
+      "text": " couple weeks ago and essentially it's like well Google is trying to do is they said"
+    },
+    {
+      "start": 1740.8,
+      "end": 1745.8,
+      "text": " okay you got Amazon and you click something Amazon tells you if it's a good price"
+    },
+    {
+      "start": 1745.8,
+      "end": 1750.8,
+      "text": " for that product or if the prices come down you can set pricing alerts honey"
+    },
+    {
+      "start": 1750.8,
+      "end": 1754.8,
+      "text": " now does the same thing as well you go to Amazon and tells you it'll say like"
+    },
+    {
+      "start": 1754.8,
+      "end": 1758.8,
+      "text": " oh yeah lowest price 30 days yeah yeah if you go to honey it'll tell you the same"
+    },
+    {
+      "start": 1758.8,
+      "end": 1762.8,
+      "text": " thing yeah Google is now going to start doing the same thing where you know"
+    },
+    {
+      "start": 1762.8,
+      "end": 1767.8,
+      "text": " let's say you run a sale on haven haven runs a 40% off sale you go to the to Google"
+    },
+    {
+      "start": 1767.8,
+      "end": 1772.8,
+      "text": " shopping or you maybe search it it's gonna say oh this price was recently this"
+    },
+    {
+      "start": 1772.8,
+      "end": 1777.8,
+      "text": " bag was recently 40% off now it's you know X percent more than what it just"
+    },
+    {
+      "start": 1777.8,
+      "end": 1782.8,
+      "text": " was and that is their new terrible yeah they're new initiative for pricing"
+    },
+    {
+      "start": 1782.8,
+      "end": 1787.8,
+      "text": " transparency great for customers like as a consumer look for that yeah as a brand"
+    },
+    {
+      "start": 1787.8,
+      "end": 1791.8,
+      "text": " that's pretty fucked up you know like that can that will hurt a lot of businesses"
+    },
+    {
+      "start": 1791.8,
+      "end": 1797.8,
+      "text": " especially in Q3 Q4 or around you know Valentine's Day or you know spring"
+    },
+    {
+      "start": 1797.8,
+      "end": 1801.8,
+      "text": " or later day all these things do I have to update my prices and Google shopping"
+    },
+    {
+      "start": 1801.8,
+      "end": 1804.8,
+      "text": " for them to recognize that for instance if I'm running a black Friday sale and I don't"
+    },
+    {
+      "start": 1804.8,
+      "end": 1807.8,
+      "text": " update my price on Google shopping Google doesn't know I think they're still"
+    },
+    {
+      "start": 1807.8,
+      "end": 1810.8,
+      "text": " gonna get it they're going through the emails that I'm sending out through like Gmail"
+    },
+    {
+      "start": 1810.8,
+      "end": 1816.8,
+      "text": " or I think just the script on your site fuck so there is a way to opt out you can opt"
+    },
+    {
+      "start": 1816.8,
+      "end": 1822.8,
+      "text": " out as a brand and it's a very long very randomized Google form URL but I made a"
+    },
+    {
+      "start": 1822.8,
+      "end": 1832.8,
+      "text": " shortcut for it so anybody can go to Nick.co slash price D's nuts price D E E Z"
+    },
+    {
+      "start": 1832.8,
+      "end": 1837.8,
+      "text": " nuts and it's a Google form you fill out you put your merchandise ID your store"
+    },
+    {
+      "start": 1837.8,
+      "end": 1843.8,
+      "text": " URL and they will completely omit your pricing transparency from the catalog"
+    },
+    {
+      "start": 1843.8,
+      "end": 1848.8,
+      "text": " of all the pricing that they do. I think there's a larger conversation that we're"
+    },
+    {
+      "start": 1848.8,
+      "end": 1853.8,
+      "text": " gonna have in the next six months about this one of the reasons the FTC is suing Amazon"
+    },
+    {
+      "start": 1853.8,
+      "end": 1857.8,
+      "text": " and one of the places I think they actually might win is let's say you're selling"
+    },
+    {
+      "start": 1857.8,
+      "end": 1861.8,
+      "text": " Deodorant it's $12 and they see you're selling it for $11 a target"
+    },
+    {
+      "start": 1861.8,
+      "end": 1866.8,
+      "text": " they will hide the buy box and say available from other retailers and make it"
+    },
+    {
+      "start": 1866.8,
+      "end": 1871.8,
+      "text": " really difficult for you to buy the products on Amazon and your sales will drop 95%"
+    },
+    {
+      "start": 1871.8,
+      "end": 1875.8,
+      "text": " overnight and because Amazon is like if we can find a cheaper price online where"
+    },
+    {
+      "start": 1875.8,
+      "end": 1880.8,
+      "text": " when we scrape your other sites, we will not make it very easy to sell this product"
+    },
+    {
+      "start": 1880.8,
+      "end": 1884.8,
+      "text": " and the FTC is like this is bad for consumers and like actually I think it's probably"
+    },
+    {
+      "start": 1884.8,
+      "end": 1887.8,
+      "text": " great for consumers but terrible for brands because you're like if I sell a"
+    },
+    {
+      "start": 1887.8,
+      "end": 1891.8,
+      "text": " cheaper at target.com I lose all my Amazon sales so I can't do that"
+    },
+    {
+      "start": 1891.8,
+      "end": 1895.8,
+      "text": " and so you never make it cheaper on Amazon on target.com"
+    },
+    {
+      "start": 1895.8,
+      "end": 1900.8,
+      "text": " I think the FTC has a decent chance of winning that part of their lawsuit against Amazon"
+    },
+    {
+      "start": 1900.8,
+      "end": 1904.8,
+      "text": " which will affect price transparency because I think you'll be able to have different"
+    },
+    {
+      "start": 1904.8,
+      "end": 1908.8,
+      "text": " prices on different websites then like target.com and Amazon.com will have different"
+    },
+    {
+      "start": 1908.8,
+      "end": 1912.8,
+      "text": " prices and I don't know what that will mean but I do believe that there's a larger"
+    },
+    {
+      "start": 1912.8,
+      "end": 1916.8,
+      "text": " question about what happens with prices here. That is a very scary if Google would look"
+    },
+    {
+      "start": 1916.8,
+      "end": 1920.8,
+      "text": " at emails or scrape your site and say I see that you're offering there's a red bar"
+    },
+    {
+      "start": 1920.8,
+      "end": 1925.8,
+      "text": " at the top or a blue bar at the top that says say 40% using code native on Black Friday."
+    },
+    {
+      "start": 1925.8,
+      "end": 1930.8,
+      "text": " We use to have the same issue at hint like during the summer, hint inside"
+    },
+    {
+      "start": 1930.8,
+      "end": 1935.8,
+      "text": " target doesn't sell in cases you can buy an individual bottle and you can buy"
+    },
+    {
+      "start": 1935.8,
+      "end": 1941.8,
+      "text": " 10 bottles for $10 basically a dollar bottle in the summer and then Amazon"
+    },
+    {
+      "start": 1941.8,
+      "end": 1945.8,
+      "text": " would price match that so we would see subscriber numbers would go down as"
+    },
+    {
+      "start": 1946.8,
+      "end": 1951.8,
+      "text": " soon as the summer started because you could get a case for $12 on Amazon versus"
+    },
+    {
+      "start": 1951.8,
+      "end": 1956.8,
+      "text": " $16 on subscription and then at the end of summer our subscribers would come back"
+    },
+    {
+      "start": 1956.8,
+      "end": 1960.8,
+      "text": " because it's the better place for them to shop but what's interesting is they don't"
+    },
+    {
+      "start": 1960.8,
+      "end": 1964.8,
+      "text": " poll Amazon does not price match Costco. That is really interesting"
+    },
+    {
+      "start": 1964.8,
+      "end": 1969.8,
+      "text": " and I think that they couldn't because Costco has rules internally where"
+    },
+    {
+      "start": 1969.8,
+      "end": 1973.8,
+      "text": " we can only make a certain margin on any given product. If we have a"
+    },
+    {
+      "start": 1973.8,
+      "end": 1976.8,
+      "text": " Kirkland product I don't know what the percentages are but I'm going to make them up."
+    },
+    {
+      "start": 1976.8,
+      "end": 1982.8,
+      "text": " We can only make 20% on a Kirkland branded product and only 10% or 15%"
+    },
+    {
+      "start": 1982.8,
+      "end": 1988.8,
+      "text": " on a other non-Kirkland branded product and so if you try and price match them"
+    },
+    {
+      "start": 1988.8,
+      "end": 1993.8,
+      "text": " the entire world will be a war. In fact, the real strategy is"
+    },
+    {
+      "start": 1993.8,
+      "end": 1996.8,
+      "text": " don't ever get into Costco. Almost everyone who gets into Costco has to make"
+    },
+    {
+      "start": 1996.8,
+      "end": 2002.8,
+      "text": " unique skews to ensure that Amazon and Target and Walmart don't go to war"
+    },
+    {
+      "start": 2002.8,
+      "end": 2007.8,
+      "text": " with you in Costco because Costco will say we're selling one deodorant for $7"
+    },
+    {
+      "start": 2007.8,
+      "end": 2011.8,
+      "text": " and you're like fuck, well now Walmart is going to do that so then you have to be"
+    },
+    {
+      "start": 2011.8,
+      "end": 2015.8,
+      "text": " like I have to sell four pack in Costco and I have to make a special packaging"
+    },
+    {
+      "start": 2015.8,
+      "end": 2020.8,
+      "text": " so it's for for $28 so Walmart is like okay I guess we don't price match"
+    },
+    {
+      "start": 2020.8,
+      "end": 2024.8,
+      "text": " a four pack because we don't have a four pack. So it is really difficult"
+    },
+    {
+      "start": 2024.8,
+      "end": 2027.8,
+      "text": " that once you start thinking that way it's really difficult. That price"
+    },
+    {
+      "start": 2027.8,
+      "end": 2031.8,
+      "text": " transparency is scary because yeah I guess I'm like right after Black Friday"
+    },
+    {
+      "start": 2031.8,
+      "end": 2036.8,
+      "text": " like January. Everybody's going to see you're over 50%"
+    },
+    {
+      "start": 2036.8,
+      "end": 2040.8,
+      "text": " You know we're just a little bit before Black Friday. Do you think people"
+    },
+    {
+      "start": 2040.8,
+      "end": 2044.8,
+      "text": " have stopped shopping waiting for Black Friday now? I think generally a lot of people"
+    },
+    {
+      "start": 2044.8,
+      "end": 2048.8,
+      "text": " have slowed down for shopping. Even me personally, I've kind of slowed down"
+    },
+    {
+      "start": 2048.8,
+      "end": 2052.8,
+      "text": " shopping. Yeah. I'm not that I'm a big shopper but if there's something"
+    },
+    {
+      "start": 2052.8,
+      "end": 2055.8,
+      "text": " I want like you know instead of going to buy an allot today"
+    },
+    {
+      "start": 2055.8,
+      "end": 2059.8,
+      "text": " I'm just going to wait two weeks. Yeah that price transparency is really scary"
+    },
+    {
+      "start": 2059.8,
+      "end": 2062.8,
+      "text": " I would imagine that Google's probably I think Google will knock at those sales"
+    },
+    {
+      "start": 2062.8,
+      "end": 2065.8,
+      "text": " unless you update Google shopping but I'm not sure."
+    },
+    {
+      "start": 2065.8,
+      "end": 2069.8,
+      "text": " Yeah. You know what else I was looking at Facebook shops recently"
+    },
+    {
+      "start": 2069.8,
+      "end": 2072.8,
+      "text": " I wish they would let you import reviews on to Facebook shops."
+    },
+    {
+      "start": 2072.8,
+      "end": 2076.8,
+      "text": " I think they will soon. I think that's probably within the next like six months"
+    },
+    {
+      "start": 2076.8,
+      "end": 2079.8,
+      "text": " They almost have to. It's a big hole in the like ability to shop"
+    },
+    {
+      "start": 2079.8,
+      "end": 2082.8,
+      "text": " like you know I know we talked about TikTok shops recently a while ago"
+    },
+    {
+      "start": 2082.8,
+      "end": 2085.8,
+      "text": " and I was like can you import reviews on to TikTok shops? I don't think so."
+    },
+    {
+      "start": 2085.8,
+      "end": 2089.8,
+      "text": " You got to be able to do that. You can on Google. Yeah every other"
+    },
+    {
+      "start": 2089.8,
+      "end": 2094.8,
+      "text": " market place you can. Okay well that's crazy if the Google shopping"
+    },
+    {
+      "start": 2094.8,
+      "end": 2097.8,
+      "text": " transparency happens. I don't know how it will work itself out."
+    },
+    {
+      "start": 2097.8,
+      "end": 2099.8,
+      "text": " It's got coast slash price diesel."
+    },
+    {
+      "start": 2099.8,
+      "end": 2104.8,
+      "text": " Okay next thing that I put together so I started to think"
+    },
+    {
+      "start": 2104.8,
+      "end": 2107.8,
+      "text": " you know I was reading a few articles on business of fashion"
+    },
+    {
+      "start": 2107.8,
+      "end": 2112.8,
+      "text": " and one of the punchlines of the articles was the hardest thing for any"
+    },
+    {
+      "start": 2112.8,
+      "end": 2117.8,
+      "text": " direct consumer or founder led brand today is brand awareness."
+    },
+    {
+      "start": 2117.8,
+      "end": 2120.8,
+      "text": " Like it's the most costly thing on the now yeah."
+    },
+    {
+      "start": 2120.8,
+      "end": 2124.8,
+      "text": " And so I just started to think you know big brands like"
+    },
+    {
+      "start": 2124.8,
+      "end": 2130.8,
+      "text": " Olaplex can send a million samples to Sephora and say hey"
+    },
+    {
+      "start": 2130.8,
+      "end": 2134.8,
+      "text": " whenever you open a shopping bag to put products in just drop one of ours in."
+    },
+    {
+      "start": 2134.8,
+      "end": 2138.8,
+      "text": " All birds can say well we're just going to open up retail stores across the"
+    },
+    {
+      "start": 2138.8,
+      "end": 2143.8,
+      "text": " country and you know loops beauty can say we're going to hire Emily Radikowski"
+    },
+    {
+      "start": 2143.8,
+      "end": 2146.8,
+      "text": " to be the face of our brand. But what do the small guys do?"
+    },
+    {
+      "start": 2146.8,
+      "end": 2150.8,
+      "text": " How do the small guys generate brand awareness so I've got a few ideas"
+    },
+    {
+      "start": 2150.8,
+      "end": 2153.8,
+      "text": " I'm curious about your feedback on the ideas and okay great ideas that come"
+    },
+    {
+      "start": 2153.8,
+      "end": 2160.8,
+      "text": " to mind. Okay so the first one is show feels. Yeah neighborhood good."
+    },
+    {
+      "start": 2160.8,
+      "end": 2164.8,
+      "text": " Okay first one is you know just creating a ton of organic content on"
+    },
+    {
+      "start": 2164.8,
+      "end": 2169.8,
+      "text": " platforms that have that push so you know this is Reels TikTok and"
+    },
+    {
+      "start": 2169.8,
+      "end": 2174.8,
+      "text": " YouTube shorts second one is collaborating with brands where you"
+    },
+    {
+      "start": 2174.8,
+      "end": 2179.8,
+      "text": " put an insert with an offer from your brand into their package and vice"
+    },
+    {
+      "start": 2179.8,
+      "end": 2182.8,
+      "text": " versa which I feel like you know hello fresh almost has an entire"
+    },
+    {
+      "start": 2182.8,
+      "end": 2186.8,
+      "text": " ads platform and business doing this like I think they charge on a"
+    },
+    {
+      "start": 2186.8,
+      "end": 2190.8,
+      "text": " CPM basis to do this for other companies I'm shocked more people haven't"
+    },
+    {
+      "start": 2190.8,
+      "end": 2193.8,
+      "text": " done this. I don't think it's very brand dilutive and I don't think"
+    },
+    {
+      "start": 2193.8,
+      "end": 2197.8,
+      "text": " anybody opens a package sees you know if you're if you're buying"
+    },
+    {
+      "start": 2197.8,
+      "end": 2201.8,
+      "text": " jolly and you see something for cadence I don't think somebody goes wow"
+    },
+    {
+      "start": 2201.8,
+      "end": 2205.8,
+      "text": " jolly is cheap or you know jolly's brand is going down so I think"
+    },
+    {
+      "start": 2205.8,
+      "end": 2209.8,
+      "text": " that's another one I think email swaps can be done the same way next"
+    },
+    {
+      "start": 2209.8,
+      "end": 2214.8,
+      "text": " one that I think is super low hanging fruit is in-person events so"
+    },
+    {
+      "start": 2214.8,
+      "end": 2218.8,
+      "text": " you know Thai Haney who start outdoor voices then recently started"
+    },
+    {
+      "start": 2218.8,
+      "end": 2221.8,
+      "text": " a tech company and started company called jolly does this really well"
+    },
+    {
+      "start": 2221.8,
+      "end": 2225.8,
+      "text": " where she did this at O.V. but now she does it with jolly she'll just"
+    },
+    {
+      "start": 2225.8,
+      "end": 2229.8,
+      "text": " say hey I'm in Chicago we're all going to meet at this place and"
+    },
+    {
+      "start": 2229.8,
+      "end": 2233.8,
+      "text": " we're going to go run for an hour and it'll be easy pace and you know 50"
+    },
+    {
+      "start": 2233.8,
+      "end": 2236.8,
+      "text": " to 60 people show up and by the end of that there's 60 people who will"
+    },
+    {
+      "start": 2236.8,
+      "end": 2240.8,
+      "text": " post one to three pieces of content that might be you know 20 30 50"
+    },
+    {
+      "start": 2240.8,
+      "end": 2245.8,
+      "text": " thousand impressions as a result of you know an hour investment for a run"
+    },
+    {
+      "start": 2245.8,
+      "end": 2249.8,
+      "text": " and you know running is free most of these events very easy to put on"
+    },
+    {
+      "start": 2249.8,
+      "end": 2253.8,
+      "text": " if you need product for events most brands will just donate it because they also"
+    },
+    {
+      "start": 2253.8,
+      "end": 2257.8,
+      "text": " want you know product and content whatever next one's another kind of"
+    },
+    {
+      "start": 2257.8,
+      "end": 2261.8,
+      "text": " like low hanging fruit is just media outreach you know if you craft a really"
+    },
+    {
+      "start": 2261.8,
+      "end": 2265.8,
+      "text": " good pitch and sort of include the punch line and ship it to email it to"
+    },
+    {
+      "start": 2265.8,
+      "end": 2268.8,
+      "text": " a bunch of editors and just ask them hey do you want samples you have a"
+    },
+    {
+      "start": 2268.8,
+      "end": 2272.8,
+      "text": " probably a 5% chance that somebody's going to respond and say they want"
+    },
+    {
+      "start": 2272.8,
+      "end": 2275.8,
+      "text": " it and then maybe half of those people will be interested in one of those"
+    },
+    {
+      "start": 2275.8,
+      "end": 2280.8,
+      "text": " people will write but that one article you know my generate I don't"
+    },
+    {
+      "start": 2280.8,
+      "end": 2284.8,
+      "text": " know 10,000 20,000 impressions whatever it is totally worth it if you're"
+    },
+    {
+      "start": 2284.8,
+      "end": 2289.8,
+      "text": " doing it for free another one is try to get placement in online market"
+    },
+    {
+      "start": 2289.8,
+      "end": 2293.8,
+      "text": " places so you don't necessarily have to sell you don't have to fulfill"
+    },
+    {
+      "start": 2293.8,
+      "end": 2298.8,
+      "text": " through the company that owns the marketplace or the retailer so maybe"
+    },
+    {
+      "start": 2298.8,
+      "end": 2301.8,
+      "text": " it's Walmart dot com you don't have to fulfill it through Walmart dot com"
+    },
+    {
+      "start": 2301.8,
+      "end": 2306.8,
+      "text": " or if it's verishop you don't have to send your inventory to verishop but just"
+    },
+    {
+      "start": 2306.8,
+      "end": 2310.8,
+      "text": " have your inventory sinked so that you can be listed on their site so people"
+    },
+    {
+      "start": 2310.8,
+      "end": 2315.8,
+      "text": " are searching for you know shower head on Nordstrom Jolie pops up but then"
+    },
+    {
+      "start": 2315.8,
+      "end": 2320.8,
+      "text": " you still fulfill it yourself and that can be anywhere from verishop to Nordstrom"
+    },
+    {
+      "start": 2320.8,
+      "end": 2325.8,
+      "text": " to whatever another one that I've seen work really well with younger"
+    },
+    {
+      "start": 2325.8,
+      "end": 2330.8,
+      "text": " demo brands as contests so you know back when we used to run contests it was"
+    },
+    {
+      "start": 2330.8,
+      "end": 2334.8,
+      "text": " like you know give us your email five brands pitch in like you know the"
+    },
+    {
+      "start": 2334.8,
+      "end": 2338.8,
+      "text": " skim runs it hints says we're going to give a thousand bucks native says we're"
+    },
+    {
+      "start": 2338.8,
+      "end": 2342.8,
+      "text": " gonna give you know deodorant for two years and you'll get like some flight"
+    },
+    {
+      "start": 2342.8,
+      "end": 2347.8,
+      "text": " to permuda all expenses paid that doesn't really work you know that tends"
+    },
+    {
+      "start": 2347.8,
+      "end": 2351.8,
+      "text": " to bring like pretty shitty customers but what feastables does where they say"
+    },
+    {
+      "start": 2351.8,
+      "end": 2354.8,
+      "text": " when you buy a chocolate bar you're entered to win a hundred grand or a Tesla"
+    },
+    {
+      "start": 2354.8,
+      "end": 2359.8,
+      "text": " or something prime now does the same thing and it does really well it drives"
+    },
+    {
+      "start": 2359.8,
+      "end": 2364.8,
+      "text": " a huge bump in revenue and they tend to be people who are also kind of fans"
+    },
+    {
+      "start": 2364.8,
+      "end": 2370.8,
+      "text": " of the brand as well second the last one is create educational content so"
+    },
+    {
+      "start": 2370.8,
+      "end": 2374.8,
+      "text": " a lot of brands you know like if you're selling like long weekend we sell a"
+    },
+    {
+      "start": 2374.8,
+      "end": 2377.8,
+      "text": " lot of them instead of just talking about how it's going to make your face"
+    },
+    {
+      "start": 2377.8,
+      "end": 2382.8,
+      "text": " hydrated you go deep into the ingredients of how it does that and what it does"
+    },
+    {
+      "start": 2382.8,
+      "end": 2386.8,
+      "text": " so that the other person actually understands it and feels like they're learning"
+    },
+    {
+      "start": 2386.8,
+      "end": 2391.8,
+      "text": " something that creates just a better relationship and last one is you know I've"
+    },
+    {
+      "start": 2391.8,
+      "end": 2396.8,
+      "text": " always been fascinated by if you walk into equinox the screens in the lobby of"
+    },
+    {
+      "start": 2396.8,
+      "end": 2399.8,
+      "text": " equinox basically they're sponsored by American Express it's got the American"
+    },
+    {
+      "start": 2399.8,
+      "end": 2404.8,
+      "text": " Express logo at the bottom and equinox has sort of turned their lobby or"
+    },
+    {
+      "start": 2404.8,
+      "end": 2408.8,
+      "text": " turned their you know there are four profit company but they've they've sort"
+    },
+    {
+      "start": 2408.8,
+      "end": 2412.8,
+      "text": " of become this media platform and I wonder if there's a way you can turn your"
+    },
+    {
+      "start": 2412.8,
+      "end": 2416.8,
+      "text": " brand into somewhat of a media property I guess it's kind of similar to how"
+    },
+    {
+      "start": 2416.8,
+      "end": 2420.8,
+      "text": " Hello Fresh has an ads business in their box but I think there's something"
+    },
+    {
+      "start": 2420.8,
+      "end": 2424.8,
+      "text": " there where you know you can essentially fund impressions but from somebody"
+    },
+    {
+      "start": 2424.8,
+      "end": 2429.8,
+      "text": " that's because you have a very valuable audience in your palm but I'm curious"
+    },
+    {
+      "start": 2429.8,
+      "end": 2433.8,
+      "text": " what you think and if you've got other ideas you'd contribute here I love those"
+    },
+    {
+      "start": 2433.8,
+      "end": 2436.8,
+      "text": " ideas I've got a bunch of thoughts here one is let's start with content"
+    },
+    {
+      "start": 2436.8,
+      "end": 2439.8,
+      "text": " because that's the first thing I wrote there's a brand called ancient"
+    },
+    {
+      "start": 2439.8,
+      "end": 2443.8,
+      "text": " nutrition run by a guy named doctor acts and their entire business model has"
+    },
+    {
+      "start": 2443.8,
+      "end": 2447.8,
+      "text": " been working to create the best content in the world and so whenever people are"
+    },
+    {
+      "start": 2447.8,
+      "end": 2450.8,
+      "text": " searching things they're going to read about whatever their issue is on doctor"
+    },
+    {
+      "start": 2450.8,
+      "end": 2453.8,
+      "text": " acts or ancient nutritional whatever it is and it's a result by our products"
+    },
+    {
+      "start": 2453.8,
+      "end": 2456.8,
+      "text": " and it's been super effective and it's a great but like you know first they"
+    },
+    {
+      "start": 2456.8,
+      "end": 2461.8,
+      "text": " make like you know doctor acts of sort of like the OG Andrew Hubertman"
+    },
+    {
+      "start": 2461.8,
+      "end": 2466.8,
+      "text": " yeah I'm not Dr. Osbert Andrew Hubert but like you know he was talking about"
+    },
+    {
+      "start": 2466.8,
+      "end": 2469.8,
+      "text": " and you know I'm not I don't follow either of them well enough to understand"
+    },
+    {
+      "start": 2469.8,
+      "end": 2473.8,
+      "text": " whether they like have the same ideas but like you know they'd write an article"
+    },
+    {
+      "start": 2473.8,
+      "end": 2476.8,
+      "text": " being like if you feel bloated here's what you should do when you feel bloated"
+    },
+    {
+      "start": 2476.8,
+      "end": 2479.8,
+      "text": " and like you know they'll then you all of a sudden they're like okay you"
+    },
+    {
+      "start": 2479.8,
+      "end": 2483.8,
+      "text": " read this let's retarget you with bloating you know supplements or something to"
+    },
+    {
+      "start": 2483.8,
+      "end": 2487.8,
+      "text": " that effect you know you're trying to gain what protein should you use way or"
+    },
+    {
+      "start": 2487.8,
+      "end": 2490.8,
+      "text": " soy or how much did you have they'll answer that in a really comprehensive"
+    },
+    {
+      "start": 2490.8,
+      "end": 2494.8,
+      "text": " and thoughtful way like a really great article and then they'll follow that"
+    },
+    {
+      "start": 2494.8,
+      "end": 2498.8,
+      "text": " up with ads to hey you should buy ancient nutrition protein or ancient"
+    },
+    {
+      "start": 2498.8,
+      "end": 2502.8,
+      "text": " nutrition collagen because we have really good products we just know we have"
+    },
+    {
+      "start": 2502.8,
+      "end": 2504.8,
+      "text": " more than just really good content we also have really good products"
+    },
+    {
+      "start": 2504.8,
+      "end": 2508.8,
+      "text": " yeah and so I thought they did that with content really well I'm to go through"
+    },
+    {
+      "start": 2508.8,
+      "end": 2511.8,
+      "text": " all these and then I'll tell you why I think almost all of them are really"
+    },
+    {
+      "start": 2511.8,
+      "end": 2515.8,
+      "text": " tough to do okay naked wines does something specific their entire business model"
+    },
+    {
+      "start": 2515.8,
+      "end": 2519.8,
+      "text": " is we're going to put an insert into your box they'd call up me a native and"
+    },
+    {
+      "start": 2519.8,
+      "end": 2523.8,
+      "text": " they'd be like hey I'm gonna pay you like an eighty dollar CPM let us put your"
+    },
+    {
+      "start": 2523.8,
+      "end": 2527.8,
+      "text": " art inserts into your box and I was like no we never did it but like there is"
+    },
+    {
+      "start": 2527.8,
+      "end": 2531.8,
+      "text": " CPM that they were ready to pay was insane and the coupon like they had a"
+    },
+    {
+      "start": 2531.8,
+      "end": 2534.8,
+      "text": " really high a o v and the reason this work for them was they were like the coupon"
+    },
+    {
+      "start": 2534.8,
+      "end": 2537.8,
+      "text": " would say the card that you get would say get one hundred dollars with the free"
+    },
+    {
+      "start": 2537.8,
+      "end": 2541.8,
+      "text": " wine and you're like wow that's a lot of free wine and then you look at the card"
+    },
+    {
+      "start": 2541.8,
+      "end": 2544.8,
+      "text": " and you go on their website and you're like okay my a o v has to be two hundred"
+    },
+    {
+      "start": 2544.8,
+      "end": 2549.8,
+      "text": " dollars yeah this makes it this makes life really tough there's a bunch of"
+    },
+    {
+      "start": 2549.8,
+      "end": 2553.8,
+      "text": " businesses like I think true classics may do this who does us that I've recently"
+    },
+    {
+      "start": 2553.8,
+      "end": 2557.8,
+      "text": " seen we were you purchase something and they're like here's pop-ups afterwards"
+    },
+    {
+      "start": 2557.8,
+      "end": 2561.8,
+      "text": " of like you know they're selling the thank you page pop-up oh yeah I think true"
+    },
+    {
+      "start": 2561.8,
+      "end": 2565.3,
+      "text": " classics does it I'm not positive I just got tricked are not tricked but I bought a"
+    },
+    {
+      "start": 2565.3,
+      "end": 2569.8,
+      "text": " second pa ramp on alpha pa and they do that at the end on the thank you page"
+    },
+    {
+      "start": 2569.8,
+      "end": 2573.8,
+      "text": " and then it was like hey we're gonna give you right now for the next four minutes"
+    },
+    {
+      "start": 2573.8,
+      "end": 2578.8,
+      "text": " you'll get 15% off if you buy a second ramp okay yeah and that makes a ton of sense"
+    },
+    {
+      "start": 2578.8,
+      "end": 2584.8,
+      "text": " and I love that and you have a dog at taco oh oh in as in the Bay Area okay gotcha"
+    },
+    {
+      "start": 2584.8,
+      "end": 2588.8,
+      "text": " yeah they're like I guess I'm not sure of true classics it's a bit of other"
+    },
+    {
+      "start": 2588.8,
+      "end": 2593.4,
+      "text": " Brit God I can't think of who does this with me I know I buy something like I"
+    },
+    {
+      "start": 2593.4,
+      "end": 2596.3,
+      "text": " have to wire buy something all the time then all of a sudden I see this in every"
+    },
+    {
+      "start": 2596.3,
+      "end": 2599.64,
+      "text": " week I see it I'm like upset but now I can't think about but like I'm the thank you"
+    },
+    {
+      "start": 2599.64,
+      "end": 2603.8,
+      "text": " page I'll be like do you want a free credit report right now click yes oh like"
+    },
+    {
+      "start": 2603.8,
+      "end": 2608.3,
+      "text": " rocked yeah yeah RKT yeah that's what it is they're so scummy though yeah that is"
+    },
+    {
+      "start": 2608.3,
+      "end": 2612.52,
+      "text": " uh that's that's brand impressions I the email swaps thing we you know I"
+    },
+    {
+      "start": 2612.52,
+      "end": 2615.64,
+      "text": " think that used to work really well I feel like it's dead now I don't know if"
+    },
+    {
+      "start": 2615.64,
+      "end": 2620.64,
+      "text": " it really works right now but if going to the contest you know I knew a one"
+    },
+    {
+      "start": 2620.64,
+      "end": 2624.12,
+      "text": " brand and I'm not sure if I can say their name so I won't they did like a"
+    },
+    {
+      "start": 2624.12,
+      "end": 2628.16,
+      "text": " bot you know win a Ford Bronco the Ford Bronco just come out is awesome they're"
+    },
+    {
+      "start": 2628.16,
+      "end": 2631.4,
+      "text": " like we have the most expensive one we tricked it out with like you know we"
+    },
+    {
+      "start": 2631.4,
+      "end": 2634.8,
+      "text": " basically sent it to MTV Cribs before car what was that MTV show where"
+    },
+    {
+      "start": 2634.8,
+      "end": 2638,
+      "text": " they fixed your car and make it super night yet Pimp my ride they sent it to Pimp"
+    },
+    {
+      "start": 2638,
+      "end": 2641.8,
+      "text": " my ride looks awesome you can win this Ford Bronco give us your email address"
+    },
+    {
+      "start": 2641.8,
+      "end": 2645.6,
+      "text": " and then they ran Facebook ads against that win a Ford Bronco win a Ford Bronco"
+    },
+    {
+      "start": 2645.6,
+      "end": 2650.96,
+      "text": " and their their Facebook ad strategy was 50% sell this products 50% win a Ford"
+    },
+    {
+      "start": 2650.96,
+      "end": 2654.8,
+      "text": " Bronco that's been pimped out and worked really well for them they collected"
+    },
+    {
+      "start": 2654.8,
+      "end": 2659.32,
+      "text": " millions of email addresses and they made like some of those convert at caskers we"
+    },
+    {
+      "start": 2659.32,
+      "end": 2663.84,
+      "text": " did this thing where we were like you know Pappy Van Winkle is I've heard it it's"
+    },
+    {
+      "start": 2663.84,
+      "end": 2666.72,
+      "text": " this bourbon that's like impossible to get it sells for like three hundred"
+    },
+    {
+      "start": 2666.72,
+      "end": 2669.72,
+      "text": " dollars they sell it in like November every year there's only like 500"
+    },
+    {
+      "start": 2669.72,
+      "end": 2673.84,
+      "text": " bottles in like the state of New York if you go shop at asterisk wine in"
+    },
+    {
+      "start": 2673.84,
+      "end": 2677.28,
+      "text": " spirits and you spend 50 thousand dollars they'll sell you one for three hundred"
+    },
+    {
+      "start": 2677.28,
+      "end": 2681.72,
+      "text": " dollars and like what we did at caskers was we were like win a bottle of Pappy Van"
+    },
+    {
+      "start": 2681.72,
+      "end": 2685.64,
+      "text": " Winkle and people went insane for that because like it was super hard to get"
+    },
+    {
+      "start": 2685.64,
+      "end": 2689.2,
+      "text": " your hands on and so like you know they'd share it and get like you know"
+    },
+    {
+      "start": 2689.2,
+      "end": 2692.08,
+      "text": " share with them we're like share it with three friends and you get an entry"
+    },
+    {
+      "start": 2692.08,
+      "end": 2694.6,
+      "text": " for every time you share it with your friends as well and so that worked out"
+    },
+    {
+      "start": 2694.6,
+      "end": 2697.96,
+      "text": " really well for us I always thought people in the wine space should do this like"
+    },
+    {
+      "start": 2697.96,
+      "end": 2702.12,
+      "text": " if I was a wine if I was selling wine and I don't know I'd be like I don't"
+    },
+    {
+      "start": 2702.12,
+      "end": 2704.88,
+      "text": " know what wine like you know screaming eagle I think that's hard to get I'd"
+    },
+    {
+      "start": 2704.88,
+      "end": 2708.64,
+      "text": " be like script win a bottle of screaming eagle I find a really expensive wine or"
+    },
+    {
+      "start": 2708.64,
+      "end": 2712.2,
+      "text": " one that's really hard to get and I'd be like Chateau Lafitte let me put this on"
+    },
+    {
+      "start": 2712.2,
+      "end": 2716.08,
+      "text": " and try and get somebody to buy it I think that'd be really interesting as well"
+    },
+    {
+      "start": 2716.08,
+      "end": 2719.92,
+      "text": " that's not as hard to do we never ran Facebook ads against that because I"
+    },
+    {
+      "start": 2719.92,
+      "end": 2721.8,
+      "text": " didn't know anything about Facebook ads but I think that would have been a"
+    },
+    {
+      "start": 2721.8,
+      "end": 2724.72,
+      "text": " fantastic look if I would consider now that I'm thinking about it I would"
+    },
+    {
+      "start": 2724.72,
+      "end": 2727.88,
+      "text": " consider buying caskers today just to see if I could run Facebook ads and make"
+    },
+    {
+      "start": 2727.88,
+      "end": 2731,
+      "text": " that my acquisition strategy because I think it could be that successful yeah"
+    },
+    {
+      "start": 2731,
+      "end": 2736.24,
+      "text": " um third party retailers I love that idea I think Etsy is probably underused by"
+    },
+    {
+      "start": 2736.24,
+      "end": 2739.96,
+      "text": " a lot of people who are making skin and makeup like if I was making makeup I"
+    },
+    {
+      "start": 2739.96,
+      "end": 2744.44,
+      "text": " would try and sell on Etsy if I was a small retailer media outreach great"
+    },
+    {
+      "start": 2744.44,
+      "end": 2748,
+      "text": " idea you know Ryan always says that he's able to get people to post about"
+    },
+    {
+      "start": 2748,
+      "end": 2751.36,
+      "text": " Jolie all the time he's like for every order we get we get like half a piece"
+    },
+    {
+      "start": 2751.36,
+      "end": 2756.92,
+      "text": " of like we get 0.5 content pieces we tried that so hard in Native Island I"
+    },
+    {
+      "start": 2756.92,
+      "end": 2761.84,
+      "text": " started putting on insert cards share and tag this and enter to win a contest"
+    },
+    {
+      "start": 2761.84,
+      "end": 2765.12,
+      "text": " of like you know $100 Starbucks gifts certificate we're gonna give this away"
+    },
+    {
+      "start": 2765.12,
+      "end": 2770.6,
+      "text": " every week please fucking tag us nobody didn't no mother fucker didn't"
+    },
+    {
+      "start": 2770.6,
+      "end": 2773.92,
+      "text": " and I couldn't get anybody to do it I don't know how he gets people to do it so"
+    },
+    {
+      "start": 2773.92,
+      "end": 2777.44,
+      "text": " if you can get if you can share that strategy that'd be great for the life of"
+    },
+    {
+      "start": 2777.44,
+      "end": 2780.64,
+      "text": " me I would have had to put in your in the insert card I would have put in if"
+    },
+    {
+      "start": 2780.64,
+      "end": 2783.32,
+      "text": " you don't tag us we're gonna come to your house and beat the fuck out of you"
+    },
+    {
+      "start": 2783.32,
+      "end": 2787.04,
+      "text": " people still wouldn't have tagged us I don't know what why was so fucking hard to"
+    },
+    {
+      "start": 2787.04,
+      "end": 2790.28,
+      "text": " do that but I think that's really hard to do he seems to have cracked that"
+    },
+    {
+      "start": 2790.28,
+      "end": 2793.68,
+      "text": " nut and I wish he'd tell people how he did that and I understand why it wouldn't"
+    },
+    {
+      "start": 2793.68,
+      "end": 2798.24,
+      "text": " but we try I tried that knows a huge failure I think the media outreach so here's"
+    },
+    {
+      "start": 2798.24,
+      "end": 2801.68,
+      "text": " why I think that things are really tough like I want all those things to work"
+    },
+    {
+      "start": 2801.68,
+      "end": 2804.8,
+      "text": " and to be honest I think people have cracked those things it's just a lot of"
+    },
+    {
+      "start": 2804.8,
+      "end": 2808.56,
+      "text": " effort it is a lot time I engine nutrition is creates blog posts and they're"
+    },
+    {
+      "start": 2808.56,
+      "end": 2811.72,
+      "text": " like we've got this down to science will look up below being will look up the top"
+    },
+    {
+      "start": 2811.72,
+      "end": 2814.76,
+      "text": " 10 articles will consume all that information we have to make something it's"
+    },
+    {
+      "start": 2814.76,
+      "end": 2818.68,
+      "text": " 50% longer and has 50% better information and I don't know how they measure"
+    },
+    {
+      "start": 2818.68,
+      "end": 2822.32,
+      "text": " that but that's really impressive I do think the contest the email swaps all"
+    },
+    {
+      "start": 2822.32,
+      "end": 2826.6,
+      "text": " those things are like less time and more interesting and now the Facebook"
+    },
+    {
+      "start": 2826.6,
+      "end": 2830.16,
+      "text": " exists you can like create funnels to drive people to give your email address"
+    },
+    {
+      "start": 2830.16,
+      "end": 2833.2,
+      "text": " for that I think the hard part is are those just the shittiest customers in"
+    },
+    {
+      "start": 2833.2,
+      "end": 2836.56,
+      "text": " the world or can you create flows such that they actually convert into customers"
+    },
+    {
+      "start": 2836.56,
+      "end": 2841.7,
+      "text": " later on cool alright I want to get to this last part which is you know this"
+    },
+    {
+      "start": 2841.7,
+      "end": 2845.74,
+      "text": " is somebody came to work with us I thought we were gonna work with them for"
+    },
+    {
+      "start": 2845.74,
+      "end": 2849.1,
+      "text": " sure then they went another direction they were can you share their name or"
+    },
+    {
+      "start": 2849.1,
+      "end": 2851.26,
+      "text": " you can't show them now I want to share their okay we're about to work with"
+    },
+    {
+      "start": 2851.26,
+      "end": 2858.44,
+      "text": " them they came back they went to work with a branding agency instead of working"
+    },
+    {
+      "start": 2858.44,
+      "end": 2862.86,
+      "text": " with us which you know terrible idea but they launched didn't go as planned"
+    },
+    {
+      "start": 2862.86,
+      "end": 2866.78,
+      "text": " and they came back and just as I was auditing their site you know there was one"
+    },
+    {
+      "start": 2866.78,
+      "end": 2872.2,
+      "text": " very obvious miss that they had and it was that they didn't have clavio"
+    },
+    {
+      "start": 2872.2,
+      "end": 2878.96,
+      "text": " installed on the website no pop up no welcome flow nothing and so you know I"
+    },
+    {
+      "start": 2878.96,
+      "end": 2883.22,
+      "text": " thought that is a very common thing for e-commerce brands to do is like"
+    },
+    {
+      "start": 2883.22,
+      "end": 2886.32,
+      "text": " you know if you're not a venture backed brand if you're just launching a store"
+    },
+    {
+      "start": 2886.32,
+      "end": 2891.26,
+      "text": " a lot of people miss having some of their email set and I think it's it's not"
+    },
+    {
+      "start": 2891.26,
+      "end": 2895.66,
+      "text": " realistic sometimes to say I'm gonna have every possible email flow live when I"
+    },
+    {
+      "start": 2895.66,
+      "end": 2899.86,
+      "text": " launch the brand on day one but I think the three things you should have live is"
+    },
+    {
+      "start": 2899.86,
+      "end": 2903.24,
+      "text": " you should have a good order receipt like you should go into Shopify you should"
+    },
+    {
+      "start": 2903.24,
+      "end": 2907,
+      "text": " customize that template you know native has I think the best copy for the order"
+    },
+    {
+      "start": 2907,
+      "end": 2911.2,
+      "text": " receipt email you should have a good email pop up because that's just those are"
+    },
+    {
+      "start": 2911.2,
+      "end": 2915.34,
+      "text": " people coming to your site you know 10% of them are gonna give you their email if"
+    },
+    {
+      "start": 2915.34,
+      "end": 2919.34,
+      "text": " you're not capturing it you're you're missing out on free revenue and the third"
+    },
+    {
+      "start": 2919.34,
+      "end": 2924.38,
+      "text": " is a good welcome series so people put their email in basically what they're"
+    },
+    {
+      "start": 2924.38,
+      "end": 2929.06,
+      "text": " saying is hey here's my email address I want you to pitch me why I should buy"
+    },
+    {
+      "start": 2929.06,
+      "end": 2932.18,
+      "text": " your product the way you should think about your welcome flows you've now been"
+    },
+    {
+      "start": 2932.18,
+      "end": 2937.56,
+      "text": " invited to pitch your product on Shark Tank except through an email inbox so"
+    },
+    {
+      "start": 2937.56,
+      "end": 2940.86,
+      "text": " you know I put together five very easy emails that somebody could put"
+    },
+    {
+      "start": 2940.86,
+      "end": 2945.3,
+      "text": " together and I'm curious at the end if you think there's anything you'd add or"
+    },
+    {
+      "start": 2945.3,
+      "end": 2949.94,
+      "text": " modify or if you would add any emails to this so the first one I call it the"
+    },
+    {
+      "start": 2949.94,
+      "end": 2954.56,
+      "text": " introduce yourself to her email so this is you know you follow up to the"
+    },
+    {
+      "start": 2954.56,
+      "end": 2958,
+      "text": " angle that somebody came into your site from so maybe it's from a press article"
+    },
+    {
+      "start": 2958,
+      "end": 2962.86,
+      "text": " whatever the angle is that people buy your product you focus on that you explain"
+    },
+    {
+      "start": 2962.86,
+      "end": 2966.94,
+      "text": " who's the brand why do people love you or what are you known for what can"
+    },
+    {
+      "start": 2966.94,
+      "end": 2970.22,
+      "text": " somebody benefit from buying your products and then how would somebody you know"
+    },
+    {
+      "start": 2970.22,
+      "end": 2974.74,
+      "text": " the way you kind of want to frame it is like if I were to text you why you should"
+    },
+    {
+      "start": 2974.74,
+      "end": 2979.7,
+      "text": " buy Jolie that text is the type of text you want in your first email the"
+    },
+    {
+      "start": 2979.7,
+      "end": 2983.78,
+      "text": " second one I call it introduce yourself to her parents so it's much more"
+    },
+    {
+      "start": 2983.78,
+      "end": 2987.82,
+      "text": " formal you go deeper on what makes you worthy as a brand what makes your product"
+    },
+    {
+      "start": 2987.82,
+      "end": 2991.4,
+      "text": " special how you're gonna make somebody's life easier if you have any studies"
+    },
+    {
+      "start": 2991.4,
+      "end": 2996.02,
+      "text": " trials or claims that can back up your info and then any special ingredients to"
+    },
+    {
+      "start": 2996.02,
+      "end": 2999.58,
+      "text": " help you stand out the third one is you highlight a product so whatever the"
+    },
+    {
+      "start": 2999.58,
+      "end": 3003.18,
+      "text": " most hype product is when somebody searches your brand so somebody Google's"
+    },
+    {
+      "start": 3003.18,
+      "end": 3007.5,
+      "text": " native deodorant what is the number one skew that pops up that's the one"
+    },
+    {
+      "start": 3007.5,
+      "end": 3011.34,
+      "text": " that you highlight and you want to basically show the light at the end of"
+    },
+    {
+      "start": 3011.34,
+      "end": 3016.02,
+      "text": " the tunnel so this product is going to make you smell great but then also back"
+    },
+    {
+      "start": 3016.02,
+      "end": 3019.98,
+      "text": " it up with the how so a lot of people focus on the end but then they sort of"
+    },
+    {
+      "start": 3019.98,
+      "end": 3022.94,
+      "text": " lose people because they don't include what you know how are you gonna"
+    },
+    {
+      "start": 3022.94,
+      "end": 3026.34,
+      "text": " scientifically do this or how do I understand this in my head and so I think"
+    },
+    {
+      "start": 3026.34,
+      "end": 3030.54,
+      "text": " your 30-mail focuses on on product your fourth email is basically highlighting"
+    },
+    {
+      "start": 3030.54,
+      "end": 3034.78,
+      "text": " social proof so you focus on written reviews you bold the benefits you focus on"
+    },
+    {
+      "start": 3034.78,
+      "end": 3039.3,
+      "text": " UGC you know maybe some influencer posts and tiktoks whatever things that"
+    },
+    {
+      "start": 3039.3,
+      "end": 3042.42,
+      "text": " sort of emphasize like you're not alone in buying this product and many other"
+    },
+    {
+      "start": 3042.42,
+      "end": 3047.1,
+      "text": " people have benefited the last one is a killer offer so this is your last chance"
+    },
+    {
+      "start": 3047.1,
+      "end": 3051.22,
+      "text": " to convert somebody you give them a killer offer on your most well-known product"
+    },
+    {
+      "start": 3051.22,
+      "end": 3055.3,
+      "text": " you reinforce why the product is great what people say about it and how it's"
+    },
+    {
+      "start": 3055.3,
+      "end": 3060.5,
+      "text": " gonna benefit the customer and if you have distribution and retail then I think"
+    },
+    {
+      "start": 3060.5,
+      "end": 3065.06,
+      "text": " you can add a six email which basically says you know hey you were interested in"
+    },
+    {
+      "start": 3065.06,
+      "end": 3068.5,
+      "text": " this product here's all the other places you can go find us maybe you're you"
+    },
+    {
+      "start": 3068.5,
+      "end": 3072.46,
+      "text": " go to target you buy us there you go to Nordstrom you buy us there sometimes"
+    },
+    {
+      "start": 3072.46,
+      "end": 3075.42,
+      "text": " people just don't buy because they don't have the trust that you know you're"
+    },
+    {
+      "start": 3075.42,
+      "end": 3079.66,
+      "text": " not gonna leak their credit card number yeah yeah yeah I love that so why did"
+    },
+    {
+      "start": 3079.66,
+      "end": 3082.26,
+      "text": " that client choose not to work with you sorry that was the other follow-up"
+    },
+    {
+      "start": 3082.26,
+      "end": 3086.78,
+      "text": " essentially they probably realize or thought to say thought not realized"
+    },
+    {
+      "start": 3086.78,
+      "end": 3089.74,
+      "text": " now they realize they should have but they thought that oh we have a"
+    },
+    {
+      "start": 3089.74,
+      "end": 3092.9,
+      "text": " branding agency that we paid to build you know they said they're gonna build"
+    },
+    {
+      "start": 3092.9,
+      "end": 3096.54,
+      "text": " us a site they said they're gonna do this let's just work with a branding agency"
+    },
+    {
+      "start": 3096.54,
+      "end": 3100.1,
+      "text": " we don't need you guys to build a site and do x1 z yeah they don't understand"
+    },
+    {
+      "start": 3100.1,
+      "end": 3104.1,
+      "text": " that you're not a branding agency exactly okay I generally agree with all those"
+    },
+    {
+      "start": 3104.1,
+      "end": 3108.62,
+      "text": " things that you said in terms of the welcome series introduce you to the person"
+    },
+    {
+      "start": 3108.62,
+      "end": 3112.3,
+      "text": " introduce you to their family that's an interesting way to put it a product"
+    },
+    {
+      "start": 3112.3,
+      "end": 3115.78,
+      "text": " highlight I really like I would say that in that product highlight I'm shocked by"
+    },
+    {
+      "start": 3115.78,
+      "end": 3119.14,
+      "text": " the number of brands where I'm like you know I think a lot of brands go straight"
+    },
+    {
+      "start": 3119.14,
+      "end": 3122.74,
+      "text": " right there which is what is the hot product that you like especially new people"
+    },
+    {
+      "start": 3122.74,
+      "end": 3125.94,
+      "text": " whether like I'm creating an assortment of products and I'm like what do you want"
+    },
+    {
+      "start": 3125.94,
+      "end": 3128.94,
+      "text": " people to buy on this site what are you really good at like with native we're"
+    },
+    {
+      "start": 3128.94,
+      "end": 3133.5,
+      "text": " like by deodorant that's clearly the number one thing that we exist for now"
+    },
+    {
+      "start": 3133.5,
+      "end": 3136.66,
+      "text": " I think that there's other products but like you know when I go to Grove I'm"
+    },
+    {
+      "start": 3136.66,
+      "end": 3140.46,
+      "text": " like what should I be buying here yeah and like you sell everything like give me"
+    },
+    {
+      "start": 3140.46,
+      "end": 3144.02,
+      "text": " a you know this is like going to Amazon I'm like you know I there's I need"
+    },
+    {
+      "start": 3144.02,
+      "end": 3147.9,
+      "text": " to have intent and this should be discovery and here's the discovery here's"
+    },
+    {
+      "start": 3147.9,
+      "end": 3150.74,
+      "text": " the product that I should buy which I really like the one thing I would say is"
+    },
+    {
+      "start": 3150.74,
+      "end": 3157.18,
+      "text": " you know Ryan like last time you and I and Ryan spoke on a panel you also"
+    },
+    {
+      "start": 3157.18,
+      "end": 3161.9,
+      "text": " mentioned how old you were but at that time you Ryan was like we don't have a pop-up"
+    },
+    {
+      "start": 3161.9,
+      "end": 3165.62,
+      "text": " we don't take a welcome we don't need your email he's not we said we're not in"
+    },
+    {
+      "start": 3165.62,
+      "end": 3169.94,
+      "text": " the business of emailing people and I was like you know that was really interesting"
+    },
+    {
+      "start": 3169.94,
+      "end": 3173.58,
+      "text": " I mean look Ryan is doing something really right his business is on fire so"
+    },
+    {
+      "start": 3173.58,
+      "end": 3177.78,
+      "text": " you know Jeff Bezos one time that there's a story in like the everything store"
+    },
+    {
+      "start": 3177.78,
+      "end": 3181.1,
+      "text": " which is this book about Amazon and like somebody sends an email like a promo"
+    },
+    {
+      "start": 3181.1,
+      "end": 3184.9,
+      "text": " email through Amazon and he gets so upset he's like we're never gonna have to"
+    },
+    {
+      "start": 3184.9,
+      "end": 3189.9,
+      "text": " ever send a single promo email on Amazon we never send only emails we send our"
+    },
+    {
+      "start": 3189.9,
+      "end": 3192.5,
+      "text": " order confirmation and orders shipping and that's why you don't get an"
+    },
+    {
+      "start": 3192.5,
+      "end": 3197.18,
+      "text": " email from it like Amazon doesn't say to email saying 20% off nectar mattresses"
+    },
+    {
+      "start": 3197.18,
+      "end": 3202.14,
+      "text": " yeah 10% off jolly and think about how many emails they have yeah how was it"
+    },
+    {
+      "start": 3202.14,
+      "end": 3205.86,
+      "text": " humanly possible that the largest store in the world doesn't do that I also"
+    },
+    {
+      "start": 3205.86,
+      "end": 3209.82,
+      "text": " I think there may be some genius to this I think I'm not smart enough to realize"
+    },
+    {
+      "start": 3209.82,
+      "end": 3213.3,
+      "text": " this but it does make me think like you know when you were saying this I was like"
+    },
+    {
+      "start": 3213.3,
+      "end": 3217.42,
+      "text": " why is that guy not fuck he's not running Facebook ads and he's not creating an"
+    },
+    {
+      "start": 3217.42,
+      "end": 3221.82,
+      "text": " email pop up and he's getting people to our organically post what is he doing"
+    },
+    {
+      "start": 3221.82,
+      "end": 3226.58,
+      "text": " yeah like what you're hoping yeah is he living here like I'm living here in"
+    },
+    {
+      "start": 3226.58,
+      "end": 3230.78,
+      "text": " America on the streets and he's living in a utopia where you don't have to"
+    },
+    {
+      "start": 3230.78,
+      "end": 3234.06,
+      "text": " collect emails you don't have to run Facebook ads and people organically post"
+    },
+    {
+      "start": 3234.06,
+      "end": 3238.7,
+      "text": " about you this is paradise you you've gone to heaven already my friend yeah"
+    },
+    {
+      "start": 3238.7,
+      "end": 3242.9,
+      "text": " and I don't understand it okay we've got to wrap up in two minutes before we do"
+    },
+    {
+      "start": 3242.9,
+      "end": 3246.18,
+      "text": " tell me three things that you're excited about with three stories are gonna"
+    },
+    {
+      "start": 3246.18,
+      "end": 3248.62,
+      "text": " shop out on Black Friday what are you waiting for Black Friday discounts"
+    },
+    {
+      "start": 3248.62,
+      "end": 3252.5,
+      "text": " definitely gonna go check out Lulu okay see if there's anything new there"
+    },
+    {
+      "start": 3252.5,
+      "end": 3256.1,
+      "text": " I'm probably gonna check the Hoka store see if they've got any"
+    },
+    {
+      "start": 3256.1,
+      "end": 3260.5,
+      "text": " Hocus I've fallen in love with Hocus really yeah the most comfortable shoes are"
+    },
+    {
+      "start": 3260.5,
+      "end": 3265.1,
+      "text": " you wearing them now yeah wearing them now okay and then the third one I'm not"
+    },
+    {
+      "start": 3265.1,
+      "end": 3270.3,
+      "text": " sure honestly you know what I find on Black Friday is I feel like exactly what"
+    },
+    {
+      "start": 3270.3,
+      "end": 3275.02,
+      "text": " you mentioned how Grove they sort of don't put you in a path or like put you"
+    },
+    {
+      "start": 3275.02,
+      "end": 3278.42,
+      "text": " down a slide a lot of stores don't put you down a slide they kind of say hey"
+    },
+    {
+      "start": 3278.42,
+      "end": 3282.78,
+      "text": " come shop our whole site and I get overwhelmed and then I close the tab and I"
+    },
+    {
+      "start": 3282.78,
+      "end": 3286.66,
+      "text": " like last Black Friday I don't think I bought a single thing you know I've"
+    },
+    {
+      "start": 3286.66,
+      "end": 3289.86,
+      "text": " been like looking at furniture because I got to get some furniture from my"
+    },
+    {
+      "start": 3289.86,
+      "end": 3293.86,
+      "text": " apartment and I'll go to a website like all these like you know boutiquey"
+    },
+    {
+      "start": 3293.86,
+      "end": 3297.94,
+      "text": " stores itself furniture and I'm like there's a thousand four hundred"
+    },
+    {
+      "start": 3297.94,
+      "end": 3301.38,
+      "text": " skews on this website and there's no bestseller so I'm like what is your"
+    },
+    {
+      "start": 3301.38,
+      "end": 3304.46,
+      "text": " best set what is everyone buying from this store just tell me I'm not gonna look"
+    },
+    {
+      "start": 3304.46,
+      "end": 3307.82,
+      "text": " through four thousand skews on this thing there's no way to find a bestseller"
+    },
+    {
+      "start": 3307.82,
+      "end": 3311.82,
+      "text": " and I'm like how could you not understand this is a product everyone loves and"
+    },
+    {
+      "start": 3311.82,
+      "end": 3314.3,
+      "text": " you don't want to sell you don't want to show it to me what's wrong with you"
+    },
+    {
+      "start": 3314.3,
+      "end": 3317.94,
+      "text": " it's really funny because I think this might be something that's also specific"
+    },
+    {
+      "start": 3317.94,
+      "end": 3321.94,
+      "text": " to men which is like men go to a clothing brand or furniture brand and we're"
+    },
+    {
+      "start": 3321.94,
+      "end": 3326.78,
+      "text": " like wait a second but is this okay am I am I okay well I look stupid if I buy"
+    },
+    {
+      "start": 3326.78,
+      "end": 3330.18,
+      "text": " this yeah yeah I mean just tell me what your bestseller is I don't understand"
+    },
+    {
+      "start": 3330.18,
+      "end": 3335.1,
+      "text": " why it's so hard to do that and I find out bananas okay so Lula and Hoka and"
+    },
+    {
+      "start": 3335.1,
+      "end": 3338.94,
+      "text": " what was the other one of no not Grove I don't know what the third one's gonna be"
+    },
+    {
+      "start": 3338.94,
+      "end": 3343.66,
+      "text": " wow yeah what about you maybe maybe Rowan actually I think jolly I don't know"
+    },
+    {
+      "start": 3343.66,
+      "end": 3349.1,
+      "text": " no jolly and I want to see this counts for a lot of time to buy you a jolly I'm waiting"
+    },
+    {
+      "start": 3349.1,
+      "end": 3354.3,
+      "text": " on ten thousand although I like you know I have been turned off by the brand a"
+    },
+    {
+      "start": 3354.3,
+      "end": 3358.1,
+      "text": " little bit in the last 12 months why they did this loyalty thing where they're"
+    },
+    {
+      "start": 3358.1,
+      "end": 3362.1,
+      "text": " like more is you you accumulated all these loyalty rewards points use them"
+    },
+    {
+      "start": 3362.1,
+      "end": 3365.46,
+      "text": " and you have like fifty dollars so it's gonna use them and then they're like oh"
+    },
+    {
+      "start": 3365.46,
+      "end": 3370.18,
+      "text": " this shirt we charge you more if you're using the loyalty points basically and"
+    },
+    {
+      "start": 3370.18,
+      "end": 3373.9,
+      "text": " so I was like okay so loyalty points are worthless yeah and so as a result I"
+    },
+    {
+      "start": 3373.9,
+      "end": 3377.18,
+      "text": " haven't shop there and then there's this brand that I really like called a big"
+    },
+    {
+      "start": 3377.18,
+      "end": 3380.1,
+      "text": " favorite which I don't think anyone ever shops at I think I bought you a shirt"
+    },
+    {
+      "start": 3380.1,
+      "end": 3384.38,
+      "text": " yeah great shirt and I really like it because it's like organic clothing and"
+    },
+    {
+      "start": 3384.38,
+      "end": 3387.5,
+      "text": " now I'm like you know you're all about water and I'm a little bit worried about"
+    },
+    {
+      "start": 3387.5,
+      "end": 3391.82,
+      "text": " like you know what are all the dyes that are on my shirt coming from yeah a"
+    },
+    {
+      "start": 3391.82,
+      "end": 3395.54,
+      "text": " little bit nervous so I think that was three for me awesome okay that's a wrap"
+    },
+    {
+      "start": 3395.54,
+      "end": 3400.58,
+      "text": " for episode three really love that especially the Clavio 5 series that was my"
+    },
+    {
+      "start": 3400.58,
+      "end": 3403.54,
+      "text": " favorite part about this awesome I think on the next one we should touch on some"
+    },
+    {
+      "start": 3403.54,
+      "end": 3407.26,
+      "text": " of the earnings that have come out and then we'll see what else we dive into"
+    },
+    {
+      "start": 3407.26,
+      "end": 3411.38,
+      "text": " yeah love to awesome thanks for tuning in we'll be back next time to cut"
+    },
+    {
+      "start": 3411.38,
+      "end": 3415.18,
+      "text": " through the noise and CPG retail and e-commerce and if you enjoyed this"
+    },
+    {
+      "start": 3415.18,
+      "end": 3419.42,
+      "text": " episode then why not share it with a friend and be sure to subscribe wherever"
+    },
+    {
+      "start": 3419.42,
+      "end": 3423.06,
+      "text": " you listen so you don't miss the next one"
+    }
+  ]
+}

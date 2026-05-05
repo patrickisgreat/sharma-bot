@@ -1,0 +1,429 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.65,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nick.co.com, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights, all so you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.65,
+      "end": 47.89,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. Big screen ads without big screen headaches. Roku Ads Manager is a self-service CTV platform that helps advertisers drive outcomes across the funnel. Start today at advertising.roku.com slash limited supply."
+    },
+    {
+      "start": 50.2,
+      "end": 79.02,
+      "text": "Ian, why don't you give us a quick background on yourself and introduce yourself to the limited supply community here, and then we'll just start riffing. Sounds good. I've got a bit of a weird background. I wanted to be an academic for a really long time, so I studied international policy, nuclear, naval security. Really interesting and boring stuff, depending on how you think about it. Accidentally went into banking, which I hated."
+    },
+    {
+      "start": 80.2,
+      "end": 105.14,
+      "text": "Then I went into venture, which was great, but if you're young and investing in companies, you always get jealous of the operators because, well, you haven't done it yet, so you don't know the pain. Jumped ship to start my own company. That was acquired. Started another company. That was a total failure. And now I run Oceans. What was the company that got acquired? It's called Newspix. Newspix, and what was it?"
+    },
+    {
+      "start": 105.78,
+      "end": 135.42,
+      "text": "It was a business app. So basically the idea was business stories are more interesting if business people are giving context. And so we had a curation app that would also allow CEOs, thought leaders, important people to directly comment on news stories as opposed to just linking in Twitter. And the outcome of that was I realized I don't like building apps. It's super difficult. Even back then, I can't imagine what it's like now."
+    },
+    {
+      "start": 135.76,
+      "end": 159.18,
+      "text": "I mean, you're just spending all day trying to figure out whether if we slightly change the color of red on this button, people are more likely to click it. It's pretty wild stuff. I mean, you do a lot of website optimization. It's even worse than that. Yeah, totally. So I was the first company and I started like a gaming company and that went exactly nowhere."
+    },
+    {
+      "start": 159.96,
+      "end": 188.24,
+      "text": "And then I started Oceans, which is like a high skill operational offshoring firm, which you may have heard about because I know you've talked about it, Nick. But we work with hundreds of startups, big companies, mid-market, a lot of e-com brands. So we're pretty familiar with those pain points and the things you talk about on here a lot. And that's going well. I've been doing that for four years and it's been amazing and so much better than building apps. That's all I would say."
+    },
+    {
+      "start": 189.28,
+      "end": 214.72,
+      "text": "Amazing. Yeah, that's where I found Ramiz, the famous Ramiz. I mean, people must be sick of hearing his name on the show. Most famous guy nobody's ever actually seen and might not even exist for all they know. But yeah. That's a good assistant. It's like in the background, doing nothing like everywhere and nowhere, you know, that kind of thing. Yeah. That's the way to do it, honestly."
+    },
+    {
+      "start": 214.72,
+      "end": 244.12,
+      "text": "A lot of people think offshoring is such a much more common conversation now, I think, than it was when Ocean started or even a few years ago when the trend really started. But it's like everybody also, I think, thinks of VAs or offshore talent to have a cap on their intelligence."
+    },
+    {
+      "start": 244.62,
+      "end": 273.14,
+      "text": "And I always tell them, like, I have two. And to me, they're co-pilots. They're not like teammates or flight attendants, you know. They're like literally co-pilots. And if they're not there, then my day also slows down because the three of us kind of work at one speed. Yeah. I mean, we are in a business where there's just a ton of perception. It's been informed by people like, you know, when you call an airline, you talk to somebody from a different country on the other line, you get frustrated."
+    },
+    {
+      "start": 273.4,
+      "end": 298.24,
+      "text": "That's most people's experience with offshoring. And it's not a great jumping in point because nobody ever has a good time doing it. I think more recently, people have been able to see that America specifically doesn't have a monopoly on the smartest people in the world. And in fact, basically every country has a hierarchy of less educated, more educated, less skilled, more skilled workers."
+    },
+    {
+      "start": 298.94,
+      "end": 326.82,
+      "text": "The innovation in the last couple of years has just been remote work where you can actually plug into those people of high skill in other countries. The thing is just to find them. Like if you're just going out, you don't know the culture, you don't know which place to start, you don't know which schools are good, which schools are bad, which companies are good, which companies are bad. It's just hard to recruit at the highest end of the talent pool. And, you know, that's why I started Oceans. But it is true that that is now changing."
+    },
+    {
+      "start": 327.02,
+      "end": 355.52,
+      "text": "Like people's perception of offshoring is changing because of the work we do. But also, you know, there's hundreds of companies doing awesome stuff in the space across dozens of different verticals. And it's definitely not slowing down. I mean, it is the future in a lot of ways. For better or for worse. Yeah, I've talked to, I mean, like with Oceans, you probably, I know DTC brands tend to be a bigger chunk, but like what are some of the other verticals you touch?"
+    },
+    {
+      "start": 355.52,
+      "end": 379.54,
+      "text": "It is interesting, the wide range of people that work with us. I'll say from like tactically running a business perspective, it's really hard to narrow down our ICP because we work with dental offices and like medical practices and medispas who everyone needs accountants. Everyone needs like financial controllers."
+    },
+    {
+      "start": 379.54,
+      "end": 401.28,
+      "text": "A lot of business owners need assistance to some of the bigger brands in DTC, some of the biggest brands in media, some of the, you know, the biggest companies in the like healthcare space. And then we also have like one company that does, I mean, it's really cool. I didn't even know this was a business, but you need all these like permits to recycle hazardous materials."
+    },
+    {
+      "start": 401.28,
+      "end": 420.82,
+      "text": "And one of our big customers, all they do is own like the Northwestern American market for recycling hazardous materials. And they have a bunch of people from us. So it's a huge range. It is true that we plug in some places better than others. Yeah."
+    },
+    {
+      "start": 420.82,
+      "end": 442.7,
+      "text": "So with just this week alone, I've talked to three different brands and for some reason or another, like they've basically done a reset on their internal e-commerce team. And the playbook they're going to use going forward is like one senior person and one or two offshore talent people to support."
+    },
+    {
+      "start": 442.7,
+      "end": 470.58,
+      "text": "And that three person team can pretty much, without any issues, handle a direct consumer business doing like $30 million. There's a lot of tooling that's made that happen. You know, there's a lot of like people have been are more efficient than they have ever been. I would say one of the big reasons you're seeing that, I mean, if I can inject any kind of experience into the conversation is the US moves really quick."
+    },
+    {
+      "start": 470.58,
+      "end": 487.44,
+      "text": "Like everything that happens here moves really fast. We are like whatever you see on the news and the world, like America is still the most innovative country on the planet. And this is particularly true when it comes to selling stuff. We are the world experts in how to sell things and how to sell things better."
+    },
+    {
+      "start": 487.44,
+      "end": 515.3,
+      "text": "And so there is a gap in talent at a super like strategic and leadership level because most countries are anywhere from three to 15 years behind the US and how they market and sell domestically. And so what we see is a lot of teams are switching to this model where the strategic layer is here. They're the people that are in the market. They understand the market. They're at the cutting edge."
+    },
+    {
+      "start": 515.74,
+      "end": 545.24,
+      "text": "But then the support layer, even the middle management layer, the execution layer is being moved offshore. This means you can get a lot more done with less. And my hope is there's a lot of talk around, of course, jobs is a really sensitive political thing. Like we don't need to shy away from what happens when you move vast amounts of formerly American labor overseas. And we can touch on that and what that means. My hope is it just means there's more companies that are able to start and more people that are able to do business."
+    },
+    {
+      "start": 545.24,
+      "end": 568.38,
+      "text": "And so the proliferation of access to scaling tools into everything that Shopify has done and just one click anything means there's more companies and more people that offsets maybe some jobs going away. Totally. I also think there's a lot of brands that die that live between $10 and $30 million."
+    },
+    {
+      "start": 568.38,
+      "end": 596.08,
+      "text": "And it's because they don't have the cash to do it. And this, as an option, makes them a lot more likely to get through that and still execute well. Yeah. I mean, one of the reasons e-com and DTC is a big segment for us is most experienced founders in that space understand the severe impact."
+    },
+    {
+      "start": 596.08,
+      "end": 620.64,
+      "text": "Any business with inventory has cash problems. Right? Yeah. And so it keeps you up at night. So if you've got inventory, it means you've got cash problems. If you've got cash problems, it means you're looking for ways to cut costs all the time. That is what attracts that group of customers to us versus a software startup that just raised $100 million."
+    },
+    {
+      "start": 622.22,
+      "end": 647,
+      "text": "They're not really looking at $5,000 a month expenses, $10,000 a month expenses because it's a rounding error on the amount they have in the bank. And they're expected to spend. That's not actually a great customer base from us because they'll pay three, four times whatever it is, the premium to get whatever they need to get. And they're not as concerned with cost or even quality. Right. How do you... So I know one of the things that..."
+    },
+    {
+      "start": 648.36,
+      "end": 676.54,
+      "text": "Well, so when I had Sharma Brands, we had eight or nine people from Oceans. RIP. And yeah, one of my favorite things was on Fridays, I would tell Ramiz, like, yo, take the team out. And, you know, like, whatever you guys buy, it's on me because the most they can spend is like $180. And that's if like eight of them go out. And so... I mean, this is like, you can go to the fanciest restaurant in Colombo."
+    },
+    {
+      "start": 676.82,
+      "end": 703.78,
+      "text": "And it's like, you couldn't spend more than 25 bucks a person if you really tried. Like the human body couldn't consume that much caviar. It's crazy. Yeah. And I told them, I was like, yo, if you guys go out, get some bottles, go have some fun. They're like, oh, we don't really drink that much. And so... But they were like, you'd love the buffets. So I'd be like, all right, go to the buffets. They'd love the buffets. Yeah. And it's on me. You guys should go out every weekend. And then there was like also..."
+    },
+    {
+      "start": 703.78,
+      "end": 733.22,
+      "text": "There was basically like all the Oceans people, I realized, they love to hang out together. And I've always thought remote hiring, like one of the downsides was culture. It's hard to build and scale that culture internationally. But then when we hired our talent with you, and then eventually we also did use a different service to hire somebody in LATAM. Like we were able to figure out how to create culture with people internationally. And I thought that was like mind blowing. And I think you guys did a really good job."
+    },
+    {
+      "start": 733.52,
+      "end": 762.24,
+      "text": "Like I know you have boots on the ground there that are basically actively cultivating the culture and hosting events and educational things. Like, can you just speak a little bit to how do you build culture overseas? Yeah, I will speak to that. I also want to speak briefly to the buffet comment because I think it's really important for the American audience who are imagining like Golden Corral or their like most adjacent Chinese buffet. The buffets they have in Sri Lanka are like unbelievable."
+    },
+    {
+      "start": 762.62,
+      "end": 790.4,
+      "text": "I mean, these things are works of art. It's like, it's worth flying there just to see the potential of what a buffet can be. And it feels weird to be an American and be like, let's go have a fancy dinner. Buffet? No. It is like a serious art form. It's wild. Google some pictures. It's crazy. The culture piece. Sorry, I just had to make that. No, I'm actually glad you did that. It's a really serious topic for my company and for most Sri Lankans."
+    },
+    {
+      "start": 791.76,
+      "end": 821.66,
+      "text": "The culture piece is not like, there's nothing like, I can talk about what Oceans does, but I just want to make it clear. The culture is an important part of international hiring. It's like the second step after remote work. If your company is remote, a lot of people already struggled during the pandemic to like hold together a remote culture. That's really hard. The gap between in-person culture and remote culture is much bigger than the gap between remote culture and like international culture."
+    },
+    {
+      "start": 821.66,
+      "end": 847.34,
+      "text": "It's much easier to bridge those two things than it is to be like, we're going from all in office to all remote. That's a huge problem. And so many leaders struggled with that during the pandemic. A lot of the things that apply to remote work in the US also apply to remote work when you're hiring folks overseas. Again, totally irrespective of Oceans, it's things like visibility, having solid communication"
+    },
+    {
+      "start": 847.34,
+      "end": 875.68,
+      "text": "plans, making sure you're on a system that allows the management and the people working with that management to be in sync. So you've got set meeting times. You've got a good Slack or whatever it is to message and do work async tracking things on Asana or Trello or whatever you want to use. And then you're also doing really regular check-ins because when you're not sitting next to somebody, a lot of context gets missed. That's just on how to work together remotely."
+    },
+    {
+      "start": 875.94,
+      "end": 903.86,
+      "text": "Same stuff applies internationally. The culture piece is a little different. There is some cultural friction. I will say that like in this day and age, I mean, I remember studying abroad in Japan in 2011. It was like culture shock. I couldn't talk about the shows I was watching in the US because Netflix didn't exist. Those shows weren't in Japan. I couldn't talk about like the clothes I was buying here, the food I was buying, you know,"
+    },
+    {
+      "start": 904.16,
+      "end": 932.96,
+      "text": "like Starbucks is now the second biggest coffee shop in Japan. So I can talk about going to Starbucks. It's the same thing all over the world. Culture has become multinational. And so even in the last like five years, it's become much easier to connect with people abroad and build a culture. Just lean into that. Talk about what you'd be surprised. Like you and some guy in LATAM are watching the same Netflix show. Just talk about it. Me and Remy both watch Kill Tony every Monday."
+    },
+    {
+      "start": 933.98,
+      "end": 961.9,
+      "text": "I mean, that's insane. That's just A, a wild choice for a show to watch. B, it's wild that you watch it on Monday. And C, it's wild that you both watch it together. Yeah, I'm a viewing party, man. I mean, that's like, you would be surprised how everyone's seen the same TikToks. Everyone's seen the same show. We can debate whether that's good or bad. I have my own opinions on it. What do you think like when you find, so like I have a bunch of friends also who've hired offshore talent and a lot."
+    },
+    {
+      "start": 962.04,
+      "end": 988.84,
+      "text": "And like usually at the beginning, you know, the first like four months, they see how I work with Remy's, which is like a symphony. And then they get frustrated because they feel like they don't have that. Right. And I always tell them like the more you FaceTime them, the more you spend time with them, the more you just screen share your screen, let them observe, ask questions. You almost got to think of it as like an empty chat GPT instance that you need to dump in"
+    },
+    {
+      "start": 988.84,
+      "end": 1016.06,
+      "text": "a ton of information to the process, how you're thinking about something, why you think about how the way you think about it, et cetera, et cetera. Like, is there any process, playbook, tactic, practice that people can do to like better do that? Because I've struggled to like explain that to other people or try to even put it into a playbook. But that is essentially what I do. I think really well, like Remy's, for example, has a full visibility into every piece of my"
+    },
+    {
+      "start": 1016.06,
+      "end": 1045.5,
+      "text": "life and it makes what he does so much easier and effortless for him because he has that context. Yeah. I mean, this is something that is really difficult. There's a lot of pitfalls to hiring overseas. One of the big ones is like the read my mind fallacy, which is a lot of people just expect folks to read their mind in a way they don't expect onshore. There's weird gaps in expectation between what you expect an offshore person to do and what"
+    },
+    {
+      "start": 1045.5,
+      "end": 1074.7,
+      "text": "you expect an onshore person to do. And we see it. It's, I don't know where it comes from, but a lot of people will like take the time to hold the hand, to train, to show, to send an example for people onshore. And then offshore, they'll just dump a bunch of stuff at them and be like, don't you get it now? Yeah. What you did was the total opposite. And I think that's successful. However you're hiring, whatever you're doing, spending as much time as possible in the first 90 days with the people that you're onboarding into your organization, maximum trust, maximum visibility."
+    },
+    {
+      "start": 1075.66,
+      "end": 1100.7,
+      "text": "That's like the most important thing. So we have a whole department at Ocean's called Integration Success, and it's been one of our most successful initiatives. The whole department is designed to work with any client for the first 100 days of their journey, setting up the right communication platforms, the cadences, a 30, 60, 90 day plan, like all that stuff we do for you because it's difficult to do."
+    },
+    {
+      "start": 1101.48,
+      "end": 1130,
+      "text": "But you can do it yourself if you're just like really open with your life, your schedule, your calendar. It can be hard to do that with someone you don't know and trust very well. So that is a component. Some people like, Nick, you're just a very trusting guy. You and Ramiz clicked right away. A lot of people aren't going to have that click. And so you got to build trust to make it work. But the more you share, the more you open things up. If you've made the right hire, the more quickly they'll get inside your head and become a second"
+    },
+    {
+      "start": 1130,
+      "end": 1157.24,
+      "text": "brain, which is what everybody wants when they're hiring. Totally. Have you seen anything around or do you guys do anything special with AI right now? Or have you been doing anything special with AI? I mean, it's unavoidable. It is. We have like a month long training program for everyone that joins our company. A whole week of it is dedicated to AI. Now, a lot of people come in with knowledge."
+    },
+    {
+      "start": 1157.84,
+      "end": 1186.98,
+      "text": "But what I will say is similarly to marketing, similar to sales, the US is always at the forefront. So people sitting in the US are going to be using AI way more and in way more innovative ways and have a better understanding of prompt mechanics and things like that than folks anywhere else in the world. I mean, part of it is just because it's all in English, right? Unless you're in China. So like we're just not talking about China. But everywhere else, you know, the interface is in English. So you got to be good at English. That's your first barrier to use these platforms well."
+    },
+    {
+      "start": 1187.26,
+      "end": 1215.4,
+      "text": "If you're Japanese, you don't got a lot of options. Yeah. So you got to start by realizing that it is less prevalent and less wide to use. And then you got to realize if you're hiring someone directly, they're probably going to have to learn how to do it. We included our training program for that very reason. Some people have like noodled around with it, but they're not experts. So we have to make them experts before they match with the client because that's the expectation. Yeah. And there is an uptick."
+    },
+    {
+      "start": 1215.52,
+      "end": 1240.54,
+      "text": "I mean, like when you pair offshore talent with AI. Yeah, it's amazing. What was already like a great deal and a great, you know, a great idea becomes incredible. Totally. Let me put you on to something if TV is felt too hard. Roku Ads Manager is a self-service connected TV platform. You can build campaigns within minutes, optimize them inside the platform and keep billing simple."
+    },
+    {
+      "start": 1240.76,
+      "end": 1265.71,
+      "text": "It's built for growth and D2C advertisers who want a low barrier to entry and no big commitments. If you want to get on the big screen without old school processes, go to advertising.roku.com slash limited supply. Yeah. I've been spending a lot of time, like me, Ramiz and Manu, are my two guys."
+    },
+    {
+      "start": 1265.71,
+      "end": 1290.73,
+      "text": "And we'll go into Claude and just screen share and try to find cool things or, you know, just show each other cool things or cool workflows we're finding or building out. And it totally 10x is a person. I mean, no matter where they live. Yeah, that's an important point. I think that gets to the heart of the matter. In this day and age, the no matter where they live is really, really important."
+    },
+    {
+      "start": 1290.73,
+      "end": 1318.17,
+      "text": "Like my advice to everyone hiring overseas, however they're doing it, is don't differentiate from how you do stuff here and how you do stuff with people that are from somewhere else. Because that's like, if you've made a high skill hire, we try to only work with people who could like one for one be hired in the US, no different than anyone you would hire in the US. Then you got to treat them the same. But again, what you're talking about is sitting down, spending the time, building culture, building cohesion."
+    },
+    {
+      "start": 1319.91,
+      "end": 1346.91,
+      "text": "We have a lot of customers that don't work out with us well because they don't want to talk to their EA. They don't want to have a meeting with their EA. They don't want to do anything with their EA. They sort of want to plug them in and have them figure it out. And as with anything in life, you get out what you put in. Right. I mean, what we... I was just going to ask, what do you... You've hired offshore a lot, Nick."
+    },
+    {
+      "start": 1347.03,
+      "end": 1376.77,
+      "text": "I mean, and you advise a lot of companies hiring offshore. So what are the things you see work and not work in the stuff you're doing? And what companies does it work for versus not working for? What are your general observations from a decade plus doing this? I mean, for me, I always... I've always... Anything, I like to do it in a two-phase process. Phase one, for DTC's sake, is retargeting. It's warm traffic."
+    },
+    {
+      "start": 1376.93,
+      "end": 1405.41,
+      "text": "It's easier to do, easier to solve for. It's more templatized. And then phase two is once you're locked into phase one, then you go out and prospect. You try the hard things, try the new things. So even with this, when I was talking to those brands this week, my advice is like, okay, let's get one or two people in. Let's use them as support. They should do things that we can write down on a piece of paper. And it's very clear what these things are."
+    },
+    {
+      "start": 1406.19,
+      "end": 1434.77,
+      "text": "Manage agency reporting. Make sure that the agencies have traffic stuff. Check. Do this on the website. Update. Whatever. And then once they're plugged in, they're in the systems, they're doing X, Y, and Z, and it's flowing. Then I think you can try to be like, okay, now why don't you throw some input in on strategy? Or based on, you've been now looking and running the email program for six months. What do you think we can be doing?"
+    },
+    {
+      "start": 1435.01,
+      "end": 1458.59,
+      "text": "Or you've been now on the platform for six months. What have you seen that we were maybe not using that we can do? I'll tell you right now, that's the differentiator between a lot of talent, especially in the global space. That's the line. One is like, can you do the work? And can you own the work? And those are two really, really, really different things."
+    },
+    {
+      "start": 1458.83,
+      "end": 1485.41,
+      "text": "And I think people, when they're hiring abroad, often mistake people who can do, either they hire, they think they want someone to do the work, but they actually want someone to own the work. Or they hire someone they think can own the work, but they can only do the work. Yeah. Agreed. But that's the barometer for us in terms of whether someone is talented and deserves to work with us, is are they going to own the work?"
+    },
+    {
+      "start": 1485.93,
+      "end": 1512.49,
+      "text": "It's a really different thing, and it's really hard to suss out. And that's why a lot of people go through so many folks when they're trying to hire overseas. It's not easy to find out in the U.S. No, totally. I mean, the first couple people I hired, too, I thought when I hired them, they were going to own that thing. And then I realized, wait, they're only doing that thing to a certain level."
+    },
+    {
+      "start": 1514.59,
+      "end": 1537.67,
+      "text": "And then, to be honest, I never felt like I got that own the work until I got to Ramiz, really. And then Ramiz came in and was like, he wanted to be an owner. And I think that was part of it, too, in the screening process was I was looking for somebody who wanted to be an owner in that sense in a short period, I don't know, two to three years."
+    },
+    {
+      "start": 1538.67,
+      "end": 1568.33,
+      "text": "Yeah, there's, I mean, we can talk really practically and tactically about hiring and how to hire. I think one of the, I'll just say right out the gate, one of the big things people get thrown off by is English ability. Ramiz is obviously fantastic. He's a very, he's linguistically probably more skilled than either of us. He's, you know, he's a fun guy to talk to."
+    },
+    {
+      "start": 1568.73,
+      "end": 1598.63,
+      "text": "He's like, you know, and that's great. We have a lot of people who are not as strong as English at speaking English, but they're absolute killers on anything marketing related, on anything, like even written copy. Because in a lot of, what a lot of Americans don't understand is English is taught everywhere. Almost every country, English is mandatory to learn, but the way they learn it is to prepare for tests. And so they're always thinking about writing and reading."
+    },
+    {
+      "start": 1598.91,
+      "end": 1628.65,
+      "text": "They have very little like linguistic interaction in terms of spoken word. And so you get a lot of populations where people can read and write really well, but they can't speak really well. Right. And so sometimes you run into an issue when you're hiring overseas. This is why I say always include like a written component where you're evaluating talent abroad. Because realistically, unless they're like client facing, who cares if they can speak perfect, flawless English?"
+    },
+    {
+      "start": 1628.65,
+      "end": 1656.89,
+      "text": "Which, you know, a lot of companies, including us, have a very high bar for that. And that's what agencies do and focus on. But if you're just going out there and hiring, that shouldn't be what you're looking for. Do a written test. Do like something where they have to... Reading comprehension and writing ability is the number one indicator of whether or not they're going to be successful in a role. And then also we have the reverse example where it's like people are really, really good at English."
+    },
+    {
+      "start": 1657.09,
+      "end": 1682.95,
+      "text": "You know, like, wow, I'm having a great conversation with this like not American, not European, not Western person. And it's so easy to talk to them and I feel great about it. But then their work product sucks. Right. Like it turns out they're just good at talking. And I see so many founders and so many people making hires because they just think that if someone's good at talking and they live abroad and they're good at English, they're going to be a genius. Completely untrue. So please don't do that. That's so funny. I've seen that too."
+    },
+    {
+      "start": 1683.45,
+      "end": 1707.2,
+      "text": "I mean, it's just like, I don't know why, but Americans just seem to think that like, oh, if you can speak English really well and we're having a fun conversation, you must be a genius. Yeah. That's so funny that you say that. That's so true. What are some of the tactical things in the hiring that you were just talking about? Like, can you give us any sauce? Yeah."
+    },
+    {
+      "start": 1707.36,
+      "end": 1736.58,
+      "text": "I mean, like it is, there's a couple of things that we do and that I recommend anybody do if you're trying to hire. But, you know, one again, reading comprehension and written component is really special. And is that like a, is that like a, just like write me a story so I can see how you write? Or is that like a, tell me about a time you did X and include all the tools and the processes and things you did? It can be whatever you want."
+    },
+    {
+      "start": 1736.8,
+      "end": 1755.94,
+      "text": "Ideally, you're looking to get people to write a paragraph about something that is not just easily copy and pasted from the internet. They're required. So personal experience is always great. Like, tell me about a time in your life when you did X, Y, or Z, because it's hard to find that anywhere online. It has to be personal, which means they have to write it themselves. Paragraph or two in length."
+    },
+    {
+      "start": 1757.3,
+      "end": 1786.24,
+      "text": "Here's a real trick that I haven't shared with anybody before, but I'll say it here now, which is like, I always try to include, when we're building out our aptitude tests for hiring, something that the answer is really short form and something the answer is really long form, like a paragraph. You would be shocked how much you can tell the difference between what people write when they're writing a sentence and when they're writing a paragraph. Why? Because if you're writing a sentence, you're not going to like agonize over it. You're not going to write it and rewrite it."
+    },
+    {
+      "start": 1786.34,
+      "end": 1814.74,
+      "text": "You're not going to use chat GPT. You're just going to write a sentence. If you're writing two paragraphs on a, like experience you've had at work or whatever, then you're probably going to write it. You're going to edit it. You're going to check it a bunch of times. You're going to use chat GPT. You're going to use Grammarly. You're going to use other tools. So who knows whether this paragraph took you three hours to write? So I always try to include something short and something long so I can compare the two."
+    },
+    {
+      "start": 1814.74,
+      "end": 1842,
+      "text": "And you'd be surprised how often just one sentence is riddled with grammatical errors and incorrect English, and the paragraph is fucking flawless. It's like college level. And I can tell there's something going on there. And so that's one, again, if you're sticking to this theory that you should have writing and reading comprehension work, that's one really tactical thing that we do to make sure that we're hiring."
+    },
+    {
+      "start": 1843.34,
+      "end": 1869.58,
+      "text": "You ever do a typing test? We do. Another great thing is like live screen share. That's always, that is like, you can't fake it. So like have a prepped activity and make them do it live. Is it a little like Orwellian 1984 surveillance state? Yeah, but as employers, it has never been easier to fake your work."
+    },
+    {
+      "start": 1870.08,
+      "end": 1899.42,
+      "text": "So in that environment, if you're making a hire, if you're committing to someone, I think in this day and age, it's okay to be a little egregious on what you're trying to get them to prove is them versus the tools they use. So we don't do a typing test per se, but it's in the realm of like a screen share activity where I can see exactly what they're doing. I can watch them reason stuff out. That's super important as well."
+    },
+    {
+      "start": 1901.88,
+      "end": 1931.7,
+      "text": "Personality tests. We get asked about personality tests a lot. There's some really simple ones out there. There's a lot of disagreement about whether it means anything. We use them as like various indicators. I don't think they're useful unless you're doing high volume hiring where you can start to see patterns and trends. If you're hiring like two to three people overseas, a behavioral test is not really going to tell you much. And it comes back to that component, which is English."
+    },
+    {
+      "start": 1931.7,
+      "end": 1959.76,
+      "text": "Behavioral tests that we use are designed for people who speak English as a native language. So many of the tests that we use online and that people like pull from and try to give to our people, it's assuming a native level speaker. I don't really care if you're native. I care if you're fluent. Right. And so you can get caught up in all these false signals because you're giving someone a test intended for native English speakers and they're just fluent at it. Like I speak a little Japanese."
+    },
+    {
+      "start": 1961.1,
+      "end": 1988.74,
+      "text": "I couldn't, I'd sound like a two-year-old if I tried to take a test that was for like native Japanese speakers. But I can get by. I can do well enough to do work. So personality tests, don't recommend. Screen share activities, always great. Long form and short form written comprehension. And then the last thing I would say is like talk to them like they're real people. Ask them about their career goals."
+    },
+    {
+      "start": 1989.06,
+      "end": 2014.36,
+      "text": "The biggest one that a lot of people don't do naturally. Yeah, it's so weird. It's like I'm doing an interview and I don't really care what you want. I mean, that's fucked up. Yeah. It's like, try to find out what motivates them. Try to find out like what they're interested in. So they'll stay. I mean, look, if you're just doing like a two-week thing on Fiverr, none of this is applicable. Yeah."
+    },
+    {
+      "start": 2014.66,
+      "end": 2042.6,
+      "text": "If you're looking to make a permanent hire abroad, you got to be thinking about their growth inside your organization in the same way you think about domestic employees' growth. Otherwise, they're going to churn off. They're going to go somewhere else. And then you're going to have to reset. So like go through the same questions about career goals, growth, aspirations. Like we have whole growth plans for every single person that walks in the door. Personal, professional, and otherwise."
+    },
+    {
+      "start": 2043.38,
+      "end": 2070.54,
+      "text": "And like that's a huge part of our mentorship and training is like plotting someone's growth through their journey at Oceans. That's what drives retention. And that's what prevents turnover. Turnover being one of the biggest issues with offshore hiring. It's pretty mercenary out there. Someone offers you more money and they're going to leave. How do you get people to stay? Yeah. Yeah. What's like the average tenure of somebody who stays with a company?"
+    },
+    {
+      "start": 2072.22,
+      "end": 2096.92,
+      "text": "I mean, look, we're only four years old. We've got a lot of people that have been with us for four years. I think on average, it's probably like two and a half to three. Yeah. That's solid. Yeah. We're still going. It's pretty similar to U.S. retention rates for non-senior executives in this day and age. Yeah. It makes sense. But in a lot of places, it's six months. I mean, it's really hard."
+    },
+    {
+      "start": 2097.16,
+      "end": 2125.58,
+      "text": "Like what goes into that two years is a lot of work. Most people, when they hire offshore, they're churning six months. A lot of reasons for that. One, the person's alone in their living room. They think it's going to be great. They want to do remote work. They leave an in-person job. They're excited to get paid in USD. They don't mind working late hours. Well, it turns out they hate working late hours. They don't like being alone in their living room. And the USD ain't making it worth it."
+    },
+    {
+      "start": 2125.58,
+      "end": 2153.84,
+      "text": "So, you know, then they decide to go back to an in-person job and that's the end of your offshore hire. There's a lot that has to go into setting up support structures for people so they don't succumb to those things. And that's one of the biggest problems we hear from folks is like, I'm sick of churning through people that I'm putting a lot of trust in. Yeah. Makes sense. Is there anything else we should chat about?"
+    },
+    {
+      "start": 2155.98,
+      "end": 2183.5,
+      "text": "I mean, there's so much we should chat about, man. I would just say, like, this is if this isn't in your plan, it definitely needs to be how you're like your competitors are using offshore talent. So not only that, but also like, like, I mean, I can speak for the people I've hired Ramiz Manul now and others I've worked with. But like they will run circles around talent all over the world, like run circles."
+    },
+    {
+      "start": 2183.5,
+      "end": 2208.96,
+      "text": "And it is if like you're not leveraging this as a strategy, as a talent acquisition strategy or a talent multiplication strategy of your talent here in the US to like be able to multiply the effects they can have within the business. Then you are, you're just like, one, you're almost just being ignorant."
+    },
+    {
+      "start": 2209.7,
+      "end": 2238.12,
+      "text": "And two, I feel like you're just missing out on a simple, like just golden opportunity. Yeah. I mean, parting words here would be like the difference between hiring at the highest level and hiring everybody else is the same as the US. And I encourage everybody to focus on how can I hire the most skilled people. I'll give you one final example."
+    },
+    {
+      "start": 2238.4,
+      "end": 2262.72,
+      "text": "The way we work, we hire people. They come stay with us. Even if they come off a client, they're sitting on the bench for a few months, they don't miss a paycheck. Yeah. Let me ask you, if you're hiring someone and it's like as soon as the project's over, they're going to get fired. Do you think you're going to get the best people? No, they want stability. They have families. They're married. They went to college. They got debt. You know, this is like, it's the same as the US."
+    },
+    {
+      "start": 2262.92,
+      "end": 2289.16,
+      "text": "So structure the offer you're making to people in a way that gives them security and you will find much higher skill work. And always be focused on how do I get that 10% in any given geography? Whether that's like understanding the companies that are there, understanding the universities that are there, creating like incredible support systems for the people you're hiring. That should be the goal of doing something offshore. Step one, decide to do it."
+    },
+    {
+      "start": 2289.5,
+      "end": 2316.42,
+      "text": "Step two, figure out how to get the highest skill folks so you're not just churning through 15 different people that aren't up to your expectations in six months. Yeah. Yeah. Love that. Amazing. Well, Ian, thanks for coming on Limited Supply. Always a pleasure, man. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

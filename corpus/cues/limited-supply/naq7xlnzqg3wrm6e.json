@@ -1,0 +1,674 @@
+{
+  "cues": [
+    {
+      "start": 0.62,
+      "end": 29.46,
+      "text": "Welcome back to Season 12 of Limited Supply, the only commerce podcast with unfiltered and refreshingly hot takes. I'm your host, Nik Sharma, and when I'm not recording, I'm behind the scenes scaling your favorite celebrity and consumer brands. Let's start talking all things direct to consumer. Today's sponsor is OmniSend, email marketing that actually makes sense. OmniSend gives you powerful features without the clunky, complicated, and overpriced experience. Email, SMS, flows, reporting, everything you need."
+    },
+    {
+      "start": 29.46,
+      "end": 54.14,
+      "text": "Learn more about how OmniSend stacks up against its competitors at Nik.co.com. All right, welcome back to another episode of Limited Supply. This week is actually another fun episode. I recorded an interview with my friend Michael, who's the founder, CEO of FabFitFun."
+    },
+    {
+      "start": 54.5,
+      "end": 79.16,
+      "text": "And, you know, if you don't know FabFitFun, you probably know somebody who's been a subscriber. They have an insane amount of subscribers. They're one of the biggest subscription box companies that exist. They're one of the first to start. They have largely pioneered the model, but also innovated on it quite a bit, whether it was through M\u0026A, whether it was through, you know, them building out their entire pick and pack and 3PL operation."
+    },
+    {
+      "start": 79.16,
+      "end": 102.26,
+      "text": "You know, they've got over 650,000 square feet of fulfillment center. They, it's just very interesting. They're about a 300 plus employee company. And so they do a lot of really cool stuff internally, whether it's buying companies, whether it's scaling out different operations they find to be helpful to companies within their umbrella, whether it's launching new companies like the Unhide Blanket."
+    },
+    {
+      "start": 102.26,
+      "end": 131.5,
+      "text": "And anyways, I, you know, this interview was funny because we did it at SubSummit in front of a live audience. So you might hear a little bit of background, but this interview was just largely driven by my own curiosity. So you'll get a little peek inside my brain and kind of what I was interested in, but I hope you enjoy the interview. There was some good, really good nuggets in here. And if you have any questions you want to ask Michael, you can reach out to Michael directly. If you want to ask him, but you don't know where to find him, just DM me on Twitter and I'm happy to ping him."
+    },
+    {
+      "start": 131.66,
+      "end": 161.2,
+      "text": "So I hope you enjoy this episode and I'll see you next week. All right, Michael, well, welcome to Limited Supply. It's an honor to have you here. We've, we've known each other for a couple of years now and now I get to finally hear your story. Hey, honored to be here. Big fan of your show and all your work and happy to be here at the SubSummit too. And with an audience, awesome. Amazing. Yeah. Today we're live at SubSummit 2025 at the Sheraton in Dallas. It's one of the conferences I love coming to every year, actually."
+    },
+    {
+      "start": 161.74,
+      "end": 191.42,
+      "text": "And so I'm excited to be here. So to start us off, Michael, why don't you give us a quick background? What is FabFitFun? Why did it start? Where are you based? Just give us the elevator pitch. Sure. I mean, we've, we've been at this for a bit, but you know, the, the, the core of FabFitFun, what we're best known for is our subscription box service where we curate products in beauty, fashion, fitness, wellness, home decor, all of women's lifestyle. You get full size products four times a year."
+    },
+    {
+      "start": 192.7,
+      "end": 218.9,
+      "text": "And, you know, our boxes range from, you know, about $55 a quarter and you're getting north of two, $300 worth of retail value in each box. Um, we're based in Los Angeles, uh, and, uh, started the, started the brand in 2010. Wow. Launched the boxes in 2013. Um, and we've evolved the business in all sorts of other directions."
+    },
+    {
+      "start": 219.1,
+      "end": 247.1,
+      "text": "Um, you know, from taking it kind of this kind of discovery curation platform to, uh, you know, launching some of our own brands and building some B2B services and, um, and all sorts of things in between. So that's kind of, uh, the, the highlights. The, the first three years you guys were in business and you weren't doing boxes. What were you guys selling or offering? So, you know, the, the brand started in 2010. The company actually started in 2007."
+    },
+    {
+      "start": 247.88,
+      "end": 274.42,
+      "text": "Um, and the initial company that I started with a, a friend of mine in college was actually building websites for politicians. Wow. Uh, so we've come a long way from that. Uh, we were building websites and doing media buys. Um, at that time, were there, uh, were there all those CMSs that are made for politician sites? Like there are now. No, no. Were there all the same regulations and rules though? This was the wild West."
+    },
+    {
+      "start": 274.62,
+      "end": 301.08,
+      "text": "Um, we, um, you know, the, so if you think of the 08 cycle and, uh, you know, our client actually was, our first client was Rudy Giuliani. Um, in 2004, you know, he's, he's come a long way since then. So he was America's mayor in 2007. Um, in 2004, uh, you had Howard Dean who, who was innovative, uh, with basically doing the first things that anyone was doing online, uh, in the internet."
+    },
+    {
+      "start": 301.22,
+      "end": 329.56,
+      "text": "And so this 2008 cycle, um, you know, all these candidates were just kind of scrambling for young kids who knew anything about the internet. Um, you know, we were literally explaining like, what is Twitter? What is, what, what is a blog? What does it mean that someone could write comments on a blog? Um, so we, we were explaining some of the basics and we knew how to build websites and we started putting up clients. Um, we, me and my, my original partner in this had already accepted real jobs."
+    },
+    {
+      "start": 329.56,
+      "end": 357.84,
+      "text": "Um, and then we saw, Oh, like this, this is a different path. And we just kept going down that path. Um, and, and we built an agency. So, uh, we built an agency business doing media buys, uh, doing web development, uh, design services. Uh, initially it was focused in, in politics cause just, that's where they were hiring little young kids. Uh, and then eventually we made our way, I wanted to be back in LA. So we started working with, uh, celebrities and Hollywood folks."
+    },
+    {
+      "start": 358.24,
+      "end": 383.94,
+      "text": "Um, and out of that, we birthed FabFitFun. Um, so when we started working more in the celebrity space, uh, my, my brother joined the business and we became co-CEOs and co-founders. And we've been that way for, Oh, well over a decade now. Um, we would, we would get invited to, you know, cool parties, uh, in LA doing web stuff for these different celebrities and they'd have these gifting suites."
+    },
+    {
+      "start": 384.06,
+      "end": 408.08,
+      "text": "And, you know, in those gifting suites, you'd get to try the coolest, new, trendiest stuff. Um, and we thought that that was just the coolest thing to go, go to the gifting suite and get, get gifted stuff. And, you know, how could you make that into a consumer experience? And that was kind of some of the genesis for what we eventually came out with FabFitFun. That's amazing. It's funny. There's a couple of parallels. I also started my career doing social media marketing for celebrities."
+    },
+    {
+      "start": 408.62,
+      "end": 422.12,
+      "text": "And, uh, at some point I worked on a presidential campaign and we had the same thing where we had, uh, you know, it's like everybody's banging their head against the wall. And then some 19 year old kid who knows about meme pages comes in and just takes over all the campaign budget to blast something out. Yeah."
+    },
+    {
+      "start": 422.12,
+      "end": 450.48,
+      "text": "I actually tell people that, um, I don't know if, if campaigns and politics is, is, you know, it's a tough career, but early, early in your career, it's a great place to be because, you know, you get that like agency environment where it's just boiler room. I mean, you think of it, it's like, it's a, it's a, it's a startup, right? A campaign is going from zero to 60 overnight. All of a sudden they have to like have, you know, staff in every position and, you know, they're trying to do high caliber stuff."
+    },
+    {
+      "start": 450.64,
+      "end": 477.38,
+      "text": "And, um, often it attracts missionaries. So you're getting kind of punching above your weight in terms of like the, the talent level. Um, and, um, so early in your career, like I had no business advising a presidential campaign as a 21 year old or 22 year old, but you know, had that opportunity. And then we worked with various Senate campaigns and gubernatorial campaigns. And so, you know, by the time I was starting to navigate my way through Hollywood, it was, it was an impressive body of work."
+    },
+    {
+      "start": 477.58,
+      "end": 507.26,
+      "text": "The things that the projects we had worked on, the level we had worked at, the amount of spend we had facilitated. Um, and so we, we, we, that was pre rules, no rules, right? I mean, it was, I wouldn't say there were no rules. I mean, there, I mean, there's certainly like, you know, campaigns have like FEC rules and stuff too, right? Like, so there, there's. But like Facebook had no rules. Yeah. I mean, we, we, I, I ran some of the first ads ever on Facebook and I personally ran them. Right. So, so I, I cut my teeth on, you know, now I can't even go into that ads manager."
+    },
+    {
+      "start": 507.28,
+      "end": 537.06,
+      "text": "I like, I get lost. Uh, I've tried. I was like, like, let me, you know, brush off, uh, dust off my shoulders and get in there. But it's like, it's a much more complex thing. But, you know, early days, um, you know, a, a one, one person who was, you know, playing with Photoshop and quickly iterating, you could hit some bangers on these little thumbnail ads. The little right hand nails, right? Yeah, exactly. And, um, and, uh, yeah, I did a lot of that for, for a few years."
+    },
+    {
+      "start": 537.24,
+      "end": 566.1,
+      "text": "Yeah. And, um, yeah, Facebook was a, I mean, I was also, I was a Harvard undergrad. So I saw Facebook go from the very, very, very beginning. It launched, I think I'm user number 1104 on Facebook. Wow. Um, and you know, the, the first version of Facebook, everyone could go to anyone's profile and there was what's called a wall and you could erase whatever was on that wall and you could put whatever you wanted on that wall. You could like kind of graffiti, uh, their wall."
+    },
+    {
+      "start": 566.28,
+      "end": 595.62,
+      "text": "So, I mean, Facebook was a very, you know, different animal back then. Yeah. No one writes happy birthday on people's walls anymore. Yeah. Exactly. I mean, I, you know, one thing I think they might've, I don't know, maybe it'll come back. There was these virtual gifts and I thought that was the coolest thing. Yeah. I'm surprised those didn't come back with NFTs. I thought that was a magical business for them. Yeah. Uh, where people were just paying $2 to send a picture of a toilet roll, toilet paper roll. Yeah. And put it on someone else's wall. Yeah."
+    },
+    {
+      "start": 595.94,
+      "end": 624.84,
+      "text": "So, okay. So you, you started going to these gifting suites. You saw all these gifts. You probably saw a lot of them were just sample sizes. Then you thought, okay, there's maybe a business opportunity here to turn this into a subscription box. Or how did that go from, there's a concept here. Where did you see the opportunity of subscription? Because subscription wasn't a thing back then. So, so, so, um, the, the site we built initially, FabFitFun was an editorial website and it was, it was modeled off of, you know, we had built websites for other celebrities."
+    },
+    {
+      "start": 624.84,
+      "end": 649.8,
+      "text": "We'd become close to the MySpace team because we, somewhere in between all this, I built a product called HotSpot, which was a social network for parents to keep track of their kids' milestones and share private photos and videos. This is kind of pre-Instagram days that got us close to the MySpace team who thought it was an interesting asset. Well, my kid got this on the APs and my kid did this on the SATs. The Persians would probably do the same thing on there."
+    },
+    {
+      "start": 652.7,
+      "end": 679.98,
+      "text": "And so we were building these kind of, you know, for people who wanted to go beyond MySpace, which was the biggest social network at the time, they wanted to build editorial driven websites. And we were building these for celebrities. And we said, hey, this is a good model. It's actually, you know, interesting. So why don't we try to do one more as a joint venture? So we built FabFit Fund as a joint venture with Juliana Rancic in 2010. And we built an audience. She was, you know, she was the anchor of E! News and had a decent sized Twitter following."
+    },
+    {
+      "start": 680.24,
+      "end": 707.06,
+      "text": "And so we built that audience. And we had clients who were doing e-commerce subscriptions. Beach Mint, which was an early subscription commerce pioneer in Los Angeles, was a client of ours. We had seen, you know, Birchbox coming up. And so we saw that model. We thought, oh, there's something interesting there connected to this idea. And, you know, our spin on it essentially was that, yeah, people aren't looking just to"
+    },
+    {
+      "start": 707.06,
+      "end": 736.5,
+      "text": "get samples in the mail, which was kind of the, you know, one of Birchbox's and Ipsy's early kind of entries into those market. This could be a fundamentally new shopping experience. People like receiving real products, real value. And it's not just beauty. They want to actually, you know, they want, it's hard to stay on trend. I mean, that's the, I was going to say one core insight, one of many, but of like our customer and the mindset is like, you know, it's a lot of pressure to be cool, to be on"
+    },
+    {
+      "start": 736.5,
+      "end": 766.1,
+      "text": "trend, to have nice things, to make your space beautiful. And if you can get someone to help surface what's cool and make it convenient and give a great value, that's something people really care about. What's so interesting is the concept of receiving a curated box back then was probably so weird because people are so used to going into a retail store and picking up what they want. But today the content world is exactly how you were basically doing discovery back then,"
+    },
+    {
+      "start": 766.22,
+      "end": 795.04,
+      "text": "which is everybody is just being fed stuff that they think they're going to like or is cool or trendy. And it's up to them to decide what they keep continuing on with. A hundred percent. I mean, you know, I have to tell our team, yes, we're a curator and we are, you know, we have to be extremely good at that discovery piece, but we also have to be extremely good at the delivering real value. And so everything you get at Fab the Fund is at the best price you could get anywhere on the internet at all times."
+    },
+    {
+      "start": 795.24,
+      "end": 824.18,
+      "text": "And we have that not only as a guarantee, but it's just, it's the culture because now people do discover by just following an influencer or a creator and just scrolling their Instagram and that's discovery. And you could always purchase something one click away. So we've gotten really good at delivering, you know, kind of our marketplace essentially is helping brands find new customers. So brands work with us because we can put them at scale in front of, you know, arguably"
+    },
+    {
+      "start": 824.18,
+      "end": 851.78,
+      "text": "the most important audience in the world. It's, you know, we have the women with the keys to the household, kind of a lot of millennial moms and, you know, people who. You have what I call is the W, which is wealthy women with kids, wine drinkers and whole food shoppers and they prefer whole wheat over white bread. Is that you raise your hand? That's me for sure. That's definitely a lot of them."
+    },
+    {
+      "start": 852.06,
+      "end": 881.86,
+      "text": "And, you know, at this point, I think I did some math on this. I think in a pretty broad age demo of call it, let's say like 25 to 55, I think one in five or one in six women in America have been a Fab the Fund subscriber at this point. Wow. So, you know, we've touched a lot of women. So it's not so narrow, but I think it's a good description. And for brands, you know, it's interesting because we, whenever, you know, people are talking about Facebook ads, are they working?"
+    },
+    {
+      "start": 882.02,
+      "end": 909.68,
+      "text": "What are you doing? How do you, you know, you know, we're kind of on both ends of it because on the one hand, yes, CPM's gotten harder. The iOS 14 changes in 2021, you know, I think hurt everyone. And there's been that whole journey that we've been on. But at the same time, we've been, we've become that much more valuable to the brands that we work with. Yeah. And also your brand is, your brand is so strong, like out of, out of, you know, the advertisers advertising on Facebook who are complaining about CPMs. A lot of those don't have strong brands."
+    },
+    {
+      "start": 909.8,
+      "end": 936.48,
+      "text": "They're really just arbitrage Excel businesses that are trying to run ads cheaper than what they're selling the product for minus cogs. But, you know, FabFitFun is a brand and a platform, really. How did you guys decide to go from subscription boxes to the next level? Well, very iteratively. I mean, because, I mean, I keep thinking of, and we're still doing this, like it's like Russian dolls. Yeah. You open one and what's next and what's next and what's next."
+    },
+    {
+      "start": 936.62,
+      "end": 961.46,
+      "text": "And, you know, we, we kind of take the mindset that if we're not growing and evolving, we're dying. And so we're always thinking about, you know, I always have some level of existential angst about. You wouldn't be a founder if you didn't. Yeah. Like, and, and so I'm always thinking, you know, what do we need to do to innovate so that, you know, I can still get invited back to SubSummit next year?"
+    },
+    {
+      "start": 962.88,
+      "end": 990.98,
+      "text": "Um, and, um, you know, when we launched our boxes, it was extremely differentiated and innovative and that, that was a hit. And, you know, some things became kind of natural, um, natural extensions off of what customers were telling us. Um, and then some things we looked at like, what are we really good at and what else can we do that maybe customers aren't even thinking about? Um, and that's led us in a lot of interesting directions. So, you know, um, we started at some point with just like, Hey, maybe people want to add stuff"
+    },
+    {
+      "start": 990.98,
+      "end": 1020.9,
+      "text": "to their box and giving people, you know, a handful of options, four or five options to, you know, it does not include it in your box, but these are add-ons. Right. And now, you know, our add-on sale is a huge business. It's, it's, you know, thousands of SKUs available every season. Um, and it's evolved into this broader entire kind of shopping ecosystem, um, which we were, we're almost re we're on a journey to reposition Fab the Fun essentially as a, a full fledged retailer. We will describe it. We increasingly describe it as a shopping club."
+    },
+    {
+      "start": 1021.08,
+      "end": 1050.32,
+      "text": "Um, and you can think of the subscription box as the end cap of the store. So it's not that the box isn't going anywhere. It's just the, it's the, that's the highest visibility, highest velocity SKUs in our store, but there is a store and there's thousands of items from thousands of brands and they're constantly rotating. Um, and you know, our, our, our North star on this kind of core retail business is essentially being the inverse of TJ Maxx. So if you think of TJ Maxx as a place where there's this treasure hunt environment and"
+    },
+    {
+      "start": 1050.32,
+      "end": 1077.96,
+      "text": "you're getting discounts, but for the most part, you're getting discounts on products at the end of the product life cycle. So, you know, people associate TJ Maxx with liquidation, end of season. That's kind of where products go after they've been elsewhere. Fab the Fun is essentially discount at the front of the product life cycle. So we work with brands on launches. But it doesn't even feel like a discount to the consumer, which is actually the great part. Like they don't feel like they're buying something at a discount and then expect the discount."
+    },
+    {
+      "start": 1077.96,
+      "end": 1107.26,
+      "text": "So we've done a lot of work with brands to make sure the brands feel that they're in an elevated environment. Yeah. That they, that it's, this is not the type of thing. First of all, it's not, we don't rely on Google like product listings to drive, you know, we're not, we're not cannibalizing brand traffic. It doesn't feel like, Oh, like, uh, someone, if one, if a brand works with us, they're not, this is all incremental for them. You know, for brands were the biggest no brainer ever. I always think that I think, you know, and every brand that we've thought like, Oh, this,"
+    },
+    {
+      "start": 1107.34,
+      "end": 1136.51,
+      "text": "this is a hard brand. They don't get it yet or whatever. Now, like it's just a different, it's a different posture. Um, brands love working with us. They see the value. Um, you know, when they're in one of our boxes, their sales fly on retail. Um, was there a tipping point between you had to really sell brands on being a part of this to now brands are chasing you? I think it, it was, there probably was a tipping point."
+    },
+    {
+      "start": 1136.61,
+      "end": 1165.27,
+      "text": "I'm trying to identify like when exactly that happened, but you know, somehow maybe, you know, maybe, maybe that like 2020 era, especially, um, you know, we had a, a big surge also like in that, in that like kind of small COVID at home pocket. Um, I think people were just more open to trying new things. Um, and then on the heels of that, you know, I think people struggling with Facebook after that and, and, and things like that."
+    },
+    {
+      "start": 1165.35,
+      "end": 1195.21,
+      "text": "So I think, I think people just saw like, I mean, we, we've been at this now for, you know, 12 years. And at some point we had six, seven, eight years of evidence that this is really good for a brand to work with us. Yeah. Um, and you know, we, we just walked them through that and we, we've also developed ways that you can kind of ladder into the biggest programs that we do. And, um, so now it's, it's, it's more, you know, picking the right stuff and making sure it's a good fit for our audience. And, and, and we still, there's still brands we chase, you know, I don't want to, you know,"
+    },
+    {
+      "start": 1195.49,
+      "end": 1219.89,
+      "text": "we're, we're humble. We, we, there's, there's brands that like, Oh, we got to get that one now. And, and we still have that target list and that hunger. That's awesome. Um, you mentioned Facebook was a big channel back in the day, specifically FBX, those right hand rail programmatic ads. Um, what were some of the largest growth channels over the evolution of the business? Uh, yeah, I mean the meta ecosystem has always been kind of top, top tier for us."
+    },
+    {
+      "start": 1220.03,
+      "end": 1246.53,
+      "text": "Um, but we've, we've done and tried and dabbled and been in every single pocket. And I w I would say, um, uh, you know, we've done TV, we've done podcasts, we've done whatever. I'd say the one that stands out to me as kind of like one that we became really well known for was influencers and, and, you know, I use the word influencers and not creators because at the time that we, we really nailed it, I think that's, that was kind of the lingo."
+    },
+    {
+      "start": 1246.81,
+      "end": 1275.89,
+      "text": "Uh, there was actually a New Yorker article where, uh, it was, it was called how to be an influencer. And the last line in the article was, and you're nothing until you've worked with FabFit fun. Um, because we, we really figured out this whole, this whole ecosystem of reality stars, essentially like all the real housewives. Well, yeah, you started with E, which is such a huge advantage because no one usually starts with reality stars. I was thinking about this last night. A lot of times when brands work with a reality star, there's one employee inside who's like, I really love the real housewives of Salt Lake City."
+    },
+    {
+      "start": 1276.17,
+      "end": 1300.83,
+      "text": "And they try to find that person. But you guys started with that. It was kind of native to us and the bachelor bachelorettes and, and, and sort of those, those ecosystems. And there was a period of time where, you know, and this is no longer true. So, you know, we're, we've been reinventing our creative strategy, but there was a period of time where organic reach on meta was still a real thing. Uh, and, and these folks had real organic reach and people were tuning in every week to watch"
+    },
+    {
+      "start": 1300.83,
+      "end": 1327.43,
+      "text": "their shows and, um, and we had created sort of a, just a, a perfect, you know, FabiFun is an amazing thing for a creator and influencer too, because if you think of yourself as a content maker, you kind of don't want to be hawking the same thing all the time. Totally. Right. Like you can only tell people about, uh, you know, an eight sleep mattress so many times, which is an amazing mattress that Nick was talking to me about last night."
+    },
+    {
+      "start": 1327.43,
+      "end": 1355.77,
+      "text": "Um, you know, but your audience has heard it at some point. Right. And so what, what's awesome about FabiFun is every season we're the coolest new products. Right. And so there's a real synergy between what creators are trying to do and influencers are trying to do, which is talk about new things every season and FabiFun, which is literally just bringing to the table new things every season. Um, and we had really dialed that in with that, with that influencer ecosystem and, and we've been building it up, uh, in this kind of new creator landscape. It's just different. Yeah. It's a, it's a different landscape."
+    },
+    {
+      "start": 1355.77,
+      "end": 1382.51,
+      "text": "So when you started working with these people, they were influencers today. Everybody's just called a creator, no matter how many followers they have, how, how are creators a part of your content strategy, whether or not they're the ones pushing the content or FabFitFun is pushing the content? I mean, we use a long list of creators to create content. I mean, I mean that that's, you know, I think the biggest difference between what I would"
+    },
+    {
+      "start": 1382.51,
+      "end": 1408.57,
+      "text": "say like the, the era that we, you know, in a lot of ways pioneered, but that 2016 to 2020 kind of era. Um, you know, at that time, you know, we, we, we ended up sitting side by side with the Facebook product team to help them build their white listing tool. Cause they, we had just been doing it hacky. Like we'd been going to the influencer and be like, Hey, we want to get into your business manager. That was before they had the width, the partnership thing. Yeah, exactly. Like we built that."
+    },
+    {
+      "start": 1408.77,
+      "end": 1438.29,
+      "text": "We, like we were their design partner in that, um, with meta. Um, now, you know, I think, and it makes total business sense. You always have to think of like, what's going to make, uh, what's going to make meta money. I joked with Nick last night. I think like a lot of the, the, the, you know, tech direct to consumer e-commerce ecosystem is on one end was like a bunch of VCs. And on the other end, the profits are metas and it just kind of sifts through all the SAS and the brands or whatever. And somehow meta. So you have to be very attuned to what is going to make meta happy."
+    },
+    {
+      "start": 1438.29,
+      "end": 1467.27,
+      "text": "Um, and you know, I think, I think once at some point, uh, the organic distribution on meta wasn't what it used to be. And so I think meta, you know, we think of the creator ecosystem a lot more as content creation and a lot less as distribution. Um, and, and then distribution is just kind of a different set of things that we think about in terms of building own channels and in terms of, uh, you know, paid media spend and things like that. Yeah."
+    },
+    {
+      "start": 1467.27,
+      "end": 1496.79,
+      "text": "Um, with creators is whitelisting a huge part of customer acquisition dollars? It's a good chunk. Good chunk. Yeah. Yeah. We've always found whitelisting to be huge. Yeah. I mean, it's a shock more people. I'm shocked actually everybody doesn't whitelist even their own personal handle. Well, it's just part of the creative, right? Like who's delivering the message. Right. Yeah. Right. Like it's, it's, you know, I think consumers, um, they, they, they're, you know, people just trust people more than they trust brands. Yeah. Which is normal."
+    },
+    {
+      "start": 1497.37,
+      "end": 1523.13,
+      "text": "Not, it's no surprise. Uh, and so if you, if the message is coming from a person rather than a brand and someone you like or admire or interested in, it's, it's part of the, part of the creative, I think. Totally. So when you started, probably most of your spend was very like lower funnel, more direct response style today as FabFitFun is a huge company. How do you split dollars between investing and building the brand and the awareness and"
+    },
+    {
+      "start": 1523.13,
+      "end": 1551.53,
+      "text": "what the brand, you know, thesaurus is and the direct response by now marketing? I mean, we're constantly evolving on this. Um, you know, we, we do think about, we do think about top of funnel in a, in a, in a, in a different way than we think about just like, uh, you know, more, you know, more traditional performance direct response."
+    },
+    {
+      "start": 1551.53,
+      "end": 1577.53,
+      "text": "But we, we also try to make as much of our ads as possible be, you know, essentially what, you know, I think some people will dub it like performance brand marketing, something like that. Right. So, so we don't, we, we have some key value props that we want to include in all of our creative. And we think if we just keep repeating those things, um, you know, they can, they can do their work throughout the funnel."
+    },
+    {
+      "start": 1577.53,
+      "end": 1606.69,
+      "text": "Um, then I think top of funnel becomes a lot more of, of, you know, working with creators, working with podcasts, working with, you know, even we, we used to do a lot of events. Now we're bringing some of those events back. You know, it's, it's, it's a little bit more of a hustle, I think at the top of the funnel. Yeah. Yeah. I always think of, uh, this concept of performance branding, which is like building the brand equity on the back of your performance media and the same way, just constantly reiterating and reiterating the same things. It gets ingrained in people's brains. Yeah."
+    },
+    {
+      "start": 1606.69,
+      "end": 1636.07,
+      "text": "I think that's how we largely built our, our brand, our audience, our community was, was, we, we, you know, yeah. So, okay. So another thing that I think a lot of people miss out on, especially now because there's so much competition is the general, like top of funnel you get. That's more on the earned media side, whether it's creators picking up organically events, including your box PR outlets, um, you know, things like that. Do you think that that world of earned media has gotten significantly more challenging since"
+    },
+    {
+      "start": 1636.07,
+      "end": 1665.61,
+      "text": "the last five, six years? I think it's just different. Right. I think there was a time where earned media was largely associated with like the press and that, and I don't think the traditional press, you know, there was a time where we would be like geeked out to be in, I don't know, like Vogue or something like that. Or, you know, now it's like, Oh, it gets 300 views. I don't. Yeah. Now that's just like, maybe it's a logo you can put somewhere on your site. Um, until they start charging you. Yeah. Yeah."
+    },
+    {
+      "start": 1665.85,
+      "end": 1691.59,
+      "text": "I don't, not that we even have the logo. I don't know if we have the logo. Sometimes we do. Sometimes we don't. Yeah. But I think that the, the traditional media outlets no longer is, is really what you're talking about when you're talking about earned media. What you're talking about is buzz and, you know, consumers buzzing and reposting and retweeting, et cetera. And we try to capture that through, through our, for as much as possible through our products."
+    },
+    {
+      "start": 1691.75,
+      "end": 1716.57,
+      "text": "So like, for example, right now we have a, a, we've been doing these mid season, um, collabs where we create one version of the box. Cause our boxes are fully customizable. Now you sign up for Fab for Fun. You get to essentially choose off of a prefix menu, uh, what you want. And, you know, one version that you could choose now is, is a set of vacation products and, you know, vacation, the brand vacation, which is like a really cool trending brand."
+    },
+    {
+      "start": 1717.31,
+      "end": 1745.57,
+      "text": "Um, so, you know, we have the essentially FabFitFun X vacation collab box and it's, you know, they're a really cool brand that has a lot of kind of cachet and a big following, et cetera. And by doing a collab and creating a bunch of creative and that's all on our Instagram, you go see it, you know, it cuts above the noise and we see that breaking through and things like that. So we try to, as much as possible, think about like, what can we do on a curation or product level that might cut through the noise? Yeah. I always think of the concept of like brand versus publisher and publisher just really"
+    },
+    {
+      "start": 1745.57,
+      "end": 1775.17,
+      "text": "being that they have an audience that will come to them if they ask for it. And I feel like a good, uh, you know, a testament of a good brand is you can also be a publisher kind of like how you are a publisher to vacation in that sense. And that's our roots. Right. Our roots were, we were just an editorial. So we started just as content. We were a daily newsletter in lifestyle. So that's, we've always kind of had that DNA. Um, and we've never, we've, you know, and we're also different than a traditional brand. We're not a product brand."
+    },
+    {
+      "start": 1775.27,
+      "end": 1802.33,
+      "text": "We're a curational brand. We're more of a retailer than we are a brand. Um, and so if we can't tell the story of the brands that we work with, we're kind of DOA. Yeah. So we've got to, we've, we've had to become good at storytelling. So, okay. So you were, you, you've got the box, the box business is amazing. You guys started launching other brands. How did you decide what to launch, when to launch it? Uh, why to launch that specific product? How'd you go about that? Yeah."
+    },
+    {
+      "start": 1802.51,
+      "end": 1831.43,
+      "text": "So, um, you know, we've done a lot of experimentation on what we call house brands and we have a handful of them and, um, they play a great role within our ecosystem and, and it's awesome. Um, but where we've had a lot more success is, you know, we have a merchandising team that's constantly out there in market receiving pitches at trade shows, hearing what the latest, what, what people are coming up with. We're, we're, you know, often I'll see like, I also do a fair amount of angel investing and"
+    },
+    {
+      "start": 1831.43,
+      "end": 1861.15,
+      "text": "we're often part of a go-to-market strategy for a new up and coming consumer product. Um, and so, you know, we, we, we've developed a program we call FabFit Fund with a D at the end of it, where we essentially roll out the red carpet for an early stage consumer product brand. Um, and give them, you know, everything from, you know, forward looking PO commitments to access to different parts of our stack. We've converted our warehouse into a three PL. We actually recently bought a packaging business."
+    },
+    {
+      "start": 1861.59,
+      "end": 1885.07,
+      "text": "Um, we're obviously have expertise in creative and performance marketing and, and other areas of things that we've been doing for a dozen years now. Um, and that FabFit Fund program really what we're looking for is something that's, you know, quite early in its journey where we can be a meaningful, you know, edge for that company and be, you know, we call ourselves like a queen maker in that capacity."
+    },
+    {
+      "start": 1885.57,
+      "end": 1915.05,
+      "text": "Um, and it's a combination of meeting the right set of operators and founders and the trends that we're seeing, uh, based on our merchandising team and the consumer insights that we receive regularly because we're also constantly polling our customers. What do you like? What did you like? Why did you like it? Et cetera. Looking at sell through rates, et cetera. So like the, the, um, the overlap of all of that has made us made some really great bets. So can I have a talk a couple of quick examples, but, um, at some point in the end of the"
+    },
+    {
+      "start": 1915.07,
+      "end": 1943.15,
+      "text": "point, we knew there was a big trend around faux fur blankets and people were very in love with our audience wanted them. We knew they wanted them. We developed them. We sourced it, et cetera. Um, and we actually, you know, we do, we do a, sometimes we work with brands where we actually source a product and there's an established brand and they, they want to go to market with that product with us. Um, in this case, we thought that's what we were going to do. Uh, and that, that partnership fell apart at the last second."
+    },
+    {
+      "start": 1943.39,
+      "end": 1969.23,
+      "text": "And instead we launched an entirely new brand. Uh, it was called unhide, which is a faux fur blanket brand. Um, we had, we had a, uh, uh, a joint venture partner who, uh, was a good friend of ours. Who's very talented brand builder. Um, and you know, that brand now itself is, you know, an eight digit revenue brand, uh, growing well, beloved in our ecosystem and has a presence outside of our ecosystem."
+    },
+    {
+      "start": 1969.75,
+      "end": 1996.21,
+      "text": "Um, and you know, that, that was really popping from a consumer insight standpoint, uh, that people wanted faux fur brands. Um, another example, uh, in 2018, uh, everyone was pitching us a pots and pans business. Of course. Everyone. I, like we literally had, you know, and these have all become great companies so that there's, they had the right to, there was an opportunity clearly to do, you know, I think the thought"
+    },
+    {
+      "start": 1996.21,
+      "end": 2021.55,
+      "text": "at the time was something like, well, like Casper did this for mattresses or we did this for eyeglasses and no one's touched the pots and pans. And I think like five different entrepreneurs had this idea at the same time. And we saw the pitch from five different entrepreneurs. And that was when we decided like, Hey, maybe we roll out the red carpet. We establish a program where we can, rather than try to build these brands entirely ourselves, let's really hug this, this set of founders and help them build something great."
+    },
+    {
+      "start": 2021.55,
+      "end": 2051.17,
+      "text": "And we ended up partnering, um, with an amazing set of founders, uh, Amir and Shiza who've built our place. Right. Um, and you know, they have the always plan, which is an incredible, you know, I think it's the top selling single skew house product on Shopify. Wow. Um, and, uh, and we've been on that journey with them. I, you know, I sit on the board today and, and they've built an amazing business. And so, and we've done deals like that, uh, now probably, you know, once a quarter."
+    },
+    {
+      "start": 2051.57,
+      "end": 2078.19,
+      "text": "Uh, so we've kind of brought it down. We, the way we think about the business now is this kind of core retailer at the center, which is kind of this inverse TJ Maxx with this constellation of brands that either we, we own and operate directly, or we have a JV in, um, or our broader brand partner set who we just partnered with. Right. Uh, and then a connective tissue of B2B services that we've started productizing like our 3PL business, uh, and which is our packaging business."
+    },
+    {
+      "start": 2079.81,
+      "end": 2107.73,
+      "text": "Ever feel like your email marketing tools are working against you? The more you want to do, the more they start charging you with OmniSend customers can earn $68 on average for every dollar they spend. Why pay enterprise pricing for features you don't even use with OmniSend? It's so good. It's boring, which is how it should be with email. No clunky dashboards, no unnecessary roadblocks, just a platform that lets you focus on strategy and revenue. Learn more or try it for free at nick.co slash OmniSend."
+    },
+    {
+      "start": 2108.05,
+      "end": 2137.24,
+      "text": "That's nick.co slash OmniSend. So when you're looking to invest in a business, your mindset is probably, this has to fit in our box, has to fit with our audience. Cause otherwise what's the point? If we can help the distribution, what are, what are like the, is there a small checklist in your head you go through of products or types of brands or the consumer they're going after? That's a perfect fit for this type of a business."
+    },
+    {
+      "start": 2138.46,
+      "end": 2168.4,
+      "text": "So it's interesting when you say it has to fit in the box. Cause the always pan didn't fit in our box. Yeah. Um, but we love the brand and we saw the opportunity and we, we worked with them to figure out how to use the box as a promotional vehicle for our place. And we ended up developing other products. Um, we had a lunch box from our place. We had wine glasses from our place and those have been in the box and they, you know, they put the brand in front of the consumer's mind. We tell the story of the brand. The consumer then, you know, has the opportunity to go and learn more and, and find the other"
+    },
+    {
+      "start": 2168.4,
+      "end": 2193.56,
+      "text": "products and become, you know, affiliated with that brand. So I'd say there's like a fair amount of creativity that we understand how to find a brand that we think, um, will, that our audience will have an affinity for. And even if, if the, the product specifically doesn't fit the exact contours of what makes a great FabFitFun box product, that just means they're not, that product isn't on the end cap, right?"
+    },
+    {
+      "start": 2193.58,
+      "end": 2223.46,
+      "text": "We have this broader store and we have our storytelling capabilities and we have an audience that, you know, trust us to choose the right things for them and tell the right stories. And so we're pretty flexible and we've also positioned the brand to be somewhat intentionally broad. Um, you know, we don't think of ourselves as a beauty vertical. Like we think, even though half our business is beauty, we do fashion accessories. We do home decor, we do wellness. Um, so, uh, yes."
+    },
+    {
+      "start": 2223.84,
+      "end": 2249.34,
+      "text": "You know, we're probably not going to do like, um, I don't know what, like, you know, we haven't found a way to, we have a men's small men's program. So I don't want to say we won't do it. Like I, you know, Sean Frank is a good friend. I want to figure out how to get Ridge wallet into our ecosystem, but it's not the sweet spot of our customer. Right. Right. Uh, although women, I guess use Ridge walls too. So maybe I'm putting my foot in my mouth. I don't know what we, maybe we'll do anything. I mean, we're creative. Yeah."
+    },
+    {
+      "start": 2249.48,
+      "end": 2277.84,
+      "text": "You know, like, but yes, we have a, we have a largely women focused audience call it between, you know, 20 to 60 years old is the sweet spot, but there's big tales on that. Um, and we are trying to focus on what they would love. Yeah. Yeah. How, um, how, how have you guys thought about or used, or do you use any sort of AI right now? Not just chat GPT, but like really, you know, you were talking about merchandising, you have"
+    },
+    {
+      "start": 2277.84,
+      "end": 2303.28,
+      "text": "merchandisers that are going out and scouring the web trade shows. Like, do you use AI in that process or all the data that you have, the surveys are using AI to consolidate? Yeah. Um, there's, I mean, if you're an intellectually curious person, you're obsessed with AI right now. It's just so, it's just unbelievable. Right? Like, I mean, I talked to chat GPT 10 times, 20 times a day, something like that."
+    },
+    {
+      "start": 2303.5,
+      "end": 2332,
+      "text": "Um, and, uh, you know, I, I think the lowest hanging fruit is for most e-commerce is probably in the customer service area. Um, which we've, we've been applying and we're on a, you know, we're on a journey there to hopefully get to, you know, the automation rates that we think we should, we should and can get to. Um, but yes, absolutely. I mean, we're, we're applying AI to like, you know, summarize most meetings that are happening in our company."
+    },
+    {
+      "start": 2332.22,
+      "end": 2361.08,
+      "text": "Uh, we're, you know, we're encouraging, uh, our team to, you know, we have a channel where in our Slack where any, any, anyone who's used AI, et cetera. So, um, on the, on the merchandising team specifically, we are, you know, it's like a, it's a big focus area. Cause I think there's so much opportunity there, uh, especially in terms of like how to deal with both the massive amount of consumer insights, both the outbound and inbound kind of conversations and dialogue with brands."
+    },
+    {
+      "start": 2361.48,
+      "end": 2388.6,
+      "text": "Um, and then, you know, we, we, we have a, a, a whole kind of surveying consumer insights methodology around before we make purchasing decisions to kind of validate and we track brand key scores, et cetera. And there's definitely ways in which AI is being applied to all of that. And, you know, kind of we're, we're on that journey as well. Yeah. Um, all right. Last thing I want to chat about before we, uh, before we come to you guys for some questions. So hopefully you guys have a couple of questions ready is, uh, growth with M\u0026A."
+    },
+    {
+      "start": 2388.6,
+      "end": 2418.16,
+      "text": "So you guys have gotten so big, you mentioned you started buying a couple of businesses. Um, you know, I remember a few years ago, Harry's also went that strategy of, all right, we've gotten Harry's and Flamingo as big as we can. And the best way for us to increase is just buy more businesses. What's the thinking behind the M\u0026A strategy? Yeah. Um, you know, I, I think, uh, people ask me, you know, how do you stay with the same business for 12, 15 years? You got to keep it interesting. So we've kept evolving and, and one of the ways."
+    },
+    {
+      "start": 2418.6,
+      "end": 2447.02,
+      "text": "To evolve, you know, once you've achieved a certain amount of scale, um, is just think about what businesses are out there that you can add a tremendous amount of value to and they, and vice versa. Um, and we've now built a fair amount of infrastructure and capabilities that, um, we can, we, we know through our, through our kind of incubation and FabFit funded programs that apply well to, to existing or new, new brands."
+    },
+    {
+      "start": 2447.48,
+      "end": 2476.96,
+      "text": "Um, and meaningfully will apply well to a range of brands and assets out there. Um, and so we're, I, I find actually one of the most interesting things. Um, you know, you look at the biggest companies in the world and a lot of their growth has been through really thoughtful, strategic M and a, whether it's Google, you know, buying YouTube and Android meta buying Instagram and WhatsApp, right? Like the, where would these companies be? And obviously, you know, we're not quite at that level or scale. Maybe, you know, hopefully one day we will be."
+    },
+    {
+      "start": 2477.28,
+      "end": 2506.1,
+      "text": "Um, but we think we can, we can grow. So we think we have all the permission in the world to go and take interesting assets, um, plug them into our ecosystem. Um, so that, you know, two deals, I'll just talk about the two deals that we've, one, we, we haven't fully publicly announced, but this would be a good opportunity to talk about it. And one, which we did a year ago and we've announced. So a year ago we, we bought a Pupbox, which is, uh, which was a corporate divestiture from Petco. And, uh. Uh, that didn't last long, right?"
+    },
+    {
+      "start": 2506.22,
+      "end": 2533.84,
+      "text": "They launched it and got rid of it quick, right? So, so Petco actually bought Pupbox. So there was a great, incredible founding team, uh, exited to Petco. I think Petco then tried to run with it and it didn't quite fit the thesis that they had initially. And they were like, what do we do with this? And we're, turns out we're really good at running boxes. Um, and so, you know, we were able to, to bring it into our, our ecosystem, uh, lean out some of the OPEX."
+    },
+    {
+      "start": 2533.84,
+      "end": 2557.12,
+      "text": "Um, and leverage the fact that, you know, we, we have an incredibly capable supply chain team, uh, logistics team, uh, merchant team, uh, and all the cross sells. You know, a lot of our customers, over half of them have pets. Right. Uh, and vice versa. We've, you know, we've given Pupbox customers benefits in the FabFit fund ecosystem. So that, that's like an example of, uh, of a deal we did."
+    },
+    {
+      "start": 2557.12,
+      "end": 2585.72,
+      "text": "Um, and then on a totally different plane, um, we recently, you know, uh, we recently bought a company called Books, um, which is a eco-conscious packaging business. Um, you know, we're known for our boxes and, uh, we work with thousands of brands and we, we built this, a 3PL business already that's, that's doing phenomenally well. And we're, you know, we're kind of world-class in, in, in, in kidding, uh, it's probably like, you know, as good as it gets."
+    },
+    {
+      "start": 2586.38,
+      "end": 2616.16,
+      "text": "Um, and so one other thing we wanted to offer to these customers was just, we could be your packaging solution. And so, uh, we, we, we had a tremendous, uh, entrepreneur who's built a great, great business, um, and, you know, provide packaging for companies like Goop and Road Beauty, which just had an amazing exit yesterday, today, yesterday. Um, and so now we can offer our brands packaging. Uh, and so we're, we're trying to stack these B2B services as well, uh, to help balance kind of the, the overall corporate business."
+    },
+    {
+      "start": 2616.48,
+      "end": 2645.36,
+      "text": "Amazing. What do you think, you know, with the four U-ification of content and discovery with, with brands bringing out membership programs now, what do you think is the future of subscription? Uh, I think, I think it's, um, it's a double-edged sword. Uh, on the one hand, I think, you know, subscription is a reciprocal commitment. It's a commitment from a customer."
+    },
+    {
+      "start": 2645.52,
+      "end": 2669.16,
+      "text": "It's giving you a, you know, high intent signal. That I'm going to continue to be a customer of yours, you know, and, and. Or at least they want to be. They want to continue. It's, you, you get a lot of predictability out of it. Right. And with better predictability, you should be able to deliver more value. Um, and, uh, then it's on you to do that. Right."
+    },
+    {
+      "start": 2669.36,
+      "end": 2694.92,
+      "text": "And at the same time, I think people, the business world has become smart about this idea, right? That subscriptions are good business models. They, there should be, if they're set constructed, right? This, this kind of optimal value exchange. Um, and so everyone's trying to launch a subscription. Yeah. And so the, the double-edged sword of that is there's some probably subscription fatigue amongst consumers. Like how many of these do I want to commit to?"
+    },
+    {
+      "start": 2695.46,
+      "end": 2724.68,
+      "text": "Um, and then, you know, I think as a result of that, these bundles are, are becoming, you know, the ones that are standing out are becoming more and more valuable. They're bundling more and more things. You have Prime, which is like, you know, I don't even know what, what I don't get with Prime at this point. Um, and we've, we've tried to kind of, you know, follow what are the natural extensions to what we're offering in FabFitFun? How do we keep adding to the membership value and bundle and, and be differentiated in our lane?"
+    },
+    {
+      "start": 2724.78,
+      "end": 2751.82,
+      "text": "And where do we have permission to continue to expand? Um, and I think, yeah, I mean, I, I, I think it's, it, it makes sense to, there's a lot of, there's a lot of value that can come out of a subscription, but, um, it's, it's a high bar. It's a higher and higher bar. Yeah. As, as time goes on. Have you ever, this is just a random curious question. Have you ever thought like, you know, you, you guys process so many orders and a lot of repeated orders."
+    },
+    {
+      "start": 2752.32,
+      "end": 2781.2,
+      "text": "Have you ever thought about creating your own, uh, FabFitFun credit card to reduce payment processing fees? Yes. Uh, we've thought about it. It's like somewhere on that list of like. Things to do. Yeah. I mean, it's probably every year or two. Yeah. That I'm like, oh, we should do a credit card. Yeah. Um, and I know there's probably like a credit card vendor here in Expo Hall that can help me with it. Um, you know, we, we just, uh, you know, I, I think we probably."
+    },
+    {
+      "start": 2781.82,
+      "end": 2804.46,
+      "text": "We will end up doing that. I think it's a question of how do we do it thoughtfully in a way that delivers real value, real differentiated value. Right. Um, and, and, and, in, in my ideal, it's not like a, especially when we think about new businesses, we don't want them to be, Hey, we have a captive audience and we can just get them hooked onto this thing. We want, we want it to be a wedge into an entirely new business. Yeah. Yeah."
+    },
+    {
+      "start": 2804.74,
+      "end": 2834.62,
+      "text": "So if, if, if PubBox is just about upselling pet subscriptions to existing FabFitFun subscribers, it's not quite that interesting. If PubBox, because it's unique and it is unique, like we do age and stage based programming, both in terms of the curations and training guides, et cetera. And PubBox, it's like pretty differentiated out in the market. Um, and we think that's a path towards being independently a really, really interesting business. Um, and I'd want to think the same way about a credit card. Yeah."
+    },
+    {
+      "start": 2835.02,
+      "end": 2850.52,
+      "text": "Fully agreed. All right. We're going to do a quick, five quick questions and then we'll go to audience questions. So first, what's one subscription metric that's overrated? Overrated. Yeah. Woo. Woo. Gets talked about a lot, but you're just like, why the fuck are you focusing on that?"
+    },
+    {
+      "start": 2854.12,
+      "end": 2883.24,
+      "text": "Uh, this is going to like, I, you know, retention has to be the North star. And yet, you know, there, there, there are probably healthy version, like in the abstract without looking at like, what is the marketing program that you're running? It's not always apples to apples. So there could be, let's say like high turn programs that are really smart and good for you. Yeah."
+    },
+    {
+      "start": 2883.24,
+      "end": 2909.94,
+      "text": "So that's, that's, that might be like, you know, I don't know if that's so surprising to say, but I think you can't get fixed. You know, I think every metric has to be contextualized, including turn. Yep. What about one growth hack you're tired of hearing about? I have a guess for yours. Do you? Which is just the upsell between your different companies. Oh yeah. Um, yeah."
+    },
+    {
+      "start": 2910.06,
+      "end": 2933.86,
+      "text": "I mean, look, I think you have to be, the, the, the, the reason upsell works in our environment is because FabFit Fund is a cross-sell platform. Do you know what I'm saying? It's not, it's not inorganic. Right. It's not a, like, Hey, you came to buy a mattress and now we're selling you a watch or something. Right. It's, I'm here to discover new things. That's what people are telling us when they sign up for FabFit Fund. So, so it's very organic to us."
+    },
+    {
+      "start": 2934.36,
+      "end": 2962.48,
+      "text": "Um, you know, I, I often am skeptical of like, of things that will help reduce churn that are tactical. Yeah. That's what I would say. I would say like things that are tactical that are, you know, that, and there may be like short-term wins on there, but I think that ultimately like you reduce churn by having really happy customers. Yeah. Agreed. And to your point, like the, the programming and the merchandising. Yeah, exactly. I mean, yeah. The, the product should reduce churn. Right."
+    },
+    {
+      "start": 2962.54,
+      "end": 2989.19,
+      "text": "People aren't staying with Prime because Prime figured out how to optimize their cancel flow. Right. They have figured out how to optimize their cancel flow and, and we should all do that. But that's not the leading reason why, you know, retention is high at Amazon. What about, uh, a brand that you secretly admire? It could be for anything, their product, their team, their cancel flow. Yeah. Their ads. Yeah."
+    },
+    {
+      "start": 2989.49,
+      "end": 3003.95,
+      "text": "Uh, I wouldn't, you know, not so secretly, but, uh, Seed, the, the probiotic company, um, they're good friends of ours. We were early investors in them. And I just think, um, they've built like a phenomenal business."
+    },
+    {
+      "start": 3004.27,
+      "end": 3034.17,
+      "text": "Um, super thoughtful about the brand, you know, in, in a way that like, you know, their website isn't like historically been like the, the, like it's, it's pretty content rich, which, you know, it doesn't feel like the purely like dialed in for conversion hits you over the head with it. Cause they're really passionate about telling the story about gut health and they've been doing it for a number of years now. Um, and I think they've done a phenomenal job. Um, amazing. And last question is what brand has your favorite packaging or unboxing experience? FabFitFun."
+    },
+    {
+      "start": 3034.47,
+      "end": 3062.83,
+      "text": "Of course. Okay. We're going to, we're going to take maybe three questions. We got one back there. Yeah. All right. Amazing. It's a great question. I'm going to just repeat the question."
+    },
+    {
+      "start": 3062.99,
+      "end": 3092.09,
+      "text": "So the question was, uh, from a new FabFitFun subscriber is gifting a huge channel of acquisition. It's a hugely underdeveloped channel for us is what I would say. It's, um, we need to do better. We need to, we need to make FabFitFun easier to gift. Uh, it is a, it's a wonderful gift. It's, it's, you know, people describe as it's the gift that never stops giving. Um, and, uh, we need, we could, we could do more there."
+    },
+    {
+      "start": 3092.11,
+      "end": 3105.59,
+      "text": "Uh, it's, it's not that it doesn't happen. It happens, you know, it happens all the time, but we haven't developed all of the, you know, kind of flows and functionality that I think would make it super smooth and easy to do. Next question right here."
+    },
+    {
+      "start": 3122.11,
+      "end": 3149.03,
+      "text": "So question was going back to the beginning of being a CEO piece of advice you'd give yourself as you're growing your business. I, I, I think probably get an eight sleep. I think that's great. Look, I think you could never, you know, you just kind of like when it's good, you know, it's, it's good to be a little bit more paranoid. And when it's bad, it's not as, it's not the end of the world."
+    },
+    {
+      "start": 3149.03,
+      "end": 3175.05,
+      "text": "Like, I mean, I think, I think there's like a level headedness of, um, yeah, you got to celebrate the wins and you got to, you know, you got to be alert when, when you're feeling pain. But like that, no CEO I know doesn't go through the rollercoaster. It's just a role. It is a absolute rollercoaster. You're going to feel like you might go out of business a number of times in that rollercoaster. If you don't, are you really CEOing? Yeah, exactly."
+    },
+    {
+      "start": 3175.05,
+      "end": 3195.69,
+      "text": "You know, and, and then, you know, and then, you know, you're going to think that you're well on your way to building the next Google at some points. And, you know, maybe you are, but like, you know, it's, it's, it's, it's always, it's always hard work and find a way to take joy in the, in the work. Right here."
+    },
+    {
+      "start": 3213.94,
+      "end": 3236.92,
+      "text": "Amazing. So with you and your leadership team, basically, how do you evaluate opportunities to bring to market? Rigorous debate. You know, I, you know, my, my co-founder and co-CEO is my brother. So I, you know, to any, to any idea that either of us have, we know there's going to be a strong, forceful reaction to it."
+    },
+    {
+      "start": 3237.42,
+      "end": 3262.12,
+      "text": "Um, uh, you know, it, there's no, there's no single metric, you know, because I think a lot of the best bets are more strategic than they are. Um, it's like entrepreneurship. Uh, all the, all the obvious ideas are, are probably the domain of like a big company. Um, and so you have to have a little bit of an, you know, like an angle to, to, to, to why you're going to do things."
+    },
+    {
+      "start": 3262.32,
+      "end": 3291.52,
+      "text": "And so, uh, you know, the, the credit card example is, is it, is an interesting one? Cause I'm, you know, I'm, I would say is I'm skeptical of, I'm skeptical of the, the, the pitch from, let's say some of the, the branded credit card providers, which is like, this is going to be so easy in turnkey. Because if it is easier in turnkey, I worry that it's just totally commoditized and uninteresting. And so then I'm like, okay, well, this could be a fair amount of work. Um, anything that we do that's gonna be great is gonna be a fair amount of work."
+    },
+    {
+      "start": 3291.6,
+      "end": 3317.92,
+      "text": "And then we just have to make sure we have the resources to see it through and, and make it differentiated and make it, you know, really sing. It's not, by the way, it's not just debates with my brother. We have the most incredible leadership team that we get together, um, for a few hours every week to really wrestle with strategy. Um, and, uh, and then we have, you know, off sites and strategic planning processes that we've, that we've been adherence to."
+    },
+    {
+      "start": 3318.1,
+      "end": 3339.06,
+      "text": "And, and, um, I, you know, we're big fans of being in the office. Uh, I, I'm not, I think you could do it with onsites and offsites if you're more remote team as well. Um, but, but I think nothing beats spending time together with, uh, with leadership, um, in small groups to really think about, you know, all the angles."
+    },
+    {
+      "start": 3339.48,
+      "end": 3369.23,
+      "text": "I mean, I don't know if the format's more complicated than like one, we have like a, a, a regular weekly strategic, you know, leadership meeting every week. We're all committed to it. And then at least twice a year, we're doing a much more intensive multi-day, uh, kind of offsite. All right. Two more questions right here. Absolutely. Green."
+    },
+    {
+      "start": 3372.13,
+      "end": 3395.03,
+      "text": "Amazing. Awesome. Have you ever used a, so, so, so it's a, it's a good question. We, um, the short answer is yes."
+    },
+    {
+      "start": 3395.03,
+      "end": 3415.11,
+      "text": "We've raised, I would say, don't quote me on the number, but at least half a million dollars for nonprofits throughout, you know, the tenure of our business from our community. And, and, you know, we, we, what we used to do was have a featured nonprofit every single season and then put that out to the community and let them add on a donation to their box."
+    },
+    {
+      "start": 3415.75,
+      "end": 3437.67,
+      "text": "Um, and what we're doing now is reformulating that into somewhat more of a thematic focus. Cause it, it was hard, frankly, to get those every quarter to change it up and the amount of lift and effort. And, and it felt almost inauthentic because of the amount of time and attention we could do to just kind of like plug something in."
+    },
+    {
+      "start": 3438.07,
+      "end": 3464.43,
+      "text": "So what we're, what we're doing now is, um, we're, we're reformulating that in a specific kind of vertical that we're, that we, we haven't announced yet. That we're, we're really, we want to go deep on. Um, and then, you know, when something's right in our backyard, we, the team just rallies, right? And, and that's just authentic. And I think you have to be authentic when you're doing things like this. Um, so the fires in LA was, was literally right in our backyard."
+    },
+    {
+      "start": 3465.05,
+      "end": 3487.57,
+      "text": "Um, and we thought we could be helpful because we had a lot of products and people lost their homes and a lot of their stuff. And so we set up, you know, a kind of build a box program for people who lost their homes or were affected by the fires. And, um, and we had, you know, many, many hundreds of people come through. And, uh, so we've done things like that as well. All right. Last question right here."
+    },
+    {
+      "start": 3501.95,
+      "end": 3530.15,
+      "text": "Yeah. So, so the question is how, like, what is the decision making process for how we choose products and how do we make sure that they're the best value? Um, it's, uh, you know, there's both art and science there. Um, we have a substantial, like, you know, one of our largest teams is our merchandising team and, and, um, and they pair with our consumer insights team. Um, and they're constantly, you know, one is have a lot of options, right?"
+    },
+    {
+      "start": 3530.29,
+      "end": 3552.43,
+      "text": "And then part of what makes a good value is I would say like the willingness of the brand to work with us, right? Like we're not, we're, I'll just, we're not buying it wholesale. We can't deliver the value we want to buy, deliver, um, you know, buying it wholesale. And we even have some brands who are doing sponsored programs with us, right?"
+    },
+    {
+      "start": 3552.59,
+      "end": 3572.15,
+      "text": "So, uh, include, including some brands who willing to provide free product or, uh, you know, essentially being a sponsored placement on our site. Um, and so it's, it's, it's, it's somewhere at the intersection of like creating a lot of options by being out there. So, you know, we're talking to brands, talking to decision makers at the brands."
+    },
+    {
+      "start": 3572.15,
+      "end": 3602.11,
+      "text": "Um, the consumer insights we receive looking at both like prospective surveying, um, and retrospective sell through and ratings and reviews that we now have, you know, millions of reviews on products and data points, et cetera. Um, and then the business terms, frankly, right? Like, uh, you know, what, what can be negotiated with, with the brand? Um, so somewhere at the intersection of those three ideas and a, you know, substantial merchandising effort to, to sift through that."
+    },
+    {
+      "start": 3602.11,
+      "end": 3627.34,
+      "text": "And they have their own, you know, set of debates and meetings and, you know, and at the top of that is my co-founder Katie, who's our editor in chief. Um, that's, that's kind of how it works. Yeah. I mean, we're, we're just, we're not a, we're not a traditional retail channel, you know, where, we're this kind of discovery platform and there's, there's all sorts of ways that gives a tremendous amount of value to the brands."
+    },
+    {
+      "start": 3627.34,
+      "end": 3657.32,
+      "text": "Um, you know, another way we, we, we, we, for, for most brands we work with, we describe it as essentially like free marketing, right? Like instead, instead of using your, instead of just paying, you know, meta and have use, use product. Right. And, um, and we'll help you get it in the hands of new consumers. Amazing. Well, thank you for being with us, Michael. Thank you, Nick. Hopefully everybody can say a prayer tonight for the Knicks and, uh, have a great rest of the day."
+    },
+    {
+      "start": 3657.34,
+      "end": 3670.94,
+      "text": "Thanks to your sub summit. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen. So you don't miss the next one."
+    }
+  ]
+}

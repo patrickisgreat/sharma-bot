@@ -1,0 +1,4804 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 14.56,
+      "text": "Here's this if you eat Magic Spoon and here's what you get if you eat Cinnamon Toast Crunch. If you eat Cinnamon Toast Crunch, you get diabetes. If you eat Magic Spoon, you live forever. And I thought that was a great ad. All of these comparisons where there's a split line are great ads."
+    },
+    {
+      "start": 14.74,
+      "end": 28.5,
+      "text": "The businesses that have the best LTV follow that framework, which is basically, first of all, you're not even thinking about this problem, but we're going to present a problem to you. So step one is present the problem. Then it's our product is the solution."
+    },
+    {
+      "start": 28.5,
+      "end": 38.48,
+      "text": "Because effortlessly, it does X. This is Limited Supply, the place for refreshingly real takes on what D2C is really like."
+    },
+    {
+      "start": 38.82,
+      "end": 42.24,
+      "text": "We're your hosts, Nick and Moyes. Let's start talking about money."
+    },
+    {
+      "start": 43.52,
+      "end": 58.48,
+      "text": "Did you know that the Messi, Messi's a soccer player, his store tripled sales in a month after they launched their TapCard app. They saw a higher conversion rate, obviously, because it's within the app, but sending people to their app and then getting people to browse and shop, especially for a category of sales,"
+    },
+    {
+      "start": 58.48,
+      "end": 66.86,
+      "text": "category like apparel, it crushed for them. They got push notifications, they got instant page loading, which I don't know if you've run ads on TikTok yet."
+    },
+    {
+      "start": 67,
+      "end": 71.82,
+      "text": "Their instant page works really well for conversion and in the mobile app, it does just as well."
+    },
+    {
+      "start": 71.82,
+      "end": 88.2,
+      "text": "You get one click checkout and typically we see higher AOV from that as well. I think if you're a Limited Supply listener, you should definitely be on TapCard. You should go to tapcart.com slash limited. You'll get two months free. Try it out. Send it to us. We'll rate it and we'll give you a review."
+    },
+    {
+      "start": 89.72,
+      "end": 108,
+      "text": "Nick, this is episode eight of our podcast. We've already recorded episode nine. We had some trouble getting it on air for March 8th. So this is actually going to launch tomorrow and we had to move version. We had to move what was going to be episode eight into episode nine. But I'm super excited about today. A bunch of stuff to talk about."
+    },
+    {
+      "start": 108,
+      "end": 120.82,
+      "text": "We're going to talk a little bit about fundraising in the direct-to-consumer community, which I have a tough time understanding what's going on right now. We're going to talk about some Warby Parker earnings, some new features on Klaviyo and Stripe."
+    },
+    {
+      "start": 121.36,
+      "end": 138.08,
+      "text": "We're going to talk about one crazy Indian company, like a company based in India that I chatted with called Jugnu, which is such an Indian name. And some other tips that I've got for pop-ups. And then finally, this Wall Street Journal article about Ozempic, which is not a weight loss shot, but everyone's using it that way."
+    },
+    {
+      "start": 138.76,
+      "end": 138.88,
+      "text": "Cool."
+    },
+    {
+      "start": 139.44,
+      "end": 140.96,
+      "text": "Okay, so a bunch of stuff to get through."
+    },
+    {
+      "start": 141.6,
+      "end": 149.52,
+      "text": "Yeah. And this week, I'm in San Diego at eCommerce Fuel as well. So episode 10, I'll have a bunch of notes on my recap of this event."
+    },
+    {
+      "start": 149.52,
+      "end": 152.24,
+      "text": "Okay, awesome. Are you talking at eCommerce Fuel today?"
+    },
+    {
+      "start": 152.76,
+      "end": 157,
+      "text": "I'm talking tomorrow. Yeah. So basically today when this podcast comes out."
+    },
+    {
+      "start": 157.22,
+      "end": 176.94,
+      "text": "Okay. I spoke in front of them in 2019. I really love that community. It's a bunch of six, seven, and eight-figure businesses. I do feel like people stay on for life in eCommerce Fuel. And I feel like there should be new blood and old blood should sort of move out of the way because it's really good if you're launching a new business."
+    },
+    {
+      "start": 177.56,
+      "end": 187.54,
+      "text": "It becomes less helpful if you've been in business for 10 years, I think, or been in business for five years. But I really love the community and love the people in it. I had a great time. I hope you have a great time there too."
+    },
+    {
+      "start": 187.54,
+      "end": 203.58,
+      "text": "Yeah, it's been pretty fun. It's funny because in New York or I think a lot of the brands that we tend to talk about, they're venture-backed. They're scaling like crazy. These are just like a couple that sells crochet kits and they're making $20 million."
+    },
+    {
+      "start": 203.58,
+      "end": 210.36,
+      "text": "Or some guy selling $5 million worth of automatic assault rifles on the internet."
+    },
+    {
+      "start": 210.98,
+      "end": 214.26,
+      "text": "Or somebody selling like sprinkler heads."
+    },
+    {
+      "start": 214.48,
+      "end": 226.9,
+      "text": "You can. There's like a proper license and screening process to get the gun. But somebody else sells sprinkler heads and makes $35 million. It's just like completely different than what I would say we normally talk about."
+    },
+    {
+      "start": 226.9,
+      "end": 238.92,
+      "text": "But it's a very, very awesome community. Very supportive. Everybody here is insanely nice. So it's just fun to hang around like awesome people who are equally as much of a nerd as you are about something."
+    },
+    {
+      "start": 239.42,
+      "end": 250.74,
+      "text": "I remember I attended one other like mastermind. And at that mastermind, you talk to someone and be like, hey, so what's your business? And they're like, I'm not telling anybody my business because I'm afraid everyone here is going to copy it."
+    },
+    {
+      "start": 251.12,
+      "end": 260.1,
+      "text": "And I was like, it was the first time I was there and I was like, this is toxic. Like everybody, you won't even share your name. You're like, hey, my name is John and I won't tell you my last name."
+    },
+    {
+      "start": 260.6,
+      "end": 267.68,
+      "text": "It felt like it was a meeting of CIA agents. And the e-commerce fuel community is the exact opposite of that. And I really love that."
+    },
+    {
+      "start": 268.1,
+      "end": 279.58,
+      "text": "But okay, let's get into some fundraising stuff. The reason I wanted to bring this up is because basically I thought fundraising and e-commerce was dead and has been dead for or like, you know, has been really slow."
+    },
+    {
+      "start": 279.74,
+      "end": 285.82,
+      "text": "I shouldn't say dead, but it's been really slow for at least a year. Like far fewer brands are going out there to raise money."
+    },
+    {
+      "start": 286.2,
+      "end": 292.72,
+      "text": "Even like the e-commerce SaaS, like even SaaS community in general has been much slower. But the e-commerce SaaS community has been slower as well."
+    },
+    {
+      "start": 292.72,
+      "end": 297.42,
+      "text": "Like I don't see the Yappos or Klaviyos or PostScripts or Okendo."
+    },
+    {
+      "start": 297.58,
+      "end": 303.06,
+      "text": "Like I don't see any of these brands or Gorgias's or any of those things launching new fundraising rounds."
+    },
+    {
+      "start": 303.08,
+      "end": 310.32,
+      "text": "And it's not their fault. It's just like there's been a market correction and they fundraised 18 months ago or 22 months ago or something to that effect."
+    },
+    {
+      "start": 310.46,
+      "end": 313.3,
+      "text": "And they've been utilizing those funds and that's been great."
+    },
+    {
+      "start": 313.3,
+      "end": 324.14,
+      "text": "But all of a sudden in the past like seven days, I saw a bunch of e-commerce businesses or consumer brands raise money and not like raise growth equity money of like $40 million."
+    },
+    {
+      "start": 324.52,
+      "end": 328.9,
+      "text": "Like I'm already in Target. This is a $40 million secondary round. I'm putting it all in my pocket."
+    },
+    {
+      "start": 329.22,
+      "end": 332.24,
+      "text": "This private equity firm is going to take 70% of the business."
+    },
+    {
+      "start": 332.46,
+      "end": 334,
+      "text": "I own 30% and we move on."
+    },
+    {
+      "start": 334,
+      "end": 336.7,
+      "text": "Like it's not that. It's like series A rounds."
+    },
+    {
+      "start": 336.96,
+      "end": 342.58,
+      "text": "And you and I are in one of them, IMI, the instant ramen company with the Kevins."
+    },
+    {
+      "start": 342.76,
+      "end": 343.94,
+      "text": "They raised $10 million."
+    },
+    {
+      "start": 344.84,
+      "end": 348.06,
+      "text": "There's this company called Oats Overnight that raised $20 million."
+    },
+    {
+      "start": 348.78,
+      "end": 349.94,
+      "text": "I'm in that one as well."
+    },
+    {
+      "start": 350.18,
+      "end": 350.94,
+      "text": "Are you really?"
+    },
+    {
+      "start": 351.28,
+      "end": 351.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 352.4,
+      "end": 354.58,
+      "text": "I just heard of this business. What is it?"
+    },
+    {
+      "start": 355.16,
+      "end": 356.54,
+      "text": "I've never tried the product."
+    },
+    {
+      "start": 356.7,
+      "end": 357.98,
+      "text": "You're saying it so fucking casually, huh?"
+    },
+    {
+      "start": 358.9,
+      "end": 365.94,
+      "text": "My co-founder and 1180, Scott, every morning he just like, he has his Oats Overnight shaker bottle on his desk."
+    },
+    {
+      "start": 366.1,
+      "end": 368.8,
+      "text": "And I've seen him have it for over a year."
+    },
+    {
+      "start": 369.48,
+      "end": 372.04,
+      "text": "So as soon as I saw the opportunity, I was like, I'm in."
+    },
+    {
+      "start": 372.14,
+      "end": 373.34,
+      "text": "I've never tried the product."
+    },
+    {
+      "start": 373.58,
+      "end": 374.6,
+      "text": "Don't know what it tastes like."
+    },
+    {
+      "start": 374.74,
+      "end": 376.1,
+      "text": "But I've seen him use it for a year."
+    },
+    {
+      "start": 376.24,
+      "end": 377.14,
+      "text": "So I'm convinced."
+    },
+    {
+      "start": 378.1,
+      "end": 381.62,
+      "text": "Well, looks like a great investment so far."
+    },
+    {
+      "start": 382.02,
+      "end": 383.42,
+      "text": "I guess two things that are interesting."
+    },
+    {
+      "start": 383.58,
+      "end": 385.14,
+      "text": "One is how you made that investment."
+    },
+    {
+      "start": 385.14,
+      "end": 392.76,
+      "text": "My brother invested in Hint Water and in a couple other businesses simply by virtue of the fact that he had the products in his office."
+    },
+    {
+      "start": 392.8,
+      "end": 395.44,
+      "text": "And people would come by and be like, hey, I want to try this."
+    },
+    {
+      "start": 395.56,
+      "end": 397.26,
+      "text": "Or people would come by and just drink it all."
+    },
+    {
+      "start": 397.6,
+      "end": 403.18,
+      "text": "Hint, he's like, when we didn't have Hint Water at Tiny Co's offices, the staff was like, hey, where's the Hint Water?"
+    },
+    {
+      "start": 403.4,
+      "end": 409.36,
+      "text": "And so he's like, this is a great business because people care about it and are mentioning it to me when it's not here."
+    },
+    {
+      "start": 409.92,
+      "end": 412.24,
+      "text": "I'm looking at Oats Overnight's website right now."
+    },
+    {
+      "start": 412.24,
+      "end": 424.16,
+      "text": "They do this really interesting thing if you scroll down below the fold where they compare Oats Overnight versus like cereal or versus like a Starbucks Frappuccino versus like eggs as breakfast or a pastry and like how Oats Overnight is better for you."
+    },
+    {
+      "start": 424.5,
+      "end": 428.82,
+      "text": "It's actually a really great display of like Magic Spoon does this really well as well."
+    },
+    {
+      "start": 428.96,
+      "end": 434.8,
+      "text": "Like Magic Spoon would do this thing where they're like, here's this if you eat Magic Spoon and here's what you get if you eat Cinnamon Toast Crunch."
+    },
+    {
+      "start": 435.04,
+      "end": 437.08,
+      "text": "If you eat Cinnamon Toast Crunch, you get diabetes."
+    },
+    {
+      "start": 437.08,
+      "end": 438.96,
+      "text": "If you eat Magic Spoon, you live forever."
+    },
+    {
+      "start": 439.5,
+      "end": 441.8,
+      "text": "And I thought that was a great ad."
+    },
+    {
+      "start": 441.96,
+      "end": 445.14,
+      "text": "Like all of these comparisons where there's a split line are great ads."
+    },
+    {
+      "start": 445.32,
+      "end": 454.38,
+      "text": "The businesses that have the best LTV kind of follow that framework, which is basically, first of all, you're not even thinking about this problem, but we're going to present a problem to you."
+    },
+    {
+      "start": 454.62,
+      "end": 456.5,
+      "text": "So step one is present the problem."
+    },
+    {
+      "start": 456.76,
+      "end": 462.12,
+      "text": "Then it's our product is the solution because effortlessly it does X."
+    },
+    {
+      "start": 462.58,
+      "end": 466.02,
+      "text": "With minimal effort, this product accomplishes something."
+    },
+    {
+      "start": 466.02,
+      "end": 469.3,
+      "text": "And then the benefit is what you receive."
+    },
+    {
+      "start": 469.52,
+      "end": 481.92,
+      "text": "Now, the reason it does so well for LTV is because it also in the same way says, if you stop this subscription, you will get fat again or you will get diabetes or you will turn ugly."
+    },
+    {
+      "start": 482.14,
+      "end": 484,
+      "text": "So Oats Overnight does this really well."
+    },
+    {
+      "start": 484.16,
+      "end": 485.52,
+      "text": "Magic Spoon does this really well."
+    },
+    {
+      "start": 485.7,
+      "end": 487.04,
+      "text": "There's two other businesses."
+    },
+    {
+      "start": 487.74,
+      "end": 489.52,
+      "text": "One is Canopy and one is Jolie."
+    },
+    {
+      "start": 489.68,
+      "end": 490.8,
+      "text": "We've talked about both of them."
+    },
+    {
+      "start": 490.8,
+      "end": 497.9,
+      "text": "Both are products that one is a humidifier and it is framed in the light of a beauty product."
+    },
+    {
+      "start": 498.04,
+      "end": 498.92,
+      "text": "The same thing with Jolie."
+    },
+    {
+      "start": 499.12,
+      "end": 503.3,
+      "text": "It's a shower head framed in the light of this is a beauty device."
+    },
+    {
+      "start": 503.7,
+      "end": 505.12,
+      "text": "They both have subscriptions."
+    },
+    {
+      "start": 505.12,
+      "end": 514.6,
+      "text": "And the reason they both have such low churn is because of that same framework of you are sleeping at night and your air is dry."
+    },
+    {
+      "start": 514.6,
+      "end": 516,
+      "text": "So your skin is getting dry."
+    },
+    {
+      "start": 516,
+      "end": 519.84,
+      "text": "If you use our humidifier automatically, you will become beautiful."
+    },
+    {
+      "start": 520.1,
+      "end": 524.22,
+      "text": "We have a filter subscription to keep the moisture in the air clean."
+    },
+    {
+      "start": 524.22,
+      "end": 528.28,
+      "text": "And if you do not get our subscription, you will become ugly."
+    },
+    {
+      "start": 529.16,
+      "end": 532.64,
+      "text": "And I think like most businesses are based on that premise of here's a problem."
+    },
+    {
+      "start": 532.8,
+      "end": 533.9,
+      "text": "Here's a solution to it."
+    },
+    {
+      "start": 534.1,
+      "end": 540.2,
+      "text": "This is even more interesting because it's almost like the problem, like just replace a daily thing that you're already doing."
+    },
+    {
+      "start": 540.3,
+      "end": 544.98,
+      "text": "Like Jolie, like I think most people don't have, everyone has a shower head."
+    },
+    {
+      "start": 545.08,
+      "end": 546.76,
+      "text": "Most people don't have filter showers."
+    },
+    {
+      "start": 547.28,
+      "end": 549.34,
+      "text": "Canopy, I think most people don't have humidifiers."
+    },
+    {
+      "start": 549.34,
+      "end": 549.78,
+      "text": "Humidifiers."
+    },
+    {
+      "start": 550.02,
+      "end": 554.42,
+      "text": "Although if you live in San Francisco, I bet there's a chance that you have like an air purifier because of all the fires."
+    },
+    {
+      "start": 554.86,
+      "end": 559.94,
+      "text": "But like this is like here's an ad where you're looking at it and you're like, oh, this is what I usually do."
+    },
+    {
+      "start": 560.52,
+      "end": 562.64,
+      "text": "This is the exact replacement to it."
+    },
+    {
+      "start": 562.82,
+      "end": 564.1,
+      "text": "It's a substitute good."
+    },
+    {
+      "start": 564.24,
+      "end": 566.26,
+      "text": "And the substitute good is better for me."
+    },
+    {
+      "start": 566.34,
+      "end": 567.28,
+      "text": "And so I should switch."
+    },
+    {
+      "start": 567.42,
+      "end": 570.6,
+      "text": "And they're like, hey, overnight oat is better than a bowl of cereal."
+    },
+    {
+      "start": 571.34,
+      "end": 573.04,
+      "text": "Humidifier is better than no humidifier."
+    },
+    {
+      "start": 573.14,
+      "end": 577.96,
+      "text": "But I don't know how you could create an ad like this where you'd split it down the line and you'd be like, here's a humidifier."
+    },
+    {
+      "start": 577.96,
+      "end": 579.1,
+      "text": "Here's no humidifier."
+    },
+    {
+      "start": 579.28,
+      "end": 580.58,
+      "text": "And here's what your skin looks like."
+    },
+    {
+      "start": 580.7,
+      "end": 581.7,
+      "text": "There'd be another step."
+    },
+    {
+      "start": 581.92,
+      "end": 584.74,
+      "text": "This is incredible because it's just like, here's what you're doing currently."
+    },
+    {
+      "start": 584.92,
+      "end": 585.64,
+      "text": "You're eating cereal."
+    },
+    {
+      "start": 585.76,
+      "end": 586.94,
+      "text": "It has two grams of protein."
+    },
+    {
+      "start": 587.12,
+      "end": 587.86,
+      "text": "Have overnight oats."
+    },
+    {
+      "start": 587.94,
+      "end": 589.16,
+      "text": "It's 20 grams of protein."
+    },
+    {
+      "start": 589.38,
+      "end": 590.1,
+      "text": "Yeah, it's a good point."
+    },
+    {
+      "start": 590.54,
+      "end": 591.7,
+      "text": "But anyway, oats overnight."
+    },
+    {
+      "start": 592.06,
+      "end": 592.88,
+      "text": "You're an investor."
+    },
+    {
+      "start": 592.98,
+      "end": 593.96,
+      "text": "They just raised $20 million."
+    },
+    {
+      "start": 595.02,
+      "end": 596.38,
+      "text": "I've never heard of the brand."
+    },
+    {
+      "start": 597.1,
+      "end": 598.74,
+      "text": "Sounds like you barely heard of the brand."
+    },
+    {
+      "start": 598.88,
+      "end": 600.8,
+      "text": "You just made a bunch of money on it."
+    },
+    {
+      "start": 601.22,
+      "end": 606.66,
+      "text": "Belly Welly is this company that does like bars for girls that have, or I shouldn't say girls,"
+    },
+    {
+      "start": 606.66,
+      "end": 609.52,
+      "text": "for people that have IBS, irritable bowel syndrome."
+    },
+    {
+      "start": 610.24,
+      "end": 612.4,
+      "text": "And I actually met the founder some time ago."
+    },
+    {
+      "start": 612.52,
+      "end": 613.2,
+      "text": "Her name's Katie."
+    },
+    {
+      "start": 613.78,
+      "end": 616.42,
+      "text": "I heard of this and I was like, okay, I don't know what to think about it."
+    },
+    {
+      "start": 616.52,
+      "end": 621.58,
+      "text": "And she just raised $15 million at a time where it's like really hard to raise money in consumer"
+    },
+    {
+      "start": 621.58,
+      "end": 621.98,
+      "text": "brands."
+    },
+    {
+      "start": 622.14,
+      "end": 624.22,
+      "text": "Things must be going quite well, I would imagine."
+    },
+    {
+      "start": 624.46,
+      "end": 628.68,
+      "text": "I remember she posted on Instagram and she's like, I think they bought a billboard that said,"
+    },
+    {
+      "start": 629.04,
+      "end": 630.56,
+      "text": "hot girls have IBS."
+    },
+    {
+      "start": 630.94,
+      "end": 631.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 631.1,
+      "end": 632.24,
+      "text": "Have you seen that?"
+    },
+    {
+      "start": 632.66,
+      "end": 636.26,
+      "text": "I'm not sure if it was a real billboard or if it was computer generated, but I was like,"
+    },
+    {
+      "start": 636.42,
+      "end": 638.7,
+      "text": "this is a great, great ad."
+    },
+    {
+      "start": 638.9,
+      "end": 640.36,
+      "text": "It was a real billboard."
+    },
+    {
+      "start": 640.76,
+      "end": 642.46,
+      "text": "That said hot girls have IBS."
+    },
+    {
+      "start": 643.06,
+      "end": 643.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 644.02,
+      "end": 645.84,
+      "text": "That's what I love about consumer brands."
+    },
+    {
+      "start": 646.06,
+      "end": 650.22,
+      "text": "Even today, Procter \u0026 Gamble has been around for 150 years."
+    },
+    {
+      "start": 650.84,
+      "end": 652.52,
+      "text": "Native has been around for eight years."
+    },
+    {
+      "start": 652.9,
+      "end": 656.14,
+      "text": "Even today, people are constantly innovating on marketing strategies."
+    },
+    {
+      "start": 656.44,
+      "end": 657.98,
+      "text": "Hot girls have IBS."
+    },
+    {
+      "start": 659.02,
+      "end": 660.8,
+      "text": "That billboard would get my attention."
+    },
+    {
+      "start": 660.92,
+      "end": 662.92,
+      "text": "The same way that Liquid Death had that billboard that said,"
+    },
+    {
+      "start": 663.24,
+      "end": 665.32,
+      "text": "murderers for hire, that would get my attention."
+    },
+    {
+      "start": 665.5,
+      "end": 666.22,
+      "text": "So with this."
+    },
+    {
+      "start": 666.48,
+      "end": 668.42,
+      "text": "There was another really interesting one."
+    },
+    {
+      "start": 668.92,
+      "end": 673.46,
+      "text": "I don't know where I saw it, but I saw it this morning, either in email or on Twitter."
+    },
+    {
+      "start": 673.72,
+      "end": 676.26,
+      "text": "And this company, I think it was a cereal company."
+    },
+    {
+      "start": 676.7,
+      "end": 681.32,
+      "text": "They put these really awesome looking photos of their cereal bowl."
+    },
+    {
+      "start": 681.32,
+      "end": 686.48,
+      "text": "And then in big text, it says, Dwayne Johnson loves our cereal."
+    },
+    {
+      "start": 686.84,
+      "end": 692.44,
+      "text": "And then at the bottom, it's like, we're talking about Dwayne Johnson, the bus driver in Louisville, Kentucky."
+    },
+    {
+      "start": 692.86,
+      "end": 696.36,
+      "text": "And then, you know, Serena Williams eats our cereal every day."
+    },
+    {
+      "start": 696.5,
+      "end": 699.52,
+      "text": "And then at the bottom, Serena Williams, the librarian in Pennsylvania."
+    },
+    {
+      "start": 700.76,
+      "end": 701.64,
+      "text": "That's fantastic."
+    },
+    {
+      "start": 702.3,
+      "end": 703.12,
+      "text": "That's really funny."
+    },
+    {
+      "start": 703.28,
+      "end": 705.26,
+      "text": "I still feel like they're going to get cease and desist letters."
+    },
+    {
+      "start": 705.5,
+      "end": 707.02,
+      "text": "I'm not sure you should get cease and desist letters."
+    },
+    {
+      "start": 707.02,
+      "end": 709.4,
+      "text": "In fact, that would probably be even better."
+    },
+    {
+      "start": 709.4,
+      "end": 710.64,
+      "text": "That would add to the story."
+    },
+    {
+      "start": 710.66,
+      "end": 711.06,
+      "text": "Yeah, that is really clever."
+    },
+    {
+      "start": 711.34,
+      "end": 711.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 711.68,
+      "end": 711.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 712.12,
+      "end": 713.56,
+      "text": "There's two other brands I wanted to mention."
+    },
+    {
+      "start": 713.66,
+      "end": 718.74,
+      "text": "There's a brand called Tinted, which sells like makeup for women."
+    },
+    {
+      "start": 719.08,
+      "end": 724.68,
+      "text": "But I think they're probably centered a little bit more around like women of darker shades or colored women."
+    },
+    {
+      "start": 724.68,
+      "end": 726.68,
+      "text": "It was started by this Indian woman."
+    },
+    {
+      "start": 727.04,
+      "end": 728.54,
+      "text": "And then there was a popcorn company."
+    },
+    {
+      "start": 728.64,
+      "end": 729.48,
+      "text": "They raised $10 million."
+    },
+    {
+      "start": 729.84,
+      "end": 733.66,
+      "text": "There's a popcorn company called Poppy Popcorn that raised $3 million."
+    },
+    {
+      "start": 734.6,
+      "end": 737.88,
+      "text": "All of a sudden, like in the past like week, I've seen all of these brands."
+    },
+    {
+      "start": 737.88,
+      "end": 739.34,
+      "text": "They're at least announcing the deals."
+    },
+    {
+      "start": 739.5,
+      "end": 740.84,
+      "text": "I'm not sure if Belly Welly raised them."
+    },
+    {
+      "start": 740.84,
+      "end": 745.6,
+      "text": "I know a lot of these deals were done months ago and they just didn't want to announce it yet."
+    },
+    {
+      "start": 746.1,
+      "end": 751.26,
+      "text": "But yeah, it feels as if there's definitely a lot less pitch decks in my email."
+    },
+    {
+      "start": 752.24,
+      "end": 757.34,
+      "text": "But yeah, I mean, some of these brands, you know, I think it also sets brands like EMI apart."
+    },
+    {
+      "start": 757.5,
+      "end": 759.5,
+      "text": "EMI is doing like real revenue."
+    },
+    {
+      "start": 760.16,
+      "end": 765.76,
+      "text": "They're running a real business versus they're not spending the money the same way they would have maybe three years ago."
+    },
+    {
+      "start": 765.76,
+      "end": 767.34,
+      "text": "I mean, those guys are different."
+    },
+    {
+      "start": 767.6,
+      "end": 769.9,
+      "text": "They never spent a dollar in the beginning anyways."
+    },
+    {
+      "start": 770.66,
+      "end": 771.46,
+      "text": "But generally."
+    },
+    {
+      "start": 771.96,
+      "end": 772.48,
+      "text": "You're right."
+    },
+    {
+      "start": 772.6,
+      "end": 772.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 772.76,
+      "end": 781.76,
+      "text": "These are real businesses with real revenue that have like growth opportunities where they're like, hey, we're thinking they're going to target or we need to expand for some reason or another or need some capital."
+    },
+    {
+      "start": 782.44,
+      "end": 784.6,
+      "text": "They are not, hey, we're starting a business."
+    },
+    {
+      "start": 784.66,
+      "end": 789.22,
+      "text": "We need $2 million to figure out whether or not this consumer brand is going to work."
+    },
+    {
+      "start": 789.36,
+      "end": 791.16,
+      "text": "I see a lot fewer of those decks as well."
+    },
+    {
+      "start": 791.58,
+      "end": 791.98,
+      "text": "Agreed."
+    },
+    {
+      "start": 792.54,
+      "end": 794.42,
+      "text": "But anyway, it was refreshing to see."
+    },
+    {
+      "start": 794.52,
+      "end": 795.48,
+      "text": "I was really glad to see it."
+    },
+    {
+      "start": 795.82,
+      "end": 801.98,
+      "text": "Like, you know, it was an odd time for me to see it because I feel like the markets are so close to fundraising right now or it's so difficult."
+    },
+    {
+      "start": 802.22,
+      "end": 803.56,
+      "text": "Like the stock market is so tough."
+    },
+    {
+      "start": 803.86,
+      "end": 805.08,
+      "text": "Interest rates are so high."
+    },
+    {
+      "start": 805.24,
+      "end": 813.5,
+      "text": "And look, you know, as an investor, the way I think about investing is like, you know, two years ago, if you're sitting on cash, you can do nothing with the cash."
+    },
+    {
+      "start": 813.62,
+      "end": 815.66,
+      "text": "You've got to find a way to invest it to make a return."
+    },
+    {
+      "start": 815.66,
+      "end": 821.82,
+      "text": "Today, you can invest it in a corporate bond or a U.S. Treasury and make 6% or 5.5%."
+    },
+    {
+      "start": 821.82,
+      "end": 824.16,
+      "text": "And that's like a legitimate return."
+    },
+    {
+      "start": 824.42,
+      "end": 826.56,
+      "text": "So you're like, I can make 5.5% here."
+    },
+    {
+      "start": 826.78,
+      "end": 837.58,
+      "text": "Is this investment in IMI or Belly Welly or Tinted or Oats Overnight or this popcorn brand going to do better than my 5% guaranteed return in the U.S. Treasuries?"
+    },
+    {
+      "start": 837.58,
+      "end": 839.92,
+      "text": "And so I was glad to see this."
+    },
+    {
+      "start": 840.08,
+      "end": 841.6,
+      "text": "I hope that we see more of these."
+    },
+    {
+      "start": 842.08,
+      "end": 844.18,
+      "text": "I'm not confident we will, but I hope we see more."
+    },
+    {
+      "start": 844.88,
+      "end": 846.62,
+      "text": "But okay, let's move on."
+    },
+    {
+      "start": 846.68,
+      "end": 848.14,
+      "text": "I want to talk about Warby Parker earnings."
+    },
+    {
+      "start": 848.32,
+      "end": 849.38,
+      "text": "You said you had taken a look at those."
+    },
+    {
+      "start": 849.48,
+      "end": 850.36,
+      "text": "Would love to get your thoughts."
+    },
+    {
+      "start": 850.44,
+      "end": 851.38,
+      "text": "I haven't done a good job of that."
+    },
+    {
+      "start": 852.04,
+      "end": 856.9,
+      "text": "I'll give you a quick rundown of all the things that I think were interesting in the earnings report."
+    },
+    {
+      "start": 857.62,
+      "end": 860.58,
+      "text": "So as we know, Warby Parker, they have frames."
+    },
+    {
+      "start": 860.72,
+      "end": 861.54,
+      "text": "I'm wearing these right now."
+    },
+    {
+      "start": 861.7,
+      "end": 863.44,
+      "text": "Warby Parker, fresh pair."
+    },
+    {
+      "start": 864.3,
+      "end": 865.16,
+      "text": "Frames are $95."
+    },
+    {
+      "start": 865.8,
+      "end": 867.64,
+      "text": "The most it gets to is like $120."
+    },
+    {
+      "start": 868.18,
+      "end": 869.74,
+      "text": "You get them within two weeks."
+    },
+    {
+      "start": 869.9,
+      "end": 870.8,
+      "text": "They do the whole eye test."
+    },
+    {
+      "start": 870.9,
+      "end": 871.38,
+      "text": "They do everything."
+    },
+    {
+      "start": 871.64,
+      "end": 875.44,
+      "text": "So in 2020, they did $393 million."
+    },
+    {
+      "start": 875.9,
+      "end": 881.9,
+      "text": "In 2021, they grew a ton, about 37%, to $541 million."
+    },
+    {
+      "start": 882.46,
+      "end": 885.48,
+      "text": "Last year, they did $598 million."
+    },
+    {
+      "start": 885.72,
+      "end": 887.1,
+      "text": "So they only grew 10%."
+    },
+    {
+      "start": 887.68,
+      "end": 894.04,
+      "text": "Their EBITDA was $3 million more, went from $25 to $25 to $27."
+    },
+    {
+      "start": 894.04,
+      "end": 896.5,
+      "text": "Yeah, they're adjusted EBITDA, to be clear."
+    },
+    {
+      "start": 896.68,
+      "end": 897.44,
+      "text": "They're adjusted EBITDA."
+    },
+    {
+      "start": 897.66,
+      "end": 900.26,
+      "text": "I think actual EBITDA is negative, probably."
+    },
+    {
+      "start": 901.06,
+      "end": 901.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 901.94,
+      "end": 906.78,
+      "text": "The active customers grew not by a ton, about 4%."
+    },
+    {
+      "start": 906.78,
+      "end": 908.98,
+      "text": "But all right, so some cool stuff."
+    },
+    {
+      "start": 909.24,
+      "end": 916.32,
+      "text": "So their marketing spend went down, they said, 41%, from $29.6 million to $17.6 million."
+    },
+    {
+      "start": 916.32,
+      "end": 921.74,
+      "text": "Keep in mind, at the same time, they still had top-line growth, as well as customer growth."
+    },
+    {
+      "start": 922.36,
+      "end": 924.52,
+      "text": "Can you repeat those marketing numbers one more time?"
+    },
+    {
+      "start": 924.92,
+      "end": 927.74,
+      "text": "Yeah, 29.6 to $17.6."
+    },
+    {
+      "start": 928.48,
+      "end": 932.06,
+      "text": "That blows my mind that their marketing spend is $17.6 million."
+    },
+    {
+      "start": 932.68,
+      "end": 936.64,
+      "text": "So $1.5 million a month on marketing spend."
+    },
+    {
+      "start": 936.86,
+      "end": 938,
+      "text": "Oh, this is in Q4."
+    },
+    {
+      "start": 938.14,
+      "end": 939.38,
+      "text": "Oh, just in Q4, sorry."
+    },
+    {
+      "start": 939.54,
+      "end": 940.6,
+      "text": "Okay, Q4 marketing spend."
+    },
+    {
+      "start": 940.72,
+      "end": 941.56,
+      "text": "Okay, $17 million."
+    },
+    {
+      "start": 941.56,
+      "end": 944.3,
+      "text": "Okay, so $5 million a month or so."
+    },
+    {
+      "start": 944.4,
+      "end": 945.84,
+      "text": "So $60 million, $70 million."
+    },
+    {
+      "start": 945.96,
+      "end": 946.52,
+      "text": "Okay, gotcha."
+    },
+    {
+      "start": 946.62,
+      "end": 947.88,
+      "text": "That doesn't seem crazy."
+    },
+    {
+      "start": 948.38,
+      "end": 955.14,
+      "text": "Also, e-commerce represented a lesser piece of the entire pie in terms of the total business."
+    },
+    {
+      "start": 955.56,
+      "end": 958.22,
+      "text": "So in 2021, it represented 41%."
+    },
+    {
+      "start": 958.22,
+      "end": 960.42,
+      "text": "In 2022, it represented 37%."
+    },
+    {
+      "start": 961.28,
+      "end": 971.04,
+      "text": "In 2022, the stores that were open for more than 12 months generated at least $2.1 million in revenue, which is a pretty solid stat."
+    },
+    {
+      "start": 971.74,
+      "end": 973.82,
+      "text": "Their overall NPS score is 80."
+    },
+    {
+      "start": 974.76,
+      "end": 978.74,
+      "text": "Let's break down a few of these things, and I'm going to do it live because I haven't really digested this information."
+    },
+    {
+      "start": 978.92,
+      "end": 982.48,
+      "text": "So on average, let's say a store is doing $2.1 million in revenue."
+    },
+    {
+      "start": 982.48,
+      "end": 989.3,
+      "text": "That means $175,000 in sales a month at a store, which means $5,800 a day."
+    },
+    {
+      "start": 989.58,
+      "end": 994.2,
+      "text": "First, that does not seem like a lot, especially because when I go in for an eye exam, it costs $200."
+    },
+    {
+      "start": 994.64,
+      "end": 998.82,
+      "text": "But I think that eye exam may be done by an independent optician, so that doesn't count."
+    },
+    {
+      "start": 999.08,
+      "end": 1001.36,
+      "text": "But we're talking about $5,800 a day."
+    },
+    {
+      "start": 1001.56,
+      "end": 1005.84,
+      "text": "Let's say their average order is $120, or let's say it's $100, okay?"
+    },
+    {
+      "start": 1006,
+      "end": 1008.24,
+      "text": "We're talking about 58 sales a day."
+    },
+    {
+      "start": 1009.12,
+      "end": 1011.4,
+      "text": "That doesn't seem like that much, does it?"
+    },
+    {
+      "start": 1011.52,
+      "end": 1013.1,
+      "text": "Like 58 people going to a Warby Parker store?"
+    },
+    {
+      "start": 1013.1,
+      "end": 1013.48,
+      "text": "Yeah, 58 sales."
+    },
+    {
+      "start": 1013.82,
+      "end": 1014.5,
+      "text": "There was..."
+    },
+    {
+      "start": 1014.5,
+      "end": 1017.74,
+      "text": "Last one I went to, there was about three sales associates there."
+    },
+    {
+      "start": 1017.98,
+      "end": 1021.7,
+      "text": "So that's like 19 sales a day per person."
+    },
+    {
+      "start": 1022.56,
+      "end": 1023.44,
+      "text": "It's not a lot."
+    },
+    {
+      "start": 1024.1,
+      "end": 1025.2,
+      "text": "It's like two an hour."
+    },
+    {
+      "start": 1025.46,
+      "end": 1026.28,
+      "text": "That doesn't seem that much."
+    },
+    {
+      "start": 1026.28,
+      "end": 1029.14,
+      "text": "I mean, my process did take probably about 30 minutes."
+    },
+    {
+      "start": 1029.26,
+      "end": 1031.18,
+      "text": "So two an hour does sound kind of right."
+    },
+    {
+      "start": 1031.78,
+      "end": 1033.62,
+      "text": "If you have like an eight-hour day, you mean?"
+    },
+    {
+      "start": 1033.76,
+      "end": 1035.86,
+      "text": "But they're probably open for more than eight hours."
+    },
+    {
+      "start": 1036.04,
+      "end": 1036.84,
+      "text": "Maybe they're not."
+    },
+    {
+      "start": 1036.96,
+      "end": 1037.88,
+      "text": "Maybe like nine to six."
+    },
+    {
+      "start": 1037.88,
+      "end": 1040.06,
+      "text": "I thought they'd go a little bit later, but..."
+    },
+    {
+      "start": 1040.06,
+      "end": 1041.64,
+      "text": "Let's see, they're 10 to eight."
+    },
+    {
+      "start": 1041.88,
+      "end": 1043.28,
+      "text": "So 11 hours, actually."
+    },
+    {
+      "start": 1043.78,
+      "end": 1043.96,
+      "text": "Yeah."
+    },
+    {
+      "start": 1044.3,
+      "end": 1046.94,
+      "text": "That's like not as much as you'd think, like 2.1 hours."
+    },
+    {
+      "start": 1047.34,
+      "end": 1051.12,
+      "text": "What's always crazy to me, and I think we should do the same research for all birds,"
+    },
+    {
+      "start": 1052,
+      "end": 1054.62,
+      "text": "is how brick-and-mortar stores scale."
+    },
+    {
+      "start": 1055.26,
+      "end": 1058.42,
+      "text": "You don't need a fortune in revenue to support their existence."
+    },
+    {
+      "start": 1058.74,
+      "end": 1060.46,
+      "text": "Like you need to be able to pay rent and employees,"
+    },
+    {
+      "start": 1060.78,
+      "end": 1063.54,
+      "text": "but you generally don't have marketing costs for a brick-and-mortar store."
+    },
+    {
+      "start": 1063.7,
+      "end": 1065.22,
+      "text": "So you're like, okay, I had some CapEx."
+    },
+    {
+      "start": 1065.22,
+      "end": 1069.04,
+      "text": "I put on some rent every month and some employees every month, and then it pays for itself."
+    },
+    {
+      "start": 1069.22,
+      "end": 1073.62,
+      "text": "So these guys are doing $2.1 million in stores with 35% margins."
+    },
+    {
+      "start": 1073.76,
+      "end": 1074.56,
+      "text": "That's pretty bananas."
+    },
+    {
+      "start": 1075.5,
+      "end": 1076.54,
+      "text": "Yeah, per store."
+    },
+    {
+      "start": 1077.28,
+      "end": 1078.16,
+      "text": "That is crazy."
+    },
+    {
+      "start": 1078.34,
+      "end": 1086.64,
+      "text": "Also, the fact that e-commerce is now 37% of their revenue is like, okay, so in stores is where they're going to be generating the majority of their revenue."
+    },
+    {
+      "start": 1087.2,
+      "end": 1090.18,
+      "text": "And by the end of 2022, they had 200 stores."
+    },
+    {
+      "start": 1090.82,
+      "end": 1093.08,
+      "text": "And in 2022, they opened up 40 stores."
+    },
+    {
+      "start": 1093.34,
+      "end": 1096.58,
+      "text": "I wonder how many – like they're basically going to be –"
+    },
+    {
+      "start": 1096.58,
+      "end": 1099.8,
+      "text": "Dollar General is a bad example because Dollar – I'm not sure if this is the right brand,"
+    },
+    {
+      "start": 1099.92,
+      "end": 1101.74,
+      "text": "but Dollar General to Luxottica."
+    },
+    {
+      "start": 1101.92,
+      "end": 1106.08,
+      "text": "Like Dollar General of Pearl Vision and LensCrafters and all those places that used to charge $700."
+    },
+    {
+      "start": 1106.38,
+      "end": 1110.12,
+      "text": "They're like, hey, we're going to be Dollar General – like the dollar store version of this."
+    },
+    {
+      "start": 1110.2,
+      "end": 1111.36,
+      "text": "I think Costco is the right model."
+    },
+    {
+      "start": 1111.48,
+      "end": 1113.78,
+      "text": "They're like, we're going to be the Costco for eyeglasses."
+    },
+    {
+      "start": 1113.78,
+      "end": 1116.52,
+      "text": "They're the Trader Joe's because they own the entire process."
+    },
+    {
+      "start": 1116.78,
+      "end": 1119.12,
+      "text": "Yeah, that is a really good point."
+    },
+    {
+      "start": 1119.58,
+      "end": 1121.22,
+      "text": "I'm a huge fan of Warby Parker."
+    },
+    {
+      "start": 1121.54,
+      "end": 1123.9,
+      "text": "I mean like I used to pay $700 for glasses."
+    },
+    {
+      "start": 1124.12,
+      "end": 1128.16,
+      "text": "Now it's – you're right, $150 because I've got to get like the thin and light lenses."
+    },
+    {
+      "start": 1128.54,
+      "end": 1130.14,
+      "text": "And they're great."
+    },
+    {
+      "start": 1130.26,
+      "end": 1131.04,
+      "text": "I really like them."
+    },
+    {
+      "start": 1131.42,
+      "end": 1137.34,
+      "text": "The other thing that I appreciated was I went to Costco first just to see what frames they had."
+    },
+    {
+      "start": 1137.84,
+      "end": 1143.56,
+      "text": "And I didn't have my prescription on a piece of paper, like printed out, signed by the doctor because, you know,"
+    },
+    {
+      "start": 1143.78,
+      "end": 1144.62,
+      "text": "why would anybody?"
+    },
+    {
+      "start": 1145.14,
+      "end": 1147.24,
+      "text": "And they wouldn't accept it any other way."
+    },
+    {
+      "start": 1147.32,
+      "end": 1150.6,
+      "text": "Whereas Warby, you know, I just told them the numbers and they plugged it in."
+    },
+    {
+      "start": 1151.06,
+      "end": 1151.46,
+      "text": "Okay."
+    },
+    {
+      "start": 1151.76,
+      "end": 1159.54,
+      "text": "Well, there was a long time ago, but basically before you were born, there was an issue with Hubble Contacts doing this,"
+    },
+    {
+      "start": 1159.74,
+      "end": 1165.8,
+      "text": "where Hubble Contacts got in trouble because they were sending out contact lenses to people before they had verified a subscription."
+    },
+    {
+      "start": 1166,
+      "end": 1168.02,
+      "text": "And apparently it's the law that you verify a subscription."
+    },
+    {
+      "start": 1168.3,
+      "end": 1168.52,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 1168.52,
+      "end": 1168.54,
+      "text": "Yeah."
+    },
+    {
+      "start": 1168.78,
+      "end": 1170.4,
+      "text": "Well, they did take a photo of my phone."
+    },
+    {
+      "start": 1170.82,
+      "end": 1171.04,
+      "text": "Okay."
+    },
+    {
+      "start": 1171.12,
+      "end": 1171.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 1171.42,
+      "end": 1175.76,
+      "text": "It was such a – like, you know, first, I'm not sure why you need to verify a subscription."
+    },
+    {
+      "start": 1176.04,
+      "end": 1177.42,
+      "text": "I'm sorry, a prescription."
+    },
+    {
+      "start": 1178,
+      "end": 1178.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 1178.2,
+      "end": 1178.94,
+      "text": "Like, who's that going to hurt?"
+    },
+    {
+      "start": 1179.34,
+      "end": 1179.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1179.7,
+      "end": 1180.28,
+      "text": "What am I going to do?"
+    },
+    {
+      "start": 1180.32,
+      "end": 1183.32,
+      "text": "I'm getting long contact lenses and selling them to the black market."
+    },
+    {
+      "start": 1183.44,
+      "end": 1185.52,
+      "text": "Hey, guys, I've got negative 2.75."
+    },
+    {
+      "start": 1185.78,
+      "end": 1186.92,
+      "text": "Who wants some right now?"
+    },
+    {
+      "start": 1187.02,
+      "end": 1187.2,
+      "text": "Right."
+    },
+    {
+      "start": 1187.4,
+      "end": 1187.68,
+      "text": "Right."
+    },
+    {
+      "start": 1187.68,
+      "end": 1199.78,
+      "text": "You know, it's just like the American Optometry Association or one of these fucking industry groups lobbying government officials to make sure that they pad – their pockets are padded so that Hubble Contacts can't come in and do this."
+    },
+    {
+      "start": 1199.92,
+      "end": 1201.66,
+      "text": "The same thing happened with, like, Smile Direct Club."
+    },
+    {
+      "start": 1201.76,
+      "end": 1209.38,
+      "text": "When Smile Direct Club was starting to do Invisalign, the Invisalign people who just went off patent, like the orthodontists or whoever they were, were like, hey, you can't do this on the internet."
+    },
+    {
+      "start": 1209.74,
+      "end": 1211.62,
+      "text": "A doctor needs to examine everything."
+    },
+    {
+      "start": 1212.08,
+      "end": 1212.44,
+      "text": "Why?"
+    },
+    {
+      "start": 1212.62,
+      "end": 1214.22,
+      "text": "Because I went to medical school for four years."
+    },
+    {
+      "start": 1214.3,
+      "end": 1214.76,
+      "text": "That's why."
+    },
+    {
+      "start": 1214.76,
+      "end": 1219.28,
+      "text": "So that was happening to Hubble Contacts, and I remember that somebody did a hit job on them."
+    },
+    {
+      "start": 1219.36,
+      "end": 1221.38,
+      "text": "I forgot what news organization it was."
+    },
+    {
+      "start": 1222.14,
+      "end": 1226,
+      "text": "You know, I read it, and I was like, okay, these guys didn't verify contacts prescription."
+    },
+    {
+      "start": 1226.22,
+      "end": 1227.12,
+      "text": "It's not that big of a deal."
+    },
+    {
+      "start": 1227.34,
+      "end": 1229.9,
+      "text": "But, yeah, you can get in trouble for that."
+    },
+    {
+      "start": 1230.42,
+      "end": 1232.46,
+      "text": "Well, super interesting stuff about Warby Parker."
+    },
+    {
+      "start": 1232.64,
+      "end": 1233.76,
+      "text": "I'm a big fan of the brand."
+    },
+    {
+      "start": 1233.76,
+      "end": 1234.68,
+      "text": "I've always loved it."
+    },
+    {
+      "start": 1234.74,
+      "end": 1240.16,
+      "text": "And I think it's like, you know, everyone says, oh, we're disrupting this industry, and nobody's disrupting any industry."
+    },
+    {
+      "start": 1240.16,
+      "end": 1244.64,
+      "text": "We're just selling like, you know, not substitute goods, but what we think are better goods."
+    },
+    {
+      "start": 1244.9,
+      "end": 1251.1,
+      "text": "Warby Parker, I think, genuinely disrupted an industry because they changed the way that you buy glasses and fundamentally changed the price."
+    },
+    {
+      "start": 1251.2,
+      "end": 1252.32,
+      "text": "Like, they made them way more affordable."
+    },
+    {
+      "start": 1252.54,
+      "end": 1258.9,
+      "text": "If you're a poor kid that's, you know, 12 years old and trying to buy a pair of glasses, it was not fun for your parents to have to spend $500."
+    },
+    {
+      "start": 1259.48,
+      "end": 1262.94,
+      "text": "Now your parents can spend, you know, $100, and it's so much more reasonable."
+    },
+    {
+      "start": 1263.18,
+      "end": 1264.28,
+      "text": "I really love their mission."
+    },
+    {
+      "start": 1264.88,
+      "end": 1265.32,
+      "text": "Totally."
+    },
+    {
+      "start": 1266.66,
+      "end": 1271.7,
+      "text": "Okay, so we know retention is the yin to the yang of acquisition."
+    },
+    {
+      "start": 1272.4,
+      "end": 1276.5,
+      "text": "And we know about email, we know about SMS, we know about all these other channels."
+    },
+    {
+      "start": 1276.7,
+      "end": 1280.54,
+      "text": "But one thing I think we don't talk about a lot is push notifications and mobile apps."
+    },
+    {
+      "start": 1280.92,
+      "end": 1282.78,
+      "text": "And this is where Tapcart comes in."
+    },
+    {
+      "start": 1283.08,
+      "end": 1291.18,
+      "text": "If you saw the Shopify Editions update that just came out, they talked a ton about their app, Shop, which is doing a ton for merchants."
+    },
+    {
+      "start": 1291.36,
+      "end": 1292.62,
+      "text": "They're seeing higher AOVs."
+    },
+    {
+      "start": 1292.72,
+      "end": 1293.92,
+      "text": "They're seeing higher conversion rates."
+    },
+    {
+      "start": 1293.92,
+      "end": 1298.44,
+      "text": "And we've actually seen the same with our clients who use a Tapcart app."
+    },
+    {
+      "start": 1298.62,
+      "end": 1300.98,
+      "text": "The beauty is you can't even tell it's built by Tapcart."
+    },
+    {
+      "start": 1301.12,
+      "end": 1302.74,
+      "text": "The Tapcart essentially is the CMS."
+    },
+    {
+      "start": 1302.96,
+      "end": 1304.4,
+      "text": "It's the Shopify of the mobile app."
+    },
+    {
+      "start": 1304.96,
+      "end": 1306.28,
+      "text": "They build it in Tapcart."
+    },
+    {
+      "start": 1306.46,
+      "end": 1307.32,
+      "text": "They get it live."
+    },
+    {
+      "start": 1307.44,
+      "end": 1311.34,
+      "text": "And they can start sending traffic either through their email list, on their site."
+    },
+    {
+      "start": 1311.46,
+      "end": 1315.62,
+      "text": "There's a little pop-up that says, you know, open the app versus looking at it on the site."
+    },
+    {
+      "start": 1316.12,
+      "end": 1321.26,
+      "text": "And it's been pretty amazing to see how special customers feel in their mobile app."
+    },
+    {
+      "start": 1321.74,
+      "end": 1322.84,
+      "text": "You know, they get push notifications."
+    },
+    {
+      "start": 1322.84,
+      "end": 1325.76,
+      "text": "They get customized notifications based on when they last bought."
+    },
+    {
+      "start": 1325.94,
+      "end": 1329.96,
+      "text": "So if you're buying, you know, if I bought native deodorant and I'm, you know, 40 days out,"
+    },
+    {
+      "start": 1330.14,
+      "end": 1333.44,
+      "text": "I'll get a push notification that says, hey, you're probably running out."
+    },
+    {
+      "start": 1333.66,
+      "end": 1335.38,
+      "text": "Click here, you know, get a discount or whatever."
+    },
+    {
+      "start": 1335.66,
+      "end": 1336.64,
+      "text": "Click here to buy real quick."
+    },
+    {
+      "start": 1337.06,
+      "end": 1340.28,
+      "text": "I think it's something that our limited supply listeners should check out."
+    },
+    {
+      "start": 1340.38,
+      "end": 1344.46,
+      "text": "And they can actually get two months free at tapcart.com slash limited."
+    },
+    {
+      "start": 1344.7,
+      "end": 1345.58,
+      "text": "So check it out."
+    },
+    {
+      "start": 1345.82,
+      "end": 1346.32,
+      "text": "Build an app."
+    },
+    {
+      "start": 1346.5,
+      "end": 1347.16,
+      "text": "Send it to us."
+    },
+    {
+      "start": 1347.32,
+      "end": 1348.16,
+      "text": "We'll review it."
+    },
+    {
+      "start": 1348.54,
+      "end": 1349.64,
+      "text": "DM it to me or Moyes."
+    },
+    {
+      "start": 1349.64,
+      "end": 1351.98,
+      "text": "And we'll see you on the other side."
+    },
+    {
+      "start": 1353.72,
+      "end": 1355.34,
+      "text": "Let's talk about this Jugnew thing."
+    },
+    {
+      "start": 1355.52,
+      "end": 1355.62,
+      "text": "Okay."
+    },
+    {
+      "start": 1356.24,
+      "end": 1360.72,
+      "text": "Jugnew, I don't know how I really got hooked up with these guys, but it's basically this"
+    },
+    {
+      "start": 1360.72,
+      "end": 1365.98,
+      "text": "company in India that has a bunch of apps that are ready to go."
+    },
+    {
+      "start": 1366.48,
+      "end": 1370.74,
+      "text": "It's not like, you know, tapcart where it's got like e-commerce apps that it's going to do"
+    },
+    {
+      "start": 1370.74,
+      "end": 1370.94,
+      "text": "something."
+    },
+    {
+      "start": 1370.94,
+      "end": 1376.34,
+      "text": "It really has like right now, like Uber and food delivery and bike rental apps and like"
+    },
+    {
+      "start": 1376.34,
+      "end": 1379.26,
+      "text": "airport transfer software or bus riding software."
+    },
+    {
+      "start": 1379.4,
+      "end": 1380.5,
+      "text": "So it's got all of these apps."
+    },
+    {
+      "start": 1380.54,
+      "end": 1383.9,
+      "text": "And they're like, look, we've built out the entire app, both from a consumer perspective"
+    },
+    {
+      "start": 1383.9,
+      "end": 1385.2,
+      "text": "and a business perspective."
+    },
+    {
+      "start": 1385.48,
+      "end": 1387.78,
+      "text": "And so like, let's say you want to go launch an Uber competitor."
+    },
+    {
+      "start": 1388.36,
+      "end": 1388.54,
+      "text": "Great."
+    },
+    {
+      "start": 1388.66,
+      "end": 1389.74,
+      "text": "It'll be $5,000."
+    },
+    {
+      "start": 1389.8,
+      "end": 1391.4,
+      "text": "We have everything ready to go."
+    },
+    {
+      "start": 1391.66,
+      "end": 1394.54,
+      "text": "We're going to put the skin that you want on it and you'll have your app."
+    },
+    {
+      "start": 1394.68,
+      "end": 1396.52,
+      "text": "It's all coded and ready to go today."
+    },
+    {
+      "start": 1396.84,
+      "end": 1397.68,
+      "text": "We can have it going."
+    },
+    {
+      "start": 1398.04,
+      "end": 1398.84,
+      "text": "You know, today's Tuesday."
+    },
+    {
+      "start": 1399.02,
+      "end": 1399.72,
+      "text": "We're recording on Tuesday."
+    },
+    {
+      "start": 1399.72,
+      "end": 1400.86,
+      "text": "We can have it to you by Friday."
+    },
+    {
+      "start": 1402.5,
+      "end": 1405.68,
+      "text": "First of all, did you talk to them over Zoom or Skype?"
+    },
+    {
+      "start": 1411.4,
+      "end": 1413.22,
+      "text": "It wasn't me, but I kid you not."
+    },
+    {
+      "start": 1413.34,
+      "end": 1419.58,
+      "text": "One of my friends talked to them and the person on the other side at Jugnu started smoking a"
+    },
+    {
+      "start": 1419.58,
+      "end": 1421.12,
+      "text": "cigarette during the conversation."
+    },
+    {
+      "start": 1421.44,
+      "end": 1422.48,
+      "text": "Oh my God."
+    },
+    {
+      "start": 1422.58,
+      "end": 1426.74,
+      "text": "Which is the most Indian thing you could ever do in your entire life."
+    },
+    {
+      "start": 1427.32,
+      "end": 1428.54,
+      "text": "It is so funny."
+    },
+    {
+      "start": 1428.54,
+      "end": 1429.72,
+      "text": "This looks cool."
+    },
+    {
+      "start": 1429.94,
+      "end": 1435.02,
+      "text": "I mean, knowing the, you know, how a lot of the dev shops work in India, they do kind"
+    },
+    {
+      "start": 1435.02,
+      "end": 1435.76,
+      "text": "of work like this."
+    },
+    {
+      "start": 1435.88,
+      "end": 1440.5,
+      "text": "They build these templates and then they go sell crazy amounts of sites or, you know,"
+    },
+    {
+      "start": 1440.6,
+      "end": 1441.22,
+      "text": "apps or whatever."
+    },
+    {
+      "start": 1441.44,
+      "end": 1442.58,
+      "text": "This looks awesome though."
+    },
+    {
+      "start": 1442.88,
+      "end": 1447.32,
+      "text": "I mean, it's basically just like, it's like Canva, but for like starting your own version"
+    },
+    {
+      "start": 1447.32,
+      "end": 1454.02,
+      "text": "of Uber or, you know, delivery dispatch or employee transportation, bus booking, even they have"
+    },
+    {
+      "start": 1454.02,
+      "end": 1455.7,
+      "text": "like a bike rental app."
+    },
+    {
+      "start": 1455.88,
+      "end": 1458.82,
+      "text": "You can just download and set up a bike rental shop."
+    },
+    {
+      "start": 1459.08,
+      "end": 1459.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 1459.52,
+      "end": 1463.74,
+      "text": "It's almost like Shopify for other verticals, which I thought was really interesting."
+    },
+    {
+      "start": 1463.74,
+      "end": 1467.48,
+      "text": "And it actually got me into thinking like, why is no one doing this for Shopify?"
+    },
+    {
+      "start": 1468.14,
+      "end": 1472.6,
+      "text": "And I realized that Shopify exists, but like if you're a larger store or you want like a"
+    },
+    {
+      "start": 1472.6,
+      "end": 1477.64,
+      "text": "little bit more customization than like, you know, regular Shopify store offers, I'm surprised"
+    },
+    {
+      "start": 1477.64,
+      "end": 1481.12,
+      "text": "there isn't somebody who's like, I have an out of box solution for something that's"
+    },
+    {
+      "start": 1481.12,
+      "end": 1486.08,
+      "text": "competitor to Shopify that will offer some of that customization or at least is more"
+    },
+    {
+      "start": 1486.08,
+      "end": 1487.2,
+      "text": "open source than Shopify."
+    },
+    {
+      "start": 1487.2,
+      "end": 1489.04,
+      "text": "I always wondered why that didn't happen."
+    },
+    {
+      "start": 1489.26,
+      "end": 1492.88,
+      "text": "But I saw this and I was like, wow, these people are like, you know, this is really smart."
+    },
+    {
+      "start": 1493.02,
+      "end": 1497.28,
+      "text": "Like, especially 10 years ago when everyone was like, I'm creating a competitor to Uber,"
+    },
+    {
+      "start": 1497.88,
+      "end": 1501.64,
+      "text": "you know, it'd be great to be able to be like, I got this white, like, you know, a white glove"
+    },
+    {
+      "start": 1501.64,
+      "end": 1502.82,
+      "text": "version of this for $5,000."
+    },
+    {
+      "start": 1503.62,
+      "end": 1508.14,
+      "text": "Do you remember when all the scooter companies like Bird and Lime, imagine if they were all just"
+    },
+    {
+      "start": 1508.14,
+      "end": 1509.52,
+      "text": "using, what is it called?"
+    },
+    {
+      "start": 1509.66,
+      "end": 1510.74,
+      "text": "Jugnew in the back."
+    },
+    {
+      "start": 1511.02,
+      "end": 1514.2,
+      "text": "They legitimately might, it would not be shocking to me if they were."
+    },
+    {
+      "start": 1514.5,
+      "end": 1514.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 1515.06,
+      "end": 1516.4,
+      "text": "Because they launched so fast."
+    },
+    {
+      "start": 1516.4,
+      "end": 1520.5,
+      "text": "Like all these fintech companies, all these credit card companies, they all use the same"
+    },
+    {
+      "start": 1520.5,
+      "end": 1524.44,
+      "text": "company, which is Evolve Bank and Trust as their like bank."
+    },
+    {
+      "start": 1524.82,
+      "end": 1525.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 1525.82,
+      "end": 1527.9,
+      "text": "That's the real winner in the entire race."
+    },
+    {
+      "start": 1528.06,
+      "end": 1532.12,
+      "text": "And these guys might end up being the real winner in 10 years when everybody's using"
+    },
+    {
+      "start": 1532.12,
+      "end": 1533.74,
+      "text": "Jugnew as their backend."
+    },
+    {
+      "start": 1534.24,
+      "end": 1534.7,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 1534.84,
+      "end": 1538.82,
+      "text": "Because like, you know, if you're a scooter company, I'm not sure, one of the scooter"
+    },
+    {
+      "start": 1538.82,
+      "end": 1542.16,
+      "text": "companies will become a trillionaire or like, you know, a billionaire and all the other"
+    },
+    {
+      "start": 1542.16,
+      "end": 1542.82,
+      "text": "ones will fail."
+    },
+    {
+      "start": 1542.82,
+      "end": 1547.02,
+      "text": "But the guys who will actually make the most money are the guys who are selling the Jugnews"
+    },
+    {
+      "start": 1547.02,
+      "end": 1547.4,
+      "text": "of the world."
+    },
+    {
+      "start": 1547.62,
+      "end": 1548.76,
+      "text": "It's just like Levi."
+    },
+    {
+      "start": 1549.18,
+      "end": 1552.44,
+      "text": "Like, you know, in San Francisco, there was a gold rush."
+    },
+    {
+      "start": 1552.74,
+      "end": 1553.84,
+      "text": "Some people found gold."
+    },
+    {
+      "start": 1554.02,
+      "end": 1554.72,
+      "text": "Most people didn't."
+    },
+    {
+      "start": 1555.06,
+      "end": 1558.94,
+      "text": "The guy who actually made money was Levi, the guy who created jeans for all of these people."
+    },
+    {
+      "start": 1559.66,
+      "end": 1559.98,
+      "text": "Okay."
+    },
+    {
+      "start": 1560.04,
+      "end": 1562.1,
+      "text": "I'm going to give you a piece of trivia and we're going to come back to it at the end."
+    },
+    {
+      "start": 1562.2,
+      "end": 1565.4,
+      "text": "Do you know what the biggest Magento store is?"
+    },
+    {
+      "start": 1566.02,
+      "end": 1568.44,
+      "text": "I think it's in the world, but certainly in the United States."
+    },
+    {
+      "start": 1568.86,
+      "end": 1569.2,
+      "text": "No."
+    },
+    {
+      "start": 1569.44,
+      "end": 1570.34,
+      "text": "The only business."
+    },
+    {
+      "start": 1570.56,
+      "end": 1570.72,
+      "text": "Okay."
+    },
+    {
+      "start": 1570.84,
+      "end": 1574.92,
+      "text": "We'll come back to it at the end in case other people have thoughts."
+    },
+    {
+      "start": 1575.14,
+      "end": 1575.98,
+      "text": "And you know what?"
+    },
+    {
+      "start": 1576.12,
+      "end": 1577.58,
+      "text": "Yeah, it's still built on Magento."
+    },
+    {
+      "start": 1578.22,
+      "end": 1578.9,
+      "text": "Like 80%."
+    },
+    {
+      "start": 1578.9,
+      "end": 1579.2,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 1579.3,
+      "end": 1580.12,
+      "text": "It's still built on Magento."
+    },
+    {
+      "start": 1580.28,
+      "end": 1580.38,
+      "text": "Okay."
+    },
+    {
+      "start": 1580.44,
+      "end": 1581.02,
+      "text": "We'll come back to it."
+    },
+    {
+      "start": 1581.02,
+      "end": 1583.22,
+      "text": "I'm curious to see if you'll be surprised or not."
+    },
+    {
+      "start": 1583.82,
+      "end": 1584.16,
+      "text": "Okay."
+    },
+    {
+      "start": 1584.3,
+      "end": 1585.38,
+      "text": "Anyway, we went through Jugnew."
+    },
+    {
+      "start": 1585.52,
+      "end": 1587.44,
+      "text": "Anyway, I think this should exist for more industries."
+    },
+    {
+      "start": 1587.52,
+      "end": 1592.1,
+      "text": "And I think that also if you're building an e-commerce business and for some reason Shopify"
+    },
+    {
+      "start": 1592.1,
+      "end": 1594.5,
+      "text": "isn't the right fit, and frankly, it should be the right fit."
+    },
+    {
+      "start": 1594.6,
+      "end": 1597.32,
+      "text": "If it's not, you're probably building something way too complicated."
+    },
+    {
+      "start": 1597.42,
+      "end": 1600.7,
+      "text": "But if it isn't, I bet there's a Jugnew out there that does this."
+    },
+    {
+      "start": 1601.2,
+      "end": 1607.24,
+      "text": "There is a company called Smart Theme, which is like a theme that you subscribe to on top"
+    },
+    {
+      "start": 1607.24,
+      "end": 1613.7,
+      "text": "of Shopify, which has a lot of similar things, like a lot of the apps built in or scripts"
+    },
+    {
+      "start": 1613.7,
+      "end": 1617.18,
+      "text": "ready to go or kind of modules for your product page that you would want to add."
+    },
+    {
+      "start": 1617.76,
+      "end": 1622.5,
+      "text": "But it's still built on top of Shopify, which I think is to anybody's benefit."
+    },
+    {
+      "start": 1622.92,
+      "end": 1624.72,
+      "text": "Yeah, I think that's everyone's benefit as well."
+    },
+    {
+      "start": 1624.84,
+      "end": 1629.14,
+      "text": "And if for some reason you don't want to do that, there will be a Jugnew for e-commerce."
+    },
+    {
+      "start": 1629.28,
+      "end": 1629.9,
+      "text": "I bet there is."
+    },
+    {
+      "start": 1630.02,
+      "end": 1631.5,
+      "text": "And we're going to figure out who it is."
+    },
+    {
+      "start": 1632.08,
+      "end": 1632.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 1632.7,
+      "end": 1632.94,
+      "text": "Okay."
+    },
+    {
+      "start": 1633.16,
+      "end": 1634.8,
+      "text": "There are a couple other things I want to chat about."
+    },
+    {
+      "start": 1634.94,
+      "end": 1637.02,
+      "text": "One is Klaviyo Deliverability."
+    },
+    {
+      "start": 1637.2,
+      "end": 1640.08,
+      "text": "They launched this new feature the last couple of days."
+    },
+    {
+      "start": 1640.26,
+      "end": 1641.34,
+      "text": "I'm not sure if you've seen it yet."
+    },
+    {
+      "start": 1641.52,
+      "end": 1646.06,
+      "text": "I took a screenshot from a store that I work with and I added it on here."
+    },
+    {
+      "start": 1646.06,
+      "end": 1650.92,
+      "text": "And basically, they tell you deliverability by domain, which is so important."
+    },
+    {
+      "start": 1651.18,
+      "end": 1657.22,
+      "text": "Like anytime you got an email audit over the past like five or 10 years, people would audit"
+    },
+    {
+      "start": 1657.22,
+      "end": 1661.38,
+      "text": "you by domain because it turns out that like, you know, Yahoo is pretty favorable and AOL"
+    },
+    {
+      "start": 1661.38,
+      "end": 1666.1,
+      "text": "is really favorable in terms of getting you a high open rate and getting your emails into"
+    },
+    {
+      "start": 1666.1,
+      "end": 1667.04,
+      "text": "the inbox."
+    },
+    {
+      "start": 1667.24,
+      "end": 1669.9,
+      "text": "And Hotmail is notoriously bad at this."
+    },
+    {
+      "start": 1670.56,
+      "end": 1676.3,
+      "text": "Not notoriously bad, but notoriously cautious about how to get people into their inbox,"
+    },
+    {
+      "start": 1676.38,
+      "end": 1678.32,
+      "text": "about who they allow into your inbox."
+    },
+    {
+      "start": 1678.86,
+      "end": 1682.54,
+      "text": "And so Hotmail does a better job, better or worse job, depending on how you look at it,"
+    },
+    {
+      "start": 1682.62,
+      "end": 1686.62,
+      "text": "of making sure that your products don't get into the inbox as compared to Gmail."
+    },
+    {
+      "start": 1686.96,
+      "end": 1690.54,
+      "text": "And so what a lot of businesses will do, and they've done this in the past, is they will"
+    },
+    {
+      "start": 1690.54,
+      "end": 1694.48,
+      "text": "create a separate segment or a separate list of people that have Hotmail."
+    },
+    {
+      "start": 1694.48,
+      "end": 1698.94,
+      "text": "Like their account is moise at hotmail.com instead of moise at gmail.com."
+    },
+    {
+      "start": 1699.32,
+      "end": 1703.6,
+      "text": "And so they'll say, okay, don't, when I'm sending this blast email out, send it out to"
+    },
+    {
+      "start": 1703.6,
+      "end": 1705.32,
+      "text": "everybody that doesn't have a Hotmail account."
+    },
+    {
+      "start": 1705.68,
+      "end": 1710.6,
+      "text": "If your email ends in hot at hotmail.com, what I want you to do is you need to have opened"
+    },
+    {
+      "start": 1710.6,
+      "end": 1712.1,
+      "text": "up an email in the last 30 days."
+    },
+    {
+      "start": 1712.2,
+      "end": 1716.78,
+      "text": "You need to be super active or even opened up an email in the last 25 days as opposed"
+    },
+    {
+      "start": 1716.78,
+      "end": 1718.5,
+      "text": "to the last 75 days with Gmail."
+    },
+    {
+      "start": 1718.78,
+      "end": 1721.86,
+      "text": "Because Gmail is like, okay, this person's still engaged with the brand a little bit."
+    },
+    {
+      "start": 1721.86,
+      "end": 1726.32,
+      "text": "At Hotmail, they're like, this person hasn't engaged with the email in the last 30 days."
+    },
+    {
+      "start": 1726.56,
+      "end": 1726.96,
+      "text": "Forget it."
+    },
+    {
+      "start": 1727.5,
+      "end": 1728.48,
+      "text": "Send this to spam."
+    },
+    {
+      "start": 1728.78,
+      "end": 1733.44,
+      "text": "And so as a brand, as a merchant, I will create a separate segment and a separate email campaign"
+    },
+    {
+      "start": 1733.44,
+      "end": 1735.92,
+      "text": "to send things to Hotmail that I will with Gmail."
+    },
+    {
+      "start": 1736.4,
+      "end": 1739.72,
+      "text": "And so that's been around for some time and people have been doing that for some time."
+    },
+    {
+      "start": 1740.16,
+      "end": 1743.94,
+      "text": "This is a great Klaviyo feature because rather than having to get an email audit, you can sort"
+    },
+    {
+      "start": 1743.94,
+      "end": 1744.8,
+      "text": "of see it right here."
+    },
+    {
+      "start": 1745.56,
+      "end": 1746.66,
+      "text": "What's the advantage there?"
+    },
+    {
+      "start": 1746.66,
+      "end": 1754.76,
+      "text": "So if you separate out your Hotmail domains, then that means that your overall engagement"
+    },
+    {
+      "start": 1754.76,
+      "end": 1760.04,
+      "text": "is up and that favors you even more broadly among email inboxes?"
+    },
+    {
+      "start": 1760.12,
+      "end": 1760.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 1760.36,
+      "end": 1760.94,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 1761.12,
+      "end": 1761.4,
+      "text": "Exactly."
+    },
+    {
+      "start": 1761.6,
+      "end": 1763.54,
+      "text": "So you have a better open rate."
+    },
+    {
+      "start": 1763.74,
+      "end": 1764.74,
+      "text": "You have a less..."
+    },
+    {
+      "start": 1764.74,
+      "end": 1769.24,
+      "text": "Like let's say in Klaviyo, you send out a blast email and 3% of your emails go to spam."
+    },
+    {
+      "start": 1769.46,
+      "end": 1771.42,
+      "text": "You're going to get punished by the email providers."
+    },
+    {
+      "start": 1771.42,
+      "end": 1775.02,
+      "text": "And I'm not sure if you'll get punished by Klaviyo itself, but definitely by the email service"
+    },
+    {
+      "start": 1775.02,
+      "end": 1775.46,
+      "text": "providers."
+    },
+    {
+      "start": 1775.92,
+      "end": 1779.82,
+      "text": "If you have a higher open rate, those email service providers will say, hey, don't send"
+    },
+    {
+      "start": 1779.82,
+      "end": 1780.4,
+      "text": "this to spam."
+    },
+    {
+      "start": 1780.52,
+      "end": 1783.66,
+      "text": "This guy has a very high open rate and a very low spam rate."
+    },
+    {
+      "start": 1784.08,
+      "end": 1785.2,
+      "text": "Maybe it's not high open rate."
+    },
+    {
+      "start": 1785.3,
+      "end": 1786.12,
+      "text": "That's not how they look at it."
+    },
+    {
+      "start": 1786.18,
+      "end": 1787.62,
+      "text": "But spam rate is what they look like."
+    },
+    {
+      "start": 1787.8,
+      "end": 1788.4,
+      "text": "For sure."
+    },
+    {
+      "start": 1788.6,
+      "end": 1788.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 1788.78,
+      "end": 1789.48,
+      "text": "I think spam rate."
+    },
+    {
+      "start": 1790.4,
+      "end": 1790.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 1790.92,
+      "end": 1796.62,
+      "text": "Anyway, so at Hotmail, you're very quickly going to go to spam if your users are not super"
+    },
+    {
+      "start": 1796.62,
+      "end": 1797.1,
+      "text": "engaged."
+    },
+    {
+      "start": 1797.3,
+      "end": 1801.7,
+      "text": "So a lot of brands that I know, a lot of brands that reach a big scale will sort of separate"
+    },
+    {
+      "start": 1801.7,
+      "end": 1806.56,
+      "text": "out their Hotmail segment and email those people separately in order to keep the spam rate low"
+    },
+    {
+      "start": 1806.56,
+      "end": 1809.12,
+      "text": "everywhere and to keep engagement really high everywhere."
+    },
+    {
+      "start": 1809.6,
+      "end": 1810.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 1810.3,
+      "end": 1812.18,
+      "text": "Have you ever just separated all of them out?"
+    },
+    {
+      "start": 1812.4,
+      "end": 1818.46,
+      "text": "AOL, Yahoo, Hotmail, Gmail, just to see if you can game the individual engagement rates?"
+    },
+    {
+      "start": 1818.46,
+      "end": 1819.94,
+      "text": "I have not done that."
+    },
+    {
+      "start": 1820.14,
+      "end": 1823.92,
+      "text": "I bet it's a worthwhile proposition if you have a million people on your email list because"
+    },
+    {
+      "start": 1823.92,
+      "end": 1825.94,
+      "text": "then you're making real changes."
+    },
+    {
+      "start": 1826.38,
+      "end": 1827.06,
+      "text": "It's real."
+    },
+    {
+      "start": 1827.72,
+      "end": 1831.76,
+      "text": "If you have only 10,000 people on your email list, it's not worth doing this."
+    },
+    {
+      "start": 1831.96,
+      "end": 1834.34,
+      "text": "But if you have a million people, it's worth doing this."
+    },
+    {
+      "start": 1834.5,
+      "end": 1839.14,
+      "text": "Or if you're buying an old email list and trying to rewarm it up, I bet it's worth doing this"
+    },
+    {
+      "start": 1839.14,
+      "end": 1839.5,
+      "text": "as well."
+    },
+    {
+      "start": 1839.76,
+      "end": 1840.16,
+      "text": "100%."
+    },
+    {
+      "start": 1840.16,
+      "end": 1841.16,
+      "text": "Have you ever done that?"
+    },
+    {
+      "start": 1841.28,
+      "end": 1842.6,
+      "text": "Bought a big email list?"
+    },
+    {
+      "start": 1843.22,
+      "end": 1846.84,
+      "text": "I have never bought an email list, but I do want to talk about that."
+    },
+    {
+      "start": 1846.84,
+      "end": 1849.8,
+      "text": "But yeah, first, what do you think about this stuff?"
+    },
+    {
+      "start": 1849.9,
+      "end": 1850.64,
+      "text": "Have you done that?"
+    },
+    {
+      "start": 1850.74,
+      "end": 1851.86,
+      "text": "Have any of your brands done this?"
+    },
+    {
+      "start": 1851.94,
+      "end": 1853.84,
+      "text": "Or you sort of don't get involved in the email side of things?"
+    },
+    {
+      "start": 1854.46,
+      "end": 1857.1,
+      "text": "We don't really get involved too much on the email side of things."
+    },
+    {
+      "start": 1857.56,
+      "end": 1859.32,
+      "text": "But I have not done this."
+    },
+    {
+      "start": 1859.46,
+      "end": 1861.68,
+      "text": "I have thought about it many times before."
+    },
+    {
+      "start": 1862.14,
+      "end": 1869.62,
+      "text": "The only thing I've thought is, or I always come to conclude is either A, you're just going"
+    },
+    {
+      "start": 1869.62,
+      "end": 1871.2,
+      "text": "to get mass spam reported."
+    },
+    {
+      "start": 1871.76,
+      "end": 1876.04,
+      "text": "B, these people could just be, you could just be buying a list of people who are"
+    },
+    {
+      "start": 1876.04,
+      "end": 1877.72,
+      "text": "never going to buy ever."
+    },
+    {
+      "start": 1878,
+      "end": 1880.7,
+      "text": "And it could just be a bluff that somebody's selling you the list."
+    },
+    {
+      "start": 1881.36,
+      "end": 1888.58,
+      "text": "And then the third one is like, if I were to get a legitimate list from a top tier brand"
+    },
+    {
+      "start": 1888.58,
+      "end": 1893.44,
+      "text": "or a brand that has customers I want to go after, I think the best way to do it would"
+    },
+    {
+      "start": 1893.44,
+      "end": 1898.42,
+      "text": "actually be to figure out how you provide content or value to them."
+    },
+    {
+      "start": 1898.88,
+      "end": 1901.42,
+      "text": "Get the open rate up before you try to sell something."
+    },
+    {
+      "start": 1901.98,
+      "end": 1903.3,
+      "text": "You're not talking about the Klaviyo thing."
+    },
+    {
+      "start": 1903.3,
+      "end": 1904.7,
+      "text": "You're talking about buying an email list."
+    },
+    {
+      "start": 1904.8,
+      "end": 1905.12,
+      "text": "Is that right?"
+    },
+    {
+      "start": 1905.38,
+      "end": 1905.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1905.6,
+      "end": 1906.36,
+      "text": "I just want to make sure I understand."
+    },
+    {
+      "start": 1906.48,
+      "end": 1906.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 1906.74,
+      "end": 1906.88,
+      "text": "Okay."
+    },
+    {
+      "start": 1906.94,
+      "end": 1907.14,
+      "text": "Gotcha."
+    },
+    {
+      "start": 1907.76,
+      "end": 1909.18,
+      "text": "I've got a couple stories around that."
+    },
+    {
+      "start": 1909.36,
+      "end": 1914.18,
+      "text": "One is we at Native early on, we did this, like, you know how you do those email promotions?"
+    },
+    {
+      "start": 1914.26,
+      "end": 1915.1,
+      "text": "This was big."
+    },
+    {
+      "start": 1915.14,
+      "end": 1915.42,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 1915.42,
+      "end": 1919,
+      "text": "This was big, like 10 years ago or five years ago where you're like, I'll send out an email"
+    },
+    {
+      "start": 1919,
+      "end": 1919.62,
+      "text": "to my group."
+    },
+    {
+      "start": 1919.72,
+      "end": 1920.9,
+      "text": "You send out an email to your group."
+    },
+    {
+      "start": 1921.08,
+      "end": 1922.68,
+      "text": "Everyone sends out an email to everyone's group."
+    },
+    {
+      "start": 1922.9,
+      "end": 1928.64,
+      "text": "And then we, like, have one signup form where you win something and you can win a trip to"
+    },
+    {
+      "start": 1928.64,
+      "end": 1929.02,
+      "text": "Hawaii."
+    },
+    {
+      "start": 1929.04,
+      "end": 1932.04,
+      "text": "And everyone will enter their email address and we'll share those email addresses."
+    },
+    {
+      "start": 1932.04,
+      "end": 1936.38,
+      "text": "So I'll send an email out to the Native customer list and I'll say, hey, enter out to win a"
+    },
+    {
+      "start": 1936.38,
+      "end": 1942.02,
+      "text": "trip to Hawaii sponsored by Native and Warby Parker and Cosmo Magazine and a bunch of other"
+    },
+    {
+      "start": 1942.02,
+      "end": 1942.44,
+      "text": "guys."
+    },
+    {
+      "start": 1942.58,
+      "end": 1947.06,
+      "text": "And whoever enters that email list, their email gets distributed to all five guys."
+    },
+    {
+      "start": 1947.74,
+      "end": 1948.14,
+      "text": "Right."
+    },
+    {
+      "start": 1948.26,
+      "end": 1948.82,
+      "text": "I remember that."
+    },
+    {
+      "start": 1949.28,
+      "end": 1949.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1949.54,
+      "end": 1951,
+      "text": "That was big a long time ago."
+    },
+    {
+      "start": 1951.08,
+      "end": 1953.9,
+      "text": "In fact, there was even some software, I forgot what it was called, that helped you"
+    },
+    {
+      "start": 1953.9,
+      "end": 1954.46,
+      "text": "do this."
+    },
+    {
+      "start": 1954.72,
+      "end": 1954.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 1954.94,
+      "end": 1957.9,
+      "text": "Like Viral Loop or Spark Loop or something kind of like that."
+    },
+    {
+      "start": 1958.04,
+      "end": 1960.36,
+      "text": "There was a software that helped you do this and find brands."
+    },
+    {
+      "start": 1960.36,
+      "end": 1963.66,
+      "text": "We did it with Cosmo Magazine once and a couple other guys."
+    },
+    {
+      "start": 1963.76,
+      "end": 1967.44,
+      "text": "And Cosmo Magazine is like, we have 5 million people on our email list and they sent out the"
+    },
+    {
+      "start": 1967.44,
+      "end": 1971.26,
+      "text": "email and they got like three people to opt in and provide their email addresses."
+    },
+    {
+      "start": 1971.48,
+      "end": 1974.56,
+      "text": "And I was like, Cosmo Magazine, you are such a fucking liar."
+    },
+    {
+      "start": 1974.82,
+      "end": 1977.46,
+      "text": "Like, what a ridiculous thing."
+    },
+    {
+      "start": 1977.6,
+      "end": 1980.84,
+      "text": "I was like, who is subscribed to Cosmo Magazine?"
+    },
+    {
+      "start": 1981.02,
+      "end": 1982.06,
+      "text": "But like, you know, I've heard of it."
+    },
+    {
+      "start": 1982.12,
+      "end": 1984.06,
+      "text": "So I thought maybe it was a real thing, but it's not a real thing."
+    },
+    {
+      "start": 1984.08,
+      "end": 1985.08,
+      "text": "It was a complete waste of time."
+    },
+    {
+      "start": 1985.38,
+      "end": 1990.16,
+      "text": "I remember the first one I did, we kind of like pitched up a bit higher."
+    },
+    {
+      "start": 1990.16,
+      "end": 1996.78,
+      "text": "So like, you know, I think everybody, you were required to have something like 10 or 15,000"
+    },
+    {
+      "start": 1996.78,
+      "end": 2000.02,
+      "text": "entries per brand that committed to this."
+    },
+    {
+      "start": 2000.48,
+      "end": 2005.16,
+      "text": "And, you know, I was like, with the list I had, I was like, there's no way we're hitting"
+    },
+    {
+      "start": 2005.16,
+      "end": 2006.32,
+      "text": "10 or 15,000."
+    },
+    {
+      "start": 2006.54,
+      "end": 2012.2,
+      "text": "But I can game this thing where I can actually run, I can build an interest group on Facebook"
+    },
+    {
+      "start": 2012.2,
+      "end": 2013.74,
+      "text": "for people who just want free shit."
+    },
+    {
+      "start": 2013.74,
+      "end": 2016.64,
+      "text": "And I can run Facebook ads to get signups."
+    },
+    {
+      "start": 2016.86,
+      "end": 2018.44,
+      "text": "And that'll hit our thing."
+    },
+    {
+      "start": 2018.6,
+      "end": 2022.46,
+      "text": "And in exchange, I will get access to everybody else's email lists."
+    },
+    {
+      "start": 2022.82,
+      "end": 2024.08,
+      "text": "So I thought it was clever."
+    },
+    {
+      "start": 2024.32,
+      "end": 2025.12,
+      "text": "It worked."
+    },
+    {
+      "start": 2025.14,
+      "end": 2026.94,
+      "text": "And we got in, we got our entries."
+    },
+    {
+      "start": 2027.18,
+      "end": 2032.18,
+      "text": "But then everybody, all the emails that actually came back from everybody else, whether it was"
+    },
+    {
+      "start": 2032.18,
+      "end": 2036.12,
+      "text": "like the skim or something big, the emails were horrible."
+    },
+    {
+      "start": 2036.12,
+      "end": 2041.38,
+      "text": "I think the open rate out of the gate was 16%, which is insanely low for a first email."
+    },
+    {
+      "start": 2042,
+      "end": 2046.78,
+      "text": "I think the sales that were generated from it were nowhere near what you would have to"
+    },
+    {
+      "start": 2046.78,
+      "end": 2049.82,
+      "text": "get to justify, you know, doing all this."
+    },
+    {
+      "start": 2050.52,
+      "end": 2055.42,
+      "text": "There's this guy that I met a long time ago, and he started running these Facebook ads."
+    },
+    {
+      "start": 2055.56,
+      "end": 2057.02,
+      "text": "And he was like free baby carrier."
+    },
+    {
+      "start": 2057.2,
+      "end": 2058.26,
+      "text": "You know what a baby carrier is?"
+    },
+    {
+      "start": 2058.38,
+      "end": 2060.24,
+      "text": "It's like one of those things you strap onto your chest."
+    },
+    {
+      "start": 2060.34,
+      "end": 2063.32,
+      "text": "So you can have your toddler right in front of you or like your baby in front of you,"
+    },
+    {
+      "start": 2063.38,
+      "end": 2064.72,
+      "text": "but you keep your hands for free."
+    },
+    {
+      "start": 2066.12,
+      "end": 2067.52,
+      "text": "Dads, it said free baby carrier."
+    },
+    {
+      "start": 2067.74,
+      "end": 2069.4,
+      "text": "Just pay $19.95 in shipping."
+    },
+    {
+      "start": 2070.28,
+      "end": 2075.22,
+      "text": "He would get people to buy this, and then he would order it from Alibaba and have it"
+    },
+    {
+      "start": 2075.22,
+      "end": 2076.56,
+      "text": "shipped directly to your door."
+    },
+    {
+      "start": 2076.92,
+      "end": 2081.14,
+      "text": "And so once you bought from him, he would go to this site on Alibaba and actually buy it"
+    },
+    {
+      "start": 2081.14,
+      "end": 2082.34,
+      "text": "and have it shipped to your door."
+    },
+    {
+      "start": 2082.48,
+      "end": 2084.58,
+      "text": "So he never even saw this baby carrier."
+    },
+    {
+      "start": 2084.78,
+      "end": 2088.34,
+      "text": "And he's like, you know, my CAC was about $14 on this."
+    },
+    {
+      "start": 2088.46,
+      "end": 2092.42,
+      "text": "And so I was actually making a couple bucks in order when I was doing this like drop shipping"
+    },
+    {
+      "start": 2092.42,
+      "end": 2093.6,
+      "text": "method for a baby carrier."
+    },
+    {
+      "start": 2093.6,
+      "end": 2097.5,
+      "text": "But his customers would complain and be like, why does this have Chinese writing all over"
+    },
+    {
+      "start": 2097.5,
+      "end": 2097.7,
+      "text": "it?"
+    },
+    {
+      "start": 2098.26,
+      "end": 2098.86,
+      "text": "Yeah, it's free."
+    },
+    {
+      "start": 2099.38,
+      "end": 2099.54,
+      "text": "Yeah."
+    },
+    {
+      "start": 2099.86,
+      "end": 2103.44,
+      "text": "And he would be like, he's like, you know, it was a pain in the ass because like initially"
+    },
+    {
+      "start": 2103.44,
+      "end": 2105.24,
+      "text": "he was doing one of these a day or something like that."
+    },
+    {
+      "start": 2105.34,
+      "end": 2106.3,
+      "text": "But then he was doing about 100."
+    },
+    {
+      "start": 2106.58,
+      "end": 2107.92,
+      "text": "And so he'd be 100 times."
+    },
+    {
+      "start": 2108.08,
+      "end": 2111.24,
+      "text": "He'd have to go into this Alibaba website and fill out the shipping information and place"
+    },
+    {
+      "start": 2111.24,
+      "end": 2111.66,
+      "text": "the order."
+    },
+    {
+      "start": 2112.08,
+      "end": 2116.46,
+      "text": "And so finally it got to the point where the Chinese manufacturer was like, hey, just send"
+    },
+    {
+      "start": 2116.46,
+      "end": 2117.52,
+      "text": "us an Excel spreadsheet."
+    },
+    {
+      "start": 2117.66,
+      "end": 2118.68,
+      "text": "We understand what you're doing."
+    },
+    {
+      "start": 2118.78,
+      "end": 2121.72,
+      "text": "Just send us an Excel spreadsheet and we'll send the orders."
+    },
+    {
+      "start": 2121.86,
+      "end": 2124.84,
+      "text": "You don't need to place 100 orders through Alibaba.com."
+    },
+    {
+      "start": 2125.5,
+      "end": 2128.64,
+      "text": "And, you know, he's like, you know, I used to get he's like people would complain and"
+    },
+    {
+      "start": 2128.64,
+      "end": 2130.16,
+      "text": "say, I want to return this baby carrier."
+    },
+    {
+      "start": 2130.32,
+      "end": 2130.76,
+      "text": "I don't like it."
+    },
+    {
+      "start": 2130.84,
+      "end": 2131.96,
+      "text": "It's got Chinese writing on it."
+    },
+    {
+      "start": 2131.96,
+      "end": 2135.74,
+      "text": "And he's like, well, it was free except $19.95 in shipping."
+    },
+    {
+      "start": 2135.74,
+      "end": 2137.02,
+      "text": "So I'm glad to take it back."
+    },
+    {
+      "start": 2137.14,
+      "end": 2138.32,
+      "text": "But you will get zero dollars."
+    },
+    {
+      "start": 2138.62,
+      "end": 2139.6,
+      "text": "Ship it back to us."
+    },
+    {
+      "start": 2139.7,
+      "end": 2140.52,
+      "text": "You will get zero back."
+    },
+    {
+      "start": 2140.8,
+      "end": 2142.18,
+      "text": "You have to pay us to ship it back."
+    },
+    {
+      "start": 2142.36,
+      "end": 2142.8,
+      "text": "Yeah, that's right."
+    },
+    {
+      "start": 2142.94,
+      "end": 2143.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 2143.16,
+      "end": 2144.28,
+      "text": "Just throw it away."
+    },
+    {
+      "start": 2144.56,
+      "end": 2149.42,
+      "text": "And so he's like, you know, he's like ultimately the CAC and the price of the baby carrier"
+    },
+    {
+      "start": 2149.42,
+      "end": 2152.8,
+      "text": "got to sort of like, you know, his cogs and all in got to be pretty even."
+    },
+    {
+      "start": 2153.14,
+      "end": 2155.62,
+      "text": "And so he's like, I really wasn't making any money doing this."
+    },
+    {
+      "start": 2155.72,
+      "end": 2160.1,
+      "text": "But what I was doing is I was collecting an email list of 100,000 new moms who had just"
+    },
+    {
+      "start": 2160.1,
+      "end": 2161.22,
+      "text": "purchased baby carriers."
+    },
+    {
+      "start": 2161.22,
+      "end": 2162.7,
+      "text": "What else could I sell that?"
+    },
+    {
+      "start": 2162.82,
+      "end": 2166.62,
+      "text": "And he's like, this was the way that I launched another baby business or another business for"
+    },
+    {
+      "start": 2166.62,
+      "end": 2172.8,
+      "text": "new moms was collecting email addresses in this really interesting way, which is dropshipping"
+    },
+    {
+      "start": 2172.8,
+      "end": 2174.5,
+      "text": "a product from Alibaba for free."
+    },
+    {
+      "start": 2174.94,
+      "end": 2179.6,
+      "text": "You know, the cost of the baby carrier and the CAC on Facebook equaled the shipping costs"
+    },
+    {
+      "start": 2179.6,
+      "end": 2180.54,
+      "text": "that he charged the customer."
+    },
+    {
+      "start": 2180.78,
+      "end": 2185.14,
+      "text": "And then he's like, I've got 100,000 email addresses and now I can sell them pajamas or"
+    },
+    {
+      "start": 2185.14,
+      "end": 2188.32,
+      "text": "diapers or baby food or for, you know, anything else."
+    },
+    {
+      "start": 2188.32,
+      "end": 2191.78,
+      "text": "And I thought that was a really interesting method of collecting email addresses and that"
+    },
+    {
+      "start": 2191.78,
+      "end": 2192.86,
+      "text": "we're active and warm."
+    },
+    {
+      "start": 2193.34,
+      "end": 2198.64,
+      "text": "I think that's the key is that they are warm in the sense that they gave their credit card."
+    },
+    {
+      "start": 2198.84,
+      "end": 2203.36,
+      "text": "So these are not people getting, you know, just free, free stuff, but they're putting their"
+    },
+    {
+      "start": 2203.36,
+      "end": 2206.02,
+      "text": "credit card in and basically showing intent."
+    },
+    {
+      "start": 2206.22,
+      "end": 2208.04,
+      "text": "That's a super, super great list."
+    },
+    {
+      "start": 2208.68,
+      "end": 2215.82,
+      "text": "This used to be such a common thing among the Alibaba dropshipping bros, like the free plus"
+    },
+    {
+      "start": 2215.82,
+      "end": 2219.7,
+      "text": "shipping model, which is basically buy our product."
+    },
+    {
+      "start": 2219.96,
+      "end": 2223.84,
+      "text": "It's completely free and it's $29 shipping and we're going to ship it."
+    },
+    {
+      "start": 2224.04,
+      "end": 2225.18,
+      "text": "We know we can ship internationally."
+    },
+    {
+      "start": 2225.18,
+      "end": 2226.1,
+      "text": "We can ship anywhere."
+    },
+    {
+      "start": 2226.3,
+      "end": 2230.94,
+      "text": "And it was basically a game of just arbitraging shipping costs versus their CPM."
+    },
+    {
+      "start": 2231.42,
+      "end": 2231.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 2232.02,
+      "end": 2233.46,
+      "text": "I don't think it happens much."
+    },
+    {
+      "start": 2233.64,
+      "end": 2238.14,
+      "text": "I love the term, it's like there's a fraternity of, yeah, we do free plus shipping."
+    },
+    {
+      "start": 2238.58,
+      "end": 2239.12,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 2239.38,
+      "end": 2239.68,
+      "text": "I'm sure."
+    },
+    {
+      "start": 2239.8,
+      "end": 2240.78,
+      "text": "Free plus shipping fraternity."
+    },
+    {
+      "start": 2241.22,
+      "end": 2244.12,
+      "text": "I'm sure Tai Lopez, like, you know, founded that fraternity."
+    },
+    {
+      "start": 2244.42,
+      "end": 2245.32,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 2245.48,
+      "end": 2249.74,
+      "text": "But yeah, no, it's totally Alibaba bros."
+    },
+    {
+      "start": 2249.84,
+      "end": 2250.52,
+      "text": "You know who you are."
+    },
+    {
+      "start": 2250.76,
+      "end": 2251.68,
+      "text": "Yeah, that's funny."
+    },
+    {
+      "start": 2252.34,
+      "end": 2254.18,
+      "text": "There's a couple other things I wanted to mention about this."
+    },
+    {
+      "start": 2254.34,
+      "end": 2257.74,
+      "text": "One is you were talking about buying a terrible list."
+    },
+    {
+      "start": 2257.74,
+      "end": 2262.54,
+      "text": "There was some like a student loan company started by a girl that sold her business to"
+    },
+    {
+      "start": 2262.54,
+      "end": 2263.44,
+      "text": "JPMorgan Chase."
+    },
+    {
+      "start": 2263.7,
+      "end": 2264.18,
+      "text": "Did you see him?"
+    },
+    {
+      "start": 2264.18,
+      "end": 2265.6,
+      "text": "Oh my God, I heard about this."
+    },
+    {
+      "start": 2265.7,
+      "end": 2265.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 2266.14,
+      "end": 2270.54,
+      "text": "You know, they sent an email out to her list and they're like, it has a 2% open rate or"
+    },
+    {
+      "start": 2270.54,
+      "end": 2274.2,
+      "text": "like, you know, after 100,000 emails, four people opened it or something terrible like"
+    },
+    {
+      "start": 2274.2,
+      "end": 2274.4,
+      "text": "that."
+    },
+    {
+      "start": 2274.5,
+      "end": 2275.96,
+      "text": "And they're like, okay, there's a fake list."
+    },
+    {
+      "start": 2276.16,
+      "end": 2277.46,
+      "text": "That kind of stuff does happen."
+    },
+    {
+      "start": 2277.62,
+      "end": 2282.16,
+      "text": "I'm not sure how JPMorgan Chase missed that during diligence, but pretty crazy that that"
+    },
+    {
+      "start": 2282.16,
+      "end": 2282.8,
+      "text": "happens."
+    },
+    {
+      "start": 2283.44,
+      "end": 2285.24,
+      "text": "And the other thing you mentioned is Tai Lopez."
+    },
+    {
+      "start": 2285.24,
+      "end": 2287.62,
+      "text": "I wonder what it was like to rewarm those lists."
+    },
+    {
+      "start": 2287.74,
+      "end": 2291.84,
+      "text": "Like if you bought the list of Radio Shack when you bought Radio Shack's IP or Dress"
+    },
+    {
+      "start": 2291.84,
+      "end": 2296.48,
+      "text": "Barnes IP, I wonder what it's like to rewarm up those lists that sort of had not been active"
+    },
+    {
+      "start": 2296.48,
+      "end": 2297.04,
+      "text": "in so long."
+    },
+    {
+      "start": 2297.54,
+      "end": 2297.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 2298.72,
+      "end": 2302.5,
+      "text": "I don't know what it was like, but I'm curious to like, I'm going to talk, I'm talking to"
+    },
+    {
+      "start": 2302.5,
+      "end": 2305.42,
+      "text": "a company later this week about warming up lists."
+    },
+    {
+      "start": 2305.94,
+      "end": 2309.48,
+      "text": "And I'm going to have some more feedback for you next week about that."
+    },
+    {
+      "start": 2309.48,
+      "end": 2314.6,
+      "text": "There is somebody, you know, Kettle and Fire and Perfect Keto."
+    },
+    {
+      "start": 2314.78,
+      "end": 2319.32,
+      "text": "They did this thing where they basically told their customers, hey, we're going to start"
+    },
+    {
+      "start": 2319.32,
+      "end": 2322.76,
+      "text": "a newsletter, which is going to be full of just value."
+    },
+    {
+      "start": 2322.96,
+      "end": 2326.44,
+      "text": "And we're going to have somebody like a proper doctor write it."
+    },
+    {
+      "start": 2327.16,
+      "end": 2330.5,
+      "text": "And we're going to opt you into it because you're a customer of ours."
+    },
+    {
+      "start": 2330.88,
+      "end": 2334.06,
+      "text": "And if you're not comfortable with that, you can just click here to opt out."
+    },
+    {
+      "start": 2334.06,
+      "end": 2337.92,
+      "text": "And I think something like 70% transferred over."
+    },
+    {
+      "start": 2338.06,
+      "end": 2343.14,
+      "text": "And now they had basically a media property where, you know, I haven't read it in a while,"
+    },
+    {
+      "start": 2343.26,
+      "end": 2347.68,
+      "text": "but, you know, they could sell ads, they could run affiliate stuff, they could pump their own"
+    },
+    {
+      "start": 2347.68,
+      "end": 2348.18,
+      "text": "sales."
+    },
+    {
+      "start": 2348.56,
+      "end": 2349.52,
+      "text": "It's pretty valuable."
+    },
+    {
+      "start": 2349.84,
+      "end": 2351.7,
+      "text": "That's a really interesting idea."
+    },
+    {
+      "start": 2351.94,
+      "end": 2356.92,
+      "text": "I hadn't thought about like, you know, turning the native email list into a personal wellness"
+    },
+    {
+      "start": 2356.92,
+      "end": 2360.74,
+      "text": "list and then being like, okay, now we have this other media property that we sell ads into."
+    },
+    {
+      "start": 2361.52,
+      "end": 2367.24,
+      "text": "One of the people that we talk about in the next episode, he's got a huge list he's built"
+    },
+    {
+      "start": 2367.24,
+      "end": 2368.34,
+      "text": "over the last two years."
+    },
+    {
+      "start": 2368.72,
+      "end": 2375,
+      "text": "And he's basically thinking, how do I take this niche that has not really been served in"
+    },
+    {
+      "start": 2375,
+      "end": 2376.62,
+      "text": "terms of newsletter content?"
+    },
+    {
+      "start": 2377.04,
+      "end": 2382.46,
+      "text": "And how do I build a newsletter around this topic and just try to make it the number one"
+    },
+    {
+      "start": 2382.46,
+      "end": 2384.36,
+      "text": "destination for what I sell?"
+    },
+    {
+      "start": 2384.98,
+      "end": 2386.14,
+      "text": "Which I think is awesome."
+    },
+    {
+      "start": 2386.46,
+      "end": 2387.18,
+      "text": "Yeah, that's awesome."
+    },
+    {
+      "start": 2387.74,
+      "end": 2391.26,
+      "text": "There was one other thing I wanted to talk about before I moved on from Klaviyo."
+    },
+    {
+      "start": 2391.78,
+      "end": 2397.86,
+      "text": "One of my brands ran this A-B test for Klaviyo pop-up and it was post-purchase."
+    },
+    {
+      "start": 2398.24,
+      "end": 2403.64,
+      "text": "And they basically try and get you to put in your phone number and join the SMS subscriber"
+    },
+    {
+      "start": 2403.64,
+      "end": 2404.1,
+      "text": "list."
+    },
+    {
+      "start": 2404.42,
+      "end": 2404.88,
+      "text": "Okay."
+    },
+    {
+      "start": 2405.24,
+      "end": 2410.44,
+      "text": "And the pop-up used to say, give us your phone number to get, you know, deals and to get"
+    },
+    {
+      "start": 2410.44,
+      "end": 2412.82,
+      "text": "exciting new information, all that bullshit about brands."
+    },
+    {
+      "start": 2412.82,
+      "end": 2418.3,
+      "text": "And then they changed the pop-up and in the pop-up they wrote, we will only text you when"
+    },
+    {
+      "start": 2418.3,
+      "end": 2419.44,
+      "text": "we're offering you a discount."
+    },
+    {
+      "start": 2419.5,
+      "end": 2423.6,
+      "text": "We will not text you except if you were going to save money."
+    },
+    {
+      "start": 2423.86,
+      "end": 2427.98,
+      "text": "And the opt-in rate went from something like 17 or 18% to 42%."
+    },
+    {
+      "start": 2429.12,
+      "end": 2429.6,
+      "text": "Wow."
+    },
+    {
+      "start": 2429.82,
+      "end": 2432.32,
+      "text": "And this is all post-purchase or pre-purchase?"
+    },
+    {
+      "start": 2432.34,
+      "end": 2433.24,
+      "text": "This is post-purchase."
+    },
+    {
+      "start": 2433.24,
+      "end": 2437.02,
+      "text": "This is post-purchase pop-up saying, give us your phone number."
+    },
+    {
+      "start": 2437.12,
+      "end": 2440.72,
+      "text": "The only time we text you is when we offer you deals."
+    },
+    {
+      "start": 2441.1,
+      "end": 2444.08,
+      "text": "We don't text you saying spring collection launched."
+    },
+    {
+      "start": 2444.26,
+      "end": 2446.58,
+      "text": "We text you saying spring collection launched, save 10%."
+    },
+    {
+      "start": 2447.06,
+      "end": 2449.16,
+      "text": "Otherwise, you won't get a text message from us."
+    },
+    {
+      "start": 2449.58,
+      "end": 2451.86,
+      "text": "And the hard part about this is you kind of have to honor that."
+    },
+    {
+      "start": 2452.04,
+      "end": 2455.72,
+      "text": "Or like, you know, you can create separate lists and you can say, this list I only text with"
+    },
+    {
+      "start": 2455.72,
+      "end": 2458.46,
+      "text": "discounts and this list I text with everything."
+    },
+    {
+      "start": 2458.46,
+      "end": 2462.64,
+      "text": "Like, you know, if you've got a pre-purchase like landing page pop-up where you collect"
+    },
+    {
+      "start": 2462.64,
+      "end": 2463.78,
+      "text": "email and SMS, great."
+    },
+    {
+      "start": 2463.88,
+      "end": 2464.94,
+      "text": "You can message that guy with anything."
+    },
+    {
+      "start": 2465.08,
+      "end": 2469.82,
+      "text": "But this one is discounts only, has a 42 or 41% opt-in rate."
+    },
+    {
+      "start": 2470.24,
+      "end": 2474.02,
+      "text": "And like, you know, they were running an AB test for it last week."
+    },
+    {
+      "start": 2474.48,
+      "end": 2478.4,
+      "text": "And like, it stopped after a day and a half because it was so clear that which one was"
+    },
+    {
+      "start": 2478.4,
+      "end": 2478.76,
+      "text": "going to win."
+    },
+    {
+      "start": 2478.92,
+      "end": 2481.18,
+      "text": "It was the one that says discounts only."
+    },
+    {
+      "start": 2481.44,
+      "end": 2482.92,
+      "text": "And so people read these things."
+    },
+    {
+      "start": 2483.12,
+      "end": 2486.38,
+      "text": "Like, I thought like, you know, when I see those pop-ups, I barely read them anymore."
+    },
+    {
+      "start": 2486.38,
+      "end": 2488.78,
+      "text": "I'm like, oh, do you want to save money?"
+    },
+    {
+      "start": 2489.04,
+      "end": 2490.74,
+      "text": "Click the button that says, no, you don't."
+    },
+    {
+      "start": 2490.86,
+      "end": 2492.2,
+      "text": "And you know, the pop-up will go away."
+    },
+    {
+      "start": 2492.3,
+      "end": 2493.38,
+      "text": "Goes, yeah, it goes away."
+    },
+    {
+      "start": 2493.46,
+      "end": 2494.16,
+      "text": "Here's a spinner."
+    },
+    {
+      "start": 2494.64,
+      "end": 2497.74,
+      "text": "Although, you know, who has a really good one is Mini Katana."
+    },
+    {
+      "start": 2498.58,
+      "end": 2499.54,
+      "text": "Have you seen their pop-up?"
+    },
+    {
+      "start": 2500.26,
+      "end": 2505.46,
+      "text": "It's like Fruit Ninja where you have to slash, you have to like slash a watermelon or a pineapple"
+    },
+    {
+      "start": 2505.46,
+      "end": 2505.92,
+      "text": "or something."
+    },
+    {
+      "start": 2506.08,
+      "end": 2507.04,
+      "text": "And then you get the discount."
+    },
+    {
+      "start": 2507.16,
+      "end": 2509.94,
+      "text": "They're like, slash one of these for different, I'm not sure if they give different discounts,"
+    },
+    {
+      "start": 2510.18,
+      "end": 2511.12,
+      "text": "but like, it's really fun."
+    },
+    {
+      "start": 2511.2,
+      "end": 2511.76,
+      "text": "It's like a game."
+    },
+    {
+      "start": 2511.92,
+      "end": 2512.42,
+      "text": "It's interactive."
+    },
+    {
+      "start": 2512.72,
+      "end": 2514.42,
+      "text": "It's way cool to spin your thing."
+    },
+    {
+      "start": 2514.72,
+      "end": 2515.3,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 2515.3,
+      "end": 2515.74,
+      "text": "Whatever."
+    },
+    {
+      "start": 2515.94,
+      "end": 2516.56,
+      "text": "It's not spin."
+    },
+    {
+      "start": 2516.82,
+      "end": 2517.76,
+      "text": "It's like, here's a game."
+    },
+    {
+      "start": 2517.92,
+      "end": 2519.16,
+      "text": "And I thought it was really cool."
+    },
+    {
+      "start": 2519.7,
+      "end": 2523.52,
+      "text": "This one's more interesting because the opt-in rate is crazy because it says, we will give"
+    },
+    {
+      "start": 2523.52,
+      "end": 2524.68,
+      "text": "you discounts only."
+    },
+    {
+      "start": 2524.68,
+      "end": 2526.38,
+      "text": "We will not contact you otherwise."
+    },
+    {
+      "start": 2526.72,
+      "end": 2527.96,
+      "text": "It's not for email addresses."
+    },
+    {
+      "start": 2527.96,
+      "end": 2531,
+      "text": "And I don't think it would be good for email addresses because you want to contact people"
+    },
+    {
+      "start": 2531,
+      "end": 2533.22,
+      "text": "outside of discounts with emails."
+    },
+    {
+      "start": 2533.42,
+      "end": 2537.26,
+      "text": "But for text messages, it might be worthwhile because, you know, you're generally sending"
+    },
+    {
+      "start": 2537.26,
+      "end": 2538.5,
+      "text": "out far fewer texts."
+    },
+    {
+      "start": 2538.72,
+      "end": 2541.14,
+      "text": "They actually cost you a lot more money to send out."
+    },
+    {
+      "start": 2541.66,
+      "end": 2545.74,
+      "text": "And so I thought that it was really interesting that a pop-up for discount codes would work."
+    },
+    {
+      "start": 2546.48,
+      "end": 2548.28,
+      "text": "It can't be that hard to honor it."
+    },
+    {
+      "start": 2548.56,
+      "end": 2554.12,
+      "text": "Like, 10% is not crazy when you think about the cost of acquiring another order."
+    },
+    {
+      "start": 2554.62,
+      "end": 2555.7,
+      "text": "Yeah, it's not crazy at all."
+    },
+    {
+      "start": 2555.94,
+      "end": 2559.12,
+      "text": "And like, you know, chances are you have a 10% code out there in the first place."
+    },
+    {
+      "start": 2559.2,
+      "end": 2559.48,
+      "text": "Exactly."
+    },
+    {
+      "start": 2559.74,
+      "end": 2561.34,
+      "text": "Before they purchase, they're going to look for a code."
+    },
+    {
+      "start": 2561.34,
+      "end": 2565.48,
+      "text": "But like, you know, the opt-in rate goes so high so fast."
+    },
+    {
+      "start": 2565.72,
+      "end": 2566.92,
+      "text": "It's really meaningful."
+    },
+    {
+      "start": 2567.24,
+      "end": 2568.6,
+      "text": "And so that's why I wanted to mention it."
+    },
+    {
+      "start": 2569.16,
+      "end": 2570.1,
+      "text": "Yeah, that's an awesome one."
+    },
+    {
+      "start": 2570.62,
+      "end": 2572.84,
+      "text": "Okay, two other things because I know we got to wrap up."
+    },
+    {
+      "start": 2572.92,
+      "end": 2574.28,
+      "text": "One is the piece of trivia."
+    },
+    {
+      "start": 2574.56,
+      "end": 2578.62,
+      "text": "The biggest store on Magento is Thrive Market."
+    },
+    {
+      "start": 2579.54,
+      "end": 2579.98,
+      "text": "What?"
+    },
+    {
+      "start": 2580.28,
+      "end": 2581.64,
+      "text": "Thrive is on Magento?"
+    },
+    {
+      "start": 2581.9,
+      "end": 2583.8,
+      "text": "Yeah, and they have been since forever."
+    },
+    {
+      "start": 2584.34,
+      "end": 2585.52,
+      "text": "Wow, I wonder why."
+    },
+    {
+      "start": 2586,
+      "end": 2587.7,
+      "text": "One of their founders was a CTO."
+    },
+    {
+      "start": 2587.7,
+      "end": 2591.28,
+      "text": "They launched 10 years ago before Shopify started dominating the landscape."
+    },
+    {
+      "start": 2591.52,
+      "end": 2596.96,
+      "text": "And so I'm nearly certain that the largest e-commerce business on Magento is Thrive Market today."
+    },
+    {
+      "start": 2597.4,
+      "end": 2598.84,
+      "text": "Wow, that is fascinating."
+    },
+    {
+      "start": 2599.64,
+      "end": 2604.06,
+      "text": "Caskers, when we went from Woo and we were deciding between Shopify and Magento,"
+    },
+    {
+      "start": 2604.22,
+      "end": 2606.36,
+      "text": "we went to Magento in like, I don't know, 2014."
+    },
+    {
+      "start": 2606.78,
+      "end": 2609.14,
+      "text": "And it was, we didn't know what we were doing."
+    },
+    {
+      "start": 2609.36,
+      "end": 2610.48,
+      "text": "And it was a complete disaster."
+    },
+    {
+      "start": 2611.38,
+      "end": 2613.28,
+      "text": "Okay, the other things I want to chat about,"
+    },
+    {
+      "start": 2613.42,
+      "end": 2614.52,
+      "text": "I know you've got to go in a couple minutes,"
+    },
+    {
+      "start": 2614.52,
+      "end": 2618.12,
+      "text": "is this Ozempa or whatever that drug is."
+    },
+    {
+      "start": 2618.62,
+      "end": 2618.94,
+      "text": "Ozempic?"
+    },
+    {
+      "start": 2619.38,
+      "end": 2619.96,
+      "text": "Ozempic, yeah."
+    },
+    {
+      "start": 2620.04,
+      "end": 2621.32,
+      "text": "I don't know why I can't pronounce it correctly."
+    },
+    {
+      "start": 2621.6,
+      "end": 2622.04,
+      "text": "Ozempic."
+    },
+    {
+      "start": 2622.18,
+      "end": 2625.98,
+      "text": "There was a great Wall Street Journal article about how these guys were selling Ozempic online"
+    },
+    {
+      "start": 2626.42,
+      "end": 2629.06,
+      "text": "in a really shady way where they were basically like,"
+    },
+    {
+      "start": 2629.16,
+      "end": 2632.42,
+      "text": "here's a before and after photo of someone taking Ozempic."
+    },
+    {
+      "start": 2632.7,
+      "end": 2633.92,
+      "text": "And then the Wall Street Journal was like,"
+    },
+    {
+      "start": 2633.98,
+      "end": 2636.58,
+      "text": "we found this photo on someone's personal trainer website."
+    },
+    {
+      "start": 2636.8,
+      "end": 2639.28,
+      "text": "And then we contacted the guy whose photo it is."
+    },
+    {
+      "start": 2639.4,
+      "end": 2642.98,
+      "text": "And he's like, I did this because I dieted and exercised for a long time."
+    },
+    {
+      "start": 2642.98,
+      "end": 2644.44,
+      "text": "And I didn't use Ozempic."
+    },
+    {
+      "start": 2644.8,
+      "end": 2648.9,
+      "text": "So this guy who's selling Ozempic, not the manufacturer, but a third party seller."
+    },
+    {
+      "start": 2649.06,
+      "end": 2651.88,
+      "text": "The Wall Street Journal was like, hey, this before and after photo isn't accurate."
+    },
+    {
+      "start": 2652.34,
+      "end": 2654.98,
+      "text": "And they took down the before and after photo."
+    },
+    {
+      "start": 2655.12,
+      "end": 2658.98,
+      "text": "Anyway, it was a really interesting article on some direct consumer marketing tactics"
+    },
+    {
+      "start": 2659.46,
+      "end": 2662.86,
+      "text": "and getting caught running direct consumer marketing tactics."
+    },
+    {
+      "start": 2662.88,
+      "end": 2664.22,
+      "text": "What were some of the interesting tactics?"
+    },
+    {
+      "start": 2665,
+      "end": 2667.02,
+      "text": "Well, he had before and after photos like this."
+    },
+    {
+      "start": 2667.02,
+      "end": 2674.54,
+      "text": "I think he had a Trustpilot image that said 4.8 stars or 4.7 stars."
+    },
+    {
+      "start": 2674.72,
+      "end": 2676.18,
+      "text": "It wasn't by Trustpilot themselves."
+    },
+    {
+      "start": 2676.5,
+      "end": 2677.56,
+      "text": "He found an image on Google."
+    },
+    {
+      "start": 2677.56,
+      "end": 2678.44,
+      "text": "He just made the image."
+    },
+    {
+      "start": 2678.66,
+      "end": 2678.92,
+      "text": "Yeah."
+    },
+    {
+      "start": 2679.16,
+      "end": 2682.02,
+      "text": "He found an image on Google Images and put it on his site."
+    },
+    {
+      "start": 2682.06,
+      "end": 2683.92,
+      "text": "And he's like, look, we have 4.7 stars."
+    },
+    {
+      "start": 2684.28,
+      "end": 2684.92,
+      "text": "Oh, man."
+    },
+    {
+      "start": 2684.92,
+      "end": 2686.02,
+      "text": "So kind of shady stuff like that."
+    },
+    {
+      "start": 2686.02,
+      "end": 2688.74,
+      "text": "I see that happen so much for the BBB review."
+    },
+    {
+      "start": 2689.17,
+      "end": 2694.48,
+      "text": "And it's like, you know, first of all, if a company has a BBB A plus sticker, the only"
+    },
+    {
+      "start": 2694.48,
+      "end": 2697.1,
+      "text": "reason somebody has that there is because they're doing some shady shit."
+    },
+    {
+      "start": 2697.3,
+      "end": 2699.16,
+      "text": "And then you go and find their real one."
+    },
+    {
+      "start": 2699.46,
+      "end": 2700.2,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 2700.42,
+      "end": 2702.56,
+      "text": "And they have to, they have, no, no, no, not even that."
+    },
+    {
+      "start": 2702.76,
+      "end": 2703.94,
+      "text": "They just have like an image."
+    },
+    {
+      "start": 2704.02,
+      "end": 2709.38,
+      "text": "But if you really Google it, it's like, you know, F or whatever the low thing is."
+    },
+    {
+      "start": 2709.5,
+      "end": 2710.7,
+      "text": "And it's just a bunch of claims."
+    },
+    {
+      "start": 2710.96,
+      "end": 2712.9,
+      "text": "But they just take the image."
+    },
+    {
+      "start": 2712.9,
+      "end": 2713.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 2714.32,
+      "end": 2715.88,
+      "text": "And another interesting thing."
+    },
+    {
+      "start": 2716.1,
+      "end": 2720.92,
+      "text": "So, I mean, this is not great advice, but one way that a lot of people get caught with"
+    },
+    {
+      "start": 2720.92,
+      "end": 2726.8,
+      "text": "this stuff, and it also happens with like Business Insider logo or, you know, the Cosmopolitan"
+    },
+    {
+      "start": 2726.8,
+      "end": 2733.38,
+      "text": "Allure logo that people put as like social proof is they don't rename the image files to be like"
+    },
+    {
+      "start": 2734.04,
+      "end": 2739.34,
+      "text": "Trustpilot badge, you know, instead of just like, you know, 4, 2, 7, 3, 8, 9 image."
+    },
+    {
+      "start": 2739.98,
+      "end": 2745.14,
+      "text": "And so these crawlers will find these files and then basically trace it back to you and hit you with a"
+    },
+    {
+      "start": 2745.14,
+      "end": 2746.84,
+      "text": "lawsuit or cease and desist or whatever."
+    },
+    {
+      "start": 2747.4,
+      "end": 2747.96,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 2748,
+      "end": 2749.72,
+      "text": "So you should rename it or you should not?"
+    },
+    {
+      "start": 2749.82,
+      "end": 2751.78,
+      "text": "What should you name it as if you're shady?"
+    },
+    {
+      "start": 2751.82,
+      "end": 2755.3,
+      "text": "Well, I'm not saying you should do anything shady."
+    },
+    {
+      "start": 2755.48,
+      "end": 2760.9,
+      "text": "But if, for example, you have a nice quote from Allure magazine and you want to put it on your site"
+    },
+    {
+      "start": 2760.9,
+      "end": 2766.94,
+      "text": "and you want to put the Allure logo, change the name of the file that you upload as the logo."
+    },
+    {
+      "start": 2767.48,
+      "end": 2770.92,
+      "text": "Not to not say Allure logo, but say one, two, three image."
+    },
+    {
+      "start": 2771.1,
+      "end": 2771.46,
+      "text": "Okay, gotcha."
+    },
+    {
+      "start": 2771.58,
+      "end": 2771.86,
+      "text": "Exactly."
+    },
+    {
+      "start": 2772.36,
+      "end": 2773.66,
+      "text": "Yeah, there's a great subreddit."
+    },
+    {
+      "start": 2773.8,
+      "end": 2776.3,
+      "text": "I'm not sure if you're a part of it called Shitty Pro-Life Tips."
+    },
+    {
+      "start": 2776.72,
+      "end": 2780.58,
+      "text": "Like there's one on Reddit called Pro-Life Tips where it's like, you know, make sure you exercise"
+    },
+    {
+      "start": 2780.58,
+      "end": 2781.14,
+      "text": "every day."
+    },
+    {
+      "start": 2781.6,
+      "end": 2782.68,
+      "text": "Shitty Pro-Life Tips."
+    },
+    {
+      "start": 2783.32,
+      "end": 2787.78,
+      "text": "Marry someone with the same blood type as you or like, you know, whose kidneys are compatible"
+    },
+    {
+      "start": 2787.78,
+      "end": 2789.3,
+      "text": "with yours in case you need the NT1."
+    },
+    {
+      "start": 2789.76,
+      "end": 2794.78,
+      "text": "And I feel like we should spend one episode doing Shitty Pro-Life Tips just of what we've seen."
+    },
+    {
+      "start": 2794.78,
+      "end": 2798.84,
+      "text": "Like, you know, that Business Insider one or renaming that article one is like an interesting"
+    },
+    {
+      "start": 2798.84,
+      "end": 2800.04,
+      "text": "Pro-Life Tips for e-commerce."
+    },
+    {
+      "start": 2800.24,
+      "end": 2800.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 2800.46,
+      "end": 2800.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 2801.02,
+      "end": 2801.18,
+      "text": "Okay."
+    },
+    {
+      "start": 2801.34,
+      "end": 2802.3,
+      "text": "I know you've got to run."
+    },
+    {
+      "start": 2802.46,
+      "end": 2806.04,
+      "text": "One of the last things I want to end with is I'm trying to do a better job understanding"
+    },
+    {
+      "start": 2806.04,
+      "end": 2811.7,
+      "text": "what happened with REV and Tai Lopez and Alex and what happened to that business."
+    },
+    {
+      "start": 2812.26,
+      "end": 2817.1,
+      "text": "So I've been reaching out to a bunch of people like confidentially and finding out information"
+    },
+    {
+      "start": 2817.64,
+      "end": 2818.86,
+      "text": "and it's been super helpful."
+    },
+    {
+      "start": 2819.14,
+      "end": 2821.76,
+      "text": "You know, I'm talking to everyone and I'm keeping them anonymous."
+    },
+    {
+      "start": 2821.76,
+      "end": 2825.04,
+      "text": "So I'm never going to mention a name about who I spoke to, but I'm trying to understand"
+    },
+    {
+      "start": 2825.04,
+      "end": 2826.28,
+      "text": "what happened to that business."
+    },
+    {
+      "start": 2826.54,
+      "end": 2829.1,
+      "text": "You know, there was a Wall Street Journal article saying that that business might be"
+    },
+    {
+      "start": 2829.1,
+      "end": 2832.08,
+      "text": "going bankrupt or has hired some bankruptcy attorneys at Kirkland-Nellis."
+    },
+    {
+      "start": 2832.56,
+      "end": 2834.14,
+      "text": "Things don't look like they're going well there."
+    },
+    {
+      "start": 2834.26,
+      "end": 2835.04,
+      "text": "Let me put it that way."
+    },
+    {
+      "start": 2835.16,
+      "end": 2837.66,
+      "text": "And I'm trying to understand what happened and what went wrong."
+    },
+    {
+      "start": 2837.8,
+      "end": 2842.62,
+      "text": "And so if you have any information and you want to remain anonymous, please DM me on Twitter."
+    },
+    {
+      "start": 2842.94,
+      "end": 2844.4,
+      "text": "I want to find out that information."
+    },
+    {
+      "start": 2851.76,
+      "end": 2854.78,
+      "text": "Or Alex, and you want to come on the pod, please, we want you here."
+    },
+    {
+      "start": 2854.86,
+      "end": 2856.2,
+      "text": "We want to learn about what went right."
+    },
+    {
+      "start": 2856.34,
+      "end": 2858.34,
+      "text": "Like what you did is something."
+    },
+    {
+      "start": 2858.54,
+      "end": 2864.44,
+      "text": "Like, you know, you acquired name brand institutions in the United States really quickly."
+    },
+    {
+      "start": 2864.58,
+      "end": 2869.1,
+      "text": "And you were young guys and you were, you know, like Radio Shack and Pier One Imports."
+    },
+    {
+      "start": 2869.26,
+      "end": 2872.64,
+      "text": "And we want to understand what the thesis was and what went right."
+    },
+    {
+      "start": 2873.24,
+      "end": 2876.52,
+      "text": "And so if you're interested in coming on the pod, we'd love to have you."
+    },
+    {
+      "start": 2877.22,
+      "end": 2878.44,
+      "text": "Honestly, that would be pretty cool."
+    },
+    {
+      "start": 2878.44,
+      "end": 2880.86,
+      "text": "I did DM Ty to see if he would come."
+    },
+    {
+      "start": 2881,
+      "end": 2881.58,
+      "text": "He hasn't responded."
+    },
+    {
+      "start": 2882.62,
+      "end": 2885.2,
+      "text": "Well, it could be tough right now because I know they're under, like, you know,"
+    },
+    {
+      "start": 2885.28,
+      "end": 2890.18,
+      "text": "they might be doing bankruptcy or they might be just like doing a bunch of confidential things."
+    },
+    {
+      "start": 2890.34,
+      "end": 2893.92,
+      "text": "But if you know what went right, even if you worked there two years ago, three years ago,"
+    },
+    {
+      "start": 2894.04,
+      "end": 2894.56,
+      "text": "please DM me."
+    },
+    {
+      "start": 2894.64,
+      "end": 2896.64,
+      "text": "I'd love to jump on a call with you and see what's going on."
+    },
+    {
+      "start": 2897.48,
+      "end": 2897.8,
+      "text": "Awesome."
+    },
+    {
+      "start": 2898.12,
+      "end": 2898.66,
+      "text": "All right, Moyes."
+    },
+    {
+      "start": 2898.78,
+      "end": 2901.88,
+      "text": "I got to head to the next thing, but this was a good episode."
+    },
+    {
+      "start": 2902.58,
+      "end": 2903.28,
+      "text": "Appreciate your time."
+    },
+    {
+      "start": 2903.84,
+      "end": 2904.4,
+      "text": "See you guys."
+    },
+    {
+      "start": 2904.94,
+      "end": 2905.86,
+      "text": "Thanks for tuning in."
+    },
+    {
+      "start": 2905.86,
+      "end": 2909.62,
+      "text": "We'll be back next time to cut through the noise in CPG, retail and e-commerce."
+    },
+    {
+      "start": 2909.96,
+      "end": 2913.3,
+      "text": "And if you enjoyed this episode, then why not share it with a friend?"
+    },
+    {
+      "start": 2913.6,
+      "end": 2917.14,
+      "text": "And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

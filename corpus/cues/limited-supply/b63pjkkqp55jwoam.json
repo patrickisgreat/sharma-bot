@@ -1,0 +1,884 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 7.96,
+      "text": "Never go dot com only people will be like, Oh, we're just going to go to target.com first to Tetla and they're going to see how sales are and then they might bring us into store. We're"
+    },
+    {
+      "start": 7.96,
+      "end": 20.04,
+      "text": "gonna go to Nordstrom.com one of the brands I invested in there like Nordstrom's like, they want to put them on the.com and we drop ship and I was like, that's terrible. Like you're basically or all the demand. They're gonna buy your search term, they're"
+    },
+    {
+      "start": 20.04,
+      "end": 33.24,
+      "text": "going to check out Nordstrom, they might get some loyalty points, they're gonna have you drop ship and they take half your margin like that is worse. And you deal with customer service and returns. That's right. Yes, don't go to.com only. You want your brand"
+    },
+    {
+      "start": 33.28,
+      "end": 46.88,
+      "text": "to grow and have a presence and you want the retail store to be like a billboard for your brand and a sales channel for your brand. This is limited supply the place for refreshingly real takes on what DTC is really like."
+    },
+    {
+      "start": 47.24,
+      "end": 62.16,
+      "text": "We're your hosts, Nik and Moiz. Let's start talking about money. Hey guys, I'm super excited that this season sponsors fulfill.io I'm an early investor in fulfill.io I invested in about seven years ago. Back then the business was really nascent. And"
+    },
+    {
+      "start": 62.16,
+      "end": 78.2,
+      "text": "they were working with smaller direct to consumer businesses. Now they work with huge brands including Nectar and Ridge, Hexclad, Caraway, in fact, another brand that I've invested in Cadence. It's a fantastic ERP. The same thing that Klaviyo did to MailChimp in terms of building an email system made"
+    },
+    {
+      "start": 78.2,
+      "end": 95.04,
+      "text": "exclusively for our industry. Well, that's what fulfill.io is doing to NetSuite. They're making an ERP built exclusively for our industry. It's fantastic. It is a single source of truth for your business. They offer everything from accounting to order management, inventory, warehouse management, EDI operations, make"
+    },
+    {
+      "start": 95.04,
+      "end": 112.96,
+      "text": "sure you never miss a sale. Learn more at fulfill.io. Okay, Nik, season eight, episode eight, lucky 88. 88. Here we go. When I was a kid and I wasn't allowed to curse. I'd tell people they're an 88 because it sounds like idiot. So we are episode idiot today."
+    },
+    {
+      "start": 113.8,
+      "end": 128.04,
+      "text": "That's pretty good. I thought you'd go like this. Do you know what that's from or not? No, what is that from? It's from friends. That's how Ross would flick off his sister Monica when they were kids and not allowed to fuck people off."
+    },
+    {
+      "start": 128.72,
+      "end": 142.84,
+      "text": "Oh, wow. See, that would have been too up there for me. I got a I got a stick at the idiot level. Yeah. Well, episode 88 or actually season eight, episode eight, bunch of stuff to talk about. We're going to talk about"
+    },
+    {
+      "start": 142.84,
+      "end": 153.96,
+      "text": "Nordstrom and how they're thinking about going private. I also read an article about Neiman Marcus that I thought was really interesting and applicable to a bunch of direct consumer brands. I want to talk a little bit about the retail strategy"
+    },
+    {
+      "start": 154,
+      "end": 166.8,
+      "text": "and like the questions I get asked most often when people are heading into retail. And then a little bit about Amazon returns if we've got the time. Maybe we can start at Nordstrom going private would love to hear your thoughts or what you've"
+    },
+    {
+      "start": 166.8,
+      "end": 179.96,
+      "text": "heard about it. I really haven't heard that. I saw an article that said Nordstrom is considering going private. And I started looking it up after I spoke with a brand and they said that their Nordstrom sales have gone way"
+    },
+    {
+      "start": 179.96,
+      "end": 190.16,
+      "text": "down. So they said, you know, a few years ago, being in Nordstrom was kind of a big deal. It got them in it was like the cosine look that it gives the fact that Nordstrom is"
+    },
+    {
+      "start": 190.16,
+      "end": 204.6,
+      "text": "carrying your brand and has it in store was a great look and it was driving sales. But now Nordstrom sales are down quite a bit. It's such a small channel. It's more of a vanity thing than an actual sales thing now. And then I was just looking around"
+    },
+    {
+      "start": 204.6,
+      "end": 223.52,
+      "text": "like other, other stores and other retail brands. So they're trading at a 3.7 billion market cap. They're opening a lot more Nordstrom rack locations. So they're opening 22 more rack locations versus regular Nordstrom locations. Rack is like the outlet version of Nordstrom. Yeah. And then some"
+    },
+    {
+      "start": 223.52,
+      "end": 236.24,
+      "text": "other stuff. So Allbirds is closing 10 to 15 stores this year. Outdoor Voices closed all their stores. Purple has 60 retail stores and they plan to slow down as well. So yeah, I was just like, I was curious if you've heard anything, if"
+    },
+    {
+      "start": 236.24,
+      "end": 252.8,
+      "text": "you've seen anything around like not necessarily owned retail, but leveraging, you know, retail through department stores or other channels, like if you've seen a slowdown with department stores versus a Target or even within the Target, Walmart, CVS type world. Then I remembered another conversation"
+    },
+    {
+      "start": 252.8,
+      "end": 265,
+      "text": "I had from Commerce Summit. Somebody was telling me that as a DTC brand, they own their own store. They're doing anywhere from one and a half to two and a half million per store per year, which actually feels like it reminds me of"
+    },
+    {
+      "start": 265,
+      "end": 280.56,
+      "text": "what a good cafe would do in New York. If they're doing 100k a month in revenue, they're completely profitable on that store. They've got their rent, their staff, etc. all covered. And then the last thought I had was all these DTC brands, like"
+    },
+    {
+      "start": 280.56,
+      "end": 299.24,
+      "text": "no matter what city you're in LA, Soho, South Congress in Austin, somewhere in North Carolina or somewhere in Nashville, Tennessee, all these DTC brands, like they kind of cluster together. Like you've got Warby next to Revolve, next to Barry's, next to SoulCycle, next to Outdoor Voices. And I"
+    },
+    {
+      "start": 299.24,
+      "end": 312.12,
+      "text": "thought, okay, who did the math here? Is this the blind leading the blind? Or did somebody do the math here and, you know, figured out that this was the location? I remember reading this book called, shoot, I forgot what it"
+    },
+    {
+      "start": 312.28,
+      "end": 324.36,
+      "text": "was called, but it was Sam Walton wrote it. He was the founder of Walmart. And he's like, when we were looking to like build new locations, he was actually a pilot. So he's like, I'd get into an airplane and then just fly around the city"
+    },
+    {
+      "start": 324.36,
+      "end": 335.32,
+      "text": "and find a good spot. And I was like looking for an intersection that was busy, but like, you know, could support a huge lot and a lot of traffic. So it wasn't like too busy an intersection already. I'm not sure who found the location. But"
+    },
+    {
+      "start": 335.32,
+      "end": 348.84,
+      "text": "I feel like once you find a location, a bunch of copycats come in like a good example of that is CVS and Walgreens, wherever you see a CVS, you see a Walgreens. Another example of that is Chipotle and Cava. If you look at Cava, almost all of"
+    },
+    {
+      "start": 348.84,
+      "end": 361.52,
+      "text": "their locations are in a quarter mile of a Chipotle because that's they're just like, wherever this guy is, is probably a great location. And they're generally right. I think going back to owned retail stores, so you talked about all"
+    },
+    {
+      "start": 361.52,
+      "end": 373.92,
+      "text": "birds and outdoor voices of all the direct to consumer businesses that I think should do owned retail, I can understand like an apparel brand like revolve or something. And then I can mostly understand Warby Parker, Warby Parker is getting into an"
+    },
+    {
+      "start": 373.92,
+      "end": 384.96,
+      "text": "industry that's like generally retail based. Everyone wants to try on glasses, there's a fit thing, there's a look thing. It's also not like a t shirt where you're like, you know what, this doesn't fit well, I'm not going to wear it that often."
+    },
+    {
+      "start": 385.28,
+      "end": 396.28,
+      "text": "This is you know, George Costanza says, you're buying a new face when you buy a new pair of glasses. And so you want to make sure that your face looks good because that's something you wear every day. So I understand Warby Parker getting"
+    },
+    {
+      "start": 396.28,
+      "end": 407.68,
+      "text": "into it. Everybody else I'm always like, how scalable is the strategy? Okay, so you got owned retail and it's working in Soho. You've got one in South Congress and it's working. You've got one in Los Angeles, it's working. That's three stores"
+    },
+    {
+      "start": 407.68,
+      "end": 419.32,
+      "text": "doing $300,000 a month, you're talking about $4 million a year. That is peanuts at the when you're talking about, you know, the size of business like all birds are, you know, maybe not outdoor voices. How many are you gonna have? Are you gonna have"
+    },
+    {
+      "start": 419.4,
+      "end": 432.4,
+      "text": "350 to get to $350 million in revenue? Are you gonna have 100? Can you support 100 stores? Yeah, right now all of your brands are like, you know, it's accelerated. I think it's great actually, like it's exactly I think it might even accelerate"
+    },
+    {
+      "start": 432.4,
+      "end": 443.52,
+      "text": "your in like online sales if you have a brick and mortar present somewhere. But realistically, you're not going to open up as many stores as Sears had back in the day, you're not going to open up as many stores as Warby Parker has today or Target has"
+    },
+    {
+      "start": 443.52,
+      "end": 454.24,
+      "text": "or Walmart has. So generally, I think it's more marginal than people realize like early on, I think people make the mistake when they have a branded retail where they're like, wow, this store is working really well. And so if we can do this 40"
+    },
+    {
+      "start": 454.36,
+      "end": 468.32,
+      "text": "times over, we'll do $40 million in revenue. But that doesn't happen. Like there aren't 40 locations like so in Manhattan, or 40 locations like Abbot Kinney in Venice. And so just gets way tougher. And then what also gets tough is your retail"
+    },
+    {
+      "start": 468.32,
+      "end": 480.64,
+      "text": "staff is it's easy to manage when you need five people or 10 people. Yeah, I've heard this is one of the hardest things ever. Because the churn is so high. Of course. Yeah. Like, you know, we I used to work at, you know, my parents own gas stations, you"
+    },
+    {
+      "start": 480.64,
+      "end": 488.8,
+      "text": "know how hard it is to hire employees at gas stations or how hard it is. One of the things I'd always think about, like while I despise most three PLS, I respect that one of the things"
+    },
+    {
+      "start": 488.8,
+      "end": 499.88,
+      "text": "that's really hard for them is to have staff and like, you know, scale their staff up and down for Black Friday, how are you going to scale your staff up and down for Black Friday? What happens when there's a fight when two employees fight? What happens"
+    },
+    {
+      "start": 499.88,
+      "end": 511.44,
+      "text": "when you're paying somebody $18 an hour and someone offers them $21 and two people quit the same day, they don't give you two weeks notice, and they're supposed to open up the store tomorrow, who's gonna open up that store, the CEO of, you know,"
+    },
+    {
+      "start": 511.48,
+      "end": 521.52,
+      "text": "Warby Parker isn't going to go up and go and open up a store. And so I think it's really, really difficult. And I'm not as a huge fan of branded retail unless there's a compelling case for it."
+    },
+    {
+      "start": 521.52,
+      "end": 530.6,
+      "text": "I think for Warby Parker, there is, I think for revolve, there can be I think for aloe, there may be as well. But I think for most people, it absolutely does not make sense. I don't think it did for all birds."
+    },
+    {
+      "start": 531.04,
+      "end": 543.56,
+      "text": "For a lot of the brands, even like that are selling bedsheets, blankets, pillows, mattresses, like I feel maybe mattresses, but does Brooklyn and need to have a store? I feel like I don't know. I don't know either. I can't imagine that there's going to be"
+    },
+    {
+      "start": 543.56,
+      "end": 557.04,
+      "text": "you know, 55 Brooklyn and locations across the country. Maybe there's one is kind of like a showroom and a hat tip to the brand. And even in that case, like my question is, does that even come out? Is that a sales channel? Or is that just a"
+    },
+    {
+      "start": 557.04,
+      "end": 569.8,
+      "text": "marketing budget activation? That's a great question. I'm not sure what it is. And it could be a marketing budget activation. And it could be a sales channel. And you're like, you know what, we have five of these. They're not a distraction somehow. And they're generating seven and a"
+    },
+    {
+      "start": 569.8,
+      "end": 580.28,
+      "text": "half million dollars a year in revenue. Okay, I get it. And you know, they're probably giving you another two and a half million dollar lift when it comes to direct to consumer site. Okay, I gotcha. I got it. You're getting $10 million from this. At some"
+    },
+    {
+      "start": 580.28,
+      "end": 591.88,
+      "text": "point, it's not that important. If you're Brooklyn and doing 350 million. I don't know if Brooklyn is doing 350 but $350 million a year. I think you can think about it and be like this is small segment when I've tapped out a lot of other"
+    },
+    {
+      "start": 591.88,
+      "end": 604.72,
+      "text": "channels, but this isn't going to be something that gets me to $75 million a year, unless it becomes my singular focus, unless management really focuses on it in a way that probably isn't great for the business because there's better things to focus on."
+    },
+    {
+      "start": 605.4,
+      "end": 617.32,
+      "text": "At native, did you guys ever consider like pop ups or owned retail? Or was it just always like wholesale? I consider pop ups for like a fraction of a second. And then I was like, you know what, I worked at a gas station. And I"
+    },
+    {
+      "start": 617.32,
+      "end": 629.6,
+      "text": "remember how hard it was to hire employees. We had this one employee God, it was so far. I've got a good story. If we've got like 10 seconds about it. Yeah, it was hilarious. He was like a really loyal employee, but it's somewhat incompetent"
+    },
+    {
+      "start": 629.6,
+      "end": 641.32,
+      "text": "employee. There was this great story that my mother told me I remember she's like, you know, the RJ Reynolds tobacco representative came in and set up a little counter at our store. And they're like anyone who's trying to buy a pack of Marlboro"
+    },
+    {
+      "start": 641.32,
+      "end": 651.68,
+      "text": "cigarettes, we're going to offer them for free packs of camel. That's how we're gonna get people to switch. If you come into our store and try and buy a pack of Marlboro cigarettes, we'll offer you for free packs of camel in the same way that if"
+    },
+    {
+      "start": 651.68,
+      "end": 661.56,
+      "text": "you're trying to buy Pepsi, we they'd offer you for free cans of Coca Cola instead to try and get you to switch. So my mom sent this I had our employee come in. She's like, Look, come in ask"
+    },
+    {
+      "start": 661.56,
+      "end": 670.72,
+      "text": "for a pack of Marlboro. He was a smoker and he already smoked Marlboro this guy. And she's like, Come in ask for a pack of Marlboro and get four free packs of camel. You know, it's worth"
+    },
+    {
+      "start": 670.72,
+      "end": 681.44,
+      "text": "$10. Just come and do it on your day off. It's your day off. Come into it. So this guy comes in and he goes, I want to buy a pack of camel cigarettes. And my mom's like, you fucking idiot."
+    },
+    {
+      "start": 681.8,
+      "end": 693.92,
+      "text": "This woman will give you for like you smoke Marlboro already if you ask for Marlboro this woman will give you four free packs of camel and you fucking came in and asked for camel are you fucking idiot. She didn't say it like that. But I remember"
+    },
+    {
+      "start": 693.92,
+      "end": 705.36,
+      "text": "how hard it was to hire employees. So realistically, we didn't think we weren't too serious about branded retailer even pop ups. Did you ever look at like something like leap retail where it's like fully outsourced? In that sense? You don't even have"
+    },
+    {
+      "start": 705.36,
+      "end": 718.96,
+      "text": "to worry about the staffing or any of that. We didn't and generally I'm not like I don't want to fully outsource something like outsourcing something generally doesn't get you really good results. Like you know what Apple doesn't do? They're like, let's outsource manufacturing of the"
+    },
+    {
+      "start": 718.96,
+      "end": 732.64,
+      "text": "iPhone, it'll be fine. They're like, we are really careful about this because our brand is like rests on this iPhone and we want to make it great. And you know, one of the examples I always hear is people sampling a Costco. This is a great example"
+    },
+    {
+      "start": 732.64,
+      "end": 743.44,
+      "text": "actually, like if you have a Costco employee handing out your samples, you'll go through like, you know, let's say let's give you an example of Gatorade. You'll go through two cases of Gatorade or three cases of Gatorade, because people will"
+    },
+    {
+      "start": 743.44,
+      "end": 754.88,
+      "text": "come and just get the Gatorade. But you won't sell any people will just take samples and they'll walk away. If you have your own employee at the Costco, giving out the samples, that's where you actually get a lot of success because then you have"
+    },
+    {
+      "start": 754.88,
+      "end": 770.12,
+      "text": "your employees selling that product. You're like, buy Gatorade. It's awesome. Michael Jordan uses it was invented at the University of Florida to help athletes recuperate. Gatorade is amazing. The flavors are great. It's got electrolytes. If you just have that Costco person handing out the sample"
+    },
+    {
+      "start": 770.12,
+      "end": 778.88,
+      "text": "of Gatorade, they're just gonna be like, here's the sample. Get the fuck out of here. You know, we don't don't stand in front of me. I'm not a big fan of letting outsourcing that kind of stuff."
+    },
+    {
+      "start": 778.88,
+      "end": 793.64,
+      "text": "I think if you were going to do that really well, you can't outsource it. Agreed. At hint, did you guys try and think about owned retail? You guys had those stores in front of your office? Yeah, that was a total failure. That was like a marketing"
+    },
+    {
+      "start": 793.64,
+      "end": 806.24,
+      "text": "activation type thing that was more of the founder wanted to do it, but it made no financial sense at all. And I don't think it I mean, we probably sold like less than $100 a day of water"
+    },
+    {
+      "start": 806.28,
+      "end": 820.16,
+      "text": "out of that thing. So it's not really like, not really worth it. They ended up I think closing down all of those places on Union Street and actually moving to an office finally. But there was always the thought of it. But never really in a way where"
+    },
+    {
+      "start": 820.16,
+      "end": 833.8,
+      "text": "it was like a serious thought. It was just kind of like a thought out loud. What was more interesting was activations at music festivals, for example, just because the brand or the product felt a lot more synchronous with the environment"
+    },
+    {
+      "start": 833.8,
+      "end": 848.04,
+      "text": "that it was in. People are on if they're high and they come drink in water, it's like the most magical experience in the world. And so that worked really well. And also, it's just like people are more playful or kind of like their guard is down. But"
+    },
+    {
+      "start": 848.48,
+      "end": 861.24,
+      "text": "I don't think I mean, maybe but like I could see a pop up just being a straight marketing thing. I can't imagine for somebody like hint a pop up is actually going to make real money. Pop ups are by definition, I feel like marketing activations,"
+    },
+    {
+      "start": 861.24,
+      "end": 874.56,
+      "text": "I think owned retail, you should often think of as marketing activations as well. Although I have seen like, you know, I heard that outdoor voices, it was really successful for outdoor voices pre pandemic. You know, obviously, they've closed all their stores today."
+    },
+    {
+      "start": 874.56,
+      "end": 887.84,
+      "text": "I could see that with AOV. Like I remember back in the day house that aperitif whenever they do like in person events, they would turn a profit there. Yeah. But then an outdoor voices I could see or like if bonobos"
+    },
+    {
+      "start": 887.84,
+      "end": 899.56,
+      "text": "did a pop up, I could see how they would turn a profit. But something with such low AOV, or especially where like, you know, if you go buy a deodorant, you're not buying like seven, you're probably buying like one or two. With hint, you're"
+    },
+    {
+      "start": 899.56,
+      "end": 919.72,
+      "text": "probably buying like three bottles max. So maybe your totals 10 bucks. Yeah. Yeah, it's hard to justify that. I think it's really important to remember that back in the day seven years ago, back then the business was really a nascent"
+    },
+    {
+      "start": 919.76,
+      "end": 937.84,
+      "text": "ERP. Today they built out an entire set of features to become a single source of truth. They can do full operations, accounting, order management, inventory, warehouse management, ADI operations. It's really incredible. They've got huge businesses working with fulfill rich hex clad Caraway, another"
+    },
+    {
+      "start": 937.84,
+      "end": 981.08,
+      "text": "business I invested in called cadence. The best part about segue into two different things I want to talk about. Let me talk about the Neiman Marcus one first. Yeah. So I read this article about Neiman Marcus. And you know, I think everyone's"
+    },
+    {
+      "start": 981.08,
+      "end": 995.48,
+      "text": "been struggling, like all these big retailers been struggling, including Neiman Marcus. So you know, they said that the CEO or some report that said Neiman Marcus customers who buy with the help of a sales associate spend x times more than those"
+    },
+    {
+      "start": 995.48,
+      "end": 1010.48,
+      "text": "who don't do you want to guess what x is? Just by knowing my guy at Nordstrom, I would say 1000 times more 100. Right? Let's say like, realistically, 50 times more. It was 12 times more if you get a sales associate, you will spend"
+    },
+    {
+      "start": 1010.48,
+      "end": 1023.12,
+      "text": "12 x what you will if you don't get a sales associate that is an insane amount of difference. Yeah, that's pretty huge. What is your sales associate do for you that like, you know, you're, you spend so much more as a result."
+    },
+    {
+      "start": 1023.72,
+      "end": 1037.52,
+      "text": "So if I text him, and I'm like, Hey, I've got a, like I said, I have a trip to Hawaii, he will basically say, all right, come in Saturday at three o'clock. As soon as I get there, there's a whole massive dressing room full of shirts, pants, shorts,"
+    },
+    {
+      "start": 1037.52,
+      "end": 1049.16,
+      "text": "whatever. And all he's having me do is take this on take this off, put this on take this off. Yeah. Here's one outfit. Here's two outfits. There's three outfits. And by the end, you've you know, you spent an hour trying things on. And then you"
+    },
+    {
+      "start": 1049.16,
+      "end": 1058.56,
+      "text": "got this massive bill where you're just like, hold us. How did this come out? Yeah. Whereas if I was shopping on my own, I'd probably be like, all right, let me get a couple shirts. And"
+    },
+    {
+      "start": 1058.56,
+      "end": 1067.32,
+      "text": "that's all I need. And then maybe I'll go try them on. You know, maybe you take five shirts to the dressing room, and you end up buying two or three. But here it's like you go to a dressing"
+    },
+    {
+      "start": 1067.32,
+      "end": 1080.52,
+      "text": "room, this guy already kind of knows the style you're into. And so he has you try on 15 shirts. And out of that you end up buying 10. This goes back to the conversation we had on last week's podcast, which is why don't more people have like"
+    },
+    {
+      "start": 1080.52,
+      "end": 1095.52,
+      "text": "sales associates post purchase? If I were aloe, like, you know, I'd spend $500 on outdoor voices. I'm shocked that I never got a phone call being like, Hey, how are you liking everything? Oh, what was your favorite piece? Would you be interested in a different color?"
+    },
+    {
+      "start": 1096.12,
+      "end": 1106.96,
+      "text": "A great example here is like, so there's a couple things that I wanted to buy. But I'm like, you know what, like the bills already high. I don't need this pair of jeans. And then he texted me two weeks later. He's like, hey, this pair of jeans is"
+    },
+    {
+      "start": 1106.96,
+      "end": 1120.12,
+      "text": "50% off. You know, they came to you and they're like, you just spent 500 bucks. Also, you seem to love these shirts. You bought four, we're now running a deal you buy four, you get half off. I mean, I feel like that's just a layup. There's no customer"
+    },
+    {
+      "start": 1120.12,
+      "end": 1133.08,
+      "text": "acquisition cost either. You know, if I learned anything from the office, it was that it's cheaper to retain an existing customer than it is to acquire a new customer. I don't understand why nobody is doing"
+    },
+    {
+      "start": 1133.08,
+      "end": 1142.68,
+      "text": "this. Like if I were aloe yoga, I'd be doing this and be like, you just spent $1,000. You like these yoga pants so much. We have a new color. We have this new look. If I were Lululemon, I'd be doing this too."
+    },
+    {
+      "start": 1143.12,
+      "end": 1155.12,
+      "text": "Doesn't even have to be crazy. It's like if you walk into aloe and you bring something to the checkout, they make you type your email in to find your customer profile on the Shopify iPad. If they see you've spent over $1,000 in the last 12"
+    },
+    {
+      "start": 1155.12,
+      "end": 1167.36,
+      "text": "months, give me at least a little bottle of water, you know, do something to make me remember the experience or want to come back to aloe versus Lulu or outdoor voices. Or give me like a ribbon that says VIP and I can just put on"
+    },
+    {
+      "start": 1167.36,
+      "end": 1179.84,
+      "text": "my shirt. It looks awesome. Even give me a high five. Just remember my name. That's right. The bar is so low. The bar is really low. I think the post purchase phone call is shockingly not used enough for brands that can do high AOV. I"
+    },
+    {
+      "start": 1179.84,
+      "end": 1192.72,
+      "text": "don't think I ever worked at like Native, but like True Classic. I probably spent $500 on True Classic, maybe $1,000 on True Classic at this point. Why don't they call me and be like, hey, Moyes, every single day you wear the same joggers of True"
+    },
+    {
+      "start": 1192.72,
+      "end": 1204.36,
+      "text": "Classics. We launched a new color. Get your ass in this new color. Like, you know, like just a text would be amazing. I'm shocked that people haven't done that yet. And I think if all of all the brands I just mentioned, I think True Classic would be"
+    },
+    {
+      "start": 1204.36,
+      "end": 1214.92,
+      "text": "the ones to adopt that first, believe it or not. I dude, as you were saying it, I was like, they're gonna hear this and they're gonna do it like they're gonna assign somebody to just do this. Yes. Yeah, I think they will as well. Here's a couple other"
+    },
+    {
+      "start": 1214.92,
+      "end": 1226.44,
+      "text": "interesting things that I thought when I read that Neiman Marcus article, which was for men's fashion, it used to be sunglasses were the gateway drug into men's fashion. That would be the place where men bought their first Prada or Gucci"
+    },
+    {
+      "start": 1226.44,
+      "end": 1245.88,
+      "text": "product. Now it's sneakers. Sneakers are where men get into men's fashion, which I thought was really interesting. And the other thing was their top 2% Neiman Marcus is top 2% of their customers. How much do you think they spend per year and Neiman Marcus? Probably like $25,000 a year."
+    },
+    {
+      "start": 1246.08,
+      "end": 1256.32,
+      "text": "You're almost exactly spot on $27,000 a year, they drive 40% of sales. You know, again, this I was reading this and I was like, you know what, I never did a good job of this in native as"
+    },
+    {
+      "start": 1256.32,
+      "end": 1270.96,
+      "text": "well. But if I were a big brand like Aloe or True Classic or Cuts or, you know, Hexclad, I'd be like, who are the guys who are spending north of 2000? Like, let's say my average order is $500. Who is spending $10,000? Okay, how do I make this"
+    },
+    {
+      "start": 1270.96,
+      "end": 1284.92,
+      "text": "special? How do I make this brand special? Like, you know, you have a customer service problem, you email the CEO, you have some issue like new drops, you call us, we text you, we text you and say, hey, we just launched something new. Do you"
+    },
+    {
+      "start": 1284.92,
+      "end": 1297.04,
+      "text": "want to check it out? You want to come to the Aloe store. We're going to have the store open 30 minutes early on Sunday, we open at 10. And we're opening at 930 for you. It's such an easy idea. Yeah, exactly."
+    },
+    {
+      "start": 1297.16,
+      "end": 1307.92,
+      "text": "And like you have the whole Aloe store to yourself a bunch of people like I remember buying a salad at Mendo Farms once and I was the first customer of the day and everyone applauded. They're like first customer, they rang a bell and everyone"
+    },
+    {
+      "start": 1307.92,
+      "end": 1320.88,
+      "text": "applauded. I still remember that this person should come in at 930 the entire store should applaud and it should be Nick, you are our fucking best customer. Here's a hat that says VIP customer. Let me show you what we dropped that's new here."
+    },
+    {
+      "start": 1321.6,
+      "end": 1335.24,
+      "text": "There's actually one clothing brand that I know of that does a really good job of this called Mixology. It's a Northeastern based clothing brand, but they have such a tight knit community like all the managers in the stores and the sales associates"
+    },
+    {
+      "start": 1335.24,
+      "end": 1346.36,
+      "text": "in the stores have like direct relationships with the moms and the girls who come in and shop. And when there's something they know aligns with the style of the customer they want, they immediately just text them and they say, hey, this is something"
+    },
+    {
+      "start": 1346.36,
+      "end": 1359.44,
+      "text": "we think you might like. Or yeah, they just bring them back into the store based off that personal relationship. The only other company I can think of that does this is like Apple if I go spend $4,000 at Apple, do you get a phone call saying do"
+    },
+    {
+      "start": 1359.44,
+      "end": 1371,
+      "text": "you want to sign up for the business program, we can save you money, and then you get some sort of an ongoing rep but that's about it. Other than that, it's like maybe maybe it's like other tech companies, but I think the only common variable"
+    },
+    {
+      "start": 1371.08,
+      "end": 1383,
+      "text": "is they already have a call center. So they just basically put this on the existing call center. And it's still very different than like what we're talking about, which is that VIP route. And like the sales route, which is I think postscript is doing"
+    },
+    {
+      "start": 1383,
+      "end": 1392.56,
+      "text": "this great job of this pre purchase from everyone I talked to that they've, you know, talked like, you know, Jones, I think it was Jones Road Beauty that they talked to I think it's true classic, I think you know, they've done what they've worked"
+    },
+    {
+      "start": 1392.56,
+      "end": 1405.4,
+      "text": "out these guys, Dr. Squatch. Yeah. I'm shocked that more brands aren't doing this post purchase where there's so many dollars on the table. And it's so valuable. Let's shift over into retail strategy, which was, you know, people ask me all the"
+    },
+    {
+      "start": 1405.4,
+      "end": 1415.92,
+      "text": "time about how to think about retail strategy. A couple of things that I always say is, look, we never got into retail until we sold the business. And after we sold the business, we got into retail. That's pretty intentional, like, you know,"
+    },
+    {
+      "start": 1415.92,
+      "end": 1427.2,
+      "text": "Target reached out to us, Costco reached out to us, Whole Foods and 10 other brands to try and get native into their stores. And we said no to everybody. And that was really intentional. But like, you know, whenever I talk to people about retail, these"
+    },
+    {
+      "start": 1427.2,
+      "end": 1435.88,
+      "text": "here are the few things I always say, I say one is never go dot com only people will be like, oh, we're just gonna go to target.com first to Tetla and they're gonna see how sales are"
+    },
+    {
+      "start": 1435.88,
+      "end": 1446.36,
+      "text": "and then they might bring us into store. We're gonna go to Nordstrom.com. One of the brands I invested in, they're like Nordstrom's like, they want to put them on the.com and we drop ship and I was like, that's terrible. Like you're basically"
+    },
+    {
+      "start": 1446.36,
+      "end": 1459.16,
+      "text": "gonna create all the demand. They're gonna buy your search term, they're going to check out Nordstrom, they might get some loyalty points, they're gonna have you drop ship and they take half your margin like that is worse. And you deal with customer service and returns."
+    },
+    {
+      "start": 1459.2,
+      "end": 1474.44,
+      "text": "That's right. Yes, don't go to.com only like you want. You want your brand to grow and have a presence and you want the retail store to be like a billboard for your brand and a sales channel for your brand. A.com only isn't that especially"
+    },
+    {
+      "start": 1474.44,
+      "end": 1486.48,
+      "text": "target.com like you know, I respect target.com and I love target.com. But if you ask the people who work at target, most of their sales are happy they have 1800 brick and mortar stores for a reason, because the sales are happening in brick"
+    },
+    {
+      "start": 1486.48,
+      "end": 1501.56,
+      "text": "and mortar stores and not.com. Do you know the percentage split between.com versus in store? I don't know this percentage split. I can tell you for native it was very small for other brands that I'm an investor in. It's up to 20%. So it's actually not nothing like"
+    },
+    {
+      "start": 1501.64,
+      "end": 1516.12,
+      "text": "you know, I've seen brands sell 20% of their sales on target.com at through the target channel. So that's like recently after they've decided to really scale up e commerce or that was even before that was like, you know, a big brand doing, you know, a healthy"
+    },
+    {
+      "start": 1516.16,
+      "end": 1530.36,
+      "text": "eight figures a year walked into target and is doing 20% of their sales on target.com. Wow. And you know, that's within the past, you know, not even year past several months. So yeah, it's absolutely not nothing. The other thing I say is your first"
+    },
+    {
+      "start": 1530.36,
+      "end": 1544.16,
+      "text": "retail will really define you. So you want to be careful about this. Like, if your first retailer is Bass Pro Shops, that's just a hard thing to overcome because now you're you're a specialty brand and not a mainstream brand. And every"
+    },
+    {
+      "start": 1544.16,
+      "end": 1554.8,
+      "text": "other store is going to start looking at the sales data from that. So it's not like you know, if I want to find out this sales data of a hint at target, I could buy that data from Nielsen that that data is available for sale. So if my"
+    },
+    {
+      "start": 1554.8,
+      "end": 1565.92,
+      "text": "brand starts selling at target and doesn't do well, everybody knows it's not like it's a secret. It's not like direct to consumer where everyone doesn't know everyone knows here like you know, if it doesn't do well at CVS, you know who's not going"
+    },
+    {
+      "start": 1565.92,
+      "end": 1575.72,
+      "text": "to pick me up Walgreens are gonna say you're barely selling at CVS. Why would we take you? It's barely selling a target. You know, it's not going to take you everybody else because they're like you can barely move this product and brick and mortar"
+    },
+    {
+      "start": 1575.72,
+      "end": 1590.16,
+      "text": "store. Your first retailer will define you and so you really need to kick off a really strong retailer one that aligns with your brand one that like you're gonna have a lot of success with you don't want to sell blue Nile jewelry at Walmart because"
+    },
+    {
+      "start": 1590.16,
+      "end": 1600.64,
+      "text": "they're just not going to turn there. You want to sell it at a store you want to sell it at sales you know you want to make sure that the retailers aligned with the brand the customers aligned with the brand that the demographic is aligned with the"
+    },
+    {
+      "start": 1600.64,
+      "end": 1612.84,
+      "text": "brand like you know, you don't want to go into Walmart's that have low income area zip codes if you're selling a really expensive product where competitors are cheaper. I remember at hint we would only put cherry blackberry watermelon"
+    },
+    {
+      "start": 1612.84,
+      "end": 1627.56,
+      "text": "pineapple on the retail shelf because if pear was there and pear didn't move specifically they would say hint isn't moving and then they would lessen the shelf space versus swapping that out for another flavor that's moving or just take the brand away altogether."
+    },
+    {
+      "start": 1628.12,
+      "end": 1641.64,
+      "text": "Yeah, what you need is velocity, your SKUs have to move and the way the retailers think about this is they call them red lines where they're like, you have to sell a certain number of units per SKU per store per week. So if I've got five different sense"
+    },
+    {
+      "start": 1641.64,
+      "end": 1653.6,
+      "text": "of native or five different flavors of hint, I'm just gonna give a random I'm gonna say you have to sell at least one of those one of each of those cents per store per week. If you're not selling one if you're selling point eight units per"
+    },
+    {
+      "start": 1653.6,
+      "end": 1664.48,
+      "text": "week, we might remove you, we might swap you out for a different set, we might remove you entirely. If you're doing more, we might give you more facings and that like you know, if anyone remembers what happened in native we started at some"
+    },
+    {
+      "start": 1664.48,
+      "end": 1679.84,
+      "text": "stores with three facings today you know you go to you go to target half the target with three facings. Today it's 25 facings because those three sold really quickly. Our coconut vanilla this is public information because you could buy it was selling something like 18 units per store per week"
+    },
+    {
+      "start": 1680.12,
+      "end": 1694.28,
+      "text": "in like it was virtually 10x the amount that the store wanted and the red line wanted. And that's how we got more facings. And so you're you want to kick off you you care about velocity a lot. And you also want to kick off really strong because you"
+    },
+    {
+      "start": 1694.28,
+      "end": 1705.6,
+      "text": "want the sales right like you want sales right out of the gate one the buyer will love you and two, two months from now, the person who started buying your product may be buying them again if you're selling dishwasher pods or you're selling"
+    },
+    {
+      "start": 1705.6,
+      "end": 1716.72,
+      "text": "deodorant or you're selling hint water, someone who starts buying today can repeat again two weeks from now three weeks from now. And so you want that sales velocity right out of the gate. And the way I think about the doing that is you should"
+    },
+    {
+      "start": 1716.72,
+      "end": 1725.28,
+      "text": "have a lot of promotions right out of the gate. Here's a bunch of things that you can do or you should try and push to do one is obviously end cap. I always thought end cap was the biggest"
+    },
+    {
+      "start": 1725.28,
+      "end": 1738.2,
+      "text": "lever you could pull. It's a billboard that's for your brand only saying hey, go buy this at stores like Target and Walmart, you know, those main aisles that have end caps have 10x the traffic than the smaller aisles that only have deodorant. So if"
+    },
+    {
+      "start": 1738.2,
+      "end": 1749.6,
+      "text": "you can get an end cap, you're going to get 10x the eyeballs on the main aisle as opposed to the smaller aisles. So end cap is the biggest lever. And how do you pay for that? Well, you don't have to pay for it actually. Like I mean, like"
+    },
+    {
+      "start": 1749.64,
+      "end": 1760.88,
+      "text": "you know, you can negotiate so I'm sure some people have to pay for it and have slotting fees. You know, if your brand that's aligned with targeting you're doing really well, they're going to want it like you know, it's good for the buyer to you know,"
+    },
+    {
+      "start": 1760.92,
+      "end": 1769.12,
+      "text": "they don't want to be like you know what we don't want is you on the end cap because they're like, if I put secret, they'll sell a little bit more if I put native they'll sell way better"
+    },
+    {
+      "start": 1769.12,
+      "end": 1781.2,
+      "text": "and I'll make more money too. So native is better for everybody. There will be some brands that have to pay slotting fees, not all brands will have to pay slotting fees. It just depends on your brand and the velocity that you have. The second one is in"
+    },
+    {
+      "start": 1781.2,
+      "end": 1795.44,
+      "text": "store signage like the signs in the aisle themselves on the shelves. It's called on shelf signage actually not signage, like it'll say you know new brand made in the United States aluminum free like those are the things that we would try and say"
+    },
+    {
+      "start": 1795.48,
+      "end": 1807.16,
+      "text": "over 5000 five star reviews, basically on the shelf when you're walking down the deodorant aisle, you want people to look at your brand even though it might not be the brand that they generally gear towards because it's got some sort of"
+    },
+    {
+      "start": 1807.16,
+      "end": 1820,
+      "text": "signage right on the shelf. And so I think people should play for that. What are some of the best phrases you can put there? So like, good question for native, what were some of the best ones? I assume Brown founder was not your first choice."
+    },
+    {
+      "start": 1820.56,
+      "end": 1837.56,
+      "text": "Show me the money, baby. It was the sign that we put no, we put over 5000 or over 10,000 five star reviews. I forgot how many reviews we had. We put that literally everywhere. And I think we were Yeah, maybe the first to do that in stores. I"
+    },
+    {
+      "start": 1837.56,
+      "end": 1847.64,
+      "text": "was ready to staple it to my head. That really worked because it built a lot of trust people are like, what is this brand? Is it going to be good? And if you can write over 5000 you can just write a lot of reviews people are like, okay, I"
+    },
+    {
+      "start": 1847.68,
+      "end": 1858.16,
+      "text": "trust it because people trust reviews. The other things I think about are like a body deal. I bought a I don't know if it's a body I bought a I bought a deals I basically rack you 10 deals like you know, how can you use third"
+    },
+    {
+      "start": 1858.16,
+      "end": 1870.16,
+      "text": "parties? Can you leverage third parties to drive in store velocity? Target has this thing called a red card, you can offer sales on red cards like you know, people will go into target and open up an app for their target credit card or target app"
+    },
+    {
+      "start": 1870.2,
+      "end": 1879.96,
+      "text": "and they'll look at deals on the app. And so you can play for, you know, red card deals as well. And the final thing I thought of is, you know, this didn't apply to us, but it applied a"
+    },
+    {
+      "start": 1879.96,
+      "end": 1889.36,
+      "text": "hint, for instance, is can you stand at the front of the store and sample? Can hold? Yeah, you'd be at the front of Whole Foods. Can you be at the front of air one having someone really excited about your product saying come buy this. It's"
+    },
+    {
+      "start": 1889.36,
+      "end": 1901.36,
+      "text": "fucking awesome. Let me tell you why it's great. Okay, so one question I have is like, everybody talks about planograms, you want to get into the planogram. And you want to get in at a time where you can drive velocity. How does that"
+    },
+    {
+      "start": 1901.36,
+      "end": 1913.92,
+      "text": "work? Like, if you're a brand, how do you think about whether you can actually hit that per store per week? And how do you get into the planogram? Like, is that is that something different than otherwise just going to a broker who says they can get"
+    },
+    {
+      "start": 1913.92,
+      "end": 1929.8,
+      "text": "you into target? Number two is no. But for big CPG, the answer is yes. Like big CPG makes it different. Like big CPG goes to target and there'll be like, here's a planogram we propose for your entire deodorant aisle. Here's where secret will sit. Let's"
+    },
+    {
+      "start": 1929.8,
+      "end": 1940,
+      "text": "say it's PNG. Here's where secret will set and here's also where dove will set which is surprising because you're sort of saying this is where a competitor we think you should put our competitors. If you say I think you should put one one"
+    },
+    {
+      "start": 1940.04,
+      "end": 1952.04,
+      "text": "shelf of our like one facing of dove all the way at the bottom obviously your planogram has no credibility. So you actually have to be like pretty fair there. And here's where other brands will you know, I would have 14 other brands and this is where they would sit"
+    },
+    {
+      "start": 1952.48,
+      "end": 1962.96,
+      "text": "and they would show you everything. Like you would see where your competitors are going. That's what you would propose you would go to target and you'd propose it and they will you know, you have no idea what"
+    },
+    {
+      "start": 1962.96,
+      "end": 1976.08,
+      "text": "they're going to do. But you're like this is what I propose your planogram is for next year and every category generally has two different resets one hard reset one soft reset a hard reset is like we're ready to change everything a soft reset is hint"
+    },
+    {
+      "start": 1976.12,
+      "end": 1988.12,
+      "text": "peach isn't selling maybe we'll swap it out with another hint flavor. And so the soft resets for the deodorant category and I think most others happen in the fall. The hard resets are usually in the wind like you know, January, February, March is when"
+    },
+    {
+      "start": 1988.12,
+      "end": 1999.88,
+      "text": "they're ready to change everything. You know, August, September, October is when they'll be like this sentence and selling which we swap it out this flavor isn't selling should we swap it out this toothpaste like skew isn't"
+    },
+    {
+      "start": 1999.88,
+      "end": 2010.76,
+      "text": "selling should we swap it out? You sort of plan for that as well. And you know, when you think about sales, like, I think you should not think about sales velocity when you're selling in when you're selling in you should be like my goal is to get"
+    },
+    {
+      "start": 2010.76,
+      "end": 2019.92,
+      "text": "this product in, I get it in, then I got to think about how do I make sure it turns. And you know, there's classic things that you can do to make sure it turns as well, which is, you know, we"
+    },
+    {
+      "start": 2019.92,
+      "end": 2032.92,
+      "text": "talked about end cap and signage and red card deals, but also send an email to your customers, go get them to purchase at the brick and mortar store. Your best flavor is black cherry. Great. You know what we're sold out of for a few weeks, black"
+    },
+    {
+      "start": 2032.92,
+      "end": 2041.32,
+      "text": "cherry on our site, go to target and buy it. Put a little banner at the top of your page saying now available to target with a map showing the targets that you're in if you're not in all"
+    },
+    {
+      "start": 2041.36,
+      "end": 2052.48,
+      "text": "if you're not in every store, here are the stores that we are in. Send out text messages saying hey, we're now available in target go shop at target. Target will love that you'll have more velocity. That's a lever that you can pull"
+    },
+    {
+      "start": 2052.48,
+      "end": 2066.2,
+      "text": "internally to go go drive sales, send an email to all of your existing customers saying here's a $5 coupon for my product to target, go buy it. Run a bunch of promotions right out of the gate at target saying hey, buy one get the next one 25% off."
+    },
+    {
+      "start": 2066.8,
+      "end": 2080,
+      "text": "Okay, so one one thought I've had is like from a marketing standpoint, like the Girl Scouts collab that native did or the baked by Melissa collab. Were those in the thought of okay, this is going to drive a ton of people to go into the store and"
+    },
+    {
+      "start": 2080,
+      "end": 2093.2,
+      "text": "drive sell through in the store? Or is this like this is going to get people who have thought about native over the fence? Like what was the thinking behind that as it related to retail because they had massive displays in target anytime native has a collab."
+    },
+    {
+      "start": 2093.76,
+      "end": 2107.04,
+      "text": "I wasn't there. So I'm only guessing at this and it's not my it wasn't my obviously wasn't my decision. I'm not the CEO of that brand any longer. And so I would guess and say the second which, in fact, even more than the second it's something else"
+    },
+    {
+      "start": 2107.04,
+      "end": 2119.36,
+      "text": "which I think the first is like, no one's gonna go to the store being like, I fucking love baked by Melissa cupcakes. I've been looking for those my entire life. I'm in Oklahoma City. Let me go to target and buy baked by Melissa deodorants. I'm not"
+    },
+    {
+      "start": 2119.36,
+      "end": 2131.96,
+      "text": "saying that's impossible, but that's not going to drive enough turn to get end caps at 1800 stores. I think part of it is probably yes. You know, I was considering it. This is an interesting scent. Let me go buy this. I think that's"
+    },
+    {
+      "start": 2131.96,
+      "end": 2145.84,
+      "text": "interesting. But I think most of it the third thing which is unsaid, which is you already have a bunch of sense. You love cupcakes. Let us get sell you another scent. Let us pantry load you. I think that's the difference between a $12 product"
+    },
+    {
+      "start": 2145.84,
+      "end": 2157.64,
+      "text": "and a $75 product $75 product. I can't just keep selling you the same thing over and over again. This is a product that's like a fragrance. You don't run out of all of your perfumes before you buy another perfume. You don't need to run out of this before"
+    },
+    {
+      "start": 2157.64,
+      "end": 2170.16,
+      "text": "you buy another one. You know, one guy once told me native is in a deodorant business. It's a scent business and he's not entirely wrong. I don't think he's entirely right, but he's not entirely wrong. You have seven of these by an eighth one."
+    },
+    {
+      "start": 2170.52,
+      "end": 2182.08,
+      "text": "That's what I think the mentality was. That was the mentality of launching seasonal sense in the first place, which was, you know what you like cucumber. I like cucumber too. But now it's fall and maybe we want to smell like apple cider"
+    },
+    {
+      "start": 2182.08,
+      "end": 2194.68,
+      "text": "for two days. How about we sell you something for that'll make you happy and smell like that for you know, two weeks. And so I think that's really what Yeah, makes sense. Um, okay, great. I think that's a wrap for this episode. I was"
+    },
+    {
+      "start": 2194.68,
+      "end": 2205.8,
+      "text": "hoping to get into Amazon returns and sort of what happens and I talked to this guy worked at Amazon, but maybe we'll save that for next episode. This was fantastic. I really appreciate it. Feel like I learned so much about retail."
+    },
+    {
+      "start": 2206.4,
+      "end": 2220,
+      "text": "This was awesome. Okay, really appreciate it. Please join us for you know, season eight, episode 989 coming up pretty soon. Thanks for tuning in. We'll be back next time to cut through the noise and CPG retail and ecommerce. And if you"
+    },
+    {
+      "start": 2220,
+      "end": 2226.8,
+      "text": "enjoyed this episode, then why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

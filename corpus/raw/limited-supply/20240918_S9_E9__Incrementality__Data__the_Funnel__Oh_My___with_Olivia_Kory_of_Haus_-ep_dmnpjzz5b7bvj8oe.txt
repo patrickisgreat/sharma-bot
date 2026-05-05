@@ -1,0 +1,520 @@
+[00:00:00.000 --> 00:00:09.820] [SPEAKER_00]: Think of randomized control trials in healthcare, as my like easiest and simplest comparison point of like you are going to when you're rolling out a new drug,
+[00:00:10.260 --> 00:00:17.760] [SPEAKER_00]: You're gonna give one group of people who are kind of similar characteristics to this other group but one group of people,
+[00:00:17.760 --> 00:00:25.380] [SPEAKER_00]: Uplacibo drug and you're gonna give the other group of people who kind of against statistically kind of indistinguishable from the control group,
+[00:00:25.500 --> 00:00:33.480] [SPEAKER_00]: You're gonna give them the drug and you're gonna observe the difference in behavior between those two groups to kind of validate the efficacy of that drug.
+[00:00:33.800 --> 00:00:41.260] [SPEAKER_00]: That's incrementality testing. We have a counterfactual to understand what would have happened anyway in the absence of this intervention,
+[00:00:41.260 --> 00:00:50.740] [SPEAKER_00]: Whether that is, you know, search or video or YouTube, what was that group going to do anyway? And that's really like at its core kind of fundamentally
+[00:00:51.480 --> 00:00:54.580] [SPEAKER_00]: What we mean when we talk about incrementality testing.
+[00:00:56.460 --> 00:01:03.440] [SPEAKER_02]: Welcome to Limited Supply the place for refreshingly real takes on what D to C is really like. I'm your host Nick Sharma
+[00:01:03.440 --> 00:01:10.720] [SPEAKER_02]: Let's start talking about money. We've ever added up all the conversions attributed to each of your page channels and
+[00:01:10.720 --> 00:01:15.720] [SPEAKER_02]: realize that the sum of those conversions is greater than the actual number of conversions on your site
+[00:01:15.720 --> 00:01:22.160] [SPEAKER_02]: That's likely because most ad platforms tend to over-report and get more credit than they deserve for the conversions they drive.
+[00:01:22.800 --> 00:01:31.060] [SPEAKER_02]: Today sophisticated marketers are moving away from attribution and moving toward incrementality testing in order to maximize growth and understand efficiency
+[00:01:31.060 --> 00:01:35.620] [SPEAKER_02]: To find the incrementality of your marketing tactics you have to run testing control experiments
+[00:01:35.620 --> 00:01:40.600] [SPEAKER_02]: But these tests are hard to do in your own and that's why I recommend using house. With house
+[00:01:40.600 --> 00:01:46.240] [SPEAKER_02]: You have an automated self-service platform that allows you to configure regional testing control experiments to measure
+[00:01:46.240 --> 00:01:49.200] [SPEAKER_02]: Incherminality identify points of diminishing returns,
+[00:01:49.200 --> 00:01:55.060] [SPEAKER_02]: Optimally allocate marketing dollars and maximize your growth. The platform is built by world class scientists
+[00:01:55.060 --> 00:02:02.200] [SPEAKER_02]: It allows you to test all your marketing channels both online and offline. You can measure the impact across all your sales channels
+[00:02:02.200 --> 00:02:10.100] [SPEAKER_02]: Including direct to consumer retail Amazon etc and you can calibrate your in platform reporting for incrementality with house
+[00:02:10.100 --> 00:02:15.640] [SPEAKER_02]: My friend Connor hexclad uses house and he was actually able to share that when they ran an incrementality
+[00:02:15.640 --> 00:02:17.100] [SPEAKER_02]: Test around meta and Amazon
+[00:02:17.100 --> 00:02:21.520] [SPEAKER_02]: They realized that a lot of their meta spend was indirectly driving revenue for Amazon
+[00:02:21.520 --> 00:02:25.400] [SPEAKER_02]: These learnings actually change their acquisition strategy for Amazon going forward
+[00:02:25.400 --> 00:02:29.500] [SPEAKER_02]: If you're a seven figure brand and you're running on multiple marketing channels
+[00:02:29.500 --> 00:02:36.540] [SPEAKER_02]: I should say if you're at least a seven figure brand then you can potentially save millions of dollars by starting an incrementality practice and
+[00:02:36.540 --> 00:02:38.380] [SPEAKER_02]: Learn what's truly driving your business
+[00:02:38.380 --> 00:02:41.500] [SPEAKER_02]: How it's uses superior science and makes this type of testing
+[00:02:41.500 --> 00:02:47.520] [SPEAKER_02]: Accessible and so I recommend you check them out go to house.io slash limited that's
+[00:02:48.240 --> 00:02:52.320] [SPEAKER_02]: HAUS dot Ios slash limited to learn more and get a demo
+[00:02:57.180 --> 00:03:01.920] [SPEAKER_03]: All right Olivia so I want to start with your background you have such a fascinating background
+[00:03:03.080 --> 00:03:08.280] [SPEAKER_03]: Could you actually why don't you tell us about your background and then I'm gonna pepper you with some questions along the way for sure
+[00:03:08.280 --> 00:03:09.260] [SPEAKER_00]: Sounds good
+[00:03:09.260 --> 00:03:12.160] [SPEAKER_00]: So all right starting from the the beginning I
+[00:03:12.160 --> 00:03:19.880] [SPEAKER_00]: Kind of came up in the paid media marketing world at an ad agency in Chicago and ad tech
+[00:03:20.520 --> 00:03:25.380] [SPEAKER_00]: Mostly working on the all-state business and I say that only because they were actually pioneering
+[00:03:25.380 --> 00:03:31.680] [SPEAKER_00]: Incriminality testing in like 2012 wow so was introduced to it very early on in my career
+[00:03:31.920 --> 00:03:36.380] [SPEAKER_00]: And then I made the transition in house at Netflix joined there in about
+[00:03:36.380 --> 00:03:40.320] [SPEAKER_00]: 2015 2016 as they were starting to to expand globally
+[00:03:41.020 --> 00:03:46.330] [SPEAKER_00]: And this was like a playground for learning and just working with incredibly smart people
+[00:03:47.520 --> 00:03:48.940] [SPEAKER_00]: We were running
+[00:03:49.820 --> 00:03:57.260] [SPEAKER_00]: Incriminality tests and in geoxpirements all over the world and we had a very clear understanding of what paid media
+[00:03:57.260 --> 00:04:03.940] [SPEAKER_00]: Marketing was delivering to the business in a world where there was like tons of organic demand and noise and like really hard
+[00:04:03.940 --> 00:04:05.180] [SPEAKER_00]: to actually understand that
+[00:04:05.860 --> 00:04:12.020] [SPEAKER_00]: And we were able to figure it out because we had this amazing team of data scientists and we reduced our acquisition costs
+[00:04:12.020 --> 00:04:14.640] [SPEAKER_00]: I remember one year by like 80 90 percent by
+[00:04:15.560 --> 00:04:19.900] [SPEAKER_00]: Doing some of these these tests and so I can I can share more on the specifics later
+[00:04:20.660 --> 00:04:25.620] [SPEAKER_00]: But then a few of us went over to quibi the I don't know if you've heard of it. Yeah, the video
+[00:04:25.620 --> 00:04:32.860] [SPEAKER_00]: I remember a Chrissy teagun had a show judge Chrissy or something. Yeah, it was the failed streaming start up of 2020
+[00:04:33.940 --> 00:04:37.540] [SPEAKER_00]: Learned a ton and got to see like the complete opposite playout where
+[00:04:38.740 --> 00:04:45.620] [SPEAKER_00]: It Netflix a lot of organic demand really hard to make media incremental at quibi because we had so little organic demand
+[00:04:45.620 --> 00:04:48.460] [SPEAKER_00]: Like everything we were doing in paid was was incremental
+[00:04:48.460 --> 00:04:51.340] [SPEAKER_00]: And it was just a question of like at what
+[00:04:51.860 --> 00:04:55.940] [SPEAKER_00]: Cost are we willing to acquire these customers in terms of willingness to pay
+[00:04:56.880 --> 00:05:03.140] [SPEAKER_00]: So after after quibi then went over to sonos to lead growth and
+[00:05:03.140 --> 00:05:09.060] [SPEAKER_00]: That's actually where I kind of reconnected with with Zach the founder of house sonos was heavily
+[00:05:09.060 --> 00:05:10.840] [SPEAKER_00]: Reliant on last-go-catribution
+[00:05:10.840 --> 00:05:17.560] [SPEAKER_00]: They had just integrated in mmm and that was pointing in the complete opposite direction in terms of insights and so
+[00:05:17.560 --> 00:05:23.060] [SPEAKER_00]: I pitched experiments is a way to really start to to quantify what marketing was delivering to the business
+[00:05:23.060 --> 00:05:25.280] [SPEAKER_00]: I had done that at Netflix and
+[00:05:25.280 --> 00:05:30.360] [SPEAKER_00]: It was just going so that's why I hired house. I hired Zach was one of the early customers of house
+[00:05:30.360 --> 00:05:32.940] [SPEAKER_00]: It's sonos and it was just going so well
+[00:05:32.940 --> 00:05:37.660] [SPEAKER_00]: And we were making such significant progress and such a short amount of time that I I was like
+[00:05:37.660 --> 00:05:44.360] [SPEAKER_00]: All right, I need to be a part of this and so I moved over to house very early a couple years ago and haven't looked back since
+[00:05:44.360 --> 00:05:47.480] [SPEAKER_03]: That's amazing and before we get into the rest of this could you just
+[00:05:47.560 --> 00:05:49.140] [SPEAKER_03]: at a high level explain
+[00:05:49.140 --> 00:05:54.480] [SPEAKER_03]: MTA mmm and incrementality just so everybody listening understands that context. Yeah
+[00:05:55.400 --> 00:05:59.680] [SPEAKER_00]: So really the when you think about incrementality
+[00:05:59.680 --> 00:06:04.270] [SPEAKER_00]: It's the difference between incrementality and an MTA or an mmm is the
+[00:06:05.440 --> 00:06:12.330] [SPEAKER_00]: Establishment of a counterfactual like think of randomized control trials in health care is my like easiest and
+[00:06:12.330 --> 00:06:17.230] [SPEAKER_00]: simplest comparison point of like you are going to when you're rolling out a new drug
+[00:06:17.230 --> 00:06:23.610] [SPEAKER_00]: You're gonna give one group of people who are kind of similar characteristics to this other group
+[00:06:23.610 --> 00:06:28.050] [SPEAKER_00]: But one group of people uplicey bow drug and you're gonna give the other group of people
+[00:06:28.050 --> 00:06:32.790] [SPEAKER_00]: Who kind of against statistically kind of indistinguishable from from the control group?
+[00:06:32.910 --> 00:06:40.790] [SPEAKER_00]: You're gonna give them the drug and you're gonna observe the difference in behavior between those two groups to kind of validate the efficacy of that drug
+[00:06:40.790 --> 00:06:48.670] [SPEAKER_00]: That's incrementality testing we have a counterfactual to understand what would have happened anyway in the absence of this intervention
+[00:06:48.670 --> 00:06:52.310] [SPEAKER_00]: Whether that is you know, search or video or YouTube
+[00:06:52.310 --> 00:06:58.110] [SPEAKER_00]: What was that group going to do anyway and that's really like at its core kind of fundamentally
+[00:06:58.810 --> 00:07:02.110] [SPEAKER_00]: What we mean when we talk about incrementality testing
+[00:07:02.110 --> 00:07:09.550] [SPEAKER_00]: MTA mmm they are more correlational but they they're needed and and necessary kind of in the mix
+[00:07:09.550 --> 00:07:15.350] [SPEAKER_00]: But it's more so looking at correlations of like all right this user was exposed to this ad and then they did this
+[00:07:15.350 --> 00:07:20.330] [SPEAKER_00]: But but not causal we're looking in terms of mm. I'm you're just looking at patterns in in relationships
+[00:07:20.330 --> 00:07:29.170] [SPEAKER_03]: versus having that true holdout group and is it true that mm really factors the last two years of data and so like it's not really
+[00:07:29.910 --> 00:07:36.070] [SPEAKER_03]: able to be leveraged properly unless you have two you know whole years of data plus I guess if you think about like COVID
+[00:07:36.070 --> 00:07:42.770] [SPEAKER_03]: You know factoring into that data like does that mess up the data when you think about mm? Yeah, you need a lot more data
+[00:07:42.770 --> 00:07:51.190] [SPEAKER_00]: You need to be you know if for example if you're spending up this Q4 and your business goes up
+[00:07:51.190 --> 00:07:56.690] [SPEAKER_00]: You need enough variation to understand well as your business going up because it would have happened anyway
+[00:07:56.690 --> 00:08:04.110] [SPEAKER_00]: Or because you're changing your your media mix and so you need a lot of historical data and just more looks at what's going on
+[00:08:04.110 --> 00:08:07.330] [SPEAKER_00]: You need to be able to look at last Q4 and the Q4 before that
+[00:08:07.330 --> 00:08:10.790] [SPEAKER_00]: Actually understand and parse out what media is driving
+[00:08:10.790 --> 00:08:16.550] [SPEAKER_00]: So just the more data you can feed there the the better amazing I'm I'm such a huge sonos
+[00:08:16.550 --> 00:08:20.330] [SPEAKER_03]: I've got to be in the top 2% LTV of sonos customers
+[00:08:21.070 --> 00:08:22.490] [SPEAKER_03]: Are there any fun
+[00:08:22.490 --> 00:08:27.530] [SPEAKER_03]: Test that you ran at sonos or Netflix or Quibi that you can talk about? Yeah, I can
+[00:08:27.530 --> 00:08:29.310] [SPEAKER_00]: What's your favorite sonos product?
+[00:08:29.830 --> 00:08:36.370] [SPEAKER_03]: I mean at home, I've got the soundbar and the sub and my room. I've got the two sonos ones in the office
+[00:08:36.370 --> 00:08:42.110] [SPEAKER_00]: We've got like 10 sonos ones and two subs. Yeah, when I joined they were like you need to just slurge on the sub
+[00:08:42.110 --> 00:08:45.310] [SPEAKER_00]: I never thought I needed a sub like not big enough
+[00:08:45.310 --> 00:08:48.730] [SPEAKER_00]: And it's completely changes like I don't want to go to the movies anymore no facts
+[00:08:48.730 --> 00:08:52.270] [SPEAKER_03]: Changes the whole thing. I started to get noise complaints from downstairs after I got the sub
+[00:08:52.870 --> 00:08:54.890] [SPEAKER_00]: Can see it now working as well in New York
+[00:08:56.070 --> 00:08:58.850] [SPEAKER_00]: So okay, so some some experiments that we've run
+[00:08:59.910 --> 00:09:00.910] [SPEAKER_00]: At Netflix
+[00:09:01.850 --> 00:09:08.630] [SPEAKER_00]: Well, I won't actually won't share the brand but I've seen time and time again that you know brand search and affiliate
+[00:09:08.630 --> 00:09:15.030] [SPEAKER_00]: It are kind of the usual suspects when it comes to incrementality like shut it down and see no impact of the business
+[00:09:15.030 --> 00:09:17.570] [SPEAKER_00]: Even though on last click attribution
+[00:09:17.570 --> 00:09:23.110] [SPEAKER_00]: It looks like your your best channel. Right so those are kind of like the opposite trick honey uses. Yep
+[00:09:23.110 --> 00:09:24.910] [SPEAKER_03]: Those fucks gamers yep
+[00:09:28.150 --> 00:09:28.570] [SPEAKER_00]: Yeah
+[00:09:28.570 --> 00:09:33.170] [SPEAKER_00]: Honey and it's it's tough to test it. They make it really hard to test because they just immediately refresh the page
+[00:09:33.170 --> 00:09:37.550] [SPEAKER_00]: Yeah, and there's like no geo targeting capability on couponing so we actually
+[00:09:37.550 --> 00:09:44.280] [SPEAKER_00]: We did we did test this a few times at house you just have to shut it down say like I don't want this up for a month or two
+[00:09:44.730 --> 00:09:49.010] [SPEAKER_00]: And then you're able to clean some pretty interesting insights so interesting yeah ask your your
+[00:09:49.010 --> 00:09:51.210] [SPEAKER_00]: Incommentality partner if you can do that
+[00:09:51.850 --> 00:09:56.730] [SPEAKER_00]: An interesting so one of the experiments that we ran on on meta at Netflix was
+[00:09:57.250 --> 00:10:01.670] [SPEAKER_00]: Broad targeting versus manual targeting you know interests and demographics
+[00:10:02.250 --> 00:10:06.570] [SPEAKER_00]: We have all these different titles that were leveraging to drive acquisition so
+[00:10:07.290 --> 00:10:10.670] [SPEAKER_00]: You know like oh's arc has a very different audience than the crown
+[00:10:10.670 --> 00:10:15.750] [SPEAKER_00]: And we were going in and we are manually interest targeting each title to the people
+[00:10:15.750 --> 00:10:24.130] [SPEAKER_00]: We thought would would respond and so we ran in incrementality tests where we just gave meta the keys go broad and
+[00:10:24.130 --> 00:10:29.530] [SPEAKER_00]: Like algorithmically find the users who are going to sign up as a result of seeing these titles
+[00:10:30.050 --> 00:10:31.410] [SPEAKER_00]: And that crushed
+[00:10:31.930 --> 00:10:34.910] [SPEAKER_00]: We rolled that out globally in terms of
+[00:10:34.910 --> 00:10:39.250] [SPEAKER_00]: Moving away from interest based audience on meta into just broad targeting
+[00:10:39.250 --> 00:10:43.890] [SPEAKER_00]: We called it unfettered and we just let meta take the keys in terms of finding the users
+[00:10:43.890 --> 00:10:46.010] [SPEAKER_03]: It's like that you see in that meme
+[00:10:46.550 --> 00:10:51.170] [SPEAKER_03]: There's an Instagram account. I think it's called Chadvertizing yeah, and it's like the meme of the guy
+[00:10:51.170 --> 00:10:54.710] [SPEAKER_03]: What the blonde hair just sitting back go abroad ripping all the ads?
+[00:10:54.990 --> 00:10:58.870] [SPEAKER_00]: Yeah, and it's also just it's in terms of resources
+[00:11:00.250 --> 00:11:03.390] [SPEAKER_00]: Such a time savings and if it works better just as well
+[00:11:03.390 --> 00:11:08.070] [SPEAKER_00]: You can say so much in terms of media buying totally there's probably some cool learnings to add
+[00:11:08.070 --> 00:11:11.490] [SPEAKER_03]: So no surround like because best buy such a big partner for retail
+[00:11:11.490 --> 00:11:14.630] [SPEAKER_03]: Yeah, and then there's Amazon and there's the sonos.com site
+[00:11:14.630 --> 00:11:16.950] [SPEAKER_03]: Did you find any cool learnings there or experiments?
+[00:11:17.570 --> 00:11:24.170] [SPEAKER_00]: Yeah, this is actually why I signed up with house is one of the the big reasons was a lot of sonos business happens in retail
+[00:11:24.170 --> 00:11:30.930] [SPEAKER_00]: And so we were missing a very large part of the the picture with with click-based attribution only focusing on D to C
+[00:11:30.930 --> 00:11:31.650] [SPEAKER_00]: So
+[00:11:31.650 --> 00:11:37.710] [SPEAKER_00]: I'd say the the best tests that we ran at sonos and the most interesting tests were understanding the dynamics of like
+[00:11:38.110 --> 00:11:39.910] [SPEAKER_00]: Where people are buying so
+[00:11:39.910 --> 00:11:41.470] [SPEAKER_00]: search for example
+[00:11:41.470 --> 00:11:45.630] [SPEAKER_00]: Even if any given search tests didn't show incremental left in revenue
+[00:11:46.230 --> 00:11:51.330] [SPEAKER_00]: What we did notice was that it was share-shifting users from retail into D to C
+[00:11:51.330 --> 00:11:55.070] [SPEAKER_00]: We're our margins for better and so if you're looking at like profit optimization
+[00:11:55.750 --> 00:11:57.050] [SPEAKER_00]: Like all right, well
+[00:11:57.050 --> 00:12:02.410] [SPEAKER_00]: It's not incremental revenue, but we're actually improving our margins by moving users into D to C
+[00:12:02.790 --> 00:12:07.570] [SPEAKER_00]: And so that was actually like a huge learning and and really really interesting for the business
+[00:12:07.570 --> 00:12:14.750] [SPEAKER_03]: Did you find there was a higher multiplier on LTV for customers who were both retail and D to C customers versus those who were just like
+[00:12:14.750 --> 00:12:23.510] [SPEAKER_00]: Best by only or a D to C only or Amazon only I do think that buying through D to C like the once you have users in your ecosystem
+[00:12:23.510 --> 00:12:28.050] [SPEAKER_00]: Buying through D to C. You can email them and you can kind of just get them into the ecosystem
+[00:12:28.050 --> 00:12:30.650] [SPEAKER_00]: So I do feel like
+[00:12:30.650 --> 00:12:35.270] [SPEAKER_00]: The goal was always to get users in into D to C yeah fully agreeing
+[00:12:35.270 --> 00:12:37.230] [SPEAKER_03]: Okay, I want to talk about more
+[00:12:37.230 --> 00:12:42.610] [SPEAKER_03]: Incrementality 101 so pretend we're explaining incrementality to somebody who's never heard about incrementality
+[00:12:42.610 --> 00:12:44.530] [SPEAKER_03]: We have the health care example, which I think is amazing
+[00:12:44.530 --> 00:12:49.670] [SPEAKER_03]: But like why why would somebody use house and not just use like Google's
+[00:12:49.670 --> 00:12:51.330] [SPEAKER_03]: You know Google analytics or metas
+[00:12:52.190 --> 00:12:55.670] [SPEAKER_03]: Metas own incrementality tests like why why should somebody use house?
+[00:12:55.930 --> 00:13:02.210] [SPEAKER_00]: Yeah, this is a great question and I'm really glad we're covering it because I think there's there's a bit of compute confusion out there
+[00:13:02.210 --> 00:13:03.850] [SPEAKER_00]: in terms of like what you need and when
+[00:13:03.850 --> 00:13:10.970] [SPEAKER_00]: So there are three types of of incrementality tests and I'll go through each of them. Okay first type is a geoxpirament
+[00:13:10.970 --> 00:13:13.770] [SPEAKER_00]: This is primarily what we're what we're doing at house
+[00:13:13.770 --> 00:13:20.330] [SPEAKER_00]: In the reason is it has a lot of advantages number one privacy durable in terms of the data
+[00:13:20.330 --> 00:13:25.130] [SPEAKER_00]: I know you're you're curious about the data. Yeah, we only we don't need any user level data at all
+[00:13:25.130 --> 00:13:32.830] [SPEAKER_00]: No PII so all we need is like sales in revenue by day by geow which any e-combran will have pretty easily
+[00:13:33.630 --> 00:13:40.130] [SPEAKER_00]: And so with that aggregate level data we're able to do testing across any channel online or offline
+[00:13:40.990 --> 00:13:46.450] [SPEAKER_00]: So that's I think a key characteristic is that it's been resilient to all the privacy changes
+[00:13:47.150 --> 00:13:52.730] [SPEAKER_00]: The second big reason why you want to go with geow is because you test in the exact same way
+[00:13:52.990 --> 00:13:56.410] [SPEAKER_00]: Across every channel online or offline so
+[00:13:56.410 --> 00:14:01.710] [SPEAKER_00]: You know meta is their incrementality tool works different from Google's and you know
+[00:14:01.710 --> 00:14:05.470] [SPEAKER_00]: Snap doesn't even have one as an example and so by geotesting
+[00:14:05.470 --> 00:14:11.610] [SPEAKER_00]: You're running the exact same methodology standardized across every channel. You test OTT direct mail
+[00:14:11.610 --> 00:14:12.890] [SPEAKER_00]: Out of home even
+[00:14:12.890 --> 00:14:19.530] [SPEAKER_00]: So that's why we work on geome one of the common complaints about geow is that it's a little bit more noisy than user level
+[00:14:19.530 --> 00:14:23.110] [SPEAKER_00]: And so there've been a lot of advancements in terms of like the science here
+[00:14:23.850 --> 00:14:30.150] [SPEAKER_00]: With what we call synthetic control methodology to like squeeze as much precision and power out of these tests as we can because
+[00:14:30.150 --> 00:14:36.810] [SPEAKER_00]: Historically like people wanted you geotesting they understand it, but it's very expensive and you need to run it for a long time
+[00:14:36.810 --> 00:14:40.690] [SPEAKER_00]: You perhaps need a larger cold back group than then you would like
+[00:14:40.690 --> 00:14:46.230] [SPEAKER_00]: So that's where like a lot of the advancements in the science is making a big difference in terms of adoption
+[00:14:47.190 --> 00:14:52.830] [SPEAKER_00]: So the second piece is user level studies. This is the second type of incrementality test and
+[00:14:52.830 --> 00:14:56.450] [SPEAKER_00]: User level testing is run by Facebook and Google
+[00:14:56.450 --> 00:15:01.850] [SPEAKER_00]: This is called conversion lift you can ask meta or Google to set that up on your behalf
+[00:15:01.850 --> 00:15:06.390] [SPEAKER_00]: I think meta is as a little more like available in terms of on the front end Google you have to go
+[00:15:07.310 --> 00:15:11.570] [SPEAKER_00]: Yeah, you have to go bag and in plead to set it up
+[00:15:11.570 --> 00:15:12.570] [SPEAKER_00]: but
+[00:15:13.790 --> 00:15:20.170] [SPEAKER_00]: The reason you can't do a user level test on your own is because in the world of acquisition or prospecting
+[00:15:20.170 --> 00:15:24.010] [SPEAKER_00]: You don't know who these users are like you haven't acquired them yet
+[00:15:24.010 --> 00:15:28.830] [SPEAKER_00]: So you need Google and meta in terms of their universe to be able to like cleanly
+[00:15:28.830 --> 00:15:34.290] [SPEAKER_00]: Allocate a user to treatment versus control for you because you they're unknown to you at that point
+[00:15:34.970 --> 00:15:39.390] [SPEAKER_00]: And so Google and meta have that capability with the with the privacy changes
+[00:15:39.390 --> 00:15:46.070] [SPEAKER_00]: It's been harder for them to do this like allocate a user and a treatment versus control and then and then follow them through to purchase
+[00:15:46.070 --> 00:15:51.330] [SPEAKER_00]: So it's been it's been a bit more challenged since iOS 14 and
+[00:15:51.330 --> 00:15:52.610] [SPEAKER_00]: Since all these privacy changes
+[00:15:52.610 --> 00:15:58.690] [SPEAKER_00]: For example, I think Google's conversion lift product only works on Android and then they're modeling iOS
+[00:15:58.690 --> 00:16:02.150] [SPEAKER_00]: Yeah because it maybe I should get fact check there
+[00:16:02.150 --> 00:16:07.930] [SPEAKER_00]: But that was my understanding when I last spoke to them about it because they actually can't allocate users cleanly on iOS
+[00:16:07.930 --> 00:16:11.810] [SPEAKER_00]: They just don't have insight and visibility there all these all these like companies
+[00:16:11.810 --> 00:16:15.490] [SPEAKER_03]: It's like they talk about privacy until they have to adhere to yep
+[00:16:16.030 --> 00:16:20.770] [SPEAKER_00]: Yeah, it's been it's been brutal for for meta and Google in terms of the apple changes
+[00:16:20.770 --> 00:16:28.210] [SPEAKER_00]: Yeah, I think they're bouncing back and like capy is something that really I think got meta back to steady state
+[00:16:29.370 --> 00:16:34.870] [SPEAKER_00]: So that's a user level test and like this is where my advice is if you're only spending on Google
+[00:16:34.870 --> 00:16:38.010] [SPEAKER_00]: You're only spending on meta and you're small enough
+[00:16:38.010 --> 00:16:45.850] [SPEAKER_00]: That it's not it's not gotten fuzzy yet in terms of what's kind of who's coming in organically versus through paid
+[00:16:46.210 --> 00:16:50.170] [SPEAKER_00]: Like meta and Google conversion list studies might get you most of the way there in the beginning
+[00:16:51.170 --> 00:16:54.670] [SPEAKER_00]: It's just you know once you start expanding outside of those two channels
+[00:16:55.410 --> 00:16:58.090] [SPEAKER_00]: Pinterest and Reddit and snap like they don't have
+[00:16:59.130 --> 00:17:01.850] [SPEAKER_00]: conversion lift tools out of the box and then
+[00:17:02.330 --> 00:17:09.730] [SPEAKER_00]: There's won't be comparable to meta is because they'll be using different methodology and so that's when we start seeing customers kind of coming to house
+[00:17:10.070 --> 00:17:15.410] [SPEAKER_00]: When they're spending and maybe more than a couple of channels and it's getting really hard to kind of
+[00:17:15.410 --> 00:17:16.010] [SPEAKER_00]: Untangle
+[00:17:16.010 --> 00:17:24.030] [SPEAKER_00]: paid growth versus organic given all the different channels that they're spending in and like the contribution of a channel like TV or
+[00:17:24.030 --> 00:17:29.170] [SPEAKER_00]: YouTube when we know primarily that it's like assisting and making your other channels more efficient
+[00:17:29.170 --> 00:17:33.850] [SPEAKER_00]: But not a direct acquisition driver so that's when you know you go up funnel
+[00:17:33.850 --> 00:17:40.990] [SPEAKER_00]: You start spending in more channels. You really need geotesting because you don't have any options in the user level testing world
+[00:17:40.990 --> 00:17:46.610] [SPEAKER_03]: Right, so okay, so so it sounds like until you're spending on multiple channels
+[00:17:46.610 --> 00:17:50.070] [SPEAKER_03]: You can actually just leverage meta and Google's own conversion lift study
+[00:17:50.070 --> 00:17:56.350] [SPEAKER_03]: But do those do those places factor in multiple points of distribution as well or just your site? Great question
+[00:17:56.350 --> 00:17:58.450] [SPEAKER_00]: So this is where no
+[00:17:58.450 --> 00:18:03.370] [SPEAKER_03]: They would affect right I feel like for people should visualize like on on one side
+[00:18:03.370 --> 00:18:07.170] [SPEAKER_03]: It's like the channels you're spending on on the other side. It's the points of distribution
+[00:18:07.170 --> 00:18:12.890] [SPEAKER_03]: And in the middle is really where incrementality. I think shines yep, right? Yep. That's a great point
+[00:18:12.890 --> 00:18:19.530] [SPEAKER_00]: No matter what size you are if Amazon and retail as a sales channel or starting to represent like a meaningful
+[00:18:19.530 --> 00:18:20.790] [SPEAKER_00]: percentage of the business
+[00:18:20.790 --> 00:18:23.610] [SPEAKER_00]: Then you probably need to be doing geotesting
+[00:18:23.610 --> 00:18:29.690] [SPEAKER_00]: Because you you can't feed that Amazon data back to meta to power conversion lift right
+[00:18:30.390 --> 00:18:35.910] [SPEAKER_00]: So yeah, that's that's a really great point like no matter what your size if you're primarily offline
+[00:18:35.910 --> 00:18:41.470] [SPEAKER_00]: In terms of retail and in Amazon you should be thinking about geotesting. Yeah, and is there a third?
+[00:18:41.930 --> 00:18:43.730] [SPEAKER_00]: Yeah, yeah, so the third
+[00:18:44.370 --> 00:18:52.590] [SPEAKER_00]: type of of of incrementality testing is what I call like natural experiments at house and this was the honey example where if you can't geosegment
+[00:18:53.470 --> 00:19:00.290] [SPEAKER_00]: You need to kind of fall back on on off-testing where you just shut it off or you turn something on that you haven't been running
+[00:19:00.290 --> 00:19:05.810] [SPEAKER_00]: And you observe the business. You have maybe like a forecast of what you expect to do and then your actuals
+[00:19:06.630 --> 00:19:09.250] [SPEAKER_00]: Based on whatever change you made and
+[00:19:10.150 --> 00:19:14.150] [SPEAKER_00]: Like a price change in terms of your product if you increase prices
+[00:19:14.150 --> 00:19:17.490] [SPEAKER_00]: You might not do like a controlled experiment there
+[00:19:17.490 --> 00:19:22.130] [SPEAKER_00]: But you can look and see before and after that price increase what happened to the business
+[00:19:23.310 --> 00:19:25.790] [SPEAKER_00]: Intrepidatelyn some insights there. It's a lot less precise
+[00:19:25.790 --> 00:19:33.450] [SPEAKER_00]: There is no counterfactual so it's it's more of a more correlational than then causal but I like to always say like
+[00:19:33.450 --> 00:19:38.430] [SPEAKER_00]: We're doing the best we can here with a channel like influencer if you're doing influencer seating
+[00:19:38.430 --> 00:19:43.150] [SPEAKER_00]: They can't geosegment those posts be so on understand how it's working
+[00:19:43.150 --> 00:19:47.610] [SPEAKER_00]: Maybe you fall back on like a time series where you just go on off. Oh, I love that
+[00:19:48.450 --> 00:19:53.310] [SPEAKER_03]: Could you explain the difference between correlation and causal? Yeah, because people are gonna think it's casual
+[00:19:53.310 --> 00:20:00.390] [SPEAKER_00]: I know I know we yeah, we just launched the new product called causal attribution and I'm hearing a lot of of talk of
+[00:20:00.390 --> 00:20:05.310] [SPEAKER_00]: Casual attribution, yeah, just just chill and just just doing some casual attribution here
+[00:20:07.930 --> 00:20:09.090] [SPEAKER_00]: correlation causation
+[00:20:09.090 --> 00:20:14.050] [SPEAKER_00]: correlation is just that that classic example of like brand search, you know
+[00:20:14.050 --> 00:20:15.470] [SPEAKER_00]: I am
+[00:20:15.470 --> 00:20:19.770] [SPEAKER_00]: Spending on brand search. I have a user coming in and then they purchase
+[00:20:19.770 --> 00:20:25.110] [SPEAKER_00]: Well was that a correlational conversion did that add just happen to hit someone who was coming in anyway
+[00:20:25.110 --> 00:20:30.590] [SPEAKER_00]: Or was it causal did that add actually influence somebody who wasn't going to purchase anyway
+[00:20:30.590 --> 00:20:39.230] [SPEAKER_00]: to make that purchase and so we're looking for the causal conversions and I could great example of Sonos with with you and in your story
+[00:20:39.230 --> 00:20:41.330] [SPEAKER_00]: Where you said you have like 10 or 15 products
+[00:20:42.170 --> 00:20:46.830] [SPEAKER_00]: If we get an add in front of you and then you buy the new headphones that just launched
+[00:20:47.670 --> 00:20:53.490] [SPEAKER_00]: Was it the ad that that caused you to buy or were you gonna buy no matter what because you're such a big Sonos fan
+[00:20:53.490 --> 00:20:56.990] [SPEAKER_00]: We're trying to spend our money on the causal conversions and
+[00:20:57.830 --> 00:21:04.570] [SPEAKER_00]: and try to move away and shift away from just looking at correlational conversions because there's probably a lot of waste there
+[00:21:05.150 --> 00:21:09.150] [SPEAKER_00]: one thing I do like to note is that
+[00:21:09.150 --> 00:21:13.730] [SPEAKER_00]: It kind of sounds bad. It's like this has a negative connotation where it's like oh
+[00:21:14.290 --> 00:21:19.150] [SPEAKER_00]: A lot of your your spend is not incremental so it's probably a discount on your channels
+[00:21:19.150 --> 00:21:25.170] [SPEAKER_00]: But sometimes folks are undervaluing the media like you can use incrementality to actually add a multiplier
+[00:21:25.170 --> 00:21:32.010] [SPEAKER_00]: And YouTube and in OTT are just two obvious examples where I think folks are actually understating the impact
+[00:21:32.010 --> 00:21:34.050] [SPEAKER_00]: And when you start to look at incrementality
+[00:21:34.050 --> 00:21:37.790] [SPEAKER_00]: You move off of click base attribution for some of these view-based channels
+[00:21:37.790 --> 00:21:43.770] [SPEAKER_00]: You actually end up adding a multiplier where you find out it's like two X more incremental than then your MTA was showing
+[00:21:43.770 --> 00:21:48.490] [SPEAKER_03]: Yeah, that's so interesting. I feel like that's something I'm hearing a lot more about YouTube is that
+[00:21:48.490 --> 00:21:49.930] [SPEAKER_03]: When they
+[00:21:49.930 --> 00:21:52.510] [SPEAKER_03]: Like actually Cody was saying this too when he runs YouTube and
+[00:21:52.510 --> 00:21:57.170] [SPEAKER_03]: Tests it with house he sees a really good incrementality factor behind it
+[00:21:57.170 --> 00:21:59.270] [SPEAKER_03]: But when you look at just the
+[00:21:59.270 --> 00:22:03.030] [SPEAKER_03]: Day-to-Day analytics of the platform, you know, you would think it's not working at all
+[00:22:03.030 --> 00:22:05.210] [SPEAKER_00]: Yeah, I love YouTube. I think I'm one of
+[00:22:05.630 --> 00:22:09.690] [SPEAKER_00]: YouTube's best sales people because I say like performance marketers think it just can't work
+[00:22:09.690 --> 00:22:11.890] [SPEAKER_00]: Because they're looking at click base attribution
+[00:22:11.890 --> 00:22:17.270] [SPEAKER_00]: So there's a ton like ton of opportunity in terms of competition like your competition is not there
+[00:22:17.270 --> 00:22:18.750] [SPEAKER_00]: Because they think it doesn't work
+[00:22:18.750 --> 00:22:22.850] [SPEAKER_00]: Right and so in terms of just auction dynamics and competitive pressure
+[00:22:22.850 --> 00:22:26.490] [SPEAKER_00]: There's a lot of like open open space there for you
+[00:22:27.270 --> 00:22:31.330] [SPEAKER_02]: Marketing measurement is hard and honestly it's just getting worse day by day
+[00:22:31.590 --> 00:22:37.370] [SPEAKER_02]: Reported conversions are often double counted across platforms and click-based attribution is misleading and oftentimes
+[00:22:37.370 --> 00:22:43.010] [SPEAKER_02]: Inhumlee today sophisticated marketers are moving away from attribution and more towards
+[00:22:43.010 --> 00:22:47.310] [SPEAKER_02]: Incomentality in order to maximize growth and efficiency. This is where house comes in
+[00:22:47.310 --> 00:22:53.490] [SPEAKER_02]: House is a fully self-service experimentation platform that allows you to configure regional test and control
+[00:22:53.490 --> 00:22:57.730] [SPEAKER_02]: Experiments to measure incrementality and identify points of diminishing returns
+[00:22:57.730 --> 00:23:02.350] [SPEAKER_02]: Brands like caraway, Jones Road Beauty, Ritual, and Hexclad
+[00:23:02.350 --> 00:23:07.630] [SPEAKER_02]: They all use house and it helps some say millions of dollars because they can quickly identify what is actually driving
+[00:23:07.630 --> 00:23:11.490] [SPEAKER_02]: incremental sales versus just what's over reporting sales
+[00:23:11.490 --> 00:23:15.210] [SPEAKER_02]: These types of tests are super hard to set up and can be really tricky to get right
+[00:23:15.210 --> 00:23:19.410] [SPEAKER_02]: That's why my favorite solution for this is house. They have cutting edge technology
+[00:23:19.410 --> 00:23:26.010] [SPEAKER_02]: They have PhD economists and data scientists who built these solutions before at companies like Amazon and Google
+[00:23:26.010 --> 00:23:30.450] [SPEAKER_02]: The platform allows you to test all your marketing channels both online and offline
+[00:23:30.450 --> 00:23:35.130] [SPEAKER_02]: It allows you to measure the impact across these channels whether it's data-see retailer Amazon
+[00:23:35.130 --> 00:23:40.790] [SPEAKER_02]: And honestly, you can really just upload your sales reports from your retail stores and it runs all the numbers for you
+[00:23:40.790 --> 00:23:45.090] [SPEAKER_02]: And it allows you to calibrate your platform reporting for incrementality using house
+[00:23:45.210 --> 00:23:52.190] [SPEAKER_02]: With how so you can finally answer questions like what is the ideal spend volume in this channel or what is the right mix of upper and lower
+[00:23:52.190 --> 00:23:52.910] [SPEAKER_02]: Funeral Media?
+[00:23:53.870 --> 00:23:59.210] [SPEAKER_02]: Finally add scientific rigor to your marketing and make most impact with your spend to learn more
+[00:23:59.210 --> 00:24:05.750] [SPEAKER_02]: Got a house.io slash limited that's HAUS dot iO slash limited to get started
+[00:24:07.320 --> 00:24:08.920] [SPEAKER_03]: What are some other
+[00:24:08.920 --> 00:24:11.480] [SPEAKER_03]: Interesting like insights tactics that you see
+[00:24:12.400 --> 00:24:16.640] [SPEAKER_03]: From experiments at house that you're like wow I can't believe more people aren't doing this or
+[00:24:16.640 --> 00:24:21.920] [SPEAKER_03]: You know, this is our secret book of golden nuggets right here. I actually brought a couple
+[00:24:21.920 --> 00:24:28.000] [SPEAKER_00]: I think it's timely we're in in mid September and so I wanted to talk about this idea like filling the funnel
+[00:24:28.000 --> 00:24:31.480] [SPEAKER_03]: Yes, I call it I call it filling the toilet and then flush the toilet
+[00:24:32.700 --> 00:24:33.740] [SPEAKER_00]: That's a good one
+[00:24:33.740 --> 00:24:37.340] [SPEAKER_00]: I don't know if we should if we should put that in our marketing material
+[00:24:37.340 --> 00:24:39.040] [SPEAKER_00]: Yeah, yeah, I'll think about it
+[00:24:39.040 --> 00:24:42.520] [SPEAKER_00]: So so filling the funnel everybody right now is
+[00:24:43.040 --> 00:24:50.760] [SPEAKER_00]: Preparing for black Friday cyber Monday they're trying to figure out upper funnel like reach campaigns on meta as an example
+[00:24:51.280 --> 00:24:58.780] [SPEAKER_00]: And in the best way to kind of you know fill the funnel maximize reach so that they can have the best cue for that they can
+[00:24:58.780 --> 00:25:03.840] [SPEAKER_00]: And so we looked back at last year cue for and we looked at
+[00:25:04.600 --> 00:25:11.180] [SPEAKER_00]: All of the experiments that we ran here October November December and so we have the immediate lift
+[00:25:11.180 --> 00:25:14.120] [SPEAKER_00]: Which was the lift driven during the period of the the experiment?
+[00:25:14.660 --> 00:25:17.760] [SPEAKER_00]: Maybe most of the arcs per month on average are like three weeks
+[00:25:17.760 --> 00:25:23.740] [SPEAKER_00]: But then we looked at the laid lift and we have this feature at house that we call a post treatment window
+[00:25:23.740 --> 00:25:29.680] [SPEAKER_00]: Where we just we stop the test we revert back to national or or whatever your business is usual is
+[00:25:29.680 --> 00:25:34.580] [SPEAKER_00]: And we just watch and observe the behavior of the treatment markets over time
+[00:25:35.120 --> 00:25:41.120] [SPEAKER_00]: To understand the lagging impact and like hacks clad did a great case study on this where there was there was quite a bit of delayed lift
+[00:25:41.120 --> 00:25:45.340] [SPEAKER_00]: And it makes sense right for higher price point like AOV products
+[00:25:45.820 --> 00:25:50.240] [SPEAKER_00]: That they're not gonna convert like in the first two weeks and it might need a little bit more time
+[00:25:50.820 --> 00:25:52.480] [SPEAKER_00]: So we looked at
+[00:25:52.480 --> 00:25:55.760] [SPEAKER_00]: immediate lift versus delayed lift and we found that
+[00:25:56.460 --> 00:25:58.620] [SPEAKER_00]: Let me let me just plot my notes here. So
+[00:25:58.620 --> 00:26:05.320] [SPEAKER_00]: Delayed lift exceeded a immediate lift in 73% of the experiments that we ran in cue for
+[00:26:05.320 --> 00:26:07.240] [SPEAKER_03]: Wow and how how long was that period?
+[00:26:07.460 --> 00:26:13.160] [SPEAKER_00]: It was like another three weeks. Oh, so not that long not that long not we're not looking at months here
+[00:26:13.160 --> 00:26:15.820] [SPEAKER_00]: Right we're just looking at you know another two to three weeks after
+[00:26:15.820 --> 00:26:18.480] [SPEAKER_00]: And so like what does this mean for you?
+[00:26:18.660 --> 00:26:22.480] [SPEAKER_00]: I think in terms of of buyers who are thinking about this right now
+[00:26:22.480 --> 00:26:26.260] [SPEAKER_00]: You might want to take your efficiency targets down a little bit right now
+[00:26:26.260 --> 00:26:30.860] [SPEAKER_00]: In the spirit and like understanding that you're gonna reap a lot of the benefits here
+[00:26:31.360 --> 00:26:37.000] [SPEAKER_00]: Come November when people are actually in market buying right so if you're running these meta reach tests
+[00:26:37.000 --> 00:26:38.260] [SPEAKER_00]: Are YouTube
+[00:26:38.260 --> 00:26:41.820] [SPEAKER_00]: Don't just shut it off because you don't see it working right away
+[00:26:42.340 --> 00:26:44.560] [SPEAKER_00]: If you're able to spend
+[00:26:45.460 --> 00:26:48.220] [SPEAKER_00]: It a slightly lower efficiency right now
+[00:26:48.220 --> 00:26:53.720] [SPEAKER_00]: You are going to reap those benefits because you're gonna have more users in market aware of your product come November
+[00:26:53.720 --> 00:26:54.360] [SPEAKER_03]: Right
+[00:26:54.360 --> 00:26:58.320] [SPEAKER_00]: Yeah, that's fascinating. Yeah, this is a big one and then the other
+[00:26:59.340 --> 00:27:04.480] [SPEAKER_00]: Insight from looking back at last here cue four is that video campaigns drove
+[00:27:05.380 --> 00:27:11.960] [SPEAKER_00]: 286% more Delayed lift than search video view campaigns video like YouTube OTT oh
+[00:27:11.960 --> 00:27:15.460] [SPEAKER_00]: Okay yep and meta reach was in the middle there so
+[00:27:15.460 --> 00:27:19.100] [SPEAKER_00]: Really search was yep search was the least amount of Delayed lift
+[00:27:19.880 --> 00:27:27.180] [SPEAKER_00]: Video YouTube OTT was by far the most meta reach was somewhere in the middle there was there a certain threshold as to where reach became
+[00:27:27.800 --> 00:27:32.160] [SPEAKER_03]: useful. I feel like normally reach campaigns are like they just target the brokeest users
+[00:27:32.160 --> 00:27:37.880] [SPEAKER_00]: Yeah, they have not got click or buy anything. Yeah, there's a reach is not an obvious like light it up
+[00:27:37.880 --> 00:27:42.540] [SPEAKER_00]: And it works. I know even Cody and some of our customers at house have had to
+[00:27:42.540 --> 00:27:48.780] [SPEAKER_00]: Really focus on all right what is the right way to buy reach campaigns because it's not just a set of and forget it
+[00:27:49.640 --> 00:27:55.320] [SPEAKER_00]: So you kind of have to work at it same with YouTube where you can't just light it up and expect it to work out of the gates
+[00:27:55.320 --> 00:27:56.880] [SPEAKER_00]: There's some tactical
+[00:27:58.060 --> 00:28:04.720] [SPEAKER_00]: Improvements and optimizations that you need to make in terms of audience targeting like we're meta is just like leave it alone go broad
+[00:28:04.720 --> 00:28:06.840] [SPEAKER_00]: And that typically works for most folks
+[00:28:06.840 --> 00:28:12.440] [SPEAKER_00]: I don't think it's the same in YouTube and certainly not in meta reach campaigns right yeah, I feel like
+[00:28:13.580 --> 00:28:14.020] [SPEAKER_03]: when
+[00:28:15.580 --> 00:28:22.020] [SPEAKER_03]: Normally I feel like once you hit the like a million dollar spent million dollar a month spend mark in meta
+[00:28:22.020 --> 00:28:26.940] [SPEAKER_03]: Then like add to cart campaign start to get useful and
+[00:28:26.940 --> 00:28:35.960] [SPEAKER_03]: Landing page view campaigns or even view content as the conversion event and then you know the last thing I think of as reach but do you find
+[00:28:36.980 --> 00:28:43.020] [SPEAKER_03]: Do you find that different conversion events at different levels of spend will drive different incrementality like could you
+[00:28:43.020 --> 00:28:49.720] [SPEAKER_03]: Say that you know for the first you know one and a half million dollars of spend like you really just you can focus on purchase
+[00:28:49.720 --> 00:28:55.400] [SPEAKER_03]: Objective but then the next two million to you know to not make sure you're just
+[00:28:56.600 --> 00:29:00.540] [SPEAKER_03]: Decreasing efficiency you should actually run add to cart because that fuels the purchase campaigns
+[00:29:01.180 --> 00:29:03.640] [SPEAKER_00]: We have a lot of customers testing into the right
+[00:29:04.700 --> 00:29:08.240] [SPEAKER_00]: Optimization goal for their specific business like
+[00:29:08.820 --> 00:29:11.520] [SPEAKER_00]: Sometimes folks will go they'll try to go up funnel
+[00:29:11.520 --> 00:29:18.480] [SPEAKER_00]: But they'll go to add to cart and it won't actually achieve the objective of like trying to reach more people
+[00:29:18.480 --> 00:29:24.120] [SPEAKER_00]: They're only expanding that universe a little bit and so that's where
+[00:29:25.300 --> 00:29:28.140] [SPEAKER_00]: It's it's kind of like a test it for your own business
+[00:29:28.140 --> 00:29:34.520] [SPEAKER_00]: If your goal is really to maximize reach and fill the funnel, maybe add to cart is not high enough up
+[00:29:35.140 --> 00:29:40.840] [SPEAKER_00]: So a lot of folks in in caroay and that team has been testing with add to cart
+[00:29:41.440 --> 00:29:48.220] [SPEAKER_00]: Versus landing page views versus video view and they've I think learned a lot so it's this is kind of goes back to the point of like
+[00:29:48.220 --> 00:29:53.280] [SPEAKER_00]: You can't just set them forget you really need a test into the right way to buy up or funnel. Do you think that
+[00:29:55.420 --> 00:29:59.320] [SPEAKER_03]: Like okay, there's always this debate of like brand marketing versus performance marketing
+[00:29:59.320 --> 00:30:03.520] [SPEAKER_03]: This to me seems like the future of brand marketing. It's like actually understanding
+[00:30:04.320 --> 00:30:09.780] [SPEAKER_03]: Inchrymentality insights and then leveraging it, you know on where you spend next most of the alcohol companies that
+[00:30:10.480 --> 00:30:16.840] [SPEAKER_03]: That we work with like you know the large conglomerates. They spend six months running a campaign six months analyzing if it worked
+[00:30:16.840 --> 00:30:21.260] [SPEAKER_03]: By the time they're like halfway through analyzing they have to start creative prep for the next campaign
+[00:30:21.260 --> 00:30:27.360] [SPEAKER_03]: Do you think the future of brand marketing is like a brand market or running campaigns and then looking at house for reporting?
+[00:30:27.720 --> 00:30:30.060] [SPEAKER_00]: Yep, yep. We work with with
+[00:30:30.060 --> 00:30:35.380] [SPEAKER_00]: pernora card, which is Jamison and an absolute so we actually they
+[00:30:36.160 --> 00:30:39.500] [SPEAKER_00]: Just I don't know if I can be saying this, but they just tested this fear
+[00:30:40.040 --> 00:30:45.240] [SPEAKER_00]: for Jason yeah, they tested that with house. Yeah, we have some insights coming there. Okay, so how does that work?
+[00:30:45.720 --> 00:30:49.360] [SPEAKER_03]: So so I know the inputs you can have are obviously like online sales
+[00:30:49.360 --> 00:30:55.600] [SPEAKER_03]: But then you can upload a bunch of sales reports into house. Yep, so like what did they what were they uploading and how were they running the experiment?
+[00:30:55.940 --> 00:30:59.780] [SPEAKER_00]: Yep, they just they send us their sales data selling to the retailers
+[00:31:00.340 --> 00:31:05.520] [SPEAKER_00]: And because there's more distributor data yeah, it's more distributor data because it's selling data
+[00:31:05.520 --> 00:31:12.020] [SPEAKER_00]: We do have a bit of a delay like that doesn't you know that's not immediately tied to add exposure
+[00:31:12.580 --> 00:31:17.260] [SPEAKER_00]: So our results come through whereas it's pretty typical for us to publish results
+[00:31:17.260 --> 00:31:23.060] [SPEAKER_00]: a week after test ends with pernora probably looking at him on or so. And is that because you're waiting for the second
+[00:31:23.060 --> 00:31:27.540] [SPEAKER_03]: Reorder from the distributor? Exactly. To look at the time difference. Yep. Wow. Yep.
+[00:31:27.540 --> 00:31:34.300] [SPEAKER_00]: So yeah, we work with pernora and what's what's interesting is exactly what you said
+[00:31:34.300 --> 00:31:40.400] [SPEAKER_00]: is the reason they work with us is because they need results quicker. Right. They need you know results in
+[00:31:41.100 --> 00:31:45.740] [SPEAKER_00]: weeks months not six months to a year which is what they get through MMM so
+[00:31:47.040 --> 00:31:50.500] [SPEAKER_00]: The future of brand marketing that's a really good question
+[00:31:51.060 --> 00:31:53.620] [SPEAKER_00]: We talk about this all the time my
+[00:31:55.540 --> 00:32:00.960] [SPEAKER_00]: Observation is that folks really only want to buy brand marketing in so far as it drives sales
+[00:32:00.960 --> 00:32:06.880] [SPEAKER_00]: Like nobody really cares about how the awareness metrics are changing the finance people the CFO
+[00:32:06.880 --> 00:32:13.880] [SPEAKER_00]: They need to see some impact to the bottom line and so that's why I think the future is going to be
+[00:32:13.880 --> 00:32:17.060] [SPEAKER_00]: Observing maybe shallower KPIs like site visits
+[00:32:17.060 --> 00:32:23.780] [SPEAKER_00]: in real time but running longer experiments with that post treatment window to understand ultimately how those
+[00:32:24.740 --> 00:32:30.420] [SPEAKER_03]: like you know leading indicators or are driving sales. Yeah, could you speak to like how okay? So one
+[00:32:30.420 --> 00:32:36.940] [SPEAKER_03]: thing I rented about assuming this episode comes out when it does last week episode one thing I
+[00:32:36.940 --> 00:32:42.880] [SPEAKER_03]: rented about was how so many of our clients will complain that their CPAs are too high or that they can't
+[00:32:42.880 --> 00:32:48.240] [SPEAKER_03]: get past a certain spend threshold and Facebook without seeing diminishing returns and
+[00:32:48.240 --> 00:32:54.460] [SPEAKER_03]: the biggest thing I've been saying is like well actually like we can do everything we possibly need to
+[00:32:54.460 --> 00:32:59.340] [SPEAKER_03]: on the performance side we can make the best creative the best offers test landing pages formats of
+[00:32:59.340 --> 00:33:05.280] [SPEAKER_03]: creative but unless the brand is being built outside of this performance marketing ecosystem chamber
+[00:33:05.840 --> 00:33:12.860] [SPEAKER_03]: like you know I think of it as like the brand team puts out pixie dust on the floor and the
+[00:33:12.860 --> 00:33:17.500] [SPEAKER_03]: it's a valid statement that unless you're built like or another way to think about this is like
+[00:33:17.500 --> 00:33:22.500] [SPEAKER_03]: you ever seen that movie cars yeah when lightning McQueen is like paving the road with the thing
+[00:33:22.500 --> 00:33:27.200] [SPEAKER_03]: behind him I think of it as like paving the road is brand marketing and the car is driving on it
+[00:33:27.200 --> 00:33:31.740] [SPEAKER_03]: is performance marketing the better you pave the road the smoother the car is going to drive
+[00:33:31.740 --> 00:33:37.120] [SPEAKER_03]: and vice versa would you say that that's a valid statement totally totally we learn this at quibi too
+[00:33:37.120 --> 00:33:42.140] [SPEAKER_00]: right like we could have the best performance marketing engine in the world but if there's no brand
+[00:33:42.140 --> 00:33:47.680] [SPEAKER_00]: and there's no brand equity you're gonna hit that wall that you mentioned in terms of rising costs
+[00:33:48.620 --> 00:33:54.080] [SPEAKER_00]: I have a bit of a hot take on on brand marketing I so many people talk about this on twitter
+[00:33:54.080 --> 00:34:03.220] [SPEAKER_00]: but if you're trying to build a brand in maximize reach why then go into TV and all these like
+[00:34:03.220 --> 00:34:07.740] [SPEAKER_00]: like why not just focus on building an amazing brand in the channels that have the most scale
+[00:34:07.740 --> 00:34:13.400] [SPEAKER_00]: which is like take talk meta you too like I think it's interesting that people right off
+[00:34:14.020 --> 00:34:18.300] [SPEAKER_00]: those channels when they think about brand marketing because they're thinking of this as needing
+[00:34:18.300 --> 00:34:23.620] [SPEAKER_00]: to be completely different from performance fully great but that might also be the place where you
+[00:34:23.620 --> 00:34:27.740] [SPEAKER_03]: build a brand too I couldn't even more I mean two brands I was looking at yesterday that I think
+[00:34:27.740 --> 00:34:32.040] [SPEAKER_03]: do a phenomenal job on platforms like that have you ever heard of water boy no they're like an
+[00:34:32.040 --> 00:34:38.260] [SPEAKER_03]: electrolyte powder they've almost entirely built a eight figure business really without running too many
+[00:34:38.260 --> 00:34:43.780] [SPEAKER_03]: ads like most of their content is done organically and behave candy has been around for a while
+[00:34:43.780 --> 00:34:51.280] [SPEAKER_03]: but just recently has taken off on TikTok and TikTok shop and this notion that like brand marketing needs to
+[00:34:51.280 --> 00:34:56.740] [SPEAKER_03]: be hiring these big agencies and billboard campaigns and TV campaigns I think so outdated because
+[00:34:56.740 --> 00:35:01.700] [SPEAKER_03]: all the platforms that are gonna give you the most reach are free to use and you just kind of have to
+[00:35:01.700 --> 00:35:08.360] [SPEAKER_03]: figure out how to use them yeah totally we also used to run tests when I worked at hint so hints
+[00:35:08.360 --> 00:35:13.140] [SPEAKER_03]: where I got introduced to incrementality about seven years ago yeah it's gonna end and we so at the time
+[00:35:13.140 --> 00:35:18.760] [SPEAKER_03]: you know this was pre-cambergenitaletica meta had all this amazing insights you could upload a customer
+[00:35:18.760 --> 00:35:25.080] [SPEAKER_03]: list and you can see everything about that customer list that Facebook knew and then post that
+[00:35:25.080 --> 00:35:29.680] [SPEAKER_03]: when data started to get a little fuzzy is when we added incrementality and plus we were scaling
+[00:35:29.680 --> 00:35:36.160] [SPEAKER_03]: adding more and more retail doors we were starting to really get big on Amazon and one thing we found
+[00:35:36.160 --> 00:35:40.320] [SPEAKER_03]: was like for every dollar we spent online we would make three dollars across all the other channels
+[00:35:40.320 --> 00:35:48.980] [SPEAKER_03]: Amazon retail you know marketplace et cetera one define that to be very common with like consumable products
+[00:35:49.520 --> 00:35:56.400] [SPEAKER_03]: or just products in general and two or actually second part to that is like is that something that's
+[00:35:56.400 --> 00:36:01.240] [SPEAKER_03]: easy to test and then the second question was actually we'll just start with that and then I'll save the
+[00:36:01.240 --> 00:36:08.500] [SPEAKER_00]: second part yeah the question is is it is it common to see that lift play out in Amazon and retail
+[00:36:08.500 --> 00:36:13.820] [SPEAKER_03]: when you're investing in those channels like yeah like is it is it easy with or without house
+[00:36:13.820 --> 00:36:19.200] [SPEAKER_03]: or actually with both to just understand like all right you know like let's say I'm a supplement brand
+[00:36:19.200 --> 00:36:24.520] [SPEAKER_03]: I'm spending on meta and I'm getting a one one row as or a point A row as I feel like that's fairly normal
+[00:36:24.520 --> 00:36:29.920] [SPEAKER_03]: for supplement brands because they rely on that subscription revenue is it easy to understand like okay
+[00:36:29.920 --> 00:36:37.100] [SPEAKER_03]: I'm getting a one row as online but this is the real row as because you factor in you know what this
+[00:36:37.100 --> 00:36:43.440] [SPEAKER_03]: this spend is doing an air one or target or whatever it may be yeah I used to think this is my biggest
+[00:36:43.440 --> 00:36:49.240] [SPEAKER_00]: shift since joining house I used to think that if you're advertising for D to C you're clicking through
+[00:36:49.240 --> 00:36:55.920] [SPEAKER_00]: D to C that like most of the effect will happen in D to C and I was completely wrong consumers are
+[00:36:55.920 --> 00:37:00.960] [SPEAKER_00]: going to buy where they want to buy yeah and they're they're very well trained and so there's
+[00:37:02.100 --> 00:37:07.140] [SPEAKER_00]: there's a behavior there that's very difficult to influence and so I learned this through
+[00:37:07.140 --> 00:37:12.840] [SPEAKER_00]: through many experiments that a lot of the effect here is happening in Amazon and in retail even
+[00:37:12.840 --> 00:37:18.720] [SPEAKER_00]: if you're doing everything you can to try and drive users into the D to C shop one actually
+[00:37:18.720 --> 00:37:24.100] [SPEAKER_00]: interesting learning here so that is consistent with with what I've seen but one interesting insight
+[00:37:24.100 --> 00:37:32.200] [SPEAKER_00]: is that the more view-based a channel so like OTT YouTube is my top examples the more lift we see on
+[00:37:32.200 --> 00:37:41.900] [SPEAKER_00]: Amazon and retail we're going to study this more but like compared to meta or search we see more of the
+[00:37:41.900 --> 00:37:47.380] [SPEAKER_00]: lift play out for those view-based channels in Amazon and in retail. I'm excited to study this
+[00:37:47.380 --> 00:37:52.460] [SPEAKER_00]: I've told some folks this lately and they're like yeah that makes that make sense but again it
+[00:37:52.460 --> 00:37:58.460] [SPEAKER_00]: goes back to the like on your day-to-day reporting it's looking like YouTube and connected to TV
+[00:37:58.460 --> 00:38:02.980] [SPEAKER_00]: like can't work or they're not working when in reality they might just be driving more
+[00:38:02.980 --> 00:38:07.760] [SPEAKER_00]: in a higher proportion of Amazon sales that you're not not seeing in attribution totally
+[00:38:07.760 --> 00:38:14.640] [SPEAKER_03]: there this actually this like incidentally reminded me of the world of branded content with publishers
+[00:38:14.640 --> 00:38:19.380] [SPEAKER_03]: where you know you go to them and they'll be like yeah we're going to guarantee you know
+[00:38:20.720 --> 00:38:26.660] [SPEAKER_03]: 500,000 visitors on this content or you know 100,000 visitors on this content but we're going to
+[00:38:26.660 --> 00:38:32.100] [SPEAKER_03]: charge you $65,000 to write about your product being in Sephora. Did you ever run any experiments
+[00:38:32.100 --> 00:38:36.460] [SPEAKER_03]: around branded content or have you seen experiments around branded content because I'm curious like
+[00:38:36.460 --> 00:38:42.020] [SPEAKER_03]: you know if YouTube and OTT can do the same thing as branded content where they're charging
+[00:38:42.020 --> 00:38:46.900] [SPEAKER_03]: $65,000. I've always had this hunch that branded content's just a waste because I always see
+[00:38:47.680 --> 00:38:53.200] [SPEAKER_03]: these uh the same publishers that sell you 100,000 visitors they run shitty traffic on tabula to get those
+[00:38:53.200 --> 00:39:01.060] [SPEAKER_00]: visitors. Yeah I buck it branded content in with affiliate it's like one flavor we have the coupon sites
+[00:39:01.060 --> 00:39:08.520] [SPEAKER_00]: and then we have you know cash back like capital one and then and then branded content or
+[00:39:08.520 --> 00:39:15.600] [SPEAKER_00]: kind of like advertorial on these these websites like GQ is the third bucket super hard to GOTEST
+[00:39:15.600 --> 00:39:20.840] [SPEAKER_00]: and also just hard to test in general because that stuff lives in perpetuity like you can't just
+[00:39:20.840 --> 00:39:28.920] [SPEAKER_00]: take down the GQ article. Right so I don't have a lot of data here I share your your skepticism.
+[00:39:29.580 --> 00:39:34.780] [SPEAKER_03]: Yeah so part two of that question I was going to ask was so you could test like impact of media
+[00:39:34.780 --> 00:39:39.420] [SPEAKER_03]: in other channels can you do the same thing for organic social like could water boy or one of
+[00:39:39.420 --> 00:39:44.260] [SPEAKER_03]: or like you know who else is big on TikTok like I don't know if you've seen smack and sunflower seeds
+[00:39:44.260 --> 00:39:50.360] [SPEAKER_03]: over any of these others like you know is it easy to test organic impact or organic
+[00:39:50.360 --> 00:39:55.200] [SPEAKER_03]: incremental impact or would that just be kind of that third way of testing where you just turn it
+[00:39:55.200 --> 00:40:00.920] [SPEAKER_00]: on or off. Yep that's the fallback in terms of time series on off because you can't geosegment organic.
+[00:40:00.920 --> 00:40:07.600] [SPEAKER_00]: Right. So yeah that's a little bit less precise but we certainly do like on off kind of bursts
+[00:40:07.600 --> 00:40:12.840] [SPEAKER_00]: there where if you have a new strategy you really want to go hard into like UDC and see how
+[00:40:12.840 --> 00:40:17.700] [SPEAKER_00]: that's working for organic it's like we do a burst where they just post a bunch of UDC content
+[00:40:17.700 --> 00:40:22.120] [SPEAKER_00]: over the course of a few weeks and we observe what's happening. Interesting have you run any tests
+[00:40:22.120 --> 00:40:28.060] [SPEAKER_03]: where brands have seeded a bunch of creators or influencers content as kind of that burst and
+[00:40:28.060 --> 00:40:34.360] [SPEAKER_00]: what the impact is. Yep and we what we do is we'll they'll put money behind it they'll like put some
+[00:40:34.360 --> 00:40:40.200] [SPEAKER_00]: paid behind it and we can actually geotest that media. Oh interesting. So if you want to like see
+[00:40:40.200 --> 00:40:45.380] [SPEAKER_00]: what amplifying that that seeding looks like we can absolutely test that with a whole
+[00:40:45.380 --> 00:40:51.840] [SPEAKER_03]: doubt we do that on TikTok. And do you see there's a higher impact of creator content versus brand
+[00:40:51.840 --> 00:40:59.800] [SPEAKER_00]: content. Oh that's a good question. Our influencer testing has been promising. Yeah. Whereas you know
+[00:40:59.800 --> 00:41:06.900] [SPEAKER_00]: like the affiliate space very mixed results the the smaller amount of influencer testing we have
+[00:41:06.900 --> 00:41:14.920] [SPEAKER_00]: done has been encouraging. Yeah interesting. It's it's it's it's such a it's such a difficult area
+[00:41:14.920 --> 00:41:21.520] [SPEAKER_00]: to test and probably so much opportunity here. So but I would say like don't shy away just because
+[00:41:21.520 --> 00:41:27.360] [SPEAKER_00]: you can't design a perfect experiment. Right. Like don't let you know perfect be the enemy of good
+[00:41:27.360 --> 00:41:31.960] [SPEAKER_00]: if you want to just do that burst method where you go out with a bunch of different types of
+[00:41:31.960 --> 00:41:37.320] [SPEAKER_00]: branded content or seeding plays and we can just observe and run a time series test on often
+[00:41:37.320 --> 00:41:43.420] [SPEAKER_03]: and see what's happening. Okay one phrase that over the last seven years it either escapes my brain
+[00:41:43.420 --> 00:41:50.300] [SPEAKER_03]: very rarely does it escape now. But diminishing returns. Yeah that is a phrase that for the first
+[00:41:50.300 --> 00:41:53.760] [SPEAKER_03]: three years when I learned it I felt so smart saying it now it's a common term but can you just
+[00:41:53.760 --> 00:41:59.200] [SPEAKER_00]: explain what diminishing returns is? Yeah this is I'm so glad you brought this up this is my favorite
+[00:41:59.200 --> 00:42:05.120] [SPEAKER_00]: experiment that we run at house. But it's it's all about marginality I think I think Ben from
+[00:42:05.120 --> 00:42:09.720] [SPEAKER_00]: true classic talked about like it's not about average CPA or cost-bring criminal acquisition
+[00:42:09.720 --> 00:42:16.880] [SPEAKER_00]: it's about your marginal CPA. Whereas your next dollar best spent and so diminishing marginal
+[00:42:16.880 --> 00:42:22.880] [SPEAKER_00]: returns helps you understand where you are on that curve before you just start increasing the cost
+[00:42:22.880 --> 00:42:28.980] [SPEAKER_00]: before you are no longer growing at the at the clip that that is efficient for you and so to make
+[00:42:28.980 --> 00:42:39.700] [SPEAKER_00]: this more real with an experiment what we'll do is we'll have a three cell test. We'll have one
+[00:42:39.700 --> 00:42:46.940] [SPEAKER_00]: getting BAU plus 25% and then the the last third or final third getting BAU plus 50% and at those
+[00:42:46.940 --> 00:42:51.320] [SPEAKER_00]: different levels of spend pressure we're able to draw your curve and show you how much incremental
+[00:42:51.320 --> 00:42:57.580] [SPEAKER_00]: revenue or you know how many incremental users new customers you're getting with that extra
+[00:42:57.580 --> 00:43:04.560] [SPEAKER_00]: 25% or added 50% of spend and then you can do the math there unlike whether your marginal CPA
+[00:43:05.620 --> 00:43:13.040] [SPEAKER_00]: is that next dollar is best spent in meta or in YouTube or in another channel but those are
+[00:43:13.040 --> 00:43:17.980] [SPEAKER_00]: really fascinating tests around where like fan-doll we have a public case study about this where
+[00:43:17.980 --> 00:43:23.820] [SPEAKER_00]: they're like all right we we YouTube's a huge channel for us we want to understand how much we should
+[00:43:23.820 --> 00:43:28.820] [SPEAKER_00]: spend going into March madness they ran kind of the low medium high spend pressure in different
+[00:43:29.460 --> 00:43:34.020] [SPEAKER_00]: and they figured out that between medium and high they were fully maxed out no additional
+[00:43:34.020 --> 00:43:40.280] [SPEAKER_00]: users in just added cost and so they are able to kind of calibrate this pen level there to make
+[00:43:40.280 --> 00:43:45.960] [SPEAKER_00]: sure that they're not overspending relative to what they're getting back. And I know this isn't true
+[00:43:45.960 --> 00:43:50.900] [SPEAKER_03]: but when when I think of what you're saying dividing it into thirds I think of like you know the
+[00:43:50.900 --> 00:43:55.460] [SPEAKER_03]: West Coast the middle of America these coast how do you actually divide those? No it would be like
+[00:43:55.460 --> 00:44:02.400] [SPEAKER_00]: opposite there we would have the right representation of West Coast markets in all three cells such
+[00:44:02.400 --> 00:44:08.080] [SPEAKER_00]: that all three cells are like statistically indistinguishable from one another so like
+[00:44:08.080 --> 00:44:12.820] [SPEAKER_00]: the behavior of the regions in cell one or exactly the same as cell two and cell three. Got it
+[00:44:14.520 --> 00:44:19.400] [SPEAKER_03]: amazing okay I feel like this was a great episode yeah anything else we should add in there for the
+[00:44:19.900 --> 00:44:26.820] [SPEAKER_00]: no I hope this was helpful good luck with your Q4 and make sure you're looking at delay
+[00:44:26.820 --> 00:44:33.080] [SPEAKER_03]: left yeah amazing well thank you for coming on Olivia thanks Nick thanks for listening we'll be back
+[00:44:33.080 --> 00:44:37.700] [SPEAKER_01]: next time to cut through the noise on CPG retail and e-commerce if you enjoyed this episode
+[00:44:37.700 --> 00:44:42.460] [SPEAKER_01]: why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one

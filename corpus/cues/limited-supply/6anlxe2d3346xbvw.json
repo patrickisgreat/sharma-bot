@@ -1,0 +1,4819 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 1.8399999999999999,
+      "text": "[SPEAKER_01]: There's a ton of things I want to chat about."
+    },
+    {
+      "start": 2.9,
+      "end": 9.7,
+      "text": "[SPEAKER_01]: Everything from incrementality to how you built your creative team to how you're thinking about the holidays to, you know,"
+    },
+    {
+      "start": 10.76,
+      "end": 13.48,
+      "text": "[SPEAKER_01]: what you're doing to maximize LTV, just a bunch of random stuff."
+    },
+    {
+      "start": 13.68,
+      "end": 17.72,
+      "text": "[SPEAKER_01]: So I think this is going to be a fun kind of like, what do they call those?"
+    },
+    {
+      "start": 18.04,
+      "end": 19.34,
+      "text": "[SPEAKER_01]: Like a rapid fire?"
+    },
+    {
+      "start": 19.62,
+      "end": 22.6,
+      "text": "[SPEAKER_01]: Yeah, or even like a cheesecake factory. I'm trying to think what they call the dish."
+    },
+    {
+      "start": 22.8,
+      "end": 24.84,
+      "text": "[SPEAKER_01]: Oh, we get everything in? Like Jumbalaya or something?"
+    },
+    {
+      "start": 25.12,
+      "end": 25.34,
+      "text": "[SPEAKER_01]: Okay."
+    },
+    {
+      "start": 25.54,
+      "end": 26.5,
+      "text": "[SPEAKER_01]: Is that it? I don't know what it is."
+    },
+    {
+      "start": 26.92,
+      "end": 27.94,
+      "text": "[SPEAKER_01]: Almost like a paella."
+    },
+    {
+      "start": 27.94,
+      "end": 30.34,
+      "text": "[SPEAKER_02]: I was in like a cheesecake factory where we got the menu of everything."
+    },
+    {
+      "start": 30.5,
+      "end": 31.6,
+      "text": "[SPEAKER_02]: You got some Chinese food on there."
+    },
+    {
+      "start": 31.76,
+      "end": 33.64,
+      "text": "[SPEAKER_01]: That too, yeah. We can look at it that way. I like that."
+    },
+    {
+      "start": 35.36,
+      "end": 40.94,
+      "text": "[SPEAKER_01]: Welcome to Limited Supply, the place for refreshingly real takes on what DTC is really like."
+    },
+    {
+      "start": 41.52,
+      "end": 44.5,
+      "text": "[SPEAKER_01]: I'm your host, Nik Sharma. Let's start talking about money."
+    },
+    {
+      "start": 45.54,
+      "end": 50.4,
+      "text": "[SPEAKER_01]: If you're a seller on Shopify, if you're a merchant on Shopify, you sell e-commerce and you use Shopify."
+    },
+    {
+      "start": 50.86,
+      "end": 53.32,
+      "text": "[SPEAKER_01]: Then let me tell you about an app that you absolutely need to use."
+    },
+    {
+      "start": 53.32,
+      "end": 59.26,
+      "text": "[SPEAKER_01]: It's called AfterSell. It's the fastest growing upsell app on Shopify and it helps you do a few different things."
+    },
+    {
+      "start": 59.48,
+      "end": 61.56,
+      "text": "[SPEAKER_01]: It helps you with post-purchase upsells."
+    },
+    {
+      "start": 61.6,
+      "end": 65.2,
+      "text": "[SPEAKER_01]: It helps you with editing your checkout and also just building an optimized cart drawer."
+    },
+    {
+      "start": 65.72,
+      "end": 71.34,
+      "text": "[SPEAKER_01]: This helps you get higher AOVs, higher UPDs and cross sell your products based on what your customers are shopping for."
+    },
+    {
+      "start": 71.82,
+      "end": 75.22,
+      "text": "[SPEAKER_01]: If you have someone buying a backpack on your site and you also sell luggage,"
+    },
+    {
+      "start": 75.52,
+      "end": 78.38,
+      "text": "[SPEAKER_01]: you can use AfterSell to cross sell luggage or vice versa."
+    },
+    {
+      "start": 78.38,
+      "end": 84.24,
+      "text": "[SPEAKER_01]: It's used by over 25,000 brands including Jones Road, Hexclad, Skims, True Classic and more."
+    },
+    {
+      "start": 84.64,
+      "end": 87.78,
+      "text": "[SPEAKER_01]: On average, their clients see an AOV boost of up to 30%."
+    },
+    {
+      "start": 87.78,
+      "end": 92.38,
+      "text": "[SPEAKER_01]: On top of that, from your order confirmation page, you can generate revenue with AfterSell's network offers."
+    },
+    {
+      "start": 93,
+      "end": 96.64,
+      "text": "[SPEAKER_01]: If you want to get a demo of AfterSell, go to aftersell.com slash limited."
+    },
+    {
+      "start": 97.16,
+      "end": 101.06,
+      "text": "[SPEAKER_01]: Sign up now and get AfterSell free for 60 days for Limited Supply listeners."
+    },
+    {
+      "start": 101.58,
+      "end": 103.84,
+      "text": "[SPEAKER_01]: Again, that's aftersell.com slash limited."
+    },
+    {
+      "start": 104.46,
+      "end": 109.24,
+      "text": "[SPEAKER_01]: All right, Cody. So we're back. You're Mr. Disabled here. What'd you do to your foot?"
+    },
+    {
+      "start": 109.86,
+      "end": 110.22,
+      "text": "[SPEAKER_01]: Hip."
+    },
+    {
+      "start": 110.44,
+      "end": 113.02,
+      "text": "[SPEAKER_01]: I had hip labor and surgery a few weeks back."
+    },
+    {
+      "start": 113.2,
+      "end": 114.44,
+      "text": "[SPEAKER_01]: And you've just been sitting on the couch?"
+    },
+    {
+      "start": 114.62,
+      "end": 116.22,
+      "text": "[SPEAKER_01]: It's like my first trip out of the house pretty much."
+    },
+    {
+      "start": 116.32,
+      "end": 116.76,
+      "text": "[SPEAKER_01]: I love it."
+    },
+    {
+      "start": 117.66,
+      "end": 118.38,
+      "text": "[SPEAKER_01]: Only for you."
+    },
+    {
+      "start": 118.66,
+      "end": 120.44,
+      "text": "[SPEAKER_01]: Did my driver carry you at your bedroom?"
+    },
+    {
+      "start": 120.44,
+      "end": 122.98,
+      "text": "[SPEAKER_02]: Nobody asked. He dropped me off around the corner."
+    },
+    {
+      "start": 123.18,
+      "end": 124.5,
+      "text": "[SPEAKER_02]: I was like, yeah, I can walk because there's traffic."
+    },
+    {
+      "start": 124.86,
+      "end": 126.52,
+      "text": "[SPEAKER_02]: He's like, all right, but you have to tell him I carried you."
+    },
+    {
+      "start": 126.82,
+      "end": 129.32,
+      "text": "[SPEAKER_01]: Yeah, I told him I was like, listen, this guy is important."
+    },
+    {
+      "start": 129.78,
+      "end": 130.92,
+      "text": "[SPEAKER_01]: You might have to carry him."
+    },
+    {
+      "start": 131.08,
+      "end": 131.48,
+      "text": "[SPEAKER_01]: He would have."
+    },
+    {
+      "start": 131.48,
+      "end": 132.66,
+      "text": "[SPEAKER_01]: Yeah, that's amazing."
+    },
+    {
+      "start": 133.38,
+      "end": 135.44,
+      "text": "[SPEAKER_01]: All right, so this is your second time back on the pod."
+    },
+    {
+      "start": 136.24,
+      "end": 137.82,
+      "text": "[SPEAKER_01]: You're in a club of very few."
+    },
+    {
+      "start": 137.92,
+      "end": 140.28,
+      "text": "[SPEAKER_01]: I think it's just you and Ben from True Classic."
+    },
+    {
+      "start": 140.28,
+      "end": 141.54,
+      "text": "[SPEAKER_01]: I followed up on twice."
+    },
+    {
+      "start": 142.72,
+      "end": 143.4,
+      "text": "[SPEAKER_01]: Two legends."
+    },
+    {
+      "start": 144.08,
+      "end": 146.62,
+      "text": "[SPEAKER_01]: And let's see, how did we start becoming friends?"
+    },
+    {
+      "start": 146.76,
+      "end": 148.06,
+      "text": "[SPEAKER_01]: We met at a conference, right?"
+    },
+    {
+      "start": 148.34,
+      "end": 149.7,
+      "text": "[SPEAKER_01]: In Miami a couple years ago."
+    },
+    {
+      "start": 149.84,
+      "end": 151.44,
+      "text": "[SPEAKER_01]: Of course, it was Twitter probably before that."
+    },
+    {
+      "start": 151.44,
+      "end": 152.32,
+      "text": "[SPEAKER_01]: Yeah, Twitter before that."
+    },
+    {
+      "start": 152.5,
+      "end": 153.6,
+      "text": "[SPEAKER_01]: We were like friendly for sure."
+    },
+    {
+      "start": 153.98,
+      "end": 156.42,
+      "text": "[SPEAKER_01]: But then we became friends at this conference in Miami."
+    },
+    {
+      "start": 156.86,
+      "end": 157.84,
+      "text": "[SPEAKER_02]: Yeah, I wasn't sure about you."
+    },
+    {
+      "start": 157.98,
+      "end": 160.82,
+      "text": "[SPEAKER_02]: And then I was like, I met Miami Nick, which is a very different person."
+    },
+    {
+      "start": 160.82,
+      "end": 162.02,
+      "text": "[SPEAKER_02]: Very different version."
+    },
+    {
+      "start": 162.24,
+      "end": 162.42,
+      "text": "[SPEAKER_02]: I like this guy."
+    },
+    {
+      "start": 162.54,
+      "end": 165.74,
+      "text": "[SPEAKER_01]: You got the silk shirt on, got the shorts on."
+    },
+    {
+      "start": 166.18,
+      "end": 166.26,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 166.44,
+      "end": 167.76,
+      "text": "[SPEAKER_01]: Much more chill laid back."
+    },
+    {
+      "start": 168.92,
+      "end": 170.14,
+      "text": "[SPEAKER_01]: And then we started group chat."
+    },
+    {
+      "start": 170.26,
+      "end": 170.9,
+      "text": "[SPEAKER_01]: We were in a group chat."
+    },
+    {
+      "start": 170.98,
+      "end": 171.96,
+      "text": "[SPEAKER_01]: We started chatting every day."
+    },
+    {
+      "start": 172.44,
+      "end": 174.72,
+      "text": "[SPEAKER_01]: And now I feel like whenever I'm thinking, all right, is this"
+    },
+    {
+      "start": 174.72,
+      "end": 175.86,
+      "text": "[SPEAKER_01]: is this company legit?"
+    },
+    {
+      "start": 176.06,
+      "end": 176.7,
+      "text": "[SPEAKER_01]: Like is this vendor?"
+    },
+    {
+      "start": 176.92,
+      "end": 177.76,
+      "text": "[SPEAKER_01]: Is this software company?"
+    },
+    {
+      "start": 178.14,
+      "end": 178.7,
+      "text": "[SPEAKER_01]: Are they legit?"
+    },
+    {
+      "start": 178.84,
+      "end": 179.8,
+      "text": "[SPEAKER_01]: Do they actually do what they do?"
+    },
+    {
+      "start": 180.18,
+      "end": 181.12,
+      "text": "[SPEAKER_01]: What's their pricing like?"
+    },
+    {
+      "start": 181.36,
+      "end": 182.28,
+      "text": "[SPEAKER_01]: Is their pricing legit?"
+    },
+    {
+      "start": 182.48,
+      "end": 183.7,
+      "text": "[SPEAKER_01]: What's the real room on the pricing?"
+    },
+    {
+      "start": 183.88,
+      "end": 184.5,
+      "text": "[SPEAKER_01]: I always text you."
+    },
+    {
+      "start": 184.66,
+      "end": 185.04,
+      "text": "[SPEAKER_01]: Appreciate it."
+    },
+    {
+      "start": 185.04,
+      "end": 186.06,
+      "text": "[SPEAKER_01]: You like my go-to for that."
+    },
+    {
+      "start": 186.28,
+      "end": 189.64,
+      "text": "[SPEAKER_01]: But also you've, you know, you went from joining"
+    },
+    {
+      "start": 189.64,
+      "end": 192.8,
+      "text": "[SPEAKER_01]: Jones Road or I guess kind of starting at Jones Road."
+    },
+    {
+      "start": 194.7,
+      "end": 196.94,
+      "text": "[SPEAKER_01]: And now it's, you know, multi-hundred million dollar"
+    },
+    {
+      "start": 196.94,
+      "end": 197.22,
+      "text": "[SPEAKER_01]: company."
+    },
+    {
+      "start": 197.34,
+      "end": 199.68,
+      "text": "[SPEAKER_01]: It's been amazing to see the growth and now you've got retail"
+    },
+    {
+      "start": 199.68,
+      "end": 201.48,
+      "text": "[SPEAKER_01]: stores and everything opening up too."
+    },
+    {
+      "start": 201.78,
+      "end": 202.58,
+      "text": "[SPEAKER_01]: Appreciate that."
+    },
+    {
+      "start": 202.72,
+      "end": 204.26,
+      "text": "[SPEAKER_02]: I don't do a lifetime revenue."
+    },
+    {
+      "start": 204.38,
+      "end": 206.44,
+      "text": "[SPEAKER_02]: So annual revenue, we're not multi-hundred million yet,"
+    },
+    {
+      "start": 206.5,
+      "end": 207.18,
+      "text": "[SPEAKER_02]: but hopefully soon."
+    },
+    {
+      "start": 207.28,
+      "end": 207.52,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 207.68,
+      "end": 208.68,
+      "text": "[SPEAKER_02]: Maybe in a year or so."
+    },
+    {
+      "start": 210.22,
+      "end": 211.1,
+      "text": "[SPEAKER_01]: Well, okay."
+    },
+    {
+      "start": 211.22,
+      "end": 212.88,
+      "text": "[SPEAKER_01]: There's a ton of things I want to chat about."
+    },
+    {
+      "start": 213.84,
+      "end": 216.52,
+      "text": "[SPEAKER_01]: Everything from incrementality to how you built your"
+    },
+    {
+      "start": 216.52,
+      "end": 219.86,
+      "text": "[SPEAKER_01]: creative team to how you're thinking about the holidays to,"
+    },
+    {
+      "start": 220.26,
+      "end": 223.36,
+      "text": "[SPEAKER_01]: you know, what you're doing to maximize LTV,"
+    },
+    {
+      "start": 223.5,
+      "end": 224.56,
+      "text": "[SPEAKER_01]: just a bunch of random stuff."
+    },
+    {
+      "start": 224.66,
+      "end": 226.88,
+      "text": "[SPEAKER_01]: So I think this is going to be a fun kind of like,"
+    },
+    {
+      "start": 227.9,
+      "end": 228.78,
+      "text": "[SPEAKER_01]: what do they call those?"
+    },
+    {
+      "start": 229.1,
+      "end": 230.4,
+      "text": "[SPEAKER_01]: Like a rapid fire?"
+    },
+    {
+      "start": 230.68,
+      "end": 230.82,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 230.88,
+      "end": 232.3,
+      "text": "[SPEAKER_01]: Or even like a cheesecake factory."
+    },
+    {
+      "start": 232.4,
+      "end": 233.64,
+      "text": "[SPEAKER_01]: I'm trying to think what they call the dish."
+    },
+    {
+      "start": 233.84,
+      "end": 235.9,
+      "text": "[SPEAKER_01]: Oh, we get everything in like Jumbalaya or something?"
+    },
+    {
+      "start": 236.16,
+      "end": 236.38,
+      "text": "[SPEAKER_01]: Okay."
+    },
+    {
+      "start": 236.6,
+      "end": 236.9,
+      "text": "[SPEAKER_01]: Is that it?"
+    },
+    {
+      "start": 236.96,
+      "end": 237.54,
+      "text": "[SPEAKER_01]: I don't know what it is."
+    },
+    {
+      "start": 238.04,
+      "end": 238.96,
+      "text": "[SPEAKER_02]: Almost like a paella."
+    },
+    {
+      "start": 239.12,
+      "end": 240,
+      "text": "[SPEAKER_02]: I was thinking like a cheesecake factory."
+    },
+    {
+      "start": 240.12,
+      "end": 241.36,
+      "text": "[SPEAKER_02]: We got like the menu of everything."
+    },
+    {
+      "start": 241.54,
+      "end": 242.64,
+      "text": "[SPEAKER_02]: You got some Chinese food on there."
+    },
+    {
+      "start": 242.84,
+      "end": 242.94,
+      "text": "[SPEAKER_02]: That too."
+    },
+    {
+      "start": 243.06,
+      "end": 243.16,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 243.18,
+      "end": 244.16,
+      "text": "[SPEAKER_01]: We can look at it that way."
+    },
+    {
+      "start": 244.16,
+      "end": 244.7,
+      "text": "[SPEAKER_01]: I like that."
+    },
+    {
+      "start": 245.44,
+      "end": 246.08,
+      "text": "[SPEAKER_01]: All right."
+    },
+    {
+      "start": 246.2,
+      "end": 247.32,
+      "text": "[SPEAKER_01]: So I would love to start with incrementality."
+    },
+    {
+      "start": 247.88,
+      "end": 253.62,
+      "text": "[SPEAKER_01]: So this is something that I actually did about seven years ago with a vendor,"
+    },
+    {
+      "start": 253.78,
+      "end": 255.12,
+      "text": "[SPEAKER_01]: but didn't fully understand it."
+    },
+    {
+      "start": 255.2,
+      "end": 259.24,
+      "text": "[SPEAKER_01]: And then more, I'd say in the last year or so,"
+    },
+    {
+      "start": 259.46,
+      "end": 260.76,
+      "text": "[SPEAKER_01]: incrementality has been becoming bigger."
+    },
+    {
+      "start": 260.88,
+      "end": 262.52,
+      "text": "[SPEAKER_01]: You've talked a lot about incrementality."
+    },
+    {
+      "start": 263.42,
+      "end": 266.98,
+      "text": "[SPEAKER_01]: One of the, one of the softwares that we use for incrementality is house."
+    },
+    {
+      "start": 267.24,
+      "end": 269.66,
+      "text": "[SPEAKER_01]: And you've also published some case studies with them."
+    },
+    {
+      "start": 269.7,
+      "end": 271.46,
+      "text": "[SPEAKER_01]: But I'm curious like how do you,"
+    },
+    {
+      "start": 271.46,
+      "end": 274.3,
+      "text": "[SPEAKER_01]: even if we step back from any of the nitty gritty,"
+    },
+    {
+      "start": 274.56,
+      "end": 277.56,
+      "text": "[SPEAKER_01]: like when you think about MTA, MMM and incrementality,"
+    },
+    {
+      "start": 278.24,
+      "end": 279.82,
+      "text": "[SPEAKER_01]: how do you differentiate the three?"
+    },
+    {
+      "start": 279.96,
+      "end": 282.22,
+      "text": "[SPEAKER_01]: Because you've definitely run all three for Jumbalaya."
+    },
+    {
+      "start": 282.24,
+      "end": 282.64,
+      "text": "[SPEAKER_02]: Yeah, we do."
+    },
+    {
+      "start": 283.56,
+      "end": 287.12,
+      "text": "[SPEAKER_02]: You'll cool if I just describe them or define them super quickly."
+    },
+    {
+      "start": 287.7,
+      "end": 288.44,
+      "text": "[SPEAKER_01]: Yeah, exactly."
+    },
+    {
+      "start": 288.7,
+      "end": 290.42,
+      "text": "[SPEAKER_02]: So I would say attribution is any like,"
+    },
+    {
+      "start": 290.76,
+      "end": 292.96,
+      "text": "[SPEAKER_02]: it's not always click based, but usually it's click based."
+    },
+    {
+      "start": 293.14,
+      "end": 299.24,
+      "text": "[SPEAKER_02]: It's essentially trying to give credit for what was driven by an ad channel"
+    },
+    {
+      "start": 299.24,
+      "end": 300.4,
+      "text": "[SPEAKER_02]: or a unit or things like that."
+    },
+    {
+      "start": 300.4,
+      "end": 302.34,
+      "text": "[SPEAKER_02]: It's usually click based."
+    },
+    {
+      "start": 302.48,
+      "end": 304.34,
+      "text": "[SPEAKER_02]: Sometimes it's view based, but it's usually click based."
+    },
+    {
+      "start": 305.44,
+      "end": 307.66,
+      "text": "[SPEAKER_02]: You know, and then MMM is media mix modeling."
+    },
+    {
+      "start": 307.88,
+      "end": 310.44,
+      "text": "[SPEAKER_02]: That's essentially, this is going to be a terrible definition of it,"
+    },
+    {
+      "start": 310.44,
+      "end": 314.68,
+      "text": "[SPEAKER_02]: but like very advanced regression analysis to try to understand"
+    },
+    {
+      "start": 314.68,
+      "end": 318.04,
+      "text": "[SPEAKER_02]: the correlations between things, different spend on different channels"
+    },
+    {
+      "start": 318.04,
+      "end": 319.18,
+      "text": "[SPEAKER_02]: and ultimately revenue."
+    },
+    {
+      "start": 319.36,
+      "end": 321.28,
+      "text": "[SPEAKER_02]: How would you explain that to like a five year old?"
+    },
+    {
+      "start": 322.5,
+      "end": 326,
+      "text": "[SPEAKER_02]: It's essentially data scientists who work on a model and try to say,"
+    },
+    {
+      "start": 326.02,
+      "end": 328.66,
+      "text": "[SPEAKER_02]: hey, when you do this, this revenue goes up and like"
+    },
+    {
+      "start": 328.66,
+      "end": 331.38,
+      "text": "[SPEAKER_01]: basically using historicals and applying it to a future model."
+    },
+    {
+      "start": 331.62,
+      "end": 332.36,
+      "text": "[SPEAKER_02]: Yeah, I think so."
+    },
+    {
+      "start": 332.4,
+      "end": 334.08,
+      "text": "[SPEAKER_02]: And there's like different models in different companies."
+    },
+    {
+      "start": 334.74,
+      "end": 336.92,
+      "text": "[SPEAKER_02]: It's probably best for larger companies."
+    },
+    {
+      "start": 337.78,
+      "end": 339.94,
+      "text": "[SPEAKER_02]: It's traditionally like, you know, done by Nielsen,"
+    },
+    {
+      "start": 340.06,
+      "end": 341.6,
+      "text": "[SPEAKER_02]: it's like you do it quarterly, like, you know,"
+    },
+    {
+      "start": 341.62,
+      "end": 343.1,
+      "text": "[SPEAKER_02]: like a big CBC will do it quarterly"
+    },
+    {
+      "start": 343.6,
+      "end": 346.6,
+      "text": "[SPEAKER_02]: and results take a lot longer, but it's gold standard,"
+    },
+    {
+      "start": 346.68,
+      "end": 348.52,
+      "text": "[SPEAKER_02]: especially for like a retail company where you're not,"
+    },
+    {
+      "start": 348.82,
+      "end": 351.24,
+      "text": "[SPEAKER_02]: you know, there's no attribution for you can't click on a Facebook ad"
+    },
+    {
+      "start": 351.24,
+      "end": 352.3,
+      "text": "[SPEAKER_02]: and buy it in target."
+    },
+    {
+      "start": 352.44,
+      "end": 355.1,
+      "text": "[SPEAKER_02]: So there's limitations there, but it's very slow."
+    },
+    {
+      "start": 355.26,
+      "end": 356.02,
+      "text": "[SPEAKER_02]: It's very expensive."
+    },
+    {
+      "start": 356.02,
+      "end": 359.1,
+      "text": "[SPEAKER_02]: It's not most of the providers are not great for like understanding"
+    },
+    {
+      "start": 359.6,
+      "end": 361.28,
+      "text": "[SPEAKER_02]: the needs of like digitally native companies,"
+    },
+    {
+      "start": 361.46,
+      "end": 363.68,
+      "text": "[SPEAKER_02]: but there's a few providers that are trying to do that."
+    },
+    {
+      "start": 364.16,
+      "end": 366.04,
+      "text": "[SPEAKER_02]: And then there's there's incrementality."
+    },
+    {
+      "start": 366.1,
+      "end": 367.36,
+      "text": "[SPEAKER_02]: So I would say incrementality."
+    },
+    {
+      "start": 367.46,
+      "end": 370.36,
+      "text": "[SPEAKER_02]: So let's say you're one of the things that happened to me early on"
+    },
+    {
+      "start": 370.36,
+      "end": 372.54,
+      "text": "[SPEAKER_02]: in my career is I would report, you know,"
+    },
+    {
+      "start": 372.56,
+      "end": 374.64,
+      "text": "[SPEAKER_02]: I'd be running Facebook ads, Google ads,"
+    },
+    {
+      "start": 374.76,
+      "end": 377.52,
+      "text": "[SPEAKER_02]: maybe some TikTok ads, you know,"
+    },
+    {
+      "start": 377.52,
+      "end": 380.74,
+      "text": "[SPEAKER_02]: you got email and SMS and I'd report on the channel revenue"
+    },
+    {
+      "start": 380.74,
+      "end": 382.54,
+      "text": "[SPEAKER_02]: and I'd take it from Facebook and I'd take it from Google"
+    },
+    {
+      "start": 382.54,
+      "end": 385.24,
+      "text": "[SPEAKER_02]: and I would give the total and let's say we did 100K that month"
+    },
+    {
+      "start": 385.24,
+      "end": 387.6,
+      "text": "[SPEAKER_02]: and I'd be like, well, this is adding up to 120K."
+    },
+    {
+      "start": 387.8,
+      "end": 388.34,
+      "text": "[SPEAKER_02]: Like, I don't know."
+    },
+    {
+      "start": 388.48,
+      "end": 389.12,
+      "text": "[SPEAKER_02]: Let me dig into that."
+    },
+    {
+      "start": 389.24,
+      "end": 389.88,
+      "text": "[SPEAKER_02]: Like let me get why."
+    },
+    {
+      "start": 390.12,
+      "end": 390.88,
+      "text": "[SPEAKER_02]: And I didn't understand."
+    },
+    {
+      "start": 391.02,
+      "end": 392.44,
+      "text": "[SPEAKER_02]: I'm like, I thought it was a tracking thing."
+    },
+    {
+      "start": 392.46,
+      "end": 393.1,
+      "text": "[SPEAKER_02]: Something was broken,"
+    },
+    {
+      "start": 393.32,
+      "end": 395.36,
+      "text": "[SPEAKER_02]: but it's because they're all claiming credit"
+    },
+    {
+      "start": 395.36,
+      "end": 397.82,
+      "text": "[SPEAKER_02]: for whatever their attribution windows are"
+    },
+    {
+      "start": 397.82,
+      "end": 400.06,
+      "text": "[SPEAKER_02]: and you can have different one day clicks,"
+    },
+    {
+      "start": 400.16,
+      "end": 403.32,
+      "text": "[SPEAKER_02]: seven day click first touch and you can have views as well."
+    },
+    {
+      "start": 403.54,
+      "end": 406.06,
+      "text": "[SPEAKER_02]: And so somebody can interact and likely most people will"
+    },
+    {
+      "start": 406.06,
+      "end": 407.18,
+      "text": "[SPEAKER_02]: interact with multiple channels."
+    },
+    {
+      "start": 407.32,
+      "end": 410.42,
+      "text": "[SPEAKER_02]: So the sum will be greater than just what each channel shows."
+    },
+    {
+      "start": 410.76,
+      "end": 413.1,
+      "text": "[SPEAKER_02]: So some channels are probably taking more credit than they should."
+    },
+    {
+      "start": 413.1,
+      "end": 415.16,
+      "text": "[SPEAKER_02]: Some channels are taking less credit than they should."
+    },
+    {
+      "start": 415.52,
+      "end": 417.62,
+      "text": "[SPEAKER_02]: There are multi-touch attribution tools like Northbeam"
+    },
+    {
+      "start": 417.62,
+      "end": 419.68,
+      "text": "[SPEAKER_02]: that will make sure the total is 100"
+    },
+    {
+      "start": 419.68,
+      "end": 421.34,
+      "text": "[SPEAKER_02]: and they'll do a good job divvying it up."
+    },
+    {
+      "start": 421.7,
+      "end": 424.2,
+      "text": "[SPEAKER_02]: And so we use those, we use all of our media buying,"
+    },
+    {
+      "start": 424.76,
+      "end": 426.64,
+      "text": "[SPEAKER_02]: especially meta optimizations based on that."
+    },
+    {
+      "start": 427.02,
+      "end": 427.96,
+      "text": "[SPEAKER_02]: We just look at a one day click."
+    },
+    {
+      "start": 428.28,
+      "end": 430.36,
+      "text": "[SPEAKER_02]: I don't like getting into a first touch versus last touch."
+    },
+    {
+      "start": 430.36,
+      "end": 431.86,
+      "text": "[SPEAKER_01]: Yeah, especially if you're running multiple channels"
+    },
+    {
+      "start": 432.54,
+      "end": 434.96,
+      "text": "[SPEAKER_01]: or you have a bunch of ad spend on different channels,"
+    },
+    {
+      "start": 435.14,
+      "end": 436.34,
+      "text": "[SPEAKER_01]: it's hard to go past one day click"
+    },
+    {
+      "start": 436.34,
+      "end": 437.54,
+      "text": "[SPEAKER_01]: and really understand the channels."
+    },
+    {
+      "start": 437.8,
+      "end": 439.36,
+      "text": "[SPEAKER_02]: Yeah, it just makes it much more complicated"
+    },
+    {
+      "start": 439.36,
+      "end": 440.26,
+      "text": "[SPEAKER_02]: and I don't love the views."
+    },
+    {
+      "start": 440.66,
+      "end": 441.9,
+      "text": "[SPEAKER_02]: So I think that's great"
+    },
+    {
+      "start": 441.9,
+      "end": 444.52,
+      "text": "[SPEAKER_02]: and I think like a lot of people should use some type of attribution."
+    },
+    {
+      "start": 444.64,
+      "end": 445.44,
+      "text": "[SPEAKER_02]: You get results quickly."
+    },
+    {
+      "start": 445.62,
+      "end": 447.12,
+      "text": "[SPEAKER_02]: I could launch an ad today or yesterday"
+    },
+    {
+      "start": 447.12,
+      "end": 449.82,
+      "text": "[SPEAKER_02]: and see some directionally how it's going to be performing."
+    },
+    {
+      "start": 450,
+      "end": 451.68,
+      "text": "[SPEAKER_02]: So we use that, especially if I know,"
+    },
+    {
+      "start": 451.84,
+      "end": 454.08,
+      "text": "[SPEAKER_02]: if I know and I calibrate it with the other things"
+    },
+    {
+      "start": 454.08,
+      "end": 458.26,
+      "text": "[SPEAKER_02]: that our meta one day click target is a 0.9, let's say,"
+    },
+    {
+      "start": 458.56,
+      "end": 459.9,
+      "text": "[SPEAKER_02]: like I know that that's our meta target,"
+    },
+    {
+      "start": 459.96,
+      "end": 461.98,
+      "text": "[SPEAKER_02]: but I've got to use these other tools to kind of understand"
+    },
+    {
+      "start": 462.7,
+      "end": 466.34,
+      "text": "[SPEAKER_02]: the challenges, some overreport, some underreport"
+    },
+    {
+      "start": 466.34,
+      "end": 468.46,
+      "text": "[SPEAKER_02]: and they also have different places in the funnel."
+    },
+    {
+      "start": 468.6,
+      "end": 470.06,
+      "text": "[SPEAKER_02]: For example, a lot of people I've seen"
+    },
+    {
+      "start": 470.06,
+      "end": 471.94,
+      "text": "[SPEAKER_02]: where like their retargeting ads"
+    },
+    {
+      "start": 471.94,
+      "end": 473.94,
+      "text": "[SPEAKER_02]: or their Google brand search will look really good."
+    },
+    {
+      "start": 474.04,
+      "end": 474.64,
+      "text": "[SPEAKER_02]: That has great rows"
+    },
+    {
+      "start": 474.64,
+      "end": 477.22,
+      "text": "[SPEAKER_02]: and their board member or their exact team,"
+    },
+    {
+      "start": 477.38,
+      "end": 478.84,
+      "text": "[SPEAKER_01]: they're like, why don't you spend more there?"
+    },
+    {
+      "start": 478.98,
+      "end": 480.12,
+      "text": "[SPEAKER_02]: Yeah, exactly. Let's do that."
+    },
+    {
+      "start": 480.4,
+      "end": 481.88,
+      "text": "[SPEAKER_02]: The target should be 10 times bigger."
+    },
+    {
+      "start": 481.92,
+      "end": 484,
+      "text": "[SPEAKER_02]: Let's cut TV, let's cut YouTube, let's cut prospecting,"
+    },
+    {
+      "start": 484,
+      "end": 486.02,
+      "text": "[SPEAKER_02]: but obviously that's the thing that's filling the funnel."
+    },
+    {
+      "start": 486.12,
+      "end": 486.28,
+      "text": "[SPEAKER_02]: Totally."
+    },
+    {
+      "start": 486.74,
+      "end": 489.2,
+      "text": "[SPEAKER_02]: And so I think that's where incrementality comes in."
+    },
+    {
+      "start": 489.32,
+      "end": 490.9,
+      "text": "[SPEAKER_02]: So incrementality is trying to understand"
+    },
+    {
+      "start": 491.36,
+      "end": 493.3,
+      "text": "[SPEAKER_02]: which of the conversions would happen"
+    },
+    {
+      "start": 493.3,
+      "end": 494.96,
+      "text": "[SPEAKER_02]: and which of the conversions would not happen"
+    },
+    {
+      "start": 495.44,
+      "end": 496.96,
+      "text": "[SPEAKER_02]: if they weren't shown that ad."
+    },
+    {
+      "start": 497.14,
+      "end": 498.74,
+      "text": "[SPEAKER_02]: So good example I've heard."
+    },
+    {
+      "start": 498.74,
+      "end": 500.62,
+      "text": "[SPEAKER_02]: Imagine you've got a coffee shop"
+    },
+    {
+      "start": 500.62,
+      "end": 502.72,
+      "text": "[SPEAKER_02]: and you've got three employees,"
+    },
+    {
+      "start": 502.86,
+      "end": 505.62,
+      "text": "[SPEAKER_02]: one of them has a sign right outside the door."
+    },
+    {
+      "start": 505.82,
+      "end": 507.48,
+      "text": "[SPEAKER_02]: One has a sign on the parking lot."
+    },
+    {
+      "start": 507.6,
+      "end": 509.86,
+      "text": "[SPEAKER_02]: One has a sign around the corner."
+    },
+    {
+      "start": 510.7,
+      "end": 513.14,
+      "text": "[SPEAKER_02]: Every single person that comes in and buys coffee"
+    },
+    {
+      "start": 513.14,
+      "end": 514.88,
+      "text": "[SPEAKER_02]: is going to pass that sign right by the door."
+    },
+    {
+      "start": 515.6,
+      "end": 517.52,
+      "text": "[SPEAKER_02]: Doesn't mean that that person by the door"
+    },
+    {
+      "start": 517.52,
+      "end": 518.98,
+      "text": "[SPEAKER_02]: and that sign is what made them purchase."
+    },
+    {
+      "start": 519.26,
+      "end": 519.9,
+      "text": "[SPEAKER_02]: A lot of them would have done it."
+    },
+    {
+      "start": 519.94,
+      "end": 520.2,
+      "text": "[SPEAKER_01]: That's a good one."
+    },
+    {
+      "start": 520.34,
+      "end": 522.38,
+      "text": "[SPEAKER_02]: But if that person by the door said, hey,"
+    },
+    {
+      "start": 522.72,
+      "end": 524.18,
+      "text": "[SPEAKER_02]: 10 people came in, right?"
+    },
+    {
+      "start": 524.26,
+      "end": 526.58,
+      "text": "[SPEAKER_02]: You only spent a dollar on the sign today."
+    },
+    {
+      "start": 526.58,
+      "end": 528.3,
+      "text": "[SPEAKER_02]: 10 people came in, well, that's a 10x row s."
+    },
+    {
+      "start": 528.74,
+      "end": 530.54,
+      "text": "[SPEAKER_02]: But it's not necessarily something you could amplify."
+    },
+    {
+      "start": 530.94,
+      "end": 532.64,
+      "text": "[SPEAKER_02]: Clearly they had to come from somewhere else."
+    },
+    {
+      "start": 532.84,
+      "end": 533.06,
+      "text": "[SPEAKER_01]: Totally."
+    },
+    {
+      "start": 533.22,
+      "end": 534.72,
+      "text": "[SPEAKER_02]: And so that would be like a bottom of funnel"
+    },
+    {
+      "start": 534.72,
+      "end": 537.22,
+      "text": "[SPEAKER_02]: where it looks, the attribution is very good."
+    },
+    {
+      "start": 537.64,
+      "end": 540.48,
+      "text": "[SPEAKER_02]: Top of funnel, maybe only three people saw that"
+    },
+    {
+      "start": 540.48,
+      "end": 542.94,
+      "text": "[SPEAKER_02]: but maybe the three people that saw that sign out there"
+    },
+    {
+      "start": 542.94,
+      "end": 544.72,
+      "text": "[SPEAKER_02]: would have never even heard of the coffee shop"
+    },
+    {
+      "start": 544.72,
+      "end": 545.5,
+      "text": "[SPEAKER_02]: if they didn't see it."
+    },
+    {
+      "start": 545.68,
+      "end": 545.8,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 546.06,
+      "end": 547,
+      "text": "[SPEAKER_02]: So that's incrementality."
+    },
+    {
+      "start": 547.08,
+      "end": 548.3,
+      "text": "[SPEAKER_02]: What you do is you essentially just create,"
+    },
+    {
+      "start": 548.5,
+      "end": 550,
+      "text": "[SPEAKER_02]: it's the most scientific way of testing."
+    },
+    {
+      "start": 550.32,
+      "end": 552.9,
+      "text": "[SPEAKER_02]: You create a controlled environment"
+    },
+    {
+      "start": 552.9,
+      "end": 554.44,
+      "text": "[SPEAKER_02]: where you're essentially doing a holdout."
+    },
+    {
+      "start": 554.44,
+      "end": 558.9,
+      "text": "[SPEAKER_02]: And so let's say you're curious about YouTube ads, right?"
+    },
+    {
+      "start": 558.98,
+      "end": 560.24,
+      "text": "[SPEAKER_02]: Because that's one where you're not going to get"
+    },
+    {
+      "start": 560.24,
+      "end": 561.46,
+      "text": "[SPEAKER_02]: great click based attribution."
+    },
+    {
+      "start": 561.68,
+      "end": 563.12,
+      "text": "[SPEAKER_02]: People might see a YouTube ad."
+    },
+    {
+      "start": 563.48,
+      "end": 564.08,
+      "text": "[SPEAKER_02]: Some of them might click."
+    },
+    {
+      "start": 564.2,
+      "end": 565.56,
+      "text": "[SPEAKER_02]: A lot of them are going to search for you"
+    },
+    {
+      "start": 565.56,
+      "end": 568.02,
+      "text": "[SPEAKER_02]: either with a direct, just go directly to your site"
+    },
+    {
+      "start": 568.76,
+      "end": 571.5,
+      "text": "[SPEAKER_02]: or they might go on a Google brand search ad, right?"
+    },
+    {
+      "start": 571.96,
+      "end": 574.56,
+      "text": "[SPEAKER_02]: So you'll usually target a percentage of the country"
+    },
+    {
+      "start": 574.56,
+      "end": 577.54,
+      "text": "[SPEAKER_02]: and tool house which we use and I love and work with."
+    },
+    {
+      "start": 578.26,
+      "end": 579.32,
+      "text": "[SPEAKER_02]: They'll do make this automatically."
+    },
+    {
+      "start": 579.86,
+      "end": 581.16,
+      "text": "[SPEAKER_02]: Usually you won't do 50-50."
+    },
+    {
+      "start": 581.34,
+      "end": 582.38,
+      "text": "[SPEAKER_02]: You'll do like a 20% holdout."
+    },
+    {
+      "start": 582.42,
+      "end": 583.9,
+      "text": "[SPEAKER_02]: But let's just say 50-50 to keep it even."
+    },
+    {
+      "start": 583.9,
+      "end": 585.64,
+      "text": "[SPEAKER_02]: You'll take all of your same media."
+    },
+    {
+      "start": 585.64,
+      "end": 588.96,
+      "text": "[SPEAKER_02]: So meta, TikTok, Google, email, all that stuff."
+    },
+    {
+      "start": 589.02,
+      "end": 590.26,
+      "text": "[SPEAKER_02]: You're going to run across the whole country"
+    },
+    {
+      "start": 590.26,
+      "end": 591.14,
+      "text": "[SPEAKER_02]: to keep it consistent."
+    },
+    {
+      "start": 591.42,
+      "end": 593.4,
+      "text": "[SPEAKER_02]: The one change you're going to do is YouTube,"
+    },
+    {
+      "start": 593.56,
+      "end": 594.76,
+      "text": "[SPEAKER_02]: you're going to run in part of the country."
+    },
+    {
+      "start": 594.9,
+      "end": 598.44,
+      "text": "[SPEAKER_02]: You'll call that your treatment group or your exposed group."
+    },
+    {
+      "start": 598.74,
+      "end": 600.7,
+      "text": "[SPEAKER_02]: And then you'll have a holdout or a control group."
+    },
+    {
+      "start": 601.02,
+      "end": 602.64,
+      "text": "[SPEAKER_02]: Those ones won't get the treatment, right?"
+    },
+    {
+      "start": 602.96,
+      "end": 605.26,
+      "text": "[SPEAKER_02]: So you'll run, let's say you run 100K of YouTube ads,"
+    },
+    {
+      "start": 605.72,
+      "end": 606.5,
+      "text": "[SPEAKER_02]: part of the country."
+    },
+    {
+      "start": 606.82,
+      "end": 608.66,
+      "text": "[SPEAKER_02]: You're going to see how much revenue you get there"
+    },
+    {
+      "start": 609.14,
+      "end": 610.52,
+      "text": "[SPEAKER_02]: above the exposed group."
+    },
+    {
+      "start": 610.64,
+      "end": 613.44,
+      "text": "[SPEAKER_02]: So let's say you make $100,000 with the holdout"
+    },
+    {
+      "start": 613.94,
+      "end": 615.86,
+      "text": "[SPEAKER_02]: zero YouTube spending, so it's driven by everything else."
+    },
+    {
+      "start": 616.18,
+      "end": 618.52,
+      "text": "[SPEAKER_02]: You make $120,000, right?"
+    },
+    {
+      "start": 618.82,
+      "end": 621.3,
+      "text": "[SPEAKER_02]: You have $20,000 of incremental revenue, right?"
+    },
+    {
+      "start": 621.74,
+      "end": 623.32,
+      "text": "[SPEAKER_02]: So you have 20K of incremental revenue"
+    },
+    {
+      "start": 623.32,
+      "end": 625.84,
+      "text": "[SPEAKER_02]: that you wouldn't have got it if you didn't run YouTube ads."
+    },
+    {
+      "start": 626.22,
+      "end": 627.82,
+      "text": "[SPEAKER_02]: Let's say you spent $10,000."
+    },
+    {
+      "start": 628.3,
+      "end": 631.14,
+      "text": "[SPEAKER_02]: That would be an incremental row S of a 2.0, right?"
+    },
+    {
+      "start": 631.56,
+      "end": 633.22,
+      "text": "[SPEAKER_02]: And so that would be, you'd be very confident"
+    },
+    {
+      "start": 633.22,
+      "end": 636.66,
+      "text": "[SPEAKER_02]: saying, hey, I feel confident YouTube was the variable"
+    },
+    {
+      "start": 636.66,
+      "end": 638.18,
+      "text": "[SPEAKER_02]: because everything else was held constant."
+    },
+    {
+      "start": 638.46,
+      "end": 639.56,
+      "text": "[SPEAKER_02]: You ran at the same time."
+    },
+    {
+      "start": 639.68,
+      "end": 641.06,
+      "text": "[SPEAKER_02]: That's the variable that changed."
+    },
+    {
+      "start": 641.88,
+      "end": 643.88,
+      "text": "[SPEAKER_02]: And then you could actually inform your target."
+    },
+    {
+      "start": 644,
+      "end": 645.98,
+      "text": "[SPEAKER_02]: So like for example, when we run a holdout with House"
+    },
+    {
+      "start": 645.98,
+      "end": 648.32,
+      "text": "[SPEAKER_02]: or now we use House and Pression,"
+    },
+    {
+      "start": 648.6,
+      "end": 650.54,
+      "text": "[SPEAKER_02]: we'll see there's a lot more value that's being driven"
+    },
+    {
+      "start": 650.54,
+      "end": 654,
+      "text": "[SPEAKER_02]: by something like a YouTube, much more than in-platform"
+    },
+    {
+      "start": 654,
+      "end": 655.08,
+      "text": "[SPEAKER_02]: or North being disabled to say."
+    },
+    {
+      "start": 655.4,
+      "end": 656.02,
+      "text": "[SPEAKER_02]: So we might..."
+    },
+    {
+      "start": 656.02,
+      "end": 659.98,
+      "text": "[SPEAKER_01]: And these holdouts, these are designed to be an equal 50-50, right?"
+    },
+    {
+      "start": 660.06,
+      "end": 662.4,
+      "text": "[SPEAKER_01]: It's not like coastal cities as one group"
+    },
+    {
+      "start": 662.4,
+      "end": 664.14,
+      "text": "[SPEAKER_01]: and like middle America is another group."
+    },
+    {
+      "start": 664.26,
+      "end": 664.78,
+      "text": "[SPEAKER_01]: That's a great question."
+    },
+    {
+      "start": 664.96,
+      "end": 666.08,
+      "text": "[SPEAKER_02]: There's definitely some data science"
+    },
+    {
+      "start": 666.08,
+      "end": 667.08,
+      "text": "[SPEAKER_02]: that goes back behind the scenes."
+    },
+    {
+      "start": 667.18,
+      "end": 668.32,
+      "text": "[SPEAKER_02]: Like I'm oversimplifying it."
+    },
+    {
+      "start": 668.34,
+      "end": 668.5,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 668.62,
+      "end": 670.32,
+      "text": "[SPEAKER_02]: I don't think you are taking half of it."
+    },
+    {
+      "start": 670.32,
+      "end": 672.06,
+      "text": "[SPEAKER_02]: Like I do believe they're giving you models"
+    },
+    {
+      "start": 672.06,
+      "end": 672.98,
+      "text": "[SPEAKER_02]: that are trying to compare."
+    },
+    {
+      "start": 673.26,
+      "end": 674.86,
+      "text": "[SPEAKER_02]: So like New York might compare,"
+    },
+    {
+      "start": 674.96,
+      "end": 676.88,
+      "text": "[SPEAKER_02]: might function differently than like Minnesota."
+    },
+    {
+      "start": 677.34,
+      "end": 679.26,
+      "text": "[SPEAKER_02]: So I do think there are some and it's randomized,"
+    },
+    {
+      "start": 679.26,
+      "end": 681.26,
+      "text": "[SPEAKER_02]: but that's like the House makes it really easy."
+    },
+    {
+      "start": 681.8,
+      "end": 682.92,
+      "text": "[SPEAKER_02]: And so that's that."
+    },
+    {
+      "start": 683.64,
+      "end": 686.14,
+      "text": "[SPEAKER_02]: The pros of that, it's very scientific, right?"
+    },
+    {
+      "start": 687.1,
+      "end": 688.5,
+      "text": "[SPEAKER_02]: You're very confident in the result."
+    },
+    {
+      "start": 688.72,
+      "end": 689.74,
+      "text": "[SPEAKER_02]: There is no cookies."
+    },
+    {
+      "start": 690.1,
+      "end": 691,
+      "text": "[SPEAKER_02]: There's no attribution."
+    },
+    {
+      "start": 691.22,
+      "end": 692.98,
+      "text": "[SPEAKER_02]: You're looking at your new customer revenue,"
+    },
+    {
+      "start": 693.18,
+      "end": 694.26,
+      "text": "[SPEAKER_02]: your revenue, whatever you care about."
+    },
+    {
+      "start": 694.52,
+      "end": 696.44,
+      "text": "[SPEAKER_02]: You can also do it on like a retail,"
+    },
+    {
+      "start": 696.56,
+      "end": 698.72,
+      "text": "[SPEAKER_02]: let's say you're nationwide in Target or Sephora."
+    },
+    {
+      "start": 698.72,
+      "end": 701.22,
+      "text": "[SPEAKER_02]: That's the best way probably to measure things like that."
+    },
+    {
+      "start": 701.26,
+      "end": 703.52,
+      "text": "[SPEAKER_02]: I'm just going to run TV ads in this part of the country."
+    },
+    {
+      "start": 703.58,
+      "end": 705.62,
+      "text": "[SPEAKER_02]: Let me see my sales velocity there."
+    },
+    {
+      "start": 705.7,
+      "end": 706.98,
+      "text": "[SPEAKER_02]: You can also do it Amazon."
+    },
+    {
+      "start": 707.22,
+      "end": 708.56,
+      "text": "[SPEAKER_02]: Like we're not on Amazon,"
+    },
+    {
+      "start": 708.56,
+      "end": 710.64,
+      "text": "[SPEAKER_02]: but I've seen from some other brands,"
+    },
+    {
+      "start": 710.88,
+      "end": 713.72,
+      "text": "[SPEAKER_02]: Hexclad Ridge, other brands where they're driving"
+    },
+    {
+      "start": 713.72,
+      "end": 717.7,
+      "text": "[SPEAKER_02]: sometimes one-to-one value in D to C compared to Amazon,"
+    },
+    {
+      "start": 717.8,
+      "end": 719.22,
+      "text": "[SPEAKER_02]: especially for some of these upper funnel channels."
+    },
+    {
+      "start": 719.44,
+      "end": 719.58,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 719.68,
+      "end": 722.42,
+      "text": "[SPEAKER_02]: So that this what this does is it helps inform"
+    },
+    {
+      "start": 722.42,
+      "end": 723.3,
+      "text": "[SPEAKER_02]: some of your targets."
+    },
+    {
+      "start": 723.46,
+      "end": 726.24,
+      "text": "[SPEAKER_02]: Well, maybe I thought I was losing money at this YouTube spend."
+    },
+    {
+      "start": 726.66,
+      "end": 728.64,
+      "text": "[SPEAKER_02]: But now if I'm recording a .2 row,"
+    },
+    {
+      "start": 728.64,
+      "end": 731.68,
+      "text": "[SPEAKER_02]: that's terrible, but in reality it might be a 2 row as."
+    },
+    {
+      "start": 732.52,
+      "end": 734.82,
+      "text": "[SPEAKER_02]: And then if you add an Amazon and look longer time frame."
+    },
+    {
+      "start": 734.96,
+      "end": 736.28,
+      "text": "[SPEAKER_02]: So the biggest negative,"
+    },
+    {
+      "start": 736.44,
+      "end": 737.96,
+      "text": "[SPEAKER_02]: you can only run a few of these tests at once."
+    },
+    {
+      "start": 738.18,
+      "end": 738.96,
+      "text": "[SPEAKER_02]: They take a while."
+    },
+    {
+      "start": 739.18,
+      "end": 741.3,
+      "text": "[SPEAKER_02]: So there are just pros and cons of each of them."
+    },
+    {
+      "start": 741.6,
+      "end": 742.46,
+      "text": "[SPEAKER_02]: But it's been helpful."
+    },
+    {
+      "start": 742.64,
+      "end": 743.96,
+      "text": "[SPEAKER_02]: We don't run any Google Brands rich."
+    },
+    {
+      "start": 744.12,
+      "end": 745.62,
+      "text": "[SPEAKER_02]: We found it to be not incremental at all."
+    },
+    {
+      "start": 745.76,
+      "end": 747.6,
+      "text": "[SPEAKER_02]: Even though in platform row as 8x,"
+    },
+    {
+      "start": 748,
+      "end": 750.06,
+      "text": "[SPEAKER_02]: we found that those people are purchasing anyways,"
+    },
+    {
+      "start": 750.14,
+      "end": 750.9,
+      "text": "[SPEAKER_02]: whether we don't or don't."
+    },
+    {
+      "start": 750.94,
+      "end": 753.12,
+      "text": "[SPEAKER_02]: So we just pocket that or put it somewhere"
+    },
+    {
+      "start": 753.12,
+      "end": 754.7,
+      "text": "[SPEAKER_02]: where we think it's a little bit more beneficial."
+    },
+    {
+      "start": 755.12,
+      "end": 755.32,
+      "text": "[SPEAKER_02]: Totally."
+    },
+    {
+      "start": 757.3,
+      "end": 759.66,
+      "text": "[SPEAKER_01]: Have you ever wondered how brands like Jones Road"
+    },
+    {
+      "start": 759.66,
+      "end": 761.88,
+      "text": "[SPEAKER_01]: and Hexclad are optimizing their customer journeys"
+    },
+    {
+      "start": 761.88,
+      "end": 764.38,
+      "text": "[SPEAKER_01]: by increasing AOV and post purchase upsells?"
+    },
+    {
+      "start": 764.76,
+      "end": 766.32,
+      "text": "[SPEAKER_01]: Well, they all use AfterSell."
+    },
+    {
+      "start": 766.78,
+      "end": 768.94,
+      "text": "[SPEAKER_01]: AfterSell is used by over 25,000 brands"
+    },
+    {
+      "start": 768.94,
+      "end": 771.66,
+      "text": "[SPEAKER_01]: and has been shown to boost your AOV by up to 30%."
+    },
+    {
+      "start": 771.66,
+      "end": 773.84,
+      "text": "[SPEAKER_01]: Not only that, but they also have a proprietary"
+    },
+    {
+      "start": 773.84,
+      "end": 776.08,
+      "text": "[SPEAKER_01]: network offers feature that has generated"
+    },
+    {
+      "start": 776.08,
+      "end": 778.86,
+      "text": "[SPEAKER_01]: tons of net revenue for brands like Perielus,"
+    },
+    {
+      "start": 779,
+      "end": 780.24,
+      "text": "[SPEAKER_01]: True Classic, and American Eagle."
+    },
+    {
+      "start": 780.66,
+      "end": 782.62,
+      "text": "[SPEAKER_01]: This allows you to drive sales on your own site"
+    },
+    {
+      "start": 782.62,
+      "end": 784.9,
+      "text": "[SPEAKER_01]: and add additional revenue through showing ads"
+    },
+    {
+      "start": 784.9,
+      "end": 785.92,
+      "text": "[SPEAKER_01]: in your post purchase funnel."
+    },
+    {
+      "start": 785.92,
+      "end": 787.64,
+      "text": "[SPEAKER_01]: If you're interested to learn more,"
+    },
+    {
+      "start": 787.8,
+      "end": 790.56,
+      "text": "[SPEAKER_01]: get a demo at aftersell.com slash limited."
+    },
+    {
+      "start": 791.08,
+      "end": 793.54,
+      "text": "[SPEAKER_01]: Sign up now and get 60 days of AfterSell free"
+    },
+    {
+      "start": 793.54,
+      "end": 795.08,
+      "text": "[SPEAKER_01]: for limited supply listeners."
+    },
+    {
+      "start": 795.42,
+      "end": 798.16,
+      "text": "[SPEAKER_01]: Once again, that's aftersell.com slash limited."
+    },
+    {
+      "start": 799.64,
+      "end": 802.44,
+      "text": "[SPEAKER_01]: Damn, that was like a master class in incrementality right there."
+    },
+    {
+      "start": 802.96,
+      "end": 803.76,
+      "text": "[SPEAKER_01]: It's awesome."
+    },
+    {
+      "start": 803.92,
+      "end": 804.82,
+      "text": "[SPEAKER_01]: Hopefully I made that clear enough."
+    },
+    {
+      "start": 805.12,
+      "end": 806.42,
+      "text": "[SPEAKER_01]: Okay, next question I'd love to ask."
+    },
+    {
+      "start": 806.86,
+      "end": 809.06,
+      "text": "[SPEAKER_01]: So you, at least in my head,"
+    },
+    {
+      "start": 809.18,
+      "end": 811.84,
+      "text": "[SPEAKER_01]: you're known for being fast, efficient, scrappy,"
+    },
+    {
+      "start": 812.6,
+      "end": 814.46,
+      "text": "[SPEAKER_01]: and not necessarily cheap because you're not cheap,"
+    },
+    {
+      "start": 814.46,
+      "end": 815.76,
+      "text": "[SPEAKER_01]: but you're very..."
+    },
+    {
+      "start": 815.76,
+      "end": 816.28,
+      "text": "[SPEAKER_01]: I'm definitely cheap."
+    },
+    {
+      "start": 816.36,
+      "end": 817.78,
+      "text": "[SPEAKER_01]: Okay, fun. We can say you're cheap,"
+    },
+    {
+      "start": 817.94,
+      "end": 819.44,
+      "text": "[SPEAKER_01]: but you're watching every dollar."
+    },
+    {
+      "start": 819.98,
+      "end": 823.92,
+      "text": "[SPEAKER_01]: How did you build such a good creative team in-house?"
+    },
+    {
+      "start": 824.12,
+      "end": 825.72,
+      "text": "[SPEAKER_01]: How did you think about building that team?"
+    },
+    {
+      "start": 825.84,
+      "end": 826.7,
+      "text": "[SPEAKER_01]: What does that team look like?"
+    },
+    {
+      "start": 826.78,
+      "end": 828.28,
+      "text": "[SPEAKER_01]: How long did it take you to build that team?"
+    },
+    {
+      "start": 828.36,
+      "end": 829.48,
+      "text": "[SPEAKER_01]: What were the first hires you made?"
+    },
+    {
+      "start": 829.68,
+      "end": 830.22,
+      "text": "[SPEAKER_02]: Yeah, good question."
+    },
+    {
+      "start": 830.4,
+      "end": 832.52,
+      "text": "[SPEAKER_02]: The thing is, I'm talking because I really want to find"
+    },
+    {
+      "start": 832.52,
+      "end": 833.84,
+      "text": "[SPEAKER_02]: these agencies to work with."
+    },
+    {
+      "start": 834.04,
+      "end": 835.88,
+      "text": "[SPEAKER_02]: Like, I think we need so much creative"
+    },
+    {
+      "start": 835.88,
+      "end": 837.1,
+      "text": "[SPEAKER_02]: and we need different types of creative,"
+    },
+    {
+      "start": 837.22,
+      "end": 839.74,
+      "text": "[SPEAKER_02]: and I think in-house teams are doing them good"
+    },
+    {
+      "start": 839.74,
+      "end": 840.72,
+      "text": "[SPEAKER_02]: at maybe one type of creative,"
+    },
+    {
+      "start": 840.82,
+      "end": 842.28,
+      "text": "[SPEAKER_02]: but not necessarily the other kind"
+    },
+    {
+      "start": 842.28,
+      "end": 843.44,
+      "text": "[SPEAKER_02]: that would be an unlock for us."
+    },
+    {
+      "start": 843.44,
+      "end": 845,
+      "text": "[SPEAKER_02]: But I'll talk to some of these agencies,"
+    },
+    {
+      "start": 845.18,
+      "end": 846.76,
+      "text": "[SPEAKER_02]: some of these big percentage to spend ones,"
+    },
+    {
+      "start": 847.04,
+      "end": 848.18,
+      "text": "[SPEAKER_02]: and I'll just do some of the math."
+    },
+    {
+      "start": 848.3,
+      "end": 850.94,
+      "text": "[SPEAKER_02]: And if you spend 500K a month at 10% of a spend,"
+    },
+    {
+      "start": 851.22,
+      "end": 852.08,
+      "text": "[SPEAKER_02]: like that's wild."
+    },
+    {
+      "start": 852.2,
+      "end": 852.9,
+      "text": "[SPEAKER_02]: We've never paid an agency close to that."
+    },
+    {
+      "start": 852.9,
+      "end": 854,
+      "text": "[SPEAKER_02]: Right, that's like..."
+    },
+    {
+      "start": 854,
+      "end": 857.06,
+      "text": "[SPEAKER_02]: You might as well get seven video editors in-house full-time."
+    },
+    {
+      "start": 857.38,
+      "end": 857.88,
+      "text": "[SPEAKER_02]: Yeah, right."
+    },
+    {
+      "start": 857.96,
+      "end": 858.96,
+      "text": "[SPEAKER_02]: If you're going to spend on that."
+    },
+    {
+      "start": 859.26,
+      "end": 860.78,
+      "text": "[SPEAKER_02]: So we built it in-house."
+    },
+    {
+      "start": 862.04,
+      "end": 863.02,
+      "text": "[SPEAKER_02]: I just think it's really important."
+    },
+    {
+      "start": 863.12,
+      "end": 864.66,
+      "text": "[SPEAKER_02]: We have a really good creative team."
+    },
+    {
+      "start": 865.46,
+      "end": 867.3,
+      "text": "[SPEAKER_02]: They are more like on the brand side."
+    },
+    {
+      "start": 867.74,
+      "end": 869.18,
+      "text": "[SPEAKER_02]: So they do all of our organic social,"
+    },
+    {
+      "start": 869.2,
+      "end": 869.9,
+      "text": "[SPEAKER_02]: all of our YouTube,"
+    },
+    {
+      "start": 870.26,
+      "end": 871.8,
+      "text": "[SPEAKER_02]: all of our photo stuff, stuff like that."
+    },
+    {
+      "start": 871.8,
+      "end": 873.82,
+      "text": "[SPEAKER_02]: So we've got like a design, a video team."
+    },
+    {
+      "start": 874.04,
+      "end": 875.4,
+      "text": "[SPEAKER_02]: And they work on some of our ad stuff,"
+    },
+    {
+      "start": 875.64,
+      "end": 877.02,
+      "text": "[SPEAKER_02]: but it's just such a different culture"
+    },
+    {
+      "start": 877.02,
+      "end": 878.62,
+      "text": "[SPEAKER_02]: and such a different perspective"
+    },
+    {
+      "start": 878.62,
+      "end": 880.22,
+      "text": "[SPEAKER_02]: of what they're looking for at different speed."
+    },
+    {
+      "start": 881.02,
+      "end": 883.78,
+      "text": "[SPEAKER_02]: So as we grew and after iOS,"
+    },
+    {
+      "start": 884.06,
+      "end": 885.34,
+      "text": "[SPEAKER_02]: creative became more and more important."
+    },
+    {
+      "start": 885.8,
+      "end": 888.04,
+      "text": "[SPEAKER_02]: I was like, let's not put our money on an agency"
+    },
+    {
+      "start": 888.04,
+      "end": 888.78,
+      "text": "[SPEAKER_02]: for running ads."
+    },
+    {
+      "start": 888.88,
+      "end": 890.78,
+      "text": "[SPEAKER_02]: Let's instead put that money into creative."
+    },
+    {
+      "start": 890.94,
+      "end": 892.22,
+      "text": "[SPEAKER_02]: So I think we started with an agency"
+    },
+    {
+      "start": 892.22,
+      "end": 893.32,
+      "text": "[SPEAKER_02]: that was more of like a flat fee,"
+    },
+    {
+      "start": 893.36,
+      "end": 894.5,
+      "text": "[SPEAKER_02]: but they'd shoot internally with us."
+    },
+    {
+      "start": 895.02,
+      "end": 896.2,
+      "text": "[SPEAKER_02]: And over time, we just tried to add things."
+    },
+    {
+      "start": 896.32,
+      "end": 897.78,
+      "text": "[SPEAKER_02]: So we added video editors."
+    },
+    {
+      "start": 898.08,
+      "end": 899.5,
+      "text": "[SPEAKER_02]: We added creative strategists."
+    },
+    {
+      "start": 899.58,
+      "end": 900.82,
+      "text": "[SPEAKER_02]: Right now, we have one full-time creative strategist."
+    },
+    {
+      "start": 901.5,
+      "end": 902.98,
+      "text": "[SPEAKER_02]: We've got a few video editors."
+    },
+    {
+      "start": 903.4,
+      "end": 904.46,
+      "text": "[SPEAKER_02]: We have some designers."
+    },
+    {
+      "start": 904.98,
+      "end": 908.16,
+      "text": "[SPEAKER_02]: Our designers are actually on our creative team."
+    },
+    {
+      "start": 908.3,
+      "end": 908.94,
+      "text": "[SPEAKER_02]: So they're on the brand side,"
+    },
+    {
+      "start": 909.02,
+      "end": 911.02,
+      "text": "[SPEAKER_02]: but everyone works closely together."
+    },
+    {
+      "start": 911.16,
+      "end": 912.24,
+      "text": "[SPEAKER_02]: And that'll probably be a big team"
+    },
+    {
+      "start": 912.24,
+      "end": 914.74,
+      "text": "[SPEAKER_02]: that we build over time, get more."
+    },
+    {
+      "start": 914.84,
+      "end": 916.6,
+      "text": "[SPEAKER_02]: I'll probably treat it like an in-house agency."
+    },
+    {
+      "start": 916.78,
+      "end": 918.24,
+      "text": "[SPEAKER_02]: Like we've got a studio space that we can use."
+    },
+    {
+      "start": 918.36,
+      "end": 919.46,
+      "text": "[SPEAKER_02]: I'd probably like to build that out."
+    },
+    {
+      "start": 919.76,
+      "end": 921.42,
+      "text": "[SPEAKER_02]: Even considering like,"
+    },
+    {
+      "start": 921.66,
+      "end": 922.92,
+      "text": "[SPEAKER_02]: like I was talking to Zach's talk about it,"
+    },
+    {
+      "start": 923.04,
+      "end": 924.82,
+      "text": "[SPEAKER_02]: like is there a way to like incentivize people"
+    },
+    {
+      "start": 924.82,
+      "end": 926.24,
+      "text": "[SPEAKER_02]: to have some type of percent of spend"
+    },
+    {
+      "start": 926.24,
+      "end": 928.38,
+      "text": "[SPEAKER_02]: but like make sure that's still healthy for us?"
+    },
+    {
+      "start": 928.96,
+      "end": 930.32,
+      "text": "[SPEAKER_02]: You mean like as a creative?"
+    },
+    {
+      "start": 930.92,
+      "end": 932.72,
+      "text": "[SPEAKER_02]: Yeah, it's a creative or like as a strategist"
+    },
+    {
+      "start": 932.72,
+      "end": 933.42,
+      "text": "[SPEAKER_02]: or something like that."
+    },
+    {
+      "start": 933.46,
+      "end": 935.42,
+      "text": "[SPEAKER_02]: Like if one of your videos pops off,"
+    },
+    {
+      "start": 935.58,
+      "end": 936.28,
+      "text": "[SPEAKER_02]: like you should be rewarded,"
+    },
+    {
+      "start": 936.52,
+      "end": 937.86,
+      "text": "[SPEAKER_02]: but there's got to be a cap."
+    },
+    {
+      "start": 938.02,
+      "end": 939.76,
+      "text": "[SPEAKER_02]: So it's obviously still economical for us."
+    },
+    {
+      "start": 939.84,
+      "end": 940.56,
+      "text": "[SPEAKER_02]: Right, because it's cheap."
+    },
+    {
+      "start": 940.88,
+      "end": 941.6,
+      "text": "[SPEAKER_02]: Yeah, exactly."
+    },
+    {
+      "start": 942.1,
+      "end": 942.42,
+      "text": "[SPEAKER_02]: Exactly."
+    },
+    {
+      "start": 942.92,
+      "end": 943.86,
+      "text": "[SPEAKER_02]: No, but I think it's something"
+    },
+    {
+      "start": 943.86,
+      "end": 945.24,
+      "text": "[SPEAKER_02]: where we're probably under-investing."
+    },
+    {
+      "start": 945.3,
+      "end": 945.54,
+      "text": "[SPEAKER_02]: I don't know."
+    },
+    {
+      "start": 945.62,
+      "end": 946.56,
+      "text": "[SPEAKER_02]: What do you see in terms of like,"
+    },
+    {
+      "start": 946.84,
+      "end": 947.72,
+      "text": "[SPEAKER_02]: everyone throws out there"
+    },
+    {
+      "start": 947.72,
+      "end": 949.14,
+      "text": "[SPEAKER_02]: and they say it should be 10% of spend"
+    },
+    {
+      "start": 949.14,
+      "end": 949.76,
+      "text": "[SPEAKER_02]: you spend on creative."
+    },
+    {
+      "start": 949.94,
+      "end": 951.38,
+      "text": "[SPEAKER_02]: Like we're not spending anywhere close to that."
+    },
+    {
+      "start": 951.46,
+      "end": 951.92,
+      "text": "[SPEAKER_02]: What have you seen?"
+    },
+    {
+      "start": 952.24,
+      "end": 952.56,
+      "text": "[SPEAKER_01]: I don't know."
+    },
+    {
+      "start": 952.66,
+      "end": 954.28,
+      "text": "[SPEAKER_01]: We had an account where we were spending like,"
+    },
+    {
+      "start": 954.4,
+      "end": 956.7,
+      "text": "[SPEAKER_01]: you know, $6 million to $8 million a month."
+    },
+    {
+      "start": 956.7,
+      "end": 958.82,
+      "text": "[SPEAKER_01]: So we stopped doing creative scopes"
+    },
+    {
+      "start": 958.82,
+      "end": 960.44,
+      "text": "[SPEAKER_01]: where we would just go back and say,"
+    },
+    {
+      "start": 960.46,
+      "end": 961.16,
+      "text": "[SPEAKER_01]: we need more creative."
+    },
+    {
+      "start": 962.16,
+      "end": 964.48,
+      "text": "[SPEAKER_01]: Instead, we just changed our model to like,"
+    },
+    {
+      "start": 964.66,
+      "end": 965.92,
+      "text": "[SPEAKER_01]: if we're buying media for you,"
+    },
+    {
+      "start": 965.98,
+      "end": 967.12,
+      "text": "[SPEAKER_01]: we just do unlimited ad creative."
+    },
+    {
+      "start": 967.28,
+      "end": 967.54,
+      "text": "[SPEAKER_01]: Oh nice."
+    },
+    {
+      "start": 967.72,
+      "end": 968.98,
+      "text": "[SPEAKER_01]: So it depends on the spend"
+    },
+    {
+      "start": 968.98,
+      "end": 970.38,
+      "text": "[SPEAKER_01]: if you're an account spending,"
+    },
+    {
+      "start": 970.4,
+      "end": 972.14,
+      "text": "[SPEAKER_01]: you know, seven figures a month."
+    },
+    {
+      "start": 972.3,
+      "end": 972.6,
+      "text": "[SPEAKER_01]: I don't know,"
+    },
+    {
+      "start": 972.64,
+      "end": 973.66,
+      "text": "[SPEAKER_01]: we might be rotating anywhere"
+    },
+    {
+      "start": 973.66,
+      "end": 975.16,
+      "text": "[SPEAKER_01]: from 30 to 50 pieces a week."
+    },
+    {
+      "start": 975.26,
+      "end": 975.48,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 975.6,
+      "end": 976.42,
+      "text": "[SPEAKER_01]: If you're less than that,"
+    },
+    {
+      "start": 976.46,
+      "end": 977.1,
+      "text": "[SPEAKER_01]: then probably less."
+    },
+    {
+      "start": 977.28,
+      "end": 978.4,
+      "text": "[SPEAKER_01]: But the idea is like,"
+    },
+    {
+      "start": 978.54,
+      "end": 980.1,
+      "text": "[SPEAKER_01]: we can scale up with you."
+    },
+    {
+      "start": 982.64,
+      "end": 983.78,
+      "text": "[SPEAKER_01]: And surprisingly enough,"
+    },
+    {
+      "start": 983.86,
+      "end": 985.06,
+      "text": "[SPEAKER_01]: I know we both invested in motion."
+    },
+    {
+      "start": 985.06,
+      "end": 987.52,
+      "text": "[SPEAKER_01]: Motion is like the most helpful thing to our creative team."
+    },
+    {
+      "start": 987.72,
+      "end": 988.26,
+      "text": "[SPEAKER_01]: Oh, for sure."
+    },
+    {
+      "start": 988.26,
+      "end": 989.7,
+      "text": "[SPEAKER_02]: I don't know a single team that doesn't use it."
+    },
+    {
+      "start": 989.7,
+      "end": 990.54,
+      "text": "[SPEAKER_01]: When we invested in motion,"
+    },
+    {
+      "start": 990.84,
+      "end": 991.4,
+      "text": "[SPEAKER_01]: I was like,"
+    },
+    {
+      "start": 991.82,
+      "end": 993.94,
+      "text": "[SPEAKER_01]: okay, I could see this as like a founder level tool."
+    },
+    {
+      "start": 994.14,
+      "end": 994.24,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 994.48,
+      "end": 995.46,
+      "text": "[SPEAKER_01]: I never really thought about it"
+    },
+    {
+      "start": 995.46,
+      "end": 996.56,
+      "text": "[SPEAKER_01]: from the creative teams perspective,"
+    },
+    {
+      "start": 996.56,
+      "end": 998.02,
+      "text": "[SPEAKER_01]: but like our designers,"
+    },
+    {
+      "start": 998.24,
+      "end": 998.74,
+      "text": "[SPEAKER_01]: video editors,"
+    },
+    {
+      "start": 998.9,
+      "end": 999.32,
+      "text": "[SPEAKER_01]: animators,"
+    },
+    {
+      "start": 999.34,
+      "end": 1000.52,
+      "text": "[SPEAKER_01]: they just live in motion now."
+    },
+    {
+      "start": 1000.7,
+      "end": 1001.12,
+      "text": "[SPEAKER_01]: Oh, for sure."
+    },
+    {
+      "start": 1001.18,
+      "end": 1001.98,
+      "text": "[SPEAKER_01]: Everything is in motion."
+    },
+    {
+      "start": 1002.2,
+      "end": 1002.46,
+      "text": "[SPEAKER_01]: Definitely."
+    },
+    {
+      "start": 1002.66,
+      "end": 1002.74,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1002.82,
+      "end": 1003.9,
+      "text": "[SPEAKER_02]: So I was just trying to show it to a designer"
+    },
+    {
+      "start": 1003.9,
+      "end": 1005.18,
+      "text": "[SPEAKER_02]: who really doesn't know the stuff as much."
+    },
+    {
+      "start": 1005.18,
+      "end": 1005.4,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1005.62,
+      "end": 1005.84,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1006.18,
+      "end": 1006.5,
+      "text": "[SPEAKER_02]: Absolutely."
+    },
+    {
+      "start": 1006.78,
+      "end": 1006.98,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1008.6,
+      "end": 1008.92,
+      "text": "[SPEAKER_02]: Okay."
+    },
+    {
+      "start": 1009.08,
+      "end": 1010.68,
+      "text": "[SPEAKER_02]: Any other tips on the creative team build out?"
+    },
+    {
+      "start": 1011,
+      "end": 1011.2,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1011.3,
+      "end": 1011.94,
+      "text": "[SPEAKER_02]: I mean, we'll build it out."
+    },
+    {
+      "start": 1011.94,
+      "end": 1012.82,
+      "text": "[SPEAKER_02]: I would say like,"
+    },
+    {
+      "start": 1012.96,
+      "end": 1014.4,
+      "text": "[SPEAKER_02]: so let's say you're like seven figures."
+    },
+    {
+      "start": 1014.54,
+      "end": 1015.68,
+      "text": "[SPEAKER_02]: You're probably starting to build it out."
+    },
+    {
+      "start": 1015.92,
+      "end": 1016.78,
+      "text": "[SPEAKER_02]: You probably want,"
+    },
+    {
+      "start": 1016.9,
+      "end": 1018.24,
+      "text": "[SPEAKER_02]: I would say creative strategist."
+    },
+    {
+      "start": 1018.46,
+      "end": 1018.66,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1018.7,
+      "end": 1019.62,
+      "text": "[SPEAKER_02]: Hopefully you can get a strategist."
+    },
+    {
+      "start": 1019.7,
+      "end": 1020.4,
+      "text": "[SPEAKER_02]: Like there's a few different ways."
+    },
+    {
+      "start": 1020.5,
+      "end": 1022.76,
+      "text": "[SPEAKER_02]: We went with more of like a video editing production background."
+    },
+    {
+      "start": 1023.6,
+      "end": 1024.58,
+      "text": "[SPEAKER_02]: You can get somebody over there."
+    },
+    {
+      "start": 1024.68,
+      "end": 1026.64,
+      "text": "[SPEAKER_02]: You can get somebody from a media buying background,"
+    },
+    {
+      "start": 1026.76,
+      "end": 1027.54,
+      "text": "[SPEAKER_02]: but make sure they got creative."
+    },
+    {
+      "start": 1027.82,
+      "end": 1029.5,
+      "text": "[SPEAKER_02]: You know, like a copywriter background."
+    },
+    {
+      "start": 1029.66,
+      "end": 1030.46,
+      "text": "[SPEAKER_02]: You can get a,"
+    },
+    {
+      "start": 1030.56,
+      "end": 1032.1,
+      "text": "[SPEAKER_02]: like a content creator background."
+    },
+    {
+      "start": 1032.3,
+      "end": 1034.66,
+      "text": "[SPEAKER_02]: Like that's probably the direction I would go"
+    },
+    {
+      "start": 1034.66,
+      "end": 1035.46,
+      "text": "[SPEAKER_02]: at one of those smaller ones."
+    },
+    {
+      "start": 1035.86,
+      "end": 1037.92,
+      "text": "[SPEAKER_02]: Hopefully they can make some edits,"
+    },
+    {
+      "start": 1038.1,
+      "end": 1038.72,
+      "text": "[SPEAKER_02]: do things like that."
+    },
+    {
+      "start": 1038.82,
+      "end": 1038.96,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1039.08,
+      "end": 1039.14,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1039.14,
+      "end": 1040.8,
+      "text": "[SPEAKER_02]: That'd be a little bit more multifaceted maybe."
+    },
+    {
+      "start": 1041.04,
+      "end": 1041.5,
+      "text": "[SPEAKER_02]: Yeah, exactly."
+    },
+    {
+      "start": 1041.64,
+      "end": 1043.28,
+      "text": "[SPEAKER_02]: Cause you just need them to be able to do multiple things."
+    },
+    {
+      "start": 1043.4,
+      "end": 1043.56,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1043.68,
+      "end": 1045.36,
+      "text": "[SPEAKER_02]: But I think they've got to have that like strategy hot."
+    },
+    {
+      "start": 1045.52,
+      "end": 1046.08,
+      "text": "[SPEAKER_02]: They've got a,"
+    },
+    {
+      "start": 1046.48,
+      "end": 1047.76,
+      "text": "[SPEAKER_02]: I think that the biggest thing,"
+    },
+    {
+      "start": 1047.78,
+      "end": 1048.94,
+      "text": "[SPEAKER_02]: and I'm working on like presentation"
+    },
+    {
+      "start": 1048.94,
+      "end": 1051.26,
+      "text": "[SPEAKER_02]: and trying to like change how we do things internally."
+    },
+    {
+      "start": 1051.42,
+      "end": 1052.48,
+      "text": "[SPEAKER_02]: I think just as an industry,"
+    },
+    {
+      "start": 1052.62,
+      "end": 1054.38,
+      "text": "[SPEAKER_02]: we spend so much time thinking about like"
+    },
+    {
+      "start": 1054.38,
+      "end": 1056.98,
+      "text": "[SPEAKER_02]: the less important variables of creative"
+    },
+    {
+      "start": 1057.38,
+      "end": 1058,
+      "text": "[SPEAKER_02]: where it's like,"
+    },
+    {
+      "start": 1058.1,
+      "end": 1058.98,
+      "text": "[SPEAKER_02]: what's the format?"
+    },
+    {
+      "start": 1059.24,
+      "end": 1059.76,
+      "text": "[SPEAKER_02]: What's the concept?"
+    },
+    {
+      "start": 1060.14,
+      "end": 1060.96,
+      "text": "[SPEAKER_02]: Like what's the iteration?"
+    },
+    {
+      "start": 1061.22,
+      "end": 1061.6,
+      "text": "[SPEAKER_02]: What's the hook?"
+    },
+    {
+      "start": 1062.02,
+      "end": 1062.98,
+      "text": "[SPEAKER_02]: And those are important,"
+    },
+    {
+      "start": 1063.02,
+      "end": 1064.9,
+      "text": "[SPEAKER_02]: but I think the most important thing is like research."
+    },
+    {
+      "start": 1065.1,
+      "end": 1067.42,
+      "text": "[SPEAKER_02]: Like how are we really understanding our customers?"
+    },
+    {
+      "start": 1067.62,
+      "end": 1068.24,
+      "text": "[SPEAKER_02]: What do they care about?"
+    },
+    {
+      "start": 1068.24,
+      "end": 1068.68,
+      "text": "[SPEAKER_01]: So true."
+    },
+    {
+      "start": 1068.96,
+      "end": 1070.28,
+      "text": "[SPEAKER_02]: What do our existing customers care about?"
+    },
+    {
+      "start": 1070.4,
+      "end": 1071.36,
+      "text": "[SPEAKER_02]: How are we running service to them?"
+    },
+    {
+      "start": 1071.7,
+      "end": 1072.64,
+      "text": "[SPEAKER_02]: But also like for us,"
+    },
+    {
+      "start": 1072.84,
+      "end": 1074.3,
+      "text": "[SPEAKER_02]: like let's say we have an opportunity"
+    },
+    {
+      "start": 1074.3,
+      "end": 1075.34,
+      "text": "[SPEAKER_02]: to reach a new audience."
+    },
+    {
+      "start": 1075.64,
+      "end": 1077.06,
+      "text": "[SPEAKER_02]: They're going to care about different things."
+    },
+    {
+      "start": 1077.18,
+      "end": 1077.36,
+      "text": "[SPEAKER_02]: Totally."
+    },
+    {
+      "start": 1077.5,
+      "end": 1078.74,
+      "text": "[SPEAKER_02]: We can't just look at our ad comments"
+    },
+    {
+      "start": 1078.74,
+      "end": 1079.72,
+      "text": "[SPEAKER_02]: cause we're not reaching them currently."
+    },
+    {
+      "start": 1079.94,
+      "end": 1080.94,
+      "text": "[SPEAKER_02]: Like go on Reddit,"
+    },
+    {
+      "start": 1081.12,
+      "end": 1081.78,
+      "text": "[SPEAKER_02]: go on YouTube,"
+    },
+    {
+      "start": 1082.06,
+      "end": 1083.74,
+      "text": "[SPEAKER_02]: like what are those people caring about?"
+    },
+    {
+      "start": 1084.06,
+      "end": 1085.1,
+      "text": "[SPEAKER_02]: What are they currently using?"
+    },
+    {
+      "start": 1085.3,
+      "end": 1085.96,
+      "text": "[SPEAKER_02]: What have they tried before?"
+    },
+    {
+      "start": 1086.42,
+      "end": 1088.8,
+      "text": "[SPEAKER_02]: And like spend like hours working on that"
+    },
+    {
+      "start": 1088.8,
+      "end": 1090.42,
+      "text": "[SPEAKER_02]: before you even think of an ad concept."
+    },
+    {
+      "start": 1090.68,
+      "end": 1092.18,
+      "text": "[SPEAKER_02]: Don't just look at like four play"
+    },
+    {
+      "start": 1092.18,
+      "end": 1092.92,
+      "text": "[SPEAKER_02]: and come up with an ad."
+    },
+    {
+      "start": 1093.04,
+      "end": 1094.34,
+      "text": "[SPEAKER_02]: That's like my biggest pet peeve."
+    },
+    {
+      "start": 1094.48,
+      "end": 1094.66,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1094.78,
+      "end": 1095.54,
+      "text": "[SPEAKER_01]: I couldn't agree more."
+    },
+    {
+      "start": 1095.54,
+      "end": 1098.92,
+      "text": "[SPEAKER_01]: My like two places I love to go is one is Reddit"
+    },
+    {
+      "start": 1098.92,
+      "end": 1100.98,
+      "text": "[SPEAKER_01]: and one is TikTok, like just searching TikTok."
+    },
+    {
+      "start": 1101.26,
+      "end": 1103.78,
+      "text": "[SPEAKER_01]: You know, even if it's like a mascara,"
+    },
+    {
+      "start": 1104.76,
+      "end": 1106.28,
+      "text": "[SPEAKER_01]: you know college student"
+    },
+    {
+      "start": 1106.28,
+      "end": 1108.28,
+      "text": "[SPEAKER_01]: and like listening to that perspective"
+    },
+    {
+      "start": 1108.28,
+      "end": 1110.3,
+      "text": "[SPEAKER_01]: or mascara, you know old woman,"
+    },
+    {
+      "start": 1110.38,
+      "end": 1111.36,
+      "text": "[SPEAKER_01]: I don't know if that's bad to say,"
+    },
+    {
+      "start": 1111.44,
+      "end": 1112.86,
+      "text": "[SPEAKER_01]: but like listening to that perspective."
+    },
+    {
+      "start": 1113.54,
+      "end": 1115.14,
+      "text": "[SPEAKER_01]: But and then Reddit's another one"
+    },
+    {
+      "start": 1115.14,
+      "end": 1116.44,
+      "text": "[SPEAKER_01]: cause everybody's, you know,"
+    },
+    {
+      "start": 1116.46,
+      "end": 1118.58,
+      "text": "[SPEAKER_01]: either complaining or answering a complaint on Reddit."
+    },
+    {
+      "start": 1118.94,
+      "end": 1120.88,
+      "text": "[SPEAKER_01]: There's so many like pockets or angles"
+    },
+    {
+      "start": 1120.88,
+      "end": 1122.14,
+      "text": "[SPEAKER_01]: you could find within the comments."
+    },
+    {
+      "start": 1122.36,
+      "end": 1124.12,
+      "text": "[SPEAKER_02]: For sure Reddit and Facebook groups as well."
+    },
+    {
+      "start": 1124.12,
+      "end": 1124.44,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1124.68,
+      "end": 1125.48,
+      "text": "[SPEAKER_02]: Facebook groups is another one."
+    },
+    {
+      "start": 1125.5,
+      "end": 1127.06,
+      "text": "[SPEAKER_02]: Just trying to like understand those"
+    },
+    {
+      "start": 1127.06,
+      "end": 1130.02,
+      "text": "[SPEAKER_02]: and those the new audiences,"
+    },
+    {
+      "start": 1130.22,
+      "end": 1131.44,
+      "text": "[SPEAKER_02]: what they care about, how is it different?"
+    },
+    {
+      "start": 1132.24,
+      "end": 1134.46,
+      "text": "[SPEAKER_02]: Build avatars, try to build some data around it."
+    },
+    {
+      "start": 1134.58,
+      "end": 1135.8,
+      "text": "[SPEAKER_02]: And then like, how are you speaking,"
+    },
+    {
+      "start": 1136.08,
+      "end": 1137.88,
+      "text": "[SPEAKER_02]: you know, to those avatars maybe differently?"
+    },
+    {
+      "start": 1138.08,
+      "end": 1138.9,
+      "text": "[SPEAKER_02]: Like what do they care about?"
+    },
+    {
+      "start": 1139.66,
+      "end": 1141.22,
+      "text": "[SPEAKER_02]: Have you done any like Axiom reports?"
+    },
+    {
+      "start": 1141.42,
+      "end": 1142.7,
+      "text": "[SPEAKER_02]: We had one agency who did one of those."
+    },
+    {
+      "start": 1142.78,
+      "end": 1144.18,
+      "text": "[SPEAKER_02]: They like took our customer file"
+    },
+    {
+      "start": 1144.18,
+      "end": 1145.76,
+      "text": "[SPEAKER_02]: and got like an Axiom report."
+    },
+    {
+      "start": 1145.98,
+      "end": 1146.96,
+      "text": "[SPEAKER_01]: So yeah, you get break,"
+    },
+    {
+      "start": 1147.06,
+      "end": 1148.68,
+      "text": "[SPEAKER_01]: get the breakdown of all the customers."
+    },
+    {
+      "start": 1149.44,
+      "end": 1151.9,
+      "text": "[SPEAKER_01]: We have done it or I've done it before"
+    },
+    {
+      "start": 1152.94,
+      "end": 1153.9,
+      "text": "[SPEAKER_01]: a couple of times."
+    },
+    {
+      "start": 1154.24,
+      "end": 1155.92,
+      "text": "[SPEAKER_01]: I remember the most successful one we did"
+    },
+    {
+      "start": 1155.92,
+      "end": 1156.94,
+      "text": "[SPEAKER_01]: was with Experian"
+    },
+    {
+      "start": 1156.94,
+      "end": 1158.86,
+      "text": "[SPEAKER_01]: because they gave us audiences"
+    },
+    {
+      "start": 1158.86,
+      "end": 1160.7,
+      "text": "[SPEAKER_01]: based on who our customer data had."
+    },
+    {
+      "start": 1162.32,
+      "end": 1164,
+      "text": "[SPEAKER_01]: But those audiences didn't last long."
+    },
+    {
+      "start": 1164.14,
+      "end": 1165.4,
+      "text": "[SPEAKER_01]: They probably worked for like a month or two."
+    },
+    {
+      "start": 1165.54,
+      "end": 1166.52,
+      "text": "[SPEAKER_01]: And it was like, all right."
+    },
+    {
+      "start": 1167,
+      "end": 1168.5,
+      "text": "[SPEAKER_02]: Yeah, I was looking for like running this more"
+    },
+    {
+      "start": 1168.5,
+      "end": 1169.22,
+      "text": "[SPEAKER_02]: just like for insights."
+    },
+    {
+      "start": 1169.64,
+      "end": 1170.76,
+      "text": "[SPEAKER_02]: I don't know how helpful"
+    },
+    {
+      "start": 1170.76,
+      "end": 1172.38,
+      "text": "[SPEAKER_02]: and I don't know what the cost would normally be."
+    },
+    {
+      "start": 1172.58,
+      "end": 1174.1,
+      "text": "[SPEAKER_02]: But I think it's like a cool idea at least"
+    },
+    {
+      "start": 1174.1,
+      "end": 1176.18,
+      "text": "[SPEAKER_02]: to just like the more you can understand your customers."
+    },
+    {
+      "start": 1176.3,
+      "end": 1177.42,
+      "text": "[SPEAKER_02]: I'm a big fan of surveying."
+    },
+    {
+      "start": 1177.62,
+      "end": 1180.44,
+      "text": "[SPEAKER_02]: But again, it's there's part is understanding"
+    },
+    {
+      "start": 1180.44,
+      "end": 1182.34,
+      "text": "[SPEAKER_02]: your current customers to know what they care about"
+    },
+    {
+      "start": 1182.34,
+      "end": 1183.92,
+      "text": "[SPEAKER_02]: and what like the messaging pillars are."
+    },
+    {
+      "start": 1183.98,
+      "end": 1184.96,
+      "text": "[SPEAKER_02]: But it's also like,"
+    },
+    {
+      "start": 1185,
+      "end": 1186.54,
+      "text": "[SPEAKER_02]: how are we going to reach new people?"
+    },
+    {
+      "start": 1186.94,
+      "end": 1187.68,
+      "text": "[SPEAKER_02]: What do they care about?"
+    },
+    {
+      "start": 1187.8,
+      "end": 1189.16,
+      "text": "[SPEAKER_02]: That's different than what we currently care about."
+    },
+    {
+      "start": 1189.38,
+      "end": 1189.56,
+      "text": "[SPEAKER_01]: Totally."
+    },
+    {
+      "start": 1189.94,
+      "end": 1190.26,
+      "text": "[SPEAKER_01]: All right, Cody."
+    },
+    {
+      "start": 1190.44,
+      "end": 1191.9,
+      "text": "[SPEAKER_01]: So for Black Friday coming up,"
+    },
+    {
+      "start": 1191.98,
+      "end": 1194.06,
+      "text": "[SPEAKER_01]: is there anything different you guys are doing this year"
+    },
+    {
+      "start": 1194.06,
+      "end": 1194.9,
+      "text": "[SPEAKER_01]: that you haven't done before?"
+    },
+    {
+      "start": 1195.06,
+      "end": 1195.78,
+      "text": "[SPEAKER_01]: I'm assuming you're going to run"
+    },
+    {
+      "start": 1195.78,
+      "end": 1197.82,
+      "text": "[SPEAKER_01]: the Miracle Bomb Minis again."
+    },
+    {
+      "start": 1198.62,
+      "end": 1200.16,
+      "text": "[SPEAKER_02]: Yeah, we're pretty lucky."
+    },
+    {
+      "start": 1200.3,
+      "end": 1201.6,
+      "text": "[SPEAKER_02]: I feel like we have a pretty good thing figured out."
+    },
+    {
+      "start": 1202.32,
+      "end": 1204.46,
+      "text": "[SPEAKER_02]: So we just make some slight adjustments to it"
+    },
+    {
+      "start": 1204.46,
+      "end": 1205.32,
+      "text": "[SPEAKER_02]: and a lot in our strategy."
+    },
+    {
+      "start": 1205.94,
+      "end": 1207.2,
+      "text": "[SPEAKER_02]: We, you know, last time I think"
+    },
+    {
+      "start": 1207.2,
+      "end": 1208.44,
+      "text": "[SPEAKER_02]: I was here probably in December."
+    },
+    {
+      "start": 1208.6,
+      "end": 1209.6,
+      "text": "[SPEAKER_02]: So it was right after Black Friday"
+    },
+    {
+      "start": 1209.6,
+      "end": 1211.32,
+      "text": "[SPEAKER_02]: we had a pretty successful one."
+    },
+    {
+      "start": 1211.66,
+      "end": 1213.86,
+      "text": "[SPEAKER_02]: Harley shouted us out on like MSN."
+    },
+    {
+      "start": 1213.86,
+      "end": 1214.32,
+      "text": "[SPEAKER_02]: That was sick."
+    },
+    {
+      "start": 1214.58,
+      "end": 1215.02,
+      "text": "[SPEAKER_02]: So that was awesome."
+    },
+    {
+      "start": 1215.52,
+      "end": 1216.76,
+      "text": "[SPEAKER_02]: So hopefully we get that again."
+    },
+    {
+      "start": 1216.92,
+      "end": 1217.8,
+      "text": "[SPEAKER_02]: That's my boy, Cody."
+    },
+    {
+      "start": 1218.46,
+      "end": 1219.5,
+      "text": "[SPEAKER_02]: So hopefully we get that again."
+    },
+    {
+      "start": 1219.74,
+      "end": 1220.92,
+      "text": "[SPEAKER_02]: We've got a million last year."
+    },
+    {
+      "start": 1221,
+      "end": 1222.84,
+      "text": "[SPEAKER_02]: We sold 375,000 minis,"
+    },
+    {
+      "start": 1222.94,
+      "end": 1223.46,
+      "text": "[SPEAKER_02]: mini Miracle Bones."
+    },
+    {
+      "start": 1223.72,
+      "end": 1224.64,
+      "text": "[SPEAKER_02]: We've got a million this year."
+    },
+    {
+      "start": 1224.76,
+      "end": 1225.98,
+      "text": "[SPEAKER_02]: So that's the goal to go through them."
+    },
+    {
+      "start": 1226.46,
+      "end": 1228.38,
+      "text": "[SPEAKER_02]: So number one, we're going to extend the length."
+    },
+    {
+      "start": 1228.72,
+      "end": 1229.58,
+      "text": "[SPEAKER_02]: So we're just trying to figure out"
+    },
+    {
+      "start": 1229.58,
+      "end": 1230.5,
+      "text": "[SPEAKER_02]: what did we learn from it?"
+    },
+    {
+      "start": 1230.58,
+      "end": 1231.8,
+      "text": "[SPEAKER_01]: What was your length last year?"
+    },
+    {
+      "start": 1232.04,
+      "end": 1232.3,
+      "text": "[SPEAKER_02]: Four days."
+    },
+    {
+      "start": 1232.68,
+      "end": 1232.84,
+      "text": "[SPEAKER_02]: Four days."
+    },
+    {
+      "start": 1232.84,
+      "end": 1233.72,
+      "text": "[SPEAKER_02]: And that was the first time."
+    },
+    {
+      "start": 1233.78,
+      "end": 1234.44,
+      "text": "[SPEAKER_01]: That was during the week of Black Friday?"
+    },
+    {
+      "start": 1234.66,
+      "end": 1234.84,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1235.38,
+      "end": 1236.64,
+      "text": "[SPEAKER_02]: So that was, you know, Friday to Monday."
+    },
+    {
+      "start": 1236.96,
+      "end": 1237.12,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1237.12,
+      "end": 1238.28,
+      "text": "[SPEAKER_02]: And that was the first time we've actually had"
+    },
+    {
+      "start": 1238.28,
+      "end": 1239.28,
+      "text": "[SPEAKER_02]: enough inventory for them."
+    },
+    {
+      "start": 1239.5,
+      "end": 1239.66,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1239.76,
+      "end": 1241.56,
+      "text": "[SPEAKER_02]: So we didn't even consider extending it."
+    },
+    {
+      "start": 1241.74,
+      "end": 1242.18,
+      "text": "[SPEAKER_02]: And now we did."
+    },
+    {
+      "start": 1242.24,
+      "end": 1244.1,
+      "text": "[SPEAKER_02]: Okay, you just ran this recently too, right?"
+    },
+    {
+      "start": 1244.1,
+      "end": 1244.2,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1244.34,
+      "end": 1244.94,
+      "text": "[SPEAKER_02]: So we do it on Mother's Day?"
+    },
+    {
+      "start": 1245.04,
+      "end": 1246.58,
+      "text": "[SPEAKER_02]: Very similar one for Memorial Day."
+    },
+    {
+      "start": 1246.68,
+      "end": 1247.32,
+      "text": "[SPEAKER_02]: Memorial Day, yeah."
+    },
+    {
+      "start": 1247.4,
+      "end": 1248.68,
+      "text": "[SPEAKER_02]: We did, I think we did eight days."
+    },
+    {
+      "start": 1249,
+      "end": 1251.06,
+      "text": "[SPEAKER_02]: We made, if I'm allowed to brag a little bit,"
+    },
+    {
+      "start": 1251.08,
+      "end": 1252.7,
+      "text": "[SPEAKER_02]: we didn't make a million, seven of the eight days."
+    },
+    {
+      "start": 1252.96,
+      "end": 1253.2,
+      "text": "[SPEAKER_02]: What?"
+    },
+    {
+      "start": 1253.58,
+      "end": 1254.82,
+      "text": "[SPEAKER_02]: So the goal is to do it every day now."
+    },
+    {
+      "start": 1254.9,
+      "end": 1255.14,
+      "text": "[SPEAKER_02]: Wow."
+    },
+    {
+      "start": 1255.3,
+      "end": 1255.8,
+      "text": "[SPEAKER_02]: Yeah, it was cool."
+    },
+    {
+      "start": 1256.1,
+      "end": 1257.28,
+      "text": "[SPEAKER_02]: But we got some really good feedback."
+    },
+    {
+      "start": 1257.48,
+      "end": 1259.6,
+      "text": "[SPEAKER_02]: Like we offered them in like a kit."
+    },
+    {
+      "start": 1259.74,
+      "end": 1261.52,
+      "text": "[SPEAKER_02]: We had like two or three different kit offerings."
+    },
+    {
+      "start": 1261.76,
+      "end": 1261.9,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1261.96,
+      "end": 1262.92,
+      "text": "[SPEAKER_02]: Where people couldn't take their shades."
+    },
+    {
+      "start": 1263.02,
+      "end": 1264.68,
+      "text": "[SPEAKER_02]: People were pissed about that for some reason."
+    },
+    {
+      "start": 1264.68,
+      "end": 1266.34,
+      "text": "[SPEAKER_02]: So we're going to let them customize."
+    },
+    {
+      "start": 1267.02,
+      "end": 1269.9,
+      "text": "[SPEAKER_02]: They didn't like that they had to spend $170"
+    },
+    {
+      "start": 1269.9,
+      "end": 1272.62,
+      "text": "[SPEAKER_02]: to get one of the exclusive shades, but they bought it."
+    },
+    {
+      "start": 1272.62,
+      "end": 1274.8,
+      "text": "[SPEAKER_02]: So this year they'll be able to choose six of the same shades?"
+    },
+    {
+      "start": 1274.94,
+      "end": 1277.12,
+      "text": "[SPEAKER_02]: I think we'll probably do like four, six and eight,"
+    },
+    {
+      "start": 1277.18,
+      "end": 1277.88,
+      "text": "[SPEAKER_02]: something like that."
+    },
+    {
+      "start": 1277.98,
+      "end": 1279.7,
+      "text": "[SPEAKER_02]: But they'll be able to choose."
+    },
+    {
+      "start": 1280.26,
+      "end": 1282.66,
+      "text": "[SPEAKER_02]: Is that going to cost a lot extra on the pick and pack side"
+    },
+    {
+      "start": 1282.66,
+      "end": 1283.08,
+      "text": "[SPEAKER_02]: for you guys?"
+    },
+    {
+      "start": 1283.64,
+      "end": 1283.9,
+      "text": "[SPEAKER_02]: No."
+    },
+    {
+      "start": 1284.68,
+      "end": 1285.2,
+      "text": "[SPEAKER_02]: I thought so."
+    },
+    {
+      "start": 1285.32,
+      "end": 1285.76,
+      "text": "[SPEAKER_02]: Yeah, not actually."
+    },
+    {
+      "start": 1285.96,
+      "end": 1287.86,
+      "text": "[SPEAKER_02]: If anything is actually cheaper because we don't have to kit them."
+    },
+    {
+      "start": 1288.3,
+      "end": 1288.38,
+      "text": "[SPEAKER_02]: Oh, prior."
+    },
+    {
+      "start": 1288.38,
+      "end": 1289.22,
+      "text": "[SPEAKER_02]: We don't have to pre-kit them."
+    },
+    {
+      "start": 1289.36,
+      "end": 1291.12,
+      "text": "[SPEAKER_02]: Yeah, there's like pros and cons for like inventory."
+    },
+    {
+      "start": 1291.46,
+      "end": 1291.64,
+      "text": "[SPEAKER_02]: Sure."
+    },
+    {
+      "start": 1291.72,
+      "end": 1293.42,
+      "text": "[SPEAKER_02]: It's harder to predict what people will get."
+    },
+    {
+      "start": 1293.68,
+      "end": 1293.8,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1293.8,
+      "end": 1295.76,
+      "text": "[SPEAKER_02]: But we don't have to kit them, which is good."
+    },
+    {
+      "start": 1296.72,
+      "end": 1297.92,
+      "text": "[SPEAKER_02]: So yeah, we're going to extend that."
+    },
+    {
+      "start": 1297.94,
+      "end": 1300.28,
+      "text": "[SPEAKER_02]: So we're just trying to learn from how did we do it last year?"
+    },
+    {
+      "start": 1300.4,
+      "end": 1301.1,
+      "text": "[SPEAKER_02]: What's our post-mortem?"
+    },
+    {
+      "start": 1301.22,
+      "end": 1302.1,
+      "text": "[SPEAKER_02]: What do we think we did better?"
+    },
+    {
+      "start": 1302.6,
+      "end": 1304.74,
+      "text": "[SPEAKER_02]: Like last year was the first time we teased it."
+    },
+    {
+      "start": 1304.82,
+      "end": 1307.16,
+      "text": "[SPEAKER_02]: We actually let people know a week ahead of time"
+    },
+    {
+      "start": 1307.56,
+      "end": 1309.14,
+      "text": "[SPEAKER_02]: because we want to make sure people saw it."
+    },
+    {
+      "start": 1309.7,
+      "end": 1311.56,
+      "text": "[SPEAKER_02]: And we, you know, that was very successful."
+    },
+    {
+      "start": 1311.72,
+      "end": 1313.58,
+      "text": "[SPEAKER_02]: So we'll probably do something similar to that."
+    },
+    {
+      "start": 1314.14,
+      "end": 1315.98,
+      "text": "[SPEAKER_02]: We have a lot of how like in beauty,"
+    },
+    {
+      "start": 1316.1,
+      "end": 1318.18,
+      "text": "[SPEAKER_02]: like holiday kits and things like that are very important."
+    },
+    {
+      "start": 1318.74,
+      "end": 1320.56,
+      "text": "[SPEAKER_02]: So for us, it's just the whole season."
+    },
+    {
+      "start": 1321.38,
+      "end": 1323.32,
+      "text": "[SPEAKER_02]: Part, it really just starts with inventory planning"
+    },
+    {
+      "start": 1323.32,
+      "end": 1324.66,
+      "text": "[SPEAKER_02]: and are we getting enough?"
+    },
+    {
+      "start": 1324.8,
+      "end": 1326.8,
+      "text": "[SPEAKER_02]: And we've got to order these, you know, nine months ahead of time."
+    },
+    {
+      "start": 1326.96,
+      "end": 1327.12,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1327.18,
+      "end": 1329.86,
+      "text": "[SPEAKER_02]: So it's tricky to do, but we've got a lot more"
+    },
+    {
+      "start": 1329.86,
+      "end": 1331.8,
+      "text": "[SPEAKER_02]: and we're extending the length of time that we have them."
+    },
+    {
+      "start": 1331.84,
+      "end": 1332.8,
+      "text": "[SPEAKER_02]: So hopefully we'll be able to do it."
+    },
+    {
+      "start": 1333.02,
+      "end": 1334.68,
+      "text": "[SPEAKER_02]: And I just think a lot about building the funnel."
+    },
+    {
+      "start": 1334.88,
+      "end": 1337.44,
+      "text": "[SPEAKER_02]: Like really once September starts, it's like a lot of the people"
+    },
+    {
+      "start": 1337.44,
+      "end": 1339.64,
+      "text": "[SPEAKER_02]: that are buying holiday stuff that are buying Black Friday."
+    },
+    {
+      "start": 1339.86,
+      "end": 1340.04,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1340.12,
+      "end": 1341.7,
+      "text": "[SPEAKER_02]: They're not hearing about Jones Road for the first time then."
+    },
+    {
+      "start": 1342.1,
+      "end": 1342.14,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1342.86,
+      "end": 1343.64,
+      "text": "[SPEAKER_02]: Ideally they've heard about it."
+    },
+    {
+      "start": 1343.72,
+      "end": 1344.3,
+      "text": "[SPEAKER_02]: They know about it."
+    },
+    {
+      "start": 1344.46,
+      "end": 1344.78,
+      "text": "[SPEAKER_02]: Exactly."
+    },
+    {
+      "start": 1344.96,
+      "end": 1346.6,
+      "text": "[SPEAKER_02]: So that's really how we're thinking about it."
+    },
+    {
+      "start": 1346.76,
+      "end": 1349.68,
+      "text": "[SPEAKER_02]: Just forecasting how low to the ground can we run with M."
+    },
+    {
+      "start": 1349.72,
+      "end": 1349.78,
+      "text": "[SPEAKER_02]: E."
+    },
+    {
+      "start": 1349.88,
+      "end": 1349.92,
+      "text": "[SPEAKER_02]: R."
+    },
+    {
+      "start": 1349.92,
+      "end": 1350.96,
+      "text": "[SPEAKER_02]: Like how much can we spend?"
+    },
+    {
+      "start": 1351.64,
+      "end": 1354.14,
+      "text": "[SPEAKER_02]: Are we peaking TV spend in probably October?"
+    },
+    {
+      "start": 1354.76,
+      "end": 1356.44,
+      "text": "[SPEAKER_02]: You know, are we using some of these other offerings?"
+    },
+    {
+      "start": 1356.52,
+      "end": 1358.4,
+      "text": "[SPEAKER_02]: We have another kit in October."
+    },
+    {
+      "start": 1358.62,
+      "end": 1359.98,
+      "text": "[SPEAKER_02]: That's really like what kicks off our season."
+    },
+    {
+      "start": 1360.1,
+      "end": 1362.36,
+      "text": "[SPEAKER_02]: We've got like our anniversary kit in October."
+    },
+    {
+      "start": 1362.98,
+      "end": 1365.7,
+      "text": "[SPEAKER_02]: And then we go straight into holiday kits a few weeks after that."
+    },
+    {
+      "start": 1365.82,
+      "end": 1367.16,
+      "text": "[SPEAKER_02]: And then that'll take us through."
+    },
+    {
+      "start": 1367.32,
+      "end": 1369.5,
+      "text": "[SPEAKER_02]: So all of the spend that we're acquiring customers on"
+    },
+    {
+      "start": 1369.5,
+      "end": 1370.78,
+      "text": "[SPEAKER_02]: and just getting in the market during then,"
+    },
+    {
+      "start": 1370.9,
+      "end": 1373.16,
+      "text": "[SPEAKER_02]: we think we're really capturing a lot of the value during"
+    },
+    {
+      "start": 1373.16,
+      "end": 1373.94,
+      "text": "[SPEAKER_02]: Black Friday."
+    },
+    {
+      "start": 1374.54,
+      "end": 1376.78,
+      "text": "[SPEAKER_02]: So for us, it's just the whole season and quarter."
+    },
+    {
+      "start": 1376.78,
+      "end": 1381.4,
+      "text": "[SPEAKER_01]: Are you going to be mad if you don't make a million dollars a day during Black Friday?"
+    },
+    {
+      "start": 1382.7,
+      "end": 1382.94,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1383.58,
+      "end": 1384.54,
+      "text": "[SPEAKER_02]: I mean, yeah, we did."
+    },
+    {
+      "start": 1384.86,
+      "end": 1387.32,
+      "text": "[SPEAKER_02]: We did 6 million last Black Friday on the day out."
+    },
+    {
+      "start": 1387.5,
+      "end": 1389.4,
+      "text": "[SPEAKER_02]: So I would be best if we didn't do it."
+    },
+    {
+      "start": 1389.66,
+      "end": 1390.96,
+      "text": "[SPEAKER_02]: Oh yeah, you'll probably do 2 million dollars a day."
+    },
+    {
+      "start": 1391.04,
+      "end": 1391.2,
+      "text": "[SPEAKER_02]: Hopefully."
+    },
+    {
+      "start": 1391.7,
+      "end": 1393.94,
+      "text": "[SPEAKER_02]: We'll say, but yeah, we want to go through as many as we can."
+    },
+    {
+      "start": 1394.14,
+      "end": 1394.32,
+      "text": "[SPEAKER_00]: Yeah."
+    },
+    {
+      "start": 1394.7,
+      "end": 1398.86,
+      "text": "[SPEAKER_02]: If we don't, we're also launching actually European shipping on September 5th."
+    },
+    {
+      "start": 1398.98,
+      "end": 1400.12,
+      "text": "[SPEAKER_02]: So right now we're in the UK."
+    },
+    {
+      "start": 1400.32,
+      "end": 1401.4,
+      "text": "[SPEAKER_02]: Yeah, we've got a warehouse there."
+    },
+    {
+      "start": 1401.74,
+      "end": 1405.42,
+      "text": "[SPEAKER_01]: Do you have an audience that's already there and on a wait list ready to go?"
+    },
+    {
+      "start": 1405.42,
+      "end": 1408.02,
+      "text": "[SPEAKER_02]: No wait list, but definitely some decent traffic, some decent demand."
+    },
+    {
+      "start": 1408.36,
+      "end": 1409.92,
+      "text": "[SPEAKER_02]: And we'll just flip on meta ads."
+    },
+    {
+      "start": 1410.06,
+      "end": 1413.9,
+      "text": "[SPEAKER_02]: And these people are going to your main.com or you create a separate site for Europe?"
+    },
+    {
+      "start": 1414.08,
+      "end": 1415.72,
+      "text": "[SPEAKER_02]: Separate Shopify makes it so easy now."
+    },
+    {
+      "start": 1416.28,
+      "end": 1417.16,
+      "text": "[SPEAKER_02]: They make it really easy."
+    },
+    {
+      "start": 1417.32,
+      "end": 1420.64,
+      "text": "[SPEAKER_02]: We're working with Global E to be able to do all the merchant of record."
+    },
+    {
+      "start": 1420.8,
+      "end": 1422.2,
+      "text": "[SPEAKER_02]: They do some of the site stuff as well."
+    },
+    {
+      "start": 1422.74,
+      "end": 1426.36,
+      "text": "[SPEAKER_02]: We've got a 3PL there where you can ship up in the Netherlands there."
+    },
+    {
+      "start": 1426.44,
+      "end": 1427.1,
+      "text": "[SPEAKER_02]: So we're partnering with them."
+    },
+    {
+      "start": 1427.4,
+      "end": 1428.54,
+      "text": "[SPEAKER_02]: We wanted to be able to ship from there."
+    },
+    {
+      "start": 1428.72,
+      "end": 1430.74,
+      "text": "[SPEAKER_02]: I think it's a terrible experience shipping from here."
+    },
+    {
+      "start": 1431.76,
+      "end": 1433.96,
+      "text": "[SPEAKER_02]: But hopefully that'll be some additional growth as well."
+    },
+    {
+      "start": 1433.96,
+      "end": 1435.74,
+      "text": "[SPEAKER_02]: So there's just a lot of things that."
+    },
+    {
+      "start": 1435.96,
+      "end": 1439.46,
+      "text": "[SPEAKER_02]: Did you get a consultant in Europe to help you understand the culture of Europe?"
+    },
+    {
+      "start": 1439.62,
+      "end": 1440.74,
+      "text": "[SPEAKER_01]: Too cheap for that, you know that."
+    },
+    {
+      "start": 1441.3,
+      "end": 1442.1,
+      "text": "[SPEAKER_01]: Now what we'll do with."
+    },
+    {
+      "start": 1442.12,
+      "end": 1443.26,
+      "text": "[SPEAKER_01]: You went to chat GPT and YouTube."
+    },
+    {
+      "start": 1443.5,
+      "end": 1444.02,
+      "text": "[SPEAKER_01]: Pretty much."
+    },
+    {
+      "start": 1444.48,
+      "end": 1447.86,
+      "text": "[SPEAKER_02]: Now what we'll do, we'll, you know, we looked at like Google analytics,"
+    },
+    {
+      "start": 1448.02,
+      "end": 1450.76,
+      "text": "[SPEAKER_02]: where is our current traffic from Global E does partner with you on this."
+    },
+    {
+      "start": 1450.76,
+      "end": 1451.74,
+      "text": "[SPEAKER_02]: There's some data sources."
+    },
+    {
+      "start": 1452.78,
+      "end": 1454.68,
+      "text": "[SPEAKER_02]: We'll just use it like this period."
+    },
+    {
+      "start": 1454.8,
+      "end": 1456.34,
+      "text": "[SPEAKER_02]: So September through the rest of years like a test."
+    },
+    {
+      "start": 1456.54,
+      "end": 1457.92,
+      "text": "[SPEAKER_02]: We're not translating anything."
+    },
+    {
+      "start": 1458.08,
+      "end": 1459.5,
+      "text": "[SPEAKER_02]: I think it's kind of mixed of people translator."
+    },
+    {
+      "start": 1459.68,
+      "end": 1460.76,
+      "text": "[SPEAKER_02]: We've got like local pricing."
+    },
+    {
+      "start": 1461.12,
+      "end": 1461.34,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1461.34,
+      "end": 1463.88,
+      "text": "[SPEAKER_02]: You know, like we've got Clarna there instead of after pay in Germany."
+    },
+    {
+      "start": 1464.1,
+      "end": 1465.66,
+      "text": "[SPEAKER_02]: But we'll just see what markets do well."
+    },
+    {
+      "start": 1466.1,
+      "end": 1469.14,
+      "text": "[SPEAKER_02]: Maybe France does pretty well and we think, hey, it's worth it to translate."
+    },
+    {
+      "start": 1469.38,
+      "end": 1471.3,
+      "text": "[SPEAKER_02]: Let's figure out how to get our ads in French."
+    },
+    {
+      "start": 1471.86,
+      "end": 1472.62,
+      "text": "[SPEAKER_02]: Let's get our site in French."
+    },
+    {
+      "start": 1472.78,
+      "end": 1473.22,
+      "text": "[SPEAKER_02]: Let's get our emails."
+    },
+    {
+      "start": 1473.74,
+      "end": 1473.8,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1473.8,
+      "end": 1477.02,
+      "text": "[SPEAKER_02]: But for now, I just don't necessarily know if that's worthwhile to invest in it."
+    },
+    {
+      "start": 1477.1,
+      "end": 1477.28,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1477.42,
+      "end": 1480.78,
+      "text": "[SPEAKER_02]: But in the future, we will maybe, you know, we open up some stores there eventually."
+    },
+    {
+      "start": 1481.06,
+      "end": 1483.12,
+      "text": "[SPEAKER_02]: But for now, that's a strategy."
+    },
+    {
+      "start": 1483.32,
+      "end": 1486.74,
+      "text": "[SPEAKER_02]: Yeah, we'll probably do like, you know, September or October on."
+    },
+    {
+      "start": 1487,
+      "end": 1490.7,
+      "text": "[SPEAKER_02]: It's probably, you know, 40% of our revenue for the year will come in those three months."
+    },
+    {
+      "start": 1490.7,
+      "end": 1491.28,
+      "text": "[SPEAKER_02]: Wow."
+    },
+    {
+      "start": 1491.46,
+      "end": 1492.5,
+      "text": "[SPEAKER_02]: So it's a big period."
+    },
+    {
+      "start": 1492.66,
+      "end": 1493.82,
+      "text": "[SPEAKER_01]: Yeah, big period for sure."
+    },
+    {
+      "start": 1494.02,
+      "end": 1498.42,
+      "text": "[SPEAKER_01]: Anything else you're doing on the site or doing differently to prepare this year?"
+    },
+    {
+      "start": 1499.12,
+      "end": 1500.46,
+      "text": "[SPEAKER_02]: A lot of testing ahead of time."
+    },
+    {
+      "start": 1500.52,
+      "end": 1502.2,
+      "text": "[SPEAKER_02]: We're really just trying to test as much as we can."
+    },
+    {
+      "start": 1502.36,
+      "end": 1506.92,
+      "text": "[SPEAKER_02]: Everything from, you know, checkout shipping options, you know, upsells,"
+    },
+    {
+      "start": 1506.92,
+      "end": 1508.44,
+      "text": "[SPEAKER_02]: using after self or a lot of that stuff."
+    },
+    {
+      "start": 1508.58,
+      "end": 1510.88,
+      "text": "[SPEAKER_02]: Just really trying to get everything as dialed in as we can."
+    },
+    {
+      "start": 1511,
+      "end": 1511.84,
+      "text": "[SPEAKER_02]: A lot of PDP changes."
+    },
+    {
+      "start": 1512.1,
+      "end": 1512.36,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1512.58,
+      "end": 1514.26,
+      "text": "[SPEAKER_02]: Because we don't want to be testing it then."
+    },
+    {
+      "start": 1514.36,
+      "end": 1518.38,
+      "text": "[SPEAKER_02]: So really, that's really the biggest difference is I think being more confident in filling"
+    },
+    {
+      "start": 1518.38,
+      "end": 1521.78,
+      "text": "[SPEAKER_02]: the funnel like we saw, it's like you get a little bit worried during it."
+    },
+    {
+      "start": 1521.84,
+      "end": 1523.84,
+      "text": "[SPEAKER_02]: And then after you're like, damn, like that did really well."
+    },
+    {
+      "start": 1523.94,
+      "end": 1524.66,
+      "text": "[SPEAKER_02]: I wish I spent more."
+    },
+    {
+      "start": 1524.92,
+      "end": 1525.14,
+      "text": "[SPEAKER_02]: Right?"
+    },
+    {
+      "start": 1525.2,
+      "end": 1529.12,
+      "text": "[SPEAKER_02]: Like we ran some ads for like email sign up like the week of for minis are coming."
+    },
+    {
+      "start": 1529.32,
+      "end": 1532,
+      "text": "[SPEAKER_02]: And, you know, spent a few thousand and you just don't know if it's doing anything."
+    },
+    {
+      "start": 1532.14,
+      "end": 1532.4,
+      "text": "[SPEAKER_02]: Right."
+    },
+    {
+      "start": 1532.5,
+      "end": 1534.3,
+      "text": "[SPEAKER_02]: And then after you're like, I wish I spent way more."
+    },
+    {
+      "start": 1534.54,
+      "end": 1537.72,
+      "text": "[SPEAKER_02]: So I think having the confidence to do that, but trying to just get everything"
+    },
+    {
+      "start": 1537.72,
+      "end": 1538.82,
+      "text": "[SPEAKER_02]: dialed as we can."
+    },
+    {
+      "start": 1539.06,
+      "end": 1540.1,
+      "text": "[SPEAKER_02]: We're doing direct mail."
+    },
+    {
+      "start": 1540.36,
+      "end": 1541.84,
+      "text": "[SPEAKER_02]: We actually just finished the creative today."
+    },
+    {
+      "start": 1541.94,
+      "end": 1545.48,
+      "text": "[SPEAKER_02]: We're going to do like 80 K send of like a mini catalog for direct mail."
+    },
+    {
+      "start": 1545.66,
+      "end": 1545.86,
+      "text": "[SPEAKER_02]: Nice."
+    },
+    {
+      "start": 1545.94,
+      "end": 1547.44,
+      "text": "[SPEAKER_02]: Just a bunch of Jones Road products."
+    },
+    {
+      "start": 1547.44,
+      "end": 1547.82,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1547.9,
+      "end": 1548.76,
+      "text": "[SPEAKER_02]: Our holiday collection."
+    },
+    {
+      "start": 1548.96,
+      "end": 1549.16,
+      "text": "[SPEAKER_02]: Nice."
+    },
+    {
+      "start": 1549.46,
+      "end": 1550.02,
+      "text": "[SPEAKER_02]: That'll go out then."
+    },
+    {
+      "start": 1550.92,
+      "end": 1552.16,
+      "text": "[SPEAKER_02]: I'm pretty bullish on it."
+    },
+    {
+      "start": 1552.3,
+      "end": 1553.88,
+      "text": "[SPEAKER_02]: So yeah, that'll be a big like test."
+    },
+    {
+      "start": 1554.02,
+      "end": 1556.28,
+      "text": "[SPEAKER_02]: So it's really just trying to be like, what did we do before?"
+    },
+    {
+      "start": 1556.58,
+      "end": 1558.28,
+      "text": "[SPEAKER_02]: You know, how are we supporting it with more inventory?"
+    },
+    {
+      "start": 1558.62,
+      "end": 1560.44,
+      "text": "[SPEAKER_02]: How are we filling the funnel before it?"
+    },
+    {
+      "start": 1560.46,
+      "end": 1563.1,
+      "text": "[SPEAKER_02]: But also like, what are things that didn't go so well or we think we can just do"
+    },
+    {
+      "start": 1563.1,
+      "end": 1564.08,
+      "text": "[SPEAKER_02]: better of them last time?"
+    },
+    {
+      "start": 1564.22,
+      "end": 1564.52,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1564.74,
+      "end": 1566.28,
+      "text": "[SPEAKER_01]: You recently started working with AfterSale."
+    },
+    {
+      "start": 1566.44,
+      "end": 1569.14,
+      "text": "[SPEAKER_01]: What are your thoughts on the product and network offers?"
+    },
+    {
+      "start": 1569.9,
+      "end": 1570.54,
+      "text": "[SPEAKER_02]: I would say not really."
+    },
+    {
+      "start": 1570.62,
+      "end": 1571.7,
+      "text": "[SPEAKER_02]: I think it's probably been like a year."
+    },
+    {
+      "start": 1571.9,
+      "end": 1572.8,
+      "text": "[SPEAKER_02]: I love AfterSale."
+    },
+    {
+      "start": 1573.66,
+      "end": 1574.66,
+      "text": "[SPEAKER_02]: I love post purchase."
+    },
+    {
+      "start": 1574.66,
+      "end": 1578.16,
+      "text": "[SPEAKER_02]: I think just anywhere where you're able to just create some extra revenue."
+    },
+    {
+      "start": 1578.52,
+      "end": 1580.82,
+      "text": "[SPEAKER_02]: So like all of these are kind of like table stakes."
+    },
+    {
+      "start": 1580.94,
+      "end": 1582.32,
+      "text": "[SPEAKER_02]: Like you've got to have PDP upsells."
+    },
+    {
+      "start": 1582.4,
+      "end": 1583.88,
+      "text": "[SPEAKER_02]: You got to have in-card upsells."
+    },
+    {
+      "start": 1583.94,
+      "end": 1585.52,
+      "text": "[SPEAKER_02]: You got to have checkout upsells."
+    },
+    {
+      "start": 1585.52,
+      "end": 1588.78,
+      "text": "[SPEAKER_02]: I love like the changes that you can make with checkout extensibility and how"
+    },
+    {
+      "start": 1588.78,
+      "end": 1590.52,
+      "text": "[SPEAKER_02]: easy it is to test some of these things after sale."
+    },
+    {
+      "start": 1590.98,
+      "end": 1593.56,
+      "text": "[SPEAKER_02]: Love their post purchase upsells, especially because, you know,"
+    },
+    {
+      "start": 1593.6,
+      "end": 1596.76,
+      "text": "[SPEAKER_02]: some of the other options, like they charge a ridiculous amount and it"
+    },
+    {
+      "start": 1596.76,
+      "end": 1598.66,
+      "text": "[SPEAKER_02]: just adds up and it's capped."
+    },
+    {
+      "start": 1598.76,
+      "end": 1600.22,
+      "text": "[SPEAKER_02]: It's flat, but that's just like free money."
+    },
+    {
+      "start": 1600.38,
+      "end": 1601.94,
+      "text": "[SPEAKER_02]: And then same thing with the network offers."
+    },
+    {
+      "start": 1602.42,
+      "end": 1603.16,
+      "text": "[SPEAKER_02]: That's really cool."
+    },
+    {
+      "start": 1603.16,
+      "end": 1605.12,
+      "text": "[SPEAKER_02]: You weren't skeptical about network offers."
+    },
+    {
+      "start": 1605.26,
+      "end": 1605.86,
+      "text": "[SPEAKER_01]: Oh, for sure I was."
+    },
+    {
+      "start": 1605.86,
+      "end": 1607.44,
+      "text": "[SPEAKER_01]: I feel like Jones Road is..."
+    },
+    {
+      "start": 1607.44,
+      "end": 1607.88,
+      "text": "[SPEAKER_01]: Oh, I was."
+    },
+    {
+      "start": 1607.96,
+      "end": 1610.66,
+      "text": "[SPEAKER_01]: Like even when you were testing, there was a landing page software you were"
+    },
+    {
+      "start": 1610.66,
+      "end": 1610.92,
+      "text": "[SPEAKER_01]: testing."
+    },
+    {
+      "start": 1611.06,
+      "end": 1612.44,
+      "text": "[SPEAKER_01]: I was like, Cody, these are so off-brand."
+    },
+    {
+      "start": 1612.62,
+      "end": 1612.7,
+      "text": "[SPEAKER_01]: Yeah."
+    },
+    {
+      "start": 1613.24,
+      "end": 1617.32,
+      "text": "[SPEAKER_01]: You guys are so on-brand and like so strict about the brand too."
+    },
+    {
+      "start": 1617.98,
+      "end": 1618.2,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1618.44,
+      "end": 1619.48,
+      "text": "[SPEAKER_02]: We'll test stuff."
+    },
+    {
+      "start": 1619.58,
+      "end": 1623.48,
+      "text": "[SPEAKER_02]: I think some of it is subjective, but we'll definitely test stuff and see"
+    },
+    {
+      "start": 1623.48,
+      "end": 1623.84,
+      "text": "[SPEAKER_02]: how it does."
+    },
+    {
+      "start": 1624.24,
+      "end": 1627.2,
+      "text": "[SPEAKER_02]: If something is not performing and not giving extra money,"
+    },
+    {
+      "start": 1627.2,
+      "end": 1629.92,
+      "text": "[SPEAKER_02]: extra profit, we're not going to risk it if we think so."
+    },
+    {
+      "start": 1629.92,
+      "end": 1632.6,
+      "text": "[SPEAKER_02]: So like we're not using that landing page provider anymore,"
+    },
+    {
+      "start": 1632.74,
+      "end": 1635.48,
+      "text": "[SPEAKER_02]: but you know, some of the network offers, what we did is we created a"
+    },
+    {
+      "start": 1635.48,
+      "end": 1638.08,
+      "text": "[SPEAKER_02]: test and we're just checking repeat purchase rates of people that see"
+    },
+    {
+      "start": 1638.08,
+      "end": 1638.9,
+      "text": "[SPEAKER_02]: those versus not."
+    },
+    {
+      "start": 1639.14,
+      "end": 1640.2,
+      "text": "[SPEAKER_02]: No change at all."
+    },
+    {
+      "start": 1640.34,
+      "end": 1642.74,
+      "text": "[SPEAKER_02]: Like there's just no negative effect that we've seen."
+    },
+    {
+      "start": 1643.3,
+      "end": 1645.5,
+      "text": "[SPEAKER_02]: And it's legit brands that are being offered."
+    },
+    {
+      "start": 1645.84,
+      "end": 1646.04,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1646.08,
+      "end": 1649.06,
+      "text": "[SPEAKER_02]: It's like a Nike and like a Hulu and Netflix and stuff like that."
+    },
+    {
+      "start": 1649.12,
+      "end": 1651.34,
+      "text": "[SPEAKER_02]: So if anything, you can make it the argument it helps."
+    },
+    {
+      "start": 1651.56,
+      "end": 1652.96,
+      "text": "[SPEAKER_02]: We've seen no negative feedback."
+    },
+    {
+      "start": 1653.24,
+      "end": 1654.58,
+      "text": "[SPEAKER_02]: Even post-purchase offers."
+    },
+    {
+      "start": 1654.76,
+      "end": 1657.38,
+      "text": "[SPEAKER_02]: I definitely had some concerns before it because it's like you"
+    },
+    {
+      "start": 1657.38,
+      "end": 1658.48,
+      "text": "[SPEAKER_02]: wouldn't necessarily do it."
+    },
+    {
+      "start": 1658.48,
+      "end": 1659.5,
+      "text": "[SPEAKER_02]: We're not scamming about it."
+    },
+    {
+      "start": 1659.5,
+      "end": 1660.84,
+      "text": "[SPEAKER_02]: We're not like, hey, you have to buy right now."
+    },
+    {
+      "start": 1660.86,
+      "end": 1662.46,
+      "text": "[SPEAKER_02]: It's like, Hey, add this to your order."
+    },
+    {
+      "start": 1663.1,
+      "end": 1663.96,
+      "text": "[SPEAKER_02]: No, yeah, we got no timer."
+    },
+    {
+      "start": 1664.06,
+      "end": 1665.56,
+      "text": "[SPEAKER_02]: And family is going to die when this hits zero."
+    },
+    {
+      "start": 1665.74,
+      "end": 1666.06,
+      "text": "[SPEAKER_02]: Exactly."
+    },
+    {
+      "start": 1667.12,
+      "end": 1668.92,
+      "text": "[SPEAKER_02]: With AI, you could probably put like a picture next to family."
+    },
+    {
+      "start": 1669.14,
+      "end": 1669.3,
+      "text": "[SPEAKER_02]: Yeah."
+    },
+    {
+      "start": 1669.66,
+      "end": 1669.86,
+      "text": "[SPEAKER_02]: No."
+    },
+    {
+      "start": 1669.94,
+      "end": 1672.62,
+      "text": "[SPEAKER_02]: So we get none of that really been no negative thing."
+    },
+    {
+      "start": 1672.72,
+      "end": 1674.42,
+      "text": "[SPEAKER_02]: Like occasionally, especially because we have an older demo."
+    },
+    {
+      "start": 1674.68,
+      "end": 1677.64,
+      "text": "[SPEAKER_02]: Some people have clicked on add to cart by accident and adds"
+    },
+    {
+      "start": 1677.64,
+      "end": 1678.86,
+      "text": "[SPEAKER_02]: it and CX deals with it."
+    },
+    {
+      "start": 1679.08,
+      "end": 1682.4,
+      "text": "[SPEAKER_02]: But tiny percentage compared to like the incremental revenue"
+    },
+    {
+      "start": 1682.4,
+      "end": 1682.8,
+      "text": "[SPEAKER_02]: it provides."
+    },
+    {
+      "start": 1683.2,
+      "end": 1684.78,
+      "text": "[SPEAKER_02]: So yeah, big fan of both of them."
+    },
+    {
+      "start": 1685,
+      "end": 1685.38,
+      "text": "[SPEAKER_02]: That's awesome."
+    },
+    {
+      "start": 1685.38,
+      "end": 1685.82,
+      "text": "[SPEAKER_01]: Okay."
+    },
+    {
+      "start": 1686.16,
+      "end": 1689.56,
+      "text": "[SPEAKER_01]: Going into, I mean basically the end any last things you want to"
+    },
+    {
+      "start": 1689.56,
+      "end": 1691.96,
+      "text": "[SPEAKER_01]: share any tidbits, any golden nuggets you think people got to"
+    },
+    {
+      "start": 1691.96,
+      "end": 1694.7,
+      "text": "[SPEAKER_01]: hear before they locked themselves in their room for Q4?"
+    },
+    {
+      "start": 1695.1,
+      "end": 1696.82,
+      "text": "[SPEAKER_02]: Yeah, I would say get your plan."
+    },
+    {
+      "start": 1696.98,
+      "end": 1698.12,
+      "text": "[SPEAKER_02]: Like that's the most important thing."
+    },
+    {
+      "start": 1698.4,
+      "end": 1700.86,
+      "text": "[SPEAKER_02]: You know, get your forecast dialed in make sure your"
+    },
+    {
+      "start": 1700.86,
+      "end": 1703.22,
+      "text": "[SPEAKER_02]: inventory levels if you're doing anything exclusive."
+    },
+    {
+      "start": 1703.84,
+      "end": 1705.4,
+      "text": "[SPEAKER_02]: Make sure you know what you have and then just think"
+    },
+    {
+      "start": 1705.4,
+      "end": 1706.9,
+      "text": "[SPEAKER_02]: about how you're filling your funnel."
+    },
+    {
+      "start": 1707,
+      "end": 1708.52,
+      "text": "[SPEAKER_02]: How are you reaching new people?"
+    },
+    {
+      "start": 1708.72,
+      "end": 1710.58,
+      "text": "[SPEAKER_02]: How are you, you know, what's your channel mix?"
+    },
+    {
+      "start": 1710.78,
+      "end": 1711.78,
+      "text": "[SPEAKER_02]: Where are you reaching people?"
+    },
+    {
+      "start": 1712.26,
+      "end": 1713.8,
+      "text": "[SPEAKER_02]: And then what's your communication strategy?"
+    },
+    {
+      "start": 1713.8,
+      "end": 1715.74,
+      "text": "[SPEAKER_02]: But most important is what's your offer?"
+    },
+    {
+      "start": 1715.98,
+      "end": 1717.34,
+      "text": "[SPEAKER_02]: You know, are you going discount?"
+    },
+    {
+      "start": 1717.86,
+      "end": 1720.26,
+      "text": "[SPEAKER_02]: People are definitely looking for pretty big discounts this"
+    },
+    {
+      "start": 1720.26,
+      "end": 1720.74,
+      "text": "[SPEAKER_02]: time period."
+    },
+    {
+      "start": 1720.94,
+      "end": 1723.32,
+      "text": "[SPEAKER_02]: You know that this year are you doing something exclusive?"
+    },
+    {
+      "start": 1723.5,
+      "end": 1724.18,
+      "text": "[SPEAKER_02]: Keep it simple."
+    },
+    {
+      "start": 1724.7,
+      "end": 1725.5,
+      "text": "[SPEAKER_02]: Probably extended."
+    },
+    {
+      "start": 1725.64,
+      "end": 1727.68,
+      "text": "[SPEAKER_02]: It's probably no longer, you know, a four day Black Friday"
+    },
+    {
+      "start": 1727.68,
+      "end": 1727.98,
+      "text": "[SPEAKER_02]: thing."
+    },
+    {
+      "start": 1728.2,
+      "end": 1729.2,
+      "text": "[SPEAKER_02]: So it's probably a season."
+    },
+    {
+      "start": 1729.42,
+      "end": 1731.38,
+      "text": "[SPEAKER_02]: I think you should probably have some multiple offers that"
+    },
+    {
+      "start": 1731.38,
+      "end": 1734.3,
+      "text": "[SPEAKER_02]: different times, but just dial that in and then obviously"
+    },
+    {
+      "start": 1734.3,
+      "end": 1737.4,
+      "text": "[SPEAKER_02]: get your plan, execute it as well as you can."
+    },
+    {
+      "start": 1737.5,
+      "end": 1739.66,
+      "text": "[SPEAKER_02]: And then hopefully, you know, a year from now you can"
+    },
+    {
+      "start": 1739.66,
+      "end": 1742.14,
+      "text": "[SPEAKER_02]: just be thinking about what did we do well?"
+    },
+    {
+      "start": 1742.3,
+      "end": 1743.1,
+      "text": "[SPEAKER_02]: What didn't go so well?"
+    },
+    {
+      "start": 1743.1,
+      "end": 1744.16,
+      "text": "[SPEAKER_02]: And how can we improve upon it?"
+    },
+    {
+      "start": 1745.58,
+      "end": 1745.88,
+      "text": "[SPEAKER_01]: Awesome."
+    },
+    {
+      "start": 1746.12,
+      "end": 1746.5,
+      "text": "[SPEAKER_01]: All right, Cody."
+    },
+    {
+      "start": 1746.74,
+      "end": 1748.86,
+      "text": "[SPEAKER_01]: Well, hopefully everybody who listens to this jumps over"
+    },
+    {
+      "start": 1748.86,
+      "end": 1752.56,
+      "text": "[SPEAKER_01]: and listens to your podcast after this listening and"
+    },
+    {
+      "start": 1753.02,
+      "end": 1754.1,
+      "text": "[SPEAKER_01]: hopefully some people hit you up."
+    },
+    {
+      "start": 1754.24,
+      "end": 1754.5,
+      "text": "[SPEAKER_01]: Awesome."
+    },
+    {
+      "start": 1754.62,
+      "end": 1754.82,
+      "text": "[SPEAKER_01]: Awesome."
+    },
+    {
+      "start": 1754.96,
+      "end": 1755.56,
+      "text": "[SPEAKER_01]: Thanks for having me, man."
+    },
+    {
+      "start": 1755.98,
+      "end": 1756.68,
+      "text": "[SPEAKER_01]: Thanks for listening."
+    },
+    {
+      "start": 1756.98,
+      "end": 1758.8,
+      "text": "[SPEAKER_01]: We'll be back next time to cut through the noise on"
+    },
+    {
+      "start": 1758.8,
+      "end": 1760.42,
+      "text": "[SPEAKER_01]: CPG retail and e-commerce."
+    },
+    {
+      "start": 1760.96,
+      "end": 1763.12,
+      "text": "[SPEAKER_01]: If you enjoyed this episode, why not share it with"
+    },
+    {
+      "start": 1763.12,
+      "end": 1765.62,
+      "text": "[SPEAKER_01]: a friend and be sure to subscribe wherever you listen"
+    },
+    {
+      "start": 1765.62,
+      "end": 1766.64,
+      "text": "[SPEAKER_01]: so you don't miss the next one."
+    }
+  ]
+}

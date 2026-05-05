@@ -1,0 +1,289 @@
+{
+  "cues": [
+    {
+      "start": 1.08,
+      "end": 23.74,
+      "text": "Welcome to Season 11 of Limited Supply, a place for hot takes on what it's really like building and scaling consumer brands. I'm your host, Nik Sharma. Let's get into today's episode. As a brand, you know that you're spending hard-earned dollars driving traffic to your site. The problem is 98% of that traffic is anonymous. You don't know who they are, and once they leave, it's hard to find them again."
+    },
+    {
+      "start": 23.74,
+      "end": 53.26,
+      "text": "There's a new tool that helps you identify these visitors and get in front of them. It's called Instant. Instant gives you another chance to convert these shoppers into buyers using their retention marketing platform. You can use their platform to send two to three times more site abandonment emails, which you know generate meaningful revenue, and build audiences to retarget on meta. Double your abandoned flow revenue and increase your ROAS with Instant. Go to instant.one slash limited to learn more. That's instant.one slash limited. Now back to the show."
+    },
+    {
+      "start": 57.19,
+      "end": 84.91,
+      "text": "Welcome back to Limited Supply. Today's episode is a continuation of last week's episode, which was all about, it was actually derived from a newsletter I wrote. So it was an eight-page newsletter all about how I would focus on scaling a brand. And today's podcast episode is the bottom of funnel portion. So last week we talked top of funnel and kind of went through that in greater detail. Today's is bottom of funnel. Before we get into today's episode, I just want to make a announcement."
+    },
+    {
+      "start": 84.91,
+      "end": 113.25,
+      "text": "If you are not already in the Limited Supply Slack community, go ahead to limitedsupplypod.com and sign up for the Slack community. We've got about 5,000 plus people in there that are talking every day. Everything's divided into different categories, whether you're interested in Amazon or retail, or you're a brand of a million dollars a year versus $10 million a year versus $100 million a year. Everybody has their own groups as well. So fill it out. It's super actionable. A lot of people find value in it."
+    },
+    {
+      "start": 113.25,
+      "end": 139.61,
+      "text": "There's also a lot of local meetups that happen. I know there's one about to happen in LA. We've done them in India. We've done them in London. We've done them in New York. We've done them in Austin. So if you are in a city where there's probably other Limited Supply listeners, which there likely are, jump into that and find the local meetup that's happening soon. Okay. So for today's episode, like I said, we're going to go into bottom of funnel and then I believe we should have some time to go and talk into the commerce experience."
+    },
+    {
+      "start": 139.61,
+      "end": 166.33,
+      "text": "So I'm going to start with the first one, which is proper digital ad execution. I'll tell you what really grinds my gears when I look at ad accounts or audit an ad account when they come to Sharma brands is just bad account structure, outdated customer and exclusion lists, lazy naming conventions, no testing methodology for creative or for audiences, no innovation or tests of alpha features, beta features."
+    },
+    {
+      "start": 167.17,
+      "end": 190.95,
+      "text": "You know, whether they come from meta or Google or TikTok. And then the worst one I see, which is the worst because it's the easiest to mitigate and do is not leveraging post IDs across campaigns. Whether you're spending $70,000, $700,000 or $7 million a month, you need to have a very tightly run ad account and poor ad account structure leads to poor results."
+    },
+    {
+      "start": 191.17,
+      "end": 215.85,
+      "text": "It likely means that you have poor ingestion of data on the algorithm side of what's actually being done to serve those ads. Overall, you know, it's just messy. It leads to bad tracking and bad analytics. And, you know, you just have to get the ad account structure right. That's like the hardest part or sorry, the easiest part after that is the hard part, which is the next thing on here, which is rapid creative testing."
+    },
+    {
+      "start": 215.85,
+      "end": 238.15,
+      "text": "This goes hand in hand with good media buying. If you have bad media buying, you can do good creative testing. If you have bad media buying and good creative, I mean, you can probably, it'll probably still work. I've seen that work, but you don't set yourself up for the best possible swing there. With rapid creative testing, you know, usually less than 25% of any creative you'll put into the account ever sees any sort of scale."
+    },
+    {
+      "start": 238.59,
+      "end": 262.27,
+      "text": "Most ad accounts that I'll open up have anywhere from one to three or four ads that run the majority of the spend in an ad account. And so what you really need to do is just focus on putting out more ad creative and testing what can work. It's all a numbers game in terms of figuring out which ones are going to find scale. Once you find something that works, you know, let's say you find a static ad that works well."
+    },
+    {
+      "start": 262.49,
+      "end": 287.81,
+      "text": "You take that static ad, you keep the image and you change the text, make it, you know, 25 different things that you can test. Do the same thing in the reverse. Keep the text, try different imagery or different graphics or different layouts. Same thing with the video. If you find a video that works, keep the hook, try a bunch of other stuff behind it and vice versa. Keep the hook, try different products. You can do much more with video than you can with just statics."
+    },
+    {
+      "start": 288.29,
+      "end": 313.23,
+      "text": "This leads into one more rapid testing, which is testing audiences, messaging and offers, the AMO tests. So, you know, testing new audiences is one thing that a lot of people don't do. They tend to just go broad or they just go with lookalikes or they just go with interests. It's worth constantly testing all three of those. And of course, on the interest side, different versions of interests."
+    },
+    {
+      "start": 313.45,
+      "end": 338.19,
+      "text": "On the lookalike side, either from your own first party data, cutting that up in different ways, buying second party data, which is basically first party data you buy and creating lookalikes with that. But all of that is necessary on the messaging side, finding new angles, you know, new angles, open TAMs. If you're selling a creatine supplement, you're going to speak differently to a woman in Manhattan than you would to a gym bro in Wyoming, right?"
+    },
+    {
+      "start": 338.19,
+      "end": 368.13,
+      "text": "But if you can master being able to message differently, you're basically opening and widening your TAM. And then the last one is offer testing. So, yes, you can just drive people to your website, your homepage, your product page. But, you know, as we've talked about many times here before with the offers, what you want to do is try to figure out what is a offer or a some sort of a catch all, you know, order merchandised in a way that it fits a net new customer to have the best experience."
+    },
+    {
+      "start": 368.13,
+      "end": 397.75,
+      "text": "So maybe it's got all the flavors of your product or if you've got 25 flavors, it's got the top three flavors of your product and it's got enough product for the whole household to sample it. So audience, messaging, offer and creative testing. That is something that most people just don't do. And I'm not really sure why. It's obviously very easy to do. It's not like you have to do physical labor. You sit in your underwear at home and you just add new audiences or make new versions of a creative and Figma."
+    },
+    {
+      "start": 397.75,
+      "end": 424.79,
+      "text": "But I don't know why more people don't be doing this. The next one is individual product page funnels. So you've probably just seen in general, catalog ads are taking much more spend and eating up much more spend. I've gotten to know Dan, the founder of Marpipe, and he is saying that more and more bigger brands are signing with them every week. Massive brands because they're just making bigger and bigger investments into catalog ads."
+    },
+    {
+      "start": 424.79,
+      "end": 449.63,
+      "text": "It's also something that, you know, Meta and Google and TikTok and Snap, they're all aggressively pushing catalog ads. It's so easy for them to serve it, right? From a creative standpoint, you're just pulling what a retailer already has. If you're using Marpipe, then you run it through there and it creates the catalog for you at scale. And then you just run it into your inventory. So all these platforms love it."
+    },
+    {
+      "start": 449.77,
+      "end": 475.91,
+      "text": "And therefore, you need to make sure that your product pages you're going to are basically funnels of their own. It's kind of like landing pages. And every good landing page answers five questions, which is one, why are you selling what you're selling? Two, why should I care as a consumer? Three, how fast can I get it if I order today? Four, how will it make my life any better? And five, how does this compare to other products on the market?"
+    },
+    {
+      "start": 476.79,
+      "end": 502.35,
+      "text": "If you can answer those five questions on the product pages of your website, your catalog ads, which is in the bottom funnel stage, will be significantly more effective. And of course, if you optimize a creative with a tool like Marpipe, then your creative will also be a lot more effective at driving click-through. This leads us right into the next section. So we did top of funnel. We just went over bottom of funnel."
+    },
+    {
+      "start": 502.59,
+      "end": 530.47,
+      "text": "And the next one I want to go through is commerce experience, or as I call CXP. So the easiest one that I've talked about, you know, probably at least a thousand times is landing pages. It is 2024, and you are still not using landing pages to speak to different consumers in different ways. So your homepage, while it's obviously optimized toward what you believe is the most effective content to be on your homepage, it only speaks one way about your product."
+    },
+    {
+      "start": 530.87,
+      "end": 554.87,
+      "text": "And the problem is when you're running ads, you're speaking to different interest groups, different demographics, different reasons why people are coming to buy. This is why landing pages are relevant. So you can actually speak to these different groups of people. You can also use landing pages as listicles. You know, five reasons why this creatine gummy is in everybody's gym bag. You could use comparicles, which are like a listicle, but it compares two brands."
+    },
+    {
+      "start": 555.07,
+      "end": 583.61,
+      "text": "You've actually probably seen those similar to advertorials, where they've got, you know, prose versus function of beauty, and it's some article that's being run as an ad. You've got bundle product style landing page. So, you know, take three of my creatine gummy flavors, put them in a bundle, build a landing page off that. You've got social proof heavy pages. These are great for higher AOV products, mattresses, electronics, you know, whatever it may be. You've got shoppable blog pages."
+    },
+    {
+      "start": 583.61,
+      "end": 612.27,
+      "text": "So a little bit different than advertorials. Advertorials are usually click through to a product page, but shoppable blog pages would allow you to, you know, have an article with a shopping module within it. All of these types of landing pages, I just ranted off. These should all be built directly inside Shopify in a modular fashion, which is the standard for Shopify 2.0. This makes it so that an intern or people like myself, you know, the one Indian who doesn't know how to code, can go in and duplicate pages."
+    },
+    {
+      "start": 612.27,
+      "end": 639.67,
+      "text": "They can iterate on the page. They can add new sections, delete sections, move them up and down, copy a section from your product page to a landing page or vice versa, and just make all these edits. Ideally, if you do them right and you have all of these coded back to the meta fields, you can do these on your iPhone as well. Following the landing page comes obviously the new customer offer, which we've also talked about many times before. The reason Hintz got 36 bottles for $36 as a new customer."
+    },
+    {
+      "start": 640.07,
+      "end": 668.37,
+      "text": "Everyday Dose has 50% off their first order. Harry's has a $5 shave trial is because all of these offers, you know, their product is good. So people are staying because the product is good. All these offers get you in the door. You're on the fence as a customer on their website. And the way that they get you over this is they bring you in on an offer you cannot refuse. Hint normally goes for, you know, two to three bucks a bottle. In retail, it's probably a dollar to $2 when you buy it in a case."
+    },
+    {
+      "start": 668.37,
+      "end": 696.03,
+      "text": "But if you get it for a dollar a bottle, you get to try 36 bottles, three different flavors of the top selling variety. Like, why would you not? For Dose, you have 50% off. Why would you not try it? Harry's, five bucks. You know, you spend more than five bucks just walking outside your house or breathing in New York City. For me, what I've realized is that especially if you have brands with consumable products, the best way to scale customer acquisition is by figuring out some sort of a honey hole acquisition offer."
+    },
+    {
+      "start": 696.85,
+      "end": 725.47,
+      "text": "And I don't know why we call it honey hole. That's just a word that we started calling it about seven years ago. But in this perfect honey hole acquisition offer, you figure out the merchandising and the messaging and sort of like the largest TAM approach to that. And in theory, this is a, you know, this offer becomes your control when running new channel experiments. So if you're running, if this is your best offer on Meta and you want to launch TV, well, you run with the same offer because that's your control."
+    },
+    {
+      "start": 725.59,
+      "end": 746.43,
+      "text": "Whereas the channel here and how the traffic behaves is the experiment. Okay, this leads us to the almost second to third to last, which is making sure your website is optimized and so is your checkout. So most brands will use some sort of a Shopify template or buy a Shopify theme."
+    },
+    {
+      "start": 746.67,
+      "end": 765.45,
+      "text": "It's pretty rare for brands to use fully custom websites unless they have, you know, unless they work with an agency like Sharma Brands where that's what we do. But you want to try to test and iterate on everything. We use IntelliGems for a lot of our A-B testing and monitoring of results and just analysis."
+    },
+    {
+      "start": 765.83,
+      "end": 781.87,
+      "text": "But, you know, everything from the homepage modules, the above the fold PDP sections, the slide out cart, the navigation, the organization of the collections page, the checkout extension, all of these things should be tested, measured, implemented permanently if they did well. And then test it again."
+    },
+    {
+      "start": 782.85,
+      "end": 808.49,
+      "text": "And, you know, there are so many data points you can leverage from heat maps, from session recordings, from scroll depth maps, from your post-purchase survey, from knowing what kind of copy gets the most clicks when it comes to ads. And then test it again. All these data points can be incorporated into what you test on your website. And then you should run these tests and do it, especially if you've got a lot of traffic and you sell a lot of product."
+    },
+    {
+      "start": 809.27,
+      "end": 836.07,
+      "text": "You know, one test, I remember there was a hair care brand, celebrity hair care brand we worked on. One tiny little test of a button in the cart generated an extra 50 grand in one week. So $200,000 a month in incremental revenue was generated just from a tiny test that we ran. So if you've got a lot of traffic, do these tiny tests. As you have lesser and lesser traffic, do some larger tests. Why not?"
+    },
+    {
+      "start": 836.39,
+      "end": 858.37,
+      "text": "You are honest that you might actually be one, you might really be one test away from upping your conversion rate by 25, 30, 50%. Hundreds of brands like Garrett Popcorn, July Luggage, and Selfie Leslie are making six figures in incremental revenue through Instant's supercharged retention marketing platform. It takes less than 60 minutes to go live, and you see results just within days."
+    },
+    {
+      "start": 858.65,
+      "end": 882.45,
+      "text": "You most likely already send site abandonment emails, but because most of the traffic on your site is anonymous, you don't get to email 98% of these site visitors. Instant gives you another chance to convert these visitors into buyers and send two to three times more cart abandonment emails than you were before. Learn how you can double your abandoned flow revenue at instant.one slash limited. That's instant.one slash limited. Now back to the show."
+    },
+    {
+      "start": 886.14,
+      "end": 914.68,
+      "text": "Leads us to the next thing, which is upsells and post-purchase offers. With upsells and post-purchase offers, the goal is to use these as levers to drive higher AOV and more items in the cart. So if somebody buys toothbrush, you upsell them the toothpaste, and ideally try to push them onto a subscription. If somebody buys the toothpaste, you upsell the floss. Once they check out, then with Shopify, it holds the payment token once somebody puts their card in and checks out."
+    },
+    {
+      "start": 914.86,
+      "end": 943.84,
+      "text": "And then you show a pop-up right after, and you say, hey, you want to get another toothpaste for 30% off? Your take rate is probably anywhere from 25% to 30% here, 20% to 30%. And again, this is one of those things where if you've got a lot of traffic and a lot of orders going through, this is something that will dramatically boost your gross revenue numbers and your bottom line numbers because this is revenue you're not necessarily paying for, quote-unquote, because you've already gotten the conversion or the sale."
+    },
+    {
+      "start": 943.96,
+      "end": 971.28,
+      "text": "This is just cake on top. Next one is focusing on subscription optimization. So this doesn't necessarily mean to have a good subscription program, although you should have that, and we'll talk about that soon. But this actually means making sure that your website clearly demonstrates the benefits, the reasons to subscribe, why somebody should subscribe, what the offer is. And there's a very clear punchline as to, you know, why should I even subscribe?"
+    },
+    {
+      "start": 971.28,
+      "end": 998.9,
+      "text": "Why should I add another recurring credit card charge on my credit card when I, as a consumer, hate subscriptions? You need to just answer that properly on your website. There's some brands that do a really good job of this. You can basically check out whatever you think are the top brands that do subscription. And sometimes it is, you know, you don't need to overthink it. Sometimes it's just the fact that it's more convenient to get Hint Water shipped to your house"
+    },
+    {
+      "start": 998.9,
+      "end": 1027.68,
+      "text": "than to go to the store and pick up six cases and bring them to your, you know, into your car and then from your car into your kitchen. So you don't have to overthink it, but try to figure out what is actually relevant to your customer and how your customer is shopping. And then for the, oh no, this is not, oh, okay. We got two more here. All right. So the next one is email and SMS opt-in. Again, this is something I've talked about a lot. I feel like a lot of these things are things I've mentioned before,"
+    },
+    {
+      "start": 1027.7,
+      "end": 1056.06,
+      "text": "but this is all coming together in one episode. For email and SMS, you know, if you're collecting below 7% of your site traffic opting in, then you need to focus on getting more opt-ins for emails and phone numbers. You can also use the email fields to collect more data. For example, there's a facial company, kind of like Drybar for facials called Hay Day and Hay Day Skin Care. And they have a DTC site as well."
+    },
+    {
+      "start": 1056.18,
+      "end": 1084.54,
+      "text": "If you go to their website, you'll see that when you plug in your email, it asks you a couple of quick questions. And what that does is, I'm assuming at least, is, or what you can do, is then customize the welcome flow that this person now gets both on email and SMS to make sure that whatever content you're sending them is a lot more relevant. Obviously, this increases your open rate, your click rates, and then hopefully your placed order rates as well."
+    },
+    {
+      "start": 1084.94,
+      "end": 1113.54,
+      "text": "Next one is review collection and syndication. Moyes used to talk about this a lot, which is, you know, you need to focus heavily on collecting reviews. These are, I mean, it's the best thing you can do is have reviews. There's a brand I spoke with this morning, and they were mentioning that they have a lot of dupes that rip them off, but they've got 32,000 plus reviews, positive reviews on one product alone. And I was thinking, this needs to be plastered everywhere."
+    },
+    {
+      "start": 1113.54,
+      "end": 1137.88,
+      "text": "Sometimes the best line of copy you can use as a brand is, you know, over X number of five-star reviews or over X number of happy customers, over X number of reviews. And I'll tell you from working with brands that have a lot of reviews, this copy crushes. It's just as good as, you know, this was sold out, now it's back in stock for a limited time, which if you haven't used, you should try it out."
+    },
+    {
+      "start": 1138.82,
+      "end": 1162.42,
+      "text": "It also does a good job of making sure that you are collecting customer feedback and customer reviews. And lastly, the same way that you would, you know, build a forecast and try to stick to it as it relates to sales and revenue or spend, you should actually do the same with reviews because that will also, one, it'll just put a fire under you to get more reviews and collect them."
+    },
+    {
+      "start": 1162.42,
+      "end": 1191.24,
+      "text": "But two, if you're pacing below, then it also should set off another alarm for you to look into something as to what that is. The next one is review collection and syndication. So one of the best lines of copy that any brand can use is leveraging their social proof and the magnitude of that social proof. You know, a line of copy that says over 100,000 five-star reviews or over 600,000, you know, bottles sold, over 700,000 pans sold."
+    },
+    {
+      "start": 1191.82,
+      "end": 1221.54,
+      "text": "Lines like this drive very high trust because, you know, the thing that people think once they get to a site is, am I the first person to buy this? Am I going to get scammed? How do I make sure that my credit card data is not leaked? Whatever it may be, there's always some level of skepticism and adding social proof that shows how many units have been sold or how many satisfied customers there are gets rid of that fear that people have in their head. The other thing I would recommend is with the, obviously you're going to try to collect as many reviews. You should set goals."
+    },
+    {
+      "start": 1221.74,
+      "end": 1250.04,
+      "text": "How many reviews are you trying to collect per day, per week, per month, per quarter, per year? And see how that stacks up, you know, how you're pacing. The same way that you would look at sales charts or, you know, forecast sales and see whether you're behind or ahead and then make, you know, a solve for why it's behind. You should do the same thing on the review side. One, it keeps you accountable to make sure you're getting all these reviews. And two, you can also look at why maybe you're getting more reviews than normal or fewer reviews than normal."
+    },
+    {
+      "start": 1250.36,
+      "end": 1278.14,
+      "text": "The last piece of this is just making sure that you're syndicating it everywhere you can. Some platforms allow you to syndicate to TikTok. Some allow you to syndicate to different marketplaces. Some allow you to syndicate to target.com. You know, as much as you can syndicate reviews and more social proof, the better it is. You can have, you know, all of the great awareness and intent to buy and marketing, but unless your commerce experience is really set up in a way that is ready for people to come transact,"
+    },
+    {
+      "start": 1278.14,
+      "end": 1306.2,
+      "text": "and that too in a way that is easy to do and, you know, doesn't take a lot of time to understand how to do. Again, going back to that drunk grandma test I've talked about before. Or not drunk grandma, but the grandma test or the drunk guy test. Or if you're crazy enough, a drunk grandma test. But all these things help you make sure that all the efforts you're doing driving traffic to the site, you're maximizing the ability of what you can actually do with them. Okay, the last thing is actually just measurement."
+    },
+    {
+      "start": 1306.62,
+      "end": 1335.66,
+      "text": "And, you know, there's three types of measurement that most people talk about. Or I guess four if you count just in-platform reporting. The Zin platform reporting, which, you know, is based on the data that, for example, Facebook is getting back in terms of the data they're adjusting from your website, from their app, from maybe MetaShops. And then they use that information to create a model, and that model is what you read in your Facebook's dashboard. That's not 100% accurate. That is all model data."
+    },
+    {
+      "start": 1336.56,
+      "end": 1363.68,
+      "text": "You have MTA. You have MMM. MTA are the triple whales and the north beams that you know. MMM is like prescient. And then you have incrementality. That is, you know, work magic and house and Paramark and measured. And all these companies are, you know, necessary in their own right. They tend to fit different businesses in different ways. You know, measured works better for a certain type of brand than Paramark might and vice versa."
+    },
+    {
+      "start": 1364.66,
+      "end": 1392.64,
+      "text": "Anyways, the main thing you want to look at is just understanding how many points of sale or distribution do you have? Like, you know, your .com, Amazon, Ulta, Target.com, Costco, Sephora, whatever it may be. How many places are you advertising? You know, is it just Meta and Google? Or is it Meta, Google, YouTube, TikTok, Snap, Pinterest, TV, Billboards, Podcast, Influencer? You know, all this kind of stuff."
+    },
+    {
+      "start": 1393.3,
+      "end": 1419.78,
+      "text": "And then decide from based on that, you know, how tight or how informative does the tracking need to be? If you have all of these channels on both sides, you know, all the retailers and all of the advertising solutions, you probably want to run some level of MMM and incrementality. If you're just running media to your website, you probably just want to run MTA and you could probably even leverage like, you know, Facebook's internal or in-platform incrementality test."
+    },
+    {
+      "start": 1420.1,
+      "end": 1450.08,
+      "text": "But the beauty of understanding all these different types of measurement is knowing that they all have different roles to play. And all of them should be kind of looked at as a data point. None of them is 100% accurate. Even with incrementality, which a lot of people talk about now, you're basically needing to continuously run tests and see how the market is adapting. You could run a test. You know, we ran a test recently for a brand where we measured the impact of add to cart campaigns on Amazon and dot com. We saw that on dot com."
+    },
+    {
+      "start": 1450.2,
+      "end": 1473.66,
+      "text": "It didn't do that great, but on Amazon it did well. But that is for how Facebook runs the add to cart campaigns today. In six months, we should rerun this test and see is the performance still just as effective as it was before? And do we need to recalibrate the incremental ROAS generated from there on Amazon dot com within a certain look back window? Okay. That is pretty much all I've got."
+    },
+    {
+      "start": 1473.92,
+      "end": 1501.54,
+      "text": "That runs through everything from the top of the funnel, the bottom of the funnel, the commerce experience, excuse me, and the measurement. Um, so my goal is that come next Wednesday, I can get somebody on here who is an expert in supply chain, in tariffs, in international trade. And I'm hoping that, uh, next Wednesday is just a banger and a banger of an episode all about the international trade."
+    },
+    {
+      "start": 1501.8,
+      "end": 1530.2,
+      "text": "Um, until then, if you know anybody who's a great guest candidate for that, please DM me on Twitter. Otherwise, I will see you soon. I'll see you next week. Have a great week. Sign up for the newsletter. It's just nick.co slash email and I'll see you on the next episode. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail, and e-commerce. If you enjoyed this episode, why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

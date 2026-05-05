@@ -1,0 +1,374 @@
+{
+  "cues": [
+    {
+      "start": 0.43,
+      "end": 27.67,
+      "text": "Welcome back to Limited Supply, the podcast where we get deep into the tactical and strategic side of e-commerce, digital marketing, and building consumer brands. I'm your host, Nik Sharma. I've spent the last nine years building, scaling, and investing in brands. And through this show and my weekly newsletter at nik.co slash email, I'm here to share everything I've learned. The wins, the losses, the experiments, the tactics, and the insights. Also, you can unlock your next $100,000 in revenue."
+    },
+    {
+      "start": 27.67,
+      "end": 53.49,
+      "text": "Today's episode is a good one, but before we dive in, let me tell you about our chosen sponsor for this week's episode. You may have heard of AppLovin before, or maybe not, but let me tell you why you need to pay attention. Whether or not you realize it, you've interacted with AppLovin as a consumer. They're the largest ad network for mobile games, reaching 150 million people per day. Not per month, not per week, but per day."
+    },
+    {
+      "start": 53.49,
+      "end": 75.53,
+      "text": "The network has grown so much that they reached a billion dollar run rate in AppLovin just from e-commerce spend. It's the fastest growing ad platform for D2C brands, and it allows you to drive measurable performance at scale. Sign up to be the first to know when AppLovin can onboard you and get to the front of the line with my special link. It's nik.co slash app beta."
+    },
+    {
+      "start": 75.53,
+      "end": 103.54,
+      "text": "See why brands like Hexclad and Ridge rely on AppLovin. Go to nik.co slash app beta. That's nik.co slash app beta to see when you can get onboarded to AppLovin. All right. Welcome back to another episode of Limited Supply. I hope you're excited. Today is going to be a fun one. It's going to be a quicker one."
+    },
+    {
+      "start": 104,
+      "end": 117.36,
+      "text": "And we're just going to basically go through a bunch of landing page tips. These are, this is me looking back at a ton of landing page studies, a ton of customer acquisition funnels, a ton of performance marketing for brands that don't have strong brand awareness."
+    },
+    {
+      "start": 118.44,
+      "end": 142.24,
+      "text": "And really looking at what worked and what didn't work. I think a lot of the times there are really beautiful landing pages shared and they're coming from really beautiful brands, but it's hard to, in my opinion, at least, you know, the same reason I don't like to hire a growth marketer from a brand that is a very well known brand, because I mean, simply put, you just have to do less,"
+    },
+    {
+      "start": 143.74,
+      "end": 167.2,
+      "text": "less things from the get go, or I should say from, you know, the zero to 25 maybe in order to get things going. Obviously, if you're a well known brand or a recognized brand and you're, you know, 100, 200 million plus, it's much different game. But a lot of times people are always asking me, you know, I need to hire a growth marketer. Where should I look? And my recommendation is always go find people at companies who don't have good brand awareness."
+    },
+    {
+      "start": 167.2,
+      "end": 188.28,
+      "text": "They've had to work much harder to hit those similar results and to hit their cat goals and their row as targets. And they've also had to try, probably had to try, I have to put all the disclaimers in here. They probably had to try a lot more things than somebody who comes from a brand that's really well recognized has had to try because fewer things work when your brand is less recognized."
+    },
+    {
+      "start": 188.78,
+      "end": 213.14,
+      "text": "All that said, I put together some landing page tips in the same kind of vein of thought, which is for a brand that's not super well recognized, but has got a product that delivers on its promise. And, you know, a product that clearly works and helps people out. I wanted to put together landing page tips that whether you have a really good built up brand or you don't, this should still convert and work well."
+    },
+    {
+      "start": 213.76,
+      "end": 240.08,
+      "text": "The other thing I'll say too, is obviously, you know, this, this is going to impact your numbers once somebody hits the site. So if you're having issues getting decent CPMs or decent click through rates, that's a whole other issue. And we can spend another episode on that, on just talking ad creative and kind of like tips, strengths, things to test tactics, practical ways to go about better ad creative."
+    },
+    {
+      "start": 240.82,
+      "end": 270.06,
+      "text": "But for today, let's get into some landing pages. So again, like I said, looking back at several different landing pages, and different CRO experiments, I wanted to basically note down what are the, you know, if I took, I've done those things where I do 60 landing page tips, 100 landing page tips, etc. What are like the ones that are the most impactful? So I'm going to just go through those. And if you have any questions, if you have any, if you want to see examples, if you want to see examples, if you want to see"
+    },
+    {
+      "start": 270.08,
+      "end": 295.04,
+      "text": "If you want, if you want to send your landing page to me and have me check it out, DM me on Twitter, shoot me an email. I'm just n at Sharma.com. Mr. Sharma on Twitter. And yeah, let's get into it. So number one thing that I think most people don't do, and a lot of people don't do it because they're drinking their own Kool-Aid. So what do I mean by that? You are, you're, you're, you're selling your product. Let's say it's a beanie."
+    },
+    {
+      "start": 295.04,
+      "end": 320.2,
+      "text": "But you're the one that wears the beanie all the time. You touch the beanie all the time. You have it on, you see it in your closet. You're looking at the web page every day. So to you, you think that everything is already obvious, which is why you're not a great candidate to be one to kind of audit your own landing pages. But second to that is that you are, you already believe in the product, right? So, which leads me to number one, which is you need to leverage a lot more social proof."
+    },
+    {
+      "start": 321.02,
+      "end": 349.8,
+      "text": "A lot of people don't leverage social proof in their landing pages and landing pages are entirely built to shorten or kind of, you know, rapidize, make faster that conversion funnel, right? The whole process of somebody learning about what you're selling and why you're selling the product and what does it do for them and how fast does it get there? And how does it compare to other options that are on the market?"
+    },
+    {
+      "start": 350.54,
+      "end": 378.2,
+      "text": "Is there an offer there, et cetera. That's really what is always on a landing page. But a lot of people always forget the social proof, like show me the proof that, you know, thousands of other people have bought this and not had issues. Show me the proof that, um, that you have valid. You have people that are willing to say that whatever your benefits are actually worked for them. So sometimes that's customer reviews, that's just plain text and cited next to their name and maybe a little picture."
+    },
+    {
+      "start": 379.38,
+      "end": 404.18,
+      "text": "Sometimes that's something like, you know, a little line that says, um, you know, I've seen something like 40,000 plus bottles sold, um, tick tock shop, number one seller. Um, you know, you can have badges like allures, allure beauties, you know, top product or, uh, cosmopolitan, you know, skincare awards winner. I'm just making these up, but these are all different forms of social proof."
+    },
+    {
+      "start": 404.18,
+      "end": 430.16,
+      "text": "You know, you know, you, you see on your product page or your landing page, uh, videos of influencers, screenshots of comments on Facebook, uh, screenshots of comments on Tik TOK. These are all different forms of social proof. And, uh, you don't need to just have publications and, uh, paid celebrities. In fact, those are probably two of the least, um, conversion impacting forms of social proof you can put into your funnel."
+    },
+    {
+      "start": 430.8,
+      "end": 455.04,
+      "text": "Instead, I would try to focus on things that people feel are not fake. So comments, screenshots of Tik TOK and Instagram, Facebook comments, real customer reviews. Um, and, uh, you know, even, even like videos, there is, if you have any videos of your customers using the product, opening the box, showing you what's inside, that kind of stuff is, is the real social proof."
+    },
+    {
+      "start": 455.04,
+      "end": 479.74,
+      "text": "But let's get to the next one. Next one is copy. So copy is 80% of what you sell. The, the reason is because, well, it's twofold. One is if your copy looks complicated, just from glancing at it, if it's too chunky, if it's paragraph heavy, if it's full of jargon, if it's full of keywords and buzzwords, then people are going to see that and immediately be turned off from wanting to read further."
+    },
+    {
+      "start": 480.6,
+      "end": 503.84,
+      "text": "However, if your copy is easy to understand, it's displayed in a beautiful hierarchy, meaning you can clearly separate right by looking at it. It's a headline from the sub headline, from the bullet points, from the paragraph copy copy to the copy under the iconography, uh, to the, to the price point, to the, you know, the, the returns guarantee underneath the CTA."
+    },
+    {
+      "start": 503.84,
+      "end": 525.6,
+      "text": "Like if you can clearly see all those different pieces, that's step one. Step two is then making sure that your copy is actually good. It's gotta be punchy savvy, focused on the benefits, not the value props. And it's, it's really your positioning. So your angle in which, how you bring somebody in through the copy, right? You have to make sure you're speaking to them in whatever your copy is."
+    },
+    {
+      "start": 525.7,
+      "end": 555.46,
+      "text": "They need to feel like they can meet you halfway. Your copy should sort of throw something out there and, uh, it should be something that they can hook onto and lock in with. So if you're selling, you know, I always use the example of rice cakes. If you're selling rice cakes, um, and you're selling to an audience of moms, you know, your line of copy might be something like mom's favorite snack, mom's favorite afterschool snack that throws the opportunity out for somebody of a mom to read that and say, you know what? I'm locking in. I'm now interested. I'm ready to consume the rest of the page."
+    },
+    {
+      "start": 555.46,
+      "end": 583.24,
+      "text": "So that is why copy is really a huge part of it. It's the design and the hierarchy, but it's also then what are you saying and how are you making sure that it's relating back to the person on the other side? Um, one more thought on that that just came to mind, you know, YouTubers, uh, if you've ever watched YouTube vloggers back in the day, uh, you know that they are extremely good at kind of just speaking to the camera and making it feel like they're talking to you."
+    },
+    {
+      "start": 583.24,
+      "end": 612.66,
+      "text": "And the reason is because they're very good at doing what I was just mentioning about the copy, which is how do you create something that's somewhat relatable or attainable or aspirational that the other person can reach out to and connect with. And that's how vloggers build such a big following. Um, okay. Next one. Number three, designing for desktop, big, no, no. It's like having a surround sound system with no subwoofer. It still works, but it's not going to be the best. So why even go that way? Most of your traffic, again, caveat, disclaimer."
+    },
+    {
+      "start": 612.66,
+      "end": 642.64,
+      "text": "Most of your traffic should be mobile. It probably is mobile. I would imagine 80 plus percent of your traffic is mobile. Um, there's very rare instances where brands have a large, um, percent of traffic on desktop. And there's some instances where they have discovery on mobile, but conversion on desktop. Um, you know, those tend to be higher AOV things, things where there's a lot of customization or a lot of optionality, which is again, why you want to make landing pages somewhat, uh, easy, you know, merchandise it in a way where there's not too many options."
+    },
+    {
+      "start": 642.66,
+      "end": 666.26,
+      "text": "Um, I like thinking about the in and out menu, few options, make it easy, get people in and out and, uh, that's it. So main thing there, write copy for mobile, um, design for mobile, you know, even when you design for mobile and, uh, and write copy for mobile, it fits better. It's a lot more efficient in mobile. And then you can throw it into desktop and kind of rearrange things or maybe add some elements to fill space."
+    },
+    {
+      "start": 666.26,
+      "end": 689.84,
+      "text": "But if you design for desktop and you put everything into desktop and then try to fit it to mobile, um, you're going to end up in a spot where your mobile is not optimized for mobile. Meaning you will still have a mobile design. It's going to be a design within a little screen, but everything is good. You know, for example, uh, the biggest thing or the biggest, uh, way to notice this is like, if you pull up a homepage bubble design."
+    },
+    {
+      "start": 689.84,
+      "end": 704.94,
+      "text": "And the CTA is not even above the fold. It's cause it was designed in desktop and squished into mobile. Um, same thing on the PDPs or the shop section of a landing page. You know, when you see that shop section, you want to see the title at the top, the CTA at the bottom, um, without having to make someone scroll."
+    },
+    {
+      "start": 704.94,
+      "end": 734.72,
+      "text": "But again, if it's designed on desktop and fit into mobile, it's just way too long. You have to scroll too much to get to that CTA. And, um, you also just don't think of like mobile first elements, like a more optimized card, a more optimized navigation, a more optimized, um, add to cart section of that landing page, a more optimized variant selector. So it's, it's much better to challenge your thinking and, you know, basically design a harder way first into mobile and then expand it to desktop."
+    },
+    {
+      "start": 735.78,
+      "end": 752.38,
+      "text": "Next one is, uh, make your pricing discounts and your offers a lot more noticeable and bigger, the bigger the prices, um, the less it actually feels to somebody that you're hiding something. So conversion rate actually goes up when your prices are bigger. Um, you can use different color font. You can make it bold. You can use highlights. You can use a sticker."
+    },
+    {
+      "start": 752.38,
+      "end": 779.42,
+      "text": "You can use another color, uh, colored CTA with a contrast colored outline. So, you know, uh, orange CTA with a black outline, uh, red CTA with, uh, uh, I guess a black outline, basically contrasting colors to really show you where the CTA is. And again, obviously you have to do this within your brand colors, but, um, to be honest, you should actually look at a lot of, uh, if you don't already do this, you should spend at least 30 minutes."
+    },
+    {
+      "start": 779.42,
+      "end": 807.9,
+      "text": "Every couple of days going on ads manager and seeing what people are launching and seeing their ads and where they're driving to. And you'll notice that a lot of the brands that are winning on a performance marketing basis, they, they, they care about their brand aesthetic, but they care a lot more about profit as you should too. Um, so focus on that. And that's why, you know, some of these things like making your discounts, your offers, your pricing, your, uh, stickers, your CTA is just making them pop a lot more."
+    },
+    {
+      "start": 808.36,
+      "end": 837.46,
+      "text": "Um, or even having a sub supportive, uh, copy, like, you know, a, a, a dollar a day, uh, with this offer or less than five, $5 a day to use X or less than $2 a day to achieve X. Right. Like those types of things help, um, they, they, they help, they help people do girl math in their heads and justify it. And, um, and that's what obviously helps get the purchase and the conversion."
+    },
+    {
+      "start": 838.66,
+      "end": 866.86,
+      "text": "So next one there, uh, it actually goes a little bit off of the last couple of points with copy and kind of positioning, but also don't discount what, uh, pictures do. And pictures can be, um, well, we'll get to illustrations in a second, but for pictures, what I mean is a lot of times, you know, brands will do these nice photo shoots and the products look really beautiful. But again, that's just somebody who's sort of drinking the Kool-Aid. It's not, um, beautiful and, and, you know, appetizing to somebody who doesn't know the brand."
+    },
+    {
+      "start": 866.86,
+      "end": 896.48,
+      "text": "And, um, I think the companies that do this really well are like insurance companies, alcohol companies, and, uh, telecom companies, and even like cable TV companies. All of their imagery is always focused around some sort of like joyous time or event or showing you the good life or what life will be like with the product. And that's what your imagery has to focus on too. So if you're selling a greens powder, you don't want to just show the greens powder."
+    },
+    {
+      "start": 896.62,
+      "end": 918.28,
+      "text": "Everybody knows what greens powder is, but you need to show, um, what does that morning look like when you're waking up and having the greens powder? What does your, um, afternoon look like because you had the greens powder? What does, you know, like basically how does life look with the greens powder in it? It's not that, um, it's just a powder on your kitchen. You're, you might be dressed in a workout fit."
+    },
+    {
+      "start": 918.28,
+      "end": 947.32,
+      "text": "You might be, you know, on a soul cycle bike, um, whatever it is, you need to sort of show how this contributes to a lifestyle that is aspirational that people are trying to get to. Um, I remember too, when I, when I, um, worked at Hint, I used to go to soul cycle and just take pictures of the bottle in the soul cycle bike. It wouldn't show the branding, but it was so obvious to people when you see the bike, um, or sorry, you see the bottle in that little bike holder for the bottle."
+    },
+    {
+      "start": 947.32,
+      "end": 973.64,
+      "text": "And you can see, you know, a bike shoe next to it, um, or, or a pedal next to it. Like you can see the lifestyle that you're trying to bring somebody into. Um, and of course this does include illustrations, icons, graphs, charts. Uh, you know, if you have anything that's, uh, education focused or scientific, um, supplements, for example, this is a great place to show a lot of those, uh, illustrations, icons, charts, et cetera."
+    },
+    {
+      "start": 974.32,
+      "end": 997.58,
+      "text": "Um, and last thing I'll say to the, to the last couple of points here is the more you can use numbers, the better. You probably remember back in the day, Buzzfeed, all those, um, articles and quizzes and, um, anything that would go viral off Buzzfeed always had a number in the title. So the more you can put numbers in, the more trustworthy it is, but also the more real it feels to people."
+    },
+    {
+      "start": 999.12,
+      "end": 1027.4,
+      "text": "We just onboarded two brands who are new to app loving, but very heavy Facebook spenders. One is a high AOV in-home product and one is a supplement brand. Now why? Well, app loving sees 150 million active users per day. The same way you'd want to test a channel like snap is the same way we approach testing app loving. So far the onboarding was super smooth. We've been able to ramp up spend in just a short amount of time. And I think we're still hitting our plan row as targets."
+    },
+    {
+      "start": 1027.8,
+      "end": 1056.81,
+      "text": "Candidly, I haven't seen many platforms able to ramp up this quickly and I'm excited to continue investing into the channel throughout the season. I'm going to keep you updated with how our results are going. But right now you can get updates on app loving's e-commerce beta and be the first to know when opportunities become available at nick.co slash app beta. That's n-i-k dot c-o slash a-p-p-b-e-t-a. Check it out. Okay, number six."
+    },
+    {
+      "start": 1057.81,
+      "end": 1086.15,
+      "text": "Make your pop-up subscribe form when people land on your site. First of all, don't have your pop-up enabled when people are coming from your email. So if they're coming from Klaviyo or whatever your email service provider is, just turn off the pop-up. But when they do land and they come from Facebook, they come organic, they come from Instagram, they come from somebody texted them a link. Make it a very value-added experience."
+    },
+    {
+      "start": 1086.33,
+      "end": 1113.77,
+      "text": "So offer something, get them excited about what they can get or get for themselves. Everything here, there's a theme, is the consumer is going to ask, what's in it for me? So in this case with the pop-up, you can have a discount, you can have a chance to enter them into a raffle. They can get a free product if they hit a certain AOV threshold by entering their email, whatever it is. Show that. Get them to click and opt in and say, I want that. Get them to add their email."
+    },
+    {
+      "start": 1114.01,
+      "end": 1139.85,
+      "text": "Now once you have that, then you can ask for more. I'm always a fan of getting the phone number. Email and phone number are like the two things there. But the more you can do to build out that zero-party data, whether it's asking for a birthday, where they live, any sort of preference in terms of products. Like are they there to shop for men's or for women's or active wear or lounge wear, whatever it is."
+    },
+    {
+      "start": 1139.95,
+      "end": 1159.45,
+      "text": "The more you can do, the better because then all of your communications going forward, your segmentation going forward. And not to make everything about AI, but the more that AI gets integrated, the more kind of zero-party traits or you could think of them as adjectives that we can add to people's profiles."
+    },
+    {
+      "start": 1160.33,
+      "end": 1187.37,
+      "text": "The better all of that is going to work in the future because it's inevitable that that is near and going to get more ingrained in everybody's workflows. Number seven is to make sure that you are fully ADA compliant. I will tell you that a lot of ambulance chasing attorneys love to look at Facebook ads and they love to go find landing pages or website product pages that are not ADA compliant."
+    },
+    {
+      "start": 1187.71,
+      "end": 1212.55,
+      "text": "There are apps that exist for ADA compliance, but those apps do not protect you from anything. Anybody can still sue you. And from my experience, the only way to really protect yourself is to work with a law firm like we work with Denton's. There's this guy, Nick Poogee there. He handles all the ADA. Actually, he handles the most ADA cases in the country."
+    },
+    {
+      "start": 1212.73,
+      "end": 1241.27,
+      "text": "But what he does, his team every quarter will go through a client site and run all the same reports that these scummy ambulance chasing attorneys do. And they have evidence with timestamps, date stamps, across different devices and screen sizes to show that you are compliant. So when they do hit you with some frivolous garbage, you can respond back to them. And you don't have to just keep settling for $10,000, $20,000."
+    },
+    {
+      "start": 1242.69,
+      "end": 1271.47,
+      "text": "Next one is to simplify your checkout experience. So, you know, why do we use landing pages to make the sales process much faster? So don't make the checkout experience more complicated. A customer should never have to make more than two clicks from the landing page to get to checkout. And the checkout inside the UI of it should really reiterate the benefits of why somebody clicked the ad and got to that page, got to the checkout in the first place. Sometimes this is tricky to do."
+    },
+    {
+      "start": 1271.65,
+      "end": 1300.73,
+      "text": "And so what I would recommend is if you're running more targeted or segmented campaigns and you're trying to think about how to reiterate or trying to think about what to reiterate in the cart, given you have so many different audiences coming to the site and purchasing. Whatever your highest evergreen performing benefits are for the brand, I would put that with maybe one or two reviews in your checkout process. And don't make it too complicated, but I would do that."
+    },
+    {
+      "start": 1301.73,
+      "end": 1328.57,
+      "text": "And again, that's when people are going through checkout. You know, you want to remind them that, again, they're not the first one to make the purchase. There's maybe a returns policy. There's a ton of people who are happy. And then, of course, reiterate, like, why do people love the brand or why do they buy from the brand? Next one is back to the offers. So, you know, a lot of times you might have a landing page with one offer. You might have one with three different offers. You know, maybe it's three different bundles somebody can buy."
+    },
+    {
+      "start": 1328.79,
+      "end": 1355.85,
+      "text": "Whatever it is, you want to put the best offer at the top. And so if you've got, you know, 15%, 20%, and 25%, put the 25% offer at the top. Don't put the 15% offer at the top. Because again, if you're, and it's not tricking anybody because that option is at the bottom, but it just gets you, it buys you 10 seconds of their time to say, oh, 25%. Let me scroll down and see some more."
+    },
+    {
+      "start": 1356.51,
+      "end": 1383.49,
+      "text": "So again, you're not being deceitful, but you're just basically, it's just a little trick. I guess that's maybe the more gray hat trick of this list, but it's not really gray hat at all. But you're just finding a way to buy 10 seconds of their time and see if, you know, you can earn more of their time based on what they see. Next one is to have a comparison chart. I've literally never seen a comparison chart that does not increase the conversion rate of a landing page."
+    },
+    {
+      "start": 1384.05,
+      "end": 1411.01,
+      "text": "In one test we did, we saw, and this was for a subscription focus brand, but we saw the subscription LTV was significantly higher with the comparison chart. And it makes total sense because why wouldn't you want to see, you know, a lot of times for subscription products, people churn because their competitors are just aggressive in customer acquisition. Think about the meal kit space, the supplement space, the probiotic space, the beauty space."
+    },
+    {
+      "start": 1411.01,
+      "end": 1438.79,
+      "text": "And so comparison charts sort of get that out of the way up front. It's like, well, these guys are all going to hit you up, but let me tell you why we are better than those guys. And so that's probably why it had such a nice lift on subscriber LTV from the cohort that hit that page. Next one is to invest in and elevate your UI design. So you're now, okay, I want to, I want to be clear. You don't need to have a branding agency level designed webpage,"
+    },
+    {
+      "start": 1438.79,
+      "end": 1465.75,
+      "text": "but you cannot have a, you know, overseas Fiverr level looking landing page either. It's just not going to work. People are going to come to your page and they look for, they don't necessarily look for beautiful design, right? You don't need a crazy designer, but you need to have some level of aesthetic that says, I'm not going to scam you once I get your credit card. And too many people build landing pages that feel like you're going to get scammed"
+    },
+    {
+      "start": 1465.75,
+      "end": 1494.07,
+      "text": "once you give their credit card, which is also why, again, social proof is so important here and reiterating benefits. But yeah, I would say invest in UI design. Again, you don't need to go crazy. You need to really focus on conversion and UX, but definitely have nice elements to UI. You know, go to flat icon and get some nice icons from there. You can even customize the icons in Figma a little bit, change the color, the weight, the, you know, whatever it may be,"
+    },
+    {
+      "start": 1494.21,
+      "end": 1522.89,
+      "text": "but definitely invest in things like that. The more kind of like elements you have that are specific to you, whether that's photography, whether that's lines of copy, whether that's illustrations, icons, you know, a nicer looking comparison chart, those things all kind of contribute to the brand being much more accepted and I guess well-liked. Next one, number 12 is to add some buyer's remorse friendly language."
+    },
+    {
+      "start": 1523.19,
+      "end": 1552.19,
+      "text": "So, you know, adding shipping information that makes it very clear. You want to add, or sorry, you want to answer questions such as, if I buy today, does it ship today? When does a product arrive at my door? What is the return and refund policy? You know, and really like what you're getting at here, the North Star question I always try to think of that you want to solve for is, hey, what if I order this and my girlfriend thinks I'm really stupid once she sees what I bought, you know, am I good to return it?"
+    },
+    {
+      "start": 1553.23,
+      "end": 1582.65,
+      "text": "Or for boyfriend too? However you wish to see it, that's the question I think about, right? It's like, if I get this, I open it and somebody thinks I'm really stupid, can I return it? That's the buyer's remorse friendly language. And as long as you kind of cover all aspects of that question, you pretty much answer everything you need here. Next one is to use quotes to call out the benefits. So we talked about social proof, but specifically in those customer quotes,"
+    },
+    {
+      "start": 1583.21,
+      "end": 1612.91,
+      "text": "don't, you know, don't say something like, you know, I love the teal color bottle and it's machine washable. That's great, but that doesn't, that's like a value prop, right? It's teal and it's machine washable, but it doesn't focus on the benefits. So a better quote would be something like, you know, upgrading to the 64 ounce tumbler changed my life. I drink more water today than I have before. And I feel much, much healthier and have more energy. You know, however way you would kind of format that or cut it up,"
+    },
+    {
+      "start": 1613.05,
+      "end": 1642.17,
+      "text": "you can see the point is that first we're focusing on teal and machine washable. And then we're focusing on it's changed my life. I drink more water. I have more energy. I'm feeling healthier. You know, maybe I'm sleeping better because I have proper hydration, whatever it is, you're kind of, again, selling the lifestyle of what somebody could live versus just focusing on value props that are, you know, again, cool to somebody who knows the brand. If you know the brand, you know, all the things that maybe teal is cool because it's a new color."
+    },
+    {
+      "start": 1642.49,
+      "end": 1670.57,
+      "text": "But if not, then you really want to focus on how do you get this, this person excited about the lifestyle they're going to live when they do purchase and use the product on a regular basis. Next one, organize your product page like you would organize your physical storefront. So, you know, I actually, I love going to these little shopping hubs in different cities. There's always, you know, it's always near a sweet green or an Everlane or a SoulCycle."
+    },
+    {
+      "start": 1670.57,
+      "end": 1697.25,
+      "text": "But all those little shops around there, whether it's Parachute, Buck Mason, you know, Little Words Project, Brooklinen, whatever it is, these brands do a really good job sort of organizing their physical storefront, kind of like they organize their website. And, you know, the punchline of this bullet point is basically just merchandise better. Like when you think about going to a store, you see what's on the outside in the window,"
+    },
+    {
+      "start": 1697.25,
+      "end": 1726.55,
+      "text": "you see what's there right when you walk in, you know, everything is kind of organized in a way that, you know, they know that things that are near the door are going to sell much faster, higher take rate. Think about even when you go to Target, you know, the, all those like door busters and dollar products, they still do those, those are all at the front, right? So they're putting the things up front that they know have the highest take rate. And that's kind of what you want to do from a merchandising standpoint with your landing page is focus on the things that, you know, have a high take rate"
+    },
+    {
+      "start": 1726.55,
+      "end": 1752.49,
+      "text": "and organize your storefront to focus on things that you want to push. Everything else, you know, you can have it on the site, but get really clear about what is driving new customers, what is driving repeat customers, what is driving lapsed customers, and then figure out how you organize your landing pages or your website in a way that is adjusted for that. Next one is whenever possible, just reduce text."
+    },
+    {
+      "start": 1752.49,
+      "end": 1779.71,
+      "text": "However, you can say, or sorry, how can you say something, the same thing, but with fewer words? You know, fewer, better, always. Next point, if you have something that's actually a limited time offer, highlight it. But if it's not really a limited time offer, if it's something that is a evergreen offer, do not say it's a limited time offer. You will get in trouble for that. All right, last couple things here."
+    },
+    {
+      "start": 1780.37,
+      "end": 1808.51,
+      "text": "FAQ section, you always want to make sure you have an FAQ section. Just like a comparison chart, it's a really easy way for somebody to quickly understand the differences or just answer questions in their mind. I like to also look at common questions left on ads in the comment section, as well as Instagram DMs, customer service, and of course, whatever you hear kind of out and about in the wild when you talk to people. But answer those questions and ideally make them product specific for,"
+    },
+    {
+      "start": 1809.15,
+      "end": 1838.11,
+      "text": "you know, some brands will have product specific FAQs. Some will have just brand wide FAQs across all PDPs. Some have both like just for this mint roller and then across the entire Skinny Confidential, for example. Last couple. One is make sure your page loads extremely fast. You know, I have a grandma test that I like to run, which is basically if your grandma was loading this landing page on a tiny little iPhone, maybe it's a four or five year old iPhone."
+    },
+    {
+      "start": 1838.27,
+      "end": 1864.45,
+      "text": "The screen's not that great. The connection doesn't use 5G. Maybe it uses an old version of 4G or LTE or whatever the thing is now. And it loads slowly. So you got to make sure that all of that is locked. So it's got to be easy to read. Visually, it's got to be nice from a hierarchy standpoint. Copy's got to be easy to understand and skim. You want to have illustrations and icons. You know, you want to make sure it loads fast."
+    },
+    {
+      "start": 1864.89,
+      "end": 1893.19,
+      "text": "And again, you want to make sure that once grandma figures out what she wants, she can click, put her card in and get out. And then the last one is testing variations. So now that you've got all of the pieces you need for a landing page, you know, duplicate it and try a different headline. Duplicate it and move a section around. You know, maybe instead of having the section of the founder story at the bottom of the page, try bringing it up to the third section of the page or right beneath the shop section."
+    },
+    {
+      "start": 1893.81,
+      "end": 1923.81,
+      "text": "You know, try a landing page where you put the shop section at the very top versus at the third or fourth section and see what happens. And, you know, there's a lot of tests you can run, but there's also a lot of conflicting data. So I don't want to say like, what is the best order or anything? Instead, I would say just test them. It's so easy to test. And especially once you have these pages built, and if they're built in Shopify, it's one click to duplicate, double click and use your keyboard to rewrite a headline. So I would definitely do that."
+    },
+    {
+      "start": 1923.99,
+      "end": 1953.17,
+      "text": "I would definitely test a lot of them. And you might find that for your specific product price point, customer segment, it reacts differently than another one may. And obviously will react differently than an entirely different brand. All right. Well, those were my landing page tips. Looks like it brought us right to the end here. So hopefully this was helpful. If you've got landing pages I can check out or roast or review, definitely shoot me a DM on Twitter or an email."
+    },
+    {
+      "start": 1953.83,
+      "end": 1970.43,
+      "text": "And I will see you next week with some insights on retention. Talk to you soon. Thanks for listening. We'll be back next time to cut through the noise on CPG, retail and e-commerce. If you enjoyed this episode, why not share it with a friend? And be sure to subscribe wherever you listen so you don't miss the next one."
+    }
+  ]
+}

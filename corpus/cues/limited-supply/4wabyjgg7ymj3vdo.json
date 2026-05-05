@@ -1,0 +1,3909 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 29.6,
+      "text": "  If you run email for a brand internally or as an agency externally, this is the one thing that I think is going to either make your life really great, it's going to put you on top of the world when somebody recognizes that you caught something early before it was too late, but it's also going to be the thing that could end your business or could cause a lot of issues because if you're running email for a brand that's doing $80 million and you didn't check the box on something that messes with Google and"
+    },
+    {
+      "start": 29.6,
+      "end": 34.74,
+      "text": "  fox up your email, you're fired. There's no going back from there."
+    },
+    {
+      "start": 34.74,
+      "end": 40.24,
+      "text": "  This is Limited Supply, the place for refreshingly real takes on what D2C is really like."
+    },
+    {
+      "start": 40.24,
+      "end": 45.16,
+      "text": "  We're your host, Nick and Moiz. Let's start talking about money."
+    },
+    {
+      "start": 45.16,
+      "end": 49.22,
+      "text": "  Nick, the first decade in e-commerce was all about customer acquisition with Facebook,"
+    },
+    {
+      "start": 49.22,
+      "end": 53.68,
+      "text": "  Google and Snap. The next decade of e-commerce is going to be all about customer retention."
+    },
+    {
+      "start": 53.68,
+      "end": 57.08,
+      "text": "  Now, at the end of the day, you've got to look at what's left in the bank account when"
+    },
+    {
+      "start": 57.08,
+      "end": 61,
+      "text": "  all is set and done, what's the contribution margin look like, and how much profit is there"
+    },
+    {
+      "start": 61,
+      "end": 64.72,
+      "text": "  that will fund my next purchase order or my next ad candle."
+    },
+    {
+      "start": 64.72,
+      "end": 68.1,
+      "text": "  With your AOV, I bet your customers would have loved the loyalty program. When I was"
+    },
+    {
+      "start": 68.1,
+      "end": 72.52,
+      "text": "  at Hint, our loyalty program was incredible, but it was too outdated."
+    },
+    {
+      "start": 72.52,
+      "end": 76.22,
+      "text": "  That's why I'm so excited that we're partnering with Tandem for this season. Tandem is the"
+    },
+    {
+      "start": 76.22,
+      "end": 80.2,
+      "text": "  infrastructure that allows brands to launch their own branded credit cards in less than"
+    },
+    {
+      "start": 80.2,
+      "end": 85.92,
+      "text": "  48 hours. With branded cards from Tandem, you cut processing fees by 66% and use their"
+    },
+    {
+      "start": 85.92,
+      "end": 89.24,
+      "text": "  suite of tools to improve your contribution margin by up to 10%."
+    },
+    {
+      "start": 89.24,
+      "end": 94.08,
+      "text": "  Book your demo with Tandem and see how branded payments can level up your business. If you"
+    },
+    {
+      "start": 94.08,
+      "end": 99.36,
+      "text": "  go to ddc.creditcard in your browser, you'll even get a $100 Amazon gift card to take a"
+    },
+    {
+      "start": 99.36,
+      "end": 106.8,
+      "text": "  demo. That's dtc.creditcard and book a demo to see how you can maximize contribution margin."
+    },
+    {
+      "start": 106.8,
+      "end": 113.04,
+      "text": "  Okay, Nick, we're back with the next episode of season seven. We're going to do a big breakdown"
+    },
+    {
+      "start": 113.04,
+      "end": 117.52,
+      "text": "  of a report that you're looking at. Then we've got some email stuff to talk about because"
+    },
+    {
+      "start": 117.52,
+      "end": 122.72,
+      "text": "  Google has made the changes. We're recording on February 4th and so the changes that Google"
+    },
+    {
+      "start": 122.72,
+      "end": 126.08,
+      "text": "  made for emails is now live. We want to talk about that as well."
+    },
+    {
+      "start": 126.08,
+      "end": 128.8,
+      "text": "  Let's start with this report. Tell us a little bit about it."
+    },
+    {
+      "start": 128.8,
+      "end": 136.16,
+      "text": "  Okay, so this is a report that we mentioned it before. You can get it by going to nik.co/report."
+    },
+    {
+      "start": 136.16,
+      "end": 143.04,
+      "text": "  It's basically a report on how advertisers are planning to spend their media in 2024."
+    },
+    {
+      "start": 143.04,
+      "end": 149.76,
+      "text": "  I went through it again with our media team and was just thinking about and talking about"
+    },
+    {
+      "start": 149.76,
+      "end": 156.48,
+      "text": "  some of the channels that are not necessarily the ones everybody thinks of. Social and search"
+    },
+    {
+      "start": 156.48,
+      "end": 161.6,
+      "text": "  and just general digital channels. The two channels that I thought didn't get enough"
+    },
+    {
+      "start": 161.6,
+      "end": 167.2,
+      "text": "  love in this report compared to what we see works well were podcast and TV. I wanted to talk about"
+    },
+    {
+      "start": 167.2,
+      "end": 174.48,
+      "text": "  that. Then there was also a lot of skepticism we saw in terms of myths from TV. That was another"
+    },
+    {
+      "start": 174.48,
+      "end": 179.68,
+      "text": "  one I wanted to talk about is the TV myths and breaking down or myth busting those myths."
+    },
+    {
+      "start": 179.68,
+      "end": 185.92,
+      "text": "  Let's start with the first one, the podcast and TV. I was trying to think, how do we look at the"
+    },
+    {
+      "start": 185.92,
+      "end": 191.44,
+      "text": "  role of podcast and TV in a mixed media channel strategy? Typically, this is something that"
+    },
+    {
+      "start": 191.44,
+      "end": 196.56,
+      "text": "  gets introduced when brands are already starting to spend pretty aggressively on digital. They've"
+    },
+    {
+      "start": 196.56,
+      "end": 201.04,
+      "text": "  launched, they're getting their customers, they're scaling, they've found messaging that works in"
+    },
+    {
+      "start": 201.04,
+      "end": 208.48,
+      "text": "  an offer and they're continuing to scale. Usually around the range of 800K in paid social spend"
+    },
+    {
+      "start": 208.48,
+      "end": 214.24,
+      "text": "  between there and maybe a couple million a month is when I usually see other channels start to"
+    },
+    {
+      "start": 214.24,
+      "end": 221.2,
+      "text": "  leach in or get allocation for test budget. Sorry, just so I understand that what you're saying is"
+    },
+    {
+      "start": 221.2,
+      "end": 227.36,
+      "text": "  when a brand starts spending $800,000 minimum on social media, that's when you start thinking about"
+    },
+    {
+      "start": 227.36,
+      "end": 233.12,
+      "text": "  ads outside of social media. Off Google, off Facebook, off Instagram, off TikTok,"
+    },
+    {
+      "start": 233.12,
+      "end": 237.28,
+      "text": "  off Pinterest. That when you're like, hey, look, podcast, TV, now V has become low."
+    },
+    {
+      "start": 237.28,
+      "end": 242.56,
+      "text": "  It's usually because at that level of spend, it's hard to just keep continuing"
+    },
+    {
+      "start": 242.56,
+      "end": 248.56,
+      "text": "  running lower funnel ads. You want to figure out how to get more top of funnel, more awareness,"
+    },
+    {
+      "start": 248.56,
+      "end": 253.6,
+      "text": "  more middle of funnel. You're making me smile when you say that."
+    },
+    {
+      "start": 253.6,
+      "end": 255.52,
+      "text": "  I don't know. You had a smirk."
+    },
+    {
+      "start": 255.52,
+      "end": 261.52,
+      "text": "  You know, what I was thinking is, I remember when I was running ads for native,"
+    },
+    {
+      "start": 261.52,
+      "end": 267.6,
+      "text": "  I talked to Brian Lee who founded Honest Co and it would probably have a $20 million run,"
+    },
+    {
+      "start": 267.6,
+      "end": 273.6,
+      "text": "  and he's like, look, Facebook will get you to $30 to $50 million in revenue, and then afterwards,"
+    },
+    {
+      "start": 273.6,
+      "end": 276.8,
+      "text": "  you're going to need to find new channels, you're going to have to look at podcasts and TV."
+    },
+    {
+      "start": 276.8,
+      "end": 279.84,
+      "text": "  I also think that's changed a little bit. I think it seems a lot."
+    },
+    {
+      "start": 279.84,
+      "end": 285.12,
+      "text": "  I think the yundies and bomb the socks were built on podcasts because they were touching a channel"
+    },
+    {
+      "start": 285.12,
+      "end": 290.56,
+      "text": "  that nobody else was touching, and now that's not the case anymore. Podcasts or wars have gotten"
+    },
+    {
+      "start": 290.56,
+      "end": 296.96,
+      "text": "  more sophisticated, and so brands, and so you can't necessarily start on podcast."
+    },
+    {
+      "start": 296.96,
+      "end": 303.04,
+      "text": "  Yeah, fully agree. I think even some of the brands we work with, there's very,"
+    },
+    {
+      "start": 303.04,
+      "end": 307.28,
+      "text": "  very few that I come across that have actually built a huge business."
+    },
+    {
+      "start": 307.28,
+      "end": 312.72,
+      "text": "  Let's call it 20 million plus a year, solely off the back of Facebook."
+    },
+    {
+      "start": 312.72,
+      "end": 318.4,
+      "text": "  I mean, there obviously are, I could name probably a few, but at some level,"
+    },
+    {
+      "start": 318.4,
+      "end": 323.04,
+      "text": "  these, you know, it's hard to like break through the noise, and so that's where I do think adding"
+    },
+    {
+      "start": 323.04,
+      "end": 328.16,
+      "text": "  a channel like podcast or TV, which acts as sort of that awareness, but also validation"
+    },
+    {
+      "start": 328.8,
+      "end": 334.64,
+      "text": "  helps to bring or, you know, make more efficient use of the lower funnel digital spend."
+    },
+    {
+      "start": 334.64,
+      "end": 340,
+      "text": "  You know, I used to think that like people who said television because of validation were"
+    },
+    {
+      "start": 340,
+      "end": 344.4,
+      "text": "  like ridiculous and like, it doesn't make any sense. My business is doing $40 million in"
+    },
+    {
+      "start": 344.4,
+      "end": 349.2,
+      "text": "  revenue. It's validated. But the reality is, I think that's actually really true. A lot of times,"
+    },
+    {
+      "start": 349.2,
+      "end": 353.68,
+      "text": "  when people see Facebook ads, you know, I still remember the number of comments I used to get"
+    },
+    {
+      "start": 353.68,
+      "end": 357.12,
+      "text": "  for Facebook ads and people would be like, this is scam. This is scam. Is this a scam?"
+    },
+    {
+      "start": 357.68,
+      "end": 361.44,
+      "text": "  I ordered three days ago. I haven't received it. Scam, scam, scam, scam. I ordered this morning."
+    },
+    {
+      "start": 361.44,
+      "end": 364.64,
+      "text": "  I've ever received it. Scam. I got charged for a recurring subscription. This is scam."
+    },
+    {
+      "start": 364.64,
+      "end": 367.68,
+      "text": "  And like, you know, people who are reading the comments and singing these digital ads will be"
+    },
+    {
+      "start": 367.68,
+      "end": 371.84,
+      "text": "  like, yes, this is a scam or like, even somebody saying, you know, you could have a thousand comments,"
+    },
+    {
+      "start": 371.84,
+      "end": 376.32,
+      "text": "  $999 or positive. One is I didn't get my product. This is scam. And I'd be like, maybe I shouldn't"
+    },
+    {
+      "start": 376.32,
+      "end": 380.96,
+      "text": "  buy this. Yeah. TV doesn't have that issue. You see things on TV. For some reason, you're like,"
+    },
+    {
+      "start": 380.96,
+      "end": 386.16,
+      "text": "  this brand exists. They spent a lot of money. This creative is sophisticated. It does offer a lot of"
+    },
+    {
+      "start": 386.16,
+      "end": 388.88,
+      "text": "  validity in the way that digital ads go. Yeah."
+    },
+    {
+      "start": 388.88,
+      "end": 393.52,
+      "text": "  Fully agree. You don't see Chinese drop shippers or running TV ads. Like they just don't do that."
+    },
+    {
+      "start": 393.52,
+      "end": 399.12,
+      "text": "  Yeah. Well, like, obviously I agree with your point. I think TV adds a certain level of validation"
+    },
+    {
+      "start": 399.12,
+      "end": 403.68,
+      "text": "  that, oh, wow, they're on TV. They're not just running. It's not just a Facebook ad or an Instagram"
+    },
+    {
+      "start": 403.68,
+      "end": 408.96,
+      "text": "  ad, which now I think everybody pretty much knows anybody can run one of those. Like, you can boost"
+    },
+    {
+      "start": 408.96,
+      "end": 414.8,
+      "text": "  your own photos to get more likes now. But with TV, not only do you get that, but it's like, you"
+    },
+    {
+      "start": 414.8,
+      "end": 420.72,
+      "text": "  have to, whatever gets advertised, you have to provide claims for. We had a supplement brand recently"
+    },
+    {
+      "start": 420.72,
+      "end": 428.24,
+      "text": "  that went to basically put a large order in for TV and everything that their site or their ad"
+    },
+    {
+      "start": 428.24,
+      "end": 434,
+      "text": "  mentions as even helps. So not like, hey, this will make your sleep better, but this will help"
+    },
+    {
+      "start": 434,
+      "end": 438.48,
+      "text": "  your sleep or improve your sleep. You have to provide claims for everything there as well."
+    },
+    {
+      "start": 438.48,
+      "end": 441.92,
+      "text": "  Yeah. Yeah. When we were running Native, I remember we went to like,"
+    },
+    {
+      "start": 442.96,
+      "end": 447.68,
+      "text": "  I actually I remember it because it was Fox and we said the Internet's best-selling"
+    },
+    {
+      "start": 447.68,
+      "end": 450.4,
+      "text": "  deodorant and they're like, you need to prove that this is the Internet's best-selling"
+    },
+    {
+      "start": 450.4,
+      "end": 455.36,
+      "text": "  deodorant. And we're like, look, we're the number one seller on Amazon and we're an Internet brand."
+    },
+    {
+      "start": 455.36,
+      "end": 458.8,
+      "text": "  Like, you know, we're obviously the Internet's best-selling deodorant and they're like, no,"
+    },
+    {
+      "start": 458.8,
+      "end": 463.84,
+      "text": "  you can't, you have to prove this. And this was a time when we were part of P\u0026G and P\u0026G's legal"
+    },
+    {
+      "start": 463.84,
+      "end": 467.76,
+      "text": "  counsel was like, oh, we like sent it to them and we're like, do we have to prove how do we prove"
+    },
+    {
+      "start": 467.76,
+      "end": 473.76,
+      "text": "  this? And they're like, I've never seen Fox ask for validation. They'll, they'll, they're like,"
+    },
+    {
+      "start": 473.76,
+      "end": 478.4,
+      "text": "  I've seen it from ABC, I've seen it from NBC, but they're like, Fox is asking, you guys are"
+    },
+    {
+      "start": 478.4,
+      "end": 482.88,
+      "text": "  fucked. You have no chance. They've never had no to anything and they just said, you guys are"
+    },
+    {
+      "start": 482.88,
+      "end": 486.96,
+      "text": "  fucked. And they knew that this time you were a part of P\u0026G. Yeah, this time they knew that"
+    },
+    {
+      "start": 486.96,
+      "end": 492.16,
+      "text": "  we were a part of, yeah. They do. It's like, actually, my mom's name is Internet and it's her favorite"
+    },
+    {
+      "start": 492.16,
+      "end": 501.04,
+      "text": "  brand. Yeah, it's insane. Okay. So moist with TV and podcasts in this report,"
+    },
+    {
+      "start": 501.04,
+      "end": 507.68,
+      "text": "  only 27% of people said that they plan to use podcasts and only 17% of people said they plan"
+    },
+    {
+      "start": 507.68,
+      "end": 514.16,
+      "text": "  to use TV. However, in my experience, I'm curious about yours. Anytime you add TV on to your digital"
+    },
+    {
+      "start": 514.16,
+      "end": 520.56,
+      "text": "  performance spend, your social finds ways to find, you know, get in front of new people. And search"
+    },
+    {
+      "start": 520.56,
+      "end": 526,
+      "text": "  also allows you to create this funnel that you can directly attribute to TV and just capture"
+    },
+    {
+      "start": 526,
+      "end": 530.64,
+      "text": "  more high intent users. And of course you can use attribution tools like NorthBeam because they"
+    },
+    {
+      "start": 530.64,
+      "end": 537.2,
+      "text": "  know exactly when your commercial aired and how to basically attribute traffic spikes or conversion"
+    },
+    {
+      "start": 537.2,
+      "end": 541.68,
+      "text": "  spikes, things like that. Yeah, I think there's a lot of truth to what you said, but there's some"
+    },
+    {
+      "start": 541.68,
+      "end": 546.64,
+      "text": "  stuff that I disagree with. So, um, yes, uh, not surprising that's, you know, only a certain"
+    },
+    {
+      "start": 546.64,
+      "end": 551.04,
+      "text": "  percentage of people wanted to use TV and podcasts just because, you know, if you're a brand doing"
+    },
+    {
+      "start": 551.04,
+      "end": 556.16,
+      "text": "  $5 million in sales a month, you're not going to like be able to afford those things. I do think"
+    },
+    {
+      "start": 556.16,
+      "end": 561.12,
+      "text": "  that there is a halo effect that TV brings that nothing else like nothing like it brings like,"
+    },
+    {
+      "start": 561.74,
+      "end": 563.46,
+      "text": "  recognize your brand, they see it,"
+    },
+    {
+      "start": 563.46,
+      "end": 565.54,
+      "text": "  there is that stamp of validity."
+    },
+    {
+      "start": 565.54,
+      "end": 567.06,
+      "text": "  And I think that there's like a stamp of,"
+    },
+    {
+      "start": 567.06,
+      "end": 569.78,
+      "text": "  like, you know, that stamp of validity extends in stores"
+    },
+    {
+      "start": 569.78,
+      "end": 571.18,
+      "text": "  and in social media."
+    },
+    {
+      "start": 571.18,
+      "end": 573.34,
+      "text": "  So advertised on, when Native advertised on TV,"
+    },
+    {
+      "start": 573.34,
+      "end": 576.22,
+      "text": "  I felt like the people saw our ad on Facebook."
+    },
+    {
+      "start": 576.22,
+      "end": 578.58,
+      "text": "  They're like, \"Oh yeah, I've seen this brand elsewhere.\""
+    },
+    {
+      "start": 578.58,
+      "end": 581.1,
+      "text": "  When they were walking by our products on our end caps"
+    },
+    {
+      "start": 581.1,
+      "end": 583.46,
+      "text": "  at Target, they're like, \"Oh yeah, I saw this brand"
+    },
+    {
+      "start": 583.46,
+      "end": 585.94,
+      "text": "  \"on television when I was watching some show.\""
+    },
+    {
+      "start": 585.94,
+      "end": 587.74,
+      "text": "  And so I think there is that halo effect,"
+    },
+    {
+      "start": 587.74,
+      "end": 591.18,
+      "text": "  which is impossible to quantify."
+    },
+    {
+      "start": 591.18,
+      "end": 593.02,
+      "text": "  And I would say the attribution,"
+    },
+    {
+      "start": 593.02,
+      "end": 594.78,
+      "text": "  the measuring part is the hardest part"
+    },
+    {
+      "start": 594.78,
+      "end": 599.58,
+      "text": "  because yes, NorthBeam might know when my TV ad aired"
+    },
+    {
+      "start": 599.58,
+      "end": 602.26,
+      "text": "  and they might be like, \"Right, it aired at 6 p.m.\""
+    },
+    {
+      "start": 602.26,
+      "end": 605.06,
+      "text": "  Or 6.04 p.m. on East Coast."
+    },
+    {
+      "start": 605.06,
+      "end": 606.98,
+      "text": "  Let's see the spike in traffic."
+    },
+    {
+      "start": 606.98,
+      "end": 608.74,
+      "text": "  The reality is some of that halo effect"
+    },
+    {
+      "start": 608.74,
+      "end": 610.42,
+      "text": "  never gets calculated."
+    },
+    {
+      "start": 610.42,
+      "end": 612.18,
+      "text": "  And I think that the reality is also, you know,"
+    },
+    {
+      "start": 612.18,
+      "end": 615.18,
+      "text": "  if there's enough people watching on DVRs or YouTube TV"
+    },
+    {
+      "start": 615.18,
+      "end": 617.5,
+      "text": "  or just like, \"Okay, I saw a commercial,"
+    },
+    {
+      "start": 617.5,
+      "end": 619.78,
+      "text": "  \"then I saw a Facebook ad, then it converted.\""
+    },
+    {
+      "start": 619.78,
+      "end": 621.58,
+      "text": "  I always thought when I was running these ads"
+    },
+    {
+      "start": 621.58,
+      "end": 623.7,
+      "text": "  that attribution was really hard to do,"
+    },
+    {
+      "start": 623.7,
+      "end": 626.5,
+      "text": "  but I did feel like there was an overall effect."
+    },
+    {
+      "start": 626.5,
+      "end": 629.62,
+      "text": "  - Yeah, I used to always say like the only way"
+    },
+    {
+      "start": 629.62,
+      "end": 632.98,
+      "text": "  we will fully, fully understand attribution"
+    },
+    {
+      "start": 632.98,
+      "end": 637.62,
+      "text": "  is when MetaZuck has put like a contact lens in our eyes."
+    },
+    {
+      "start": 637.62,
+      "end": 640.58,
+      "text": "  Might be sooner than later with Apple Vision Pro."
+    },
+    {
+      "start": 640.58,
+      "end": 643.98,
+      "text": "  - Yeah, look, I wanna wear that contact lens."
+    },
+    {
+      "start": 643.98,
+      "end": 646.82,
+      "text": "  By the way, did you order an Apple Vision Pro?"
+    },
+    {
+      "start": 646.82,
+      "end": 649.74,
+      "text": "  - I've resisted so far, but I saw this example"
+    },
+    {
+      "start": 649.74,
+      "end": 651.02,
+      "text": "  'cause did you see that video"
+    },
+    {
+      "start": 651.02,
+      "end": 653.68,
+      "text": "  where the guy was sitting in coach in a middle,"
+    },
+    {
+      "start": 653.68,
+      "end": 656.58,
+      "text": "  or in an aisle seat on a flight in coach?"
+    },
+    {
+      "start": 656.58,
+      "end": 658.46,
+      "text": "  And he was, you know, he looked pretty cramp,"
+    },
+    {
+      "start": 658.46,
+      "end": 661.1,
+      "text": "  but then he had this 40 inch screen in front of him"
+    },
+    {
+      "start": 661.1,
+      "end": 663.66,
+      "text": "  that was basically his laptop that he airplayed."
+    },
+    {
+      "start": 663.66,
+      "end": 664.94,
+      "text": "  So he had his laptop closed,"
+    },
+    {
+      "start": 664.94,
+      "end": 666.78,
+      "text": "  he was just using the keyboard and mouse,"
+    },
+    {
+      "start": 666.78,
+      "end": 668.42,
+      "text": "  basically looking up any of that."
+    },
+    {
+      "start": 668.42,
+      "end": 669.46,
+      "text": "  And then he looks to the left"
+    },
+    {
+      "start": 669.46,
+      "end": 672.02,
+      "text": "  and it's like the basketball game that he's watching."
+    },
+    {
+      "start": 672.02,
+      "end": 673.38,
+      "text": "  That made me-- - That's awesome, you know."
+    },
+    {
+      "start": 673.38,
+      "end": 674.9,
+      "text": "  - And wanting to use it. - Yeah."
+    },
+    {
+      "start": 674.9,
+      "end": 676.98,
+      "text": "  I feel like he can be very productive."
+    },
+    {
+      "start": 676.98,
+      "end": 678.18,
+      "text": "  - It does look awesome."
+    },
+    {
+      "start": 679.42,
+      "end": 682.06,
+      "text": "  - Okay, so, all right, another segment here."
+    },
+    {
+      "start": 682.06,
+      "end": 685.62,
+      "text": "  Moving on from the media mix is the top TV myths."
+    },
+    {
+      "start": 685.62,
+      "end": 686.94,
+      "text": "  And I think you're gonna like this"
+    },
+    {
+      "start": 686.94,
+      "end": 690.38,
+      "text": "  because we're talking about basically measurement,"
+    },
+    {
+      "start": 690.38,
+      "end": 692.74,
+      "text": "  the cost of production and the cost of testing,"
+    },
+    {
+      "start": 692.74,
+      "end": 693.74,
+      "text": "  but in the measurement thing,"
+    },
+    {
+      "start": 693.74,
+      "end": 696.38,
+      "text": "  I've got a little golden nugget that I think you're gonna love."
+    },
+    {
+      "start": 696.38,
+      "end": 698.22,
+      "text": "  So did you know that the old way"
+    },
+    {
+      "start": 698.22,
+      "end": 700.86,
+      "text": "  of getting TV ratings is basically,"
+    },
+    {
+      "start": 700.86,
+      "end": 703.26,
+      "text": "  there's 40,000 people that are chosen at random"
+    },
+    {
+      "start": 703.26,
+      "end": 705.86,
+      "text": "  to participate in a massive survey."
+    },
+    {
+      "start": 705.86,
+      "end": 708.82,
+      "text": "  And based on what those 40,000 people say,"
+    },
+    {
+      "start": 708.82,
+      "end": 711.58,
+      "text": "  \"They watch, they like, they dislike.\""
+    },
+    {
+      "start": 711.58,
+      "end": 714.66,
+      "text": "  Whatever that percentage of users that says that"
+    },
+    {
+      "start": 714.66,
+      "end": 717.86,
+      "text": "  out of 40,000 people is then directly applied"
+    },
+    {
+      "start": 717.86,
+      "end": 719.9,
+      "text": "  to national TV ratings."
+    },
+    {
+      "start": 719.9,
+      "end": 724.18,
+      "text": "  So if 10% of people watch Ramon Pitch Genius Litter"
+    },
+    {
+      "start": 724.18,
+      "end": 727.62,
+      "text": "  on Shark Tank on Friday and they reported that,"
+    },
+    {
+      "start": 727.62,
+      "end": 729.58,
+      "text": "  they'd say that the 10% of the country"
+    },
+    {
+      "start": 729.58,
+      "end": 731.5,
+      "text": "  saw Ramon Pitch on Shark Tank."
+    },
+    {
+      "start": 731.5,
+      "end": 735.38,
+      "text": "  And the funniest part is these 40,000 people,"
+    },
+    {
+      "start": 735.38,
+      "end": 737.34,
+      "text": "  do you know how they get compensated?"
+    },
+    {
+      "start": 737.34,
+      "end": 740.86,
+      "text": "  - Yeah, I do, they put like $4 for $1 bills."
+    },
+    {
+      "start": 740.86,
+      "end": 742.62,
+      "text": "  It didn't end well if they mailed to you."
+    },
+    {
+      "start": 742.62,
+      "end": 745.58,
+      "text": "  And I know that because twice I've gotten the envelope"
+    },
+    {
+      "start": 745.58,
+      "end": 747.06,
+      "text": "  and I've gotten the dollars and I'm like,"
+    },
+    {
+      "start": 747.06,
+      "end": 749.3,
+      "text": "  \"Fucking A, yes.\""
+    },
+    {
+      "start": 749.3,
+      "end": 751.5,
+      "text": "  Like I remember one time I almost threw it out"
+    },
+    {
+      "start": 751.5,
+      "end": 752.34,
+      "text": "  and I opened it up and I was like,"
+    },
+    {
+      "start": 752.34,
+      "end": 755.5,
+      "text": "  \"There's $4 in here, this is awesome.\""
+    },
+    {
+      "start": 755.5,
+      "end": 759.02,
+      "text": "  And they're all $1 bills and they're Christmas fuck."
+    },
+    {
+      "start": 759.02,
+      "end": 760.54,
+      "text": "  I know exactly how they get compensated."
+    },
+    {
+      "start": 760.54,
+      "end": 762.34,
+      "text": "  I've got it twice in my life."
+    },
+    {
+      "start": 762.34,
+      "end": 764.28,
+      "text": "  And I get so excited when I see it."
+    },
+    {
+      "start": 764.28,
+      "end": 766.26,
+      "text": "  - What was the exchange of the $4?"
+    },
+    {
+      "start": 766.26,
+      "end": 769.02,
+      "text": "  They pay you $4 and they're like,"
+    },
+    {
+      "start": 769.02,
+      "end": 771.62,
+      "text": "  \"Here's the survey, please fill it out.\""
+    },
+    {
+      "start": 771.62,
+      "end": 772.98,
+      "text": "  And I assume that if you fill it out,"
+    },
+    {
+      "start": 772.98,
+      "end": 775.16,
+      "text": "  you're more likely to get the survey in the future."
+    },
+    {
+      "start": 775.16,
+      "end": 777.02,
+      "text": "  Although I'm not even sure that's the case,"
+    },
+    {
+      "start": 777.02,
+      "end": 780.62,
+      "text": "  but they pay you the money before you do the survey."
+    },
+    {
+      "start": 780.62,
+      "end": 781.46,
+      "text": "  - Wow."
+    },
+    {
+      "start": 781.46,
+      "end": 785.26,
+      "text": "  - It feels like you just won the lottery."
+    },
+    {
+      "start": 785.26,
+      "end": 787.58,
+      "text": "  And I mean, I know it's $4, but like,"
+    },
+    {
+      "start": 787.58,
+      "end": 789.1,
+      "text": "  it changes my whole weekend."
+    },
+    {
+      "start": 789.1,
+      "end": 791.1,
+      "text": "  I'm like, \"That's it, I did it.\""
+    },
+    {
+      "start": 791.1,
+      "end": 792.1,
+      "text": "  I made these followers."
+    },
+    {
+      "start": 792.1,
+      "end": 792.94,
+      "text": "  - I'm falling."
+    },
+    {
+      "start": 792.94,
+      "end": 793.76,
+      "text": "  - I'm falling."
+    },
+    {
+      "start": 793.76,
+      "end": 794.6,
+      "text": "  - Everybody's getting four dollars."
+    },
+    {
+      "start": 794.6,
+      "end": 797.02,
+      "text": "  (laughing)"
+    },
+    {
+      "start": 797.02,
+      "end": 798.32,
+      "text": "  - Yeah, I get so excited about it."
+    },
+    {
+      "start": 798.32,
+      "end": 799.16,
+      "text": "  It comes down."
+    },
+    {
+      "start": 799.16,
+      "end": 800.64,
+      "text": "  - I really wanna get a jury duty"
+    },
+    {
+      "start": 800.64,
+      "end": 803.4,
+      "text": "  'cause I wanna get put into some cool case."
+    },
+    {
+      "start": 803.4,
+      "end": 804.74,
+      "text": "  And I really wanna get the four dollars."
+    },
+    {
+      "start": 804.74,
+      "end": 806.64,
+      "text": "  Those are the two things that I haven't gotten"
+    },
+    {
+      "start": 806.64,
+      "end": 807.48,
+      "text": "  that I want to get."
+    },
+    {
+      "start": 807.48,
+      "end": 808.32,
+      "text": "  - Yeah, yeah."
+    },
+    {
+      "start": 808.32,
+      "end": 809.68,
+      "text": "  You're gonna get to jury duty"
+    },
+    {
+      "start": 809.68,
+      "end": 810.52,
+      "text": "  and they're gonna be like,"
+    },
+    {
+      "start": 810.52,
+      "end": 813.32,
+      "text": "  \"This guy broke into a car"
+    },
+    {
+      "start": 813.32,
+      "end": 814.2,
+      "text": "  and you're gonna have to sit there"
+    },
+    {
+      "start": 814.2,
+      "end": 815.4,
+      "text": "  so we can listen to it.\""
+    },
+    {
+      "start": 815.4,
+      "end": 816.24,
+      "text": "  - For a week."
+    },
+    {
+      "start": 816.24,
+      "end": 817.32,
+      "text": "  - And you're like, \" here he is on tape"
+    },
+    {
+      "start": 817.32,
+      "end": 818.94,
+      "text": "  and then he admitted it."
+    },
+    {
+      "start": 818.94,
+      "end": 820.28,
+      "text": "  And now he's saying he didn't do it."
+    },
+    {
+      "start": 820.28,
+      "end": 822.16,
+      "text": "  And you're gonna be like, \"Oh fuck.\""
+    },
+    {
+      "start": 822.16,
+      "end": 824.36,
+      "text": "  - So that's how the old way of ratings was done."
+    },
+    {
+      "start": 824.36,
+      "end": 825.2,
+      "text": "  - Yeah."
+    },
+    {
+      "start": 825.2,
+      "end": 826.86,
+      "text": "  - And it's really hard to do measurement now."
+    },
+    {
+      "start": 826.86,
+      "end": 830.72,
+      "text": "  So I was trying to think what TV,"
+    },
+    {
+      "start": 830.72,
+      "end": 832.56,
+      "text": "  'cause do you remember a few seasons ago"
+    },
+    {
+      "start": 832.56,
+      "end": 836.64,
+      "text": "  we talked about the laser flare"
+    },
+    {
+      "start": 836.64,
+      "end": 839.2,
+      "text": "  or the as seen on TV."
+    },
+    {
+      "start": 839.2,
+      "end": 841.6,
+      "text": "  We started talking about AJ Kubani."
+    },
+    {
+      "start": 841.6,
+      "end": 842.44,
+      "text": "  Oh, Lizard Flare."
+    },
+    {
+      "start": 842.44,
+      "end": 844.24,
+      "text": "  That was the product I'd found."
+    },
+    {
+      "start": 844.24,
+      "end": 846.68,
+      "text": "  And that was interesting because I was like,"
+    },
+    {
+      "start": 846.68,
+      "end": 848.36,
+      "text": "  all right, these guys are,"
+    },
+    {
+      "start": 848.36,
+      "end": 850.64,
+      "text": "  basically their whole playbook is TV."
+    },
+    {
+      "start": 850.64,
+      "end": 852.68,
+      "text": "  Like they understand TV."
+    },
+    {
+      "start": 852.68,
+      "end": 854.88,
+      "text": "  They reverse engineer product market fit"
+    },
+    {
+      "start": 854.88,
+      "end": 857.46,
+      "text": "  based on what they know is gonna work well on TV."
+    },
+    {
+      "start": 857.46,
+      "end": 860.36,
+      "text": "  So I started to think who are the best TV advertisers"
+    },
+    {
+      "start": 860.36,
+      "end": 862.12,
+      "text": "  that I know of in terms,"
+    },
+    {
+      "start": 862.12,
+      "end": 864.32,
+      "text": "  not in terms of production or creative,"
+    },
+    {
+      "start": 864.32,
+      "end": 867.48,
+      "text": "  but like tactically and strategically."
+    },
+    {
+      "start": 867.48,
+      "end": 869.72,
+      "text": "  And the two advertisers I thought about,"
+    },
+    {
+      "start": 869.72,
+      "end": 872.92,
+      "text": "  one was MyPillow and one was Guthy Ranker,"
+    },
+    {
+      "start": 872.92,
+      "end": 875.76,
+      "text": "  which basically they manage the TV advertising"
+    },
+    {
+      "start": 875.76,
+      "end": 879,
+      "text": "  for companies like Proactive early in the day."
+    },
+    {
+      "start": 879,
+      "end": 882,
+      "text": "  They either owned or were a majority partner"
+    },
+    {
+      "start": 882,
+      "end": 886.04,
+      "text": "  in IT Cosmetics and they also launched JLo Beauty"
+    },
+    {
+      "start": 886.04,
+      "end": 888.04,
+      "text": "  with Jennifer Lopez."
+    },
+    {
+      "start": 888.04,
+      "end": 891.08,
+      "text": "  And basically the way that they do it is,"
+    },
+    {
+      "start": 891.08,
+      "end": 893.4,
+      "text": "  they launch all these creatives at scale"
+    },
+    {
+      "start": 893.4,
+      "end": 897.08,
+      "text": "  and then they use their own sort of form of attribution"
+    },
+    {
+      "start": 897.08,
+      "end": 898.8,
+      "text": "  to figure out which ones work."
+    },
+    {
+      "start": 898.8,
+      "end": 902.76,
+      "text": "  So if you go to nik.co/mypillowads,"
+    },
+    {
+      "start": 902.76,
+      "end": 904.12,
+      "text": "  you will see it's just a redirect."
+    },
+    {
+      "start": 904.12,
+      "end": 907.48,
+      "text": "  It goes to iSpotTV's ad library for MyPillow."
+    },
+    {
+      "start": 907.48,
+      "end": 910.32,
+      "text": "  You'll see tons of creatives."
+    },
+    {
+      "start": 910.32,
+      "end": 913.68,
+      "text": "  And basically what they do is they use a combination"
+    },
+    {
+      "start": 913.68,
+      "end": 918.04,
+      "text": "  of unique coupon codes, vanity URLs and phone numbers."
+    },
+    {
+      "start": 918.04,
+      "end": 920.76,
+      "text": "  So different phone numbers will then attribute you"
+    },
+    {
+      "start": 920.76,
+      "end": 924.2,
+      "text": "  differently in their back end system or in their CRM."
+    },
+    {
+      "start": 924.2,
+      "end": 927.68,
+      "text": "  And they basically start, the same way that we,"
+    },
+    {
+      "start": 927.68,
+      "end": 932.04,
+      "text": "  you might put an ad up on Facebook, six ads and an ad set,"
+    },
+    {
+      "start": 932.04,
+      "end": 934.4,
+      "text": "  turn it on, you see sort of which ones are getting the clicks"
+    },
+    {
+      "start": 934.4,
+      "end": 936,
+      "text": "  and you quickly start turning them off."
+    },
+    {
+      "start": 936,
+      "end": 939.36,
+      "text": "  They're basically doing that using unique coupon codes,"
+    },
+    {
+      "start": 939.36,
+      "end": 942.36,
+      "text": "  vanity URLs and phone numbers as the inputs,"
+    },
+    {
+      "start": 942.36,
+      "end": 944.72,
+      "text": "  looking at that data and then deciding what to cut"
+    },
+    {
+      "start": 944.72,
+      "end": 945.84,
+      "text": "  and what to keep pushing."
+    },
+    {
+      "start": 945.84,
+      "end": 949.12,
+      "text": "  And what to, you know, then create based on that."
+    },
+    {
+      "start": 949.12,
+      "end": 951.28,
+      "text": "  - You and I both had lunch with AJ Kubani"
+    },
+    {
+      "start": 951.28,
+      "end": 953.44,
+      "text": "  and I think it was separately."
+    },
+    {
+      "start": 953.44,
+      "end": 955.48,
+      "text": "  And I remember when I chatted with him,"
+    },
+    {
+      "start": 955.48,
+      "end": 957.96,
+      "text": "  he was basically thinking about TV ads"
+    },
+    {
+      "start": 957.96,
+      "end": 960.4,
+      "text": "  the same way you and I think about Facebook ads."
+    },
+    {
+      "start": 960.4,
+      "end": 961.68,
+      "text": "  And I was shocked at that."
+    },
+    {
+      "start": 961.68,
+      "end": 962.96,
+      "text": "  'Cause I was like, you know, it costs so much"
+    },
+    {
+      "start": 962.96,
+      "end": 964.8,
+      "text": "  to make these, to make the creative."
+    },
+    {
+      "start": 964.8,
+      "end": 967,
+      "text": "  You know, you've got to do so much iteration."
+    },
+    {
+      "start": 967,
+      "end": 968.36,
+      "text": "  You don't know what works and what doesn't."
+    },
+    {
+      "start": 968.36,
+      "end": 970.06,
+      "text": "  And he's like, are you crazy?"
+    },
+    {
+      "start": 970.06,
+      "end": 972.84,
+      "text": "  You know, I've got the guy from Home Improvement,"
+    },
+    {
+      "start": 972.84,
+      "end": 977.1,
+      "text": "  not like Tim the Toolman and Taylor but Al, his boy."
+    },
+    {
+      "start": 977.1,
+      "end": 980.12,
+      "text": "  And he does like 40 videos with me"
+    },
+    {
+      "start": 980.12,
+      "end": 981.52,
+      "text": "  for this garden thing that I'm running."
+    },
+    {
+      "start": 981.52,
+      "end": 983.36,
+      "text": "  And you know, we have different, you know,"
+    },
+    {
+      "start": 983.36,
+      "end": 984.8,
+      "text": "  and he thought about it just the way"
+    },
+    {
+      "start": 984.8,
+      "end": 986.86,
+      "text": "  we think about Facebook ads, which is iterate,"
+    },
+    {
+      "start": 986.86,
+      "end": 989.56,
+      "text": "  figure out what works, put money behind what works."
+    },
+    {
+      "start": 989.56,
+      "end": 992.08,
+      "text": "  And I just didn't assume that you could do that with TV ads."
+    },
+    {
+      "start": 992.08,
+      "end": 993.6,
+      "text": "  I just assumed that like, you know, Facebook"
+    },
+    {
+      "start": 993.6,
+      "end": 995.08,
+      "text": "  was the place that people did that."
+    },
+    {
+      "start": 995.08,
+      "end": 997.36,
+      "text": "  Especially 'cause like static ads are so cheap to make"
+    },
+    {
+      "start": 997.36,
+      "end": 999.04,
+      "text": "  and video ads are so expensive."
+    },
+    {
+      "start": 999.04,
+      "end": 1002.96,
+      "text": "  The production quality for TV ads gets to be so high,"
+    },
+    {
+      "start": 1002.96,
+      "end": 1004.12,
+      "text": "  but he thought the same way."
+    },
+    {
+      "start": 1004.12,
+      "end": 1007.52,
+      "text": "  And, but I guess like, you know, you say using unique codes,"
+    },
+    {
+      "start": 1007.52,
+      "end": 1009,
+      "text": "  vanity URLs and phone numbers."
+    },
+    {
+      "start": 1009,
+      "end": 1013.8,
+      "text": "  I get vanity URLs, I get unique codes is phone numbers still,"
+    },
+    {
+      "start": 1013.8,
+      "end": 1017.8,
+      "text": "  like are these, are TV ads still like call in to purchase?"
+    },
+    {
+      "start": 1017.8,
+      "end": 1020,
+      "text": "  - A lot of them are, like a lot of the old school,"
+    },
+    {
+      "start": 1020,
+      "end": 1022.76,
+      "text": "  you know, like the MyPillow Guffy Ranker type stuff,"
+    },
+    {
+      "start": 1022.76,
+      "end": 1027.2,
+      "text": "  which I consider the equivalent of us running listicles"
+    },
+    {
+      "start": 1027.2,
+      "end": 1030.72,
+      "text": "  and advertorials on Facebook is this on TV, right?"
+    },
+    {
+      "start": 1030.72,
+      "end": 1034.36,
+      "text": "  It's like the most direct response type stuff you can do"
+    },
+    {
+      "start": 1034.36,
+      "end": 1036.76,
+      "text": "  that is both education leading,"
+    },
+    {
+      "start": 1036.76,
+      "end": 1039.64,
+      "text": "  but also, you know, finishes up very direct response."
+    },
+    {
+      "start": 1039.64,
+      "end": 1042.76,
+      "text": "  There's obviously stuff that's more brand heavy"
+    },
+    {
+      "start": 1042.76,
+      "end": 1046.48,
+      "text": "  or more awareness led, but this stuff is the more DR stuff."
+    },
+    {
+      "start": 1046.48,
+      "end": 1049.56,
+      "text": "  And so the phone numbers, for example,"
+    },
+    {
+      "start": 1049.56,
+      "end": 1050.96,
+      "text": "  like I think they do really well."
+    },
+    {
+      "start": 1050.96,
+      "end": 1053.56,
+      "text": "  And I mean, that's where at this point phone,"
+    },
+    {
+      "start": 1053.56,
+      "end": 1056.36,
+      "text": "  these phone systems, like if you call them,"
+    },
+    {
+      "start": 1056.36,
+      "end": 1058.68,
+      "text": "  they're fully automated, you don't even need a person"
+    },
+    {
+      "start": 1058.68,
+      "end": 1060.52,
+      "text": "  on the other side to get through a purchase."
+    },
+    {
+      "start": 1060.52,
+      "end": 1061.36,
+      "text": "  - Oh, okay, gotcha."
+    },
+    {
+      "start": 1061.36,
+      "end": 1064.44,
+      "text": "  - It just asks you questions, it records the answers,"
+    },
+    {
+      "start": 1064.44,
+      "end": 1066.8,
+      "text": "  and then somebody in the Philippines is probably listening"
+    },
+    {
+      "start": 1066.8,
+      "end": 1069.64,
+      "text": "  to the recording and transcribing it into the system."
+    },
+    {
+      "start": 1069.64,
+      "end": 1073.1,
+      "text": "  It's like, it's like if Sky Mall was slightly more automated,"
+    },
+    {
+      "start": 1073.1,
+      "end": 1074.92,
+      "text": "  you know, you fill out the form and mail it in"
+    },
+    {
+      "start": 1074.92,
+      "end": 1076.4,
+      "text": "  and then they transcribe everything"
+    },
+    {
+      "start": 1076.4,
+      "end": 1077.3,
+      "text": "  and like place the order."
+    },
+    {
+      "start": 1077.3,
+      "end": 1078.14,
+      "text": "  - Wow."
+    },
+    {
+      "start": 1078.14,
+      "end": 1079.6,
+      "text": "  - Okay, that's awesome."
+    },
+    {
+      "start": 1079.6,
+      "end": 1081.44,
+      "text": "  - And I think there's actually gonna be some, you know,"
+    },
+    {
+      "start": 1081.44,
+      "end": 1085.44,
+      "text": "  have you seen the stuff like that Google and OpenAI"
+    },
+    {
+      "start": 1085.44,
+      "end": 1086.92,
+      "text": "  have been releasing around voice,"
+    },
+    {
+      "start": 1086.92,
+      "end": 1090.2,
+      "text": "  like having conversations with the AI?"
+    },
+    {
+      "start": 1090.2,
+      "end": 1091.44,
+      "text": "  - No."
+    },
+    {
+      "start": 1091.44,
+      "end": 1094.52,
+      "text": "  - Okay, so like you should download the chat GPT iPhone app"
+    },
+    {
+      "start": 1094.52,
+      "end": 1098.08,
+      "text": "  and I think you might have to pay for the premium chat GPT,"
+    },
+    {
+      "start": 1098.08,
+      "end": 1100.38,
+      "text": "  but you can literally converse with it."
+    },
+    {
+      "start": 1100.38,
+      "end": 1102.8,
+      "text": "  Like you can talk to it and say,"
+    },
+    {
+      "start": 1102.8,
+      "end": 1106.64,
+      "text": "  hey, I'm thinking about going to, you know, Italy"
+    },
+    {
+      "start": 1106.64,
+      "end": 1108.36,
+      "text": "  and I'm staying here at this hotel."
+    },
+    {
+      "start": 1108.36,
+      "end": 1110.4,
+      "text": "  I need five restaurants that are right around"
+    },
+    {
+      "start": 1110.4,
+      "end": 1111.84,
+      "text": "  that are gluten free, whatever."
+    },
+    {
+      "start": 1111.84,
+      "end": 1113.68,
+      "text": "  It'll literally just talk right back to you"
+    },
+    {
+      "start": 1113.68,
+      "end": 1115.4,
+      "text": "  with the full answer. - That's awesome."
+    },
+    {
+      "start": 1115.4,
+      "end": 1117.16,
+      "text": "  But I think that-- - Google's doing that as well."
+    },
+    {
+      "start": 1117.16,
+      "end": 1118.28,
+      "text": "  - Yeah, Google's doing that as well."
+    },
+    {
+      "start": 1118.28,
+      "end": 1120.24,
+      "text": "  With Google, it's cool because you can like,"
+    },
+    {
+      "start": 1120.24,
+      "end": 1123.48,
+      "text": "  I can look at my barber shop, click request."
+    },
+    {
+      "start": 1123.48,
+      "end": 1153.28,
+      "text": "  And it calls them talking like a human saying, \"Hey, do you have time for a haircut at 6pm today?\" And then it understands the response and formulates another response. And so what if they say, \"No, it's just 4pm work. What will the AI do?\" Yeah, it'll ask me on text. You know, our texture like within the app. Do you, are you okay with 4pm instead? That's insane. I've got like crazy. My home is set up with Google Home. Yeah. It's all it's way worse than Alexa. Like I'm like, \"Really? Is it raining?\""
+    },
+    {
+      "start": 1153.28,
+      "end": 1163.28,
+      "text": "  They're like, \"There is a chance of rain.\" And I'm like, \"Well, what does that mean? It's way worse than Alexa.\" And so I'm surprised that Google's there. I'm glad Google's there. That sounds awesome."
+    },
+    {
+      "start": 1163.28,
+      "end": 1172.28,
+      "text": "  Yeah. So I think that technology applied to the TV stuff is going to be something that like whoever's providing that for is about to test that."
+    },
+    {
+      "start": 1172.28,
+      "end": 1182.28,
+      "text": "  Wow. If you listen to this, tell us. Because I think that's really interesting. The other thing is through measurement, you know, whether you use Northbeam or Tatari, their own internal measurement tool."
+    },
+    {
+      "start": 1182.28,
+      "end": 1195.28,
+      "text": "  Well, the other cool thing is like generally, you know, in e-commerce, there's all these companies that have been built alongside Facebook ads for reporting, for attribution, for better copyright, whatever it is for, you know, analytics."
+    },
+    {
+      "start": 1195.28,
+      "end": 1201.28,
+      "text": "  There's all these tools that have been built on top of this ecosystem that didn't necessarily exist in the TV world."
+    },
+    {
+      "start": 1201.28,
+      "end": 1206.28,
+      "text": "  And so most of them, the platforms that you buy on like Tatari, they have all these tools pretty much integrated."
+    },
+    {
+      "start": 1206.28,
+      "end": 1213.28,
+      "text": "  So you have your version of Northbeam, you have your version of motion analytics, you have your version of Google analytics, all built in."
+    },
+    {
+      "start": 1213.28,
+      "end": 1222.28,
+      "text": "  And then you can understand things like, you know, sales lift within X amount of minutes of airing, which is, you know, how 47% of people in the report said that they measure their sales."
+    },
+    {
+      "start": 1222.28,
+      "end": 1231.28,
+      "text": "  You can look at site traffic lift within X minutes of airing, but then also the use of promo codes or vanity URLs, which would tell you, you know, pretty much what ad you came from."
+    },
+    {
+      "start": 1231.28,
+      "end": 1240.28,
+      "text": "  For example, like when we used to run Judy TV ads, we used to do this thing where we would just put Judy.co/TV as the vanity URL."
+    },
+    {
+      "start": 1240.28,
+      "end": 1252.28,
+      "text": "  As soon as somebody went to that URL, we could tell which ad they came from, which region they came from, because we were also using a redirect with geo-targetly, so we could see the IP address of the user that came in."
+    },
+    {
+      "start": 1252.28,
+      "end": 1261.28,
+      "text": "  Not one single way is going to answer which ad does the best or which ad is performing the best, but the combination of this data is going to let you do it."
+    },
+    {
+      "start": 1261.28,
+      "end": 1272.28,
+      "text": "  The other thing is with convergent TV, which is not just streaming TV or linear TV or cable, it's the combination of online video streaming and linear."
+    },
+    {
+      "start": 1272.28,
+      "end": 1282.28,
+      "text": "  You don't just get to target programming, like, you know, a certain show that's running or football or just channels, but you can actually do more programmatic like targeting."
+    },
+    {
+      "start": 1282.28,
+      "end": 1290.28,
+      "text": "  You can say, \"I want to target males that are between 25 and 35 in these areas or that have these interests or have this affinity.\""
+    },
+    {
+      "start": 1290.28,
+      "end": 1295.28,
+      "text": "  So yeah, that's my myth-busting on measurement. Any counters or thoughts there?"
+    },
+    {
+      "start": 1295.28,
+      "end": 1299.28,
+      "text": "  What was the Golden Nugget in that? Was the Golden Nugget how people get paid?"
+    },
+    {
+      "start": 1299.28,
+      "end": 1305.28,
+      "text": "  No, the Golden Nugget was, well, in my head, the Golden Nugget was the my pillow ads."
+    },
+    {
+      "start": 1305.28,
+      "end": 1313.28,
+      "text": "  Understanding how my pillow goes through attribution and understanding which ads are worth scaling or which ads are worth pausing."
+    },
+    {
+      "start": 1313.28,
+      "end": 1323.28,
+      "text": "  And honestly, you should go to that link because you can see how they test, like, how they chop up basically one shoot and edit it into, you know, a hundred different ways."
+    },
+    {
+      "start": 1323.28,
+      "end": 1325.28,
+      "text": "  It's really fascinating."
+    },
+    {
+      "start": 1325.28,
+      "end": 1333.28,
+      "text": "  I hate video ads and I hate video in general because it's so expensive to produce and so expensive to iterate on."
+    },
+    {
+      "start": 1333.28,
+      "end": 1340.28,
+      "text": "  For me, it was just always like, you know, photo costs $4 or like, you know, one photo shoot."
+    },
+    {
+      "start": 1340.28,
+      "end": 1344.28,
+      "text": "  And then I can write, like, you know, when I was running native ads, first it was desktop only."
+    },
+    {
+      "start": 1344.28,
+      "end": 1354.28,
+      "text": "  And like, you know, I would have just text at the top, text at the bottom then, caps lock, camel cake, all these things to figure out what worked, but it only cost me one photo."
+    },
+    {
+      "start": 1354.28,
+      "end": 1356.28,
+      "text": "  It never cost me all this money and iteration."
+    },
+    {
+      "start": 1356.28,
+      "end": 1360.28,
+      "text": "  And like, the other part is, I like, I know how to use Photoshop."
+    },
+    {
+      "start": 1360.28,
+      "end": 1362.28,
+      "text": "  I don't know how to use anything to edit videos."
+    },
+    {
+      "start": 1362.28,
+      "end": 1364.28,
+      "text": "  And so I'm always terrified of like, cap cut."
+    },
+    {
+      "start": 1364.28,
+      "end": 1365.28,
+      "text": "  Okay."
+    },
+    {
+      "start": 1365.28,
+      "end": 1368.28,
+      "text": "  I'm always terrified of like, doing things around like, how do I edit this on the video?"
+    },
+    {
+      "start": 1368.28,
+      "end": 1371.28,
+      "text": "  Like, I wanted to save this on the bottom, but then I wanted to go away."
+    },
+    {
+      "start": 1371.28,
+      "end": 1375.28,
+      "text": "  And so like, I always shied away from A.B. testing videos."
+    },
+    {
+      "start": 1375.28,
+      "end": 1377.28,
+      "text": "  And like, you know, all these other people didn't."
+    },
+    {
+      "start": 1377.28,
+      "end": 1384.28,
+      "text": "  And then my pillow guy, AJ Kubani, and like, they've like, you know, that was what you had to do 15 years ago."
+    },
+    {
+      "start": 1384.28,
+      "end": 1386.28,
+      "text": "  Like, that was like, that was the only way to get sales."
+    },
+    {
+      "start": 1386.28,
+      "end": 1388.28,
+      "text": "  So I'm always impressed by people who can do this."
+    },
+    {
+      "start": 1388.28,
+      "end": 1395.28,
+      "text": "  The other thing too is like, you know, going into the myth of creative production, because people said that was the second biggest reason."
+    },
+    {
+      "start": 1395.28,
+      "end": 1397.28,
+      "text": "  They didn't move into TV."
+    },
+    {
+      "start": 1397.28,
+      "end": 1400.28,
+      "text": "  But one thing you can do is use like customer UGC."
+    },
+    {
+      "start": 1400.28,
+      "end": 1404.28,
+      "text": "  Either you pay customers and say, Hey, we want to license your content."
+    },
+    {
+      "start": 1404.28,
+      "end": 1406.28,
+      "text": "  Or B, go find like one of these content."
+    },
+    {
+      "start": 1406.28,
+      "end": 1414.28,
+      "text": "  I mean, think about how many content creators have emerged in the last three years that just, you know, they are just dying to make videos for brands."
+    },
+    {
+      "start": 1414.28,
+      "end": 1418.28,
+      "text": "  And you know, you could probably get a couple commercials for less than 10 grand."
+    },
+    {
+      "start": 1418.28,
+      "end": 1419.28,
+      "text": "  I know for Judy, we did this."
+    },
+    {
+      "start": 1419.28,
+      "end": 1425.28,
+      "text": "  We got two commercials from Mommy YouTuber for five grand, and they both did really well."
+    },
+    {
+      "start": 1425.28,
+      "end": 1429.28,
+      "text": "  The other thing Cadence did was like, they just took, I mean, they have beautiful photography."
+    },
+    {
+      "start": 1429.28,
+      "end": 1433.28,
+      "text": "  I think the gold standard of photography and video for their site."
+    },
+    {
+      "start": 1433.28,
+      "end": 1436.28,
+      "text": "  But they just repurposed their own content."
+    },
+    {
+      "start": 1436.28,
+      "end": 1441.28,
+      "text": "  They shot from their photo and video shoe and then just added text overlays with some soft music."
+    },
+    {
+      "start": 1441.28,
+      "end": 1444.28,
+      "text": "  And that became a TV ad that did decently well for them."
+    },
+    {
+      "start": 1444.28,
+      "end": 1447.28,
+      "text": "  Cadence is the brand you and I are both invested in, right?"
+    },
+    {
+      "start": 1447.28,
+      "end": 1448.28,
+      "text": "  Like the little capsules."
+    },
+    {
+      "start": 1448.28,
+      "end": 1449.28,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1449.28,
+      "end": 1451.28,
+      "text": "  Their product is particularly good at that."
+    },
+    {
+      "start": 1451.28,
+      "end": 1455.28,
+      "text": "  I wonder if anyone like, you know what I would do if I were running a brand right now?"
+    },
+    {
+      "start": 1455.28,
+      "end": 1459.28,
+      "text": "  I would find a viral tick or like I'd find a tick tock ad that worked for me."
+    },
+    {
+      "start": 1459.28,
+      "end": 1462.28,
+      "text": "  And I'd be like, yeah, it's on television and see if that works."
+    },
+    {
+      "start": 1462.28,
+      "end": 1463.28,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1463.28,
+      "end": 1464.28,
+      "text": "  It's so smart."
+    },
+    {
+      "start": 1464.28,
+      "end": 1468.72,
+      "text": "  Imagine like hearing the music that you hear or like, you know, that thing that you see"
+    },
+    {
+      "start": 1468.72,
+      "end": 1473.04,
+      "text": "  on TikTok and you're like, what is this like, you know, nobody's done that yet as far as"
+    },
+    {
+      "start": 1473.04,
+      "end": 1474.04,
+      "text": "  I can tell."
+    },
+    {
+      "start": 1474.04,
+      "end": 1475.04,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1475.04,
+      "end": 1478.16,
+      "text": "  And a bunch of TikTok videos have gone viral certainly for products like if I was Stanley"
+    },
+    {
+      "start": 1478.16,
+      "end": 1483.44,
+      "text": "  Quencher, I would put some Stanley Quencher TikTok ad on television and be like, is this"
+    },
+    {
+      "start": 1483.44,
+      "end": 1484.88,
+      "text": "  going to work or not?"
+    },
+    {
+      "start": 1484.88,
+      "end": 1487.28,
+      "text": "  And even if it didn't, I think it would blow up because people would be like, these"
+    },
+    {
+      "start": 1487.28,
+      "end": 1490.36,
+      "text": "  guys are repurposing TikTok ads for television."
+    },
+    {
+      "start": 1490.36,
+      "end": 1491.36,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1491.36,
+      "end": 1496.08,
+      "text": "  And like PR thing, the Stanley video, do you remember that video that went viral where"
+    },
+    {
+      "start": 1496.08,
+      "end": 1500.04,
+      "text": "  the car basically blew up but the Stanley drink was still cold?"
+    },
+    {
+      "start": 1500.04,
+      "end": 1501.04,
+      "text": "  Yes."
+    },
+    {
+      "start": 1501.04,
+      "end": 1503.88,
+      "text": "  Like that, they should have went to her and been like, we'll give you a hundred thousand"
+    },
+    {
+      "start": 1503.88,
+      "end": 1508,
+      "text": "  dollars if you come stay with us for a weekend and shoot a commercial."
+    },
+    {
+      "start": 1508,
+      "end": 1513.84,
+      "text": "  And I'm surprised they didn't or even just hey, we'll pay you and run this TikTok as"
+    },
+    {
+      "start": 1513.84,
+      "end": 1514.84,
+      "text": "  the TV ad."
+    },
+    {
+      "start": 1514.84,
+      "end": 1515.84,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1515.84,
+      "end": 1517.64,
+      "text": "  That would have been a really interesting tick."
+    },
+    {
+      "start": 1517.64,
+      "end": 1518.8,
+      "text": "  You know what they did do for her?"
+    },
+    {
+      "start": 1518.8,
+      "end": 1519.8,
+      "text": "  Do you know what they did?"
+    },
+    {
+      "start": 1519.8,
+      "end": 1521.28,
+      "text": "  They bought her a new car, right?"
+    },
+    {
+      "start": 1521.28,
+      "end": 1522.28,
+      "text": "  Yeah."
+    },
+    {
+      "start": 1522.28,
+      "end": 1523.28,
+      "text": "  Yeah, exactly."
+    },
+    {
+      "start": 1523.28,
+      "end": 1526.28,
+      "text": "  Like they look definitely closed the loop on making sure that was like a fantastic like,"
+    },
+    {
+      "start": 1526.28,
+      "end": 1527.96,
+      "text": "  you know, ad for the story."
+    },
+    {
+      "start": 1527.96,
+      "end": 1530.2,
+      "text": "  Yeah, that was a great story."
+    },
+    {
+      "start": 1530.2,
+      "end": 1535.84,
+      "text": "  Okay, Nick, I went to long weekends website and I used weekend pay when I checked out."
+    },
+    {
+      "start": 1535.84,
+      "end": 1537.52,
+      "text": "  I know that's powered by tandem."
+    },
+    {
+      "start": 1537.52,
+      "end": 1539.52,
+      "text": "  Can you tell me what the hell weekend pay is?"
+    },
+    {
+      "start": 1539.52,
+      "end": 1540.52,
+      "text": "  Yes."
+    },
+    {
+      "start": 1540.52,
+      "end": 1541.52,
+      "text": "  So tandem's awesome."
+    },
+    {
+      "start": 1541.52,
+      "end": 1545.68,
+      "text": "  Have you ever gone to JetBlue's website or the Macy store and been asked to sign up for"
+    },
+    {
+      "start": 1545.68,
+      "end": 1547,
+      "text": "  their credit card?"
+    },
+    {
+      "start": 1547,
+      "end": 1552.24,
+      "text": "  That's because the stores benefit from lower processing fees, higher shopper AOV, higher"
+    },
+    {
+      "start": 1552.24,
+      "end": 1555.48,
+      "text": "  customer loyalty, and a higher repeat purchase rate."
+    },
+    {
+      "start": 1555.48,
+      "end": 1559.6,
+      "text": "  Tandem allows any Shopify brand to build their own branded credit card system."
+    },
+    {
+      "start": 1559.6,
+      "end": 1563.64,
+      "text": "  Previously, you had to be a billion dollar a year brand to go to a big bank and build"
+    },
+    {
+      "start": 1563.64,
+      "end": 1565.36,
+      "text": "  a branded credit card with them."
+    },
+    {
+      "start": 1565.36,
+      "end": 1569.44,
+      "text": "  I've actually gone down that path to see what's possible and that's how I actually discovered"
+    },
+    {
+      "start": 1569.44,
+      "end": 1570.44,
+      "text": "  tandem."
+    },
+    {
+      "start": 1570.44,
+      "end": 1574.64,
+      "text": "  The same team that built this at Capital One for brands is now making it so that any"
+    },
+    {
+      "start": 1574.64,
+      "end": 1578.32,
+      "text": "  DTC brand can immediately launch a branded credit card."
+    },
+    {
+      "start": 1578.32,
+      "end": 1581.6,
+      "text": "  On top of that, with tandem, you can focus on contribution margin."
+    },
+    {
+      "start": 1581.6,
+      "end": 1586.2,
+      "text": "  Many of the brands launching with tandem are seeing a 10% increase in contribution margin"
+    },
+    {
+      "start": 1586.2,
+      "end": 1587.4,
+      "text": "  from the program."
+    },
+    {
+      "start": 1587.4,
+      "end": 1590.28,
+      "text": "  2024 is the year to focus on profit."
+    },
+    {
+      "start": 1590.28,
+      "end": 1596.6,
+      "text": "  To learn more about tandem, open your browser and enter dtc.creditcard and then press enter."
+    },
+    {
+      "start": 1596.6,
+      "end": 1600.72,
+      "text": "  Book a demo with the amazing team at tandem and if you're a brand that does over 5 million"
+    },
+    {
+      "start": 1600.72,
+      "end": 1603.6,
+      "text": "  a year, you'll get a $100 Amazon gift card."
+    },
+    {
+      "start": 1603.6,
+      "end": 1608.76,
+      "text": "  Again, go to dtc.creditcard to make more profit."
+    },
+    {
+      "start": 1608.76,
+      "end": 1615.2,
+      "text": "  The last myth that I wanted to bust was, okay, and I thought this was something that was"
+    },
+    {
+      "start": 1615.2,
+      "end": 1617.6,
+      "text": "  in my head too, was basically the cost of testing."
+    },
+    {
+      "start": 1617.6,
+      "end": 1623.66,
+      "text": "  When I first ran TV ads, the cheapest option for us to run TV ads was running it through"
+    },
+    {
+      "start": 1623.66,
+      "end": 1629.44,
+      "text": "  a TV ad agency that basically had access to whatever the trade desk equivalent is in"
+    },
+    {
+      "start": 1629.44,
+      "end": 1636.08,
+      "text": "  TV and you had to spend at least $60,000 in remnant media just to even like that was"
+    },
+    {
+      "start": 1636.08,
+      "end": 1639.04,
+      "text": "  the foot in the door, the bare minimum."
+    },
+    {
+      "start": 1639.04,
+      "end": 1643.52,
+      "text": "  And now you can run TV for as little as 5 grand and you don't have to go through a media"
+    },
+    {
+      "start": 1643.52,
+      "end": 1644.52,
+      "text": "  buying agency."
+    },
+    {
+      "start": 1644.52,
+      "end": 1648.24,
+      "text": "  Of course, they'll help you with the strategy and everything we've talked about so far."
+    },
+    {
+      "start": 1648.24,
+      "end": 1652.6,
+      "text": "  But if you use something like a tatari, you get access to the convergent TV, which again"
+    },
+    {
+      "start": 1652.6,
+      "end": 1656.88,
+      "text": "  is the streaming linear and online, and you can start with 5 grand."
+    },
+    {
+      "start": 1656.88,
+      "end": 1662.8,
+      "text": "  So if you run 5 grand a week, you can get a pretty decent understanding of your creative"
+    },
+    {
+      "start": 1662.8,
+      "end": 1664.3,
+      "text": "  driving site sessions."
+    },
+    {
+      "start": 1664.3,
+      "end": 1668.64,
+      "text": "  You might not see a huge influx of purchases, but you can start to understand the messaging"
+    },
+    {
+      "start": 1668.64,
+      "end": 1672,
+      "text": "  on TV that is working for your brand."
+    },
+    {
+      "start": 1672,
+      "end": 1675.28,
+      "text": "  You know, 5K is like a how much do you think it cost?"
+    },
+    {
+      "start": 1675.28,
+      "end": 1680.96,
+      "text": "  Okay, so the UGC stuff aside, if you're producing a TV ad, how much is the cost do you think?"
+    },
+    {
+      "start": 1680.96,
+      "end": 1681.96,
+      "text": "  How much do it cost?"
+    },
+    {
+      "start": 1681.96,
+      "end": 1684,
+      "text": "  when you said 10 grand for each of those YouTubers"
+    },
+    {
+      "start": 1684,
+      "end": 1685.28,
+      "text": "  or you paid her 10 grand."
+    },
+    {
+      "start": 1685.28,
+      "end": 1688.28,
+      "text": "  - We paid 10 grand total for two."
+    },
+    {
+      "start": 1688.28,
+      "end": 1689.4,
+      "text": "  - Including the creator."
+    },
+    {
+      "start": 1689.4,
+      "end": 1691.74,
+      "text": "  You paid her for like, you know, see,"
+    },
+    {
+      "start": 1691.74,
+      "end": 1694.16,
+      "text": "  like I've, you know, when we experimented with native,"
+    },
+    {
+      "start": 1694.16,
+      "end": 1695.58,
+      "text": "  this was again a part of PNG."
+    },
+    {
+      "start": 1695.58,
+      "end": 1697.94,
+      "text": "  And so there was a little bit of a like,"
+    },
+    {
+      "start": 1697.94,
+      "end": 1699.12,
+      "text": "  it actually made it harder."
+    },
+    {
+      "start": 1699.12,
+      "end": 1701.2,
+      "text": "  And the reason that it made it harder was,"
+    },
+    {
+      "start": 1701.2,
+      "end": 1704.36,
+      "text": "  we were part of SAG, Screen Actors Guild."
+    },
+    {
+      "start": 1704.36,
+      "end": 1707.66,
+      "text": "  And so any actor or actress that was in the ad"
+    },
+    {
+      "start": 1707.66,
+      "end": 1710.74,
+      "text": "  got paid a residual, meaning every time the ad aired,"
+    },
+    {
+      "start": 1710.74,
+      "end": 1711.98,
+      "text": "  they got paid money."
+    },
+    {
+      "start": 1711.98,
+      "end": 1712.82,
+      "text": "  - And I was like,"
+    },
+    {
+      "start": 1712.82,
+      "end": 1713.66,
+      "text": "  - We didn't do any of that."
+    },
+    {
+      "start": 1713.66,
+      "end": 1714.9,
+      "text": "  - In fact, I remember it. - Yeah, of course."
+    },
+    {
+      "start": 1714.9,
+      "end": 1718.82,
+      "text": "  - We had to go through like three or four talent agencies"
+    },
+    {
+      "start": 1718.82,
+      "end": 1721.88,
+      "text": "  because we had this one paragraph that we wrote"
+    },
+    {
+      "start": 1721.88,
+      "end": 1725.46,
+      "text": "  that basically said, there's an irrevocable, worldwide,"
+    },
+    {
+      "start": 1725.46,
+      "end": 1728.34,
+      "text": "  royalty free license to use any of this content"
+    },
+    {
+      "start": 1728.34,
+      "end": 1731.9,
+      "text": "  that you star in and you sign your rights over forever."
+    },
+    {
+      "start": 1731.9,
+      "end": 1732.98,
+      "text": "  And there was only one company."
+    },
+    {
+      "start": 1732.98,
+      "end": 1734.66,
+      "text": "  - And why was that controversial?"
+    },
+    {
+      "start": 1734.66,
+      "end": 1736.66,
+      "text": "  - Because everybody wants the, you know,"
+    },
+    {
+      "start": 1736.66,
+      "end": 1740.62,
+      "text": "  either A, they want the residuals or B, they want,"
+    },
+    {
+      "start": 1740.62,
+      "end": 1742.42,
+      "text": "  you know, it's like, hey, you can use my face"
+    },
+    {
+      "start": 1742.42,
+      "end": 1744.34,
+      "text": "  for the next six months, but then after that,"
+    },
+    {
+      "start": 1744.34,
+      "end": 1746.98,
+      "text": "  I want to re-up on payment, which at the time,"
+    },
+    {
+      "start": 1746.98,
+      "end": 1748.9,
+      "text": "  you know, morally sure makes sense."
+    },
+    {
+      "start": 1748.9,
+      "end": 1750.24,
+      "text": "  But like when you're the brand, you're like,"
+    },
+    {
+      "start": 1750.24,
+      "end": 1752.34,
+      "text": "  fuck no, I'm paying for this right now."
+    },
+    {
+      "start": 1752.34,
+      "end": 1754.46,
+      "text": "  The biggest threat is actually not even the fact"
+    },
+    {
+      "start": 1754.46,
+      "end": 1756.14,
+      "text": "  that you're trying to get something for cheap."
+    },
+    {
+      "start": 1756.14,
+      "end": 1759.78,
+      "text": "  It's that you hire somebody, they join in three years."
+    },
+    {
+      "start": 1759.78,
+      "end": 1761.62,
+      "text": "  They see this one creative, they run it,"
+    },
+    {
+      "start": 1761.62,
+      "end": 1764.42,
+      "text": "  and now you've opened yourself up to a lawsuit."
+    },
+    {
+      "start": 1764.42,
+      "end": 1766.38,
+      "text": "  - Also the idea is like, look, I get it."
+    },
+    {
+      "start": 1766.38,
+      "end": 1767.9,
+      "text": "  If you're like, you know, you're going to become"
+    },
+    {
+      "start": 1767.9,
+      "end": 1770.38,
+      "text": "  a big actors, you know, two years from now,"
+    },
+    {
+      "start": 1770.38,
+      "end": 1772.54,
+      "text": "  you become like, you know, I got Tom Brady"
+    },
+    {
+      "start": 1772.54,
+      "end": 1774.38,
+      "text": "  advertising my product right now,"
+    },
+    {
+      "start": 1774.38,
+      "end": 1775.9,
+      "text": "  but before he joins the Patriots,"
+    },
+    {
+      "start": 1775.9,
+      "end": 1777.74,
+      "text": "  they're like, before Drew Bledsoe gets injured"
+    },
+    {
+      "start": 1777.74,
+      "end": 1779.26,
+      "text": "  and he becomes Tom Brady."
+    },
+    {
+      "start": 1779.26,
+      "end": 1781.42,
+      "text": "  And then he's like, look, you're using my face and name."
+    },
+    {
+      "start": 1781.42,
+      "end": 1782.86,
+      "text": "  Now I'm huge."
+    },
+    {
+      "start": 1782.86,
+      "end": 1784.34,
+      "text": "  You know, I understand where they're coming from,"
+    },
+    {
+      "start": 1784.34,
+      "end": 1785.9,
+      "text": "  but I also understand the brand's perspective,"
+    },
+    {
+      "start": 1785.9,
+      "end": 1788.9,
+      "text": "  which is like, look, right now, you got no job,"
+    },
+    {
+      "start": 1788.9,
+      "end": 1790.62,
+      "text": "  or like, you know, this is your job."
+    },
+    {
+      "start": 1790.62,
+      "end": 1793.9,
+      "text": "  And so like, you know, when I build a house"
+    },
+    {
+      "start": 1793.9,
+      "end": 1796.5,
+      "text": "  and I sell it to somebody, they don't pay me rent"
+    },
+    {
+      "start": 1796.5,
+      "end": 1797.82,
+      "text": "  every month, they own the house."
+    },
+    {
+      "start": 1797.82,
+      "end": 1799.02,
+      "text": "  Like that's their house now, right?"
+    },
+    {
+      "start": 1799.02,
+      "end": 1800.9,
+      "text": "  What about my hard labor?"
+    },
+    {
+      "start": 1800.9,
+      "end": 1802.74,
+      "text": "  You know, that's what I got paid for already."
+    },
+    {
+      "start": 1802.74,
+      "end": 1804.54,
+      "text": "  So I'm, you know, that always like,"
+    },
+    {
+      "start": 1804.54,
+      "end": 1806.18,
+      "text": "  stung me a little bit,"
+    },
+    {
+      "start": 1806.18,
+      "end": 1808.78,
+      "text": "  especially the like, the residuals definitely stung me."
+    },
+    {
+      "start": 1808.78,
+      "end": 1809.98,
+      "text": "  Although the people we worked with,"
+    },
+    {
+      "start": 1809.98,
+      "end": 1811.94,
+      "text": "  I went down for the shoot were fantastic."
+    },
+    {
+      "start": 1811.94,
+      "end": 1814.1,
+      "text": "  I always like hated that residual portion of it."
+    },
+    {
+      "start": 1814.1,
+      "end": 1816.14,
+      "text": "  And that also made me a little bit more cautious"
+    },
+    {
+      "start": 1816.14,
+      "end": 1817.98,
+      "text": "  about television at times."
+    },
+    {
+      "start": 1817.98,
+      "end": 1820.54,
+      "text": "  - Yeah, at some level, you probably like PNGs"
+    },
+    {
+      "start": 1820.54,
+      "end": 1822.22,
+      "text": "  at whatever that level is."
+    },
+    {
+      "start": 1822.22,
+      "end": 1825.3,
+      "text": "  Hopefully most people don't get or don't have to deal"
+    },
+    {
+      "start": 1825.3,
+      "end": 1826.14,
+      "text": "  with that level. - Yeah."
+    },
+    {
+      "start": 1826.14,
+      "end": 1828.34,
+      "text": "  But yeah, the other thing was, you know,"
+    },
+    {
+      "start": 1828.34,
+      "end": 1832.1,
+      "text": "  remember Juhi from a few episodes ago or last season,"
+    },
+    {
+      "start": 1832.1,
+      "end": 1834.14,
+      "text": "  she mentioned that she would make TV commercials"
+    },
+    {
+      "start": 1834.14,
+      "end": 1836.3,
+      "text": "  for Fablettics fairly efficiently,"
+    },
+    {
+      "start": 1836.3,
+      "end": 1838.82,
+      "text": "  like under 10K and she could spin those out"
+    },
+    {
+      "start": 1838.82,
+      "end": 1841.3,
+      "text": "  and get those live pretty quickly."
+    },
+    {
+      "start": 1841.3,
+      "end": 1844.1,
+      "text": "  - Yeah, I wonder like what type of investment there is"
+    },
+    {
+      "start": 1844.1,
+      "end": 1845.62,
+      "text": "  to get to be able to, like, you know, for us,"
+    },
+    {
+      "start": 1845.62,
+      "end": 1848.78,
+      "text": "  we had to rent an Airbnb that like look nice"
+    },
+    {
+      "start": 1848.78,
+      "end": 1849.94,
+      "text": "  where we could use the kitchen,"
+    },
+    {
+      "start": 1849.94,
+      "end": 1851.5,
+      "text": "  we could use the bathroom,"
+    },
+    {
+      "start": 1851.5,
+      "end": 1853.74,
+      "text": "  and I think like some other, and like the living room."
+    },
+    {
+      "start": 1853.74,
+      "end": 1855.66,
+      "text": "  And like, so we could have three different shots"
+    },
+    {
+      "start": 1855.66,
+      "end": 1857.14,
+      "text": "  in three different areas."
+    },
+    {
+      "start": 1857.14,
+      "end": 1859.54,
+      "text": "  And then we hired three different like characters,"
+    },
+    {
+      "start": 1859.54,
+      "end": 1862.54,
+      "text": "  like one woman who was like super focused on fitness,"
+    },
+    {
+      "start": 1862.54,
+      "end": 1865.5,
+      "text": "  one woman who said she was a mother or like, you know,"
+    },
+    {
+      "start": 1865.5,
+      "end": 1867.78,
+      "text": "  pregnant and then one woman that I can't remember"
+    },
+    {
+      "start": 1867.78,
+      "end": 1868.7,
+      "text": "  what she did."
+    },
+    {
+      "start": 1868.7,
+      "end": 1870.86,
+      "text": "  So we had to hire an Airbnb, we had to hire a cast,"
+    },
+    {
+      "start": 1870.86,
+      "end": 1873.34,
+      "text": "  we had to hire a SAG Actors, like, you know,"
+    },
+    {
+      "start": 1873.34,
+      "end": 1875.78,
+      "text": "  I flew in, somebody else from our team flew in."
+    },
+    {
+      "start": 1875.78,
+      "end": 1876.78,
+      "text": "  I didn't like, you know, I was like,"
+    },
+    {
+      "start": 1876.78,
+      "end": 1878.22,
+      "text": "  this is not $10,000."
+    },
+    {
+      "start": 1878.22,
+      "end": 1879.9,
+      "text": "  This is a fortune. - Yeah."
+    },
+    {
+      "start": 1879.9,
+      "end": 1881.74,
+      "text": "  - But I do think that after you get good at,"
+    },
+    {
+      "start": 1881.74,
+      "end": 1883.46,
+      "text": "  like just like everything else, you get good at it"
+    },
+    {
+      "start": 1883.46,
+      "end": 1885.74,
+      "text": "  and you're like, this is the levers to pull."
+    },
+    {
+      "start": 1885.74,
+      "end": 1887.18,
+      "text": "  And we know how to do this cheap."
+    },
+    {
+      "start": 1887.18,
+      "end": 1888.82,
+      "text": "  Like we've rented this house before,"
+    },
+    {
+      "start": 1888.82,
+      "end": 1890.78,
+      "text": "  or we know that we can, like, you know,"
+    },
+    {
+      "start": 1890.78,
+      "end": 1892.66,
+      "text": "  what one of the things that PNG actually does,"
+    },
+    {
+      "start": 1892.66,
+      "end": 1894.34,
+      "text": "  and if you watch their commercials, you can see this,"
+    },
+    {
+      "start": 1894.34,
+      "end": 1897.5,
+      "text": "  is they have a fake supermarket in their office."
+    },
+    {
+      "start": 1897.5,
+      "end": 1899.62,
+      "text": "  And so when they're advertising at a supermarket,"
+    },
+    {
+      "start": 1899.62,
+      "end": 1902.82,
+      "text": "  whether it be native deodorant or tied laundry detergent"
+    },
+    {
+      "start": 1902.82,
+      "end": 1905.34,
+      "text": "  or downy cent beads, you see a woman"
+    },
+    {
+      "start": 1905.34,
+      "end": 1907.82,
+      "text": "  like pushing a shopping cart, looking at stuff,"
+    },
+    {
+      "start": 1907.82,
+      "end": 1909.64,
+      "text": "  she's at PNG's offices."
+    },
+    {
+      "start": 1909.64,
+      "end": 1913.34,
+      "text": "  Like, you know, is it, 'cause they have a fake setup."
+    },
+    {
+      "start": 1913.34,
+      "end": 1914.74,
+      "text": "  And like, you know, that type of capital"
+    },
+    {
+      "start": 1914.74,
+      "end": 1916.3,
+      "text": "  is like a great capital investment"
+    },
+    {
+      "start": 1916.3,
+      "end": 1919.38,
+      "text": "  because that brings all the cost of their television down."
+    },
+    {
+      "start": 1919.38,
+      "end": 1920.34,
+      "text": "  We never had that."
+    },
+    {
+      "start": 1920.34,
+      "end": 1921.98,
+      "text": "  And I think that if brands can do that,"
+    },
+    {
+      "start": 1921.98,
+      "end": 1923.82,
+      "text": "  can get to that level, that's fantastic."
+    },
+    {
+      "start": 1923.82,
+      "end": 1925.78,
+      "text": "  But I do think that, like you're right,"
+    },
+    {
+      "start": 1925.78,
+      "end": 1927.14,
+      "text": "  it's an uphill battle."
+    },
+    {
+      "start": 1927.14,
+      "end": 1928.62,
+      "text": "  And I think what you said at the beginning,"
+    },
+    {
+      "start": 1928.62,
+      "end": 1930.82,
+      "text": "  where look, if you're spending a million dollars a month"
+    },
+    {
+      "start": 1930.82,
+      "end": 1932.62,
+      "text": "  on social media, great."
+    },
+    {
+      "start": 1932.62,
+      "end": 1935.18,
+      "text": "  You know, you've got the scale, the profit,"
+    },
+    {
+      "start": 1935.18,
+      "end": 1937.82,
+      "text": "  the knowledge, the dollars flowing through your system"
+    },
+    {
+      "start": 1937.82,
+      "end": 1941.74,
+      "text": "  to be able to try and experiment from 5K to 50K."
+    },
+    {
+      "start": 1941.74,
+      "end": 1944.3,
+      "text": "  I think if you're probably at $250,000 in ads,"
+    },
+    {
+      "start": 1944.3,
+      "end": 1946.42,
+      "text": "  it makes it much more difficult."
+    },
+    {
+      "start": 1946.42,
+      "end": 1948.02,
+      "text": "  - Totally."
+    },
+    {
+      "start": 1948.02,
+      "end": 1951.28,
+      "text": "  All right, you can go get the report at nik.co/report."
+    },
+    {
+      "start": 1951.28,
+      "end": 1953.58,
+      "text": "  But, boys, let's get to the email stuff,"
+    },
+    {
+      "start": 1953.58,
+      "end": 1956.82,
+      "text": "  'cause I believe we got some updated email information"
+    },
+    {
+      "start": 1956.82,
+      "end": 1959.5,
+      "text": "  since the last time we talked about it."
+    },
+    {
+      "start": 1959.5,
+      "end": 1961.78,
+      "text": "  - So basically, I got some of this information"
+    },
+    {
+      "start": 1961.78,
+      "end": 1964.22,
+      "text": "  from Google and some, the guys at Sun Lane sent me."
+    },
+    {
+      "start": 1964.22,
+      "end": 1965.94,
+      "text": "  And I'm not an investor in Sun Lane or anything,"
+    },
+    {
+      "start": 1965.94,
+      "end": 1966.78,
+      "text": "  but I appreciate it."
+    },
+    {
+      "start": 1966.78,
+      "end": 1968.42,
+      "text": "  - Yeah, can we just talk about this for a second?"
+    },
+    {
+      "start": 1968.42,
+      "end": 1971.78,
+      "text": "  Did Jimmy DM you updates based on the episode"
+    },
+    {
+      "start": 1971.78,
+      "end": 1972.78,
+      "text": "  that he heard?"
+    },
+    {
+      "start": 1972.78,
+      "end": 1974.82,
+      "text": "  'Cause he DM'd me in the things, and I was like,"
+    },
+    {
+      "start": 1974.82,
+      "end": 1978.74,
+      "text": "  first of all, that's amazing, the fact that he's so tapped in,"
+    },
+    {
+      "start": 1978.74,
+      "end": 1980.5,
+      "text": "  he knows exactly what we're saying."
+    },
+    {
+      "start": 1980.5,
+      "end": 1982.3,
+      "text": "  And then he's sending us the update."
+    },
+    {
+      "start": 1982.3,
+      "end": 1985.74,
+      "text": "  It's like the bite of the cookie that we couldn't chew off."
+    },
+    {
+      "start": 1985.74,
+      "end": 1988.8,
+      "text": "  Like, he gave us that bite and he did it up so perfectly."
+    },
+    {
+      "start": 1988.8,
+      "end": 1990.38,
+      "text": "  I just, I've never worked with Jimmy."
+    },
+    {
+      "start": 1990.38,
+      "end": 1992.7,
+      "text": "  I think I've talked to Jimmy once in person,"
+    },
+    {
+      "start": 1992.7,
+      "end": 1995.94,
+      "text": "  but this guy is an exceptional human being."
+    },
+    {
+      "start": 1995.94,
+      "end": 1999.34,
+      "text": "  - Yeah, he and I had dinner in New York a little while ago."
+    },
+    {
+      "start": 1999.34,
+      "end": 2000.5,
+      "text": "  He is on top of it."
+    },
+    {
+      "start": 2000.5,
+      "end": 2002.38,
+      "text": "  Like, he lives and breathes the system,"
+    },
+    {
+      "start": 2002.38,
+      "end": 2004.98,
+      "text": "  and he's like, I have a huge opportunity in front of me,"
+    },
+    {
+      "start": 2004.98,
+      "end": 2007.82,
+      "text": "  and it's like an uphill battle fighting Klaviyo"
+    },
+    {
+      "start": 2007.82,
+      "end": 2009.86,
+      "text": "  in some ways, certainly, because Klaviyo's"
+    },
+    {
+      "start": 2009.86,
+      "end": 2011.86,
+      "text": "  an 800-pound girdle in the room."
+    },
+    {
+      "start": 2011.86,
+      "end": 2016.06,
+      "text": "  But like, they're public, they're very expensive."
+    },
+    {
+      "start": 2016.06,
+      "end": 2019.66,
+      "text": "  And so he's like, you know, there's a real challenge to them."
+    },
+    {
+      "start": 2019.66,
+      "end": 2022.06,
+      "text": "  And like, you know, I think one of the first episodes"
+    },
+    {
+      "start": 2022.06,
+      "end": 2023.62,
+      "text": "  at the beginning of the year we talked about"
+    },
+    {
+      "start": 2023.62,
+      "end": 2026.46,
+      "text": "  where like SaaS pricing is gonna come down,"
+    },
+    {
+      "start": 2026.46,
+      "end": 2029.54,
+      "text": "  Yapo pricing has already, Yapo has said at least"
+    },
+    {
+      "start": 2029.54,
+      "end": 2031.7,
+      "text": "  that they brought pricing down, although I haven't,"
+    },
+    {
+      "start": 2031.7,
+      "end": 2034.18,
+      "text": "  like, you know, I'm not in the details enough to know that."
+    },
+    {
+      "start": 2034.18,
+      "end": 2037.18,
+      "text": "  But I also think that Klaviyo will have to bring pricing down"
+    },
+    {
+      "start": 2037.18,
+      "end": 2039.74,
+      "text": "  because more and more people, like more and more"
+    },
+    {
+      "start": 2039.74,
+      "end": 2042.66,
+      "text": "  of their $10,000 a month accounts are gonna go to Senn Lane"
+    },
+    {
+      "start": 2042.66,
+      "end": 2044.22,
+      "text": "  as opposed to being Klaviyo."
+    },
+    {
+      "start": 2044.22,
+      "end": 2046.38,
+      "text": "  If the cost difference is $50,000,"
+    },
+    {
+      "start": 2046.38,
+      "end": 2047.98,
+      "text": "  a lot of these businesses are bootstrapped,"
+    },
+    {
+      "start": 2047.98,
+      "end": 2052.46,
+      "text": "  and like $50,000 means too insane vacations"
+    },
+    {
+      "start": 2052.46,
+      "end": 2055.62,
+      "text": "  for like, you know, a bootstrap, the owner of that business,"
+    },
+    {
+      "start": 2055.62,
+      "end": 2058.1,
+      "text": "  or five insane vacations, or like, you know,"
+    },
+    {
+      "start": 2058.1,
+      "end": 2059.78,
+      "text": "  putting a kid through college."
+    },
+    {
+      "start": 2059.78,
+      "end": 2062.62,
+      "text": "  And so I was a parent, and I was running my business,"
+    },
+    {
+      "start": 2062.62,
+      "end": 2065.18,
+      "text": "  and I was like, should I pay Klaviyo 10 or Senn Lane 5?"
+    },
+    {
+      "start": 2065.18,
+      "end": 2066.86,
+      "text": "  I'd be like, well, there's tuition"
+    },
+    {
+      "start": 2066.86,
+      "end": 2068.06,
+      "text": "  if I switch over to Senn Lane."
+    },
+    {
+      "start": 2068.06,
+      "end": 2070.62,
+      "text": "  And so I think, you know, I do think that Klaviyo"
+    },
+    {
+      "start": 2070.62,
+      "end": 2072.22,
+      "text": "  will have to respond to that at some point."
+    },
+    {
+      "start": 2072.22,
+      "end": 2074.02,
+      "text": "  But let me go through the email and what he--"
+    },
+    {
+      "start": 2074.02,
+      "end": 2074.86,
+      "text": "  - Perfect."
+    },
+    {
+      "start": 2074.86,
+      "end": 2077.06,
+      "text": "  - So let me start out by saying what Google has said."
+    },
+    {
+      "start": 2077.06,
+      "end": 2079.82,
+      "text": "  So they switch these enforcement guidelines"
+    },
+    {
+      "start": 2079.82,
+      "end": 2082.9,
+      "text": "  starting February 1st, 2024."
+    },
+    {
+      "start": 2082.9,
+      "end": 2085.5,
+      "text": "  We're on, we're on February 4th when we're recording this."
+    },
+    {
+      "start": 2085.5,
+      "end": 2087.82,
+      "text": "  So we're very close to that date."
+    },
+    {
+      "start": 2087.82,
+      "end": 2089.74,
+      "text": "  And what they said is,"
+    },
+    {
+      "start": 2089.74,
+      "end": 2092.74,
+      "text": "  enforcement for bulk centers that don't meet these guidelines"
+    },
+    {
+      "start": 2092.74,
+      "end": 2094.22,
+      "text": "  will be gradual."
+    },
+    {
+      "start": 2094.22,
+      "end": 2096.1,
+      "text": "  And so what will happen is bulk centers,"
+    },
+    {
+      "start": 2096.1,
+      "end": 2098.06,
+      "text": "  and bulk centers are defined as people who send out"
+    },
+    {
+      "start": 2098.06,
+      "end": 2101.22,
+      "text": "  more than 5,000 emails in one day."
+    },
+    {
+      "start": 2101.22,
+      "end": 2102.86,
+      "text": "  And so like, you know, that'd be great if you were like,"
+    },
+    {
+      "start": 2102.86,
+      "end": 2105.06,
+      "text": "  look, I have to get to 5,000 transactions a day"
+    },
+    {
+      "start": 2105.06,
+      "end": 2106.74,
+      "text": "  in order to become a bulk sender."
+    },
+    {
+      "start": 2106.74,
+      "end": 2108.78,
+      "text": "  Well chances are you're sending a campaign email"
+    },
+    {
+      "start": 2108.78,
+      "end": 2110.1,
+      "text": "  to more than 5,000 people."
+    },
+    {
+      "start": 2110.1,
+      "end": 2110.92,
+      "text": "  - Yeah, plus the girls."
+    },
+    {
+      "start": 2110.92,
+      "end": 2113.22,
+      "text": "  - So you already a bulk sender, plus the flows."
+    },
+    {
+      "start": 2113.22,
+      "end": 2115.22,
+      "text": "  Yeah, and like, you know, Black Friday's gonna come up."
+    },
+    {
+      "start": 2115.22,
+      "end": 2116.06,
+      "text": "  - Right."
+    },
+    {
+      "start": 2116.06,
+      "end": 2118.98,
+      "text": "  So anyway, so like it says in February, 2024,"
+    },
+    {
+      "start": 2118.98,
+      "end": 2121.14,
+      "text": "  bulk centers who don't meet their requirements"
+    },
+    {
+      "start": 2121.14,
+      "end": 2122.94,
+      "text": "  will start getting temporary errors."
+    },
+    {
+      "start": 2122.94,
+      "end": 2125.3,
+      "text": "  And I've already seen some of these come across frankly,"
+    },
+    {
+      "start": 2125.3,
+      "end": 2126.62,
+      "text": "  and it's only the fourth."
+    },
+    {
+      "start": 2126.62,
+      "end": 2128.58,
+      "text": "  So I'm a little nervous now."
+    },
+    {
+      "start": 2128.58,
+      "end": 2132.26,
+      "text": "  On a small percentage of their non-compliant email traffic."
+    },
+    {
+      "start": 2132.26,
+      "end": 2135.06,
+      "text": "  In April, 2024, this is what Google says,"
+    },
+    {
+      "start": 2135.06,
+      "end": 2137.62,
+      "text": "  we'll start rejecting a percentage of non-compliant email"
+    },
+    {
+      "start": 2137.62,
+      "end": 2140.7,
+      "text": "  traffic and will gradually increase the rejection rate."
+    },
+    {
+      "start": 2140.7,
+      "end": 2143.82,
+      "text": "  For example, if 75% of a sender's traffic"
+    },
+    {
+      "start": 2143.82,
+      "end": 2146.58,
+      "text": "  meets our requirements, we'll start rejecting a percentage"
+    },
+    {
+      "start": 2146.58,
+      "end": 2150.54,
+      "text": "  of the remaining 25% of the traffic that isn't compliant."
+    },
+    {
+      "start": 2150.54,
+      "end": 2152.74,
+      "text": "  And so what they're basically saying here is that,"
+    },
+    {
+      "start": 2152.74,
+      "end": 2154.66,
+      "text": "  look, we have these requirements,"
+    },
+    {
+      "start": 2154.66,
+      "end": 2156.74,
+      "text": "  and if you don't do what we're telling you to do right away,"
+    },
+    {
+      "start": 2156.74,
+      "end": 2158.9,
+      "text": "  it's not gonna be a flip of a switch."
+    },
+    {
+      "start": 2158.9,
+      "end": 2160.86,
+      "text": "  It'll be like gradual, sort of like a dimmer"
+    },
+    {
+      "start": 2160.86,
+      "end": 2162.18,
+      "text": "  versus the flip of light switch"
+    },
+    {
+      "start": 2162.18,
+      "end": 2164.18,
+      "text": "  where we're gonna make it harder and harder"
+    },
+    {
+      "start": 2164.18,
+      "end": 2165.78,
+      "text": "  for your emails to get delivered"
+    },
+    {
+      "start": 2165.78,
+      "end": 2167.9,
+      "text": "  before you start becoming a good actor"
+    },
+    {
+      "start": 2167.9,
+      "end": 2169.74,
+      "text": "  as opposed to a bad actor."
+    },
+    {
+      "start": 2169.74,
+      "end": 2171.38,
+      "text": "  I thought this was gonna happen February 1st,"
+    },
+    {
+      "start": 2171.38,
+      "end": 2173.22,
+      "text": "  but they said June 1st, bulk senders"
+    },
+    {
+      "start": 2173.22,
+      "end": 2176.34,
+      "text": "  have until June 1st to implement one click unsubscribe"
+    },
+    {
+      "start": 2176.34,
+      "end": 2179.5,
+      "text": "  in all commercial, promotional messages."
+    },
+    {
+      "start": 2179.5,
+      "end": 2182.02,
+      "text": "  So you do have a little bit more time to do that."
+    },
+    {
+      "start": 2182.02,
+      "end": 2185.66,
+      "text": "  But it does say that 0.3% spam rates will get you blocked,"
+    },
+    {
+      "start": 2185.66,
+      "end": 2186.5,
+      "text": "  or like, you know, I'm sorry,"
+    },
+    {
+      "start": 2186.5,
+      "end": 2188.14,
+      "text": "  I think the Sendlay guys sent me this."
+    },
+    {
+      "start": 2188.14,
+      "end": 2190.54,
+      "text": "  0.3% spam rates will get you blocked,"
+    },
+    {
+      "start": 2190.54,
+      "end": 2192.02,
+      "text": "  no email will be accepted."
+    },
+    {
+      "start": 2192.02,
+      "end": 2194.06,
+      "text": "  If you have that highest spam rate,"
+    },
+    {
+      "start": 2194.06,
+      "end": 2196.86,
+      "text": "  you've got to wait for that, like,"
+    },
+    {
+      "start": 2196.86,
+      "end": 2198.66,
+      "text": "  you basically have burned yourself"
+    },
+    {
+      "start": 2198.66,
+      "end": 2200.74,
+      "text": "  and you've got to wait for that burn to heal a little bit"
+    },
+    {
+      "start": 2200.74,
+      "end": 2203.94,
+      "text": "  before Google will allow you to send emails to get."
+    },
+    {
+      "start": 2203.94,
+      "end": 2205.94,
+      "text": "  And you know, you can already look at some of this stuff"
+    },
+    {
+      "start": 2205.94,
+      "end": 2207.94,
+      "text": "  by installing Google Postmaster Tools"
+    },
+    {
+      "start": 2207.94,
+      "end": 2209.62,
+      "text": "  on your sending domain."
+    },
+    {
+      "start": 2209.62,
+      "end": 2210.78,
+      "text": "  I guess, let me ask you a question."
+    },
+    {
+      "start": 2210.78,
+      "end": 2212.14,
+      "text": "  Do you think any of this will matter,"
+    },
+    {
+      "start": 2212.14,
+      "end": 2214.26,
+      "text": "  or do you think everybody's already a good enough actor"
+    },
+    {
+      "start": 2214.26,
+      "end": 2215.9,
+      "text": "  generally that's listening to this?"
+    },
+    {
+      "start": 2215.9,
+      "end": 2217.74,
+      "text": "  It's only like those crazy spam,"
+    },
+    {
+      "start": 2217.74,
+      "end": 2220.22,
+      "text": "  you know, I still get a bunch of spam messages."
+    },
+    {
+      "start": 2220.22,
+      "end": 2222.54,
+      "text": "  Obviously it's only the spam guys that are gonna get blocked,"
+    },
+    {
+      "start": 2222.54,
+      "end": 2225.64,
+      "text": "  or do you think like good actors will, like, you know,"
+    },
+    {
+      "start": 2225.64,
+      "end": 2227.22,
+      "text": "  people who are trying to be good actors,"
+    },
+    {
+      "start": 2227.22,
+      "end": 2228.26,
+      "text": "  let me put it that way,"
+    },
+    {
+      "start": 2228.26,
+      "end": 2230.5,
+      "text": "  will also get damaged by this."
+    },
+    {
+      "start": 2230.5,
+      "end": 2231.34,
+      "text": "  I think both."
+    },
+    {
+      "start": 2231.34,
+      "end": 2234.7,
+      "text": "  I think the intention for Google is to get away"
+    },
+    {
+      "start": 2234.7,
+      "end": 2238.34,
+      "text": "  from some of the spam and the scamming"
+    },
+    {
+      "start": 2238.34,
+      "end": 2239.32,
+      "text": "  that happens through email,"
+    },
+    {
+      "start": 2239.32,
+      "end": 2240.14,
+      "text": "  but I do, you know,"
+    },
+    {
+      "start": 2240.14,
+      "end": 2244.3,
+      "text": "  0.3% of the minimum threshold here, which is 5,000."
+    },
+    {
+      "start": 2244.3,
+      "end": 2246.78,
+      "text": "  That's 15 people, 15 people complain."
+    },
+    {
+      "start": 2246.96,
+      "end": 2276.94,
+      "text": "  In a days worth of emails that kind of puts you in red territory with Google which is pretty alarming I do think that good brands or you know really anybody listening to this like you just got to make sure you are constantly auditing what you're doing is what you're doing compliant is it up to the latest information that's been put out by Google you know this is not something that you want to necessarily mess around with we you know we just have to be more careful like there are"
+    },
+    {
+      "start": 2276.94,
+      "end": 2306.7,
+      "text": "  going to be things where you might decide you know maybe it's not worth that extra send over here it's not worth that extra push over here I think people will definitely get penalized by accident but that's because again they're not going to be constantly checking this I think it's going to be huge on you know if you run email for a brand internally or as an agency externally this is the one thing that I think is going to either make your life really great you know it's going to put you on top of the world when somebody recognizes that you"
+    },
+    {
+      "start": 2306.7,
+      "end": 2326.48,
+      "text": "  caught something early before it was too late but it's also going to be the thing that could end your business or could cause a lot of issues because you know if you're running email for a brand that's doing 80 million dollars and you didn't check the box on something that messes with Google and fucks up your email you're fired there's no there's no going back from there"
+    },
+    {
+      "start": 2326.48,
+      "end": 2343.76,
+      "text": "  yeah well not only that like the business is down to you know it's a body blow to the huge body blow to the business yeah yeah I think you're right and generally I think good actors will be fine with most of it where it will trip up good actors is the holiday season"
+    },
+    {
+      "start": 2343.76,
+      "end": 2355.74,
+      "text": "  and I think that's why they started in February because they're like look get into the behavior of like getting good I don't know what things will look like in Black Friday but like you know one of the things that we used to do is we used to be like okay when it comes to Black Friday"
+    },
+    {
+      "start": 2355.74,
+      "end": 2367.56,
+      "text": "  it turns out more emails equals better we'd be like oh we already sent out three should we send out a fourth and we're like it turns out like we did the analytics after a couple years and we're like yes four is better than three and five is better than four"
+    },
+    {
+      "start": 2367.56,
+      "end": 2379.94,
+      "text": "  at some point I think this might reverse the trend and I'm not sure if that's a good thing or a bad thing because I'm not sure there's enough bad actors already like I feel like the system already works but I don't know what it'll look like a few years from now"
+    },
+    {
+      "start": 2379.94,
+      "end": 2393.16,
+      "text": "  I'm trying to think like who's making money off this decision and it doesn't seem like anybody's making more money off this decision which makes me think that this might be something that like the European government is like pushing Google on do you know where any of this started"
+    },
+    {
+      "start": 2393.16,
+      "end": 2407.1,
+      "text": "  know but I think when I think about it all I always go back to like ads it like makes ads better like you know what is going to be helpful is if you run ads into emails now like you know you run those little ads that show up in your Gmail inbox because now ads shop there"
+    },
+    {
+      "start": 2407.1,
+      "end": 2416.98,
+      "text": "  and so I always feel like the guy who's making it harder for merchants to show what they want to you is somehow going to like gate keep those eyeballs and charge you to see them at some point"
+    },
+    {
+      "start": 2416.98,
+      "end": 2428.8,
+      "text": "  speaking of ads and email you know what we haven't seen really any update on is Apple's ad platform or like remember they were hiring a ton of people at one point"
+    },
+    {
+      "start": 2428.8,
+      "end": 2440.04,
+      "text": "  I feel like there hasn't been any news on that their ad platform because they're going to like create a new one based on like iOS 14.5 or their ad platform just for like like you know competitor to Google display sort of"
+    },
+    {
+      "start": 2440.04,
+      "end": 2449.48,
+      "text": "  exactly the latter more so like figuring out how do you show up and put in all the places of inventory that they have"
+    },
+    {
+      "start": 2449.48,
+      "end": 2454.82,
+      "text": "  yeah that is a good question yeah you're right I want to see anything on that"
+    },
+    {
+      "start": 2454.82,
+      "end": 2463.62,
+      "text": "  okay that sounds great okay if we have five more minutes I'm not sure if we have five more minutes but if we do I want to talk about barcodes really quickly because there's this great podcast"
+    },
+    {
+      "start": 2463.62,
+      "end": 2478.58,
+      "text": "  which is like you know turns out like the UPC barcode that we see on all these items was invented by IBM it was made in a very un-American way where a bunch of people got together and they're like let's make a barcode that everybody uses across the world"
+    },
+    {
+      "start": 2478.58,
+      "end": 2490.38,
+      "text": "  or across the United States and nobody will make money on it which is really surprising but that's sort of how it got started and think about like pre barcode you could never have a Walmart right like this the podcast went through this you could never have Walmart"
+    },
+    {
+      "start": 2490.38,
+      "end": 2505.24,
+      "text": "  because you know when I worked at a gas station and for a long time we didn't have a barcode scanner and so I had to know the prices of Snickers bar Snickers king sized bar a Coca-Cola 20 ounce a Coca-Cola can a Coca-Cola leader all those things had to sit in my head"
+    },
+    {
+      "start": 2505.24,
+      "end": 2516.92,
+      "text": "  and you know when we got a barcode scanner we could program everything like you know when we hired an employee we're like great you work here now you cannot like run the cash register until you remember the prices of everything in this store"
+    },
+    {
+      "start": 2516.92,
+      "end": 2528.46,
+      "text": "  a lot of the prices we tried to put with a price tag on each individual item so if we got like a box of Snickers we put a price tag on each individual item but sometimes we wouldn't do that and so the cash register to remember all the prices"
+    },
+    {
+      "start": 2528.46,
+      "end": 2541.04,
+      "text": "  UPC made it like made it so Walmart could operate right like you could all of a sudden have 200,000 skews in a store and like you know the cash register could just scan an item and didn't matter what she didn't have to remember the price or he didn't have to remember the price"
+    },
+    {
+      "start": 2541.04,
+      "end": 2552.54,
+      "text": "  in 2027 barcodes are going to change like the UPC codes that you see on every single boxes cereal and Snickers bar and Coca-Cola are going to change and they're going to change to QR codes"
+    },
+    {
+      "start": 2552.54,
+      "end": 2562.98,
+      "text": "  and the blue or codes are going to contain way more information and so imagine like the UPC code can only know like the name of something and the price is something"
+    },
+    {
+      "start": 2562.98,
+      "end": 2575.8,
+      "text": "  like you know like that's what it does but in the QR codes can contain way more information and so what it can say is this milk when you scan it the scanner and the computer can know the expiration date of this milk versus another"
+    },
+    {
+      "start": 2575.8,
+      "end": 2589.78,
+      "text": "  another bottle of milk even though they sort of share the same price and so they can contain the ingredients and so you can go in and say like imagine going to a grocery store and you know how a whole foods you scan your like prime code"
+    },
+    {
+      "start": 2589.78,
+      "end": 2598,
+      "text": "  QR code your prime code imagine if you scan that and said hey look we know that you're allergic to dairy these three items that you purchased have dairy."
+    },
+    {
+      "start": 2598,
+      "end": 2605.34,
+      "text": "  Oh yeah that is sick or imagine and this is none of this is my thinking this is the this was all in the podcast."
+    },
+    {
+      "start": 2605.34,
+      "end": 2607.1,
+      "text": "  It was so good."
+    },
+    {
+      "start": 2607.1,
+      "end": 2619.18,
+      "text": "  Yeah another thing they said it was like imagine if this milk is expiring this milk is going to expire in three days other milk is going to expire in a week we're only going to put on sale milk that expires three days."
+    },
+    {
+      "start": 2619.18,
+      "end": 2633.78,
+      "text": "  You can just program that into your system even though it's the exact same milk they have different expiration dates well now this is for sale this is on sale faster than this is on sale or you can be like this you know what this box of cereal is expired when you scan it you're like this box is expired don't sell this"
+    },
+    {
+      "start": 2633.78,
+      "end": 2656.06,
+      "text": "  and so QR codes in 2027 are going to like make it so that retail stores have a lot more flexibility and knowledge when it comes to checking out and I saw this podcast I was like this is amazing like this is a little QR codes have been around since the 40s and so in 2020 like you know it's been"
+    },
+    {
+      "start": 2656.06,
+      "end": 2673.02,
+      "text": "  almost 100 years of UPC codes we're going to change to QR codes and the basic of the article ended with the death of QR codes is going to come to because Amazon is trying to make it so that their AI like they could just have a computer like they can have a camera and identify with the product is through AI they don't even need to scan a code."
+    },
+    {
+      "start": 2673.02,
+      "end": 2685.7,
+      "text": "  Wow I guess between AI and QR codes they're going to completely skip the whole NFC tagging which I feel like had potential up until AI came out and AI computer vision."
+    },
+    {
+      "start": 2685.7,
+      "end": 2699.26,
+      "text": "  Remember NFC's like you could basically hover your phone over a product and it would just pop up with you know you don't have to scan something with a camera it just picks up on the sticker and the information that's hidden in the sticker."
+    },
+    {
+      "start": 2699.26,
+      "end": 2713.3,
+      "text": "  Yeah yeah you know who does this I think is unique low have you been to unique low ever in like so there's like if you go to the self check out a unique low you can take like I bought my jazz buying a jacket from there and they're just like put it in this box"
+    },
+    {
+      "start": 2713.3,
+      "end": 2726.3,
+      "text": "  and you put it in the box and it scans it's it got an RFID actually and it knows what the item is as a result of the RFID you can put in 40 items at a time into the box I think you scans all of the RFID's and charges you right away."
+    },
+    {
+      "start": 2726.3,
+      "end": 2742.1,
+      "text": "  Wow that's crazy how how fast the world is evolving and it's so much fun to see I know it's awesome I'm really curious how the QR code is going to translate to e-commerce or to data collection or warranty registration things like that."
+    },
+    {
+      "start": 2742.1,
+      "end": 2757.1,
+      "text": "  I know there's so many possibilities to point okay awesome I think that's a wrap for this episode next episode we got to do a few things one is I want to audit this website with you where we do a conversion rate optimization audit of a website that we chose through Twitter."
+    },
+    {
+      "start": 2757.1,
+      "end": 2768.1,
+      "text": "  I'm not going to tell you what this site is we're going to do it live on the next episode there's some M and H that I want to talk to you about not pods bloom nutrition which we haven't talked about bloom nutrition just raised 90 million dollars."
+    },
+    {
+      "start": 2768.1,
+      "end": 2775.1,
+      "text": "  Sonzo and then a little bit more news about Facebook and maybe even about something Navy if we've got time on the next episode."
+    },
+    {
+      "start": 2775.1,
+      "end": 2777.1,
+      "text": "  Amazing I'm pumped."
+    },
+    {
+      "start": 2777.1,
+      "end": 2779.1,
+      "text": "  Awesome thanks so much for your time guys."
+    },
+    {
+      "start": 2779.1,
+      "end": 2780.1,
+      "text": "  See ya."
+    },
+    {
+      "start": 2780.1,
+      "end": 2785.1,
+      "text": "  Thanks for tuning in we'll be back next time to cut through the noise and CPG retail and e-commerce."
+    },
+    {
+      "start": 2785.1,
+      "end": 2793.1,
+      "text": "  And if you enjoyed this episode then why not share it with a friend and be sure to subscribe wherever you listen so you don't miss the next one."
+    },
+    {
+      "start": 2793.1,
+      "end": 2808.1,
+      "text": "  [Music]"
+    }
+  ]
+}

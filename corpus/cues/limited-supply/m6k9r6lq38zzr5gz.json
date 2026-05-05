@@ -1,0 +1,2974 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 5.4,
+      "text": "[SPEAKER_00]: What is a product? How does it benefit me? Why should I trust the brand? How does it compare"
+    },
+    {
+      "start": 5.4,
+      "end": 10.06,
+      "text": "[SPEAKER_00]: to other options on the market? When will it arrive if I order it today and what if I don't like it?"
+    },
+    {
+      "start": 10.82,
+      "end": 16.94,
+      "text": "[SPEAKER_00]: Now, how does it benefit me one is strictly just reinforcing benefits. Let's say you get your hero"
+    },
+    {
+      "start": 16.94,
+      "end": 21.12,
+      "text": "[SPEAKER_00]: section and you explain the product, you know, you're going down the page. Now let's think"
+    },
+    {
+      "start": 21.12,
+      "end": 26.34,
+      "text": "[SPEAKER_00]: about how does it benefit me? Well, that could be a very clear like UGC section, right,"
+    },
+    {
+      "start": 26.34,
+      "end": 29.5,
+      "text": "[SPEAKER_00]: where you just have customers who talk about how the product changed their life."
+    },
+    {
+      "start": 29.86,
+      "end": 33.7,
+      "text": "[SPEAKER_00]: That answers that question. Now you go to the next one. Why should I trust this brand?"
+    },
+    {
+      "start": 34.02,
+      "end": 38.28,
+      "text": "[SPEAKER_00]: Or how does it compare to others, right? You can bring in different elements or create"
+    },
+    {
+      "start": 38.28,
+      "end": 42.56,
+      "text": "[SPEAKER_00]: different modules, whether it's a founder story, that might answer why should I trust this brand?"
+    },
+    {
+      "start": 43.18,
+      "end": 46.32,
+      "text": "[SPEAKER_00]: You might want to bring in a comparison chart to talk about how does it compare to others?"
+    },
+    {
+      "start": 46.74,
+      "end": 51.64,
+      "text": "[SPEAKER_00]: You might want to bring in a returns policy or a satisfaction guarantee or magic spoon has a"
+    },
+    {
+      "start": 51.64,
+      "end": 56.74,
+      "text": "[SPEAKER_00]: happiness guarantee, right? And that answers the what if I don't like it? All your landing pages and"
+    },
+    {
+      "start": 56.74,
+      "end": 61.32,
+      "text": "[SPEAKER_00]: really just sales in general is just answering these five questions over and over and over again."
+    },
+    {
+      "start": 62.36,
+      "end": 67.96,
+      "text": "[SPEAKER_00]: Welcome to limited supply, the place for refreshingly real takes on what D2C is really like."
+    },
+    {
+      "start": 68.28,
+      "end": 73.9,
+      "text": "[SPEAKER_00]: I'm your host Nick Sharma. Let's start talking about money. If you're a seller on Shopify,"
+    },
+    {
+      "start": 74.3,
+      "end": 77.4,
+      "text": "[SPEAKER_00]: if you're a merchant on Shopify, you sell e-commerce and you use Shopify."
+    },
+    {
+      "start": 77.4,
+      "end": 81.76,
+      "text": "[SPEAKER_00]: Then let me tell you about an app that you absolutely need to use. It's called AfterSell."
+    },
+    {
+      "start": 82.06,
+      "end": 86.24,
+      "text": "[SPEAKER_00]: It's the fastest growing upsell app on Shopify and it helps you do a few different things."
+    },
+    {
+      "start": 86.62,
+      "end": 90.58,
+      "text": "[SPEAKER_00]: It helps you with post purchase upsells, it helps you with editing your checkout and also just"
+    },
+    {
+      "start": 90.58,
+      "end": 96.02,
+      "text": "[SPEAKER_00]: building an optimized cart drawer. This helps you get higher AOVs, higher Upt's and cross sell"
+    },
+    {
+      "start": 96.02,
+      "end": 99.82,
+      "text": "[SPEAKER_00]: your products based on what your customers are shopping for. If you have someone buying"
+    },
+    {
+      "start": 99.82,
+      "end": 104.1,
+      "text": "[SPEAKER_00]: a backpack on your site and you also sell luggage, you can use AfterSell to cross sell"
+    },
+    {
+      "start": 104.1,
+      "end": 109.84,
+      "text": "[SPEAKER_00]: luggage or vice versa. It's used by over 25,000 brands including Jones Road, Hexclad, Skims,"
+    },
+    {
+      "start": 110.26,
+      "end": 115.34,
+      "text": "[SPEAKER_00]: True Classic and more and on average their clients see an AOV boost of up to 30%. On top"
+    },
+    {
+      "start": 115.34,
+      "end": 118.98,
+      "text": "[SPEAKER_00]: of that from your order confirmation page you can generate revenue with AfterSell's network"
+    },
+    {
+      "start": 118.98,
+      "end": 123.62,
+      "text": "[SPEAKER_00]: offers. If you want to get a demo of AfterSell go to aftersell.com slash limited."
+    },
+    {
+      "start": 124.1,
+      "end": 128.08,
+      "text": "[SPEAKER_00]: Sign up now and get AfterSell free for 60 days for limited supply listeners."
+    },
+    {
+      "start": 128.52,
+      "end": 133.22,
+      "text": "[SPEAKER_00]: Again that's aftersell.com slash limited. All right welcome back to limited supply."
+    },
+    {
+      "start": 133.22,
+      "end": 139.88,
+      "text": "[SPEAKER_00]: This is season nine episode three. All right I just finished recording a solo episode."
+    },
+    {
+      "start": 140.04,
+      "end": 143.2,
+      "text": "[SPEAKER_00]: It's my first solo episode so you're going to hear me ask you for feedback throughout the"
+    },
+    {
+      "start": 143.2,
+      "end": 147.4,
+      "text": "[SPEAKER_00]: episode. Please send me feedback, I crave feedback. Give me all the criticism. I want"
+    },
+    {
+      "start": 147.4,
+      "end": 151,
+      "text": "[SPEAKER_00]: to make this the best possible thing and I'm not afraid to be embarrassed in the process."
+    },
+    {
+      "start": 151.8,
+      "end": 157.36,
+      "text": "[SPEAKER_00]: We talked all about landing pages, advertorials and whitelisted crater content."
+    },
+    {
+      "start": 157.98,
+      "end": 163.32,
+      "text": "[SPEAKER_00]: Everything from what CMS do I use for landing pages, how do I build an advertorial site so"
+    },
+    {
+      "start": 163.32,
+      "end": 168.22,
+      "text": "[SPEAKER_00]: I don't have to pay a publisher $30,000 and where do I source crater so I don't have to"
+    },
+    {
+      "start": 168.22,
+      "end": 173.46,
+      "text": "[SPEAKER_00]: pay an influencer platform $12,000 a year. I highly recommend you listen to the episode."
+    },
+    {
+      "start": 173.7,
+      "end": 178.92,
+      "text": "[SPEAKER_00]: I think that in the grand scheme of things you should make at least 100k from this episode"
+    },
+    {
+      "start": 179.4,
+      "end": 183.06,
+      "text": "[SPEAKER_00]: from implementing these tactics. If you're a larger brand you're probably going to make"
+    },
+    {
+      "start": 183.06,
+      "end": 188.66,
+      "text": "[SPEAKER_00]: a million bucks but this is stuff that should work right away. It's easy to implement, it's free"
+    },
+    {
+      "start": 188.66,
+      "end": 192.92,
+      "text": "[SPEAKER_00]: to implement. Nothing you have to do here is going to cost you money and if you have any"
+    },
+    {
+      "start": 192.92,
+      "end": 197.12,
+      "text": "[SPEAKER_00]: additional questions email me I'm always happy to help. There's a bunch of you that do email"
+    },
+    {
+      "start": 197.12,
+      "end": 201.3,
+      "text": "[SPEAKER_00]: me with random questions and I love it. I love writing responses to those. I'm providing"
+    },
+    {
+      "start": 201.3,
+      "end": 205.76,
+      "text": "[SPEAKER_00]: a bunch of examples so don't hesitate to do that and yeah I'm curious to see what you think."
+    },
+    {
+      "start": 206.12,
+      "end": 211.62,
+      "text": "[SPEAKER_00]: First solo episode coming right up. I'll see you right here. All right we're back. This"
+    },
+    {
+      "start": 211.62,
+      "end": 217.18,
+      "text": "[SPEAKER_00]: is my first episode of limited supply where I'm doing it solo. This is the first time I've done"
+    },
+    {
+      "start": 217.18,
+      "end": 221.66,
+      "text": "[SPEAKER_00]: an episode, no moys, no guest and this is the first time you're also hearing a solo episode with"
+    },
+    {
+      "start": 221.66,
+      "end": 227.72,
+      "text": "[SPEAKER_00]: myself so I'm very excited for it although I'm a little bit nervous I gotta say. This is probably"
+    },
+    {
+      "start": 227.72,
+      "end": 232.1,
+      "text": "[SPEAKER_00]: the fourth time I've started this recording in the last two days but I keep telling myself"
+    },
+    {
+      "start": 232.1,
+      "end": 236.82,
+      "text": "[SPEAKER_00]: that by the tenth episode it's going to be perfect so by the tenth episode that I record"
+    },
+    {
+      "start": 236.82,
+      "end": 241.82,
+      "text": "[SPEAKER_00]: myself I feel super confident in everything that's recorded. I'm going to feel really good"
+    },
+    {
+      "start": 241.82,
+      "end": 247,
+      "text": "[SPEAKER_00]: about how everything looks and I'm not going to be stuttering until then bear with me. There may"
+    },
+    {
+      "start": 247,
+      "end": 252.3,
+      "text": "[SPEAKER_00]: be some some hiccups but hopefully not too many. So you might be wondering now that Moys is also"
+    },
+    {
+      "start": 252.3,
+      "end": 257.08,
+      "text": "[SPEAKER_00]: not here how is limited supply going to change? Well there's actually two people who work behind"
+    },
+    {
+      "start": 257.08,
+      "end": 263.02,
+      "text": "[SPEAKER_00]: the scenes quite a bit on limited supply. There's actually three there's Austin who is on our"
+    },
+    {
+      "start": 263.02,
+      "end": 268.82,
+      "text": "[SPEAKER_00]: partnerships team. He's the one who sets up all of our sponsorships. Ben is our producer and so is"
+    },
+    {
+      "start": 268.82,
+      "end": 275.36,
+      "text": "[SPEAKER_00]: Tyler and they are just fantastic humans and so we've really spent some time trying to figure out"
+    },
+    {
+      "start": 275.36,
+      "end": 279.66,
+      "text": "[SPEAKER_00]: okay we've got this amazing community with limited supply you know there's thousands of listeners"
+    },
+    {
+      "start": 279.66,
+      "end": 284.08,
+      "text": "[SPEAKER_00]: that listen to an episode within 24 hours. We also have a crazy good engagement rate with"
+    },
+    {
+      "start": 284.08,
+      "end": 286.82,
+      "text": "[SPEAKER_00]: limited supply which is awesome that means that the content we've been putting out"
+    },
+    {
+      "start": 286.82,
+      "end": 292.78,
+      "text": "[SPEAKER_00]: really resonates with people and we've also got this Slack community with about four to five thousand"
+    },
+    {
+      "start": 292.78,
+      "end": 298.1,
+      "text": "[SPEAKER_00]: people that's super active and segmented into different buckets based on how big of a brand"
+    },
+    {
+      "start": 298.1,
+      "end": 301.42,
+      "text": "[SPEAKER_00]: you are so you're not interfacing with people who are talking about things that you have no idea"
+    },
+    {
+      "start": 301.42,
+      "end": 305.3,
+      "text": "[SPEAKER_00]: what they're saying. So we've got all this and we're going to try a couple things. We're going to"
+    },
+    {
+      "start": 305.3,
+      "end": 310.26,
+      "text": "[SPEAKER_00]: try some exciting episodes in master classes so you kind of heard the first two episodes one"
+    },
+    {
+      "start": 310.26,
+      "end": 315.22,
+      "text": "[SPEAKER_00]: was Diana with Crown Affair, one was with Hexclad's founder and president Jason and"
+    },
+    {
+      "start": 315.22,
+      "end": 319.44,
+      "text": "[SPEAKER_00]: Danny. We're going to try to keep doing more of these master class style episodes because"
+    },
+    {
+      "start": 319.44,
+      "end": 323.62,
+      "text": "[SPEAKER_00]: they work well whether you listen to it today and you want to learn about product development or"
+    },
+    {
+      "start": 323.62,
+      "end": 328.04,
+      "text": "[SPEAKER_00]: brand identity or how to work with celebrities but they also work if you listen to the episode"
+    },
+    {
+      "start": 328.04,
+      "end": 333.02,
+      "text": "[SPEAKER_00]: two years from now so that's one thing I'm really excited about. I also want to bring in some"
+    },
+    {
+      "start": 333.66,
+      "end": 337.76,
+      "text": "[SPEAKER_00]: multiple guest episodes so maybe do something like the second time founders episode"
+    },
+    {
+      "start": 337.76,
+      "end": 342.94,
+      "text": "[SPEAKER_00]: where we get really really successfully exited founders who are now building their second or third"
+    },
+    {
+      "start": 342.94,
+      "end": 348.64,
+      "text": "[SPEAKER_00]: company except now this time they've got all the secrets as to what made the company succeed"
+    },
+    {
+      "start": 348.64,
+      "end": 353.26,
+      "text": "[SPEAKER_00]: and so I'm really curious to see and hear from them about how they're doing that. Some of these"
+    },
+    {
+      "start": 353.26,
+      "end": 357.26,
+      "text": "[SPEAKER_00]: people are actually clients of ours which is really cool because you know they sold their"
+    },
+    {
+      "start": 357.26,
+      "end": 360.92,
+      "text": "[SPEAKER_00]: first company for a few hundred million dollars now they're launching another company we can"
+    },
+    {
+      "start": 360.92,
+      "end": 364.62,
+      "text": "[SPEAKER_00]: actually see how they think about things differently whether that's product whether"
+    },
+    {
+      "start": 364.62,
+      "end": 369.12,
+      "text": "[SPEAKER_00]: that's distribution whether that's capital whether that's you know working with VCs whatever"
+    },
+    {
+      "start": 369.12,
+      "end": 374.12,
+      "text": "[SPEAKER_00]: it may be and so I'm really excited for that and then I also want to try some shorter stuff so"
+    },
+    {
+      "start": 374.12,
+      "end": 378.26,
+      "text": "[SPEAKER_00]: in addition to the weekly episode cadence that you've been used to for the last nine seasons"
+    },
+    {
+      "start": 378.78,
+      "end": 384.72,
+      "text": "[SPEAKER_00]: we want to try breaking out current events and kind of more news stuff that's more basically"
+    },
+    {
+      "start": 384.72,
+      "end": 388.28,
+      "text": "[SPEAKER_00]: present oriented versus something that's going to be relevant in a couple years"
+    },
+    {
+      "start": 388.28,
+      "end": 393.54,
+      "text": "[SPEAKER_00]: so we might break out some new stuff and do that in a smaller episode maybe like 15-20 minutes"
+    },
+    {
+      "start": 393.54,
+      "end": 400.08,
+      "text": "[SPEAKER_00]: and then I also really want to try to get you know when I think about like dream podcast guests to"
+    },
+    {
+      "start": 400.08,
+      "end": 406.3,
+      "text": "[SPEAKER_00]: get on most of them don't necessarily have an hour or 45 minutes and a lot of times they can't just"
+    },
+    {
+      "start": 406.3,
+      "end": 409.58,
+      "text": "[SPEAKER_00]: come to a studio because you know that requires time for an effort there's a lot of time that goes"
+    },
+    {
+      "start": 409.58,
+      "end": 415.68,
+      "text": "[SPEAKER_00]: into a podcast and so what I want to do is try some mini episodes where we have a set of questions"
+    },
+    {
+      "start": 416.24,
+      "end": 421.1,
+      "text": "[SPEAKER_00]: and it's the same set of questions and the idea would be whether I run into somebody at"
+    },
+    {
+      "start": 421.1,
+      "end": 426.5,
+      "text": "[SPEAKER_00]: the airport and I've got a mic on me or I do a FaceTime call and we record it to get in front of"
+    },
+    {
+      "start": 426.5,
+      "end": 434.52,
+      "text": "[SPEAKER_00]: really cool smart innovative on-the-front lines type of people whether that's founders or celebrities"
+    },
+    {
+      "start": 434.52,
+      "end": 439.58,
+      "text": "[SPEAKER_00]: or whatever it is and just get them to do a quick five question episode you know something"
+    },
+    {
+      "start": 439.58,
+      "end": 445.78,
+      "text": "[SPEAKER_00]: that's fun and quick and doesn't take too much time so that's what's coming up today's"
+    },
+    {
+      "start": 445.78,
+      "end": 448.78,
+      "text": "[SPEAKER_00]: episode is actually going to be the first episode of a new format we want to try called"
+    },
+    {
+      "start": 448.78,
+      "end": 455.22,
+      "text": "[SPEAKER_00]: the tactical foreplay and the idea is to dive into four different things very tactically so it's"
+    },
+    {
+      "start": 455.22,
+      "end": 460.26,
+      "text": "[SPEAKER_00]: going to be a very dense episode and the goal is that by the end of this you're generating you"
+    },
+    {
+      "start": 460.26,
+      "end": 466.76,
+      "text": "[SPEAKER_00]: know at least 100k from the tactics that we talk about so let's get into it let's talk about"
+    },
+    {
+      "start": 466.76,
+      "end": 471.9,
+      "text": "[SPEAKER_00]: the foreplay of the tactical foreplay so what are people mostly doing when I tend to work"
+    },
+    {
+      "start": 471.9,
+      "end": 475.4,
+      "text": "[SPEAKER_00]: with brands or we start talking to brands that want to work with us at Sharma brands"
+    },
+    {
+      "start": 475.4,
+      "end": 481,
+      "text": "[SPEAKER_00]: I always go to their website and I look at their similar web numbers then I look at their"
+    },
+    {
+      "start": 481,
+      "end": 485.74,
+      "text": "[SPEAKER_00]: wapalizer wapalizer is like a chrome extension I look at that just to see what kind of tech"
+    },
+    {
+      "start": 485.74,
+      "end": 490.6,
+      "text": "[SPEAKER_00]: stack are they running right if they're running with heavy tech and you can see heat maps and you"
+    },
+    {
+      "start": 490.6,
+      "end": 496.54,
+      "text": "[SPEAKER_00]: can see SMS and you can see loyalty program like you kind of you can kind of understand how"
+    },
+    {
+      "start": 496.54,
+      "end": 501.7,
+      "text": "[SPEAKER_00]: sophisticated they are or how long they've been around or how tactical is their team based"
+    },
+    {
+      "start": 501.7,
+      "end": 506.26,
+      "text": "[SPEAKER_00]: on some of the tech they have on their site the other thing I love doing is going straight to their"
+    },
+    {
+      "start": 506.26,
+      "end": 511.66,
+      "text": "[SPEAKER_00]: ads library and the ads library gives me a really good understanding of how sophisticated are they"
+    },
+    {
+      "start": 511.66,
+      "end": 518.72,
+      "text": "[SPEAKER_00]: when it comes to thinking about messaging angles offers funnels even just like how are they"
+    },
+    {
+      "start": 518.72,
+      "end": 523.58,
+      "text": "[SPEAKER_00]: presenting themselves are they running traffic to the homepage and a product page are they just"
+    },
+    {
+      "start": 523.58,
+      "end": 529.42,
+      "text": "[SPEAKER_00]: using static ads are they innovating on different formats of ads just gives us a really good"
+    },
+    {
+      "start": 529.42,
+      "end": 534.12,
+      "text": "[SPEAKER_00]: understanding of what they're doing so today's tactical foreplay is actually going to be really"
+    },
+    {
+      "start": 534.12,
+      "end": 541.06,
+      "text": "[SPEAKER_00]: focused on new customer acquisition and I want to talk about four specific things four specific"
+    },
+    {
+      "start": 541.06,
+      "end": 546.68,
+      "text": "[SPEAKER_00]: strategies and go super in depth even giving you the know how of how to do this on your own so"
+    },
+    {
+      "start": 547.72,
+      "end": 551.5,
+      "text": "[SPEAKER_00]: obviously I do it but you don't need to hire me because I'm going to tell you exactly how"
+    },
+    {
+      "start": 551.5,
+      "end": 556.16,
+      "text": "[SPEAKER_00]: to do it on your own so that you can do it for yourself or you know do it for a friend"
+    },
+    {
+      "start": 557.54,
+      "end": 563.42,
+      "text": "[SPEAKER_00]: now as we know the hardest thing to earn right is attention this is why celebrity brands do so well"
+    },
+    {
+      "start": 563.86,
+      "end": 569.32,
+      "text": "[SPEAKER_00]: when you have a celebrity brand you know let's take uh Gordon Ramsay right when Gordon Ramsay"
+    },
+    {
+      "start": 569.32,
+      "end": 574.22,
+      "text": "[SPEAKER_00]: tells you about cookware you're listening you're bought in you're invested you've also you've"
+    },
+    {
+      "start": 574.22,
+      "end": 577.44,
+      "text": "[SPEAKER_00]: known you know the Gordon Ramsay brand right you know what he stands for you know what his"
+    },
+    {
+      "start": 577.44,
+      "end": 581.28,
+      "text": "[SPEAKER_00]: values are you know he doesn't deal with bullshit and you know that he's not going to use"
+    },
+    {
+      "start": 581.28,
+      "end": 585.18,
+      "text": "[SPEAKER_00]: bad products and that he's not going to put his name behind something that he doesn't believe in"
+    },
+    {
+      "start": 585.86,
+      "end": 590.82,
+      "text": "[SPEAKER_00]: and this is why celebrity brands do so well because as soon as you launch you're basically"
+    },
+    {
+      "start": 590.82,
+      "end": 596.26,
+      "text": "[SPEAKER_00]: leveraging the trust that somebody has already earned which makes it very easy much easier"
+    },
+    {
+      "start": 596.26,
+      "end": 603.24,
+      "text": "[SPEAKER_00]: for a brand who has a celebrity to sort of give that sales pitch it's why we've talked about how"
+    },
+    {
+      "start": 604.02,
+      "end": 611.64,
+      "text": "[SPEAKER_00]: bonobos experiences a three to four x a ov in retail stores versus online it's a very similar"
+    },
+    {
+      "start": 611.64,
+      "end": 616.94,
+      "text": "[SPEAKER_00]: concept right when somebody's walked in they're already invested you've already cracked that code"
+    },
+    {
+      "start": 616.94,
+      "end": 620.88,
+      "text": "[SPEAKER_00]: you've got their attention you can actually show them of course in retail they can touch and feel"
+    },
+    {
+      "start": 620.88,
+      "end": 627.64,
+      "text": "[SPEAKER_00]: and try and taste the products too but you've got that in and a lot of what marketing is especially"
+    },
+    {
+      "start": 627.64,
+      "end": 631.8,
+      "text": "[SPEAKER_00]: when we think about direct to consumer and we're all competing for you know maybe not the same"
+    },
+    {
+      "start": 631.8,
+      "end": 636.62,
+      "text": "[SPEAKER_00]: customer but a variety of the similar customer we have to figure out what is that wedge right"
+    },
+    {
+      "start": 636.62,
+      "end": 643.4,
+      "text": "[SPEAKER_00]: I like to think of it as I like to think of attention as a really exclusive club in New York"
+    },
+    {
+      "start": 643.78,
+      "end": 648.12,
+      "text": "[SPEAKER_00]: and what you have to do is you have to figure out a way to get in through the back door if"
+    },
+    {
+      "start": 648.12,
+      "end": 651.9,
+      "text": "[SPEAKER_00]: you want to go through the front door you can absolutely do that but you're waiting in line"
+    },
+    {
+      "start": 652.44,
+      "end": 656.12,
+      "text": "[SPEAKER_00]: you got a lot of other people who are trying to get in you're doing if you do things the very"
+    },
+    {
+      "start": 656.12,
+      "end": 660.9,
+      "text": "[SPEAKER_00]: conventional way or the normal way then you're just competing with everybody else right so this"
+    },
+    {
+      "start": 660.9,
+      "end": 664.96,
+      "text": "[SPEAKER_00]: is why I like to do the back door and even with the back door it's not like you go to the"
+    },
+    {
+      "start": 664.96,
+      "end": 668.86,
+      "text": "[SPEAKER_00]: back door and somebody's right there you got to bring your own crowbar you got to put that thing"
+    },
+    {
+      "start": 668.86,
+      "end": 673.92,
+      "text": "[SPEAKER_00]: into the door and you got to find your wedge right so today's episode is all about finding your wedge"
+    },
+    {
+      "start": 673.92,
+      "end": 680.04,
+      "text": "[SPEAKER_00]: on the acquisition side and the stage of the brand that today's episode is relevant for is I would"
+    },
+    {
+      "start": 680.04,
+      "end": 683.92,
+      "text": "[SPEAKER_00]: say once you've figured out product market fit and you're really looking to hit the gas pedal"
+    },
+    {
+      "start": 684.7,
+      "end": 689.72,
+      "text": "[SPEAKER_00]: that's when everything we're about to talk about today is relevant okay if you're just"
+    },
+    {
+      "start": 689.72,
+      "end": 694.34,
+      "text": "[SPEAKER_00]: launching and you're starting to talk about advertorials I mean you can but I wouldn't"
+    },
+    {
+      "start": 694.34,
+      "end": 699.36,
+      "text": "[SPEAKER_00]: recommend it right you want to figure out you're zero to one you got to figure out how am I getting to"
+    },
+    {
+      "start": 700.3,
+      "end": 706.78,
+      "text": "[SPEAKER_00]: 2500 a day 5k a day you know 10k a day right that's the zero to one from there when you're"
+    },
+    {
+      "start": 706.78,
+      "end": 712.16,
+      "text": "[SPEAKER_00]: now trying to go past that discover new audiences tap into new angles for why people are going"
+    },
+    {
+      "start": 712.16,
+      "end": 716.1,
+      "text": "[SPEAKER_00]: to resonate with your brand that's where today's stuff is going to be a lot more valuable"
+    },
+    {
+      "start": 716.66,
+      "end": 721.26,
+      "text": "[SPEAKER_00]: so without further ado here are the four strategies that I want to talk about in depth"
+    },
+    {
+      "start": 721.26,
+      "end": 727.24,
+      "text": "[SPEAKER_00]: okay first one is landing pages the second one is advertorials which is very related to landing"
+    },
+    {
+      "start": 727.24,
+      "end": 732.62,
+      "text": "[SPEAKER_00]: pages the third one is whitelisting creators and the fourth one is ad creative and the reason"
+    },
+    {
+      "start": 732.62,
+      "end": 736.26,
+      "text": "[SPEAKER_00]: it's in this order is because landing pages I think are you know we've talked about landing pages"
+    },
+    {
+      "start": 736.26,
+      "end": 739.44,
+      "text": "[SPEAKER_00]: a lot so it's hopefully the easiest to understand and for you to get into mentally"
+    },
+    {
+      "start": 740.5,
+      "end": 745.82,
+      "text": "[SPEAKER_00]: advertorials sort of take landing pages and kind of morph them into a different form"
+    },
+    {
+      "start": 746.78,
+      "end": 752.16,
+      "text": "[SPEAKER_00]: whitelisted creators sort of take advertorials and ad creative and kind of combine them and"
+    },
+    {
+      "start": 752.16,
+      "end": 756.78,
+      "text": "[SPEAKER_00]: then add creative of course we're going to talk about ad creative which is just the standard meta"
+    },
+    {
+      "start": 756.78,
+      "end": 762.34,
+      "text": "[SPEAKER_00]: instagram tiktok ad creative and we've got some good tips from our creative team on how to go"
+    },
+    {
+      "start": 762.34,
+      "end": 767.46,
+      "text": "[SPEAKER_00]: about that so let's talk about landing pages you've definitely heard me talk about landing pages"
+    },
+    {
+      "start": 767.92,
+      "end": 773.72,
+      "text": "[SPEAKER_00]: if you actually want you could go to nick.co n i k dot c o backslash cookbook"
+    },
+    {
+      "start": 774.52,
+      "end": 778.98,
+      "text": "[SPEAKER_00]: and you'll see a landing page guide I made for hooks a while ago we've actually since shut hooks"
+    },
+    {
+      "start": 778.98,
+      "end": 785.1,
+      "text": "[SPEAKER_00]: down which we can talk about on another episode but that cookbook is still there and it's like"
+    },
+    {
+      "start": 785.1,
+      "end": 789.8,
+      "text": "[SPEAKER_00]: a 30 page deck on you know every section to have in a landing page and what what it should be"
+    },
+    {
+      "start": 789.8,
+      "end": 794.1,
+      "text": "[SPEAKER_00]: and examples of it so it's a good resource to use the first thing I want to talk about"
+    },
+    {
+      "start": 794.1,
+      "end": 799.38,
+      "text": "[SPEAKER_00]: is the angle now the angle really is that wedge right it's how you open the door"
+    },
+    {
+      "start": 800,
+      "end": 805.82,
+      "text": "[SPEAKER_00]: and the angle is something where you use it to relate to somebody so that it hooks their attention"
+    },
+    {
+      "start": 805.82,
+      "end": 811.36,
+      "text": "[SPEAKER_00]: but also then relates back to the benefits of the product so I used to work with this brand called"
+    },
+    {
+      "start": 811.36,
+      "end": 815.88,
+      "text": "[SPEAKER_00]: lundberg and they make these really tasty rice cakes and they're they're just really good snacks"
+    },
+    {
+      "start": 815.88,
+      "end": 822.2,
+      "text": "[SPEAKER_00]: right they're low calorie low sugar maybe no sugar uh light you don't feel heavy you don't"
+    },
+    {
+      "start": 822.2,
+      "end": 827.2,
+      "text": "[SPEAKER_00]: feel bloated after eating it and they make for a really good snack and so when we think about"
+    },
+    {
+      "start": 827.2,
+      "end": 833.88,
+      "text": "[SPEAKER_00]: the angle right one way to think about it is like well this is a low calorie snack but that's"
+    },
+    {
+      "start": 833.88,
+      "end": 838.84,
+      "text": "[SPEAKER_00]: not necessarily an angle right that's a value prop it's not even a benefit the benefit of that"
+    },
+    {
+      "start": 838.84,
+      "end": 845.12,
+      "text": "[SPEAKER_00]: value prop being low calorie might be that you can eat it with no guilt right that's the benefit"
+    },
+    {
+      "start": 845.12,
+      "end": 852.24,
+      "text": "[SPEAKER_00]: but the angle here needs to be something that immediately relates whoever is consuming this"
+    },
+    {
+      "start": 852.24,
+      "end": 857.8,
+      "text": "[SPEAKER_00]: landing page back to the product and to their own life and so I'll give you an example so let's say"
+    },
+    {
+      "start": 857.8,
+      "end": 863.82,
+      "text": "[SPEAKER_00]: we're targeting moms and we want to get moms on board to start buying lundberg and you know"
+    },
+    {
+      "start": 863.82,
+      "end": 868.4,
+      "text": "[SPEAKER_00]: whether they buy it online or they buy it in store they put it on subscription we need an angle"
+    },
+    {
+      "start": 868.4,
+      "end": 873.14,
+      "text": "[SPEAKER_00]: and so an angle here would be you know the pre-workout snack or the after school snack"
+    },
+    {
+      "start": 873.14,
+      "end": 877.58,
+      "text": "[SPEAKER_00]: that kids love right now that's a fantastic angle and what does an angle do an angle"
+    },
+    {
+      "start": 877.58,
+      "end": 882.58,
+      "text": "[SPEAKER_00]: kind of sets up this overarching theme for what that landing page is going to be because"
+    },
+    {
+      "start": 882.58,
+      "end": 888.38,
+      "text": "[SPEAKER_00]: even though this landing page will have all the normal sections right hero section social proof"
+    },
+    {
+      "start": 888.38,
+      "end": 893.02,
+      "text": "[SPEAKER_00]: a comparison chart a shop section maybe a bundle builder to build you know pick your flavors or"
+    },
+    {
+      "start": 893.02,
+      "end": 898.76,
+      "text": "[SPEAKER_00]: the variance you want put it into a bundle and get a deal everything from a copy standpoint or"
+    },
+    {
+      "start": 898.76,
+      "end": 904.04,
+      "text": "[SPEAKER_00]: an illustrative or graphics or icon standpoint will still ladder back up to that angle of"
+    },
+    {
+      "start": 904.04,
+      "end": 910.1,
+      "text": "[SPEAKER_00]: an after school snacks for kids that moms love the how it works part you know that might include"
+    },
+    {
+      "start": 910.84,
+      "end": 918.02,
+      "text": "[SPEAKER_00]: recipes that kids love or the comparison chart might include comparing the rice cake snack to"
+    },
+    {
+      "start": 918.76,
+      "end": 923.04,
+      "text": "[SPEAKER_00]: a piece of toast with peanut butter jelly just like comparing well you know you're having a"
+    },
+    {
+      "start": 923.04,
+      "end": 927.28,
+      "text": "[SPEAKER_00]: bunch of empty carbs here versus a little bit more protein here without all those extra carbs"
+    },
+    {
+      "start": 927.28,
+      "end": 932.4,
+      "text": "[SPEAKER_00]: whatever it may be the angle sort of helps you set up what is the reason that somebody is here"
+    },
+    {
+      "start": 932.4,
+      "end": 936.98,
+      "text": "[SPEAKER_00]: and it really gets somebody to buy in more emotionally versus just being like oh it's a"
+    },
+    {
+      "start": 936.98,
+      "end": 942.16,
+      "text": "[SPEAKER_00]: low calorie rice cake right that's not as exciting as hey I can help you get a after"
+    },
+    {
+      "start": 942.16,
+      "end": 945.72,
+      "text": "[SPEAKER_00]: school snack set up for your kids and you know your kids are going to love it and you're going"
+    },
+    {
+      "start": 945.72,
+      "end": 950.86,
+      "text": "[SPEAKER_00]: to love it too as a mom because of what's inside really people buy into solutions and each"
+    },
+    {
+      "start": 950.86,
+      "end": 955.26,
+      "text": "[SPEAKER_00]: angle is a different way to portray a solution for the product you're selling now the other"
+    },
+    {
+      "start": 955.26,
+      "end": 960.64,
+      "text": "[SPEAKER_00]: thing this requires sometimes in order to figure out what the angle is is it requires some"
+    },
+    {
+      "start": 960.64,
+      "end": 965.96,
+      "text": "[SPEAKER_00]: research a lot of people tend to do research on social media like you know going through"
+    },
+    {
+      "start": 965.96,
+      "end": 970.12,
+      "text": "[SPEAKER_00]: their own channels what kind of dms am I getting it might go through customer service to see what"
+    },
+    {
+      "start": 970.12,
+      "end": 974.46,
+      "text": "[SPEAKER_00]: are the most common questions that i'm getting as a brand that people have you know when they're"
+    },
+    {
+      "start": 974.46,
+      "end": 979.44,
+      "text": "[SPEAKER_00]: about to make a purchase honestly the place I love to go there's two places one is reddit"
+    },
+    {
+      "start": 979.44,
+      "end": 984.06,
+      "text": "[SPEAKER_00]: because on reddit people are super unfiltered they speak as if you know nobody's listening"
+    },
+    {
+      "start": 984.06,
+      "end": 988.46,
+      "text": "[SPEAKER_00]: to them nobody's watching them and then the second one is tick tock and tick tock is"
+    },
+    {
+      "start": 988.46,
+      "end": 992.7,
+      "text": "[SPEAKER_00]: because very similarly people are super candid on tick tock that's kind of just the culture of"
+    },
+    {
+      "start": 992.7,
+      "end": 997.22,
+      "text": "[SPEAKER_00]: tick tock is to be super candid everybody knows that anything that's kind of overproduced on tick"
+    },
+    {
+      "start": 997.22,
+      "end": 1003.04,
+      "text": "[SPEAKER_00]: tock doesn't even work so I love to go straight to tick tock search or reddit and just search"
+    },
+    {
+      "start": 1003.04,
+      "end": 1007,
+      "text": "[SPEAKER_00]: for what are people talking about it how are people speaking about the brand are they talking"
+    },
+    {
+      "start": 1007,
+      "end": 1010.16,
+      "text": "[SPEAKER_00]: about it in a way that kind of portrays it positively negatively do they have questions"
+    },
+    {
+      "start": 1010.16,
+      "end": 1014.22,
+      "text": "[SPEAKER_00]: about it you know for lumbert for example other moms that talk about it maybe that's"
+    },
+    {
+      "start": 1014.22,
+      "end": 1019.38,
+      "text": "[SPEAKER_00]: all get the idea for the after school snack right and so the research part is super important"
+    },
+    {
+      "start": 1019.38,
+      "end": 1023.96,
+      "text": "[SPEAKER_00]: and needs to get done this is actually the piece that most brands or people who may build landing"
+    },
+    {
+      "start": 1023.96,
+      "end": 1028.26,
+      "text": "[SPEAKER_00]: pages they kind of forget this right because you go to a landing page builder or you find a good"
+    },
+    {
+      "start": 1028.26,
+      "end": 1032.78,
+      "text": "[SPEAKER_00]: page template that you want to use and you sort of just change the content on the page"
+    },
+    {
+      "start": 1032.78,
+      "end": 1036.88,
+      "text": "[SPEAKER_00]: or you try to follow this template but unless you have an angle at the top"
+    },
+    {
+      "start": 1037.32,
+      "end": 1041.62,
+      "text": "[SPEAKER_00]: and then the research to support that it's just not going to hit as hard right you want"
+    },
+    {
+      "start": 1041.62,
+      "end": 1047.48,
+      "text": "[SPEAKER_00]: to think of this as a very continuous red carpet experience where somebody feels like"
+    },
+    {
+      "start": 1047.48,
+      "end": 1052.98,
+      "text": "[SPEAKER_00]: they're they're adding to their knowledge as they're scrolling and it all ladders back up to"
+    },
+    {
+      "start": 1052.98,
+      "end": 1057.38,
+      "text": "[SPEAKER_00]: that top angle so we've talked about the angle we've talked about research now the next thing"
+    },
+    {
+      "start": 1057.38,
+      "end": 1064.32,
+      "text": "[SPEAKER_00]: I like to make sure is every section so I think of sections as push and pull sections you either"
+    },
+    {
+      "start": 1064.32,
+      "end": 1069.68,
+      "text": "[SPEAKER_00]: have a section that is pushing information to help somebody make an informed decision of"
+    },
+    {
+      "start": 1069.68,
+      "end": 1075.56,
+      "text": "[SPEAKER_00]: they're going to make a purchase or you have sections that are pulling for people's credit card"
+    },
+    {
+      "start": 1075.56,
+      "end": 1079.94,
+      "text": "[SPEAKER_00]: right so you're either pushing information or asking for people to whip out the credit card"
+    },
+    {
+      "start": 1080.48,
+      "end": 1085.06,
+      "text": "[SPEAKER_00]: and I like to either have it where you have back-to-back sections pushing information"
+    },
+    {
+      "start": 1085.78,
+      "end": 1090.84,
+      "text": "[SPEAKER_00]: or you have alternating push and pull you never want to pull sections back-to-back"
+    },
+    {
+      "start": 1090.84,
+      "end": 1095.82,
+      "text": "[SPEAKER_00]: because that gets needy it gets you know nobody wants a needy person nobody likes"
+    },
+    {
+      "start": 1095.82,
+      "end": 1100.76,
+      "text": "[SPEAKER_00]: needy people and so you want to have the alternating of course with CTAs throughout"
+    },
+    {
+      "start": 1101.4,
+      "end": 1106.74,
+      "text": "[SPEAKER_00]: as far as length goes I'm all about at least eight to ten sections on a page you can definitely have"
+    },
+    {
+      "start": 1106.74,
+      "end": 1110.56,
+      "text": "[SPEAKER_00]: more I don't actually think there is a downside to having more some people have said that there is"
+    },
+    {
+      "start": 1110.56,
+      "end": 1116.12,
+      "text": "[SPEAKER_00]: a downside to long landing pages I don't believe so because in my mind if I've got CTAs"
+    },
+    {
+      "start": 1116.12,
+      "end": 1120.84,
+      "text": "[SPEAKER_00]: on a landing page this person can leave whenever they want to right I don't need them to read"
+    },
+    {
+      "start": 1120.84,
+      "end": 1126.42,
+      "text": "[SPEAKER_00]: till the end as soon as they feel like they have the information they need to decide whether they do"
+    },
+    {
+      "start": 1126.42,
+      "end": 1130.94,
+      "text": "[SPEAKER_00]: want to make a purchase or whether the product is not for them they should either click the CTA and"
+    },
+    {
+      "start": 1130.94,
+      "end": 1135.26,
+      "text": "[SPEAKER_00]: go to checkout or they can bounce but if they feel like they don't have enough information"
+    },
+    {
+      "start": 1135.26,
+      "end": 1139.16,
+      "text": "[SPEAKER_00]: then they have the luxury of continuing to scroll if you've got a page that's you know"
+    },
+    {
+      "start": 1139.16,
+      "end": 1145.84,
+      "text": "[SPEAKER_00]: 15 to 20 sections and essentially you might be thinking okay 10 sections sure I can do a"
+    },
+    {
+      "start": 1145.84,
+      "end": 1150.02,
+      "text": "[SPEAKER_00]: key rest section I can get some information sections comparison charge social proof etc"
+    },
+    {
+      "start": 1150.02,
+      "end": 1156.66,
+      "text": "[SPEAKER_00]: how do I get to 15 or 20 well the reality is is obviously there are different sections you can"
+    },
+    {
+      "start": 1156.66,
+      "end": 1160.98,
+      "text": "[SPEAKER_00]: add like the ones I just mentioned and those are kind of the obvious ones but just think about"
+    },
+    {
+      "start": 1161.68,
+      "end": 1167.02,
+      "text": "[SPEAKER_00]: answering these five questions over and over and over again okay the questions are the first one"
+    },
+    {
+      "start": 1167.02,
+      "end": 1175.14,
+      "text": "[SPEAKER_00]: is what is the product just very simply what is the product is it a hydration mix is it a"
+    },
+    {
+      "start": 1175.7,
+      "end": 1181.98,
+      "text": "[SPEAKER_00]: anti-aging supplement is it a hair loss treatment solution just making it very basic and again"
+    },
+    {
+      "start": 1181.98,
+      "end": 1188.24,
+      "text": "[SPEAKER_00]: I think all copy on a landing page needs to speak to a fifth grader because you can't expect people"
+    },
+    {
+      "start": 1188.24,
+      "end": 1192.66,
+      "text": "[SPEAKER_00]: you know you're you're out here on Facebook running ads inviting people to your page"
+    },
+    {
+      "start": 1192.66,
+      "end": 1198.94,
+      "text": "[SPEAKER_00]: you've got to do all the work for them you cannot expect somebody else to do any work in"
+    },
+    {
+      "start": 1198.94,
+      "end": 1203.64,
+      "text": "[SPEAKER_00]: order to contribute to take money out of their savings account and give it to you if you're"
+    },
+    {
+      "start": 1203.64,
+      "end": 1207.08,
+      "text": "[SPEAKER_00]: asking somebody to take money out of their pocket and give it to you you have to answer"
+    },
+    {
+      "start": 1207.08,
+      "end": 1212.14,
+      "text": "[SPEAKER_00]: everything for them I always say a landing page needs to feel like a red carpet that Kim K is"
+    },
+    {
+      "start": 1212.14,
+      "end": 1216.88,
+      "text": "[SPEAKER_00]: walking on and you need to be her assistant as the brand right as she's walking that red carpet"
+    },
+    {
+      "start": 1216.88,
+      "end": 1221.58,
+      "text": "[SPEAKER_00]: any question she has needs to be proactively answered and so that's why I'm a fan of"
+    },
+    {
+      "start": 1221.58,
+      "end": 1226.64,
+      "text": "[SPEAKER_00]: multiple sections or you know longer landing pages because as they're going they can continue"
+    },
+    {
+      "start": 1226.64,
+      "end": 1230.58,
+      "text": "[SPEAKER_00]: to answer these questions in their head okay so back to the five questions first one is"
+    },
+    {
+      "start": 1230.58,
+      "end": 1236.48,
+      "text": "[SPEAKER_00]: what is the product second one how does it benefit me the third one why should I trust the"
+    },
+    {
+      "start": 1236.48,
+      "end": 1241.64,
+      "text": "[SPEAKER_00]: brand the fourth one how does it compare to other options on the market and the fifth one's a two"
+    },
+    {
+      "start": 1241.64,
+      "end": 1246.74,
+      "text": "[SPEAKER_00]: parter it's when will it arrive if I order today and what if I don't like it now the how does it"
+    },
+    {
+      "start": 1246.74,
+      "end": 1252.62,
+      "text": "[SPEAKER_00]: benefit me one is strictly just reinforcing benefits right so let's say let's say you get"
+    },
+    {
+      "start": 1252.62,
+      "end": 1256.68,
+      "text": "[SPEAKER_00]: your hero section and you explain the product you know you're going down the page"
+    },
+    {
+      "start": 1256.68,
+      "end": 1260.74,
+      "text": "[SPEAKER_00]: now let's think about how does it benefit me well that could be a very clear like"
+    },
+    {
+      "start": 1261.68,
+      "end": 1265.94,
+      "text": "[SPEAKER_00]: UGC section right where you just have customers who talk about how the product changed their life"
+    },
+    {
+      "start": 1265.94,
+      "end": 1270.1,
+      "text": "[SPEAKER_00]: that answers that question now you go to the next one why should I trust this brand"
+    },
+    {
+      "start": 1270.1,
+      "end": 1274.7,
+      "text": "[SPEAKER_00]: or how does it compare to others right you can bring in different elements or create"
+    },
+    {
+      "start": 1274.7,
+      "end": 1279,
+      "text": "[SPEAKER_00]: different modules whether it's a founder story that might answer why should I trust this brand"
+    },
+    {
+      "start": 1279.46,
+      "end": 1282.76,
+      "text": "[SPEAKER_00]: you might want to bring in a comparison chart to talk about how does it compare to others"
+    },
+    {
+      "start": 1282.76,
+      "end": 1287.96,
+      "text": "[SPEAKER_00]: you might want to bring in a returns policy or a satisfaction guarantee or magic spoon has"
+    },
+    {
+      "start": 1287.96,
+      "end": 1292.68,
+      "text": "[SPEAKER_00]: a happiness guarantee right and that answers the what if I don't like it all your landing pages"
+    },
+    {
+      "start": 1292.68,
+      "end": 1297.5,
+      "text": "[SPEAKER_00]: and really just sales in general right is just answering these five questions over and over and"
+    },
+    {
+      "start": 1297.5,
+      "end": 1301.26,
+      "text": "[SPEAKER_00]: over again regardless of the type of the landing page you use whether you're using"
+    },
+    {
+      "start": 1301.26,
+      "end": 1305.54,
+      "text": "[SPEAKER_00]: a page that's just focused on a single product or a bundle like a hero product"
+    },
+    {
+      "start": 1305.54,
+      "end": 1309.54,
+      "text": "[SPEAKER_00]: or a hero bundle lander whether you're doing something like a build your own bundle lander"
+    },
+    {
+      "start": 1309.54,
+      "end": 1314.28,
+      "text": "[SPEAKER_00]: whether it's a listicle whether it's a comparico whether it's a click-through style page that goes"
+    },
+    {
+      "start": 1314.28,
+      "end": 1318.84,
+      "text": "[SPEAKER_00]: into a quiz regardless of any of that you want to make sure that you're doing all of these right"
+    },
+    {
+      "start": 1318.84,
+      "end": 1323.12,
+      "text": "[SPEAKER_00]: the angle the research the sections and you're having these five questions that you're answering"
+    },
+    {
+      "start": 1323.12,
+      "end": 1328.56,
+      "text": "[SPEAKER_00]: over and over and over again okay now the last thing about landing pages I don't want to touch on"
+    },
+    {
+      "start": 1328.56,
+      "end": 1334.2,
+      "text": "[SPEAKER_00]: is the software or the CMS that you use to build landing pages there are so many companies"
+    },
+    {
+      "start": 1334.82,
+      "end": 1339.82,
+      "text": "[SPEAKER_00]: that have come to market that you know build pages they're page builders they may be headless"
+    },
+    {
+      "start": 1339.82,
+      "end": 1345.76,
+      "text": "[SPEAKER_00]: page builders they may be in Shopify page builders like I said I started a company called hooks we"
+    },
+    {
+      "start": 1345.76,
+      "end": 1351.92,
+      "text": "[SPEAKER_00]: built landing pages as a service we've tested every possible CMS under the sun and I'll tell you"
+    },
+    {
+      "start": 1351.92,
+      "end": 1356.32,
+      "text": "[SPEAKER_00]: what here's the truth you don't need anything super fancy okay you don't need anything that's"
+    },
+    {
+      "start": 1356.32,
+      "end": 1361.9,
+      "text": "[SPEAKER_00]: going to charge you a percent of spend a percent of usage a percent of traffic you get or any"
+    },
+    {
+      "start": 1361.9,
+      "end": 1366.58,
+      "text": "[SPEAKER_00]: sort of scaled pricing you should use something like unbounce if you don't have Shopify if you"
+    },
+    {
+      "start": 1366.58,
+      "end": 1371.38,
+      "text": "[SPEAKER_00]: have Shopify and you have a development team or access to a developer you should actually build"
+    },
+    {
+      "start": 1371.38,
+      "end": 1376.96,
+      "text": "[SPEAKER_00]: in Shopify Shopify 2.0 is very modular so if you build something for a landing page in Shopify"
+    },
+    {
+      "start": 1376.96,
+      "end": 1383.78,
+      "text": "[SPEAKER_00]: 2.0 and it works right you see that from a heat map that the engagement rate's really high or"
+    },
+    {
+      "start": 1383.78,
+      "end": 1386.92,
+      "text": "[SPEAKER_00]: people are clicking there or people are slowing down spending a lot of time in this new section"
+    },
+    {
+      "start": 1386.92,
+      "end": 1392.04,
+      "text": "[SPEAKER_00]: that you built you can actually take that and put it into any other page on the site which is why I'm"
+    },
+    {
+      "start": 1392.04,
+      "end": 1397.54,
+      "text": "[SPEAKER_00]: a big fan of using Shopify if you have Shopify you don't have Shopify developers then I'd recommend"
+    },
+    {
+      "start": 1397.54,
+      "end": 1402.78,
+      "text": "[SPEAKER_00]: to use Replo and the reason is that Replo is super easy to use it lives within Shopify you don't"
+    },
+    {
+      "start": 1402.78,
+      "end": 1406.76,
+      "text": "[SPEAKER_00]: have an issue of subdomains with pixels that are now cross tracking across domains"
+    },
+    {
+      "start": 1407.42,
+      "end": 1412.08,
+      "text": "[SPEAKER_00]: and it's just a very easy thing to use they've also got great support so yeah so that that"
+    },
+    {
+      "start": 1412.08,
+      "end": 1416.66,
+      "text": "[SPEAKER_00]: is what I would recommend from a landing page standpoint make it very simple have an angle"
+    },
+    {
+      "start": 1416.66,
+      "end": 1420.7,
+      "text": "[SPEAKER_00]: have some good research make sure you're answering the five questions what is the product how does it"
+    },
+    {
+      "start": 1420.7,
+      "end": 1425,
+      "text": "[SPEAKER_00]: benefit me why should I trust the brand how does it compare to others and when will it arrive and"
+    },
+    {
+      "start": 1425,
+      "end": 1429.26,
+      "text": "[SPEAKER_00]: what if I don't like it and then make sure you're using the push and pull mentality and you"
+    },
+    {
+      "start": 1429.26,
+      "end": 1435.04,
+      "text": "[SPEAKER_00]: have a good CMS to build the landing pages have you ever wondered how brands like Jones Road"
+    },
+    {
+      "start": 1435.04,
+      "end": 1439.14,
+      "text": "[SPEAKER_00]: and Hexclad are optimizing their customer journeys by increasing AOV and post purchase"
+    },
+    {
+      "start": 1439.14,
+      "end": 1445.02,
+      "text": "[SPEAKER_00]: upsells well they all use after sell after sell is used by over 25 000 brands and has been shown"
+    },
+    {
+      "start": 1445.02,
+      "end": 1450.44,
+      "text": "[SPEAKER_00]: to boost your AOV by up to 30% not only that but they also have a proprietary network offers feature"
+    },
+    {
+      "start": 1450.44,
+      "end": 1455.62,
+      "text": "[SPEAKER_00]: that has generated tons of net revenue for brands like Perielus true classic and American Eagle"
+    },
+    {
+      "start": 1455.62,
+      "end": 1460.26,
+      "text": "[SPEAKER_00]: this allows you to drive sales on your own site and add additional revenue through showing ads"
+    },
+    {
+      "start": 1460.26,
+      "end": 1465.12,
+      "text": "[SPEAKER_00]: in your post purchase funnel if you're interested to learn more get a demo at aftersell.com"
+    },
+    {
+      "start": 1465.12,
+      "end": 1470.48,
+      "text": "[SPEAKER_00]: slash limited sign up now and get 60 days of after sell free for limited supply listeners"
+    },
+    {
+      "start": 1470.48,
+      "end": 1476.2,
+      "text": "[SPEAKER_00]: once again that's aftersell.com slash limited okay so now I want to talk"
+    },
+    {
+      "start": 1476.2,
+      "end": 1482.7,
+      "text": "[SPEAKER_00]: advertorials advertorials are think of them as an editorial piece of content so long form article"
+    },
+    {
+      "start": 1482.7,
+      "end": 1489.46,
+      "text": "[SPEAKER_00]: you know think of written by a publisher internet publisher media company but it's secretly an ad"
+    },
+    {
+      "start": 1489.46,
+      "end": 1495.4,
+      "text": "[SPEAKER_00]: and you see a lot of this with like Refinery29 you know they might talk about some big product"
+    },
+    {
+      "start": 1495.4,
+      "end": 1499.1,
+      "text": "[SPEAKER_00]: that just launched in Sephora it tends to be something that traditionally media companies"
+    },
+    {
+      "start": 1499.1,
+      "end": 1503.34,
+      "text": "[SPEAKER_00]: have always done to drive in-store traffic because what they do is arbitrage impressions"
+    },
+    {
+      "start": 1503.34,
+      "end": 1508.64,
+      "text": "[SPEAKER_00]: and the cost of impressions against you know let's say a $50,000 article for this big"
+    },
+    {
+      "start": 1508.64,
+      "end": 1513.08,
+      "text": "[SPEAKER_00]: publisher name and you're really buying the cosine and some guaranteed number of impressions"
+    },
+    {
+      "start": 1513.72,
+      "end": 1520.7,
+      "text": "[SPEAKER_00]: when I joined this company Hint about eight years ago I thought okay prior to joining Hint I was at"
+    },
+    {
+      "start": 1520.7,
+      "end": 1525.8,
+      "text": "[SPEAKER_00]: an ad tech company and all I was doing was actually doing display arbitrage for internet"
+    },
+    {
+      "start": 1525.8,
+      "end": 1531,
+      "text": "[SPEAKER_00]: publishers that were you know you've seen those ads at taboo let the bottom that's like"
+    },
+    {
+      "start": 1531,
+      "end": 1536.44,
+      "text": "[SPEAKER_00]: you won't believe what this celebrity looks like 27 years later right and so it's that kind of"
+    },
+    {
+      "start": 1536.44,
+      "end": 1540.76,
+      "text": "[SPEAKER_00]: content that I was running traffic to but I got really good at understanding how to"
+    },
+    {
+      "start": 1540.76,
+      "end": 1545.38,
+      "text": "[SPEAKER_00]: drive really efficient traffic and also what gets people to stay and what gets people to engage"
+    },
+    {
+      "start": 1545.38,
+      "end": 1549.92,
+      "text": "[SPEAKER_00]: and what gets people to click and for the record it's not clickbait it's not call it's not consider"
+    },
+    {
+      "start": 1549.92,
+      "end": 1554.06,
+      "text": "[SPEAKER_00]: clickbait if you actually deliver on what it is that people are clicking for so I want to make"
+    },
+    {
+      "start": 1554.06,
+      "end": 1559.82,
+      "text": "[SPEAKER_00]: sure that's clear here too but going back to advertorials so when I joined Hint you know"
+    },
+    {
+      "start": 1559.82,
+      "end": 1563.76,
+      "text": "[SPEAKER_00]: they were running ads it was very standard by two cases of water you get a still watermelon"
+    },
+    {
+      "start": 1563.76,
+      "end": 1569.66,
+      "text": "[SPEAKER_00]: and a sparkling watermelon you know save 20% and it was doing fine but it wasn't like it"
+    },
+    {
+      "start": 1569.66,
+      "end": 1574.62,
+      "text": "[SPEAKER_00]: working super well and whenever I think about ads that work super well they kind of get a life"
+    },
+    {
+      "start": 1574.62,
+      "end": 1578.92,
+      "text": "[SPEAKER_00]: of their own beyond just what you're pushing from a paid standpoint meaning that they should"
+    },
+    {
+      "start": 1578.92,
+      "end": 1584.38,
+      "text": "[SPEAKER_00]: have their own shares or their own uh repostings or their own you know just a bunch of comments or"
+    },
+    {
+      "start": 1584.38,
+      "end": 1589.28,
+      "text": "[SPEAKER_00]: people want to take that piece of content and send it elsewhere that to me is what a good ad"
+    },
+    {
+      "start": 1589.28,
+      "end": 1593.72,
+      "text": "[SPEAKER_00]: is it's something that people actually see and then decide actually this is so good I need to"
+    },
+    {
+      "start": 1593.72,
+      "end": 1600.42,
+      "text": "[SPEAKER_00]: share it elsewhere and that's also how you increase just awareness from good content so"
+    },
+    {
+      "start": 1600.42,
+      "end": 1605.04,
+      "text": "[SPEAKER_00]: what are advertorials they're basically an editorial piece that's an ad now the way I described it"
+    },
+    {
+      "start": 1605.04,
+      "end": 1610.12,
+      "text": "[SPEAKER_00]: earlier with like Refinery29 and Sephora is how a lot of the large media companies think about"
+    },
+    {
+      "start": 1610.12,
+      "end": 1615.56,
+      "text": "[SPEAKER_00]: advertorials right it's a $50,000 guaranteed IO and you know what do they have to do they have"
+    },
+    {
+      "start": 1615.56,
+      "end": 1620.28,
+      "text": "[SPEAKER_00]: to provide x 100,000 number of impressions which we all know how easy that is when you"
+    },
+    {
+      "start": 1620.28,
+      "end": 1625.5,
+      "text": "[SPEAKER_00]: run some ads and there's no real like tracking in this case when we're talking about advertorials"
+    },
+    {
+      "start": 1625.5,
+      "end": 1632.08,
+      "text": "[SPEAKER_00]: we're talking about performance marketing oriented advertorials everything is driven by cpc, ctr, cpa,"
+    },
+    {
+      "start": 1632.42,
+      "end": 1637.92,
+      "text": "[SPEAKER_00]: roas right and if it's not there it's not scaling so why do advertorials work so well"
+    },
+    {
+      "start": 1637.92,
+      "end": 1642.7,
+      "text": "[SPEAKER_00]: for direct consumer brands well typically they will reduce your acquisition costs anywhere from"
+    },
+    {
+      "start": 1642.7,
+      "end": 1647.48,
+      "text": "[SPEAKER_00]: 15 to 35 percent so you know if you're typically acquiring your customer for 100 bucks your"
+    },
+    {
+      "start": 1647.48,
+      "end": 1652.96,
+      "text": "[SPEAKER_00]: advertorial customer might come in from 70 to 80 bucks and the other thing it does is it allows"
+    },
+    {
+      "start": 1652.96,
+      "end": 1657.62,
+      "text": "[SPEAKER_00]: you to get more top of funnel so think about a showerhead brand right I love Jolie we don't do"
+    },
+    {
+      "start": 1657.62,
+      "end": 1662.42,
+      "text": "[SPEAKER_00]: this for Jolie but I'm just using this as an example now when Jolie talks about their benefits"
+    },
+    {
+      "start": 1662.42,
+      "end": 1669.48,
+      "text": "[SPEAKER_00]: and whatnot they do pretty well because it's real benefits a good product but then how do you"
+    },
+    {
+      "start": 1669.48,
+      "end": 1673.6,
+      "text": "[SPEAKER_00]: think about tapping into new audiences or people that are unaware of the brand or people who"
+    },
+    {
+      "start": 1673.6,
+      "end": 1678.56,
+      "text": "[SPEAKER_00]: realize how contaminated water is right you can write an article about actually we did run an"
+    },
+    {
+      "start": 1678.56,
+      "end": 1684.2,
+      "text": "[SPEAKER_00]: article a long time ago about when you travel do you notice that your skin gets drier or your hair"
+    },
+    {
+      "start": 1684.2,
+      "end": 1689.88,
+      "text": "[SPEAKER_00]: gets dandruff or you know your scalp gets itchy well that's because of the hard water and something"
+    },
+    {
+      "start": 1689.88,
+      "end": 1693.76,
+      "text": "[SPEAKER_00]: like that where you know you've got this story and you've got it you've got something where"
+    },
+    {
+      "start": 1693.76,
+      "end": 1699.9,
+      "text": "[SPEAKER_00]: people see in their feed hey I I also get scalp itchiness when I travel or yeah I've noticed"
+    },
+    {
+      "start": 1699.9,
+      "end": 1703.4,
+      "text": "[SPEAKER_00]: when I travel and start showering at the hotel like I tend to get dandruff that's kind of weird"
+    },
+    {
+      "start": 1703.4,
+      "end": 1708.94,
+      "text": "[SPEAKER_00]: that is what earns the click leads people into an advertorial right the article which sort of"
+    },
+    {
+      "start": 1708.94,
+      "end": 1713.2,
+      "text": "[SPEAKER_00]: breaks it down and again the article starts with something that relates back to you and then by"
+    },
+    {
+      "start": 1713.2,
+      "end": 1717.86,
+      "text": "[SPEAKER_00]: the end sort of makes the person aware of what the solution is again it's not a super hard"
+    },
+    {
+      "start": 1717.86,
+      "end": 1722.3,
+      "text": "[SPEAKER_00]: sell with advertorials either because what you want to do is you want to be providing"
+    },
+    {
+      "start": 1723.16,
+      "end": 1727.48,
+      "text": "[SPEAKER_00]: value which sounds so cringe but let me tell you in the world of advertorials"
+    },
+    {
+      "start": 1727.48,
+      "end": 1732.96,
+      "text": "[SPEAKER_00]: and honestly even whitelisting crater content value equals entertainment right when somebody"
+    },
+    {
+      "start": 1732.96,
+      "end": 1736.34,
+      "text": "[SPEAKER_00]: scrolling on instagram or facebook and they're bored I mean they are scrolling because they're"
+    },
+    {
+      "start": 1736.34,
+      "end": 1740.76,
+      "text": "[SPEAKER_00]: bored right if they were jet skiing they wouldn't be scrolling on instagram when they're scrolling"
+    },
+    {
+      "start": 1740.76,
+      "end": 1745.14,
+      "text": "[SPEAKER_00]: they need to be entertained and advertorials provide the perfect form of entertainment"
+    },
+    {
+      "start": 1745.14,
+      "end": 1750.32,
+      "text": "[SPEAKER_00]: because it's still scrolling reading looking just seeing the screen and that's why advertorials"
+    },
+    {
+      "start": 1750.32,
+      "end": 1758.66,
+      "text": "[SPEAKER_00]: do so well for brands now how do they differ in flows of traffic well typically when you have a"
+    },
+    {
+      "start": 1758.66,
+      "end": 1762.28,
+      "text": "[SPEAKER_00]: brand like let's say jolly right if they're just running traffic to their site they're going from"
+    },
+    {
+      "start": 1762.28,
+      "end": 1767.82,
+      "text": "[SPEAKER_00]: facebook to a landing page because they're smart but with advertorials what you do is you actually"
+    },
+    {
+      "start": 1767.82,
+      "end": 1772.7,
+      "text": "[SPEAKER_00]: route people to a publisher and then route them to a product page or a collections page"
+    },
+    {
+      "start": 1772.7,
+      "end": 1778.42,
+      "text": "[SPEAKER_00]: or a landing page and what that does it gives you this kind of advertorial space as a in"
+    },
+    {
+      "start": 1778.42,
+      "end": 1782.72,
+      "text": "[SPEAKER_00]: between to qualify traffic that goes through but also just gives you the opportunity to educate"
+    },
+    {
+      "start": 1782.72,
+      "end": 1787.28,
+      "text": "[SPEAKER_00]: them more get them more excited get them to want the product more and that's why advertorials work"
+    },
+    {
+      "start": 1787.28,
+      "end": 1793.18,
+      "text": "[SPEAKER_00]: really really well for products that are high aov high barrier to entry you know they maybe require"
+    },
+    {
+      "start": 1793.18,
+      "end": 1798.24,
+      "text": "[SPEAKER_00]: a 10-minute onboarding quiz to understand what type of shampoo that you're supposed to get"
+    },
+    {
+      "start": 1798.24,
+      "end": 1803.12,
+      "text": "[SPEAKER_00]: or the custom formulation for your dog's food right these types of things do really well"
+    },
+    {
+      "start": 1803.12,
+      "end": 1808.94,
+      "text": "[SPEAKER_00]: with advertorials because as somebody is reading it and relating to the content and saying oh"
+    },
+    {
+      "start": 1808.94,
+      "end": 1813.72,
+      "text": "[SPEAKER_00]: i've also been thinking about the dangers of just feeding my dog kibble versus fresh food"
+    },
+    {
+      "start": 1813.72,
+      "end": 1819.84,
+      "text": "[SPEAKER_00]: just an example now in their head they're thinking okay now my intent for when i click through to"
+    },
+    {
+      "start": 1819.84,
+      "end": 1824.04,
+      "text": "[SPEAKER_00]: you know ollie to then decide which exact dog food i'm going to get or"
+    },
+    {
+      "start": 1824.04,
+      "end": 1828.72,
+      "text": "[SPEAKER_00]: the you know the onboarding quiz to submit into ollie the intent is much higher so the"
+    },
+    {
+      "start": 1828.72,
+      "end": 1832.94,
+      "text": "[SPEAKER_00]: completion rate is much higher the conversion rate if you're just selling you know a standard"
+    },
+    {
+      "start": 1832.94,
+      "end": 1836.94,
+      "text": "[SPEAKER_00]: product is also much higher but it also works really well because let's say you're selling"
+    },
+    {
+      "start": 1836.94,
+      "end": 1843.48,
+      "text": "[SPEAKER_00]: a three thousand dollar mattress that is you know a great product you can use the real estate of"
+    },
+    {
+      "start": 1843.48,
+      "end": 1849,
+      "text": "[SPEAKER_00]: an advertorial right you can use this article as a means to educate people as to why it's"
+    },
+    {
+      "start": 1849,
+      "end": 1852.5,
+      "text": "[SPEAKER_00]: something that's going to be beneficial to them think of it as another way of doing like"
+    },
+    {
+      "start": 1852.5,
+      "end": 1859.66,
+      "text": "[SPEAKER_00]: performance pr right this is essentially running a pr campaign except it's very targeted you control"
+    },
+    {
+      "start": 1859.66,
+      "end": 1864.5,
+      "text": "[SPEAKER_00]: the messaging you control the story and it's exactly what you want it to say and obviously you can't"
+    },
+    {
+      "start": 1864.5,
+      "end": 1869.6,
+      "text": "[SPEAKER_00]: be lying but you you can sort of control what to do so now let's talk about what are the types"
+    },
+    {
+      "start": 1869.6,
+      "end": 1875.08,
+      "text": "[SPEAKER_00]: of stories that do really well on advertorials there's a few that do super well one is elistical"
+    },
+    {
+      "start": 1875.62,
+      "end": 1881.14,
+      "text": "[SPEAKER_00]: and this is your standard five reasons why you know chefs home chefs are switching to caraway"
+    },
+    {
+      "start": 1881.14,
+      "end": 1887.46,
+      "text": "[SPEAKER_00]: right it's a very standard very easy to understand kind of listicle but again it's disguised into"
+    },
+    {
+      "start": 1887.46,
+      "end": 1892.54,
+      "text": "[SPEAKER_00]: an article so you've still got your beautiful photography or maybe just you know ugc style"
+    },
+    {
+      "start": 1892.54,
+      "end": 1897.3,
+      "text": "[SPEAKER_00]: photography sometimes that does well in advertorials but you've also got these five reasons"
+    },
+    {
+      "start": 1897.3,
+      "end": 1901.7,
+      "text": "[SPEAKER_00]: you've got you know things in between it still looks and feels like an editorial piece the"
+    },
+    {
+      "start": 1901.7,
+      "end": 1906.12,
+      "text": "[SPEAKER_00]: second one is a founder story so if you've got a good founding story as to why the brand"
+    },
+    {
+      "start": 1906.12,
+      "end": 1910.34,
+      "text": "[SPEAKER_00]: was started why the product was started why it was created what what kind of catastrophic event"
+    },
+    {
+      "start": 1910.34,
+      "end": 1915.02,
+      "text": "[SPEAKER_00]: led to the founder then realizing that he needs to make this product those do really well because a"
+    },
+    {
+      "start": 1915.02,
+      "end": 1919.48,
+      "text": "[SPEAKER_00]: lot of times founding stories are quite relatable and a lot of people can relate to a good founding"
+    },
+    {
+      "start": 1919.48,
+      "end": 1924.14,
+      "text": "[SPEAKER_00]: story maybe they have the same type of problem or they experienced a very similar thing and then"
+    },
+    {
+      "start": 1924.14,
+      "end": 1928.72,
+      "text": "[SPEAKER_00]: the last one is something that's culturally relevant and this is something like you know"
+    },
+    {
+      "start": 1928.72,
+      "end": 1932.96,
+      "text": "[SPEAKER_00]: I tried the shower head that I see all over tiktok and here's what I really thought"
+    },
+    {
+      "start": 1932.96,
+      "end": 1938.18,
+      "text": "[SPEAKER_00]: and the idea is okay you're going after somebody who you know in this case specifically"
+    },
+    {
+      "start": 1938.18,
+      "end": 1944.14,
+      "text": "[SPEAKER_00]: it's going after people who have clearly seen a jolly ad and are now then clicking it because"
+    },
+    {
+      "start": 1944.14,
+      "end": 1948.06,
+      "text": "[SPEAKER_00]: they're like well I've seen it also everywhere and I don't actually know if it works really well or"
+    },
+    {
+      "start": 1948.06,
+      "end": 1952.42,
+      "text": "[SPEAKER_00]: how it works and so I'm going to click that and read it and see what their experience is"
+    },
+    {
+      "start": 1952.94,
+      "end": 1958.56,
+      "text": "[SPEAKER_00]: these three formats are great formats to start testing advertorials I also recommend"
+    },
+    {
+      "start": 1958.56,
+      "end": 1962.4,
+      "text": "[SPEAKER_00]: if you end up working with an external publisher you know definitely try to take one"
+    },
+    {
+      "start": 1962.4,
+      "end": 1966.78,
+      "text": "[SPEAKER_00]: of these three these are the three that I kind of reserve for when we need to hit a home run"
+    },
+    {
+      "start": 1966.78,
+      "end": 1971.42,
+      "text": "[SPEAKER_00]: out the gate it's usually one of these three ideally all three and you put them up and test them"
+    },
+    {
+      "start": 1971.42,
+      "end": 1975.76,
+      "text": "[SPEAKER_00]: and then you can kind of understand what sort of format works best for the level of awareness your"
+    },
+    {
+      "start": 1975.76,
+      "end": 1979.94,
+      "text": "[SPEAKER_00]: product or brand has in the market and then go from there and double down on what works"
+    },
+    {
+      "start": 1980.56,
+      "end": 1985.24,
+      "text": "[SPEAKER_00]: now I said external publisher and you might be thinking well where do I go for this right"
+    },
+    {
+      "start": 1985.82,
+      "end": 1991.08,
+      "text": "[SPEAKER_00]: you can certainly go out to large name media companies I've spent hundreds of thousands of"
+    },
+    {
+      "start": 1991.08,
+      "end": 1997.04,
+      "text": "[SPEAKER_00]: dollars on huge media companies buzzfeed refinery complex etc let me tell you a secret"
+    },
+    {
+      "start": 1997.6,
+      "end": 2004.36,
+      "text": "[SPEAKER_00]: it does not matter what domain is hosting your article okay like I said I've spent tons of money"
+    },
+    {
+      "start": 2004.36,
+      "end": 2008.32,
+      "text": "[SPEAKER_00]: trying to get on the biggest logos the best publisher sites the ones that everybody recognizes"
+    },
+    {
+      "start": 2008.32,
+      "end": 2015,
+      "text": "[SPEAKER_00]: but it's not necessary all you need is a clean and easy to read website a site that loads"
+    },
+    {
+      "start": 2015,
+      "end": 2019.4,
+      "text": "[SPEAKER_00]: fast because again you got to account for load speed and you just need content that's easy"
+    },
+    {
+      "start": 2019.4,
+      "end": 2024.12,
+      "text": "[SPEAKER_00]: to understand I always do fifth grade reading level you know no big words don't expect people"
+    },
+    {
+      "start": 2024.12,
+      "end": 2029.42,
+      "text": "[SPEAKER_00]: to understand these crazy jargon that you have or that you know from your own industry or just working"
+    },
+    {
+      "start": 2029.42,
+      "end": 2034.08,
+      "text": "[SPEAKER_00]: on the brand every day make things very simple make it a story you know almost as if you're"
+    },
+    {
+      "start": 2034.08,
+      "end": 2038.46,
+      "text": "[SPEAKER_00]: telling a story at dinner trying to pitch your product is how an advertorial should kind of"
+    },
+    {
+      "start": 2038.46,
+      "end": 2044.24,
+      "text": "[SPEAKER_00]: come off don't let media companies change that too much because that's when they just don't"
+    },
+    {
+      "start": 2044.24,
+      "end": 2047.78,
+      "text": "[SPEAKER_00]: perform and especially if you're working with an external company you're going to pay a few"
+    },
+    {
+      "start": 2047.78,
+      "end": 2052.68,
+      "text": "[SPEAKER_00]: thousand dollars and just not be happy with the results now I told you at the beginning"
+    },
+    {
+      "start": 2052.68,
+      "end": 2057.64,
+      "text": "[SPEAKER_00]: that uh I'm going to help you make an extra hundred thousand and that also means not spending money"
+    },
+    {
+      "start": 2057.64,
+      "end": 2062.02,
+      "text": "[SPEAKER_00]: to make that so here's how I would go about creating your own advertorial site if you want"
+    },
+    {
+      "start": 2062.02,
+      "end": 2067.48,
+      "text": "[SPEAKER_00]: to do this on your own all right first off go to you need to hosting so with wordpress you"
+    },
+    {
+      "start": 2067.48,
+      "end": 2071.18,
+      "text": "[SPEAKER_00]: need to set up your hosting you can do that with go daddy or you can do it with wp engine"
+    },
+    {
+      "start": 2071.18,
+      "end": 2075.8,
+      "text": "[SPEAKER_00]: I recommend go daddy because it's easier to get started once you get to you know some of our"
+    },
+    {
+      "start": 2075.8,
+      "end": 2079.84,
+      "text": "[SPEAKER_00]: sites now have millions of sessions per month so we're on wp engine because we have extra server"
+    },
+    {
+      "start": 2079.84,
+      "end": 2084.48,
+      "text": "[SPEAKER_00]: space but just start with go daddy get your domain get something that's easy to understand"
+    },
+    {
+      "start": 2084.48,
+      "end": 2090.88,
+      "text": "[SPEAKER_00]: you know feels universal I have one called she told us dot com right it sounds like an"
+    },
+    {
+      "start": 2090.88,
+      "end": 2094.5,
+      "text": "[SPEAKER_00]: editorial site you want to read something on or it sounds like a place you'd go to for"
+    },
+    {
+      "start": 2094.5,
+      "end": 2099.78,
+      "text": "[SPEAKER_00]: trusted product recommendation so that's one that I chose and actually if you go there"
+    },
+    {
+      "start": 2099.78,
+      "end": 2105.06,
+      "text": "[SPEAKER_00]: you'll see the end product of what I'm describing right now so you get your hosting you get"
+    },
+    {
+      "start": 2105.06,
+      "end": 2112.04,
+      "text": "[SPEAKER_00]: your domain from go daddy then you go to theme forest that's theme forest net under wordpress"
+    },
+    {
+      "start": 2112.04,
+      "end": 2117.1,
+      "text": "[SPEAKER_00]: go to blogs and find a theme that's under a hundred bucks honestly most of them should be under 50"
+    },
+    {
+      "start": 2117.1,
+      "end": 2121.4,
+      "text": "[SPEAKER_00]: you want to make sure it has a high reviews so you know at least four stars"
+    },
+    {
+      "start": 2121.4,
+      "end": 2126.82,
+      "text": "[SPEAKER_00]: and decent amount of people have reviewed it and then pick one that you like and buy it"
+    },
+    {
+      "start": 2126.82,
+      "end": 2130.6,
+      "text": "[SPEAKER_00]: you want to make sure the theme that you buy also comes with a downloadable"
+    },
+    {
+      "start": 2131.18,
+      "end": 2137.64,
+      "text": "[SPEAKER_00]: or a demo theme template as well that means that when you then open up your go daddy hosting"
+    },
+    {
+      "start": 2137.64,
+      "end": 2143.1,
+      "text": "[SPEAKER_00]: right for wordpress and you import the wordpress theme that you just bought from theme forest"
+    },
+    {
+      "start": 2143.1,
+      "end": 2147.42,
+      "text": "[SPEAKER_00]: you can actually upload a demo theme and that's actually what you see right now and she told"
+    },
+    {
+      "start": 2147.42,
+      "end": 2152.98,
+      "text": "[SPEAKER_00]: us dot com that's a demo theme file that I uploaded just to show you guys what it looks like"
+    },
+    {
+      "start": 2152.98,
+      "end": 2157.46,
+      "text": "[SPEAKER_00]: and now from there I can actually go into the back end of wordpress and I can delete all"
+    },
+    {
+      "start": 2157.46,
+      "end": 2161.66,
+      "text": "[SPEAKER_00]: the articles that are currently there I'm probably going to want to get 15 to 20 pieces of content"
+    },
+    {
+      "start": 2161.66,
+      "end": 2166.24,
+      "text": "[SPEAKER_00]: that are up that way there's some content on the site if somebody's browsing around but really what"
+    },
+    {
+      "start": 2166.24,
+      "end": 2169.48,
+      "text": "[SPEAKER_00]: I want to use this for is to make sure that the formatting of the content is really clean"
+    },
+    {
+      "start": 2169.48,
+      "end": 2173.8,
+      "text": "[SPEAKER_00]: there's no email pop-ups there's no banner ads there's no interstitials there's no sidebar"
+    },
+    {
+      "start": 2173.8,
+      "end": 2179.42,
+      "text": "[SPEAKER_00]: I want to make it super clean super easy to read especially on mobile you know think of a low"
+    },
+    {
+      "start": 2180.26,
+      "end": 2185.64,
+      "text": "[SPEAKER_00]: halfway brightness no wi-fi iphone screen right and don't think about iphone 15 think about"
+    },
+    {
+      "start": 2185.64,
+      "end": 2191.22,
+      "text": "[SPEAKER_00]: an iphone x or an iphone 11 and make sure that it's easy to read easy to understand it's really just"
+    },
+    {
+      "start": 2191.22,
+      "end": 2197.8,
+      "text": "[SPEAKER_00]: a lot of it is like can your eyes easily track the text and understand what's being said from there"
+    },
+    {
+      "start": 2198.26,
+      "end": 2201.7,
+      "text": "[SPEAKER_00]: start putting your articles up you know test those three angles the founder story"
+    },
+    {
+      "start": 2201.7,
+      "end": 2206.84,
+      "text": "[SPEAKER_00]: the culturally relevant one the five reasons throw it all up there create a new facebook pixel"
+    },
+    {
+      "start": 2206.84,
+      "end": 2210.24,
+      "text": "[SPEAKER_00]: add it to that publisher you don't want to use your existing facebook pixel"
+    },
+    {
+      "start": 2210.24,
+      "end": 2215.3,
+      "text": "[SPEAKER_00]: on the publisher site because that's going to trick your current pixel to think there's"
+    },
+    {
+      "start": 2215.3,
+      "end": 2219.94,
+      "text": "[SPEAKER_00]: a bunch of traffic but it's not super qualified so create a separate pixel that you can retarget from"
+    },
+    {
+      "start": 2220.56,
+      "end": 2224.62,
+      "text": "[SPEAKER_00]: and then before you start running the ads you actually need to create a facebook and instagram"
+    },
+    {
+      "start": 2225.38,
+      "end": 2230.6,
+      "text": "[SPEAKER_00]: page for the publisher make sure that's also linked and then when you run the ads they now"
+    },
+    {
+      "start": 2230.6,
+      "end": 2234.68,
+      "text": "[SPEAKER_00]: come from the publisher versus just from your brand this is where you're going to get much"
+    },
+    {
+      "start": 2234.68,
+      "end": 2238.02,
+      "text": "[SPEAKER_00]: higher click-through rates this is where you're going to get people who are going to click"
+    },
+    {
+      "start": 2238.02,
+      "end": 2241.86,
+      "text": "[SPEAKER_00]: for the content or for the entertainment if it just comes from your brand it's just another"
+    },
+    {
+      "start": 2241.86,
+      "end": 2246.74,
+      "text": "[SPEAKER_00]: sales pitch it's not going to be as effective and you won't really get a good test out of it"
+    },
+    {
+      "start": 2247.62,
+      "end": 2251.42,
+      "text": "[SPEAKER_00]: okay so that's advertorials and again if you've got questions for advertorials"
+    },
+    {
+      "start": 2251.42,
+      "end": 2254.98,
+      "text": "[SPEAKER_00]: DM me on twitter email me i'll make sure you get your questions answered"
+    },
+    {
+      "start": 2256.04,
+      "end": 2263.04,
+      "text": "[SPEAKER_00]: now i want to dive into whitelisting creators so again you've started running ads on your own"
+    },
+    {
+      "start": 2263.04,
+      "end": 2267.46,
+      "text": "[SPEAKER_00]: you found a good place you're at a good cpa now you're looking to scale well one of the"
+    },
+    {
+      "start": 2267.46,
+      "end": 2272.26,
+      "text": "[SPEAKER_00]: easiest things you can do is actually work with creators now creators and influencers and"
+    },
+    {
+      "start": 2272.26,
+      "end": 2277.84,
+      "text": "[SPEAKER_00]: celebrities are three completely different things okay let me explain so celebrities are red carpet"
+    },
+    {
+      "start": 2277.84,
+      "end": 2283.48,
+      "text": "[SPEAKER_00]: you know if they walk outside they've got paparazzi they're basically analog influencers is what i"
+    },
+    {
+      "start": 2283.48,
+      "end": 2289.24,
+      "text": "[SPEAKER_00]: also like to call them they are uh they've been around they've got name recognition and but"
+    },
+    {
+      "start": 2289.24,
+      "end": 2294.94,
+      "text": "[SPEAKER_00]: they're not always the best with driving direct sales right so i'm not a huge fan of always using"
+    },
+    {
+      "start": 2294.94,
+      "end": 2298.78,
+      "text": "[SPEAKER_00]: celebrities obviously we work with celebrity brands and those have been successful but i've"
+    },
+    {
+      "start": 2298.78,
+      "end": 2303.36,
+      "text": "[SPEAKER_00]: also worked with celebrity brands that are not successful and the reason is actually the biggest"
+    },
+    {
+      "start": 2303.36,
+      "end": 2309.34,
+      "text": "[SPEAKER_00]: differentiator is that the celebrities if they're native to creating content meaning they feel"
+    },
+    {
+      "start": 2309.34,
+      "end": 2314,
+      "text": "[SPEAKER_00]: comfortable whipping their phone out and recording a video and talking directly to a camera and they"
+    },
+    {
+      "start": 2314,
+      "end": 2318.34,
+      "text": "[SPEAKER_00]: can do that on the fly whenever they want whenever they need to those are actually the"
+    },
+    {
+      "start": 2318.34,
+      "end": 2322.82,
+      "text": "[SPEAKER_00]: ones that tend to do really well the ones that don't are ones where they sort of expect"
+    },
+    {
+      "start": 2322.82,
+      "end": 2326.94,
+      "text": "[SPEAKER_00]: to have a photo shoot set up anytime they need to contribute to the brand or you know they've got"
+    },
+    {
+      "start": 2326.94,
+      "end": 2331.48,
+      "text": "[SPEAKER_00]: their eight you know four agents involved those are not necessarily successful ones so that's"
+    },
+    {
+      "start": 2331.48,
+      "end": 2335.76,
+      "text": "[SPEAKER_00]: celebrities there's influencers which i think of as more just digital celebrities they're people who've"
+    },
+    {
+      "start": 2335.76,
+      "end": 2340.34,
+      "text": "[SPEAKER_00]: built an audience by creating the content that they create right celebrities tend to have"
+    },
+    {
+      "start": 2340.86,
+      "end": 2346,
+      "text": "[SPEAKER_00]: they've built an audience because of they played a fictional character in a movie or"
+    },
+    {
+      "start": 2346,
+      "end": 2351.06,
+      "text": "[SPEAKER_00]: they played a fictional character in a tv show or they're known for one thing but that's not"
+    },
+    {
+      "start": 2351.06,
+      "end": 2357.24,
+      "text": "[SPEAKER_00]: the reason they have their following if that makes sense to you as i talk about it with influencers"
+    },
+    {
+      "start": 2357.24,
+      "end": 2362.6,
+      "text": "[SPEAKER_00]: right like emma chamberlain has a following because of the youtube content she creates"
+    },
+    {
+      "start": 2362.6,
+      "end": 2368.4,
+      "text": "[SPEAKER_00]: or mr beast same thing or um you know whoever the podcasters too podcasters have an audience"
+    },
+    {
+      "start": 2368.4,
+      "end": 2372.68,
+      "text": "[SPEAKER_00]: because of the stuff they're constantly putting out right it's like a single subject matter"
+    },
+    {
+      "start": 2373.3,
+      "end": 2378.1,
+      "text": "[SPEAKER_00]: in which their audience knows them by versus celebrities is like yeah i like them as an actor"
+    },
+    {
+      "start": 2378.1,
+      "end": 2383,
+      "text": "[SPEAKER_00]: but they've played 27 different roles so i don't really know what they stand for right there's values"
+    },
+    {
+      "start": 2383,
+      "end": 2387.22,
+      "text": "[SPEAKER_00]: and things they stand for that come through on the influencer side that don't come through on the"
+    },
+    {
+      "start": 2387.22,
+      "end": 2392.94,
+      "text": "[SPEAKER_00]: celebrity side and by the way influencer celebrities they both have followings creator side is you're"
+    },
+    {
+      "start": 2392.94,
+      "end": 2397.6,
+      "text": "[SPEAKER_00]: not really working with them for their following or for their reach you're more so working with"
+    },
+    {
+      "start": 2397.6,
+      "end": 2401.9,
+      "text": "[SPEAKER_00]: them for the purpose of the content that they create a lot of times you can find content"
+    },
+    {
+      "start": 2401.9,
+      "end": 2406.08,
+      "text": "[SPEAKER_00]: creators that are really good at creating content they just don't have their own following"
+    },
+    {
+      "start": 2406.08,
+      "end": 2410.16,
+      "text": "[SPEAKER_00]: they might be really good at speaking to a camera and knowing how to communicate something or talk"
+    },
+    {
+      "start": 2410.16,
+      "end": 2414.7,
+      "text": "[SPEAKER_00]: about how a product is different but they're not necessarily you know structured and building"
+    },
+    {
+      "start": 2414.7,
+      "end": 2419.8,
+      "text": "[SPEAKER_00]: an audience and all of those things which is totally fine we want to use them or sorry work"
+    },
+    {
+      "start": 2419.8,
+      "end": 2423.68,
+      "text": "[SPEAKER_00]: with them for the content that they create and for the things that we can do with their content"
+    },
+    {
+      "start": 2424.34,
+      "end": 2429.4,
+      "text": "[SPEAKER_00]: you usually work with creators for three possible reasons right and influencers too one"
+    },
+    {
+      "start": 2429.4,
+      "end": 2434.46,
+      "text": "[SPEAKER_00]: is for the content they create one is for the reach that they can generate so you know as"
+    },
+    {
+      "start": 2434.46,
+      "end": 2440.3,
+      "text": "[SPEAKER_00]: they create something they put it out and reaches a bunch of people and then the third one is for"
+    },
+    {
+      "start": 2440.3,
+      "end": 2445.66,
+      "text": "[SPEAKER_00]: the cosine so let's say you've got you know let's let's take sammy clark she's a fitness influencer"
+    },
+    {
+      "start": 2445.66,
+      "end": 2451.5,
+      "text": "[SPEAKER_00]: out of la if she promotes a product you can almost guarantee it's got no bad ingredients you know"
+    },
+    {
+      "start": 2451.5,
+      "end": 2457.16,
+      "text": "[SPEAKER_00]: all no colors no dies things like that because her audience knows that she vets everything for"
+    },
+    {
+      "start": 2457.16,
+      "end": 2461.32,
+      "text": "[SPEAKER_00]: a certain checklist of things before she decides to work with a brand or present it to them"
+    },
+    {
+      "start": 2461.32,
+      "end": 2468.5,
+      "text": "[SPEAKER_00]: and so a cosine is also a huge deal depending on who this the influencer is it works really well in"
+    },
+    {
+      "start": 2468.5,
+      "end": 2473.76,
+      "text": "[SPEAKER_00]: the wellness space previously i've done it a bunch with like soul cycle instructors too right because"
+    },
+    {
+      "start": 2473.76,
+      "end": 2478.5,
+      "text": "[SPEAKER_00]: they're always working out so they've got that cosine from a fitness standpoint but whatever it is"
+    },
+    {
+      "start": 2478.5,
+      "end": 2483.02,
+      "text": "[SPEAKER_00]: creators i'm a huge fan of working with them and then of course white listing their content"
+    },
+    {
+      "start": 2483.76,
+      "end": 2488.64,
+      "text": "[SPEAKER_00]: the benefits of using creators is that you're on average you can probably expect your cpc to"
+    },
+    {
+      "start": 2488.64,
+      "end": 2493.2,
+      "text": "[SPEAKER_00]: go down anywhere from 30 to 60 especially if they're verified you're definitely getting more"
+    },
+    {
+      "start": 2493.2,
+      "end": 2499.38,
+      "text": "[SPEAKER_00]: towards that 50 to 60 it helps act as that wedge again going back to earlier in the episode when i"
+    },
+    {
+      "start": 2499.38,
+      "end": 2503.44,
+      "text": "[SPEAKER_00]: talked about getting in through the back door right if you're a brand being like yo i've got"
+    },
+    {
+      "start": 2503.44,
+      "end": 2507.34,
+      "text": "[SPEAKER_00]: another billboard in your feed that's one thing but if you've got a creator who's sort of"
+    },
+    {
+      "start": 2507.34,
+      "end": 2512.7,
+      "text": "[SPEAKER_00]: unboxing something and talking about how her new shower routine is different or when she travels"
+    },
+    {
+      "start": 2512.7,
+      "end": 2516.48,
+      "text": "[SPEAKER_00]: and she uses cadence products her packing routine is different those are just different"
+    },
+    {
+      "start": 2516.48,
+      "end": 2521.96,
+      "text": "[SPEAKER_00]: ways to cut through the feed and be you know still drive value in entertainment but also convey"
+    },
+    {
+      "start": 2521.96,
+      "end": 2525.86,
+      "text": "[SPEAKER_00]: the importance of the products or how they work or how it benefits them or how it compares"
+    },
+    {
+      "start": 2525.86,
+      "end": 2530.7,
+      "text": "[SPEAKER_00]: to things they might have used in the past this is why creators are so good and it's coming from"
+    },
+    {
+      "start": 2530.7,
+      "end": 2535.32,
+      "text": "[SPEAKER_00]: their handle so you know nobody sees it and immediately thinks yeah i don't need another"
+    },
+    {
+      "start": 2535.32,
+      "end": 2539.58,
+      "text": "[SPEAKER_00]: billboard in my feed they're usually down to watch it and they tend to get higher completion"
+    },
+    {
+      "start": 2539.58,
+      "end": 2545.08,
+      "text": "[SPEAKER_00]: rates it also gives the brand a sense of approachability and also just a sense of"
+    },
+    {
+      "start": 2545.08,
+      "end": 2549.7,
+      "text": "[SPEAKER_00]: community that there are people who are talking about the product versus just the brand going out"
+    },
+    {
+      "start": 2549.7,
+      "end": 2555.82,
+      "text": "[SPEAKER_00]: and saying we are the best you have to try us you have to trust us and i bet that you're"
+    },
+    {
+      "start": 2555.82,
+      "end": 2559.96,
+      "text": "[SPEAKER_00]: going to love it right because that's not that believable so how do you source these creators"
+    },
+    {
+      "start": 2559.96,
+      "end": 2566.84,
+      "text": "[SPEAKER_00]: for to use them in ads well a couple ways one personally i'm a fan of just going to tiktok"
+    },
+    {
+      "start": 2566.84,
+      "end": 2571.8,
+      "text": "[SPEAKER_00]: and let's say let's say i'm looking for creators for jolly i'm just going to go to tiktok"
+    },
+    {
+      "start": 2571.8,
+      "end": 2580.16,
+      "text": "[SPEAKER_00]: i'm going to search hair wellness uh before and after or skincare get ready with me i'm just"
+    },
+    {
+      "start": 2580.16,
+      "end": 2584.18,
+      "text": "[SPEAKER_00]: going to find people who are really good at creating engaging content by searching for things that are"
+    },
+    {
+      "start": 2584.18,
+      "end": 2588.94,
+      "text": "[SPEAKER_00]: within their realm and then i'm just going to reach out to them i'm going to dm them on tiktok"
+    },
+    {
+      "start": 2588.94,
+      "end": 2593.04,
+      "text": "[SPEAKER_00]: maybe sometimes you can't do that you they have an instagram link in their bio you can dm them"
+    },
+    {
+      "start": 2593.04,
+      "end": 2596.94,
+      "text": "[SPEAKER_00]: on instagram if they don't have an email in their tiktok bio then you can actually go to"
+    },
+    {
+      "start": 2596.94,
+      "end": 2601,
+      "text": "[SPEAKER_00]: instagram a lot of times they definitely have an email in their instagram bio and just send"
+    },
+    {
+      "start": 2601,
+      "end": 2606.52,
+      "text": "[SPEAKER_00]: them an email and just say hey this is what we're trying to do uh this is our brand if you're"
+    },
+    {
+      "start": 2606.52,
+      "end": 2609.7,
+      "text": "[SPEAKER_00]: interested we'd love to send you product to sample it and if you like the product we'd love"
+    },
+    {
+      "start": 2609.7,
+      "end": 2615.8,
+      "text": "[SPEAKER_00]: to work together that is probably the best way to do it you absolutely can use platforms to do this"
+    },
+    {
+      "start": 2616.54,
+      "end": 2619.76,
+      "text": "[SPEAKER_00]: but honestly for your first set of creators i'd recommend just doing this manually"
+    },
+    {
+      "start": 2620.18,
+      "end": 2624.54,
+      "text": "[SPEAKER_00]: personally i'm also a fan of finding creators that you can scale with and continue to grow with"
+    },
+    {
+      "start": 2624.54,
+      "end": 2628.52,
+      "text": "[SPEAKER_00]: versus just creators where you know you find them once through a platform"
+    },
+    {
+      "start": 2628.52,
+      "end": 2634.4,
+      "text": "[SPEAKER_00]: and then you work with them once or twice and then the goal is uh you know like we've we're done"
+    },
+    {
+      "start": 2634.4,
+      "end": 2640.08,
+      "text": "[SPEAKER_00]: working with you you know apply to the next campaign i'm not a huge fan of that i'm more of a fan of"
+    },
+    {
+      "start": 2640.08,
+      "end": 2644.66,
+      "text": "[SPEAKER_00]: let's find a handful of creators let's work with them let's see who does well let's see who we like"
+    },
+    {
+      "start": 2644.66,
+      "end": 2648.74,
+      "text": "[SPEAKER_00]: working with and then how do we find the ones that we really like and just continue to double"
+    },
+    {
+      "start": 2648.74,
+      "end": 2652.8,
+      "text": "[SPEAKER_00]: down and build that relationship with them i think alo actually does a really really good"
+    },
+    {
+      "start": 2652.8,
+      "end": 2656.98,
+      "text": "[SPEAKER_00]: job of this when you think about the creators that they work with they tend to be the same"
+    },
+    {
+      "start": 2656.98,
+      "end": 2661.48,
+      "text": "[SPEAKER_00]: ones over and over again of course they add new ones but they do a really good job continuing to"
+    },
+    {
+      "start": 2661.48,
+      "end": 2667.52,
+      "text": "[SPEAKER_00]: build relationships with creators over time now when it comes to making sure creators are speaking"
+    },
+    {
+      "start": 2667.52,
+      "end": 2672.28,
+      "text": "[SPEAKER_00]: properly or properly talking about the brand and the way that you want or the product or"
+    },
+    {
+      "start": 2672.28,
+      "end": 2676.56,
+      "text": "[SPEAKER_00]: pitching it right here's what i like to do so either there's either two ways to do it"
+    },
+    {
+      "start": 2677.16,
+      "end": 2682.94,
+      "text": "[SPEAKER_00]: if the creator has used the product loves the product and has been using it for a while"
+    },
+    {
+      "start": 2684,
+      "end": 2688.62,
+      "text": "[SPEAKER_00]: then you could just kind of let them do whatever they want let them know what the end goal is"
+    },
+    {
+      "start": 2688.62,
+      "end": 2693.46,
+      "text": "[SPEAKER_00]: or the purpose is for the content and just be like hey you create a piece of content you know"
+    },
+    {
+      "start": 2693.46,
+      "end": 2697.68,
+      "text": "[SPEAKER_00]: what the goal is right and the goal that you tell them shouldn't just be sales because if this is"
+    },
+    {
+      "start": 2697.68,
+      "end": 2702.34,
+      "text": "[SPEAKER_00]: running as an ad the goal is actually a click or the goal is to get somebody interested in the"
+    },
+    {
+      "start": 2702.34,
+      "end": 2707.32,
+      "text": "[SPEAKER_00]: product right it's not necessarily to sell within the ad so you could do that i've done that"
+    },
+    {
+      "start": 2707.32,
+      "end": 2713.98,
+      "text": "[SPEAKER_00]: before and it works when it works it works extremely well when it doesn't it could be kind of sometimes"
+    },
+    {
+      "start": 2713.98,
+      "end": 2717.5,
+      "text": "[SPEAKER_00]: you're like damn i really should have just put together a brief because that was an expensive"
+    },
+    {
+      "start": 2717.5,
+      "end": 2723.86,
+      "text": "[SPEAKER_00]: collaboration the other way to do it which i think just comes out a lot with much more"
+    },
+    {
+      "start": 2723.86,
+      "end": 2729.38,
+      "text": "[SPEAKER_00]: consistent results is you write actually write out a brief so you write a full brief you know hey"
+    },
+    {
+      "start": 2729.38,
+      "end": 2732.9,
+      "text": "[SPEAKER_00]: this is the emotion that we want the person on the other side of the screen to experience"
+    },
+    {
+      "start": 2732.9,
+      "end": 2737.3,
+      "text": "[SPEAKER_00]: this is the action we need them to take it's clicking the video because they're interested"
+    },
+    {
+      "start": 2737.3,
+      "end": 2741.38,
+      "text": "[SPEAKER_00]: it's getting interested in the product maybe if it's for a brand that's selling in retail"
+    },
+    {
+      "start": 2741.38,
+      "end": 2746.72,
+      "text": "[SPEAKER_00]: it's just walking away knowing you know x y and z benefits so that when they go into safeway"
+    },
+    {
+      "start": 2746.72,
+      "end": 2751.08,
+      "text": "[SPEAKER_00]: or casco and they see the product they remember that right so making sure the sound bites are"
+    },
+    {
+      "start": 2751.08,
+      "end": 2755.58,
+      "text": "[SPEAKER_00]: clear but you give them a brief it's got that at the top and then you've got your angles"
+    },
+    {
+      "start": 2755.58,
+      "end": 2760.18,
+      "text": "[SPEAKER_00]: so you can just script out what the angles are um you can script out all the meat in"
+    },
+    {
+      "start": 2760.18,
+      "end": 2763.88,
+      "text": "[SPEAKER_00]: the middle and then of course script out a few different call to actions i'm a fan of having"
+    },
+    {
+      "start": 2763.88,
+      "end": 2769.08,
+      "text": "[SPEAKER_00]: like three to five for each because that gives your video editor the opportunity to then make"
+    },
+    {
+      "start": 2769.08,
+      "end": 2774.3,
+      "text": "[SPEAKER_00]: you know 15 or 20 videos out of it and properly test in more of a performance oriented manner"
+    },
+    {
+      "start": 2774.3,
+      "end": 2779.32,
+      "text": "[SPEAKER_00]: which hooks work best which end card works best you know which meat of the video works best"
+    },
+    {
+      "start": 2779.86,
+      "end": 2784.54,
+      "text": "[SPEAKER_00]: and you can then decide how to then go about it and also decide like for future creator"
+    },
+    {
+      "start": 2784.54,
+      "end": 2788.6,
+      "text": "[SPEAKER_00]: collaborations you now know which angles work best when it comes from a creator"
+    },
+    {
+      "start": 2789.16,
+      "end": 2793.88,
+      "text": "[SPEAKER_00]: or for different audiences you're trying to target when it comes to editing you want to make sure"
+    },
+    {
+      "start": 2793.88,
+      "end": 2798.6,
+      "text": "[SPEAKER_00]: that you edit this in a way that doesn't feel like it's overproduced you know i'm a fan of"
+    },
+    {
+      "start": 2798.6,
+      "end": 2805.38,
+      "text": "[SPEAKER_00]: using captions or fonts for captions that are native to tiktok facebook instagram etc um you"
+    },
+    {
+      "start": 2805.38,
+      "end": 2809.94,
+      "text": "[SPEAKER_00]: don't want to have like crazy branded captions and a bunch of animations and a bunch of things"
+    },
+    {
+      "start": 2809.94,
+      "end": 2814.78,
+      "text": "[SPEAKER_00]: flying in and out and changing the thing to show b-roll you definitely can but like don't"
+    },
+    {
+      "start": 2814.78,
+      "end": 2819.7,
+      "text": "[SPEAKER_00]: overdo it because the goal is to have something that feels contextually native to the feed"
+    },
+    {
+      "start": 2819.7,
+      "end": 2825.6,
+      "text": "[SPEAKER_00]: whether it's the advertorials or whether it's the creator content it needs to be something that"
+    },
+    {
+      "start": 2825.6,
+      "end": 2830.8,
+      "text": "[SPEAKER_00]: feels contextually native to the feed and that's why they perform well that's why their cpms are"
+    },
+    {
+      "start": 2830.8,
+      "end": 2833.64,
+      "text": "[SPEAKER_00]: a little bit lower that's why the click-through rates are a little bit higher because it"
+    },
+    {
+      "start": 2833.64,
+      "end": 2839,
+      "text": "[SPEAKER_00]: feels contextually native versus feeling like just another billboard in the middle of your feed"
+    },
+    {
+      "start": 2840.6,
+      "end": 2846.58,
+      "text": "[SPEAKER_00]: now the last thing i'll say is you don't necessarily need somebody who is a content creator to be a"
+    },
+    {
+      "start": 2846.58,
+      "end": 2850.86,
+      "text": "[SPEAKER_00]: creator um there's a bunch of brands that we've worked with where their founder tends to be the"
+    },
+    {
+      "start": 2850.86,
+      "end": 2855.4,
+      "text": "[SPEAKER_00]: creator in fact we just did something with a brand and we had the founder create a lot of the ads"
+    },
+    {
+      "start": 2855.4,
+      "end": 2860.1,
+      "text": "[SPEAKER_00]: we just gave her a script of what to say we chopped it up in the right ways and it performed"
+    },
+    {
+      "start": 2860.6,
+      "end": 2865.02,
+      "text": "[SPEAKER_00]: it was the best ads they've ever run so you can just have the founders do it um if you"
+    },
+    {
+      "start": 2865.02,
+      "end": 2868.56,
+      "text": "[SPEAKER_00]: have a good social media person you can have them do it if you're listening to this you"
+    },
+    {
+      "start": 2868.56,
+      "end": 2872.72,
+      "text": "[SPEAKER_00]: work at the brand you do something you can do it it doesn't need to be that crazy and just"
+    },
+    {
+      "start": 2872.72,
+      "end": 2877.3,
+      "text": "[SPEAKER_00]: remember too like you're recording this and then sending it to an editor so you can take as many"
+    },
+    {
+      "start": 2877.3,
+      "end": 2882.24,
+      "text": "[SPEAKER_00]: takes as you need but what i will say is once you figure out a way to keep pumping out content"
+    },
+    {
+      "start": 2882.24,
+      "end": 2886.68,
+      "text": "[SPEAKER_00]: like this and obviously the most scalable ways to either have a creator on retainer"
+    },
+    {
+      "start": 2886.68,
+      "end": 2891.38,
+      "text": "[SPEAKER_00]: or somebody internally who's really good at this it makes it very easy to continue to"
+    },
+    {
+      "start": 2891.38,
+      "end": 2895.92,
+      "text": "[SPEAKER_00]: acquire customers and also just lock you know you have a promo coming up okay we can get"
+    },
+    {
+      "start": 2895.92,
+      "end": 2900.34,
+      "text": "[SPEAKER_00]: UGC style ads or creator style ads for a promo we have a new product launch coming up we can do"
+    },
+    {
+      "start": 2900.34,
+      "end": 2904.2,
+      "text": "[SPEAKER_00]: the same thing we have a partnership that we're doing we can do the same thing it just makes"
+    },
+    {
+      "start": 2904.2,
+      "end": 2911.98,
+      "text": "[SPEAKER_00]: you more versatile and agile which obviously is a marketer's dream okay so i just checked the time"
+    },
+    {
+      "start": 2911.98,
+      "end": 2916.66,
+      "text": "[SPEAKER_00]: we are running way over on this episode so what i'm going to do is i'm going to save the ad"
+    },
+    {
+      "start": 2916.66,
+      "end": 2924,
+      "text": "[SPEAKER_00]: creative portion for another episode it's about 15 super tactical tips on how to think about ads"
+    },
+    {
+      "start": 2924.44,
+      "end": 2929.58,
+      "text": "[SPEAKER_00]: and we're going to save that for another episode maybe we'll call this the tactical trio instead"
+    },
+    {
+      "start": 2929.58,
+      "end": 2935.9,
+      "text": "[SPEAKER_00]: of the tactical foreplay and let me know how you like the episode email me and at charmer.com DM me"
+    },
+    {
+      "start": 2935.9,
+      "end": 2941.86,
+      "text": "[SPEAKER_00]: on twitter mr charmer leave a comment in the podcast reviews just i'm very curious to see what you"
+    },
+    {
+      "start": 2941.86,
+      "end": 2946.54,
+      "text": "[SPEAKER_00]: thought i felt like i was yapping the whole time and i tried to make it as dense as possible so"
+    },
+    {
+      "start": 2946.54,
+      "end": 2950.24,
+      "text": "[SPEAKER_00]: hopefully you took some good notes and by the time this episode comes out i may have"
+    },
+    {
+      "start": 2950.24,
+      "end": 2956.08,
+      "text": "[SPEAKER_00]: notes on twitter as well so check that out if it's there and um that's it i'll see you at the"
+    },
+    {
+      "start": 2956.08,
+      "end": 2961.2,
+      "text": "[SPEAKER_00]: next episode thank you for listening thank you for staying till the end and uh i'll see you next week"
+    },
+    {
+      "start": 2961.64,
+      "end": 2966.28,
+      "text": "[SPEAKER_00]: thanks for listening we'll be back next time to cut through the noise on cpg retail and e-commerce"
+    },
+    {
+      "start": 2966.28,
+      "end": 2970.92,
+      "text": "[SPEAKER_00]: if you enjoyed this episode why not share it with a friend and be sure to subscribe wherever"
+    },
+    {
+      "start": 2970.92,
+      "end": 2972.4,
+      "text": "[SPEAKER_00]: you listen so you don't miss the next one"
+    }
+  ]
+}

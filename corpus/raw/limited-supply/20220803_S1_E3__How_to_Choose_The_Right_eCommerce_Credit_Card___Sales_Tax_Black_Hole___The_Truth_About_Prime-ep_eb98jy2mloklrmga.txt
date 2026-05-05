@@ -1,0 +1,1791 @@
+[00:00:00.000 --> 00:00:19.320] I've never found Twitter ads to work. I think it's the biggest waste of money in the world. I think you're better off writing threads on Twitter than running a paid ad. But yeah, TikTok ads work. I think YouTube ads work. I just think it's a platform where people want to spend time and where people are there to be entertained. Twitter, I'm not there to be entertained. I'm there to learn something.
+[00:00:19.740 --> 00:00:22.960] And Snap, I'm not sure I'm there to be entertained. I'm more there to communicate with people.
+[00:00:23.080 --> 00:00:23.420] Exactly.
+[00:00:23.640 --> 00:00:27.420] Yeah. So it's definitely hard. It's almost like running ads on Messenger or WhatsApp.
+[00:00:27.420 --> 00:00:27.560] Exactly.
+[00:00:27.560 --> 00:00:28.900] It'd be a very different experience.
+[00:00:29.240 --> 00:00:33.880] Yeah, it's the mindset of whoever's using the app is just, it's not there to consume ads.
+[00:00:34.500 --> 00:00:40.240] This is Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:40.420 --> 00:00:43.740] We're your hosts, Nick and Moyes. Let's start talking about money.
+[00:00:44.780 --> 00:00:51.060] So I love Tapcart. It's a drag and drop builder that turns your Shopify store into a native mobile app in just a few hours.
+[00:00:51.260 --> 00:00:55.080] The average time to launch an app live in the App Store is just about two weeks.
+[00:00:55.080 --> 00:01:08.540] Crazy stats. Average 43X ROI, high conversion and retention rates, 100% organic reach per push, push notification CTR 7X higher than email, over 92% engagement rate.
+[00:01:08.540 --> 00:01:13.300] So Limited Supply listeners get their first two months of Tapcart for free.
+[00:01:13.300 --> 00:01:18.920] So you'll actually be able to launch your app live and test this new owned sales and marketing channel.
+[00:01:18.920 --> 00:01:26.180] Head to tapcart.com slash Limited. That is tapcart.com slash Limited to book a demo and start building your app today.
+[00:01:26.580 --> 00:01:27.580] You won't regret it.
+[00:01:28.160 --> 00:01:33.160] All right, we're back. We've got the third or fourth episode. We still don't know which one this is.
+[00:01:33.280 --> 00:01:36.740] Yeah, we're going to figure it out. Workweek's got to figure out if they're going to allow it or not.
+[00:01:36.860 --> 00:01:37.680] Yeah, that's right.
+[00:01:37.900 --> 00:01:44.440] We just finished a rumble workout. I think I hit an all-time high in terms of calories burned. That was 1,060 for me.
+[00:01:44.620 --> 00:01:44.940] That's crazy.
+[00:01:44.940 --> 00:01:48.180] 14.9 on the whoop strain, if anybody listening has a whoop.
+[00:01:48.780 --> 00:01:50.780] Okay, so we've got a bunch of stuff to talk about today.
+[00:01:51.120 --> 00:01:54.580] Mostly, some of the stuff is things that we wanted to cover last week and didn't get a chance to.
+[00:01:54.860 --> 00:01:57.300] One is what credit card should you be using.
+[00:01:57.680 --> 00:02:02.400] Another is state sales tax, which I think is a huge black hole for businesses.
+[00:02:03.080 --> 00:02:05.840] Buy with Prime, because a few more details have leaked out.
+[00:02:06.320 --> 00:02:07.740] Snap earnings that came out.
+[00:02:07.940 --> 00:02:10.320] Some SaaS pricing if we get a chance to get there as well.
+[00:02:10.600 --> 00:02:14.060] But let's start with credit cards, because I think that's where we ended our last episode.
+[00:02:14.340 --> 00:02:14.460] Yeah.
+[00:02:14.700 --> 00:02:17.840] You know, you had name-dropped Parker for credit cards.
+[00:02:17.840 --> 00:02:18.100] Yeah.
+[00:02:18.380 --> 00:02:21.260] And tell me, you know, do you use a Parker card? Tell me about Parker card.
+[00:02:21.600 --> 00:02:24.220] So we mainly use American Express business.
+[00:02:24.800 --> 00:02:26.200] Do you use the gold or the platinum?
+[00:02:26.400 --> 00:02:26.720] Platinum.
+[00:02:27.100 --> 00:02:27.240] Okay.
+[00:02:27.520 --> 00:02:28.880] The team uses gold. I use platinum.
+[00:02:29.400 --> 00:02:33.620] You know what's great about platinum? I'm sorry, the gold is you get something like 3x rewards points.
+[00:02:33.800 --> 00:02:34.580] Yeah, it's great for ads.
+[00:02:34.680 --> 00:02:35.260] Yeah, on ads.
+[00:02:35.340 --> 00:02:35.460] Yeah.
+[00:02:35.640 --> 00:02:36.900] For the first like $100,000.
+[00:02:37.200 --> 00:02:38.860] Once you get $100,000, it's like pretty useless.
+[00:02:39.120 --> 00:02:39.280] Yeah.
+[00:02:39.440 --> 00:02:44.900] It's funny, like all these new banks and credit card companies are basically built off the same stack.
+[00:02:44.900 --> 00:02:52.640] It's like they decide how to allocate their, you know, when you swipe a card, 3% or 2.6% is charged.
+[00:02:52.920 --> 00:02:53.040] Yeah.
+[00:02:53.320 --> 00:03:00.840] I've been meaning to look this up, like what the split is between the merchant processor, like what does Authorize.net take or what does Stripe take?
+[00:03:00.920 --> 00:03:01.040] Yeah.
+[00:03:01.040 --> 00:03:02.960] And what goes back to the credit card company.
+[00:03:03.200 --> 00:03:03.320] Yeah.
+[00:03:03.580 --> 00:03:06.900] And like this is how, like I don't know if you've ever seen these videos on YouTube.
+[00:03:07.100 --> 00:03:12.940] The airline credit card businesses are like five times the size of the actual airline itself.
+[00:03:13.080 --> 00:03:13.420] Sure, yeah.
+[00:03:13.540 --> 00:03:20.840] And it's all because, you know, you use like, I use a Delta American Express card and they're making 2.3% or whatever their split is of that.
+[00:03:21.000 --> 00:03:21.180] Yeah.
+[00:03:21.180 --> 00:03:28.540] So anyways, with these D2C credit cards, like all they're doing essentially is they're just innovating on the front end, right?
+[00:03:28.620 --> 00:03:33.980] Like the backend underlying technology is still like regulated and probably hard to change.
+[00:03:34.260 --> 00:03:43.900] But companies like Parker or Ramp or Brex, all they're really doing is like making the user experience easier, whether you're a media buyer or CFO.
+[00:03:44.320 --> 00:03:53.300] And so I think it's kind of interesting, like Parker is one where I don't think you would use Parker across your whole business, but you could use it in ads because you get like 60 day payback with no fee.
+[00:03:53.520 --> 00:03:56.500] And then, you know, their intro offer, for example, is interesting.
+[00:03:57.140 --> 00:04:00.700] For the first 30 days, you can get 3% cash back.
+[00:04:00.820 --> 00:04:05.820] So basically they're saying like everything we make and maybe plus a little bit more is going straight back to you.
+[00:04:05.900 --> 00:04:06.060] Yeah.
+[00:04:06.360 --> 00:04:08.120] And that's our cost of customer acquisition.
+[00:04:08.460 --> 00:04:13.340] And then we're going to keep that fee and you're not going to have to pay a percent on top of a 60 day rolling.
+[00:04:13.340 --> 00:04:15.380] I think there's a lot of things to digest there.
+[00:04:15.600 --> 00:04:16.780] A few things that I want to mention.
+[00:04:16.900 --> 00:04:18.900] One is you use a Delta American Express.
+[00:04:19.460 --> 00:04:21.180] Only because, have you seen it?
+[00:04:21.520 --> 00:04:22.420] Yeah, because it's metal.
+[00:04:22.420 --> 00:04:23.100] It's got the plane.
+[00:04:23.280 --> 00:04:23.540] Oh yeah.
+[00:04:23.760 --> 00:04:23.840] Okay.
+[00:04:23.960 --> 00:04:25.280] They made it of a plane.
+[00:04:25.480 --> 00:04:26.400] I'm obsessed with planes.
+[00:04:26.780 --> 00:04:26.940] Yeah.
+[00:04:27.340 --> 00:04:28.100] That's called Delta.
+[00:04:28.220 --> 00:04:33.620] They call them Delta Sky Miles and everyone in the frequent flyer community calls them Delta Sky Pesos.
+[00:04:33.900 --> 00:04:34.100] Yeah.
+[00:04:34.100 --> 00:04:35.060] They're not worth anything.
+[00:04:35.400 --> 00:04:40.040] So one of the businesses that I'm an investor in, I'm looking at their Stripe account right now.
+[00:04:40.040 --> 00:04:46.320] They have $745,000 in credit card charges over the past 30 days, let's say.
+[00:04:46.540 --> 00:04:52.320] And this isn't their entire business because they've got a bunch of, like they take PayPal and Amazon Pay.
+[00:04:52.700 --> 00:04:55.000] The network costs are the pay interchange.
+[00:04:55.240 --> 00:04:57.580] Basically, the amount Visa gets is $18,000.
+[00:04:58.980 --> 00:05:00.980] That's how much credit card fees that they've got.
+[00:05:01.240 --> 00:05:02.760] And then they've, which is what?
+[00:05:02.880 --> 00:05:04.020] $18,000.
+[00:05:04.580 --> 00:05:06.580] And this is processed through Shopify Pay?
+[00:05:06.700 --> 00:05:06.880] No.
+[00:05:07.020 --> 00:05:07.440] Payments?
+[00:05:07.660 --> 00:05:08.560] Or directly on Stripe?
+[00:05:08.560 --> 00:05:09.680] Yeah, directly through Stripe.
+[00:05:09.720 --> 00:05:09.900] Okay.
+[00:05:10.460 --> 00:05:10.640] $750,000.
+[00:05:10.640 --> 00:05:11.060] One, two, three.
+[00:05:11.180 --> 00:05:12.540] So yeah, that's 2.4%.
+[00:05:12.540 --> 00:05:15.100] And that includes the credit card swipe fee and everything.
+[00:05:15.420 --> 00:05:15.560] Okay.
+[00:05:15.600 --> 00:05:16.140] So they're paying-
+[00:05:16.140 --> 00:05:16.640] That's pretty good.
+[00:05:16.820 --> 00:05:17.000] Yeah.
+[00:05:17.100 --> 00:05:17.840] They're paying $18,000.
+[00:05:17.960 --> 00:05:19.140] These guys have great rates.
+[00:05:19.300 --> 00:05:19.360] Yeah.
+[00:05:19.360 --> 00:05:21.520] $18,500 in network costs.
+[00:05:21.640 --> 00:05:29.700] And then Stripe is getting $2,140.53 on this business that charged $745,000 in the last 30 days.
+[00:05:30.180 --> 00:05:33.160] So Stripe's cut is $2,000 out of $745,000.
+[00:05:33.620 --> 00:05:37.860] The banks are $18,582 out of $745,000.
+[00:05:38.020 --> 00:05:38.280] Wow.
+[00:05:38.280 --> 00:05:38.320] Wow.
+[00:05:38.460 --> 00:05:40.880] Just for some context in terms of how things get split up.
+[00:05:41.320 --> 00:05:43.260] When I think about credit cards, I think of two different things.
+[00:05:43.420 --> 00:05:47.200] One is some businesses are like, look, we need terms because we're using this as a financing.
+[00:05:47.540 --> 00:05:47.600] Right.
+[00:05:47.720 --> 00:05:50.340] And those instances, I think the Parkers are all great.
+[00:05:50.800 --> 00:05:53.220] You know, there've been a lot of good and bad things said about Brex.
+[00:05:53.320 --> 00:05:55.180] I think Brex sort of pioneered this industry.
+[00:05:55.340 --> 00:05:55.560] Agreed.
+[00:05:55.660 --> 00:05:57.820] Of like coming out with new credit cards or at least making it big.
+[00:05:58.100 --> 00:06:01.900] The problem was they consistently change their underwriting standards where something will happen
+[00:06:01.900 --> 00:06:04.580] and they'll be like, oh my God, we're no longer giving you any terms.
+[00:06:04.700 --> 00:06:05.540] We're shutting down your account.
+[00:06:05.540 --> 00:06:05.820] Yeah.
+[00:06:05.820 --> 00:06:11.680] I had an American Express card and when COVID hit, one of our businesses, sorry, I had an
+[00:06:11.680 --> 00:06:12.360] American Express card.
+[00:06:12.440 --> 00:06:16.500] One of our businesses got a call from American Express and was like, give us your new financials
+[00:06:16.500 --> 00:06:17.860] because we're getting scared as well.
+[00:06:17.940 --> 00:06:20.580] They never changed the credit they were giving or anything like that.
+[00:06:21.120 --> 00:06:26.240] Brex changed credit lines for a lot of businesses and shut down a lot of accounts when like they
+[00:06:26.240 --> 00:06:27.440] thought there was market uncertainty.
+[00:06:27.620 --> 00:06:28.460] Like they're underwriting.
+[00:06:28.460 --> 00:06:28.740] Yeah.
+[00:06:28.740 --> 00:06:32.520] I feel like they also just announced if you didn't raise money, you're not getting a Brex
+[00:06:32.520 --> 00:06:32.760] account.
+[00:06:32.920 --> 00:06:33.460] That's terrible.
+[00:06:33.940 --> 00:06:35.320] I wonder what happened to our Brex account.
+[00:06:35.420 --> 00:06:39.220] So I think there are great credit cards if you're looking for financing, but if you're
+[00:06:39.220 --> 00:06:45.300] not looking for financing, there's a Bank of America cashback card, which gives 2.625%
+[00:06:45.300 --> 00:06:45.940] cashback.
+[00:06:46.080 --> 00:06:46.960] So it's free.
+[00:06:47.160 --> 00:06:47.540] Literally.
+[00:06:47.840 --> 00:06:49.540] I mean, it's more than this business is paying.
+[00:06:49.700 --> 00:06:53.420] Like Bank of America loses money looking at these stripe rights that this business is paying.
+[00:06:53.620 --> 00:06:53.700] Right.
+[00:06:53.700 --> 00:06:57.860] They're giving more money than they're charging here and it's the best credit card in the
+[00:06:57.860 --> 00:07:00.100] world for cashback 2.62%.
+[00:07:00.560 --> 00:07:04.900] There's other cards that may be better if you try and optimize for things for miles, like
+[00:07:04.900 --> 00:07:09.260] that American Express gold, you get three points for every dollar you spend on Facebook ads
+[00:07:09.260 --> 00:07:10.360] for the first $100,000.
+[00:07:10.820 --> 00:07:10.940] Right.
+[00:07:11.040 --> 00:07:13.040] If you have less than $100,000 in spend a year, it's great.
+[00:07:13.140 --> 00:07:16.320] If you have $200,000, you can probably get two American Express gold cards.
+[00:07:16.520 --> 00:07:19.520] You know, if you've got 10 million in Facebook ad spend, you don't have the ability to like
+[00:07:19.520 --> 00:07:22.840] get a hundred different American Express gold cards.
+[00:07:22.840 --> 00:07:24.360] At some point it stops.
+[00:07:24.580 --> 00:07:24.720] Yeah.
+[00:07:25.040 --> 00:07:28.920] I got to meet the Marriott's, like I was using SPG a long time ago when I was running
+[00:07:28.920 --> 00:07:29.960] native in like 2015.
+[00:07:30.020 --> 00:07:33.820] I got to meet, and the other thing I love about credit card cashback is it's tax free.
+[00:07:34.020 --> 00:07:40.440] So you get 2.62% back from this Bank of America card tax free at 40% because that's how much
+[00:07:40.440 --> 00:07:41.180] you'd pay in taxes.
+[00:07:41.320 --> 00:07:41.420] Right.
+[00:07:41.500 --> 00:07:46.100] So it's basically three, five, three, seven on this credit card, which is really amazing.
+[00:07:46.320 --> 00:07:46.460] Yeah.
+[00:07:46.800 --> 00:07:50.920] One guy that I know has been running this business, he's gotten a million dollars in cash back
+[00:07:50.920 --> 00:07:52.100] from this Bank of America card.
+[00:07:52.100 --> 00:07:52.340] Wow.
+[00:07:52.480 --> 00:07:53.120] And it's tax free.
+[00:07:53.300 --> 00:07:53.440] Wow.
+[00:07:53.600 --> 00:07:55.040] And you know, that million dollars is tax free.
+[00:07:55.120 --> 00:07:56.720] So it'd be like earning $1.8 million.
+[00:07:57.060 --> 00:07:57.200] Yeah.
+[00:07:57.460 --> 00:07:58.020] It's pretty crazy.
+[00:07:58.180 --> 00:07:58.640] That's amazing.
+[00:07:59.160 --> 00:08:03.000] So I'm like, you know, if your business can do it, I try and optimize for the points.
+[00:08:03.160 --> 00:08:03.340] Right.
+[00:08:03.360 --> 00:08:07.380] I got to meet the Marriott CEO once, and I was like, who has the most Marriott rewards
+[00:08:07.380 --> 00:08:07.640] points?
+[00:08:07.700 --> 00:08:08.280] Because I thought it was me.
+[00:08:08.340 --> 00:08:11.100] I'd spent so much money on my Marriott credit card or my SPG credit card.
+[00:08:11.100 --> 00:08:12.940] You were doing that for native ads?
+[00:08:13.080 --> 00:08:13.140] Yeah.
+[00:08:13.180 --> 00:08:15.220] In like 2015, like really early on.
+[00:08:15.300 --> 00:08:15.460] Yeah.
+[00:08:16.180 --> 00:08:18.380] And he's like, someone has 5 million points.
+[00:08:18.520 --> 00:08:21.060] And I was like, dude, I've got way more than 5 million points.
+[00:08:21.220 --> 00:08:22.360] You don't know what you're talking about.
+[00:08:22.380 --> 00:08:23.480] Like who has the most?
+[00:08:23.620 --> 00:08:25.960] And he's like, go talk to our VP of loyalty over there.
+[00:08:26.100 --> 00:08:26.740] She might know.
+[00:08:26.980 --> 00:08:30.740] And so I was like, hey, I just talked to Arnie and he said to talk to you, who has the
+[00:08:30.740 --> 00:08:34.100] most Marriott credit card rewards points or most Marriott points?
+[00:08:34.460 --> 00:08:36.360] And she's like, someone has 25 million.
+[00:08:36.540 --> 00:08:38.260] I was like, no, I've got more than 25 million.
+[00:08:38.480 --> 00:08:39.160] It's not them.
+[00:08:39.260 --> 00:08:40.380] I was like, you know, who is it?
+[00:08:40.580 --> 00:08:41.960] You must know who this is.
+[00:08:42.060 --> 00:08:46.020] And they're like, believe it or not, our system doesn't allow us to sort by who has the most
+[00:08:46.020 --> 00:08:46.360] points.
+[00:08:46.540 --> 00:08:51.100] So we know how many points people have in general, like in cumulative amounts.
+[00:08:51.240 --> 00:08:51.360] Yeah.
+[00:08:51.520 --> 00:08:52.760] But we don't know who has the most.
+[00:08:52.920 --> 00:08:56.300] So they're like, we don't know if, you know, and I had something like 40 million points
+[00:08:56.300 --> 00:08:56.760] at that time.
+[00:08:56.920 --> 00:08:58.720] And they're like, we don't know if this is the most or not.
+[00:08:58.920 --> 00:08:59.860] But I was trying to get the most.
+[00:08:59.940 --> 00:09:03.600] So your credit card stack was Amex and then Marriott?
+[00:09:04.120 --> 00:09:06.200] And United and Capital.
+[00:09:06.420 --> 00:09:09.660] Like I've been through many because, you know, once you get enough Marriott points,
+[00:09:09.760 --> 00:09:10.860] you're like, okay, I need to diversify.
+[00:09:10.940 --> 00:09:11.040] Right.
+[00:09:11.280 --> 00:09:13.940] Then you get enough American Express points, then you're like, I need to diversify.
+[00:09:13.940 --> 00:09:15.280] Diversify your vacation streams.
+[00:09:15.520 --> 00:09:16.180] Yeah, that's right.
+[00:09:16.280 --> 00:09:16.480] Yeah.
+[00:09:16.780 --> 00:09:20.680] And like, you know, I've got north of 20 million Marriott, north of 20 million Amex.
+[00:09:20.880 --> 00:09:20.980] Yeah.
+[00:09:21.380 --> 00:09:22.800] North of 10 million United.
+[00:09:23.080 --> 00:09:24.360] I love credit card rewards.
+[00:09:24.360 --> 00:09:28.940] If you invest in a business and a founder is like, all right, we have the choice between
+[00:09:29.640 --> 00:09:32.360] the 60-day payment terms, ramp.
+[00:09:32.360 --> 00:09:32.500] Ramp.
+[00:09:32.800 --> 00:09:34.700] Let's say you're also an investor in ramp.
+[00:09:34.880 --> 00:09:35.000] Yeah.
+[00:09:35.240 --> 00:09:36.460] Ramp as an option.
+[00:09:37.000 --> 00:09:41.680] And, you know, what you did, like, I'm going to go use whatever because on my weekends,
+[00:09:41.680 --> 00:09:43.800] I'm flying somewhere and enjoying the weekend.
+[00:09:44.220 --> 00:09:46.980] Would you say that the points belong to the business?
+[00:09:47.480 --> 00:09:50.860] Or would you say like, hey, founder, go use those points on your own?
+[00:09:50.980 --> 00:09:53.100] I generally think it's like the scale of the business.
+[00:09:53.280 --> 00:09:56.320] And, you know, most guys who are raising money are probably not in a situation where they're
+[00:09:56.320 --> 00:09:57.520] throwing off a ton of cash.
+[00:09:57.620 --> 00:09:59.200] And so I think it belongs to the business.
+[00:09:59.600 --> 00:10:04.580] And, you know, I heard from the rumor that basically MeUndies was using this Capital One
+[00:10:04.580 --> 00:10:08.840] card that gave you 2% back to help them reduce the cost of Facebook ads by 2%.
+[00:10:08.840 --> 00:10:10.140] And I really respect that.
+[00:10:10.420 --> 00:10:10.560] That's dope.
+[00:10:10.560 --> 00:10:13.140] There's a business I'm an investor in that's a pretty big scale.
+[00:10:13.420 --> 00:10:18.520] And they're like, you know, in the contract with the CEO, they're like, your credit card
+[00:10:18.520 --> 00:10:20.440] rewards points are yours as your bonus.
+[00:10:20.880 --> 00:10:22.380] Like, that is your bonus for the year.
+[00:10:22.520 --> 00:10:22.820] Oh, wow.
+[00:10:22.820 --> 00:10:27.420] And so it does get to like, you know, sometimes we're talking about seven figures a year in
+[00:10:27.420 --> 00:10:27.840] value.
+[00:10:28.040 --> 00:10:28.980] And that's not nothing.
+[00:10:29.160 --> 00:10:33.940] So I think it is worthy of a discussion and a determination of who these points belong
+[00:10:33.940 --> 00:10:34.140] to.
+[00:10:34.500 --> 00:10:38.080] And I think, you know, people can be open and honest about it and be like, these points
+[00:10:38.080 --> 00:10:39.260] are mine or these points are not mine.
+[00:10:39.320 --> 00:10:39.460] Right.
+[00:10:39.700 --> 00:10:39.880] Yeah.
+[00:10:40.020 --> 00:10:40.480] Makes sense.
+[00:10:40.640 --> 00:10:44.420] But the hard part is when you sell the business, you know, P&G didn't buy my Marriott points,
+[00:10:44.520 --> 00:10:44.580] right?
+[00:10:44.640 --> 00:10:45.460] Like, they bought the business.
+[00:10:45.660 --> 00:10:47.060] And so those Marriott points remain with me.
+[00:10:47.060 --> 00:10:48.600] Can you not transfer them?
+[00:10:49.040 --> 00:10:50.920] I have no idea if you can transfer them, to be honest.
+[00:10:50.920 --> 00:10:52.080] Do you still have access to them or no?
+[00:10:52.080 --> 00:10:52.260] Yeah.
+[00:10:52.380 --> 00:10:53.100] Those are my Marriott.
+[00:10:53.160 --> 00:10:53.580] Oh, okay.
+[00:10:53.580 --> 00:10:54.420] It's pre-acquisition.
+[00:10:54.580 --> 00:10:56.660] It wasn't like, and you know, you list out the balance sheet.
+[00:10:56.700 --> 00:10:58.580] I wasn't like, we also own Marriott points.
+[00:10:58.600 --> 00:10:59.000] Yeah, yeah, yeah.
+[00:10:59.000 --> 00:11:01.180] I was like, that's not part of the transaction here.
+[00:11:01.240 --> 00:11:01.500] Got it.
+[00:11:01.600 --> 00:11:02.060] Okay, cool.
+[00:11:02.740 --> 00:11:03.020] Okay.
+[00:11:03.300 --> 00:11:05.260] So that's, I think, a great summary of credit cards.
+[00:11:05.380 --> 00:11:08.080] There's a Bank of America card, which I think is fantastic if you're looking for
+[00:11:08.080 --> 00:11:09.460] And is there a limit to the cash back there?
+[00:11:09.660 --> 00:11:10.060] Oh, okay.
+[00:11:10.060 --> 00:11:15.860] What you do need to do in order to get that much cash back is you have to have $100,000 in a
+[00:11:15.860 --> 00:11:19.500] Bank of America account sitting in the cash or like, you know, in your Merrill Lynch
+[00:11:19.500 --> 00:11:20.360] account in investments.
+[00:11:20.360 --> 00:11:21.140] And that's fine too.
+[00:11:22.080 --> 00:11:23.020] $100,000 there.
+[00:11:23.200 --> 00:11:25.620] And then these guys throw off 2.625%.
+[00:11:25.620 --> 00:11:26.400] Wow, that's a huge hack.
+[00:11:26.560 --> 00:11:27.180] It's insane.
+[00:11:27.360 --> 00:11:28.640] It is so much money.
+[00:11:28.760 --> 00:11:31.640] I mean, you're getting three and a half percent back, you know, taxes.
+[00:11:31.640 --> 00:11:39.900] If you spend $200,000 a month and use that card, you can pay for a TikTok content creator
+[00:11:39.900 --> 00:11:43.860] to work for you for completely free as a result of those points.
+[00:11:43.960 --> 00:11:44.400] Yeah, that's right.
+[00:11:44.500 --> 00:11:44.660] Tax-free.
+[00:11:44.820 --> 00:11:45.680] Yeah, yeah, definitely.
+[00:11:46.100 --> 00:11:47.140] Everybody should be doing that.
+[00:11:47.240 --> 00:11:48.140] Yeah, it's fantastic.
+[00:11:48.420 --> 00:11:50.460] I mean, you just have to not need terms, right?
+[00:11:50.520 --> 00:11:53.160] Because they give you 30-day terms or like the regular terms of a credit card.
+[00:11:53.160 --> 00:11:56.280] So as long as you don't need more than that 30 days to pay off the card, everyone should
+[00:11:56.280 --> 00:11:56.860] be using the card.
+[00:11:57.060 --> 00:11:57.320] Agreed.
+[00:11:57.820 --> 00:12:01.920] Okay, let's talk about state sales tax, which I think has been a huge black hole.
+[00:12:02.340 --> 00:12:06.440] Someone needs to get Congress to step in because basically what happens now, you know, when
+[00:12:06.440 --> 00:12:10.760] I was running Native independently, we already had to remit sales tax in every single county
+[00:12:10.760 --> 00:12:11.360] in California.
+[00:12:11.760 --> 00:12:14.060] And I was like, there are 50 counties here.
+[00:12:14.140 --> 00:12:16.200] I got to do this quarterly by hand.
+[00:12:16.440 --> 00:12:17.980] I got to upload all this information.
+[00:12:18.100 --> 00:12:18.760] This is too hard.
+[00:12:18.880 --> 00:12:22.260] And now, you know, you have to do it in every county in every state if you're a business
+[00:12:22.260 --> 00:12:23.760] doing north of $5 million.
+[00:12:24.240 --> 00:12:24.440] Right.
+[00:12:24.660 --> 00:12:28.860] And like, you know, the solutions out there, which are TaxJar and Avalara, are both super
+[00:12:28.860 --> 00:12:29.320] expensive.
+[00:12:29.560 --> 00:12:29.620] Right.
+[00:12:29.780 --> 00:12:32.160] We're talking about $3,000 to $5,000 a month.
+[00:12:32.340 --> 00:12:36.700] Yeah, it's either Avalara or you like hire somebody full time.
+[00:12:36.960 --> 00:12:39.920] Yeah, and I think a lot of people are just not doing it, to be frank as well.
+[00:12:40.000 --> 00:12:40.280] Agreed.
+[00:12:40.440 --> 00:12:42.640] They're, you know, not collecting sales tax correctly.
+[00:12:42.840 --> 00:12:46.860] And I don't even blame them because if you're a $2 million a year business, you may not be
+[00:12:46.860 --> 00:12:50.720] able to afford $50,000 a year, like a $2 million revenue business.
+[00:12:50.720 --> 00:12:54.280] You have to spend $50,000 a year in these compliance costs.
+[00:12:54.380 --> 00:12:54.840] It's insane.
+[00:12:55.020 --> 00:12:59.200] We need a federal law here so that every state isn't doing their own little bullshit.
+[00:12:59.360 --> 00:12:59.720] Agreed.
+[00:12:59.900 --> 00:13:00.480] And county.
+[00:13:00.960 --> 00:13:01.600] And county.
+[00:13:01.740 --> 00:13:02.300] Yeah, it's crazy.
+[00:13:02.800 --> 00:13:05.920] Do you think there's an opportunity for someone to be like, all right, I'm going to charge
+[00:13:05.920 --> 00:13:07.560] you 10 grand as a one-time thing.
+[00:13:07.560 --> 00:13:08.980] I'm going to come in and set everything up.
+[00:13:09.480 --> 00:13:13.280] I think it's more complicated than that because like every quarter, some counties are like
+[00:13:13.280 --> 00:13:15.260] every month you need to remit your sales tax.
+[00:13:15.620 --> 00:13:18.440] Some counties are like every quarter you need to remit your sales tax.
+[00:13:18.440 --> 00:13:22.360] So you've got to be like, you know, get the amount of sales tax that you owe to that county
+[00:13:22.360 --> 00:13:23.060] at the end of the month.
+[00:13:23.180 --> 00:13:23.960] It's almost the end of July.
+[00:13:24.080 --> 00:13:24.600] At the end of July.
+[00:13:24.800 --> 00:13:25.540] And then remit it.
+[00:13:25.700 --> 00:13:29.220] And some businesses or some counties you got to wait till, you know, the end of September
+[00:13:29.220 --> 00:13:30.020] and then remit it.
+[00:13:30.180 --> 00:13:31.560] So you got to know which counties to do where.
+[00:13:31.560 --> 00:13:32.340] How did you guys do it?
+[00:13:32.760 --> 00:13:34.300] We did it before that law came out.
+[00:13:34.480 --> 00:13:37.840] So like Wayfair came out in like 2017 or 2018.
+[00:13:38.480 --> 00:13:40.540] In 2015 and 16, you didn't need to do that.
+[00:13:40.700 --> 00:13:40.960] Got it.
+[00:13:41.120 --> 00:13:43.340] Then this law came out and everyone's like, we don't know what to do here.
+[00:13:43.440 --> 00:13:43.600] Yeah.
+[00:13:43.600 --> 00:13:46.000] And there's still a little bit of a black hole, I think.
+[00:13:46.960 --> 00:13:49.100] I wonder who is behind the law creation.
+[00:13:49.400 --> 00:13:49.720] Avalara.
+[00:13:50.040 --> 00:13:50.220] Yeah.
+[00:13:50.680 --> 00:13:54.740] You know, I think Amazon was also being like, we need a lot more clarity and we don't care
+[00:13:54.740 --> 00:13:58.280] if we have to pay state sales tax because, you know, we can collect and we've got that.
+[00:13:58.440 --> 00:13:59.940] You know, for us, it's worth it.
+[00:14:00.020 --> 00:14:01.240] We're doing billions of dollars.
+[00:14:01.420 --> 00:14:01.500] Right.
+[00:14:01.680 --> 00:14:04.540] But for a $3 million a year business, it's really tough.
+[00:14:04.700 --> 00:14:04.800] Yeah.
+[00:14:05.360 --> 00:14:08.980] The part where this gets a lot more tricky because like, okay, if you're in compliance or
+[00:14:08.980 --> 00:14:12.180] not in compliance, there's probably somebody's doing something that's not in compliance
+[00:14:12.180 --> 00:14:12.500] right now.
+[00:14:12.500 --> 00:14:13.620] Now, Warren Buffett has this great quote.
+[00:14:13.680 --> 00:14:17.420] He's like, if a police officer follows you for 50 miles on the road, he's going to be
+[00:14:17.420 --> 00:14:18.640] able to pull you over for something.
+[00:14:18.860 --> 00:14:18.940] Right.
+[00:14:19.020 --> 00:14:20.520] You're going to have committed some traffic violation.
+[00:14:20.760 --> 00:14:23.760] I think most businesses are not in compliance with at least one thing here.
+[00:14:24.260 --> 00:14:29.700] The hard part is here when you sell your business, that state sales tax is a big issue now
+[00:14:29.700 --> 00:14:33.260] in sales of businesses where sometimes if I'm buying your business, I'm like, have you
+[00:14:33.260 --> 00:14:34.560] remitted state sales tax?
+[00:14:34.680 --> 00:14:37.940] And if you say no, then I'm like, okay, I was going to pay you a million dollars.
+[00:14:37.940 --> 00:14:42.800] We need to put $200,000 in escrow in case any state comes after us.
+[00:14:42.960 --> 00:14:46.280] And some will say, instead of this, instead of the 200,000 in escrow, I was going to pay
+[00:14:46.280 --> 00:14:46.740] you a million.
+[00:14:46.900 --> 00:14:48.000] Now you get 800,000.
+[00:14:48.140 --> 00:14:52.320] I'm going to take that 200,000 and actually go out, pay off the states that you owe and
+[00:14:52.320 --> 00:14:52.960] have not paid.
+[00:14:53.140 --> 00:14:54.980] So it's affecting M&A deal prices.
+[00:14:56.320 --> 00:14:58.900] And some states are saying you're personally liable for it.
+[00:14:59.020 --> 00:15:03.760] If you collected it and didn't remit it, you as the CEO owe the money out of your own
+[00:15:03.760 --> 00:15:06.460] bank account personally, not the company.
+[00:15:06.800 --> 00:15:06.960] Wow.
+[00:15:07.260 --> 00:15:11.100] And so it's really affecting, like I know founders who are in trouble here as a result
+[00:15:11.100 --> 00:15:14.480] of collecting and not remitting in every state, which they shouldn't have done.
+[00:15:14.640 --> 00:15:16.800] But now they're like, we might be personally liable for this.
+[00:15:17.020 --> 00:15:17.180] Right.
+[00:15:17.300 --> 00:15:18.780] And we never thought of it as our money.
+[00:15:18.920 --> 00:15:19.880] It was sort of business money, right?
+[00:15:19.880 --> 00:15:20.100] Right.
+[00:15:20.100 --> 00:15:21.140] It was like a cashflow helper.
+[00:15:21.260 --> 00:15:21.700] Yeah, exactly.
+[00:15:21.840 --> 00:15:25.420] And they shouldn't have done that, no question, but they're personally liable for it.
+[00:15:25.480 --> 00:15:26.780] And that's a huge thing now.
+[00:15:27.220 --> 00:15:27.480] Wow.
+[00:15:28.160 --> 00:15:28.840] That's gnarly.
+[00:15:29.000 --> 00:15:29.180] Yeah.
+[00:15:29.460 --> 00:15:32.300] And so I think that we need something to happen with state sales tax.
+[00:15:32.300 --> 00:15:35.520] Nothing has, it's a huge black hole and causing a bunch of people a lot of heartburn and a
+[00:15:35.520 --> 00:15:37.160] lot of violations that shouldn't exist.
+[00:15:37.360 --> 00:15:39.660] I wonder why Avalara charges so much.
+[00:15:39.740 --> 00:15:42.240] Is it just because they can, because they're the only option?
+[00:15:42.560 --> 00:15:44.700] There's another business called TaxJar that does it.
+[00:15:44.780 --> 00:15:46.380] And TaxJar was acquired by Stripe.
+[00:15:46.580 --> 00:15:46.860] Okay.
+[00:15:46.860 --> 00:15:50.220] And you know, I know that Stripe and TaxJar, Stripe is creating their own and they bought
+[00:15:50.220 --> 00:15:52.120] TaxJar and they're ultimately going to merge these two things.
+[00:15:52.240 --> 00:15:52.480] Got it.
+[00:15:52.680 --> 00:15:55.440] I would bet on Stripe to fix this problem for small businesses.
+[00:15:55.720 --> 00:15:56.420] Yeah, me too.
+[00:15:56.740 --> 00:16:00.200] And in particular, you're just like, look, if everything's running through Stripe, it's pretty
+[00:16:00.200 --> 00:16:00.780] great anyway.
+[00:16:00.780 --> 00:16:03.640] Anyway, Avalara is a publicly traded company though.
+[00:16:04.260 --> 00:16:04.660] Yeah.
+[00:16:04.660 --> 00:16:06.380] I don't know what their stock looks like right now.
+[00:16:06.940 --> 00:16:10.360] Not hit as bad as I thought, 50% down in the last year.
+[00:16:10.620 --> 00:16:10.860] Okay.
+[00:16:10.880 --> 00:16:11.480] That's not very good.
+[00:16:12.120 --> 00:16:14.220] So Avalara going down 50%.
+[00:16:15.160 --> 00:16:19.700] And you know, some other metrics I like to look at are like subway traffic or airport
+[00:16:19.700 --> 00:16:20.060] traffic.
+[00:16:20.260 --> 00:16:23.260] What are other metrics you look at to be like, all right, where's the world going in three
+[00:16:23.260 --> 00:16:23.580] months?
+[00:16:24.140 --> 00:16:27.140] Like if you could create one report every month that comes to you.
+[00:16:27.300 --> 00:16:27.480] Yeah.
+[00:16:27.840 --> 00:16:28.900] What would you put in there?
+[00:16:29.060 --> 00:16:30.800] Avalara stock price, I think is a great indicator.
+[00:16:30.980 --> 00:16:33.060] I think Amazon stock price is probably a good indicator too.
+[00:16:33.140 --> 00:16:33.280] Yeah.
+[00:16:33.380 --> 00:16:34.240] I think both of those are probably true.
+[00:16:34.240 --> 00:16:35.960] Airport traffic, subway traffic.
+[00:16:36.300 --> 00:16:36.460] Yeah.
+[00:16:37.160 --> 00:16:38.240] Cost of billboards maybe.
+[00:16:38.800 --> 00:16:39.940] Also things like housing.
+[00:16:40.120 --> 00:16:40.780] Like what is rent?
+[00:16:41.020 --> 00:16:43.680] You know, we're talking about like, you know, one of the things I'd love to chat about if
+[00:16:43.680 --> 00:16:44.920] we've got time is like inflation.
+[00:16:45.420 --> 00:16:49.520] You know, inflation print in June was 9.1%, which is crazy.
+[00:16:49.660 --> 00:16:51.860] But a lot of that was due to really high gasoline prices.
+[00:16:52.400 --> 00:16:53.420] You know, house prices.
+[00:16:53.580 --> 00:16:53.940] I'm in it.
+[00:16:54.140 --> 00:16:58.360] I own something like 200 single family owns that I rent out.
+[00:16:58.700 --> 00:17:03.420] And he goes, the rents in these, like I bought this fourplex about a year and a half ago.
+[00:17:03.720 --> 00:17:06.880] And I thought, okay, the rent is going to be $1,200 per unit.
+[00:17:07.220 --> 00:17:08.740] And so I can afford to buy this.
+[00:17:08.880 --> 00:17:13.120] I paid $600,000 for four units that were brand new, brand new construction.
+[00:17:13.620 --> 00:17:15.920] And I was like, I'm going to rent them out for $1,200 each.
+[00:17:16.020 --> 00:17:17.700] I get $4,800 a month.
+[00:17:17.820 --> 00:17:20.820] You know, I've got a little bit of cost in terms of property tax, which I got to maintain.
+[00:17:21.000 --> 00:17:22.980] There shouldn't be much repairs because it's a brand new building.
+[00:17:23.580 --> 00:17:24.580] I rented them out.
+[00:17:24.760 --> 00:17:25.680] I made the offer.
+[00:17:25.860 --> 00:17:26.720] We signed the contract.
+[00:17:26.720 --> 00:17:28.320] I closed the deal.
+[00:17:28.600 --> 00:17:30.720] And it took about 45 days for all that to happen.
+[00:17:31.040 --> 00:17:31.980] To buy the house.
+[00:17:32.200 --> 00:17:32.660] To buy the place.
+[00:17:32.780 --> 00:17:32.820] Yeah.
+[00:17:32.900 --> 00:17:36.840] Between me looking at it, thinking, okay, $1,200, making an offer, them accepting it,
+[00:17:37.140 --> 00:17:40.180] drafting the contract, signing it, and me wiring the funds.
+[00:17:40.180 --> 00:17:42.000] It was about a 45-day process.
+[00:17:42.080 --> 00:17:42.240] Okay.
+[00:17:42.440 --> 00:17:45.360] Between me looking at it and me getting the actual title and owning it.
+[00:17:45.660 --> 00:17:49.120] And between that amount of time, rents went from $1,200 to like $1,550.
+[00:17:49.380 --> 00:17:49.620] Wow.
+[00:17:49.820 --> 00:17:51.900] And now those units are up for renewal.
+[00:17:52.120 --> 00:17:53.720] And I'm getting $1,700, $1,800.
+[00:17:54.320 --> 00:17:54.520] Wow.
+[00:17:54.520 --> 00:17:57.020] And, you know, that's an insane amount of increase.
+[00:17:57.300 --> 00:17:59.500] It was $1,200 18 months ago.
+[00:18:00.000 --> 00:18:00.760] Now it's $1,800.
+[00:18:01.260 --> 00:18:01.360] Right.
+[00:18:01.540 --> 00:18:02.540] People can't afford that.
+[00:18:02.720 --> 00:18:05.620] And rents need to come down to a more realistic level.
+[00:18:05.960 --> 00:18:09.920] And I think I'd really be paying attention to rents right now because I think they're primarily
+[00:18:09.920 --> 00:18:10.760] fueling inflation.
+[00:18:11.180 --> 00:18:13.280] And it's hard to get those things to come down right now.
+[00:18:13.720 --> 00:18:14.020] Interesting.
+[00:18:14.480 --> 00:18:17.460] That was a selfish ask because I'm having somebody on my team put this together.
+[00:18:17.660 --> 00:18:17.780] Okay.
+[00:18:17.840 --> 00:18:17.940] Yeah.
+[00:18:18.060 --> 00:18:18.540] Rents would be-
+[00:18:18.540 --> 00:18:19.280] So we're going to add rent to that.
+[00:18:19.280 --> 00:18:19.460] Yeah.
+[00:18:19.600 --> 00:18:21.400] CPI, inflation prints, that would be on there.
+[00:18:21.480 --> 00:18:23.480] And probably also what has the S&P 500 been doing?
+[00:18:23.620 --> 00:18:23.700] Right.
+[00:18:23.760 --> 00:18:24.840] And what's the PE ratio look like?
+[00:18:24.900 --> 00:18:25.040] Yeah.
+[00:18:25.400 --> 00:18:25.680] Solid.
+[00:18:26.600 --> 00:18:27.020] All right.
+[00:18:27.040 --> 00:18:28.080] Let's get into buy with Prime.
+[00:18:28.240 --> 00:18:28.360] Okay.
+[00:18:28.360 --> 00:18:30.120] So we talked about this on the last episode.
+[00:18:30.280 --> 00:18:30.420] Yeah.
+[00:18:30.800 --> 00:18:32.440] I was supposed to go ask somebody at Shopify.
+[00:18:32.440 --> 00:18:33.760] You actually got the pricing.
+[00:18:33.960 --> 00:18:35.000] I got the pricing.
+[00:18:35.180 --> 00:18:35.780] How'd you get it?
+[00:18:35.860 --> 00:18:40.180] I got it because one of the businesses that I'm an investor in is thinking about doing
+[00:18:40.180 --> 00:18:40.880] buy with Prime.
+[00:18:41.000 --> 00:18:41.360] Okay, cool.
+[00:18:41.360 --> 00:18:44.220] And they're like, you know, we had a conversation about this.
+[00:18:44.320 --> 00:18:46.760] And the guy who's running this business, I love him so much.
+[00:18:46.860 --> 00:18:48.680] He's like so thoughtful about this.
+[00:18:48.820 --> 00:18:50.980] But let's talk about the pricing for a second first.
+[00:18:51.160 --> 00:18:51.280] Yep.
+[00:18:51.760 --> 00:18:55.580] So the buy with Prime is basically there's a button on your product page.
+[00:18:55.700 --> 00:19:00.340] And that button means, you know, someone clicks it and checks out through Amazon and
+[00:19:00.340 --> 00:19:02.340] your order is fulfilled through Amazon.
+[00:19:02.760 --> 00:19:08.680] So fulfillment is starting at $4.75 per unit fulfilled and $0.83 per cubic foot stored.
+[00:19:09.320 --> 00:19:13.540] The Prime service, so actually the Amazon fees around this, not the fulfillment services,
+[00:19:13.860 --> 00:19:15.720] are 3% of the order value.
+[00:19:16.000 --> 00:19:16.320] Wow.
+[00:19:16.380 --> 00:19:17.560] $1.50 minimum.
+[00:19:18.100 --> 00:19:22.560] So, you know, if you're selling a $10 item, this is eating up 15% of your cost.
+[00:19:22.780 --> 00:19:23.580] So it's a little bit tough.
+[00:19:24.140 --> 00:19:26.720] If you're selling a $30 item, okay, no problem.
+[00:19:27.280 --> 00:19:31.220] And then Amazon charges a 2.4% plus $0.30 transaction fee.
+[00:19:31.440 --> 00:19:36.100] And I think that 2.4%, I think that he mentioned that it's going up to 2.9%.
+[00:19:36.100 --> 00:19:36.860] Yeah, that makes sense.
+[00:19:36.860 --> 00:19:44.620] I mean, I was even looking at the pricing differences between like Square, Clover, and Stripe.
+[00:19:44.760 --> 00:19:44.920] Yeah.
+[00:19:45.280 --> 00:19:48.760] The lowest you can get is 2.3, but you have to pay some hefty fee.
+[00:19:48.980 --> 00:19:50.460] The average is 2.6.
+[00:19:50.720 --> 00:19:52.100] For like a credit card transaction?
+[00:19:52.180 --> 00:19:53.060] Yeah, in person.
+[00:19:53.220 --> 00:19:53.580] In person.
+[00:19:53.580 --> 00:19:54.500] So not in person.
+[00:19:54.680 --> 00:19:58.920] I think 2.9 is probably the average you'd get unless you're like, you know, that business
+[00:19:58.920 --> 00:20:00.560] you mentioned that's getting 2.4.
+[00:20:00.940 --> 00:20:03.420] 2.9 is the starting rate Stripe charges you.
+[00:20:03.520 --> 00:20:03.580] Right.
+[00:20:03.580 --> 00:20:06.000] If you just sign up for a Stripe rate, it's 2.9%.
+[00:20:06.000 --> 00:20:06.220] Right.
+[00:20:06.280 --> 00:20:10.160] If you get to like a million dollars in scale, they'll generally knock you down to 2.75.
+[00:20:10.880 --> 00:20:15.500] I think a native, I was at 2.2 plus 25 cents when I left.
+[00:20:15.740 --> 00:20:15.800] Wow.
+[00:20:15.800 --> 00:20:16.880] So you can really negotiate.
+[00:20:17.020 --> 00:20:20.220] And I, you know, that's a great thing to negotiate because all of the time-
+[00:20:20.220 --> 00:20:24.040] Yeah, actually one thing, one thing I learned from you is like every milestone you go and
+[00:20:24.040 --> 00:20:24.480] negotiate.
+[00:20:24.720 --> 00:20:24.840] Yeah, that's right.
+[00:20:24.840 --> 00:20:25.820] Even if they're like, fuck you.
+[00:20:25.940 --> 00:20:26.060] Yeah.
+[00:20:26.120 --> 00:20:27.040] You just still go for it.
+[00:20:27.040 --> 00:20:27.560] Yeah, that's right.
+[00:20:27.640 --> 00:20:27.760] Yeah.
+[00:20:27.960 --> 00:20:28.080] Yeah.
+[00:20:28.080 --> 00:20:28.560] You have to.
+[00:20:28.660 --> 00:20:30.980] And like, you keep following up and be like, what the fuck, man?
+[00:20:31.100 --> 00:20:31.260] Yeah.
+[00:20:31.480 --> 00:20:34.860] Hey, I just need a nut miles to celebrate with me with lower prices.
+[00:20:35.080 --> 00:20:35.240] Yeah.
+[00:20:35.440 --> 00:20:40.260] We, uh, with hooks that we launched, we launched hooks like a couple months ago and the first
+[00:20:40.260 --> 00:20:43.540] hundred thousand, I was like, hello, can we get a reduction?
+[00:20:43.900 --> 00:20:44.600] No response.
+[00:20:45.040 --> 00:20:45.860] It's 200,000.
+[00:20:46.060 --> 00:20:46.200] Hello.
+[00:20:46.520 --> 00:20:46.680] Yeah.
+[00:20:46.680 --> 00:20:48.560] I'm just going to keep doing it until they do it.
+[00:20:48.820 --> 00:20:48.900] Yeah.
+[00:20:49.000 --> 00:20:49.880] And message the CEO.
+[00:20:50.080 --> 00:20:50.460] Yeah, exactly.
+[00:20:50.840 --> 00:20:52.240] Like, listen to the CEO and be like, hey, what's going on here?
+[00:20:52.320 --> 00:20:52.520] Yeah.
+[00:20:53.140 --> 00:20:55.700] Um, so a little bit more detail about, uh, buy with prime.
+[00:20:55.840 --> 00:20:59.220] You own the customer data and that you own their email address and can contact them.
+[00:20:59.820 --> 00:21:01.880] No, uh, contract required here.
+[00:21:02.400 --> 00:21:06.620] Also Amazon pays you out weekly, you know, Stripe pays you out basically daily with a three
+[00:21:06.620 --> 00:21:07.620] day or four day lag.
+[00:21:07.920 --> 00:21:09.620] Amazon, I think here is going to pay you out weekly.
+[00:21:10.100 --> 00:21:13.960] A couple of the things that are really scary here is one, you still have to collect the sales
+[00:21:13.960 --> 00:21:15.340] tax and remit the sales tax.
+[00:21:15.340 --> 00:21:17.220] So going back to our, that's on top of this.
+[00:21:17.360 --> 00:21:18.420] This is still on you.
+[00:21:18.600 --> 00:21:18.820] Yeah.
+[00:21:19.040 --> 00:21:19.900] Which is a little scary.
+[00:21:20.180 --> 00:21:23.660] The other part is that it doesn't, you can only buy one skew at a time.
+[00:21:23.880 --> 00:21:30.060] So for instance, let's say people are used to buying a bottle of water or like a coffee
+[00:21:30.060 --> 00:21:33.120] cup and a pound of coffee beans.
+[00:21:33.340 --> 00:21:33.620] Right.
+[00:21:33.800 --> 00:21:35.480] You cannot buy both of those things.
+[00:21:35.620 --> 00:21:38.240] You can't add two things to your cart and then buy with prime.
+[00:21:38.500 --> 00:21:42.740] The buy with prime badge or a button lives on your product page.
+[00:21:42.740 --> 00:21:46.340] And as a result, you can only click it from the product page and you're immediately taken
+[00:21:46.340 --> 00:21:46.840] to Amazon.
+[00:21:47.020 --> 00:21:47.220] Right.
+[00:21:47.220 --> 00:21:50.940] Which means you can only purchase one skew at a time, which means it might be hard to bundle
+[00:21:50.940 --> 00:21:51.600] products together.
+[00:21:51.860 --> 00:21:55.960] And I think a lot of our Shopify website owners or a lot of Shopify website owners are basically
+[00:21:55.960 --> 00:21:58.380] like, how do I bundle things to get my AOV up?
+[00:21:58.580 --> 00:22:00.560] Here, you're not going to be able to do that easily.
+[00:22:00.740 --> 00:22:05.000] So it's not like I can be like, okay, here's, you know, you just added a pound of coffee beans
+[00:22:05.000 --> 00:22:05.480] to your cart.
+[00:22:05.820 --> 00:22:08.260] Pop up, add two more and save a little bit.
+[00:22:08.260 --> 00:22:12.540] No, you don't get to do that here to try and get somebody to buy three and you can't assemble
+[00:22:12.540 --> 00:22:14.160] a cart and then get them to buy with prime.
+[00:22:14.540 --> 00:22:18.300] It's just one item on the product page that goes and you have to buy with prime.
+[00:22:18.500 --> 00:22:20.040] So I think it'll bring AOV down.
+[00:22:20.180 --> 00:22:21.340] And I think that's what people are scared of.
+[00:22:21.420 --> 00:22:22.460] Do you know the cost of shipping?
+[00:22:22.600 --> 00:22:25.380] Cause this screenshot doesn't have the cost of actual shipping on it.
+[00:22:25.480 --> 00:22:26.600] The cost of shipping.
+[00:22:26.840 --> 00:22:29.060] Or is that the 475 per unit fulfilled?
+[00:22:29.220 --> 00:22:30.840] Starting at 475 per unit fulfilled.
+[00:22:31.020 --> 00:22:31.580] I'm pretty sure it's that.
+[00:22:31.580 --> 00:22:33.200] Starting I'd assume is like the three to five day.
+[00:22:33.760 --> 00:22:35.480] Starting with three to five day shipping rates.
+[00:22:35.620 --> 00:22:36.220] Yeah, I guess so.
+[00:22:36.260 --> 00:22:36.420] Right.
+[00:22:36.420 --> 00:22:37.660] So I just did the math here.
+[00:22:37.900 --> 00:22:42.720] So 20, let's say your, your product's $25 and that's completely gross.
+[00:22:42.720 --> 00:22:44.160] That's before any discounts or whatever.
+[00:22:44.560 --> 00:22:47.100] So you 475 goes away.
+[00:22:47.220 --> 00:22:48.320] That's three to five day shipping.
+[00:22:48.820 --> 00:22:51.180] 3% of the order value goes away.
+[00:22:51.320 --> 00:22:51.720] Yeah.
+[00:22:51.840 --> 00:22:56.000] And then the, the Amazon pay fee goes away and then 30 cents goes away.
+[00:22:56.140 --> 00:23:01.920] So on a $25 order, you're making 18.6 with five day shipping.
+[00:23:02.280 --> 00:23:03.460] So a couple of quick things there.
+[00:23:03.840 --> 00:23:04.940] The $20 order.
+[00:23:05.200 --> 00:23:06.780] So you have a $1.50 fee.
+[00:23:07.080 --> 00:23:09.180] That's the prime service is a minimum $1.50 fee.
+[00:23:09.420 --> 00:23:11.060] So you're down to 1850 there.
+[00:23:11.160 --> 00:23:16.060] Cause like 3% of $20 is just, wait, but is it, it's 3% of the order value, right?
+[00:23:16.240 --> 00:23:16.360] Yeah.
+[00:23:16.480 --> 00:23:17.320] Which is 20 bucks here.
+[00:23:17.460 --> 00:23:18.460] Or a $1.50.
+[00:23:18.640 --> 00:23:19.420] Oh no, I put 25.
+[00:23:19.740 --> 00:23:20.340] Oh, you put 25.
+[00:23:20.480 --> 00:23:20.580] Sorry.
+[00:23:20.640 --> 00:23:20.760] Okay.
+[00:23:20.800 --> 00:23:20.980] Gotcha.
+[00:23:21.580 --> 00:23:23.460] But 3% of that is just 75 cents.
+[00:23:23.460 --> 00:23:25.260] So you're going to take a $1.50 here.
+[00:23:25.380 --> 00:23:26.400] It's a $1.50 minimum.
+[00:23:26.640 --> 00:23:26.780] Right.
+[00:23:26.980 --> 00:23:27.580] So that, okay.
+[00:23:27.580 --> 00:23:28.620] That's how you got to 1860.
+[00:23:28.720 --> 00:23:29.020] Oh, I'm sorry.
+[00:23:29.120 --> 00:23:29.240] Okay.
+[00:23:29.280 --> 00:23:29.460] Gotcha.
+[00:23:29.500 --> 00:23:30.140] You took a $1.50.
+[00:23:30.380 --> 00:23:30.520] Okay.
+[00:23:30.560 --> 00:23:32.600] The fulfillment service, it's 475.
+[00:23:32.680 --> 00:23:34.060] It's actually one or two days.
+[00:23:34.260 --> 00:23:34.820] Prime service.
+[00:23:34.960 --> 00:23:35.740] It's still prime service.
+[00:23:35.920 --> 00:23:38.460] They're just saying, get it at three to five day shipping rates.
+[00:23:38.660 --> 00:23:39.200] Got it.
+[00:23:39.280 --> 00:23:42.060] Get one day and two day delivery at three to five shipping rates.
+[00:23:42.060 --> 00:23:42.300] Got it.
+[00:23:42.560 --> 00:23:46.340] So yeah, let's say it's 475 there, $1.50 at the other place.
+[00:23:46.460 --> 00:23:49.420] So you're at five, 625 plus 2.4 plus.
+[00:23:49.520 --> 00:23:49.640] Yeah.
+[00:23:49.780 --> 00:23:51.360] So 1860 sounds pretty reasonable.
+[00:23:51.360 --> 00:23:56.660] The funny part is like, regardless of whether or not you claim the prime badge, like it
+[00:23:56.660 --> 00:23:58.660] is prime service level shipping.
+[00:23:58.880 --> 00:23:58.940] Yeah.
+[00:23:59.380 --> 00:24:00.980] The badge thing is so interesting.
+[00:24:01.180 --> 00:24:03.400] Like, you know, the whole 30 badge is another one.
+[00:24:03.900 --> 00:24:05.820] The leaping bunny badge is another one.
+[00:24:05.960 --> 00:24:07.600] These badges are massive businesses.
+[00:24:07.880 --> 00:24:08.040] Yeah.
+[00:24:08.240 --> 00:24:08.340] Yeah.
+[00:24:08.560 --> 00:24:09.020] They are.
+[00:24:09.220 --> 00:24:12.760] And they have annual renewals or percentage based on order.
+[00:24:12.980 --> 00:24:13.080] Yeah.
+[00:24:13.140 --> 00:24:13.240] Yeah.
+[00:24:13.320 --> 00:24:13.700] It's insane.
+[00:24:13.820 --> 00:24:16.500] Even the Susan G. Coleman breast cancer.
+[00:24:16.700 --> 00:24:16.800] Yeah.
+[00:24:16.920 --> 00:24:20.560] You have to pay tens of thousands of dollars to promote that.
+[00:24:20.560 --> 00:24:21.500] If you win the Allure.
+[00:24:21.500 --> 00:24:22.440] Or to donate money.
+[00:24:22.600 --> 00:24:25.920] If you win an Allure Beauty Award and then you have to pay money.
+[00:24:26.200 --> 00:24:27.660] To say, hey, I won an Allure Beauty Award.
+[00:24:27.740 --> 00:24:28.760] They're like, we're charging you here.
+[00:24:28.940 --> 00:24:29.100] Yeah.
+[00:24:29.320 --> 00:24:33.260] I recently, like, I got an email where I'm like, you've been nominated as a beauty icon
+[00:24:33.260 --> 00:24:35.500] of the year nominee or something.
+[00:24:35.740 --> 00:24:38.180] And they're like, to accept this nomination, pay $750.
+[00:24:38.840 --> 00:24:40.740] I was like, you guys are criminals.
+[00:24:41.020 --> 00:24:41.300] Yeah.
+[00:24:41.420 --> 00:24:42.660] You guys are literally like, this is a scam.
+[00:24:42.660 --> 00:24:43.880] Just making up awards at this point.
+[00:24:44.100 --> 00:24:45.220] This is a complete scam.
+[00:24:45.220 --> 00:24:45.240] Damn.
+[00:24:45.520 --> 00:24:48.480] But look, you know, the Amazon stuff, a lot of the charges are, you're going to have to
+[00:24:48.480 --> 00:24:48.940] pay anyway.
+[00:24:49.120 --> 00:24:51.880] Like that $475 fulfillment, that's cheaper than you're going to pay.
+[00:24:52.100 --> 00:24:54.980] The Amazon pay cost, 2.4% plus 30 cents.
+[00:24:55.160 --> 00:24:56.320] That's what you're going to have to pay as well.
+[00:24:56.400 --> 00:25:00.260] The prime service is different, but the customer gets the product in one to two days.
+[00:25:00.420 --> 00:25:00.580] Yeah.
+[00:25:00.580 --> 00:25:02.720] And I think Amazon handles returns on customer service.
+[00:25:02.840 --> 00:25:03.880] So it also makes it a lot easier.
+[00:25:04.080 --> 00:25:04.740] That is nice.
+[00:25:05.300 --> 00:25:06.420] The customer service is an interesting cost.
+[00:25:06.500 --> 00:25:08.120] It's basically just launching today.
+[00:25:08.460 --> 00:25:09.780] I think the benefits are huge.
+[00:25:10.260 --> 00:25:10.900] Fast service.
+[00:25:10.900 --> 00:25:13.720] You log into Amazon, so your address is saved.
+[00:25:13.960 --> 00:25:15.620] Your credit card information is saved.
+[00:25:15.740 --> 00:25:18.320] So very few issues with conversion rates.
+[00:25:18.500 --> 00:25:22.540] I think the hard part is just like, your AOV is going to take a hit, and is that okay?
+[00:25:23.160 --> 00:25:26.500] So the screenshot we have is just one slide, but the notes you have.
+[00:25:26.600 --> 00:25:30.160] So back to the AOV thing, you can only sell one unit?
+[00:25:30.840 --> 00:25:33.100] You can sell more than one unit, but one item.
+[00:25:33.240 --> 00:25:35.680] So it lives on your PDP page, right?
+[00:25:35.820 --> 00:25:38.600] So let's say you're selling this bottle of water you got here.
+[00:25:38.720 --> 00:25:38.880] Yeah.
+[00:25:38.880 --> 00:25:38.900] Yeah.
+[00:25:39.400 --> 00:25:42.820] That bottle of water is, you know, you click buy with Prime, and you're immediately taken
+[00:25:42.820 --> 00:25:43.240] to Amazon.
+[00:25:43.320 --> 00:25:43.780] Oh, I see.
+[00:25:43.920 --> 00:25:44.760] It's just single product orders.
+[00:25:44.760 --> 00:25:45.520] You can't go around and continue shopping.
+[00:25:45.720 --> 00:25:46.420] Got it, got it, got it.
+[00:25:46.440 --> 00:25:48.120] And build a cart and be like, okay, I've got this cart.
+[00:25:48.200 --> 00:25:48.900] Let me go buy with Prime.
+[00:25:48.920 --> 00:25:49.400] Now I'm going to go buy with Prime.
+[00:25:49.420 --> 00:25:49.660] No, no.
+[00:25:49.920 --> 00:25:52.280] Because Amazon might not have all those items in stock.
+[00:25:52.340 --> 00:25:53.080] Right, right, right.
+[00:25:53.080 --> 00:25:56.380] So you might be selling that bottle of water on Amazon, but you might not be selling that
+[00:25:56.380 --> 00:25:57.280] iPad on Amazon.
+[00:25:57.400 --> 00:25:57.640] Got it.
+[00:25:57.640 --> 00:25:58.680] So people can't build a cart.
+[00:25:58.800 --> 00:26:00.280] They can only do it right off the product page.
+[00:26:00.280 --> 00:26:00.840] Got it, got it.
+[00:26:00.960 --> 00:26:01.400] Makes sense.
+[00:26:02.140 --> 00:26:06.180] So anyway, you're really curious to see how this works out in the next few months.
+[00:26:06.420 --> 00:26:06.560] Yeah.
+[00:26:06.600 --> 00:26:08.180] I'm sure brands are going to adopt this.
+[00:26:08.360 --> 00:26:11.780] I wonder what the uptake rate is of those brands and then of consumers.
+[00:26:12.020 --> 00:26:13.420] And do consumers get way more comfortable?
+[00:26:13.420 --> 00:26:17.420] I think it's a genius part on Amazon's move, which is you were driving all this Facebook
+[00:26:17.420 --> 00:26:19.820] ad traffic and TikTok ad traffic to your website.
+[00:26:19.980 --> 00:26:21.700] Well, we're going to capture that too now.
+[00:26:21.780 --> 00:26:21.920] Yeah.
+[00:26:22.100 --> 00:26:23.780] So I think it's really genius on their part.
+[00:26:23.960 --> 00:26:24.240] Agreed.
+[00:26:24.800 --> 00:26:25.060] Okay.
+[00:26:25.080 --> 00:26:28.960] Let's switch gears here and talk about something that just happened this last week, which
+[00:26:28.960 --> 00:26:29.360] is Snap.
+[00:26:30.100 --> 00:26:31.560] Snap earnings came out.
+[00:26:31.820 --> 00:26:36.620] Their revenue is up 13% year over year, which is their slowest growth ever.
+[00:26:36.880 --> 00:26:39.240] And as a result, their stock fell 40%.
+[00:26:39.240 --> 00:26:44.780] And I saw all these clips on Twitter and on Reddit where Jim Cramer, you know, Snap stock
+[00:26:44.780 --> 00:26:46.220] is trading at $10 a share.
+[00:26:46.420 --> 00:26:50.480] I saw all these clips where Jim Cramer is recommending the stock at $90 a share.
+[00:26:50.760 --> 00:26:51.500] It's hilarious.
+[00:26:51.680 --> 00:26:54.700] I love watching Jim Cramer recommend things and then be so off-face.
+[00:26:54.700 --> 00:26:56.980] You just got to do everything he says to do.
+[00:26:57.000 --> 00:26:57.020] Yeah.
+[00:26:57.200 --> 00:26:57.660] Do the opposite.
+[00:26:58.180 --> 00:27:01.780] So I guess I want to ask you two questions because I think you'll have good insight into
+[00:27:01.780 --> 00:27:02.000] this.
+[00:27:02.100 --> 00:27:02.240] Yeah.
+[00:27:02.560 --> 00:27:06.800] Do you think Snap growth is slow as a result of the economy and the market slowing?
+[00:27:06.960 --> 00:27:08.700] Or is TikTok eating Snap's lunch?
+[00:27:08.700 --> 00:27:10.600] I think TikTok's eating Snap's lunch.
+[00:27:10.980 --> 00:27:15.020] You know, what's interesting is like Snap as a platform, Snap hasn't really innovated.
+[00:27:15.160 --> 00:27:19.260] Like they tried to do a huge play with content and creating their own shows.
+[00:27:19.260 --> 00:27:23.020] And I don't think that really worked because no one wants to go to their app where they
+[00:27:23.020 --> 00:27:27.100] send nudes and then watch, you know, like 12 year olds talk about pop culture.
+[00:27:27.740 --> 00:27:31.860] And TikTok is just like TikTok just innovates so much faster.
+[00:27:32.020 --> 00:27:37.180] Like, you know, almost every month when you open TikTok, there's some new UI change or
+[00:27:37.180 --> 00:27:41.840] new UX change or they add something to the platform or they, you know, they test something.
+[00:27:42.380 --> 00:27:44.040] Snap just like doesn't test anything.
+[00:27:44.260 --> 00:27:48.340] And I feel like all the people I have on Snap are like the people I don't care about looking
+[00:27:48.340 --> 00:27:49.620] at what they're doing from high school.
+[00:27:50.280 --> 00:27:54.560] And I think their ad product too hasn't been like insanely innovative.
+[00:27:55.060 --> 00:27:58.980] I mean, I remember testing Snap ads when it was in the alpha.
+[00:27:59.200 --> 00:27:59.360] Yeah.
+[00:27:59.360 --> 00:28:00.580] And I did it at Hint.
+[00:28:00.800 --> 00:28:02.400] This was like pre-Pixel.
+[00:28:02.820 --> 00:28:09.240] And I remember the first couple thousand dollars of ad spend, it was like the ad would load
+[00:28:09.240 --> 00:28:11.080] and then the web page would load behind it.
+[00:28:11.160 --> 00:28:16.860] And it completely fucked all your retargeting audiences and your analytics because everything
+[00:28:16.860 --> 00:28:19.140] was like a page view of half a second.
+[00:28:19.220 --> 00:28:19.360] Yeah.
+[00:28:19.480 --> 00:28:21.160] With a bounce rate that went through the roof.
+[00:28:21.300 --> 00:28:21.460] Yeah.
+[00:28:22.940 --> 00:28:24.780] And then we stopped using it.
+[00:28:24.920 --> 00:28:28.480] And then I don't think it was ever like a huge part of the stack.
+[00:28:28.640 --> 00:28:31.060] I do remember a friend of mine worked at Ramoa.
+[00:28:31.240 --> 00:28:32.620] He did all their digital acquisition.
+[00:28:32.880 --> 00:28:36.340] And he said that like they were targeting on Snap was great.
+[00:28:36.600 --> 00:28:41.460] But yeah, I mean, I don't know that people today are like excited to run ads on Snap.
+[00:28:41.660 --> 00:28:45.940] I think everybody's excited to run ads on TikTok and YouTube.
+[00:28:46.360 --> 00:28:50.740] And, you know, I have this tweet in front of me and it basically says TikTok will generate
+[00:28:50.740 --> 00:28:55.900] 12 billion from ads this year and it's expected to generate double that next year.
+[00:28:56.240 --> 00:28:56.400] Wow.
+[00:28:56.640 --> 00:28:57.560] Or sorry, in 2024.
+[00:28:58.060 --> 00:28:58.440] Wow.
+[00:28:58.580 --> 00:28:58.940] That's crazy.
+[00:28:59.080 --> 00:29:00.200] So that's insane growth.
+[00:29:00.780 --> 00:29:06.020] And, you know, the only other platform that is obviously not Facebook, but it looks like
+[00:29:06.020 --> 00:29:07.940] YouTube is expected to be there 2024.
+[00:29:09.000 --> 00:29:15.600] Snap and Twitter are both between around six to eight million, six to eight billion in advertising
+[00:29:15.600 --> 00:29:15.920] revenue.
+[00:29:16.100 --> 00:29:18.080] I've never found Twitter ads to work.
+[00:29:18.180 --> 00:29:19.880] I think it's the biggest waste of money in the world.
+[00:29:20.300 --> 00:29:24.780] I think you're better off writing like threads on Twitter than running a paid ad.
+[00:29:25.200 --> 00:29:26.580] But yeah, TikTok ads work.
+[00:29:26.700 --> 00:29:27.760] I think YouTube ads work.
+[00:29:27.900 --> 00:29:31.600] I just think it's like it's a platform where people want to spend time and where people are
+[00:29:31.600 --> 00:29:32.540] there to be entertained.
+[00:29:33.120 --> 00:29:34.680] Twitter, I'm like, I'm not there to be entertained.
+[00:29:34.680 --> 00:29:35.620] I'm there to learn something.
+[00:29:36.040 --> 00:29:37.860] And Snap, I'm not sure I'm there to be entertained.
+[00:29:38.020 --> 00:29:39.280] I'm more there to communicate with people.
+[00:29:39.400 --> 00:29:39.740] Exactly.
+[00:29:39.960 --> 00:29:40.060] Yeah.
+[00:29:40.180 --> 00:29:41.060] So it's definitely hard.
+[00:29:41.160 --> 00:29:44.600] It's almost like, you know, running ads on Messenger or WhatsApp would be very different
+[00:29:44.600 --> 00:29:45.220] experience.
+[00:29:45.220 --> 00:29:45.700] Yeah.
+[00:29:45.820 --> 00:29:50.160] It's the mindset of whoever's using the app is just it's not there to consume ads.
+[00:29:50.300 --> 00:29:50.480] Yeah.
+[00:29:50.480 --> 00:29:53.820] I remember Netflix was like, we're not competing with television anymore.
+[00:29:53.820 --> 00:29:55.200] We're competing with TikTok now.
+[00:29:55.400 --> 00:29:57.500] Like, it's really interesting to see how the market has evolved.
+[00:29:58.140 --> 00:30:01.680] What's crazy is that Snap has very few e-commerce advertisers.
+[00:30:02.180 --> 00:30:06.240] I remember when I was advertising, I also started advertising on Snap during the alpha or the
+[00:30:06.240 --> 00:30:06.500] beta.
+[00:30:06.720 --> 00:30:09.480] And I remember doing a call with our team and being at the, looking at the platform.
+[00:30:09.580 --> 00:30:10.480] I was like, this is garbage.
+[00:30:10.940 --> 00:30:12.880] But it's, you know, such sheep eyeballs.
+[00:30:13.020 --> 00:30:13.680] So I've got to try it.
+[00:30:13.760 --> 00:30:17.600] Like, that's the benefit of having to deal with garbage is you get lower prices.
+[00:30:18.260 --> 00:30:19.840] And for like a month, it worked.
+[00:30:20.000 --> 00:30:22.680] And I remember thinking, our business is doing really well right now.
+[00:30:22.800 --> 00:30:24.220] I'm like, and we don't have enough inventory.
+[00:30:24.440 --> 00:30:26.080] So I'm going to turn off my Snap ads.
+[00:30:26.180 --> 00:30:29.120] But in about two or three months, we'll have ramped up our inventory.
+[00:30:29.320 --> 00:30:30.640] And then I'll turn them back on.
+[00:30:30.780 --> 00:30:34.100] And so I was almost saving them as like a bullet in my arsenal.
+[00:30:34.660 --> 00:30:37.400] And then two or three months later, I tried to turn on Snap ads and they were terrible.
+[00:30:37.580 --> 00:30:39.380] And I was like, well, I lost the opportunity here.
+[00:30:39.380 --> 00:30:42.360] And it really made me realize, one, I should take advantage of those opportunities.
+[00:30:42.660 --> 00:30:45.740] And things don't, you know, things don't just stick around for a while.
+[00:30:46.340 --> 00:30:49.040] There's very few e-commerce advertisers on Snap.
+[00:30:49.340 --> 00:30:52.320] It's not like Facebook or TikTok that both have those categories.
+[00:30:52.800 --> 00:30:54.440] Twitter doesn't have that category either.
+[00:30:54.900 --> 00:30:59.120] Snap will be like, look, we got DraftKings to drop a million dollars a day for the next
+[00:30:59.120 --> 00:30:59.580] 30 days.
+[00:30:59.680 --> 00:31:03.120] We have Netflix dropping a million dollars a day to promote a new movie that's coming out.
+[00:31:03.260 --> 00:31:05.820] They don't have a lot of direct response advertisers.
+[00:31:06.080 --> 00:31:06.320] Agreed.
+[00:31:06.400 --> 00:31:07.760] And so I don't think they've figured it out.
+[00:31:07.760 --> 00:31:11.280] Like, I don't think they've spent the time or resources to be like, how do we get e-commerce
+[00:31:11.280 --> 00:31:13.240] businesses to start advertising here?
+[00:31:13.400 --> 00:31:16.960] And I'm not even sure they have like apps like mobile gaming to be like, let's spend money
+[00:31:16.960 --> 00:31:17.160] here.
+[00:31:17.320 --> 00:31:19.820] They definitely have brand advertisers like Netflix.
+[00:31:20.040 --> 00:31:23.460] I wouldn't be surprised about Rimawa because they do a bunch of like brand ads as well.
+[00:31:23.680 --> 00:31:25.360] They've not figured out direct response.
+[00:31:26.380 --> 00:31:30.500] So recently I bought a brand and we put it on Tapcart pretty quickly.
+[00:31:30.720 --> 00:31:34.460] It was almost one of the first things that we did as far as relaunching the brand.
+[00:31:34.460 --> 00:31:39.880] It's been huge for building out a push subscriber list as well as increasing our conversion rate
+[00:31:39.880 --> 00:31:43.880] among customers who already love us and use our product because it's such a consumable
+[00:31:43.880 --> 00:31:44.260] product.
+[00:31:44.980 --> 00:31:49.160] Features include the ability to put out exclusive product drops and launch products early to
+[00:31:49.160 --> 00:31:49.980] mobile app users.
+[00:31:50.360 --> 00:31:55.280] On average, Tapcart users see 10 to 30% app adoption rates from their existing customer
+[00:31:55.280 --> 00:31:55.680] base.
+[00:31:55.860 --> 00:31:59.740] And you don't need to worry about getting downloads or figuring out how to market an app because
+[00:31:59.740 --> 00:32:03.640] Tapcart has you covered and can even coach you on how to drive subscribers.
+[00:32:03.640 --> 00:32:08.240] Start today with a demo and one month free at tapcart.com.
+[00:32:10.560 --> 00:32:16.760] Another thing is back in the day, your ads would open directly in a browser, like your
+[00:32:16.760 --> 00:32:18.960] actual native browser, the best days.
+[00:32:19.220 --> 00:32:24.400] And now you have like the Snap browser, which just looks like something that like a 10 year
+[00:32:24.400 --> 00:32:27.940] old, it looks like a parental controlled like browser.
+[00:32:28.160 --> 00:32:31.140] It just, it doesn't look like something, anything sophisticated, you know?
+[00:32:31.320 --> 00:32:32.760] I know exactly what you're talking about.
+[00:32:32.760 --> 00:32:36.420] There was a switch and basically what Nick's talking about is you'd click an ad on Facebook
+[00:32:36.420 --> 00:32:40.740] and for a while it would open up Safari, your mobile Safari browser on your iPhone,
+[00:32:40.920 --> 00:32:42.440] and you'd see the ad in mobile Safari.
+[00:32:42.800 --> 00:32:45.360] And to go back to the Facebook app, you'd basically have to switch apps.
+[00:32:45.780 --> 00:32:49.400] Now what happens is you click an ad and it opens up in a Facebook browser.
+[00:32:49.640 --> 00:32:50.480] Big X at the top.
+[00:32:50.580 --> 00:32:51.720] Yeah, big X at the top.
+[00:32:51.920 --> 00:32:55.340] You can easily accidentally go back to Facebook because instead of having to switch apps,
+[00:32:55.480 --> 00:32:56.460] you just sort of go back.
+[00:32:56.600 --> 00:32:58.900] Let's go back a page and you end up going back to Facebook.
+[00:32:59.200 --> 00:33:01.440] And so that's really been a problem.
+[00:33:01.820 --> 00:33:05.600] I remember I tried to create a link where I was like, how do I get this link to open
+[00:33:05.600 --> 00:33:06.340] up Safari?
+[00:33:07.320 --> 00:33:10.300] And I talked to a couple of developers and they're like, that's not possible here.
+[00:33:10.740 --> 00:33:13.980] It really made ad performance worse, like materially worse.
+[00:33:14.100 --> 00:33:16.300] And I think that change happened in like 2016.
+[00:33:17.000 --> 00:33:19.640] And I was like, fuck, there's nothing you can do and you got to live with it.
+[00:33:19.740 --> 00:33:21.520] But it is definitely worse experience.
+[00:33:21.520 --> 00:33:28.300] One thing I'm excited to try with Long Weekend is actually run app install ads for our Long
+[00:33:28.300 --> 00:33:29.340] Weekend tap cart app.
+[00:33:29.460 --> 00:33:29.600] Yeah.
+[00:33:29.740 --> 00:33:33.460] And then try to deep link people who've installed the app directly to the app.
+[00:33:33.540 --> 00:33:35.720] I don't know if that's possible, but I'm going to try it.
+[00:33:35.980 --> 00:33:40.060] Tell us what the cost is between cost per install and a cost per conversion.
+[00:33:40.180 --> 00:33:40.200] And then acquire.
+[00:33:40.420 --> 00:33:40.580] Yeah.
+[00:33:40.880 --> 00:33:42.600] I'd be really curious to find out what that is.
+[00:33:43.160 --> 00:33:44.620] Anyway, big earnings week coming up.
+[00:33:44.720 --> 00:33:45.620] Facebook is coming up.
+[00:33:45.700 --> 00:33:46.800] Shopify is coming up.
+[00:33:47.160 --> 00:33:49.080] Like, I think Facebook's going to have a good quarter.
+[00:33:49.740 --> 00:33:51.080] Twitter didn't have a great quarter.
+[00:33:51.240 --> 00:33:52.200] Snap had a terrible quarter.
+[00:33:52.600 --> 00:33:56.800] From the brands that I've chatted with, Facebook is firing on all cylinders right now.
+[00:33:57.240 --> 00:34:00.300] I've talked with a bunch of brands that are basically like, we've doubled our business since
+[00:34:00.300 --> 00:34:03.220] July of last year when we had all these iOS issues to now.
+[00:34:03.560 --> 00:34:05.220] I'm super bullish on Facebook.
+[00:34:05.780 --> 00:34:07.560] Today's Saturday, July 23rd.
+[00:34:07.660 --> 00:34:09.140] So we're about four days in advance of it.
+[00:34:09.420 --> 00:34:13.940] I'm not sure when this episode will drop, but we'll see if we're proven correctly.
+[00:34:14.040 --> 00:34:15.080] I think Facebook will beat earnings.
+[00:34:15.340 --> 00:34:15.600] Agreed.
+[00:34:16.500 --> 00:34:16.720] All right.
+[00:34:16.780 --> 00:34:17.840] Should we get into SaaS pricing?
+[00:34:18.080 --> 00:34:18.740] Yeah, sure.
+[00:34:19.080 --> 00:34:19.320] All right.
+[00:34:19.380 --> 00:34:21.940] So Klaviyo announced a price increase.
+[00:34:22.640 --> 00:34:24.500] Slack also had a notification.
+[00:34:24.740 --> 00:34:29.140] I had a notification in my Slack, which was basically your price is going up.
+[00:34:29.160 --> 00:34:34.260] I think it's like $2 or $3 per user per month, which is a lot of money, especially for
+[00:34:34.260 --> 00:34:34.880] like a company.
+[00:34:35.080 --> 00:34:35.260] Yeah.
+[00:34:35.460 --> 00:34:41.720] Or you could pay today's price, lock it in for a year, pay it all right now, and you're
+[00:34:41.720 --> 00:34:41.920] good.
+[00:34:42.080 --> 00:34:44.320] So it was like, you could either go fuck yourself.
+[00:34:44.320 --> 00:34:45.480] You could either go fuck yourself.
+[00:34:45.600 --> 00:34:46.320] You choose.
+[00:34:47.640 --> 00:34:51.520] But it's crazy because I feel, I mean, I'm not a developer and I don't know the cost
+[00:34:51.520 --> 00:34:53.260] of hosting servers and whatnot.
+[00:34:53.300 --> 00:34:57.560] But in my mind, it's like, they're not paying anything additional.
+[00:34:57.800 --> 00:34:57.980] Yeah.
+[00:34:58.460 --> 00:35:02.060] Whether I have 10 users or I have five users or whether they charge me 10 bucks or whether
+[00:35:02.060 --> 00:35:05.300] they charge me a hundred bucks, their cost to host me is the same.
+[00:35:05.460 --> 00:35:05.620] Yeah.
+[00:35:06.080 --> 00:35:06.260] Right?
+[00:35:06.600 --> 00:35:06.860] Yeah.
+[00:35:07.500 --> 00:35:09.240] Like their server costs are so minimal.
+[00:35:09.360 --> 00:35:09.440] Yeah.
+[00:35:09.800 --> 00:35:12.760] Adding another user is a de minimis, de minimis cost for them.
+[00:35:12.900 --> 00:35:12.980] Yeah.
+[00:35:12.980 --> 00:35:14.700] We're talking about pennies a year.
+[00:35:14.980 --> 00:35:15.000] Yeah.
+[00:35:15.460 --> 00:35:15.800] Yeah.
+[00:35:15.860 --> 00:35:16.980] They just have you by the balls.
+[00:35:17.340 --> 00:35:17.580] Yeah.
+[00:35:17.760 --> 00:35:19.240] And it's like, we're not going to leave Slack.
+[00:35:19.520 --> 00:35:19.640] Yeah.
+[00:35:19.700 --> 00:35:20.680] We're not going to leave Klaviyo.
+[00:35:20.800 --> 00:35:20.920] Yeah.
+[00:35:21.060 --> 00:35:21.760] Where would we go?
+[00:35:22.020 --> 00:35:22.300] Nowhere.
+[00:35:22.560 --> 00:35:27.860] You know, there's this company out of Texas called Vista Equity Partners, which it's run
+[00:35:27.860 --> 00:35:29.540] by the richest black guy in America.
+[00:35:29.840 --> 00:35:31.720] And he wears three piece suits.
+[00:35:31.980 --> 00:35:35.960] And everybody who works there, the first thing they do is they go buy a three piece suit.
+[00:35:36.160 --> 00:35:39.540] I don't care if you're a woman, you're like, I need a three piece suit now to, because
+[00:35:39.540 --> 00:35:40.560] this guy's wearing a three piece suit.
+[00:35:40.600 --> 00:35:42.380] I heard their office dog is a three piece suit.
+[00:35:42.580 --> 00:35:43.980] Sorry, their office dog has one.
+[00:35:44.400 --> 00:35:50.860] And their business model is we come in, we buy a SaaS business, we double prices, we sell
+[00:35:50.860 --> 00:35:51.660] the business and we leave.
+[00:35:51.880 --> 00:35:52.040] Yeah.
+[00:35:52.320 --> 00:35:54.600] And you know, if we can triple prices, we triple prices.
+[00:35:54.780 --> 00:35:54.940] Yeah.
+[00:35:55.060 --> 00:35:56.760] I think it's a beautiful business idea.
+[00:35:56.940 --> 00:35:57.100] Yeah.
+[00:35:57.100 --> 00:35:59.440] It's generally worked incredibly well for them.
+[00:35:59.720 --> 00:36:01.980] There was a company that bought Stamps.com.
+[00:36:02.360 --> 00:36:03.620] I think it was Thomas Bravo.
+[00:36:03.780 --> 00:36:04.600] It's a private equity firm.
+[00:36:04.740 --> 00:36:07.460] And they bought ShipStation, like Stamps.com owns ShipStation.
+[00:36:07.840 --> 00:36:10.140] And you know, ShipStation is so underpriced.
+[00:36:10.460 --> 00:36:11.940] It's like $10 a user.
+[00:36:12.160 --> 00:36:15.740] And so if you've got 10 users and you're doing 25,000 trans, you know, you're doing
+[00:36:15.740 --> 00:36:20.360] 10,000 transactions a day, it's still like $80 a month or something like that, or $200
+[00:36:20.360 --> 00:36:21.120] a month.
+[00:36:21.280 --> 00:36:21.400] Right.
+[00:36:21.560 --> 00:36:24.340] And then as soon as they bought it, they're like, okay, we're charging you per sale that
+[00:36:24.340 --> 00:36:24.660] you have.
+[00:36:24.840 --> 00:36:26.840] If you have 200,000 transactions a month, we want.
+[00:36:26.840 --> 00:36:28.440] You know, 10 cents for each transaction.
+[00:36:28.700 --> 00:36:32.720] And they basically increased prices by 10X because they're like, you're using it more.
+[00:36:32.780 --> 00:36:33.920] We're going to charge you more for it.
+[00:36:34.020 --> 00:36:35.060] And they're doing price discrimination.
+[00:36:35.060 --> 00:36:36.740] And that's working really well for them, I think.
+[00:36:37.140 --> 00:36:37.660] I don't know.
+[00:36:37.760 --> 00:36:40.520] I think people will leave at some point is the honest answer.
+[00:36:40.680 --> 00:36:43.420] Like I had a couple like gorgeous, gorgeous prices.
+[00:36:43.760 --> 00:36:44.860] I'm an investor in gorgeous.
+[00:36:45.060 --> 00:36:45.900] Are you an investor in gorgeous?
+[00:36:45.900 --> 00:36:47.380] No, but we use it a lot.
+[00:36:47.840 --> 00:36:49.140] Gorgeous prices are insane.
+[00:36:49.400 --> 00:36:49.600] Yeah.
+[00:36:49.680 --> 00:36:52.620] And people leave gorgeous because the prices are so high.
+[00:36:52.740 --> 00:36:52.920] Right.
+[00:36:53.120 --> 00:36:54.280] Klaviyo prices are up.
+[00:36:54.760 --> 00:36:58.360] Recharge has pretty shitty service with really expensive prices.
+[00:36:58.820 --> 00:36:59.780] You never get a reply.
+[00:36:59.980 --> 00:37:00.960] You never get a reply.
+[00:37:00.960 --> 00:37:05.800] And I remember I chatted with Recharge once when like before there was retention, you know,
+[00:37:05.940 --> 00:37:06.820] Smarter and Skio.
+[00:37:07.260 --> 00:37:10.300] And I was like, hey, look at these 15 problems.
+[00:37:10.360 --> 00:37:11.380] We just switched to Shopify.
+[00:37:11.640 --> 00:37:12.640] We just switched to Recharge.
+[00:37:12.860 --> 00:37:16.360] Here are 15 hair on fire problems that I have with Recharge.
+[00:37:16.360 --> 00:37:18.000] And they're like, well, go fuck yourself.
+[00:37:18.160 --> 00:37:19.260] Maybe Recharge isn't for you.
+[00:37:19.380 --> 00:37:20.400] And I was like, go fuck yourself.
+[00:37:21.060 --> 00:37:24.000] And, you know, there was no other option because they had monopoly power.
+[00:37:24.020 --> 00:37:24.760] Yeah, they were the only ones.
+[00:37:25.060 --> 00:37:27.960] And now that they don't, I'm sure these businesses are eating their lunch.
+[00:37:28.120 --> 00:37:28.260] Yeah.
+[00:37:28.280 --> 00:37:30.640] Because everyone's been pissed off at this company for a long time.
+[00:37:30.800 --> 00:37:30.900] Yeah.
+[00:37:30.940 --> 00:37:31.760] They haven't done anything.
+[00:37:31.960 --> 00:37:33.280] They've raised a fortune from Summit.
+[00:37:33.580 --> 00:37:35.340] Summit's just like raise prices, do nothing.
+[00:37:35.660 --> 00:37:36.520] Fuck your service.
+[00:37:36.640 --> 00:37:37.320] Fuck your customers.
+[00:37:38.020 --> 00:37:40.860] And, you know, all these brands are coming in eating their lunch.
+[00:37:41.400 --> 00:37:42.540] I think that'll happen.
+[00:37:42.940 --> 00:37:44.360] These prices have got to come down.
+[00:37:44.620 --> 00:37:45.280] I think so too.
+[00:37:45.280 --> 00:37:45.300] Who?
+[00:37:45.880 --> 00:37:47.560] Klaviyo, I'm not sure what happens with Klaviyo.
+[00:37:47.640 --> 00:37:48.540] Like, do they lose customers?
+[00:37:48.660 --> 00:37:49.120] Do they not?
+[00:37:49.280 --> 00:37:50.940] I think they will lose some customers.
+[00:37:51.080 --> 00:37:53.860] And I think in particular, if you're a new brand and you're looking at pricing.
+[00:37:54.040 --> 00:37:54.160] Yeah.
+[00:37:54.300 --> 00:37:56.720] You know, if you're an old brand or you're doing $10 million a year,
+[00:37:56.800 --> 00:37:58.660] it's already hard to switch and you've got flows built out.
+[00:37:59.020 --> 00:38:01.100] If you're a new brand starting and you're like, oh, you know what?
+[00:38:02.120 --> 00:38:05.000] OmniSend offers 90% of the features that Klaviyo does.
+[00:38:05.140 --> 00:38:06.740] Maybe I'll use OmniSend to start out with.
+[00:38:06.860 --> 00:38:07.020] Yeah.
+[00:38:07.140 --> 00:38:11.180] I remember, again, when I was at Hint, this was probably like five years ago,
+[00:38:11.180 --> 00:38:21.460] I messaged the CEO of Recharge on LinkedIn and I said, for the love of God, please make it easy to make a cart direct permalink.
+[00:38:21.540 --> 00:38:21.680] Yeah.
+[00:38:21.680 --> 00:38:23.180] So I can build a landing page.
+[00:38:23.320 --> 00:38:27.060] You click one button, it drops you in the cart, variety pack with a subscription.
+[00:38:27.560 --> 00:38:31.180] He said, it'll be out by January next year, 2018.
+[00:38:31.520 --> 00:38:32.780] And they still don't have this.
+[00:38:34.200 --> 00:38:35.340] It just doesn't exist.
+[00:38:35.520 --> 00:38:36.320] What is wrong with that?
+[00:38:36.480 --> 00:38:40.740] And it's probably something they could build in a weekend if they wanted to.
+[00:38:41.000 --> 00:38:42.220] Maybe less, maybe a day.
+[00:38:42.360 --> 00:38:44.420] I honestly don't know what they're doing over there.
+[00:38:44.540 --> 00:38:45.040] I have no idea.
+[00:38:45.120 --> 00:38:45.780] Do they have one developer?
+[00:38:45.780 --> 00:38:51.420] I think they have Manscaped, Dr. Squatch, and Billy are probably three of their top five customers.
+[00:38:51.540 --> 00:38:54.160] And I think they have one developer supporting the entire ecosystem.
+[00:38:54.420 --> 00:38:54.560] Yeah.
+[00:38:54.760 --> 00:38:56.080] Go fucking do something over there.
+[00:38:56.140 --> 00:38:58.560] What do you guys, like, you know, these guys are coming for you.
+[00:38:58.800 --> 00:38:59.280] There's no innovation.
+[00:38:59.520 --> 00:39:02.740] And to be honest, if I were starting a business today, I wouldn't even look at Recharge.
+[00:39:02.920 --> 00:39:04.920] I'd look at all these upstarts because I'm like, they're hungry.
+[00:39:05.200 --> 00:39:07.460] They're hiring engineers and they're building real product.
+[00:39:07.660 --> 00:39:07.780] Yeah.
+[00:39:07.900 --> 00:39:12.440] These guys who have a bunch of money are just looking at cash flow and they're not looking at product any longer.
+[00:39:12.660 --> 00:39:12.780] Yeah.
+[00:39:13.240 --> 00:39:15.720] Even, I mean, our favorite, Yopo.
+[00:39:16.220 --> 00:39:16.440] Yeah.
+[00:39:16.740 --> 00:39:21.840] Like, Yopo is another one that I feel like hasn't really, they've innovated by acquisition, but that's it.
+[00:39:22.220 --> 00:39:24.980] I think they're learning their lesson a little bit.
+[00:39:25.080 --> 00:39:25.180] Yeah.
+[00:39:25.180 --> 00:39:28.240] Because, you know, before I thought it was just me shitting on them on Twitter.
+[00:39:28.560 --> 00:39:34.080] And I remember my favorite tweet ever that I wrote was, if you want to save money on income taxes, use Yopo.
+[00:39:34.240 --> 00:39:35.200] You'll have no income left.
+[00:39:35.420 --> 00:39:36.820] Ask your accountant for more information.
+[00:39:37.360 --> 00:39:42.140] But now they're trying to put some basic starter prices on their website.
+[00:39:42.140 --> 00:39:46.540] Like I saw, I had a conversation once with one of their executives and they're like, we're going to do this in two weeks.
+[00:39:46.740 --> 00:39:49.000] And that was a year ago and it didn't happen for like six months.
+[00:39:49.180 --> 00:39:49.320] Yeah.
+[00:39:49.420 --> 00:39:50.820] Now I do see some prices.
+[00:39:50.820 --> 00:39:55.860] It says starting at and like, you know, the starting at plans are so small that if you're doing any scale, you have to give them a call.
+[00:39:55.860 --> 00:40:00.740] And there's so much price discrimination, they lock you into contracts and they don't let you out of contracts.
+[00:40:00.780 --> 00:40:02.160] And I think everyone still hates them.
+[00:40:02.240 --> 00:40:02.980] And I kind of do too.
+[00:40:03.420 --> 00:40:07.700] You know, when I talk to people who work at Yopo now, they're like, we understand that this is a problem for people.
+[00:40:07.800 --> 00:40:07.980] Yeah.
+[00:40:08.180 --> 00:40:09.840] And before they're like, go fuck everyone.
+[00:40:10.100 --> 00:40:10.840] We're Yopo.
+[00:40:10.960 --> 00:40:11.540] We're the man.
+[00:40:11.700 --> 00:40:11.800] Right.
+[00:40:11.960 --> 00:40:12.680] Give us your money.
+[00:40:12.880 --> 00:40:13.020] Right.
+[00:40:13.020 --> 00:40:15.280] And now they're like, okay, I see people hate us.
+[00:40:15.400 --> 00:40:21.860] There was a time a few months ago when they really wanted to partner up with me and do something.
+[00:40:21.980 --> 00:40:22.120] Yeah.
+[00:40:22.560 --> 00:40:23.480] Pretty hefty offer.
+[00:40:23.760 --> 00:40:27.600] And I was like, guys, until you change your pricing, nothing's happening.
+[00:40:27.800 --> 00:40:35.600] And then I think that like Saturday or Sunday, I got an email from somebody in their marketing team and it was like to a Google sheet link.
+[00:40:35.740 --> 00:40:38.420] And it was like, this is our new pricing going live next week.
+[00:40:38.520 --> 00:40:38.760] Wow.
+[00:40:38.980 --> 00:40:40.620] And I was like, wow, okay.
+[00:40:40.620 --> 00:40:40.640] Okay.
+[00:40:41.120 --> 00:40:44.220] But then, you know, we'd already decided to jump into Okendo.
+[00:40:44.400 --> 00:40:44.600] Yeah.
+[00:40:44.880 --> 00:40:45.020] Yeah.
+[00:40:45.480 --> 00:40:47.720] Well, good for them for at least like changing their pricing.
+[00:40:48.080 --> 00:40:48.100] Yeah.
+[00:40:48.220 --> 00:40:50.800] Honestly, I feel like that's one of the things that startups do.
+[00:40:51.120 --> 00:40:54.780] It's like a byproduct of a good startup is you change the industry.
+[00:40:55.220 --> 00:40:55.460] Yeah.
+[00:40:55.460 --> 00:41:00.220] Like you force everybody to do better or innovate more or drive more value.
+[00:41:00.420 --> 00:41:00.520] Yeah.
+[00:41:00.580 --> 00:41:03.620] That's why like Avalara is not going to do anything right now because there's nobody there.
+[00:41:03.780 --> 00:41:03.940] Yeah.
+[00:41:04.120 --> 00:41:06.260] But, you know, like reviews is going through that.
+[00:41:06.800 --> 00:41:08.100] Zendesk went through that with Gorgeous.
+[00:41:08.500 --> 00:41:10.820] You know, maybe somebody's going to do that in email.
+[00:41:10.980 --> 00:41:12.780] I'd be shocked if somebody doesn't.
+[00:41:12.900 --> 00:41:15.680] Klaviyo like changed the industry and made MailChimp create like real.
+[00:41:15.880 --> 00:41:17.440] I used MailChimp in my first business.
+[00:41:17.600 --> 00:41:19.640] It was like, do you want to email everybody or nobody?
+[00:41:19.820 --> 00:41:20.640] Those are your options.
+[00:41:20.800 --> 00:41:20.900] Right.
+[00:41:20.900 --> 00:41:23.220] And, you know, there was no segmentation possible.
+[00:41:23.400 --> 00:41:26.880] And Klaviyo was like, let's show you what segmentation can do and really change that industry.
+[00:41:27.140 --> 00:41:27.260] Yeah.
+[00:41:27.720 --> 00:41:29.700] You know, Yapo pricing is still insane.
+[00:41:29.920 --> 00:41:31.500] And so I still can't endorse.
+[00:41:31.620 --> 00:41:35.500] I respect that they're thinking about it finally, but it's still outrageous.
+[00:41:36.040 --> 00:41:43.580] And I'll tell you the reason that I shit on them so much is when we were looking for a review service at Native, I think they wanted like $80,000 a year.
+[00:41:43.760 --> 00:41:48.880] And I was like, I'm going to buy you a fucking S500 Mercedes-Benz every year to run reviews?
+[00:41:49.320 --> 00:41:50.600] Are you fucking kidding me?
+[00:41:51.180 --> 00:41:54.360] You know, is the CEO going to give me a blowjob in the back of that S500 daily?
+[00:41:54.500 --> 00:41:55.460] Get the fuck out of here.
+[00:41:55.720 --> 00:41:58.980] I was so like, you know, I was never more upset at them.
+[00:41:59.080 --> 00:41:59.980] I was like, this is criminal behavior.
+[00:41:59.980 --> 00:42:00.740] What did you end up using?
+[00:42:01.000 --> 00:42:02.140] We used stamp.io.
+[00:42:02.140 --> 00:42:02.700] Okay, nice.
+[00:42:02.860 --> 00:42:04.320] Which sold their business.
+[00:42:04.640 --> 00:42:05.580] For $100,000, right?
+[00:42:05.740 --> 00:42:11.820] I think it was for $100 million or like $85 million and a $15 million earn out, something to that effect, to WeCommerce.
+[00:42:12.160 --> 00:42:13.320] We should talk about WeCommerce.
+[00:42:13.480 --> 00:42:17.080] I haven't done enough research yet, but their stock prices come down quite a bit.
+[00:42:17.340 --> 00:42:19.900] What are your thoughts on order-based pricing in general?
+[00:42:19.960 --> 00:42:23.200] I can't stand it because I know their cost doesn't increase at all.
+[00:42:23.320 --> 00:42:24.100] It's like the Slack thing.
+[00:42:24.240 --> 00:42:27.780] Their cost increases maybe a penny a year for an extra thousand orders.
+[00:42:27.980 --> 00:42:28.160] Yeah.
+[00:42:28.720 --> 00:42:31.360] I understand why people do it because it's basically like-
+[00:42:31.360 --> 00:42:32.800] If I was on that side, it makes sense.
+[00:42:33.100 --> 00:42:33.360] Price discrimination, yeah.
+[00:42:33.740 --> 00:42:34.840] It's like a printer, right?
+[00:42:34.940 --> 00:42:37.900] Like the more you need this printer, the more, you know, you'd have to buy ink.
+[00:42:38.060 --> 00:42:38.240] Right.
+[00:42:38.240 --> 00:42:39.160] And ink is where we charge you.
+[00:42:39.220 --> 00:42:40.120] We don't charge you for the printer.
+[00:42:40.420 --> 00:42:41.180] We charge you for the ink.
+[00:42:41.520 --> 00:42:43.320] And same thing with like Gillette razor blades, right?
+[00:42:43.440 --> 00:42:46.040] Like, you know, that razor blade is a fucking fortune.
+[00:42:46.040 --> 00:42:47.040] What's going on in there?
+[00:42:47.200 --> 00:42:47.380] Yeah.
+[00:42:47.500 --> 00:42:48.300] You know, what are you guys doing?
+[00:42:48.440 --> 00:42:53.200] You know, is there baby stem cells in the Gillette razor blade that it costs $8 for five blades?
+[00:42:53.380 --> 00:42:55.100] You guys have been making this for a hundred years, right?
+[00:42:55.220 --> 00:42:55.360] Yeah.
+[00:42:55.520 --> 00:42:56.780] The cost can come down or no?
+[00:42:57.160 --> 00:42:58.040] You know, you have a machine?
+[00:42:58.200 --> 00:43:00.560] Are you guys doing it by pounding steel by hand?
+[00:43:00.560 --> 00:43:02.440] You know, I don't understand what's going on here.
+[00:43:02.600 --> 00:43:04.280] So I think there's a lot of those businesses.
+[00:43:04.500 --> 00:43:05.520] I hate order-based pricing too.
+[00:43:05.920 --> 00:43:10.200] I'll tell you the one exception to it is text messaging where text messages-
+[00:43:10.200 --> 00:43:11.520] Right, because they have an actual cost.
+[00:43:11.800 --> 00:43:13.040] They have a cost to Twilio.
+[00:43:13.220 --> 00:43:13.400] Yeah.
+[00:43:13.580 --> 00:43:14.660] That cost is legitimate.
+[00:43:14.880 --> 00:43:15.120] Yeah.
+[00:43:15.220 --> 00:43:15.840] That makes sense.
+[00:43:15.980 --> 00:43:20.360] But like the prices based on order volume makes no sense.
+[00:43:20.500 --> 00:43:24.020] Also, I think if you're a reviews company, you should price based on how many reviews
+[00:43:24.020 --> 00:43:25.660] come in, not how many orders are made.
+[00:43:25.780 --> 00:43:25.960] Yeah.
+[00:43:25.960 --> 00:43:31.260] You know, because like you could get your reviews app set up and just have a terrible onboarding
+[00:43:31.260 --> 00:43:36.060] and then your arbitrage is having a bad onboarding but still charging everybody by the order.
+[00:43:36.320 --> 00:43:36.980] Couldn't agree more.
+[00:43:37.060 --> 00:43:37.200] Yeah.
+[00:43:37.240 --> 00:43:37.300] You know?
+[00:43:37.500 --> 00:43:37.600] Yeah.
+[00:43:38.160 --> 00:43:40.720] We used, at the time, Stamped offered us flat fee pricing.
+[00:43:40.880 --> 00:43:42.620] They're like, get as many reviews as you want.
+[00:43:42.720 --> 00:43:43.700] Don't get any reviews.
+[00:43:43.860 --> 00:43:44.620] We don't really care.
+[00:43:44.800 --> 00:43:44.920] Right.
+[00:43:44.920 --> 00:43:46.080] This is your price.
+[00:43:46.360 --> 00:43:48.180] And their service used to be incredible.
+[00:43:48.360 --> 00:43:49.080] Pre-acquisition.
+[00:43:49.220 --> 00:43:49.340] Right.
+[00:43:49.420 --> 00:43:50.220] Their service was in-
+[00:43:50.220 --> 00:43:51.200] You'd email this guy.
+[00:43:51.300 --> 00:43:53.700] I'm not sure who Tommy, if Tommy's a real person or not.
+[00:43:54.180 --> 00:43:58.680] I'd email him at two in the morning San Francisco time or six or like, you know, 2 p.m.
+[00:43:58.780 --> 00:44:01.400] And in both instances, he'd respond in like 30 seconds.
+[00:44:01.540 --> 00:44:05.180] And I'm like, the same person is just working 24 hours a day who's never slept.
+[00:44:05.500 --> 00:44:06.780] And it was incredible service.
+[00:44:07.020 --> 00:44:08.760] And I've heard that service has sort of fallen off of a cliff.
+[00:44:08.800 --> 00:44:10.360] That's actually, it's an interesting trick.
+[00:44:10.360 --> 00:44:12.660] I know Rumble Boxing.
+[00:44:12.800 --> 00:44:15.100] They also have like an alias like that.
+[00:44:15.220 --> 00:44:17.800] I don't remember the name, but it's like Tommy at Do You Rumble.
+[00:44:17.980 --> 00:44:21.660] And it's like, anytime you email Tommy, it goes to like every computer.
+[00:44:21.920 --> 00:44:24.500] And whoever responds first is Tommy.
+[00:44:24.680 --> 00:44:24.840] Yeah.
+[00:44:25.000 --> 00:44:25.880] We did that in Native.
+[00:44:26.120 --> 00:44:28.920] Like there was a girl named Julia Colbert.
+[00:44:29.200 --> 00:44:33.560] And I'll tell you what happened is when I was starting this thing, she, like, I went
+[00:44:33.560 --> 00:44:35.420] to a high school with a girl named Julia Colbert.
+[00:44:35.580 --> 00:44:40.200] And she had posted on Facebook when I was like creating my Help Scout account or our, you
+[00:44:40.200 --> 00:44:41.960] know, customer service platform.
+[00:44:42.240 --> 00:44:45.380] And so I was like, okay, I need a girl's name because we're selling primarily to women.
+[00:44:45.500 --> 00:44:47.500] I want them to feel comfortable chatting with us.
+[00:44:47.640 --> 00:44:50.120] So I just took her name and put it on our Help Scout account.
+[00:44:50.300 --> 00:44:51.280] And she's gotten married.
+[00:44:51.440 --> 00:44:52.300] And so that's a different last name.
+[00:44:52.360 --> 00:44:52.960] And I don't know what it is.
+[00:44:53.060 --> 00:44:56.380] But so there are, you know, 30 customer service agents at Native.
+[00:44:56.520 --> 00:44:57.680] They were all Julia Colbert.
+[00:44:57.860 --> 00:44:59.900] And we were like, how many tickets are in Julia today?
+[00:45:00.120 --> 00:45:00.280] Yeah.
+[00:45:00.420 --> 00:45:02.040] And people would be like, so is this a real person?
+[00:45:02.220 --> 00:45:05.840] And at one point I was like, let me like ask her, I'll fly her in.
+[00:45:05.940 --> 00:45:07.820] And I want her to meet the customer service team.
+[00:45:07.820 --> 00:45:11.240] And she'd be like, why are these people called my name?
+[00:45:11.420 --> 00:45:13.100] This makes absolutely no sense.
+[00:45:13.240 --> 00:45:15.520] Like, you know, I haven't chatted with her in 20 years.
+[00:45:15.720 --> 00:45:18.620] But you know, that one moment she'd posted something on Facebook.
+[00:45:18.860 --> 00:45:22.420] And from that moment, Julia Colbert has run all the customer service.
+[00:45:22.440 --> 00:45:22.860] That's awesome.
+[00:45:22.960 --> 00:45:23.580] I think it's smart.
+[00:45:23.700 --> 00:45:26.860] I mean, for a long weekend, our customer service girl's name is Maria.
+[00:45:27.240 --> 00:45:29.580] And everything we send out is from Maria.
+[00:45:30.020 --> 00:45:32.160] Yeah, I think it's a great thing to do.
+[00:45:32.400 --> 00:45:34.380] No one wants a company to email them.
+[00:45:34.920 --> 00:45:35.140] Yeah.
+[00:45:35.280 --> 00:45:36.020] You want a person.
+[00:45:36.020 --> 00:45:39.560] Yeah, they want a person and like they want someone who they feel like they have a connection with.
+[00:45:39.660 --> 00:45:41.380] And they can be like, hey, here's a problem I'm having.
+[00:45:41.540 --> 00:45:41.680] Right.
+[00:45:41.880 --> 00:45:51.940] And, you know, one of the reasons we chose Help Scout instead of Zendesk, because if you get a customer service email from Zendesk and somebody responds, the response is like right above this email.
+[00:45:52.060 --> 00:45:55.220] Like, you know, please, you know, add all text above this line or something.
+[00:45:55.600 --> 00:45:57.460] And I was like, this is so impersonal.
+[00:45:57.580 --> 00:46:04.720] I basically want our customer service to look like some person is sitting in their living room using their underwear, responding to via Gmail.
+[00:46:04.900 --> 00:46:05.020] Yeah.
+[00:46:05.100 --> 00:46:09.660] Because I want you to feel like there's a personal connection between you and the CS agent that we've got doing this.
+[00:46:09.940 --> 00:46:12.620] And that's why we use Help Scout because it looked like it was coming from Gmail.
+[00:46:12.880 --> 00:46:13.340] That's awesome.
+[00:46:13.340 --> 00:46:14.160] All right.
+[00:46:14.240 --> 00:46:16.860] If you had three businesses to start.
+[00:46:17.160 --> 00:46:17.300] Yeah.
+[00:46:17.560 --> 00:46:18.720] Here's business number one.
+[00:46:18.880 --> 00:46:23.540] High AOV, low consumption, maybe once a quarter, 50 percent margin.
+[00:46:24.080 --> 00:46:25.620] Low consumption means low repeat purchase.
+[00:46:25.820 --> 00:46:26.360] Low repeat purchase.
+[00:46:26.580 --> 00:46:26.700] Yeah.
+[00:46:27.220 --> 00:46:28.660] And it's not a subscription, though.
+[00:46:29.160 --> 00:46:33.480] Second business is low AOV, high consumption, 80 percent margin.
+[00:46:33.920 --> 00:46:35.140] It's bought once, though.
+[00:46:35.300 --> 00:46:36.700] So I guess it wouldn't be high consumption.
+[00:46:36.860 --> 00:46:38.520] It'd be low AOV, 80 percent margin.
+[00:46:38.740 --> 00:46:39.620] You buy it once.
+[00:46:39.760 --> 00:46:40.960] Let's say it's like 30 bucks.
+[00:46:41.720 --> 00:46:45.900] Third business is low AOV, subscription, 15 percent margin.
+[00:46:46.420 --> 00:46:47.500] Which one would you go for?
+[00:46:47.800 --> 00:46:49.860] I really like repeat purchase businesses.
+[00:46:50.140 --> 00:46:52.000] So I'm not sure which one that is on this list.
+[00:46:52.120 --> 00:46:52.960] I think the third one.
+[00:46:53.080 --> 00:46:53.420] Okay, gotcha.
+[00:46:53.740 --> 00:47:00.240] You know, I think the trouble with single purchase items is that there's a big market for them, possibly, and then everyone buys it.
+[00:47:00.340 --> 00:47:01.240] And that's the end of the business.
+[00:47:01.460 --> 00:47:01.560] Right.
+[00:47:01.560 --> 00:47:05.980] Because, like, you know, you have good days and bad days of Facebook ads, but at some point you max out that scale.
+[00:47:06.200 --> 00:47:08.320] Because, you know, look at Casper mattresses.
+[00:47:08.320 --> 00:47:13.580] I looked at Casper's 10K and they're like, we have sub 15 percent repeat purchase rate, which makes sense.
+[00:47:13.680 --> 00:47:15.360] Like, you know, how often are you buying a mattress?
+[00:47:15.640 --> 00:47:15.740] Right.
+[00:47:15.780 --> 00:47:18.140] But that means basically they sell you this $700 mattress.
+[00:47:18.500 --> 00:47:20.700] They have to be profitable and they never talk to you again.
+[00:47:20.880 --> 00:47:22.280] Like, that's the end of the relationship.
+[00:47:22.280 --> 00:47:29.900] And with Native, what happened is that we just constantly kept building a larger and larger loyal customer base.
+[00:47:30.160 --> 00:47:33.480] And that fueled our growth and our revenue and our profitability.
+[00:47:33.940 --> 00:47:40.700] And I remember, like, in 2017, January 2017, we did, like, a million or a million one in revenue.
+[00:47:40.700 --> 00:47:45.500] And I was like, by the end of 2017, I want to do a million dollars in repeat customer revenue.
+[00:47:45.900 --> 00:47:47.260] And we did that in, like, May.
+[00:47:47.500 --> 00:47:53.480] And what was your average percentage of, like, repeat or subscription versus new?
+[00:47:53.940 --> 00:47:55.300] You know, it changed over time.
+[00:47:55.460 --> 00:47:56.940] Like, you know, at the beginning, you're all new.
+[00:47:57.260 --> 00:47:59.180] And then, you know, as you continue to grow.
+[00:47:59.460 --> 00:47:59.760] Yeah, yeah.
+[00:47:59.920 --> 00:48:02.080] What about when you were, like, constantly growing?
+[00:48:02.480 --> 00:48:02.740] Yeah.
+[00:48:02.840 --> 00:48:06.620] So I guess, like, 20 percent of customers were coming through as subscription customers.
+[00:48:06.840 --> 00:48:09.560] 80 percent of customers were buying as non-subscription customers.
+[00:48:09.560 --> 00:48:13.440] Most of our repeat customers came in as non-subscription customers.
+[00:48:13.460 --> 00:48:15.600] And they came back to the product over and over again.
+[00:48:15.960 --> 00:48:20.820] And then, yeah, like, the million dollars, you know, that million dollars, you don't have to acquire those customers.
+[00:48:20.960 --> 00:48:22.000] You send them emails or whatever.
+[00:48:22.280 --> 00:48:24.000] And so we were super profitable on them.
+[00:48:24.080 --> 00:48:28.820] We were probably generating $400,000 or $500,000 of net profit a month on those customers.
+[00:48:29.460 --> 00:48:31.440] And we're not even talking about new customer acquisition.
+[00:48:32.000 --> 00:48:36.200] And that $400,000 or $500,000, like, you know, if we had bad months and new customer acquisition,
+[00:48:36.440 --> 00:48:38.840] well, we were still profitable because we had this $400,000 or $500,000.
+[00:48:38.840 --> 00:48:41.100] Or we could subsidize new customer acquisition.
+[00:48:41.260 --> 00:48:47.500] We could subsidize trying new things like podcasts or direct mail because we had this $400,000 or $500,000 in our pocket.
+[00:48:48.060 --> 00:48:52.640] And so I'm a big fan of that because you don't have, like, you know, you can build a loyal customer base.
+[00:48:52.960 --> 00:48:57.400] And, you know, when things got bad for us, which happened in, like, Q4 of every, like, you know, December,
+[00:48:57.600 --> 00:48:59.160] no one's buying deodorant in December.
+[00:48:59.360 --> 00:49:01.860] You know, it's not as hot out and you're not buying it as a gift.
+[00:49:02.300 --> 00:49:05.440] And so we were, like, relying on these new customers to fuel our business
+[00:49:05.440 --> 00:49:08.420] and give us revenue and maintain our revenue growth.
+[00:49:08.840 --> 00:49:09.760] And that was really great.
+[00:49:10.040 --> 00:49:13.500] It gave us a stable floor to go out and try and hunt new customers down
+[00:49:13.500 --> 00:49:16.800] while still continuing to grow the business and providing a profitable base.
+[00:49:17.180 --> 00:49:21.620] If we were a business that was, like, you know, Casper mattresses and Q4 was hot for us,
+[00:49:21.700 --> 00:49:24.500] but Q2 or Q3 wasn't, I'd be like, what are we doing here?
+[00:49:24.540 --> 00:49:24.900] It's Q3.
+[00:49:25.000 --> 00:49:25.800] We're not getting any sales.
+[00:49:25.920 --> 00:49:26.080] Yeah.
+[00:49:26.080 --> 00:49:27.140] You know, no one coming back.
+[00:49:27.260 --> 00:49:28.200] There's no profitability here.
+[00:49:28.260 --> 00:49:28.820] That would have scared me.
+[00:49:28.980 --> 00:49:29.120] Right.
+[00:49:29.300 --> 00:49:29.500] Totally.
+[00:49:29.500 --> 00:49:30.400] What would you do?
+[00:49:30.620 --> 00:49:36.620] I think I would do the low AOV, high consumption, 80% margin.
+[00:49:37.300 --> 00:49:39.880] Because again, I like the repeat business as well.
+[00:49:40.020 --> 00:49:41.000] It's also just addicting.
+[00:49:41.220 --> 00:49:42.080] Like, you see the numbers.
+[00:49:42.300 --> 00:49:47.500] You see, like, our subscriptions go at 1010 a.m. every day is when the cards get swiped
+[00:49:47.500 --> 00:49:48.400] and the orders come in.
+[00:49:48.520 --> 00:49:53.160] And just seeing that long list of orders come in at 10, between 1010 and 1011.
+[00:49:53.400 --> 00:49:53.880] It's amazing.
+[00:49:54.140 --> 00:49:54.800] It's addicting.
+[00:49:54.920 --> 00:49:55.040] Yeah.
+[00:49:55.040 --> 00:49:55.520] It's like a drug.
+[00:49:55.940 --> 00:49:59.860] The other great thing about subscriptions, which we did multiple times, is we'd push
+[00:49:59.860 --> 00:50:00.200] the revenue.
+[00:50:00.280 --> 00:50:01.600] We're like, oh, we're running out of inventory.
+[00:50:01.960 --> 00:50:03.400] Push all the subscriptions five days.
+[00:50:03.420 --> 00:50:03.660] Yeah.
+[00:50:03.840 --> 00:50:04.220] Yeah, exactly.
+[00:50:04.500 --> 00:50:07.500] Because you're like, you know, I have this stable base, but I actually don't need to charge
+[00:50:07.500 --> 00:50:08.120] them right now.
+[00:50:08.200 --> 00:50:08.340] Right.
+[00:50:08.520 --> 00:50:11.840] So, you know, you get an email, but be like, okay, before that person gets an email, push
+[00:50:11.840 --> 00:50:12.680] that subscription down.
+[00:50:12.780 --> 00:50:13.860] So no one gets an email.
+[00:50:14.000 --> 00:50:15.680] We've got plenty of inventory for new customers.
+[00:50:15.960 --> 00:50:20.160] And when we get the new inventory batch in, we'll start fulfilling the subscription customers.
+[00:50:20.240 --> 00:50:24.060] Speaking of email, I think one of my favorite post-purchase emails was the one you
+[00:50:24.060 --> 00:50:24.840] wrote for Native.
+[00:50:25.160 --> 00:50:26.540] Do you remember what it was exactly?
+[00:50:26.720 --> 00:50:29.600] It was like, we're placing your deodorant on a beautiful pillow or something.
+[00:50:29.920 --> 00:50:30.020] Yeah.
+[00:50:30.160 --> 00:50:32.200] I just been to like, I've gone to London.
+[00:50:32.440 --> 00:50:38.300] And so I was like, we have like the person who polished the Queen's jewels, the crown jewels
+[00:50:38.300 --> 00:50:42.580] at the Tower of London is also polishing your deodorant and putting it on a pillowcase.
+[00:50:42.740 --> 00:50:44.780] And there's a bunch of people who did that before me.
+[00:50:44.980 --> 00:50:45.080] Right.
+[00:50:45.280 --> 00:50:48.200] Like there was somebody from e-commerce who, I don't know the brand that had it.
+[00:50:48.580 --> 00:50:52.620] The OG, I think that did this was like CD rack, which was like, we're singing baby
+[00:50:52.620 --> 00:50:54.900] hit me one more time while we're packing this thing.
+[00:50:55.000 --> 00:50:55.420] And it was great.
+[00:50:55.520 --> 00:50:56.400] And people love that.
+[00:50:56.520 --> 00:50:58.360] It's such a human connection, a great place to have fun.
+[00:50:58.480 --> 00:50:58.700] Totally.
+[00:50:58.840 --> 00:51:04.420] And it's basically the post-purchase and shipping confirmation emails were like fun like that.
+[00:51:04.580 --> 00:51:08.440] I tried to draft one for lost password as well, which is like, we know how hard it is to
+[00:51:08.440 --> 00:51:10.920] find your lost, a lost remote in your sofa.
+[00:51:11.460 --> 00:51:13.240] We're going to try and make this as easy as possible.
+[00:51:13.240 --> 00:51:14.380] So you don't need to worry about it.
+[00:51:14.540 --> 00:51:15.500] Here's the link, click it.
+[00:51:15.660 --> 00:51:17.180] But we could never get anything funny enough.
+[00:51:17.320 --> 00:51:18.800] And I never had the time to like draft it.
+[00:51:18.800 --> 00:51:19.020] Yeah.
+[00:51:19.660 --> 00:51:23.260] Email has become something that people hire agencies for a lot now.
+[00:51:23.420 --> 00:51:29.020] And I think one of the things that loses its soul is copywriting when you hire an agency.
+[00:51:29.180 --> 00:51:29.320] Yeah.
+[00:51:29.500 --> 00:51:34.520] Because most agencies come in and they come in with a playbook or a template of how to
+[00:51:34.520 --> 00:51:38.320] do this as quick as possible to make sure they're not losing money against what they're
+[00:51:38.320 --> 00:51:38.860] getting paid.
+[00:51:39.000 --> 00:51:39.100] Yeah.
+[00:51:39.540 --> 00:51:42.980] And so I think, you know, this was actually one of the things I realized this week is like,
+[00:51:43.100 --> 00:51:47.380] we have an agency we use for long weekend, but like we got to write our own emails because
+[00:51:47.380 --> 00:51:52.420] just saying, thanks for your order, your orders on the way is not exciting.
+[00:51:52.600 --> 00:51:57.000] But like saying something like, hey, it's Maria, you know, you just placed this order
+[00:51:57.000 --> 00:52:01.860] for, you know, insert amount and Bobby can't stop screaming about excitement because the
+[00:52:01.860 --> 00:52:02.520] ads are working.
+[00:52:02.620 --> 00:52:02.740] Yeah.
+[00:52:02.960 --> 00:52:05.820] You know, or like something that just gets you fired up as a customer to read.
+[00:52:06.320 --> 00:52:07.980] But yeah, I just thought it was an interesting anecdote.
+[00:52:08.000 --> 00:52:10.300] Realizes you're dealing with a personal brand and not like Nike.
+[00:52:10.520 --> 00:52:10.740] Exactly.
+[00:52:10.740 --> 00:52:11.480] And it's really great.
+[00:52:11.720 --> 00:52:11.940] Exactly.
+[00:52:11.940 --> 00:52:17.140] We actually hired this Harvard grad who used to do like, who worked at the comedy seller
+[00:52:17.140 --> 00:52:21.260] or like, you know, wrote jokes for comedians to try and draft one of our emails as well.
+[00:52:21.400 --> 00:52:22.980] I thought that was really like, that was a good way to find it.
+[00:52:22.980 --> 00:52:24.460] Comedians are perfect copywriters.
+[00:52:24.660 --> 00:52:25.320] Very underrated.
+[00:52:25.480 --> 00:52:25.960] So true.
+[00:52:26.060 --> 00:52:29.440] Like, you know, if I was running one of those double decker bus tours, I basically get a
+[00:52:29.440 --> 00:52:30.880] comedian to write the whole thing.
+[00:52:30.980 --> 00:52:31.980] I'd be so entertaining.
+[00:52:32.280 --> 00:52:32.380] Exactly.
+[00:52:32.380 --> 00:52:35.120] It's nice to be like, okay, this is the Empire State Building and I'm interested in it.
+[00:52:35.400 --> 00:52:37.440] Give me a joke about it and I'll love you.
+[00:52:37.560 --> 00:52:37.740] Yeah.
+[00:52:38.060 --> 00:52:38.120] Yeah.
+[00:52:38.660 --> 00:52:39.880] You'll tell everybody about it.
+[00:52:39.880 --> 00:52:40.140] Yeah.
+[00:52:40.360 --> 00:52:42.200] But, you know, we're talking about new businesses for a second.
+[00:52:42.400 --> 00:52:47.000] You wrote a great suggestion for a business here, which is a pixel side hustle.
+[00:52:47.500 --> 00:52:48.300] Tell us about it.
+[00:52:48.800 --> 00:52:52.880] So one thing I've learned is like, if you want to quickly make money, right?
+[00:52:53.000 --> 00:52:56.960] Let's say you're like, all right, I'm 19 years old or I'm 27 years old.
+[00:52:57.060 --> 00:52:58.740] I'm getting into this world of e-commerce.
+[00:52:59.320 --> 00:53:00.720] What's the fastest way to make money?
+[00:53:00.820 --> 00:53:02.940] You go to Google, you're not going to really find anything, right?
+[00:53:02.960 --> 00:53:05.760] You can say, you go to Google, you're like, I'm 19.
+[00:53:05.760 --> 00:53:08.100] How do I build any, how do I make money in e-commerce?
+[00:53:08.100 --> 00:53:10.960] It's going to be like, well, you Shopify, drop ship, whatever.
+[00:53:11.540 --> 00:53:15.320] I think the best way to do it is you go to people who are like, who've been in this industry
+[00:53:15.320 --> 00:53:19.760] for a while and you say, what are like 15 problems you have or what are just 10 things
+[00:53:19.760 --> 00:53:20.580] that bother you, right?
+[00:53:20.900 --> 00:53:26.460] And so I just did this exercise on myself and I thought, okay, what's something like when
+[00:53:26.460 --> 00:53:30.720] you're launching a brand, what's something that's like annoying and you cannot afford
+[00:53:30.720 --> 00:53:31.400] to fuck it up?
+[00:53:31.660 --> 00:53:33.600] And it's like pixeling your site, right?
+[00:53:33.780 --> 00:53:34.380] So good.
+[00:53:34.580 --> 00:53:39.260] So Facebook pixel, your Snap pixel, TikTok, Quora, Pinterest.
+[00:53:39.420 --> 00:53:40.720] Like there's so many pixels out there.
+[00:53:41.100 --> 00:53:42.360] Quantcast, Microsoft Clarity.
+[00:53:42.480 --> 00:53:44.640] There's just, there's things that you don't even think about, right?
+[00:53:44.720 --> 00:53:47.740] Like you think about pixeling, you're like, all right, Facebook, Google, make sure those
+[00:53:47.740 --> 00:53:52.680] are there, Google Analytics, but if you had added Microsoft Clarity, you can look at the
+[00:53:52.680 --> 00:53:54.760] heat maps and the scroll depth and user sessions.
+[00:53:54.840 --> 00:54:00.720] If you had added Quantcast Clarity or Quantcast Measure, you could see like exactly the demographic
+[00:54:00.720 --> 00:54:03.660] of your customers and how many are college educated and all that kind of stuff.
+[00:54:03.860 --> 00:54:07.300] So I think there's a business where it's a two-part business.
+[00:54:07.420 --> 00:54:10.840] So one side is you go to Moyes and you say, all right, Moyes, you're starting an e-commerce
+[00:54:10.840 --> 00:54:11.300] business.
+[00:54:11.700 --> 00:54:13.360] How much money are you going to do in your first year?
+[00:54:13.500 --> 00:54:14.620] Okay, you're going to do $500,000.
+[00:54:15.140 --> 00:54:16.420] Okay, how much money are you going to spend?
+[00:54:16.420 --> 00:54:19.940] You're going to spend $150,000 or $200,000 in ads.
+[00:54:20.380 --> 00:54:21.600] Like give me five grand.
+[00:54:21.820 --> 00:54:24.880] I'm going to go get you set up with every pixel, server-side tracking.
+[00:54:25.100 --> 00:54:29.260] I'm going to make sure that every button is pixeled so that you can have the best possible
+[00:54:29.260 --> 00:54:31.460] chance of your ad platforms knowing what to do.
+[00:54:31.820 --> 00:54:36.820] And then the second part of the business is you go to companies like Elevar and Microsoft
+[00:54:36.820 --> 00:54:40.240] and all these companies that you're going to install anyways.
+[00:54:40.420 --> 00:54:43.700] And you say, give me a cost for every brand I bring on.
+[00:54:43.820 --> 00:54:44.540] Give me $1,000.
+[00:54:44.880 --> 00:54:45.000] Yeah.
+[00:54:45.000 --> 00:54:45.360] Right?
+[00:54:45.520 --> 00:54:49.460] Like you're going to probably end up winning Moyes' business once he's making a million
+[00:54:49.460 --> 00:54:51.920] dollars to run some display retargeting.
+[00:54:51.980 --> 00:54:54.020] And he might spend $100,000 a month.
+[00:54:54.460 --> 00:54:56.080] Just give me $1,000 right now.
+[00:54:56.140 --> 00:54:59.840] And I'll make sure that he's so addicted to Quantcast, he's not going to want to get off.
+[00:55:00.120 --> 00:55:02.140] And so I think it's a great side hustle.
+[00:55:02.140 --> 00:55:06.180] I think it's something that you could do three of these a month and make $15,000.
+[00:55:06.940 --> 00:55:09.960] And it would take you like two hours per store to do.
+[00:55:10.100 --> 00:55:11.460] I couldn't agree more with you.
+[00:55:11.560 --> 00:55:16.480] And I think you could go after even big businesses because Facebook, now there's a conversion
+[00:55:16.480 --> 00:55:16.860] API.
+[00:55:16.860 --> 00:55:20.700] Not everyone has figured out a conversion API or understands how important it is and it's
+[00:55:20.700 --> 00:55:21.520] integrated it well.
+[00:55:21.960 --> 00:55:23.100] Google Analytics is great.
+[00:55:23.240 --> 00:55:25.940] Everyone starts with Google Analytics and activates the e-commerce thing.
+[00:55:26.060 --> 00:55:26.280] But you're right.
+[00:55:26.600 --> 00:55:27.460] Buttons on the site.
+[00:55:27.620 --> 00:55:29.520] No one's like, okay, I have a pop-up.
+[00:55:29.700 --> 00:55:29.840] Right.
+[00:55:29.840 --> 00:55:34.460] What is, I'm tracking the clicks of a submission rate through that pop-up.
+[00:55:34.600 --> 00:55:34.720] Yeah.
+[00:55:35.000 --> 00:55:35.860] Through Google Analytics.
+[00:55:36.040 --> 00:55:37.640] Everyone's tracking it through another platform.
+[00:55:37.840 --> 00:55:39.520] Or like my FAQ page.
+[00:55:39.680 --> 00:55:41.000] What are people opening up here?
+[00:55:41.120 --> 00:55:41.140] Right.
+[00:55:41.140 --> 00:55:41.760] I need to keep that.
+[00:55:41.760 --> 00:55:43.380] What's the question that people look at the most?
+[00:55:43.420 --> 00:55:43.860] Yeah, exactly.
+[00:55:44.060 --> 00:55:46.140] No one has pixeled their site perfectly.
+[00:55:46.560 --> 00:55:47.820] It's really hard to do.
+[00:55:48.080 --> 00:55:48.220] Yeah.
+[00:55:48.500 --> 00:55:49.820] So I think you're absolutely right.
+[00:55:49.880 --> 00:55:53.640] I think a pixel audit, you can give away a pixel audit or do a pixel audit.
+[00:55:53.640 --> 00:55:54.000] Yeah, it could be free.
+[00:55:54.220 --> 00:55:55.580] Yeah, you're missing all these things.
+[00:55:55.620 --> 00:55:56.640] I'm going to go fix all this stuff.
+[00:55:56.720 --> 00:55:57.380] Give me $5,000.
+[00:55:57.380 --> 00:56:01.260] And virtually every business that's doing a million dollars a year is like for $5,000.
+[00:56:01.400 --> 00:56:03.540] This is such good value add for $5,000.
+[00:56:03.980 --> 00:56:05.920] And something that I can't seem to figure out.
+[00:56:06.060 --> 00:56:09.080] Like, you know, you need a lot of experience pixeling a lot of sites to be like,
+[00:56:09.360 --> 00:56:11.180] these are a few of the problems on the site.
+[00:56:11.360 --> 00:56:14.820] So for instance, when I look at a bunch of Facebook ads for different businesses,
+[00:56:15.020 --> 00:56:19.260] for some reason, I still see initiate checkout as more expensive than purchase.
+[00:56:19.480 --> 00:56:20.520] And I'm like, this is impossible.
+[00:56:20.700 --> 00:56:20.820] Yeah.
+[00:56:20.980 --> 00:56:23.480] Because everyone who purchases has to have initiated checkout.
+[00:56:23.480 --> 00:56:23.640] Checkout.
+[00:56:24.200 --> 00:56:27.580] And the CPA is cheaper than the CPI of initiating checkout.
+[00:56:27.980 --> 00:56:29.960] And so, you know, the pixel is wrong.
+[00:56:30.080 --> 00:56:31.660] The pixel on initiate checkout is firing wrong.
+[00:56:32.040 --> 00:56:34.060] I'd love for someone to come in and fix those pixels.
+[00:56:34.380 --> 00:56:34.400] Right.
+[00:56:34.480 --> 00:56:35.280] And nobody knows.
+[00:56:35.420 --> 00:56:37.060] You know, I just don't have the time or the bandwidth,
+[00:56:37.160 --> 00:56:38.940] and neither do these brands, to go find those people.
+[00:56:39.140 --> 00:56:41.880] And so I think this is a great, great idea.
+[00:56:42.060 --> 00:56:42.320] Yes.
+[00:56:42.480 --> 00:56:45.280] Whoever starts this should email us, and we'll put you on.
+[00:56:45.280 --> 00:56:45.740] Yeah, yeah.
+[00:56:45.940 --> 00:56:50.320] And like, you know, I'd love to, yeah, we'll endorse you right here,
+[00:56:50.480 --> 00:56:53.080] and I'd love to, I'll give you your first five clients basically.
+[00:56:53.320 --> 00:56:54.840] $25,000 sitting right here.
+[00:56:54.880 --> 00:56:55.540] Yeah, yeah, definitely.
+[00:56:55.780 --> 00:56:57.080] For like five hours of work.
+[00:56:57.080 --> 00:56:57.520] You just have to be good at this.
+[00:56:57.600 --> 00:56:57.800] Yeah.
+[00:56:57.980 --> 00:56:58.740] You just have to know it.
+[00:56:58.760 --> 00:56:59.120] You have to understand pixels.
+[00:56:59.340 --> 00:56:59.460] Yeah.
+[00:56:59.880 --> 00:57:03.800] The other thing I think is like audits of like, you know, for Klaviyo, for instance,
+[00:57:03.960 --> 00:57:06.620] I think another good business like this is, here's my open rate.
+[00:57:06.840 --> 00:57:08.160] How do I get my open rate up?
+[00:57:08.320 --> 00:57:11.940] Like, you know, tell me the 10 easiest, give me 10 things that I should do to get my open rate
+[00:57:11.940 --> 00:57:16.980] up and to increase my deliverability and put them in order of like most impact for like
+[00:57:16.980 --> 00:57:17.900] least amount of work.
+[00:57:18.020 --> 00:57:18.160] Right.
+[00:57:18.520 --> 00:57:18.840] Yeah.
+[00:57:18.940 --> 00:57:20.820] People are going to be like, you need to call your list more.
+[00:57:20.900 --> 00:57:21.020] Okay.
+[00:57:21.340 --> 00:57:22.140] Who should I call?
+[00:57:22.260 --> 00:57:25.200] Like, you know, should it be, okay, this person is a Gmail.
+[00:57:25.360 --> 00:57:28.360] You're sending this email to Gmail and they haven't opened up in 120 days.
+[00:57:28.520 --> 00:57:29.140] Don't send it to him.
+[00:57:29.420 --> 00:57:30.820] Yahoo, 180 days.
+[00:57:31.120 --> 00:57:32.140] Hotmail, 30 days.
+[00:57:32.360 --> 00:57:34.900] You know, all, give me like real detail here.
+[00:57:35.060 --> 00:57:35.180] Right.
+[00:57:35.320 --> 00:57:37.760] Tell me what list I should, like, oh, what list I should exclude.
+[00:57:37.760 --> 00:57:42.820] Um, tell me that I should switch my, you know, DNS server from Klaviyo to my own.
+[00:57:42.940 --> 00:57:44.760] Uh, like give me 10 tips here.
+[00:57:44.940 --> 00:57:45.160] Right.
+[00:57:45.360 --> 00:57:47.580] And, uh, help me increase my deliverability.
+[00:57:47.780 --> 00:57:50.740] I think that's a massive value add and nobody's doing that either.
+[00:57:50.860 --> 00:57:53.300] And like every business is super reliant on those emails.
+[00:57:53.620 --> 00:57:54.780] Building off that too.
+[00:57:54.960 --> 00:58:01.380] There is a world where, so like, uh, connecting your accounts is pretty easy now, right?
+[00:58:01.480 --> 00:58:03.980] You could use like Fivetran or, or some other company.
+[00:58:03.980 --> 00:58:08.200] And I think there's a world where like, if I'm a direct to consumer brand, I come in,
+[00:58:08.380 --> 00:58:13.400] I connect Facebook, I connect organic social, I connect email, PostScript and Shopify.
+[00:58:13.900 --> 00:58:17.740] Every month I get a report sent to me with data.
+[00:58:17.900 --> 00:58:21.680] That's like, you know, uh, all the standard stuff, your revenue, your conversion rate,
+[00:58:21.820 --> 00:58:25.520] how it compared month over month by week, maybe quarter over quarter.
+[00:58:25.840 --> 00:58:30.120] And then in addition, how it compares to other direct consumer businesses or other categories.
+[00:58:30.220 --> 00:58:33.460] So Veros kind of does that right now, but I think you take it a step further.
+[00:58:33.460 --> 00:58:36.220] And depending on variables.
+[00:58:36.420 --> 00:58:41.700] So let's say your conversion rate fell by 50% month over month.
+[00:58:41.900 --> 00:58:45.660] There should be almost be like automated insights that, that populate.
+[00:58:45.860 --> 00:58:51.060] And it's like, how can you populate a hundred, you know, maybe it's like a thousand tips
+[00:58:51.060 --> 00:58:52.560] based on different variables.
+[00:58:52.580 --> 00:58:55.960] And then it just automatically gives you that report every month.
+[00:58:56.120 --> 00:59:01.220] Another way to do it is, you know, there's macro trends that happen and like all businesses
+[00:59:01.220 --> 00:59:02.140] have the same issues.
+[00:59:02.380 --> 00:59:06.380] And it's like, how could you be the one guy sitting in your boxers on your couch, write
+[00:59:06.380 --> 00:59:10.680] one report and then attach it to data and send it to a thousand companies every month.
+[00:59:10.960 --> 00:59:11.860] You know who should do that?
+[00:59:12.040 --> 00:59:13.200] Shopify should do the last one.
+[00:59:13.360 --> 00:59:13.640] They should.
+[00:59:13.760 --> 00:59:14.680] Because they're seeing all this information.
+[00:59:14.800 --> 00:59:16.360] They should be like conversion rates are up or down.
+[00:59:16.500 --> 00:59:17.100] This is what we're seeing.
+[00:59:17.300 --> 00:59:17.420] Yeah.
+[00:59:17.500 --> 00:59:20.420] I don't know why they're not taking advantage of that and providing, you know, arming
+[00:59:20.420 --> 00:59:21.080] their merchants.
+[00:59:21.480 --> 00:59:22.800] Like, you know, arming their rebels.
+[00:59:22.980 --> 00:59:26.240] Like they constantly say they are instead of being like, hey, we're buying Deliveroo now.
+[00:59:26.500 --> 00:59:26.600] Right.
+[00:59:26.600 --> 00:59:28.120] I think you're absolutely right.
+[00:59:28.220 --> 00:59:28.820] That needs to happen.
+[00:59:29.320 --> 00:59:30.260] Either Shopify could do it.
+[00:59:30.340 --> 00:59:34.120] I mean, they'd have the best data and they'd be able to fund the right people and team to
+[00:59:34.120 --> 00:59:34.400] do it.
+[00:59:34.800 --> 00:59:39.040] But I think it could also be like some kid who's like a nerd about Shopify and e-commerce
+[00:59:39.040 --> 00:59:44.780] and just sits at home and charges every brand like 500 bucks a month to just get this report
+[00:59:44.780 --> 00:59:46.360] because everybody can get a report.
+[00:59:46.500 --> 00:59:49.500] But it's like the insights and the why is never there.
+[00:59:49.660 --> 00:59:49.820] Yeah.
+[00:59:50.040 --> 00:59:50.380] Agreed.
+[00:59:50.680 --> 00:59:55.700] You know, I wish there was like something like an emergency alarm bell as well on my
+[00:59:55.700 --> 00:59:58.860] website where like sometimes I look at my website and I'm like, okay, or like, you know,
+[00:59:58.900 --> 01:00:01.120] I'd look at native's website and I'd be like, okay, sales are down.
+[01:00:01.240 --> 01:00:02.000] What's going on here?
+[01:00:02.080 --> 01:00:02.220] Yeah.
+[01:00:02.480 --> 01:00:04.180] And so I'm like, okay, I have to look at the conversion rate.
+[01:00:04.280 --> 01:00:07.480] I have to look at, you know, is the same amount of customers that come through Stripe
+[01:00:07.480 --> 01:00:08.660] and PayPal still happening?
+[01:00:08.900 --> 01:00:09.040] Yeah.
+[01:00:09.160 --> 01:00:11.400] Is the same amount of like, you know, are all the products populating?
+[01:00:11.500 --> 01:00:12.700] Is there a problem with our checkout page?
+[01:00:12.920 --> 01:00:15.520] Like I wish there was a little bit of a, hey, something's going on.
+[01:00:15.620 --> 01:00:19.200] Your sales are down 10% from what they usually are today.
+[01:00:19.200 --> 01:00:21.780] And we think this is what the problem is.
+[01:00:22.040 --> 01:00:31.100] There's actually a company called trackstarhq.com where it is a pretty bad name, but they claim
+[01:00:31.100 --> 01:00:34.840] to basically say that, you know, you integrate everything.
+[01:00:34.840 --> 01:00:38.760] So like down to your Yopo account and if your credit card gets declined.
+[01:00:39.060 --> 01:00:39.620] I don't have a Yopo account.
+[01:00:39.620 --> 01:00:39.780] Yeah.
+[01:00:40.100 --> 01:00:43.840] If your credit card gets declined on Klaviyo and all of a sudden you're not sending an
+[01:00:43.840 --> 01:00:45.460] email, like this tells you in Slack.
+[01:00:45.640 --> 01:00:45.800] Yeah.
+[01:00:46.000 --> 01:00:46.140] Okay.
+[01:00:46.240 --> 01:00:46.940] That's so good.
+[01:00:47.040 --> 01:00:47.200] Yes.
+[01:00:47.320 --> 01:00:47.380] Yeah.
+[01:00:47.380 --> 01:00:50.900] Uh, because sometimes your Facebook ad account would get shut down cause they're like, we
+[01:00:50.900 --> 01:00:52.420] think you got hacked and you're like, I didn't.
+[01:00:52.640 --> 01:00:56.220] Or, you know, your credit card, you know, one of the issues that we got with these credit
+[01:00:56.220 --> 01:00:59.420] cards that we were talking about at the beginning of our conversation here was that you hit
+[01:00:59.420 --> 01:01:00.420] the credit limit and you forget.
+[01:01:00.600 --> 01:01:04.900] Like one of the important things is you better pay off that credit card on a daily basis.
+[01:01:05.440 --> 01:01:07.520] Otherwise you will stop, you know, forget it.
+[01:01:08.640 --> 01:01:11.720] You'll go, you'll go from, Oh, I'm making so much money through these credit card rewards
+[01:01:11.720 --> 01:01:12.780] points to Holy shit.
+[01:01:12.780 --> 01:01:16.740] The credit card rewards points just cost me three days of sales because my Facebook ads
+[01:01:16.740 --> 01:01:17.360] got shut down.
+[01:01:17.480 --> 01:01:17.620] Yeah.
+[01:01:17.840 --> 01:01:18.980] Uh, so that's really interesting.
+[01:01:19.280 --> 01:01:19.980] Yeah, I agree.
+[01:01:20.400 --> 01:01:21.500] It's a, it's got a wait list.
+[01:01:21.680 --> 01:01:21.820] Okay.
+[01:01:22.340 --> 01:01:22.540] Okay.
+[01:01:22.580 --> 01:01:25.900] We've got to wrap up here, but I think one of the things that we want to do, uh, before
+[01:01:25.900 --> 01:01:30.400] we wrap up on all of these things, uh, moving forward on all of our podcasts is give out
+[01:01:30.400 --> 01:01:34.920] a shout out to brands that we really like that we have not invested in, that we have no relationship
+[01:01:34.920 --> 01:01:39.660] with or like, you know, maybe know the people or use the product, but we really just enjoy
+[01:01:39.660 --> 01:01:40.260] the products.
+[01:01:40.400 --> 01:01:40.520] Yeah.
+[01:01:40.940 --> 01:01:41.960] Uh, so why don't you go first?
+[01:01:41.960 --> 01:01:43.920] I'd love to hear what you're, what you're a big fan of right now.
+[01:01:44.080 --> 01:01:45.580] Um, I got three that I'll shout out.
+[01:01:45.760 --> 01:01:47.600] One is caged, which is the shirt I'm wearing.
+[01:01:48.160 --> 01:01:50.200] Uh, phenomenal pre-workout.
+[01:01:50.720 --> 01:01:54.120] It's just a supplements brand, but it's a, it's a great supplements brand.
+[01:01:54.600 --> 01:01:59.280] I love their hydro charge, which is their electrolyte mixer and their pre-workout.
+[01:01:59.540 --> 01:02:03.540] The second one is whoop just because I don't think I've taken this thing off in
+[01:02:03.540 --> 01:02:06.620] months. Uh, but I love the data that comes from it.
+[01:02:06.660 --> 01:02:11.600] Yeah. And, uh, you know, it's got me to, I like, I don't drink alcohol as a result of
+[01:02:11.600 --> 01:02:13.140] wearing my whoop and tracking my sleep.
+[01:02:13.260 --> 01:02:13.500] Wow.
+[01:02:13.860 --> 01:02:19.540] And so, yeah, so I love whoop. Also their blog is a phenomenal example of like what
+[01:02:19.540 --> 01:02:24.000] brands should be doing if they want to have a blog. I think most brands like waste money
+[01:02:24.000 --> 01:02:28.780] with their blog. They hire an SEO agency, uh, which is great. But then the content they put
+[01:02:28.780 --> 01:02:32.680] out is again, like going back to that email agency conversation, you can't have somebody
+[01:02:32.680 --> 01:02:37.220] else ideating your content or your strategy with any agency. The strategy has to be done
+[01:02:37.220 --> 01:02:42.460] internally. And, um, you know, when you have like seven party tricks of how to celebrate a
+[01:02:42.460 --> 01:02:44.600] wedding during COVID, like no one cares. Sure.
+[01:02:45.020 --> 01:02:51.000] Anyways, third brand I'd say is italic. I think I wear italic almost daily boxers and socks. Great
+[01:02:51.000 --> 01:02:55.780] for metallic shoes. Great for metallic workout shorts. Great for metallic. I have a gym bag from
+[01:02:55.780 --> 01:03:01.820] metallic. The quality is truly phenomenal. And I'm so unashamed to walk around with wearing
+[01:03:01.820 --> 01:03:06.460] everything italic because the quality is insanely good. I have never bought anything from there,
+[01:03:06.540 --> 01:03:11.940] but it's so, so good. Like I think if I pull up my italic dashboard, I think I've saved like four
+[01:03:11.940 --> 01:03:17.200] or $5,000 shopping through italic based on their calculations. Yeah. Yeah. Yeah. Um,
+[01:03:17.460 --> 01:03:21.380] based on Yotpo's calculations, I've saved a million dollars. Right. Right. Using Yotpo.
+[01:03:21.380 --> 01:03:27.800] Yeah. But yeah, no, I love italic and, uh, I'm not invested in there, but if I could, I probably would.
+[01:03:28.320 --> 01:03:34.120] Okay. I mentioned these two for me. I really love comteer coffee. I've been living in Airbnbs for
+[01:03:34.120 --> 01:03:38.320] about two years now and a shocking number of them don't have coffee machines. Yeah.
+[01:03:38.320 --> 01:03:42.360] We'll have like, um, you know, like the Keurig machine and I'm not a big fan of the Keurig
+[01:03:42.360 --> 01:03:47.080] machine. And so I really have loved the comteer stuff because I, all I need is how do you make it?
+[01:03:47.080 --> 01:03:52.900] Water? What I'll do is when I wake up, I take the coffee out of the freezer. I boil some water. I go
+[01:03:52.900 --> 01:03:57.480] brush my teeth. I always try and drink a bottle of like, you know, 16 ounces of water before I do
+[01:03:57.480 --> 01:04:01.920] anything. And then like, um, by the time I'm done with all those, the thing is, uh, melted.
+[01:04:01.920 --> 01:04:08.160] Loose enough. Yeah. And then I just drop it in the, uh, uh, my, um, my comteer trick is I'll wake up,
+[01:04:08.620 --> 01:04:15.020] uh, take it out, put it in like a mug, coffee mug and run hot water. So it gets all liquid.
+[01:04:15.500 --> 01:04:17.800] And then I'll just put some ice and water and mix it in.
+[01:04:17.940 --> 01:04:18.480] I thought you were going to say you shoot it.
+[01:04:18.580 --> 01:04:20.700] Oh yeah. No, I snort it.
+[01:04:20.980 --> 01:04:23.840] The other business I really love is 10,000, which makes it work out.
+[01:04:23.840 --> 01:04:24.760] I'm wearing some 10,000.
+[01:04:24.760 --> 01:04:27.320] I always wear 10,000. I love 10,000 so much.
+[01:04:27.500 --> 01:04:31.260] Yeah. Um, it's huge in New York and LA. It's not big anywhere else. Like I've never,
+[01:04:31.360 --> 01:04:35.060] you know, I never see people in like Dallas where I'm from, uh, using it.
+[01:04:35.260 --> 01:04:35.420] Yeah.
+[01:04:35.700 --> 01:04:39.660] I wish there was one idea like this, you know, you mentioned that pixel idea. Here's a business
+[01:04:39.660 --> 01:04:41.560] idea for e-commerce that I don't think will work.
+[01:04:41.960 --> 01:04:43.080] This is three, three ideas today.
+[01:04:43.080 --> 01:04:46.860] This is mine. And I think it's a bad idea, but I wish it existed, which was,
+[01:04:47.020 --> 01:04:54.140] I want to try boxers from MeUndies and, um, Italic and, uh, the big favorite and everybody
+[01:04:54.140 --> 01:04:58.700] else who makes a underwear and same thing with socks, right? Like I want Bombas and MeUndies
+[01:04:58.700 --> 01:05:03.760] and, uh, Max Weldon or whatever they like, I want to try all of those to find out the ones
+[01:05:03.760 --> 01:05:04.500] that I like the most.
+[01:05:04.640 --> 01:05:04.760] Yeah.
+[01:05:04.760 --> 01:05:08.080] So I wish there was like, you know, buy one pair from each of these companies for a hundred
+[01:05:08.080 --> 01:05:14.240] dollars. You send me 10 boxers and a $50 or a hundred dollar gift card to one of them. Um,
+[01:05:14.420 --> 01:05:18.140] so that I'm like, okay, you know what? I chose Max Weldon. Although I hate that Mac Weldon.
+[01:05:18.260 --> 01:05:22.540] I hate that terrible, terrible boxers. So send me all of them so I can try all of them,
+[01:05:22.800 --> 01:05:25.500] choose my favorite, and then use that gift card to go out and buy those, uh,
+[01:05:25.760 --> 01:05:30.800] smart. I mean, even, uh, from a customer acquisition cost standpoint, 50 bucks plus the
+[01:05:30.800 --> 01:05:32.440] cost of cogs on socks is nothing.
+[01:05:32.700 --> 01:05:35.740] Yeah, exactly. Like the sock and you know, that brand isn't even doing the sales, right?
+[01:05:35.780 --> 01:05:39.640] So it's basically the, you get, you got to give me a $50 gift card or like, you know,
+[01:05:39.700 --> 01:05:43.080] 10 pairs of socks, which will all be donated from that brand to do customer acquisition.
+[01:05:43.340 --> 01:05:47.740] Right. Um, so I think it could be a small business. It's probably like a million dollar
+[01:05:47.740 --> 01:05:51.960] a year business, but I think I wish that existed because I would use it for boxer socks. And I've
+[01:05:51.960 --> 01:05:57.340] been looking for leggings that I wear under my shorts. Um, I wear the exact same leggings every day.
+[01:05:57.440 --> 01:06:00.540] In fact, I wash these every day cause it's the only pair that I like.
+[01:06:00.800 --> 01:06:01.980] And I cannot find another one.
+[01:06:02.300 --> 01:06:02.340] Nike.
+[01:06:02.620 --> 01:06:02.800] Okay.
+[01:06:03.040 --> 01:06:06.820] And they like, these are an old Nike style though. And they don't make this one any longer.
+[01:06:07.120 --> 01:06:08.900] Have you tried 2X that brand?
+[01:06:09.180 --> 01:06:09.440] No.
+[01:06:09.820 --> 01:06:13.860] Those are pretty solid, but I agree. Like I did this with black t-shirts cause I was like,
+[01:06:13.860 --> 01:06:18.800] I want the best black t-shirt ever. And the one that I landed on was Western Rise,
+[01:06:18.980 --> 01:06:20.220] which like no one's heard of that company.
+[01:06:20.320 --> 01:06:20.520] Yeah.
+[01:06:21.040 --> 01:06:24.440] But that in my opinion is, is probably the best black t-shirt.
+[01:06:24.440 --> 01:06:28.940] And think about how many you got to try, like from cuts to built to, you know.
+[01:06:28.940 --> 01:06:31.080] Mack Weldon, Nike, Western Rise.
+[01:06:31.080 --> 01:06:31.580] Yeah. So many of them.
+[01:06:31.700 --> 01:06:32.280] Yeah. So many.
+[01:06:32.560 --> 01:06:33.520] Give me 10 and then I can pick one.
+[01:06:33.660 --> 01:06:33.720] Right.
+[01:06:33.800 --> 01:06:37.000] That fits well that I'm like, okay, I'm a medium in this or a large in this and I can
+[01:06:37.000 --> 01:06:37.540] live on my life.
+[01:06:37.660 --> 01:06:37.980] Exactly.
+[01:06:38.520 --> 01:06:39.540] Um, anyway, so those are my two.
+[01:06:39.800 --> 01:06:41.060] Comteer and 10,000.
+[01:06:41.360 --> 01:06:41.640] Cool.
+[01:06:41.960 --> 01:06:42.360] Um, okay.
+[01:06:42.380 --> 01:06:44.320] What are we talking about next to a podcast?
+[01:06:44.520 --> 01:06:46.220] I'd love to talk about Ali Webb at Canopy.
+[01:06:46.360 --> 01:06:47.500] I think that's a huge deal.
+[01:06:47.680 --> 01:06:48.060] Huge deal.
+[01:06:48.140 --> 01:06:49.100] She's their president now.
+[01:06:49.360 --> 01:06:49.580] Yeah.
+[01:06:49.740 --> 01:06:50.680] That is a massive deal.
+[01:06:50.700 --> 01:06:50.840] Founded of Drybar.
+[01:06:51.400 --> 01:06:54.260] I think we're going to be talking about Facebook and Shopify earnings.
+[01:06:54.440 --> 01:06:54.780] With the earnings.
+[01:06:54.960 --> 01:06:55.080] Yep.
+[01:06:55.080 --> 01:06:55.240] Huge.
+[01:06:56.000 --> 01:07:00.180] We didn't get to this Andrew Udarian tweet, which I think I'd really love to dive into.
+[01:07:00.540 --> 01:07:04.400] Uh, I think, you know, the crazy part is that he's like, uh, we found that number one thing
+[01:07:04.400 --> 01:07:06.220] we found was ROAS is overrated.
+[01:07:06.620 --> 01:07:10.680] I don't think that that's the case, but I think we're talking about two different parts of the
+[01:07:10.680 --> 01:07:11.520] e-commerce world.
+[01:07:11.680 --> 01:07:13.100] Uh, so I'd love to dig into that as well.
+[01:07:13.380 --> 01:07:13.620] Perfect.
+[01:07:14.160 --> 01:07:19.280] Oh, and one thing I also want to talk about is, um, this like master report, what all you
+[01:07:19.280 --> 01:07:23.120] should be looking at on a daily basis, whether you're doing a million dollars or $10
+[01:07:23.120 --> 01:07:23.920] million a year.
+[01:07:24.080 --> 01:07:24.300] Yeah.
+[01:07:24.300 --> 01:07:24.940] That sounds great.
+[01:07:25.080 --> 01:07:25.120] Yeah.
+[01:07:25.300 --> 01:07:27.360] Like triple wheel constantly is like playing around with that.
+[01:07:27.560 --> 01:07:27.620] Right.
+[01:07:27.720 --> 01:07:31.620] And, um, I, I think like, you know, there are a lot of, you know, outside of just the triple
+[01:07:31.620 --> 01:07:34.820] wheel analytics, it should be like, what does my inventory look like on a daily basis?
+[01:07:34.940 --> 01:07:36.360] How many days, you know, all of those types of things.
+[01:07:36.480 --> 01:07:36.620] Yeah.
+[01:07:36.880 --> 01:07:37.080] Awesome.
+[01:07:37.400 --> 01:07:37.680] Awesome.
+[01:07:37.840 --> 01:07:38.980] Looking forward to the next episode.
+[01:07:39.260 --> 01:07:39.640] All right.
+[01:07:39.700 --> 01:07:40.300] We'll see you soon.
+[01:07:40.900 --> 01:07:41.860] Thanks for tuning in.
+[01:07:42.060 --> 01:07:45.540] We'll be back next time to cut through the noise in CPG, retail and e-commerce.
+[01:07:46.040 --> 01:07:50.120] And if you enjoyed this episode, then why not share it with a friend and be sure
+[01:07:50.120 --> 01:07:52.800] to subscribe on whatever platform you listen to your podcasts on.

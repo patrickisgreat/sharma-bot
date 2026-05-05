@@ -1,0 +1,811 @@
+[00:00:00.000 --> 00:00:13.580] We're sitting here in a really weird time in the economy. I think post-COVID, one of the major swings back were towards discount products as opposed to things I need versus things I want. So that's one thing that I think is driving. And by the way, I think it's already swinging back.
+[00:00:13.900 --> 00:00:20.680] S1 E11 All right. We've been here for a week now and we've been in the same clothes. There's no shower in this building. We've just got a toilet and a sink.
+[00:00:20.800 --> 00:00:21.760] S1 E11 Can I leave? When can I leave?
+[00:00:21.940 --> 00:00:22.580] S1 E11 You can't leave yet.
+[00:00:22.720 --> 00:00:23.720] S1 E11 I'd like to leave at this point.
+[00:00:23.860 --> 00:00:24.860] S1 E11 You can leave in 45 minutes.
+[00:00:25.100 --> 00:00:27.400] S1 E11 Anyone listening, this is Harley. I'm being held hostage.
+[00:00:28.000 --> 00:00:29.860] S1 E11 Please come save me.
+[00:00:30.620 --> 00:00:36.480] S1 E11 This is Limited Supply, the place for refreshingly real takes on what D2C is really like.
+[00:00:36.660 --> 00:00:39.960] S1 E11 We're your hosts, Nick and Moyes. Let's start talking about money.
+[00:00:40.740 --> 00:00:51.640] S1 E11 So I love Tapcart. It's a drag and drop builder that turns your Shopify store into a native mobile app in just a few hours. The average time to launch an app live in the App Store is just about two weeks.
+[00:00:51.920 --> 00:00:59.480] S1 E11 Crazy stats. Average 43X ROI, high conversion and retention rates, 100% organic reach per push.
+[00:00:59.860 --> 00:01:05.100] S1 E11 Push notification CTR 7X higher than email. Over 92% engagement rate.
+[00:01:05.100 --> 00:01:24.140] S1 E11 So limited supply listeners get their first two months of Tapcart for free. So you'll actually be able to launch your app live and test this new owned sales and marketing channel. Head to tapcart.com slash limited. That is tapcart.com slash limited to book a demo and start building your app today. You won't regret it.
+[00:01:24.140 --> 00:01:27.680] S1 E11 All right. So we're back. Moyes, what are we going to talk through?
+[00:01:28.240 --> 00:01:34.120] S1 E11 We're going to talk about Shopify fulfillment. Massive acquisition. I imagine it's the largest that Shopify has done with Deliver.
+[00:01:34.120 --> 00:01:34.460] S1 E11 You mean Deliver.
+[00:01:34.600 --> 00:01:34.760] S1 E11 Yeah.
+[00:01:34.960 --> 00:01:44.620] S1 E11 We're going to talk about some marketing stuff and how Shopify is helping merchants with changes in iOS. We're going to put on a shareholder hat and then we're going to get to know you a little bit more.
+[00:01:44.700 --> 00:01:45.020] S1 E11 Sure. That's good.
+[00:01:45.020 --> 00:02:06.620] S1 E11 Okay. Let's start with marketing, actually, because that's the goal. Look, I'm an investor in a bunch of brands, but I don't see nearly as much as you do. And I'll tell you, all the brands that I was, not all of them, but a lot of them in 2020, they're like, holy cow, we're going to be larger than Amazon. And then 2022 hit and they're like, okay, we are not going to be larger than Amazon, it turns out.
+[00:02:07.420 --> 00:02:14.520] S1 E11 iOS 14.5 was a real body blow to a bunch of e-commerce businesses. What have you seen? How have you thought about the changes in iOS?
+[00:02:15.020 --> 00:02:28.480] S1 E11 There's a bunch of things happening all at the exact same time. And so I think it's important to actually segment each of those out because you'll get way too much noise on enough signal if you sort of bundle all those things together. First of all, we're sitting here in a really weird time in the economy.
+[00:02:28.620 --> 00:02:28.840] S1 E11 Yeah.
+[00:02:29.080 --> 00:02:43.980] S1 E11 I think post-COVID, one of the major swings back were towards discount products as opposed to things I need versus things I want. So that's one thing that I think is driving. And by the way, I think it's already swinging back. So we're sitting here September 2022. I think things are already swinging back. That's the first thing.
+[00:02:43.980 --> 00:03:01.420] The second thing is fundamentally the iOS changes made it more difficult, not necessarily to advertise, but to do specific targeted advertising. The example I always give is that I am a huge fan of Boosted Boards. I don't use the Onewheel. I know somebody like the Onewheel. I like Boosted Boards.
+[00:03:01.420 --> 00:03:13.460] So when Boosted Board at some point targeted me, they were able to figure out that I love skateboarding and I love technology. And the Venn diagram overlap, the perfect product is, in my opinion, Boosted Boards.
+[00:03:13.460 --> 00:03:24.160] So now it's more difficult. Now if Boosted Board wanted to target me, they would have to target me because maybe I shared some blog post about Boosted Boards or I shared something about skateboarding or about technology.
+[00:03:24.460 --> 00:03:35.780] So I think that is also getting more challenging. So first thing is sort of we've had this shift the last couple of months towards these sort of staple items as opposed to luxury or items that are more nice-to-haves.
+[00:03:35.780 --> 00:03:43.240] Second being the targeting is getting more challenging. And the third thing I think that is also happening is the return of physical retail.
+[00:03:43.720 --> 00:03:51.740] On the return of physical retail, I think the one – something that people are missing, and this – your crowd, your audience, I think will appreciate this more than anyone.
+[00:03:51.740 --> 00:03:58.420] There is this meme around e-commerce growth rates and, you know, the return to the mean and all this stuff.
+[00:03:58.600 --> 00:04:07.460] So let's be clear what happened. During the pandemic – so the equation, the calculation for e-commerce as a percentage of retail is very simple.
+[00:04:07.620 --> 00:04:11.040] The numerator is e-commerce. The denominator is all of retail.
+[00:04:11.520 --> 00:04:18.040] During the pandemic, two things happened. E-commerce went up and the denominator drastically went down.
+[00:04:18.140 --> 00:04:18.580] Basically zero.
+[00:04:18.580 --> 00:04:23.160] You removed all of physical retail. So it was like e-commerce over e-commerce. It looked massive.
+[00:04:23.740 --> 00:04:29.960] Well, in the last six months, you now have a more healthy denominator that includes actual physical retail.
+[00:04:30.180 --> 00:04:34.360] So from the looks of it, it looks like e-commerce has dropped meaningfully.
+[00:04:34.700 --> 00:04:43.860] But if you just actually look at e-commerce growth on its own and you forget about the rest of retail, what you actually see is that by 2025, e-commerce will eclipse $7 trillion.
+[00:04:43.860 --> 00:04:52.220] That the growth rate going forward will be a lot closer to 2019, which, by the way, was already fucking incredible.
+[00:04:52.980 --> 00:04:58.320] I'm so glad you mentioned this because you know what Walmart does in their 10K? They're like, this is what our store over store sales look like.
+[00:04:58.420 --> 00:04:58.580] That's right.
+[00:04:58.720 --> 00:05:01.740] Do you guys look at that from a GMV perspective or do you guys look at just total GMV?
+[00:05:01.800 --> 00:05:03.720] We look at total GMV. We look at total GMV.
+[00:05:03.820 --> 00:05:07.860] You don't look at store over store and being like, what are the stores in 2020?
+[00:05:08.640 --> 00:05:08.840] Oh, sorry.
+[00:05:09.180 --> 00:05:09.860] You're talking about –
+[00:05:09.860 --> 00:05:10.680] From a core basis.
+[00:05:10.680 --> 00:05:11.940] We do look at courts for sure.
+[00:05:12.020 --> 00:05:12.860] Oh, yeah. I actually saw that in 10K.
+[00:05:12.860 --> 00:05:14.720] Yeah, absolutely. In fact, that's a huge part of business.
+[00:05:14.900 --> 00:05:16.440] Like, that actually –
+[00:05:16.440 --> 00:05:16.580] Yeah.
+[00:05:16.720 --> 00:05:21.060] If you were to ask me to boil down why Shopify's business model is so strong –
+[00:05:21.060 --> 00:05:21.640] You have negative churn.
+[00:05:22.240 --> 00:05:22.560] Exactly.
+[00:05:22.700 --> 00:05:23.020] Yeah.
+[00:05:23.080 --> 00:05:32.340] It's because the cohort that started in Q1 2013, which I think Figs is a part of, is not only still bringing revenue on to Shopify.
+[00:05:32.500 --> 00:05:33.020] Are you pulling it up?
+[00:05:33.100 --> 00:05:34.560] Yeah, I actually saved the screenshot.
+[00:05:34.560 --> 00:05:34.860] Exactly. That's right.
+[00:05:34.960 --> 00:05:35.180] Yeah, yeah.
+[00:05:35.260 --> 00:05:36.980] So – but it's growing over time.
+[00:05:36.980 --> 00:05:37.880] I was getting ready for this.
+[00:05:37.880 --> 00:05:42.020] So every cohort is basically an annuity that keeps growing, and it layers and layers.
+[00:05:42.180 --> 00:05:45.800] So the Q4 cohort from 2010 is still growing.
+[00:05:46.000 --> 00:05:48.240] The Q1 cohort from 2016 is still growing.
+[00:05:48.340 --> 00:05:50.540] So we absolutely do look at that because that is –
+[00:05:50.540 --> 00:05:53.180] Can a Shopify merchant have a similar graph like this through Shopify?
+[00:05:53.580 --> 00:05:54.260] What do you mean by that?
+[00:05:54.260 --> 00:05:55.820] Like, they're looking at cohort analysis like this?
+[00:05:55.860 --> 00:05:57.240] Can they look – can they see their own cohorts?
+[00:05:57.320 --> 00:05:57.400] Yeah.
+[00:05:57.500 --> 00:05:58.720] No, I don't think so.
+[00:05:58.860 --> 00:05:58.980] Okay.
+[00:05:59.440 --> 00:06:04.920] Although I think once upon a time when we hit a million stores many years ago, I think we told everyone what number store they were.
+[00:06:05.320 --> 00:06:06.100] Gotcha. That's awesome.
+[00:06:06.160 --> 00:06:07.340] I thought that was kind of neat.
+[00:06:07.340 --> 00:06:09.960] Do you guys measure what percentage of your traffic comes from Facebook?
+[00:06:10.600 --> 00:06:10.960] We do.
+[00:06:11.100 --> 00:06:11.800] We look at where –
+[00:06:11.800 --> 00:06:13.340] Is that public information or not public information?
+[00:06:13.340 --> 00:06:14.040] Traffic to Shopify?
+[00:06:14.180 --> 00:06:14.340] Yeah.
+[00:06:14.680 --> 00:06:15.240] Shopify stores.
+[00:06:15.340 --> 00:06:15.740] Shopify stores.
+[00:06:15.820 --> 00:06:16.240] Oh, Shopify stores.
+[00:06:16.520 --> 00:06:16.960] Yeah, we look at that.
+[00:06:17.060 --> 00:06:20.180] I don't think it's public information, but we do look at sort of source of traffic for that.
+[00:06:20.300 --> 00:06:23.180] And the reason it's – we don't share this because it's on our data.
+[00:06:23.200 --> 00:06:24.240] That belongs to our merchants.
+[00:06:24.480 --> 00:06:25.660] Yeah, I just meant in the aggregate.
+[00:06:25.840 --> 00:06:26.720] We look at it from the aggregate.
+[00:06:26.760 --> 00:06:26.960] Yeah, yeah.
+[00:06:27.040 --> 00:06:31.460] In the aggregate, for instance, like, you know, the GMV is each individual source data, but you have to share that.
+[00:06:31.460 --> 00:06:34.360] So we look at it in the aggregate, but not on an individual store basis.
+[00:06:34.760 --> 00:06:39.040] So three things are happening that I think has made things challenging right now.
+[00:06:39.680 --> 00:06:46.420] However, what I think also is happening is, one, brands, stores, merchants are getting far more resilient about where they get their traffic from.
+[00:06:46.620 --> 00:06:53.300] There's no longer this – I have one massive provider of new traffic, and I'm only going to focus on that.
+[00:06:53.380 --> 00:06:56.760] We're all kind of thinking a lot more holistically about how we build our businesses.
+[00:06:56.760 --> 00:06:58.900] So you've seen that percentage of Facebook traffic drop?
+[00:06:59.540 --> 00:07:06.900] No, not necessarily, although I do know that people are – I know that merchants tell us that it's more expensive to acquire it, but I'm not necessarily sure the traffic has dropped.
+[00:07:07.020 --> 00:07:07.160] Got it.
+[00:07:07.160 --> 00:07:11.500] I just think they're not necessarily as able – they're able to target the customer the way they did.
+[00:07:11.560 --> 00:07:13.060] And we'll talk about audiences in a second.
+[00:07:13.240 --> 00:07:19.060] But the other thing that I think is also really important is that – I don't know how many times on the show you guys talk about Omnichannel,
+[00:07:19.060 --> 00:07:28.020] but I believe fundamentally that we will stop talking about this term entirely in the next 12 to 18 months because every business, to some extent, is going to be Omnichannel.
+[00:07:28.120 --> 00:07:35.560] And it's going to be like talking about the color television, which no one talks about because every television is fundamentally a color television in 2022.
+[00:07:35.960 --> 00:07:39.840] Now, it's not to say your business is going to be half online, half offline.
+[00:07:40.320 --> 00:07:47.780] You may have seen the last couple of days Gymshark just launched a store in London, a physical retail store in this beautiful kind of high street area.
+[00:07:47.780 --> 00:07:57.220] I don't think their GM is going to shift entirely in store, but they don't necessarily use the term channel conflict in the way that I think the larger retailers do.
+[00:07:57.440 --> 00:07:59.540] I think that also is playing a big role here.
+[00:07:59.780 --> 00:08:13.200] I think the third piece is this sort of consumer – the reduction in spend on things that you want versus things that you need, I think it's going to – that is – that will change very quickly as inflation goes down, as the economy gets better.
+[00:08:13.200 --> 00:08:18.600] You will see sort of this return to a more normalized spending pattern of things that you actually want from brands that you want.
+[00:08:19.020 --> 00:08:19.460] Okay.
+[00:08:19.760 --> 00:08:20.840] I appreciate all that context.
+[00:08:20.960 --> 00:08:21.720] I agree with all of that.
+[00:08:21.880 --> 00:08:23.320] Let's talk about Shopify audiences.
+[00:08:23.460 --> 00:08:24.200] You had mentioned that.
+[00:08:24.440 --> 00:08:33.840] Shopify audiences has launched several months ago, and basically you're helping create – you're helping merchants create their own audiences on Facebook through Shopify.
+[00:08:33.900 --> 00:08:38.960] If you're a Shopify Plus merchant, you're helping merchants create their own audiences on Facebook.
+[00:08:39.100 --> 00:08:41.240] Well, let me – sort of.
+[00:08:41.300 --> 00:08:41.960] Let me explain it a bit.
+[00:08:41.960 --> 00:08:42.120] Yeah.
+[00:08:42.360 --> 00:08:42.640] Okay.
+[00:08:42.740 --> 00:08:44.240] So you're a Shopify Plus merchant.
+[00:08:44.740 --> 00:08:45.680] Right now it's running for Plus.
+[00:08:46.240 --> 00:08:48.180] And you have, I don't know, let's say 10 SKUs.
+[00:08:48.380 --> 00:08:48.520] Yeah.
+[00:08:48.540 --> 00:08:50.620] And you say, these are three SKUs I want to sell more of.
+[00:08:50.960 --> 00:08:52.620] You feed them into the audience algorithm.
+[00:08:52.840 --> 00:08:56.660] We feed you back with a sample audience or a lookalike audience, whatever you want to call it.
+[00:08:56.960 --> 00:09:05.980] Now when you're buying ads on Facebook or Instagram or Google or any ad platform, you're uploading the same stuff you always did, which is your product descriptions, your product photography, metadata, whatever you want to upload.
+[00:09:05.980 --> 00:09:13.520] But you're also uploading this piece of data that enables all these ad platforms to better target the people that you want to support.
+[00:09:13.520 --> 00:09:15.120] The data you're uploading is an audience.
+[00:09:15.160 --> 00:09:15.960] Is a lookalike audience.
+[00:09:15.980 --> 00:09:16.140] Yeah.
+[00:09:16.180 --> 00:09:16.780] Or a sample audience.
+[00:09:16.780 --> 00:09:16.900] Yeah.
+[00:09:16.900 --> 00:09:17.480] That's exactly right.
+[00:09:17.860 --> 00:09:21.140] And by virtue of that, you are going to see a higher return on ad spend.
+[00:09:21.140 --> 00:09:23.140] So it's pretty new.
+[00:09:23.420 --> 00:09:26.380] It was something we were playing with a year ago.
+[00:09:26.380 --> 00:09:31.040] It became far more important on the backs of IDFA and ATT changes.
+[00:09:31.360 --> 00:09:32.300] And it's working.
+[00:09:32.500 --> 00:09:35.960] I mentioned, I think we have five or six case studies up on the website.
+[00:09:36.100 --> 00:09:40.360] But like Blender Bottle, for example, saw six times ROAS on it.
+[00:09:40.620 --> 00:09:44.520] Bush Bomb saw a 46% increase in click rates.
+[00:09:45.000 --> 00:09:47.880] La Merue saw 2.5 times increase in ROAS.
+[00:09:48.060 --> 00:09:50.740] Happy Hippo saw 4.7 times increase in ROAS.
+[00:09:50.740 --> 00:09:54.700] There was really demonstrable impact to the audience's product.
+[00:09:54.940 --> 00:09:58.100] And the cool part about it is it's all first party data.
+[00:09:58.300 --> 00:10:02.020] It allows merchants to do what they love doing just more efficiently.
+[00:10:02.020 --> 00:10:04.060] So we're not necessarily creating any more work for them.
+[00:10:04.200 --> 00:10:11.940] And it's one way that Shopify can use our scale, our leverage, and our economies of scale to help merchants deal with this and better compete.
+[00:10:12.180 --> 00:10:16.020] Honestly, I think this is exactly what merchants have always wanted.
+[00:10:16.340 --> 00:10:19.600] So on behalf of the entire e-commerce community, thank you.
+[00:10:19.840 --> 00:10:20.060] Oh, thank you.
+[00:10:20.060 --> 00:10:20.200] Yeah.
+[00:10:20.520 --> 00:10:24.880] This is, you know, generally I think of Shopify as like defensive where I'm like, help me.
+[00:10:25.040 --> 00:10:26.340] I've got to go out and get customers.
+[00:10:26.540 --> 00:10:28.860] But once they come in, Shopify helps me convert them.
+[00:10:29.140 --> 00:10:32.120] This is the first time where I feel like you're not giving me a defensive weapon.
+[00:10:32.260 --> 00:10:33.920] You're giving me an offensive weapon.
+[00:10:34.160 --> 00:10:34.300] Yeah.
+[00:10:34.380 --> 00:10:35.240] And it's not for everyone.
+[00:10:35.320 --> 00:10:36.880] I mean, some merchants will say, look, I don't want to do this.
+[00:10:36.880 --> 00:10:38.740] I'm not looking to like, I even though.
+[00:10:38.920 --> 00:10:39.000] Fuck them.
+[00:10:39.260 --> 00:10:39.360] Yeah.
+[00:10:39.720 --> 00:10:40.480] I don't want to do this.
+[00:10:40.580 --> 00:10:43.940] I want to keep, even though it's anonymized data, I don't want to participate.
+[00:10:44.060 --> 00:10:44.760] And that's absolutely okay.
+[00:10:44.820 --> 00:10:44.980] Yeah.
+[00:10:45.080 --> 00:10:45.200] Yeah.
+[00:10:45.300 --> 00:10:45.660] I'm just joking.
+[00:10:45.660 --> 00:10:50.500] What we find happen though is that the merchants that do use audiences begin to start using
+[00:10:50.500 --> 00:10:51.600] audiences more and more.
+[00:10:51.600 --> 00:10:58.440] And eventually our hope is that it would be a bad decision to run an ad without first
+[00:10:58.440 --> 00:10:59.340] using on it, if you can.
+[00:10:59.720 --> 00:11:01.120] How many merchants have tried it?
+[00:11:01.560 --> 00:11:02.540] It's fairly small.
+[00:11:02.740 --> 00:11:06.600] I can't give you the number, but it is still fairly small, but it's scaling really, really
+[00:11:06.600 --> 00:11:06.920] quickly.
+[00:11:07.060 --> 00:11:12.360] And we have sufficient amount, like the sample size is large enough that these numbers are
+[00:11:13.180 --> 00:11:14.060] significantly significant.
+[00:11:14.540 --> 00:11:16.140] So more and more merchants will use it.
+[00:11:16.360 --> 00:11:18.880] It's not in the tens of thousands yet, but eventually it'll get there.
+[00:11:18.880 --> 00:11:22.200] At this point, it's also, we're not like, it's, it's indirectly monetized.
+[00:11:22.320 --> 00:11:23.320] There's no charge for it right now.
+[00:11:23.440 --> 00:11:25.140] We're trying to get as many merchants used as possible.
+[00:11:25.300 --> 00:11:28.500] And eventually we may even offer it to merchants that are not on plus, but not, not yet.
+[00:11:28.600 --> 00:11:29.680] Now we're starting with plus as well.
+[00:11:30.080 --> 00:11:32.960] One of the things that look, it's not just also about ad targeting.
+[00:11:33.040 --> 00:11:33.700] It's also about measurement.
+[00:11:34.240 --> 00:11:36.520] And I think two things are happening at the same time.
+[00:11:36.740 --> 00:11:40.500] You talked a little bit at our last episode about data and understanding the analytics
+[00:11:40.500 --> 00:11:40.920] side of things.
+[00:11:41.060 --> 00:11:45.500] We want to make it really easy for one, for merchants to have an easier time targeting the
+[00:11:45.500 --> 00:11:48.760] right customers for the right products, but also to measure the efficacy of
+[00:11:48.760 --> 00:11:49.140] those ads.
+[00:11:49.320 --> 00:11:51.080] And I think audiences does both as well.
+[00:11:51.320 --> 00:11:55.480] One thing that is getting way less attention, but this is the right venue for, for this discussion
+[00:11:55.480 --> 00:11:56.800] is collabs.
+[00:11:57.360 --> 00:12:01.720] Another thing, even though collabs is not necessarily getting the same attention as audiences, it's
+[00:12:01.720 --> 00:12:03.100] really, it's an amazing product.
+[00:12:03.240 --> 00:12:08.200] So I believe the, what they call like the, the creator economies were something like a hundred
+[00:12:08.200 --> 00:12:13.680] billion dollars and the numbers are fairly, fairly rough about how many people are participating.
+[00:12:13.840 --> 00:12:17.480] It's like 4% of creators basically make a hundred billion dollars.
+[00:12:17.480 --> 00:12:19.040] Is this the Dovetail acquisition?
+[00:12:19.520 --> 00:12:21.320] Dovetail definitely was a huge part of this.
+[00:12:21.420 --> 00:12:21.480] Yeah.
+[00:12:21.920 --> 00:12:24.660] So Dovetail was already doing it really well, connecting creators and brands.
+[00:12:24.840 --> 00:12:28.960] So on one side, you have a lot of great brands, great businesses, great merchants who know
+[00:12:28.960 --> 00:12:32.840] how to build great product, but they, you know, they try to build a YouTube channel or create
+[00:12:32.840 --> 00:12:33.120] content.
+[00:12:33.260 --> 00:12:34.540] It's not, sometimes it's not great.
+[00:12:34.800 --> 00:12:37.360] On the other side, you have these amazing content creators who try to create product
+[00:12:37.360 --> 00:12:40.500] and sometimes they're unable to do it or not, not able to as easily.
+[00:12:40.500 --> 00:12:45.340] And so what collabs is, is it's, it's effectively this, this piece of software that's a matchmaking
+[00:12:45.340 --> 00:12:49.680] tool connecting brands and well aligned creators.
+[00:12:49.960 --> 00:12:53.160] And so if you look at audience by itself, it's really amazing.
+[00:12:53.300 --> 00:12:56.380] If you look at audiences plus collabs, you're beginning to see some of the things we're able
+[00:12:56.380 --> 00:13:00.300] to do with our scale where we can further level the playing field, make it easier.
+[00:13:00.580 --> 00:13:02.480] And then of course shop plays a role in that as well.
+[00:13:02.580 --> 00:13:06.140] But those are some things that we're working on right now that, that we think will be incredibly
+[00:13:06.140 --> 00:13:06.960] valuable for merchants.
+[00:13:06.960 --> 00:13:08.720] And it's, we've just scratched the surface on those.
+[00:13:09.240 --> 00:13:12.340] Let's switch gears because we've got to keep moving quickly.
+[00:13:12.360 --> 00:13:13.920] And let's talk about Shopify fulfillment.
+[00:13:14.120 --> 00:13:14.220] Yeah.
+[00:13:14.400 --> 00:13:15.780] Acquired Deliver for 2 billion.
+[00:13:16.200 --> 00:13:19.300] That comes on top of another acquisition of Six River Systems some time ago.
+[00:13:19.640 --> 00:13:23.600] And you know, when I heard you talk about this just a few moments ago, I think what you
+[00:13:23.600 --> 00:13:28.340] were basically saying or really on our last episode was what you really liked about Deliver
+[00:13:28.340 --> 00:13:33.120] was how they were able to move inventory across their different distribution warehouses, not
+[00:13:33.120 --> 00:13:36.740] necessarily directly to your, I mean, that helps getting it to your porch faster, but
+[00:13:36.740 --> 00:13:41.320] really it was how do we move it inside the distribution warehouses so that they know 30% of your sales
+[00:13:41.320 --> 00:13:42.260] are going to happen on the East coast.
+[00:13:42.420 --> 00:13:44.500] Is that, or is that really what you were talking about?
+[00:13:44.620 --> 00:13:48.640] So let's go high level and then we can drill down because logistics is a really complicated
+[00:13:48.640 --> 00:13:51.660] thing and everyone has a different relationship with the logistics because everyone's sort
+[00:13:51.660 --> 00:13:52.320] of at a different point.
+[00:13:52.620 --> 00:13:56.060] But there are fundamentally three phases of logistics.
+[00:13:56.480 --> 00:14:00.620] The first phase is from the manufacturer or the factory to the port.
+[00:14:00.620 --> 00:14:01.940] And that's what we call freight.
+[00:14:02.560 --> 00:14:05.340] That's really where we partner with Flexport on that.
+[00:14:05.400 --> 00:14:08.140] We think Flexport and everyone they work with, they're doing an amazing job.
+[00:14:08.240 --> 00:14:11.040] And so we've deeply integrated the Flexport and we're already working with them.
+[00:14:11.180 --> 00:14:13.480] So factory to port freight.
+[00:14:13.700 --> 00:14:14.760] That's sort of the first phase.
+[00:14:14.900 --> 00:14:18.920] The second phase is now that it's at the port, it has to basically figure out where it
+[00:14:18.920 --> 00:14:21.060] needs to go to the distribution centers, the fulfillment centers.
+[00:14:21.260 --> 00:14:23.540] And that is really where the balancing takes place.
+[00:14:23.700 --> 00:14:25.280] And that's, you know, it comes into the-
+[00:14:25.280 --> 00:14:25.860] That's the magic of deliver.
+[00:14:25.860 --> 00:14:27.440] That is the magic of deliver.
+[00:14:27.840 --> 00:14:31.880] So that was a piece of product, you know, inventory balancing that we were going to build
+[00:14:31.880 --> 00:14:32.260] ourself.
+[00:14:32.920 --> 00:14:34.020] We met deliver.
+[00:14:34.580 --> 00:14:36.400] We knew that a bunch of our merchants were already using them.
+[00:14:36.740 --> 00:14:38.440] Everyone that used them loved using them.
+[00:14:38.720 --> 00:14:43.280] And the team, Harish and his team like behind deliver, we think are like literally the best
+[00:14:43.280 --> 00:14:45.180] on the planet at this sort of balancing stuff.
+[00:14:45.380 --> 00:14:49.620] And the way they built their business is also like acid light, software focus, very similar
+[00:14:49.620 --> 00:14:50.060] to Shopify.
+[00:14:50.640 --> 00:14:55.060] So we, that, that middle part from port to fulfillment centers, that is really the balancing
+[00:14:55.060 --> 00:14:55.400] piece.
+[00:14:55.660 --> 00:14:56.520] And that's what they do really well.
+[00:14:56.680 --> 00:15:00.160] So we acquired deliver as again, because we wanted that product acceleration.
+[00:15:00.660 --> 00:15:04.920] Now it's at the warehouses, um, at the fulfillment centers, excuse me, from the fulfillment centers
+[00:15:04.920 --> 00:15:06.760] to the porch, that really is SFN.
+[00:15:06.840 --> 00:15:09.840] That's really where the fulfillment, our fulfillment network takes place.
+[00:15:09.840 --> 00:15:14.900] And that really is, is powered almost entirely by partners across the entire thing.
+[00:15:15.000 --> 00:15:19.160] However, we use our FMS, our fulfillment management system in some of the warehouses.
+[00:15:19.160 --> 00:15:24.020] We also use six RS, which is the robots that we call them chucks, um, to optimize warehouse
+[00:15:24.020 --> 00:15:25.820] management, warehouse efficiency.
+[00:15:26.020 --> 00:15:31.720] But the entire stack from freight to balancing to that final distribution piece and, and, and,
+[00:15:31.720 --> 00:15:35.940] and fulfillment piece, that is entirely what shoplight logistics is when you, and we don't
+[00:15:35.940 --> 00:15:38.640] need to own every piece of it, but that's what merchants need from us.
+[00:15:38.800 --> 00:15:42.980] And the idea was just to, just to kind of stay high level for a second before we drop down
+[00:15:42.980 --> 00:15:43.560] to the details.
+[00:15:43.560 --> 00:15:45.820] We didn't want to go into logistics or fulfillment.
+[00:15:46.000 --> 00:15:48.160] This isn't like this big ambition we had 10 years ago.
+[00:15:48.360 --> 00:15:51.200] We did it because it was a problem for merchants.
+[00:15:51.380 --> 00:15:52.880] It was something that they were struggling with.
+[00:15:53.040 --> 00:15:56.880] And we feel like in some cases that was a hindrance to their growth.
+[00:15:56.980 --> 00:15:59.280] That was a glass ceiling on how big they can grow.
+[00:15:59.480 --> 00:16:03.700] And so we're not trying to build the Amazon model where it's as cheap as possible for 24
+[00:16:03.700 --> 00:16:04.220] hour delivery.
+[00:16:04.440 --> 00:16:08.340] What we want to do is make it to the merchants on Shopify don't have to think about it.
+[00:16:08.520 --> 00:16:12.320] And in some cases, again, like flex port in that first piece will partner in other
+[00:16:12.320 --> 00:16:14.400] cases like Deliver or SFN.
+[00:16:14.500 --> 00:16:17.860] We may partner, we may acquire them ourselves, but it's the entire stack that we want to
+[00:16:17.860 --> 00:16:18.060] make.
+[00:16:18.380 --> 00:16:20.020] We want to make it so you don't have to think about it.
+[00:16:20.520 --> 00:16:22.360] You know, last episode, we were talking about universality.
+[00:16:22.940 --> 00:16:24.300] Is that a universal problem?
+[00:16:24.560 --> 00:16:26.560] And you're going to say, yes, it's a universal problem.
+[00:16:26.680 --> 00:16:28.360] Everyone needs to deliver products to the door.
+[00:16:28.520 --> 00:16:32.020] But is that a hair on fire for most e-commerce businesses where they're like, I'm having a tough
+[00:16:32.020 --> 00:16:35.040] time delivering products to consumers or shipping?
+[00:16:35.340 --> 00:16:38.200] It is one of the reasons that merchants don't hit a particular scale.
+[00:16:38.200 --> 00:16:43.700] There is a particular time where a merchant brand requires fulfillment assistance.
+[00:16:44.040 --> 00:16:44.740] They go to 3PL.
+[00:16:44.860 --> 00:16:46.440] 3PL says, here are the minimums.
+[00:16:46.680 --> 00:16:47.460] Here are the costs.
+[00:16:47.660 --> 00:16:49.300] We can't do customization for you.
+[00:16:49.420 --> 00:16:51.700] We definitely don't do pick and pack or custom kidding.
+[00:16:51.920 --> 00:16:52.960] But here's what you get.
+[00:16:53.060 --> 00:16:53.980] And it's very, very expensive.
+[00:16:54.240 --> 00:16:56.180] The reason is every merchant is trying to do it by themselves.
+[00:16:57.220 --> 00:17:00.840] And by us, like ShopPlay is now about 10% of all e-commerce in the US.
+[00:17:01.260 --> 00:17:06.440] If you were to think of us as a single merchant, we would be the second largest online
+[00:17:06.440 --> 00:17:07.140] retailer in America.
+[00:17:07.400 --> 00:17:08.660] Amazon would be first, ShopPlay would be second.
+[00:17:09.020 --> 00:17:11.540] And then you'd have like eBay and everyone else well down the stack.
+[00:17:11.960 --> 00:17:16.800] So what we're trying to do, whether it's with capital or payments or logistics or any
+[00:17:16.800 --> 00:17:22.000] of our merchant solutions, is to try to use that economy of scale to get leverage and
+[00:17:22.000 --> 00:17:25.720] get better pricing, better product, better integration, and give those economies of scale
+[00:17:25.720 --> 00:17:27.860] to the small business, medium-sized business, and larger business.
+[00:17:28.360 --> 00:17:33.180] But, Moise, to answer that question, it is for merchants that do 10 orders a day.
+[00:17:33.240 --> 00:17:35.360] It's also for merchants that do 10,000 orders a day.
+[00:17:35.360 --> 00:17:41.740] One thing that is universal across the merchant base is fulfillment and moving atoms is still
+[00:17:41.740 --> 00:17:42.340] very challenging.
+[00:17:42.560 --> 00:17:45.940] The internet helped democratize and simplify most things.
+[00:17:46.160 --> 00:17:48.980] It didn't actually do anything for logistics.
+[00:17:49.140 --> 00:17:50.960] But we think we can do a better job of it.
+[00:17:50.980 --> 00:17:54.640] And we can do it in a way that is very much integrated right to the core platform, where
+[00:17:54.640 --> 00:17:56.800] we can partner when we need, we can build when we need.
+[00:17:57.480 --> 00:17:59.680] Ultimately, it'll be one more thing that we do for merchants.
+[00:17:59.880 --> 00:18:03.280] And can you tell us what percentage of merchants use Shopify Fulfillment Network?
+[00:18:03.700 --> 00:18:06.760] Oh, I mean, still, as a percentage of total merchants, we have millions of merchants.
+[00:18:06.900 --> 00:18:09.040] It's a small percentage, but it's growing rapidly.
+[00:18:09.360 --> 00:18:12.160] The merchants that you Shopify, I'm one of them with Firebelly.
+[00:18:12.320 --> 00:18:12.840] Love it.
+[00:18:12.980 --> 00:18:15.680] Because, again, you don't have to think about it anymore.
+[00:18:15.820 --> 00:18:18.180] You don't just get better costing, better integration.
+[00:18:18.580 --> 00:18:24.800] The fact that I can track my tea from China, where a lot of our tea is made, our Chinese
+[00:18:24.800 --> 00:18:31.200] tea, right to the end consumer, and I can see it across one single dashboard, is fucking
+[00:18:31.200 --> 00:18:31.840] unbelievable.
+[00:18:32.160 --> 00:18:37.280] And because I'm part of this network, this community, I'm paying the same pricing as the
+[00:18:37.280 --> 00:18:38.580] biggest companies in the world pay.
+[00:18:39.160 --> 00:18:40.380] That is a really big deal.
+[00:18:40.500 --> 00:18:40.980] That is great.
+[00:18:41.480 --> 00:18:44.040] You know, have you ever read the book Ride of a Lifetime?
+[00:18:44.600 --> 00:18:49.100] Bob Iger was the CEO of Disney, and he wrote in this book that they'd agreed to acquire
+[00:18:49.100 --> 00:18:54.320] Twitter and had settled on a price, and on, like, Tuesday, they were supposed to sign
+[00:18:54.320 --> 00:18:57.020] documents to, like, you know, definitive merger agreement.
+[00:18:57.960 --> 00:19:02.200] And like Elon Musk, he decided not to do it, but he did it before he signed the documents.
+[00:19:02.460 --> 00:19:06.140] And the reason—he writes in his book, he's like, I thought on Sunday, I was, like, walking
+[00:19:06.140 --> 00:19:09.600] around my house, and he's like, I decided not to buy them because I realized we didn't
+[00:19:09.600 --> 00:19:13.320] want to be in the business of, like, all these problems that are going to happen on Twitter.
+[00:19:13.500 --> 00:19:16.880] Like, you know, all of this conversation where we're like, what are you moderating?
+[00:19:16.940 --> 00:19:18.340] Are you moderating child pornography?
+[00:19:18.340 --> 00:19:19.960] Are you—like, what is free speech?
+[00:19:20.040 --> 00:19:20.440] What is not?
+[00:19:21.100 --> 00:19:25.260] Every fourth quarter, I have to yell at every 3PL I work with because I'm like, get these
+[00:19:25.260 --> 00:19:26.020] packages out.
+[00:19:26.100 --> 00:19:26.720] What happened?
+[00:19:26.940 --> 00:19:27.940] This isn't working.
+[00:19:28.160 --> 00:19:28.600] The cost.
+[00:19:28.900 --> 00:19:30.180] Yeah, all this stuff happened.
+[00:19:30.300 --> 00:19:33.160] Are you—were you guys thinking, okay, this is going to be a problem?
+[00:19:33.300 --> 00:19:35.080] Or, like, was that going to hurt the Shopify brand?
+[00:19:35.700 --> 00:19:38.080] It was better for us to do them—for them to do it on their own.
+[00:19:38.620 --> 00:19:39.760] It's not them on their own necessarily.
+[00:19:39.860 --> 00:19:40.820] It could be a 3PL, right?
+[00:19:40.900 --> 00:19:42.420] No, it can't be a 3PL.
+[00:19:42.520 --> 00:19:46.260] Most of these people don't qualify for 3PLs, or they can't afford the 3PLs, or the 3PL
+[00:19:46.260 --> 00:19:48.320] are not very well—I mean, the reason you're yelling at the 3PL,
+[00:19:48.320 --> 00:19:51.460] yelling at 3PLs, frankly, is because most 3PLs suck.
+[00:19:51.660 --> 00:19:51.840] Yeah.
+[00:19:52.220 --> 00:19:57.000] And so what we do is we go in just on that third phase, that actual fulfillment phase.
+[00:19:57.260 --> 00:20:02.280] You know, once it's at the 3PL or once it's at the Shopify spoke or our fulfillment centers,
+[00:20:02.480 --> 00:20:06.620] and it needs to be in-consumer, one, they're all using our software, so it's fully integrated.
+[00:20:06.760 --> 00:20:08.060] We can monitor every single product.
+[00:20:08.420 --> 00:20:12.320] Two, we have certain quality control centers that if they don't hit, they're taken offline.
+[00:20:12.440 --> 00:20:13.500] They're no longer part of the network.
+[00:20:13.760 --> 00:20:15.560] And they want to be part of the network.
+[00:20:15.700 --> 00:20:17.820] If they're part of the network, it means they never have to look for another customer
+[00:20:17.820 --> 00:20:18.380] ever again.
+[00:20:18.380 --> 00:20:19.400] So that's the second.
+[00:20:19.580 --> 00:20:24.740] The third is because we're connecting all of them, we're able to collectively negotiate
+[00:20:24.740 --> 00:20:26.240] the best pricing on shipping.
+[00:20:26.740 --> 00:20:32.980] Fourth, we have 6RS, which is the unfair advantage for every single 3PL, where if you put these
+[00:20:32.980 --> 00:20:37.580] actual robots, these chucks in the warehouse, your warehouse will run better, faster, and
+[00:20:37.580 --> 00:20:38.120] more effectively.
+[00:20:38.120 --> 00:20:42.580] So did we wake up in 2012 and say, you know, one day we're going to be so ambitious.
+[00:20:42.780 --> 00:20:45.740] In 10 years from now, we're going to build this unbelievable logistics network?
+[00:20:45.920 --> 00:20:46.200] No.
+[00:20:46.580 --> 00:20:51.120] But that's what you, if you want to be the company that powers commerce and retail for
+[00:20:51.120 --> 00:20:53.980] entrepreneurs of all sizes, you got to do the hard stuff too.
+[00:20:54.080 --> 00:20:55.240] And this is one of those things that's hard.
+[00:20:55.380 --> 00:20:58.040] And the good news is that we're good at hard stuff.
+[00:20:58.760 --> 00:21:03.000] So recently, I bought a brand and we put it on Tapcart pretty quickly.
+[00:21:03.260 --> 00:21:06.940] It was almost one of the first things that we did as far as relaunching the brand.
+[00:21:07.160 --> 00:21:12.400] It's been huge for building out a push subscriber list, as well as increasing our conversion rate
+[00:21:12.400 --> 00:21:16.760] among customers who already love us and use our product because it's such a consumable product.
+[00:21:17.460 --> 00:21:21.680] Features include the ability to put out exclusive product drops and launch products early to
+[00:21:21.680 --> 00:21:22.480] mobile app users.
+[00:21:22.480 --> 00:21:28.180] On average, Tapcart users see 10 to 30% app adoption rates from their existing customer base.
+[00:21:28.380 --> 00:21:32.240] And you don't need to worry about getting downloads or figuring out how to market an app because
+[00:21:32.240 --> 00:21:36.120] Tapcart has you covered and can even coach you on how to drive subscribers.
+[00:21:36.740 --> 00:21:40.760] Start today with a demo and one month free at tapcart.com.
+[00:21:42.240 --> 00:21:43.720] I think you are good at hard stuff.
+[00:21:43.960 --> 00:21:48.340] The only thing I'd say is that I think that what you're saying here in terms of doing the
+[00:21:48.340 --> 00:21:53.560] hard stuff and helping the merchants where it's not universal problems, like more people
+[00:21:53.560 --> 00:21:58.120] would, more merchants would rather have you see build an upsell solution than they would
+[00:21:58.120 --> 00:21:59.120] get into deliberate.
+[00:21:59.180 --> 00:22:02.080] But there are other people that can build a lot of the people that can build a great
+[00:22:02.080 --> 00:22:02.780] upsell solution.
+[00:22:02.820 --> 00:22:04.880] And there's almost no one that can build a logistics network.
+[00:22:05.140 --> 00:22:06.220] I would say the opposite.
+[00:22:06.360 --> 00:22:08.440] I would say a lot of people can build a logistics network.
+[00:22:08.700 --> 00:22:09.380] No, I'm sorry.
+[00:22:09.840 --> 00:22:10.860] A good logistics network.
+[00:22:11.040 --> 00:22:14.560] I think a lot of like, you know, Allbirds uses a logistics network.
+[00:22:14.800 --> 00:22:15.260] The Figs does.
+[00:22:15.460 --> 00:22:15.780] Because they have to.
+[00:22:15.880 --> 00:22:16.900] And I bet it's not Shopify's fulfillment network.
+[00:22:16.900 --> 00:22:22.780] So both Allbirds and Figs, and you can ask Trina, you can ask Joey these questions.
+[00:22:22.980 --> 00:22:24.240] They didn't want to have to do it.
+[00:22:24.360 --> 00:22:25.340] They had no choice.
+[00:22:25.760 --> 00:22:28.140] They had no choice because they needed to build something that was custom.
+[00:22:28.340 --> 00:22:30.820] They needed something that actually worked for that particular business model that allowed
+[00:22:30.820 --> 00:22:34.600] them to keep their branding because they didn't want to have Amazon basics boxes going out
+[00:22:34.600 --> 00:22:39.220] on their behalf, especially not Allbirds, who has a famous story there.
+[00:22:39.380 --> 00:22:40.660] But they had no choice.
+[00:22:40.920 --> 00:22:44.200] What about the other millions of merchants on the platform who maybe are not selling as
+[00:22:44.200 --> 00:22:48.640] much as Figs or selling as much as Allbirds, but they also want to provide incredible opportunity
+[00:22:48.640 --> 00:22:50.180] and fulfillment for their consumer?
+[00:22:50.600 --> 00:22:54.400] One thing, though, that we haven't really talked about that is the linchpin to this,
+[00:22:54.520 --> 00:22:57.580] to delivering value around logistics, is shop promise.
+[00:22:57.920 --> 00:23:03.720] The ability for merchants on Shopify to tell their consumer, this is when you can expect
+[00:23:03.720 --> 00:23:04.540] your package.
+[00:23:04.640 --> 00:23:06.880] We promise you, in this time frame, you will get it.
+[00:23:06.880 --> 00:23:13.900] That not only has an amazing return on investment or value add to consumers' buying preference,
+[00:23:14.040 --> 00:23:19.160] who they buy from, but what it does also do, it allows small businesses to now offer what
+[00:23:19.160 --> 00:23:20.920] only the big companies were able to afford.
+[00:23:21.060 --> 00:23:24.460] And if we didn't do logistics fulfillment, they couldn't do that.
+[00:23:24.920 --> 00:23:26.120] I think that's great.
+[00:23:26.140 --> 00:23:28.520] And I think that's what we were talking about on the last episode, which was here are all
+[00:23:28.520 --> 00:23:32.160] the other things that small businesses are facing problems with that large businesses
+[00:23:32.160 --> 00:23:32.360] are in.
+[00:23:32.360 --> 00:23:35.960] And you can imagine, just because every large business has now reset the expectation
+[00:23:35.960 --> 00:23:40.080] to the consumer that they know when to expect their packages, that's something that most
+[00:23:40.080 --> 00:23:43.700] businesses cannot do with logistics, with the film, and they can do that with us.
+[00:23:44.040 --> 00:23:44.400] Fantastic.
+[00:23:44.620 --> 00:23:47.620] Okay, let's switch gears again, because we've got to get through a bunch of stuff as fast
+[00:23:47.620 --> 00:23:48.040] as possible.
+[00:23:48.140 --> 00:23:50.220] So these are not rapid fire questions.
+[00:23:50.340 --> 00:23:52.760] We have those later on, but I'm going to ask you these as rapid fire questions.
+[00:23:53.100 --> 00:23:54.820] So I'm going to put on my shareholder hat.
+[00:23:54.920 --> 00:23:56.780] I own millions of dollars of Shopify stock.
+[00:23:56.940 --> 00:23:57.560] Love the brand.
+[00:23:57.760 --> 00:23:58.620] You have two divisions.
+[00:23:58.820 --> 00:23:59.500] Yeah, I'm sure you do.
+[00:24:00.040 --> 00:24:01.760] Merchant solutions and subscription solutions.
+[00:24:01.760 --> 00:24:05.260] I think a lot of people would be surprised that merchant solutions generates more revenue
+[00:24:05.260 --> 00:24:08.360] than subscription solutions, just by virtue of the fact that they think of Shopify as
+[00:24:08.360 --> 00:24:10.400] a platform and not necessarily like the credit cards.
+[00:24:10.580 --> 00:24:12.500] But tell me a little bit, like, so ShopPay.
+[00:24:12.660 --> 00:24:16.180] You know, I buy from a bunch of Shopify websites and I get a text message and check out via
+[00:24:16.180 --> 00:24:17.180] ShopPay that way.
+[00:24:17.380 --> 00:24:20.140] What percentage of consumers are checking out via that text message?
+[00:24:20.200 --> 00:24:22.860] Because I think that's a real moat you have against all e-commerce.
+[00:24:23.220 --> 00:24:27.140] Look, I think ShopPay, not only does it convert much better for the merchant, which is really
+[00:24:27.140 --> 00:24:29.640] good, but also from the consumer, it's much faster, it's secure.
+[00:24:30.660 --> 00:24:33.400] But I can't give you the numbers on exactly how many people use ShopPay.
+[00:24:33.400 --> 00:24:36.440] What I can tell you is it is becoming consumers' favorite way to check out on the internet.
+[00:24:36.860 --> 00:24:37.420] Full stop.
+[00:24:37.640 --> 00:24:40.920] What I will tell you, however, is to your sort of larger point around merchant solutions
+[00:24:40.920 --> 00:24:45.800] versus subscription solutions, the best way to think about Shopify is that Shopify wants
+[00:24:45.800 --> 00:24:47.100] to create this.
+[00:24:47.400 --> 00:24:50.500] We want to be the most important piece of software that merchants use every day.
+[00:24:50.740 --> 00:24:53.660] So what we tried to do is try to figure out what are all the things that merchants
+[00:24:53.660 --> 00:24:58.900] are doing where we can use economy of scale that we have, and they can also maintain independence.
+[00:24:59.400 --> 00:25:03.640] Even with the marketplace world, marketplaces allow you to leverage their economy of scale
+[00:25:03.640 --> 00:25:06.720] by being a participant in the marketplace, but you don't get independence.
+[00:25:06.960 --> 00:25:10.980] If you build your own stack, you get the independence, but you don't get economies of scale.
+[00:25:11.220 --> 00:25:12.520] On Shopify, you get both.
+[00:25:12.640 --> 00:25:15.620] And so the reason we're doing more of these merchant solutions and the reason that merchant
+[00:25:15.620 --> 00:25:20.580] solution revenue is growing is because there's more things that merchants require from us.
+[00:25:20.580 --> 00:25:25.720] And the cool part about our current state is that we can keep leveling the playing field
+[00:25:25.720 --> 00:25:27.980] across all these different challenge areas.
+[00:25:28.240 --> 00:25:30.180] Now, there are some things we probably will never do.
+[00:25:30.300 --> 00:25:33.860] I'm not sure we'll ever do manufacturing, for example, but that's just not our thing.
+[00:25:34.020 --> 00:25:37.920] But generally, most of the things that our merchants require that is painful, that is a challenge,
+[00:25:38.080 --> 00:25:39.260] we can do through merchant solutions.
+[00:25:39.440 --> 00:25:42.980] And the cool part is more and more what's happening as merchants now, the relation they have
+[00:25:42.980 --> 00:25:45.300] to Shopify is we're not just their e-commerce provider.
+[00:25:45.380 --> 00:25:47.080] We're not just their point of sale provider.
+[00:25:47.080 --> 00:25:50.960] We're now, we help them with bank business banking, with things like balance, and we help them
+[00:25:50.960 --> 00:25:53.340] with things like markets for international selling.
+[00:25:53.600 --> 00:25:57.720] Our capital business is close to $4 billion of cash advances and loans.
+[00:25:58.020 --> 00:26:02.900] If you look at any of these by themselves, if they were independent, they'd be leaders
+[00:26:02.900 --> 00:26:03.540] in their category.
+[00:26:03.600 --> 00:26:08.220] But they're all part of the Shopify ecosystem, which is that operating system we're talking
+[00:26:08.220 --> 00:26:08.400] about.
+[00:26:09.220 --> 00:26:10.780] This is a question that I know you can't answer.
+[00:26:10.960 --> 00:26:12.400] When is Shopify going to raise prices?
+[00:26:12.780 --> 00:26:17.140] As a shareholder, you know, there's a lot of time, like, you know, Native was like, you
+[00:26:17.140 --> 00:26:20.780] know, one of the questions we got on Twitter yesterday was, I pay less to Shopify than
+[00:26:20.780 --> 00:26:22.100] I do for my analytics solutions.
+[00:26:22.380 --> 00:26:24.640] That seems bonkers to me as a shareholder.
+[00:26:24.740 --> 00:26:28.160] I don't know who they're using for analytics solutions, but what I would say is that Shopify
+[00:26:28.160 --> 00:26:30.620] is growing not by increasing pricing.
+[00:26:30.820 --> 00:26:35.340] We are growing by adding more value, by creating more value for the merchants.
+[00:26:35.540 --> 00:26:36.100] Like ShopPay.
+[00:26:36.140 --> 00:26:41.420] If you look at our attach rate, for example, our product utilization rates, it is the highest
+[00:26:41.420 --> 00:26:41.960] it's ever been.
+[00:26:42.400 --> 00:26:45.880] Most companies, when they want to increase their attach rate or the product utilization
+[00:26:45.880 --> 00:26:48.180] rate, they do so by hammering pricing.
+[00:26:48.360 --> 00:26:49.100] We haven't done that.
+[00:26:49.280 --> 00:26:51.560] So we still have that lever available to us.
+[00:26:51.720 --> 00:26:55.900] But right now, we want to increase our product utilization rate by adding more product that
+[00:26:55.900 --> 00:26:58.080] people want to use and getting more people to adopt it.
+[00:26:58.200 --> 00:27:02.540] How often do you guys talk about pricing internally when it comes to like, you know, platform fees?
+[00:27:03.300 --> 00:27:03.740] Annually?
+[00:27:04.240 --> 00:27:05.060] Yeah, for sure.
+[00:27:05.260 --> 00:27:06.420] Yeah, I mean, pricing is always-
+[00:27:06.420 --> 00:27:06.580] More frequently?
+[00:27:06.720 --> 00:27:08.300] More frequently than annually or annually?
+[00:27:08.880 --> 00:27:09.660] Pricing comes up.
+[00:27:09.740 --> 00:27:11.220] We consistently look at pricing.
+[00:27:11.220 --> 00:27:15.340] But it is really important that Shopify is the best deal.
+[00:27:15.580 --> 00:27:18.520] From a value to cost perspective, it has to be a great deal.
+[00:27:18.640 --> 00:27:19.700] It's the only deal.
+[00:27:19.860 --> 00:27:22.380] And so that provides us with an opportunity.
+[00:27:22.480 --> 00:27:24.000] At some point, we could increase pricing.
+[00:27:24.120 --> 00:27:26.200] But right now, we want to grow the business by adding more value.
+[00:27:26.200 --> 00:27:26.900] I have another question.
+[00:27:27.080 --> 00:27:27.940] So on that, right?
+[00:27:28.060 --> 00:27:32.640] An easy way to grow your revenue in that case would be opening ShopPay to everybody
+[00:27:32.640 --> 00:27:34.500] and then taking a fee of everybody's payments.
+[00:27:34.760 --> 00:27:37.060] Is that ever going to happen in the next couple of years?
+[00:27:37.120 --> 00:27:37.400] I don't know.
+[00:27:37.660 --> 00:27:38.220] Maybe we do that.
+[00:27:38.220 --> 00:27:38.620] Yeah.
+[00:27:38.760 --> 00:27:44.260] I feel like if Vista Equity Partners would come into Shopify and be like, 10x the fees!
+[00:27:44.400 --> 00:27:44.640] You know?
+[00:27:45.060 --> 00:27:45.580] Yeah, maybe.
+[00:27:45.680 --> 00:27:49.380] But Vista, I don't know if Vista is so I don't mean any disrespect to Vista Equity Partners.
+[00:27:49.500 --> 00:27:50.140] I don't know anyone there.
+[00:27:50.260 --> 00:27:52.560] But what I will say is that we're trying to build a hundred-year company.
+[00:27:52.700 --> 00:27:56.900] We want to build a company that owns commerce and retail for the world,
+[00:27:56.900 --> 00:28:02.020] that a company that our merchants are on believe is the most important software that they love using.
+[00:28:02.420 --> 00:28:05.860] And I think the way to do that is to add a disproportionate amount of value.
+[00:28:06.200 --> 00:28:09.480] Now, whether or not—I mean, just to be clear, I mean, Shopify Plus, I think, started at $995.
+[00:28:09.800 --> 00:28:10.860] Then it went to $2,000.
+[00:28:11.020 --> 00:28:12.380] Then we added the 25 basis points.
+[00:28:12.460 --> 00:28:13.740] I mean, we have played with pricing.
+[00:28:14.140 --> 00:28:16.040] Plus is about six or seven years old.
+[00:28:16.100 --> 00:28:18.220] We have played with pricing and have increased it.
+[00:28:18.220 --> 00:28:22.340] But there's other ways for us to grow our business than simply increasing pricing,
+[00:28:22.540 --> 00:28:24.200] which I think is what a lot of other companies do.
+[00:28:24.300 --> 00:28:28.160] And it's not to say we'll never increase pricing, but we want to grow the business by the way.
+[00:28:28.260 --> 00:28:30.640] Yeah, it seems like a missed opportunity, particularly like, you know,
+[00:28:30.700 --> 00:28:32.180] you talk about sort of the top of the funnel.
+[00:28:32.420 --> 00:28:35.020] Like, all the people in the shower, I get why you're charging them $50 a month.
+[00:28:35.140 --> 00:28:38.340] It seems like a missed opportunity for massive brands who are, you know,
+[00:28:38.420 --> 00:28:41.140] would have massive changing costs and it distracts so much value.
+[00:28:41.220 --> 00:28:46.500] But if you look at, you know, companies, great, great, iconic companies, Spanx or, you know,
+[00:28:46.820 --> 00:28:50.700] Mattel, for example, or even some of the big CPGs, you know, when they sell a lot,
+[00:28:50.920 --> 00:28:51.560] we share on the upside.
+[00:28:51.700 --> 00:28:52.460] We have 25 basis points.
+[00:28:52.560 --> 00:28:54.680] And when they don't sell a lot, you know, it's slightly less.
+[00:28:54.840 --> 00:28:56.080] That business model is quite good.
+[00:28:56.080 --> 00:28:58.880] It means we're on this exact same side of the table as merchants.
+[00:28:59.340 --> 00:29:04.980] Very few companies are on the exact same side of that sort of success sharing as Shopify is.
+[00:29:05.140 --> 00:29:05.400] Agreed.
+[00:29:05.540 --> 00:29:07.980] I feel like you guys are really good at that narrative.
+[00:29:08.180 --> 00:29:12.940] And it's why every time I see on Twitter, somebody laughs at the stock price going down,
+[00:29:13.160 --> 00:29:15.280] which is like, this is a hundred year game that they're playing.
+[00:29:15.280 --> 00:29:19.580] You can clearly tell by the way that they build the product and talk to consumers.
+[00:29:20.000 --> 00:29:21.220] Yeah, that's great.
+[00:29:21.560 --> 00:29:25.780] As a shareholder, look, I've never sold a single share of Shopify stock and can't imagine I would.
+[00:29:26.040 --> 00:29:29.220] The problem is I'm playing a 10 year, even a 20 year game.
+[00:29:29.320 --> 00:29:31.780] A hundred year game is, you know, a game my kids need to play.
+[00:29:31.780 --> 00:29:31.900] They'll be dead.
+[00:29:32.180 --> 00:29:32.420] Yeah.
+[00:29:32.600 --> 00:29:33.260] And that's the hard part.
+[00:29:33.300 --> 00:29:34.380] And we're really fortunate.
+[00:29:34.580 --> 00:29:39.980] You know, we have investors that bought into the stock during the IPO and are still shareholders,
+[00:29:40.320 --> 00:29:40.440] right?
+[00:29:46.640 --> 00:29:48.860] And revenue would automatically go up.
+[00:29:49.040 --> 00:29:51.300] A better way to do it is to be a lot more thoughtful about it.
+[00:29:51.360 --> 00:29:55.960] And I think that's, again, what you get with founder led companies as opposed to professional managed companies.
+[00:29:56.320 --> 00:29:59.500] Who their entire, you know, all they want to do is go and increase stock.
+[00:29:59.500 --> 00:30:02.160] One of our rapid fire questions was going to be,
+[00:30:02.280 --> 00:30:04.580] how would Shopify be different if it were based in the United States?
+[00:30:04.580 --> 00:30:06.820] And that is the, I think this is the answer.
+[00:30:07.120 --> 00:30:07.140] You think so?
+[00:30:07.340 --> 00:30:08.180] Yeah, I think this is the answer.
+[00:30:08.200 --> 00:30:09.580] I mean, interesting.
+[00:30:09.880 --> 00:30:15.660] You know, in Canada, the hit on Canadian companies often is that they're acquiries on acquirers.
+[00:30:16.180 --> 00:30:20.360] And there's not that many IPOs happening anywhere right now, but there's even fewer IPOs happening in Canada.
+[00:30:20.460 --> 00:30:23.800] In fact, if you look at the big tech companies that have IPO in Canada, they haven't done that well.
+[00:30:24.420 --> 00:30:27.520] So usually the knock on Canadian companies is that they're not ambitious enough.
+[00:30:27.620 --> 00:30:28.700] I think we're very, very ambitious.
+[00:30:28.880 --> 00:30:32.820] But I'm not necessarily sure we would be upping our pricing if we were based in the US.
+[00:30:33.400 --> 00:30:35.200] Okay, let's move on to the rapid fire questions.
+[00:30:35.360 --> 00:30:36.340] I appreciate that context.
+[00:30:36.760 --> 00:30:39.940] Let's start because we're going to be faster this because I know you've got to run soon.
+[00:30:40.060 --> 00:30:42.480] So first question, what's the best part about working with Shopify?
+[00:30:43.340 --> 00:30:44.080] Well, for me, it's easy.
+[00:30:44.220 --> 00:30:47.600] Like my Venn diagram of my personal life and my professional life completely overlap.
+[00:30:47.780 --> 00:30:48.960] I'm obsessed with entrepreneurship.
+[00:30:49.300 --> 00:30:51.740] I think entrepreneurship is like the greatest tool in the whole world.
+[00:30:51.900 --> 00:30:57.440] It gave my grandfather independence and survival and it gave me, I mean, to find my life's work.
+[00:30:57.540 --> 00:30:58.300] So for me, that's what it is.
+[00:30:58.640 --> 00:31:01.120] On Shopify, I think we talked about it almost ad nauseum at this point,
+[00:31:01.120 --> 00:31:04.840] which is really, really easy to get started and incredible to scale.
+[00:31:04.980 --> 00:31:09.080] That you never have to leave the platform is so unbelievable and so unique.
+[00:31:09.480 --> 00:31:10.520] I don't even have a second point.
+[00:31:10.580 --> 00:31:11.280] It's that.
+[00:31:11.400 --> 00:31:11.600] Awesome.
+[00:31:11.800 --> 00:31:14.120] What is the biggest mistake Shopify has made as a company?
+[00:31:14.660 --> 00:31:16.820] Sometimes we're too slow to respond to certain things.
+[00:31:16.940 --> 00:31:18.540] And we talked about some of the things here that are lacking.
+[00:31:18.820 --> 00:31:21.720] Sometimes we sort of, you know, are waiting for more data.
+[00:31:21.780 --> 00:31:23.120] And sometimes maybe we're not as quick.
+[00:31:23.280 --> 00:31:24.460] And other times we're way too fast.
+[00:31:24.580 --> 00:31:26.820] We put out something that maybe is not fully baked as much as we want.
+[00:31:26.840 --> 00:31:27.980] Can you give me one concrete one?
+[00:31:27.980 --> 00:31:28.260] Yeah.
+[00:31:28.340 --> 00:31:31.840] I mean, during the pandemic, we put out a lot of stuff we put out like curbside pickup,
+[00:31:32.180 --> 00:31:36.060] had to sort of be, you know, not rebuilt, but had to be built for scale because we just
+[00:31:36.060 --> 00:31:37.120] wanted to get it out so quickly.
+[00:31:37.600 --> 00:31:40.440] We probably should have done point of sale earlier on.
+[00:31:40.640 --> 00:31:44.000] It was sort of, the tea leaves were that a lot of our merchants also want to sell in
+[00:31:44.000 --> 00:31:44.520] a physical store.
+[00:31:44.780 --> 00:31:46.980] And our point of sale product right now, I think is world class.
+[00:31:47.140 --> 00:31:48.680] It may have taken us a little bit too long to get there.
+[00:31:49.220 --> 00:31:51.500] What Shopify store do you purchase most often from?
+[00:31:51.620 --> 00:31:51.960] Blue Salt.
+[00:31:52.740 --> 00:31:54.260] Maybe Sol Angeles, number two.
+[00:31:54.560 --> 00:31:55.420] James Purse, number three.
+[00:31:56.200 --> 00:31:58.160] Who is Shopify's biggest competitor?
+[00:31:58.780 --> 00:32:04.260] At the small end, probably non-consumption, like just not commercializing your hobby, like
+[00:32:04.260 --> 00:32:05.440] not starting something.
+[00:32:05.640 --> 00:32:12.100] At the higher end of the spectrum, probably a combination of your own home stack, like
+[00:32:12.100 --> 00:32:19.080] your own in-house system, plus Magento, plus Salesforce, Commerce Cloud, ATG Hybris.
+[00:32:19.080 --> 00:32:23.120] But in the middle, like there's a bunch of random stuff, like a couple CMSs.
+[00:32:23.200 --> 00:32:25.640] Like I think you mentioned your, you know, native was built on Woo.
+[00:32:25.860 --> 00:32:26.000] Yeah.
+[00:32:26.400 --> 00:32:27.880] You know, there's some people that have, I don't know.
+[00:32:27.880 --> 00:32:28.680] 60 million a year on Woo.
+[00:32:28.680 --> 00:32:28.920] 60?
+[00:32:29.140 --> 00:32:29.280] Wow.
+[00:32:29.300 --> 00:32:30.840] That's probably the biggest Woo store ever.
+[00:32:31.000 --> 00:32:33.540] You don't really see that on Woo Commerce ever or WordPress ever.
+[00:32:33.820 --> 00:32:33.840] Yeah.
+[00:32:33.840 --> 00:32:34.200] Same thing.
+[00:32:34.280 --> 00:32:36.620] You don't really see that on like any of the CMSs, like Wix or Squarespace.
+[00:32:37.180 --> 00:32:40.220] So I'd say at the lower end, it's like, you know, not starting, like non-consumption.
+[00:32:40.440 --> 00:32:44.640] At the upper end, it's like those big enterprise stuff and probably those crazy installations
+[00:32:44.640 --> 00:32:45.800] where they build everything themselves.
+[00:32:45.800 --> 00:32:47.740] And they have like 500 engineers running around.
+[00:32:47.860 --> 00:32:48.080] Yeah, yeah.
+[00:32:48.220 --> 00:32:48.640] Okay, gotcha.
+[00:32:48.740 --> 00:32:51.320] What was the hardest part of launching Firebelly, your own store?
+[00:32:51.500 --> 00:32:53.660] And did that lead to a product innovation at Shopify?
+[00:32:53.780 --> 00:32:57.920] I felt so much pressure because I was, I'm a big part of the Shopify story that my store
+[00:32:57.920 --> 00:32:58.640] had to be perfect.
+[00:32:59.280 --> 00:33:03.480] And my business partner, who's also one of my best friends, David Siegel, got really
+[00:33:03.480 --> 00:33:05.060] pissed off with me because he's like, we just have to ship it.
+[00:33:05.220 --> 00:33:06.220] And I was like, no, no, this is bigger.
+[00:33:06.280 --> 00:33:07.200] It's not just a random thing.
+[00:33:07.340 --> 00:33:08.880] We're launching like a passion project.
+[00:33:09.080 --> 00:33:10.320] Like, so that was probably it.
+[00:33:10.600 --> 00:33:11.940] And then did it lead to a product?
+[00:33:12.100 --> 00:33:15.200] Well, I mean, I'm deeply involved right now in pretty much every merchant solution.
+[00:33:15.200 --> 00:33:17.580] Uh, because we use everything on Firebelly.
+[00:33:17.680 --> 00:33:21.700] So like logistics, I'm literally sending like feedback every single day on things they can
+[00:33:21.700 --> 00:33:22.500] improve on logistics.
+[00:33:23.080 --> 00:33:25.260] Tell us a story to help us fall in love with Toby.
+[00:33:26.120 --> 00:33:31.180] Oh, um, during the road, the IPO road show, um, Morgan Stanley was our lead left or main banker.
+[00:33:31.580 --> 00:33:34.720] This is one of my favorite Toby stories generally, but it speaks volumes about him because everyone
+[00:33:34.720 --> 00:33:36.680] knows him as like this crazy product genius.
+[00:33:36.860 --> 00:33:38.600] And he is, he's the smartest human I've ever met.
+[00:33:38.680 --> 00:33:40.920] And he's so thoughtful about the product and the business.
+[00:33:40.920 --> 00:33:44.440] And he's not just building the product to Shopify from a, from a technology, but also
+[00:33:44.440 --> 00:33:46.060] the company is also his product too.
+[00:33:46.200 --> 00:33:47.760] And he, he, he's so thoughtful about that.
+[00:33:47.860 --> 00:33:51.060] But one of the best stories that people don't know about him is that on the IPO road show,
+[00:33:51.100 --> 00:33:52.520] it was, it's three weeks.
+[00:33:52.680 --> 00:33:53.580] It's totally crazy.
+[00:33:54.320 --> 00:33:57.600] Morgan Stanley has taken, I don't know, a thousand companies public, maybe 5,000 companies
+[00:33:57.600 --> 00:33:57.860] public.
+[00:33:57.860 --> 00:34:02.400] And Toby asked Morgan Stanley, in fact, told Morgan Stanley that they had to drop us off
+[00:34:02.400 --> 00:34:07.120] in Ottawa every Friday evening and pick us up again Sunday evening because he wanted to
+[00:34:07.120 --> 00:34:11.120] spend his weekends with his wife and his three kids during the IPO road show.
+[00:34:11.340 --> 00:34:13.500] And Morgan Stanley said no one ever asked him to do that before.
+[00:34:13.940 --> 00:34:14.140] Wow.
+[00:34:14.260 --> 00:34:14.800] That's amazing.
+[00:34:15.340 --> 00:34:16.420] Uh, one last question.
+[00:34:16.640 --> 00:34:21.980] So every single Shopify employee I've ever met has always said great things about the
+[00:34:21.980 --> 00:34:27.060] culture, the environment, uh, working at Shopify, whether they were a part of a layoff or whether
+[00:34:27.060 --> 00:34:30.620] they still work at Shopify, whether they were the contractor didn't get their contract renewed.
+[00:34:30.860 --> 00:34:32.780] It's always been just a great experience.
+[00:34:33.020 --> 00:34:33.560] That means a lot.
+[00:34:33.700 --> 00:34:33.900] Wow.
+[00:34:34.200 --> 00:34:34.380] Yeah.
+[00:34:34.480 --> 00:34:34.780] And it's huge.
+[00:34:34.900 --> 00:34:39.560] I think like I admire companies where an employee is left and they still say good things.
+[00:34:39.620 --> 00:34:41.860] It means there was a really good leadership and a really good culture.
+[00:34:42.480 --> 00:34:49.220] What's one way you guys build such strong and, uh, long-term culture within your employees?
+[00:34:49.340 --> 00:34:54.180] Cause I also, I have an ex Shopify employee and I also see those values transferred over to
+[00:34:54.180 --> 00:34:54.320] me.
+[00:34:54.460 --> 00:34:57.040] I mean, some of it is, and this is so cheesy, but it's, this is,
+[00:34:57.060 --> 00:34:57.580] is really true.
+[00:34:57.760 --> 00:34:59.380] Like the whole mission thing is a big deal.
+[00:34:59.580 --> 00:35:03.460] If you were clear of what your mission is, then you should also be clear of the people
+[00:35:03.460 --> 00:35:04.500] that come and join the company.
+[00:35:04.860 --> 00:35:05.040] Okay.
+[00:35:05.180 --> 00:35:07.640] Let's say you have a thousand people that work at your, at your, at your business,
+[00:35:07.740 --> 00:35:08.520] your company, it's your brand.
+[00:35:08.900 --> 00:35:13.160] Every next person, the, the most people assume that they're not going to affect the culture,
+[00:35:13.340 --> 00:35:15.860] but they have every new person joins the company affects the culture.
+[00:35:16.040 --> 00:35:16.600] Oh, so slightly.
+[00:35:16.780 --> 00:35:20.320] And so you want people that ultimately care about the mission that actually want to be
+[00:35:20.320 --> 00:35:20.520] there.
+[00:35:20.840 --> 00:35:25.160] But the, the, the bigger takeaway, which is the people that have left Shopify that still
+[00:35:25.160 --> 00:35:29.140] say good things is because, you know, everyone talks about the right time to join a company,
+[00:35:29.340 --> 00:35:32.320] early stage, pre IPO, pre-seer, forget that stuff.
+[00:35:32.660 --> 00:35:36.320] Like joining company, you should join the company at whatever time is the right time for you.
+[00:35:36.420 --> 00:35:38.240] But there's also a right time to leave a company.
+[00:35:38.240 --> 00:35:44.280] And actually there is very little books or blog posts or like, you know, Twitter threads around
+[00:35:44.280 --> 00:35:46.160] the right time to leave a company.
+[00:35:46.300 --> 00:35:47.340] And I think that is really important.
+[00:35:47.560 --> 00:35:52.120] So when it's someone's right time to leave, whether it's us or them, we do so with integrity,
+[00:35:52.300 --> 00:35:55.700] with, I think with class or grace, if you can articulate, if you can say that thing on a
+[00:35:55.700 --> 00:35:59.980] podcast, but like you do it in a way that, that is incredibly thoughtful and human.
+[00:36:00.720 --> 00:36:04.400] And even when you do layoffs, we've, you know, it was one of the more difficult things to do
+[00:36:04.400 --> 00:36:09.140] and any leader is to do layoffs and you do so with, with, you try to do so with character and
+[00:36:09.140 --> 00:36:13.900] you try to do so in a way that, that actually you can be, you can be somewhat proud of.
+[00:36:14.440 --> 00:36:19.740] But I think the mission thing is a really important, like Shopify is a company built
+[00:36:20.480 --> 00:36:22.460] for entrepreneurs by entrepreneurs.
+[00:36:23.180 --> 00:36:24.780] That is really unique.
+[00:36:24.980 --> 00:36:27.140] This is a company that like, it isn't just what we put on the wall.
+[00:36:27.240 --> 00:36:27.760] It's not what we just say.
+[00:36:27.820 --> 00:36:28.800] It's not just what we say.
+[00:36:28.980 --> 00:36:31.020] We really give a shit about this thing called entrepreneurship.
+[00:36:31.860 --> 00:36:32.620] Okay, fantastic.
+[00:36:32.840 --> 00:36:34.180] That's going to wrap up episode 12.
+[00:36:34.180 --> 00:36:37.720] Well, there's one thing I'm going to comment on, which is I was reading your 10K and the
+[00:36:37.720 --> 00:36:42.460] craziest part was it's said that no, there's no key man insurance on you or Toby.
+[00:36:42.840 --> 00:36:44.400] Go get that as a business.
+[00:36:44.620 --> 00:36:45.000] Go get that.
+[00:36:45.120 --> 00:36:45.580] What does that mean?
+[00:36:45.780 --> 00:36:50.560] That means if somebody dies, often businesses will have insurance policies.
+[00:36:50.700 --> 00:36:54.700] Like if you're Oprah, you better have a key man insurance policy on Oprah Winfrey, right?
+[00:36:54.800 --> 00:36:58.420] Because otherwise that magazine cannot get published the next time because she's on the cover
+[00:36:58.420 --> 00:36:59.300] of every single one.
+[00:36:59.920 --> 00:37:02.040] Shopify does not have that on their execs.
+[00:37:02.160 --> 00:37:02.680] Please get that.
+[00:37:02.780 --> 00:37:03.380] We need it.
+[00:37:04.080 --> 00:37:05.160] Anything you want to plug, Harley?
+[00:37:05.680 --> 00:37:07.520] No, it was great to come on.
+[00:37:07.940 --> 00:37:09.240] I mean, the only I will say is this.
+[00:37:09.360 --> 00:37:14.180] I mean, you guys had both put on Twitter that I was coming on and we sort of crowdsourced some
+[00:37:14.180 --> 00:37:16.020] questions and some comments and some themes.
+[00:37:16.500 --> 00:37:19.760] And one of the things I was, I mean, some people, you know, there were a couple of snarky
+[00:37:19.760 --> 00:37:20.840] remarks, which is totally fine.
+[00:37:20.840 --> 00:37:25.140] But for the most part, what I was reminded of when you did that was this community we have,
+[00:37:25.260 --> 00:37:26.380] it's not even just a Shopify community.
+[00:37:26.500 --> 00:37:31.860] It's a community of like, of modern entrepreneurs and people that care about building brands and
+[00:37:31.860 --> 00:37:36.000] businesses and building things that are in a really unique way.
+[00:37:36.260 --> 00:37:40.060] This community we have, whatever you want to call this thing is really, really special.
+[00:37:40.060 --> 00:37:43.560] And we've never, Nick, you and I met today for the first time.
+[00:37:43.660 --> 00:37:44.880] We've been friends for years.
+[00:37:45.080 --> 00:37:45.920] We met today.
+[00:37:46.160 --> 00:37:51.660] And the Venn diagram of all of us connecting this whole community is based on this thing we
+[00:37:51.660 --> 00:37:52.360] call entrepreneurship.
+[00:37:52.480 --> 00:37:54.560] And that means a hundred different things, a hundred different people.
+[00:37:54.560 --> 00:38:00.020] But ultimately we built something inadvertently as a community that is so special.
+[00:38:00.160 --> 00:38:01.820] I don't think we fully realize it.
+[00:38:02.020 --> 00:38:03.620] I could not agree more.
+[00:38:03.820 --> 00:38:10.200] I think Shopify since the early days with arming the rebels has done such a good job of building
+[00:38:10.740 --> 00:38:13.440] such a cohesive and well-covered community.
+[00:38:13.800 --> 00:38:14.280] Yeah.
+[00:38:14.340 --> 00:38:17.400] And I'm not so sure how many lives, you understand how many lives you've affected.
+[00:38:17.780 --> 00:38:18.080] My life.
+[00:38:18.180 --> 00:38:18.880] I didn't go to college.
+[00:38:19.280 --> 00:38:21.360] So my life has been made thanks to you.
+[00:38:21.680 --> 00:38:21.980] Wow.
+[00:38:22.240 --> 00:38:24.240] You know, so much families, family,
+[00:38:24.240 --> 00:38:28.720] family wealth, family freedom, the ability to pursue passion projects.
+[00:38:29.800 --> 00:38:32.280] Life itself has been changed as a result of you and Toby.
+[00:38:32.620 --> 00:38:33.840] And so on behalf of everyone, thank you.
+[00:38:33.840 --> 00:38:35.360] That means so much because we don't take that for granted at all.
+[00:38:35.420 --> 00:38:39.580] And look, I know there's certain parts of the product and the company and I'm sure the culture
+[00:38:39.580 --> 00:38:40.800] of things that we could do better.
+[00:38:41.380 --> 00:38:44.380] What I will tell you is that we care deeply about the stuff.
+[00:38:44.480 --> 00:38:45.180] We will make it better.
+[00:38:45.320 --> 00:38:46.200] We will keep getting better.
+[00:38:46.860 --> 00:38:52.020] Shopify is as much of a pursuit of personal growth as it is as a company.
+[00:38:52.140 --> 00:38:54.040] And we want it to be incredible for all of you.
+[00:38:54.240 --> 00:38:55.100] So thank you.
+[00:38:55.520 --> 00:38:56.280] Thanks for being here.
+[00:38:56.460 --> 00:38:56.560] Yeah.
+[00:38:57.000 --> 00:38:59.060] Well, with that, we'll see you on the next episode.
+[00:38:59.720 --> 00:39:00.740] Thanks for tuning in.
+[00:39:00.900 --> 00:39:04.420] We'll be back next time to cut through the noise in CPG, retail and e-commerce.
+[00:39:04.840 --> 00:39:08.000] And if you enjoyed this episode, then why not share it with a friend?
+[00:39:08.280 --> 00:39:11.680] And be sure to subscribe on whatever platform you listen to your podcasts on.
+[00:39:11.680 --> 00:39:12.340] We'll see you on the next episode.
+[00:39:12.340 --> 00:39:12.560] Bye.

@@ -1,0 +1,1549 @@
+{
+  "cues": [
+    {
+      "start": 0,
+      "end": 28.02,
+      "text": "When you have brand equity and you have paid media, you want brand equity to lead and then paid media to follow. But you never want the paid media efforts to overshadow what is happening on the brand equity side. You always want to have brand equity for that paid media to kind of use up. It's like thinking of it as, you know, you spill some water and that's your brand equity and then paid media is the mop, right? If there's no water there, the mop's not going to pick anything up."
+    },
+    {
+      "start": 28.8,
+      "end": 54.98,
+      "text": "This is Limited Supply, the place for refreshingly real takes on what DTC is really like. We're your hosts, Nick and Moyes. Let's start talking about money. Building a code free app is super hard, but TapCart's drag and drop builder makes it possible. Used by direct to consumer brands like Princess Polly, Figs, and Nick's own brand Long Weekend, Shopify brands on TapCart have done over 3.4 billion via their apps."
+    },
+    {
+      "start": 54.98,
+      "end": 62.06,
+      "text": "In five years, people will be kicking themselves for not owning their mobile commerce and customer experience through a mobile app with TapCart."
+    },
+    {
+      "start": 62.26,
+      "end": 74.38,
+      "text": "Today, Limited Supply listeners get two months free so you've got nothing to lose as you check it out for your store. Head to tapcart.com slash limited to book your demo and get started. That's tapcart.com slash limited."
+    },
+    {
+      "start": 77.09,
+      "end": 83.67,
+      "text": "Hey everybody, welcome to Ecom World. My name is Nick Sharma. This is my second year doing Ecom World."
+    },
+    {
+      "start": 83.67,
+      "end": 93.77,
+      "text": "And I would be lying if I said I am not extremely excited. All the presenters here at Ecom World are usually top notch and this year they're definitely top notch."
+    },
+    {
+      "start": 93.77,
+      "end": 99.53,
+      "text": "And I'm excited to present and then, you know, do some Q\u0026A in the chat at the end. So we'll get started."
+    },
+    {
+      "start": 99.93,
+      "end": 107.31,
+      "text": "So my name is Nick. I run a company called Sharma Brands. Basically what we do is we help clients either launch or scale."
+    },
+    {
+      "start": 107.57,
+      "end": 111.39,
+      "text": "Sometimes we take clients that are really large, some of these alcohol brands behind me,"
+    },
+    {
+      "start": 112.03,
+      "end": 119.21,
+      "text": "and we will actually help them set up an e-commerce business and, you know, figure out what it is that we can do for them"
+    },
+    {
+      "start": 119.21,
+      "end": 126.07,
+      "text": "or we can help them do online that basically gets them up to par with the rest of what everybody else here is already doing."
+    },
+    {
+      "start": 126.35,
+      "end": 131.95,
+      "text": "So I know in our Ecom World conversations, we always think we start online, we go to retail."
+    },
+    {
+      "start": 132.15,
+      "end": 137.83,
+      "text": "These guys are the opposite, right? They start in retail and in my head they go backwards, but in their head they're going forward."
+    },
+    {
+      "start": 138.59,
+      "end": 142.11,
+      "text": "So really quickly, Sharma Brands is known as like a direct consumer SWAT team."
+    },
+    {
+      "start": 142.11,
+      "end": 146.97,
+      "text": "We work with brands at their infancy all the way through some of the largest brands,"
+    },
+    {
+      "start": 147.13,
+      "end": 150.77,
+      "text": "maybe some of the brands that you're wearing or you're using as of today."
+    },
+    {
+      "start": 151.37,
+      "end": 154.97,
+      "text": "So today's topic, I really wanted to talk about growth levers."
+    },
+    {
+      "start": 155.27,
+      "end": 161.29,
+      "text": "And this kind of started with a podcast I did with a friend of mine named Ben, who's the head of growth at Levels."
+    },
+    {
+      "start": 161.49,
+      "end": 163.75,
+      "text": "Levels is a continuous glucose monitor."
+    },
+    {
+      "start": 164.29,
+      "end": 171.47,
+      "text": "They got really well known in the marketing world for the work they did to build a waitlist."
+    },
+    {
+      "start": 172.29,
+      "end": 175.95,
+      "text": "Scaling a brand today has literally never been easier, right?"
+    },
+    {
+      "start": 176.13,
+      "end": 183.89,
+      "text": "Once you're at the point where you have product market fit or product channel fit or founder market fit or founder channel fit,"
+    },
+    {
+      "start": 184.39,
+      "end": 185.73,
+      "text": "you know, you can really hit the gas."
+    },
+    {
+      "start": 185.93,
+      "end": 188.57,
+      "text": "So, you know, we're all used to paid digital media."
+    },
+    {
+      "start": 188.77,
+      "end": 190.67,
+      "text": "That's your paid social, paid search."
+    },
+    {
+      "start": 190.93,
+      "end": 192.43,
+      "text": "But there's so many other channels."
+    },
+    {
+      "start": 192.61,
+      "end": 199.15,
+      "text": "There's trade marketing, which is going into Target and running ads in the Target store or maybe in Target Sunday newspaper."
+    },
+    {
+      "start": 199.15,
+      "end": 207.83,
+      "text": "You have influencers and creators and influencers are, you know, we know them today as people with blue checks on Instagram who we follow because we enjoy their content."
+    },
+    {
+      "start": 208.15,
+      "end": 213.83,
+      "text": "But creators could also mean business to business type creators or newsletter writers, things of that nature."
+    },
+    {
+      "start": 214.31,
+      "end": 216.97,
+      "text": "There's organic social media, which we'll get into in a bit."
+    },
+    {
+      "start": 217.27,
+      "end": 225.43,
+      "text": "You know, that's creating content that does well on TikTok and Twitter and Snapchat and Instagram and Pinterest, for example."
+    },
+    {
+      "start": 225.83,
+      "end": 227.19,
+      "text": "There's forums and communities."
+    },
+    {
+      "start": 227.39,
+      "end": 230.61,
+      "text": "So when I think of this, I think of Product Hunt as just a great place."
+    },
+    {
+      "start": 230.77,
+      "end": 231.45,
+      "text": "I think of Reddit."
+    },
+    {
+      "start": 231.45,
+      "end": 239.23,
+      "text": "I think of places like bodybuilding.com, word of mouth, which we'll get into, and also what I like to call the head nod."
+    },
+    {
+      "start": 239.69,
+      "end": 242.13,
+      "text": "I say I, but I think Ben had actually come up with that."
+    },
+    {
+      "start": 242.49,
+      "end": 248.49,
+      "text": "The head nod is essentially that sign of, oh, yep, we're a part of, you know, we're cut from the same cloth type of thing."
+    },
+    {
+      "start": 249.11,
+      "end": 257.25,
+      "text": "There's out of home and experiential, which is, you know, anything from billboards to throwing an ad on the side of a truck that's already running its route,"
+    },
+    {
+      "start": 257.25,
+      "end": 263.85,
+      "text": "to pop-ups and creating experiences on the ground that people can walk inside and experience the brand with."
+    },
+    {
+      "start": 264.25,
+      "end": 266.03,
+      "text": "There's partnerships and integrations."
+    },
+    {
+      "start": 266.43,
+      "end": 273.61,
+      "text": "So partnerships and integrations can be anything from Casetify and Olivia Rodrigo coming out with their own case."
+    },
+    {
+      "start": 273.83,
+      "end": 284.91,
+      "text": "It could also be something like a Mr. Beast and a NeoBank that launched and wants to work with Mr. Beast."
+    },
+    {
+      "start": 284.91,
+      "end": 289.27,
+      "text": "So they integrate themselves kind of natively into a video that he's already putting out."
+    },
+    {
+      "start": 289.87,
+      "end": 300.87,
+      "text": "There's earned media, which is PR influencers who are posting about you without kind of the, you know, you earn that share, that post or that story."
+    },
+    {
+      "start": 300.99,
+      "end": 302.85,
+      "text": "It's not like you went and asked them for that."
+    },
+    {
+      "start": 303.15,
+      "end": 304.65,
+      "text": "That could also be bloggers."
+    },
+    {
+      "start": 304.75,
+      "end": 305.55,
+      "text": "That could be vloggers."
+    },
+    {
+      "start": 305.69,
+      "end": 307.79,
+      "text": "That could be a Good Morning America mention."
+    },
+    {
+      "start": 307.79,
+      "end": 314.35,
+      "text": "That could be featuring you in a listicle if PopSugar has some listicle of their favorite products of the year, for example."
+    },
+    {
+      "start": 314.93,
+      "end": 316.31,
+      "text": "There's affiliates and bloggers."
+    },
+    {
+      "start": 316.61,
+      "end": 320.49,
+      "text": "This is actually what a lot of earned media is now turning into, which is affiliates."
+    },
+    {
+      "start": 320.89,
+      "end": 327.85,
+      "text": "And then there's customer user generated content, which is your customers try your product, they use your product,"
+    },
+    {
+      "start": 328.33,
+      "end": 330.39,
+      "text": "and they create content around it for you to use."
+    },
+    {
+      "start": 330.55,
+      "end": 331.53,
+      "text": "And then there's content and SEO."
+    },
+    {
+      "start": 331.75,
+      "end": 336.57,
+      "text": "So we'll get into content in a second, but content can be long form YouTube content,"
+    },
+    {
+      "start": 336.87,
+      "end": 343.17,
+      "text": "but it could also just be here's how to throw a party during COVID and that drives, you know, organic SEO traffic to your site."
+    },
+    {
+      "start": 347.75,
+      "end": 349.15,
+      "text": "Right?"
+    },
+    {
+      "start": 349.15,
+      "end": 353.91,
+      "text": "And I think a lot of the people here, a lot of people are in that zero to one, right?"
+    },
+    {
+      "start": 354.03,
+      "end": 355.97,
+      "text": "So the zero to one is really the hardest part."
+    },
+    {
+      "start": 356.31,
+      "end": 363.51,
+      "text": "The problem is that a lot of times we were in the zero or closer to the zero, but we media buy as if we're in the 10."
+    },
+    {
+      "start": 363.81,
+      "end": 363.95,
+      "text": "Right?"
+    },
+    {
+      "start": 363.95,
+      "end": 365.47,
+      "text": "So we just launched a brand."
+    },
+    {
+      "start": 365.65,
+      "end": 367.07,
+      "text": "Oh, we want to go run ads."
+    },
+    {
+      "start": 367.33,
+      "end": 369.27,
+      "text": "Or we just launched a brand."
+    },
+    {
+      "start": 369.37,
+      "end": 370.55,
+      "text": "How do we go get influencers?"
+    },
+    {
+      "start": 370.91,
+      "end": 372.03,
+      "text": "Or we just launched a brand."
+    },
+    {
+      "start": 372.35,
+      "end": 375.55,
+      "text": "How do we go plaster Times Square with billboards?"
+    },
+    {
+      "start": 375.55,
+      "end": 381.15,
+      "text": "And the problem is that you just, you haven't built a foundation to then go off of."
+    },
+    {
+      "start": 381.27,
+      "end": 387.51,
+      "text": "One thing I like to say is when you have brand equity and you have paid media,"
+    },
+    {
+      "start": 387.83,
+      "end": 391.87,
+      "text": "you want brand equity to lead and then paid media to follow."
+    },
+    {
+      "start": 391.91,
+      "end": 398.03,
+      "text": "But you never want the paid media efforts to overshadow what is happening on the brand equity side."
+    },
+    {
+      "start": 398.13,
+      "end": 402.09,
+      "text": "You always want to have brand equity for that paid media to kind of use up."
+    },
+    {
+      "start": 402.09,
+      "end": 407.01,
+      "text": "It's like thinking of it as, you know, you spill some water and that's your brand equity."
+    },
+    {
+      "start": 407.27,
+      "end": 408.61,
+      "text": "And then paid media is the mop, right?"
+    },
+    {
+      "start": 408.65,
+      "end": 412.67,
+      "text": "If there's no water there, you can't go, the mop's not going to pick anything up."
+    },
+    {
+      "start": 413.35,
+      "end": 419.55,
+      "text": "That brings me to kind of today's topic, which is really the concept of sustainable versus unsustainable growth."
+    },
+    {
+      "start": 419.75,
+      "end": 425.75,
+      "text": "So over the last year, since I last spoke here, we've launched a handful of different brands."
+    },
+    {
+      "start": 426.31,
+      "end": 427.97,
+      "text": "Some have done extremely well."
+    },
+    {
+      "start": 427.97,
+      "end": 433.37,
+      "text": "Some have done really well and some that really focus kind of on what's on the left side here,"
+    },
+    {
+      "start": 433.55,
+      "end": 441.39,
+      "text": "which is the unsustainable side, didn't do as well until they started to pivot and kind of change their strategy of what they were doing."
+    },
+    {
+      "start": 441.99,
+      "end": 445.81,
+      "text": "What a lot of brands do today, especially the ones that are like VC funded,"
+    },
+    {
+      "start": 446.71,
+      "end": 450.79,
+      "text": "and they're more focused on distribution and marketing than they are the product,"
+    },
+    {
+      "start": 451.01,
+      "end": 454.71,
+      "text": "is they launch and they say, all right, we've launched, let's run some ads."
+    },
+    {
+      "start": 455.25,
+      "end": 459.37,
+      "text": "Let's use Facebook, let's use Instagram, let's use TikTok because CPMs are cheap,"
+    },
+    {
+      "start": 459.53,
+      "end": 464.33,
+      "text": "which they definitely are cheaper, but, you know, that shouldn't be your reason to just go on a channel."
+    },
+    {
+      "start": 464.87,
+      "end": 466.45,
+      "text": "And they start acquiring customers."
+    },
+    {
+      "start": 466.73,
+      "end": 470.51,
+      "text": "They might not acquire customers profitably, definitely not sustainably,"
+    },
+    {
+      "start": 471.07,
+      "end": 475.51,
+      "text": "but they say, okay, we're spending money and we're getting some customers in."
+    },
+    {
+      "start": 475.99,
+      "end": 478.91,
+      "text": "Now, that can definitely work."
+    },
+    {
+      "start": 478.91,
+      "end": 489.61,
+      "text": "Look, the biggest downside to this plan is you're acquiring customers for trial and not everybody's going to love your product, right?"
+    },
+    {
+      "start": 489.71,
+      "end": 493.59,
+      "text": "The problem is like when we think through, okay, we're going to run ads,"
+    },
+    {
+      "start": 493.61,
+      "end": 496.57,
+      "text": "we just naturally assume because we're biased,"
+    },
+    {
+      "start": 496.75,
+      "end": 499.03,
+      "text": "we've spent so much time working on the product side of things,"
+    },
+    {
+      "start": 499.21,
+      "end": 504.61,
+      "text": "we just naturally assume that everybody's going to love the brand and the product that we've put together."
+    },
+    {
+      "start": 504.61,
+      "end": 506.57,
+      "text": "And that's just not the case, right?"
+    },
+    {
+      "start": 507.27,
+      "end": 510.37,
+      "text": "Not everybody's going to subscribe for how long you think the LTV is."
+    },
+    {
+      "start": 510.49,
+      "end": 513.33,
+      "text": "And not everybody who tries the product the first time is going to love it either."
+    },
+    {
+      "start": 513.93,
+      "end": 521.15,
+      "text": "The problem with this kind of unsustainable method of growing is like you're really reliant on paid media, right?"
+    },
+    {
+      "start": 521.77,
+      "end": 526.07,
+      "text": "If you're not driving paid media, there's a good chance with these brands specifically,"
+    },
+    {
+      "start": 526.27,
+      "end": 529.43,
+      "text": "there's a good chance that you might not even be generating revenue, right?"
+    },
+    {
+      "start": 529.45,
+      "end": 532.67,
+      "text": "If you turn your ads off, your revenue is going to shut off just as quick."
+    },
+    {
+      "start": 532.67,
+      "end": 536.61,
+      "text": "Now, the other side of things is the more sustainable side."
+    },
+    {
+      "start": 537.05,
+      "end": 540.67,
+      "text": "This is where kind of content becomes a bigger thing."
+    },
+    {
+      "start": 540.93,
+      "end": 548.55,
+      "text": "You see this happen probably I would say more within the world of influencers, creators, musicians that have done well."
+    },
+    {
+      "start": 548.95,
+      "end": 554.31,
+      "text": "They put content out, they create content and they build experiences."
+    },
+    {
+      "start": 554.31,
+      "end": 561.71,
+      "text": "So, you know, my favorite example of this is recently we worked on a launch for a showerhead called Jolie."
+    },
+    {
+      "start": 562.21,
+      "end": 568.15,
+      "text": "Now, they position themselves as a beauty tool and their whole argument was that, you know, you're drinking filtered water."
+    },
+    {
+      "start": 568.29,
+      "end": 573.71,
+      "text": "So, why aren't you also filtering the water that's going on your largest organ, which is your skin?"
+    },
+    {
+      "start": 573.87,
+      "end": 574.81,
+      "text": "Makes total sense, right?"
+    },
+    {
+      "start": 574.81,
+      "end": 576.87,
+      "text": "So, now there's two ways they could have gone."
+    },
+    {
+      "start": 577.01,
+      "end": 584.19,
+      "text": "They could have launched and said, hey, everybody, your water is gross and this showerhead is better for your hair, skin and nails."
+    },
+    {
+      "start": 584.41,
+      "end": 585.09,
+      "text": "Buy us."
+    },
+    {
+      "start": 585.51,
+      "end": 593.85,
+      "text": "The way that they launched, which I think was beautiful, was they said, hey, everybody, here's a water report we've built."
+    },
+    {
+      "start": 593.89,
+      "end": 595.11,
+      "text": "You come to our site."
+    },
+    {
+      "start": 595.33,
+      "end": 596.55,
+      "text": "You put your zip code in."
+    },
+    {
+      "start": 596.55,
+      "end": 597.67,
+      "text": "You put your email in."
+    },
+    {
+      "start": 597.77,
+      "end": 601.15,
+      "text": "We're going to email you a water report based on your actual zip code."
+    },
+    {
+      "start": 601.47,
+      "end": 613.35,
+      "text": "So, now it's not only that I'm hearing the problem that there's a big difference between what I think is in the water versus what's actually in the water, but I'm actually now getting the data and understanding."
+    },
+    {
+      "start": 613.65,
+      "end": 621.25,
+      "text": "And that gets me personally to start thinking, oh, shoot, I should really look into how I'm solving for this."
+    },
+    {
+      "start": 621.25,
+      "end": 628.59,
+      "text": "And in that case, my favorite part is that the brand is not directly saying, come buy our showerhead."
+    },
+    {
+      "start": 628.69,
+      "end": 634.59,
+      "text": "It's really making it the consumer's idea of your water's gross."
+    },
+    {
+      "start": 635.31,
+      "end": 638.11,
+      "text": "Also, Jolie is a beauty company with a showerhead."
+    },
+    {
+      "start": 638.49,
+      "end": 643.09,
+      "text": "And then the customers come themselves and say, oh, we want to buy a Jolie."
+    },
+    {
+      "start": 643.75,
+      "end": 668.43,
+      "text": "It's definitely a little bit slower, but what happens is you kind of build this rising tide of customers and consumers and advocates over time versus the paid media stuff is like, and I'm not saying don't use paid media in the flow on the right, but I'm saying you're not leading with paid media as a means to grow the customer base."
+    },
+    {
+      "start": 668.43,
+      "end": 672.95,
+      "text": "You're creating content and paid media is just helping get that content out."
+    },
+    {
+      "start": 673.37,
+      "end": 674.39,
+      "text": "Think of it this way."
+    },
+    {
+      "start": 674.47,
+      "end": 683.01,
+      "text": "If you put a image in Google Docs or Microsoft Word and you drag it out from the corner, the more you drag it, the blurrier it gets."
+    },
+    {
+      "start": 683.47,
+      "end": 690.71,
+      "text": "And so on the left side, your unsustainable way to grow is it starts with kind of a blurry picture."
+    },
+    {
+      "start": 690.87,
+      "end": 694.73,
+      "text": "The more you grow it or the more you expand it, the blurrier it gets."
+    },
+    {
+      "start": 694.73,
+      "end": 698.67,
+      "text": "On the bright side, it's like you start with a very, very high quality image."
+    },
+    {
+      "start": 698.89,
+      "end": 704.75,
+      "text": "And so the more you grow it, it doesn't really get blurry because the quality from the get go is extremely high."
+    },
+    {
+      "start": 705.63,
+      "end": 706.81,
+      "text": "I love Tapcart."
+    },
+    {
+      "start": 706.97,
+      "end": 709.59,
+      "text": "Low cost, low effort to manage and gives you more control."
+    },
+    {
+      "start": 709.99,
+      "end": 712.83,
+      "text": "Plug and play means setup takes hours, not weeks."
+    },
+    {
+      "start": 713.05,
+      "end": 717.99,
+      "text": "And you'll join a roster of brands on board, including Princess Polly, Figs and Fashion Nova."
+    },
+    {
+      "start": 718.35,
+      "end": 723.71,
+      "text": "On average, merchants are seeing an average 43x ROI and super high conversion rates."
+    },
+    {
+      "start": 723.71,
+      "end": 726.73,
+      "text": "Easy and no downside to building your own app."
+    },
+    {
+      "start": 726.91,
+      "end": 730.15,
+      "text": "Give your shoppers a seamless and VIP experience on mobile."
+    },
+    {
+      "start": 730.81,
+      "end": 734.77,
+      "text": "Start building with their demo plus two months free at tapcart.com slash limited."
+    },
+    {
+      "start": 736.55,
+      "end": 744.21,
+      "text": "So these are actually, you know, I was thinking about, all right, what can I give to the e-com world audience that they could hopefully screenshot"
+    },
+    {
+      "start": 744.21,
+      "end": 748.63,
+      "text": "and maybe walk away with and get some ideas for stuff you guys can do for your own brands."
+    },
+    {
+      "start": 748.79,
+      "end": 750.67,
+      "text": "And so I just wanted to talk through a few of these."
+    },
+    {
+      "start": 750.67,
+      "end": 754.85,
+      "text": "So these are some of my favorite sustainable growth tactics I've noticed over the last year."
+    },
+    {
+      "start": 755.07,
+      "end": 760.47,
+      "text": "So the first one is obviously building community over time with quality, consistency and good intentions, right?"
+    },
+    {
+      "start": 760.73,
+      "end": 763.03,
+      "text": "And that's where that head nod comes in."
+    },
+    {
+      "start": 763.27,
+      "end": 769.35,
+      "text": "That's like when you walk past somebody with a USC sweatshirt on and you also went to USC, you say fight on."
+    },
+    {
+      "start": 769.65,
+      "end": 773.93,
+      "text": "Or when Jeep drivers see another Jeep driver, you know, you get that head nod."
+    },
+    {
+      "start": 774.09,
+      "end": 775.39,
+      "text": "All right, I see you, Jeep driver."
+    },
+    {
+      "start": 775.55,
+      "end": 776.47,
+      "text": "We're both Jeep drivers."
+    },
+    {
+      "start": 776.47,
+      "end": 782.41,
+      "text": "Or, you know, when I go to the gym and I see somebody with Viore shorts on or 10,000 shorts on and I'm wearing the same brand."
+    },
+    {
+      "start": 782.53,
+      "end": 784.29,
+      "text": "It's like, all right, I see it."
+    },
+    {
+      "start": 785.03,
+      "end": 787.71,
+      "text": "That's not something you can just pump money into, right?"
+    },
+    {
+      "start": 787.79,
+      "end": 789.33,
+      "text": "That's something that has to happen over time."
+    },
+    {
+      "start": 789.61,
+      "end": 791.89,
+      "text": "The second one is creating content that supports your audience."
+    },
+    {
+      "start": 792.13,
+      "end": 794.23,
+      "text": "So this is what Levels did really well."
+    },
+    {
+      "start": 794.45,
+      "end": 797.49,
+      "text": "They really created content that their audience loved."
+    },
+    {
+      "start": 797.97,
+      "end": 800.25,
+      "text": "And then Levels was always kind of there."
+    },
+    {
+      "start": 800.25,
+      "end": 806.27,
+      "text": "It was there for people to discover while they were enjoying the content that they had put out or after."
+    },
+    {
+      "start": 806.93,
+      "end": 808.39,
+      "text": "Ritual does a great job with this."
+    },
+    {
+      "start": 808.51,
+      "end": 813.55,
+      "text": "Both Levels and Ritual do this on their website, Chamberlain Coffee, which is Emma Chamberlain's coffee company."
+    },
+    {
+      "start": 814.01,
+      "end": 816.13,
+      "text": "Emma Chamberlain is a YouTuber, a creator."
+    },
+    {
+      "start": 816.37,
+      "end": 822.35,
+      "text": "So she kind of does this in her own world or in her own way, which is initially through YouTube and now through her podcast."
+    },
+    {
+      "start": 823.23,
+      "end": 826.29,
+      "text": "Collaborations and partnerships with other brands at the same level."
+    },
+    {
+      "start": 826.47,
+      "end": 828.09,
+      "text": "So this is what I call the pit bull strategy."
+    },
+    {
+      "start": 828.09,
+      "end": 834.43,
+      "text": "If you remember back in the day, and by back in the day, I mean like maybe 10, 12 years ago,"
+    },
+    {
+      "start": 835.09,
+      "end": 838.83,
+      "text": "pit bull got really big because he just started collaborating with a ton of different artists."
+    },
+    {
+      "start": 839.23,
+      "end": 842.91,
+      "text": "And I think that is just a great way to grow, right?"
+    },
+    {
+      "start": 843.03,
+      "end": 846.07,
+      "text": "When you have an audience and you can go to another company and say,"
+    },
+    {
+      "start": 846.15,
+      "end": 847.07,
+      "text": "Hey, we have audiences."
+    },
+    {
+      "start": 847.07,
+      "end": 848.77,
+      "text": "We both have audiences."
+    },
+    {
+      "start": 849.15,
+      "end": 852.55,
+      "text": "Let's create a product together and market it to each other's companies."
+    },
+    {
+      "start": 853.17,
+      "end": 857.21,
+      "text": "You're basically exposing yourself to new audiences and creating something new."
+    },
+    {
+      "start": 858.09,
+      "end": 864.23,
+      "text": "Buy-in from both audiences because their favorite brands are involved in some way, shape or form."
+    },
+    {
+      "start": 865.23,
+      "end": 867.15,
+      "text": "Leveraging existing consumer audiences."
+    },
+    {
+      "start": 867.47,
+      "end": 869.21,
+      "text": "So I think of Product Hunt."
+    },
+    {
+      "start": 869.45,
+      "end": 872.03,
+      "text": "I think of, again, Bodybuilding.com."
+    },
+    {
+      "start": 872.13,
+      "end": 872.75,
+      "text": "I think of Reddit."
+    },
+    {
+      "start": 873.11,
+      "end": 880.07,
+      "text": "These are places that already exist and you're going in and providing value in some way that then brings people back to your company."
+    },
+    {
+      "start": 880.63,
+      "end": 883.45,
+      "text": "A next level referral program to gamify referral."
+    },
+    {
+      "start": 883.73,
+      "end": 885.83,
+      "text": "You know, Clubhouse, I think, did this the best."
+    },
+    {
+      "start": 886.29,
+      "end": 890.45,
+      "text": "And theirs was that you get your name."
+    },
+    {
+      "start": 890.63,
+      "end": 894.51,
+      "text": "If I refer somebody, I get my name on their profile for the rest of time."
+    },
+    {
+      "start": 895.11,
+      "end": 901.09,
+      "text": "That incentivized me to, one, refer people because it caters to vanity."
+    },
+    {
+      "start": 901.75,
+      "end": 910.55,
+      "text": "And the second thing it did is it made sure that the people that I did refer in were super high quality because my reputation is also on the line there, right?"
+    },
+    {
+      "start": 910.67,
+      "end": 911.57,
+      "text": "With my name being there."
+    },
+    {
+      "start": 912.25,
+      "end": 915.21,
+      "text": "Morning Brew did a great job with their referral program for email."
+    },
+    {
+      "start": 915.21,
+      "end": 919.97,
+      "text": "You know, the more referrals you get, the more things you win or the more things you get out of it."
+    },
+    {
+      "start": 920.43,
+      "end": 927.61,
+      "text": "Uber and Dropbox and Dollar Shave Club, obviously, the more people you refer, the more credits you get towards your own usage."
+    },
+    {
+      "start": 928.17,
+      "end": 930.99,
+      "text": "Creating value for consumers through tokens and NFTs."
+    },
+    {
+      "start": 931.23,
+      "end": 932.37,
+      "text": "This is really interesting."
+    },
+    {
+      "start": 933.03,
+      "end": 939.51,
+      "text": "You know, I think these YouTubers, Full Send, or sorry, the Nelk boys, their brand is called Full Send."
+    },
+    {
+      "start": 939.83,
+      "end": 944.65,
+      "text": "And they did a really great job of this where, so you buy into the token, right?"
+    },
+    {
+      "start": 944.65,
+      "end": 952.51,
+      "text": "And if you use something like Novel.com, you can actually give the token because the cost of token creation is much cheaper with Novel."
+    },
+    {
+      "start": 952.83,
+      "end": 957.01,
+      "text": "Or in Liquid Death's case, you bought into the token, it was like a couple hundred bucks."
+    },
+    {
+      "start": 957.35,
+      "end": 965.05,
+      "text": "As the brand does well, the token holders also benefit because the value of their own token goes up."
+    },
+    {
+      "start": 965.21,
+      "end": 970.11,
+      "text": "So you might buy something for, let's say, $200, $100 to buy in."
+    },
+    {
+      "start": 970.11,
+      "end": 974.47,
+      "text": "But then over time, that could be worth $1,000 or $2,000."
+    },
+    {
+      "start": 974.69,
+      "end": 985.81,
+      "text": "There's something where I'm now bought in and it's in my best interest to make sure that every opportunity I get as a consumer or a fan of the brand, I do what's best for the brand."
+    },
+    {
+      "start": 985.81,
+      "end": 994.83,
+      "text": "So sometimes that might mean like going to, when I go to Target and I see Liquid Death in the fridges, I'm going to make sure I turn the can so that it's merchandised beautifully."
+    },
+    {
+      "start": 995.01,
+      "end": 998.75,
+      "text": "Or I might pick up a can to, you know, get Target to get that scan through."
+    },
+    {
+      "start": 999.19,
+      "end": 1002.35,
+      "text": "But anyways, it's just another thing that I think caters to it."
+    },
+    {
+      "start": 1003.03,
+      "end": 1005.33,
+      "text": "The next one is viral stunts that turn heads."
+    },
+    {
+      "start": 1005.33,
+      "end": 1010.65,
+      "text": "So Last Crumb did this with their extremely expensive cookie box."
+    },
+    {
+      "start": 1010.99,
+      "end": 1013.21,
+      "text": "Skims does this with their campaigns, right?"
+    },
+    {
+      "start": 1013.41,
+      "end": 1015.81,
+      "text": "Just getting iconic people from different generations."
+    },
+    {
+      "start": 1016.53,
+      "end": 1019.77,
+      "text": "Feastables did this with Mr. Beast and his YouTube channel."
+    },
+    {
+      "start": 1019.95,
+      "end": 1026.73,
+      "text": "You know, he's giving away a chocolate factory to one person out of which 10 people will come and compete for it."
+    },
+    {
+      "start": 1026.73,
+      "end": 1039.83,
+      "text": "But it's just very creative, very out of the box thinking that you, again, like with all of these things, you just can't pay a consultant or pay some ads platform to do this, right?"
+    },
+    {
+      "start": 1040.73,
+      "end": 1042.31,
+      "text": "The next one is smarter financing."
+    },
+    {
+      "start": 1042.55,
+      "end": 1046.59,
+      "text": "This is getting a little bit more tactical, but this is using a company like Wayflyer."
+    },
+    {
+      "start": 1046.69,
+      "end": 1052.91,
+      "text": "With Wayflyer, you can hook them up to your Shopify and they might say, all right, you're doing X amount of dollars."
+    },
+    {
+      "start": 1052.91,
+      "end": 1054.17,
+      "text": "We're going to loan you Y."
+    },
+    {
+      "start": 1054.17,
+      "end": 1060.83,
+      "text": "So, you know, a portfolio company of mine was doing probably a million to a million and a half a month."
+    },
+    {
+      "start": 1061.21,
+      "end": 1063.69,
+      "text": "Wayflyer said, you have great payback periods."
+    },
+    {
+      "start": 1063.87,
+      "end": 1065.29,
+      "text": "You're running ads efficiently."
+    },
+    {
+      "start": 1065.61,
+      "end": 1066.83,
+      "text": "Here's a million dollars."
+    },
+    {
+      "start": 1067.07,
+      "end": 1069.85,
+      "text": "We're going to charge you a very small interest fee."
+    },
+    {
+      "start": 1070.05,
+      "end": 1071.47,
+      "text": "I don't remember the exact number."
+    },
+    {
+      "start": 1071.63,
+      "end": 1072.83,
+      "text": "I want to say it was less than 2%."
+    },
+    {
+      "start": 1073.59,
+      "end": 1078.65,
+      "text": "We're going to charge you a very small interest fee to use our money and then pay us back over time."
+    },
+    {
+      "start": 1078.91,
+      "end": 1083.63,
+      "text": "The second example here is the Jeeves credit card, which gives you cash back on ad spend."
+    },
+    {
+      "start": 1083.63,
+      "end": 1086.99,
+      "text": "And I think 30 or 60 days to pay back the card."
+    },
+    {
+      "start": 1087.19,
+      "end": 1091.83,
+      "text": "So there's different ways to use your money in a smarter way with these different platforms."
+    },
+    {
+      "start": 1092.67,
+      "end": 1093.79,
+      "text": "Earned media finesse."
+    },
+    {
+      "start": 1094.07,
+      "end": 1095.77,
+      "text": "You know, I put House, Brightland and Judy."
+    },
+    {
+      "start": 1096.03,
+      "end": 1103.15,
+      "text": "You cannot Google these brands without seeing just a ton of press, a ton of earned media, a ton of reviews, a ton of content."
+    },
+    {
+      "start": 1103.15,
+      "end": 1107.91,
+      "text": "And these brands just did an incredible job with press distribution."
+    },
+    {
+      "start": 1108.57,
+      "end": 1115.41,
+      "text": "There's alternative distribution, which in my mind, I'm thinking more B2B, wholesale, retail partnerships."
+    },
+    {
+      "start": 1115.89,
+      "end": 1119.05,
+      "text": "So Kind Bars and offices, Hint Waters and offices."
+    },
+    {
+      "start": 1119.85,
+      "end": 1123.21,
+      "text": "Brightland is in, you know, Sweetgreen and Lava restaurants."
+    },
+    {
+      "start": 1123.21,
+      "end": 1130.65,
+      "text": "And, you know, these are just channels that are not traditional to us as e-commerce folks."
+    },
+    {
+      "start": 1130.89,
+      "end": 1138.17,
+      "text": "But they can add a huge chunk of revenue without kind of relying on is Facebook ads working today?"
+    },
+    {
+      "start": 1138.45,
+      "end": 1140.65,
+      "text": "You know, is my ad account going to get disabled?"
+    },
+    {
+      "start": 1140.65,
+      "end": 1145.19,
+      "text": "I truly love like the wholesale and especially the B2B stuff."
+    },
+    {
+      "start": 1145.33,
+      "end": 1149.27,
+      "text": "The B2B stuff is there's big, big, big POs that come in that way."
+    },
+    {
+      "start": 1149.91,
+      "end": 1151.91,
+      "text": "Creating content to an existing audience."
+    },
+    {
+      "start": 1152.19,
+      "end": 1157.23,
+      "text": "So Milk Bar does a great job, you know, jumping on Netflix with their founder."
+    },
+    {
+      "start": 1157.53,
+      "end": 1162.59,
+      "text": "I believe Christina Tosi and walking people through that Milk Bar experience."
+    },
+    {
+      "start": 1162.95,
+      "end": 1164.87,
+      "text": "Loverboy Spritz is another one."
+    },
+    {
+      "start": 1165.03,
+      "end": 1169.51,
+      "text": "That is where, you know, Kyle Cook is on a Bravo TV show."
+    },
+    {
+      "start": 1169.51,
+      "end": 1173.87,
+      "text": "So both these companies or both these brands are using platforms."
+    },
+    {
+      "start": 1174.11,
+      "end": 1180.15,
+      "text": "One is Bravo, one is Netflix to show what they have or gain distribution."
+    },
+    {
+      "start": 1181.11,
+      "end": 1183.81,
+      "text": "And the last one that I put here is building FOMO."
+    },
+    {
+      "start": 1184.19,
+      "end": 1188.11,
+      "text": "I actually think in general, every brand, especially when they launch,"
+    },
+    {
+      "start": 1188.41,
+      "end": 1190.47,
+      "text": "their entire goal should be to build FOMO, right?"
+    },
+    {
+      "start": 1190.65,
+      "end": 1191.63,
+      "text": "How do I get that?"
+    },
+    {
+      "start": 1191.75,
+      "end": 1195.37,
+      "text": "Or how do you make me want to try it as a consumer?"
+    },
+    {
+      "start": 1195.59,
+      "end": 1196.57,
+      "text": "At least driving trial."
+    },
+    {
+      "start": 1196.57,
+      "end": 1199.97,
+      "text": "So, you know, Coinbase did a great job with this at the Super Bowl."
+    },
+    {
+      "start": 1200.11,
+      "end": 1202.39,
+      "text": "You probably remember that QR code that was floating everywhere."
+    },
+    {
+      "start": 1203.05,
+      "end": 1204.81,
+      "text": "Nugs, which is plant-based chicken nuggets."
+    },
+    {
+      "start": 1205.03,
+      "end": 1207.13,
+      "text": "They do a great job of this with their drops."
+    },
+    {
+      "start": 1207.43,
+      "end": 1209.35,
+      "text": "And obviously, Mad Happy does this too."
+    },
+    {
+      "start": 1209.63,
+      "end": 1214.03,
+      "text": "You know, sometimes you can go to a Mad Happy site and five minutes after a collection drops,"
+    },
+    {
+      "start": 1214.15,
+      "end": 1215.05,
+      "text": "it's no longer available."
+    },
+    {
+      "start": 1215.37,
+      "end": 1218.63,
+      "text": "This is also why Last Crumb, which I mentioned earlier, does so well."
+    },
+    {
+      "start": 1218.81,
+      "end": 1222.05,
+      "text": "They'll sell thousands of cookies in a matter of minutes."
+    },
+    {
+      "start": 1222.05,
+      "end": 1230.41,
+      "text": "But if you think about all of the sustainable distribution levers, they all involve content"
+    },
+    {
+      "start": 1230.41,
+      "end": 1231.69,
+      "text": "creation, right?"
+    },
+    {
+      "start": 1231.87,
+      "end": 1237.37,
+      "text": "And content creation almost replaces the need to constantly run ads when it's done right."
+    },
+    {
+      "start": 1237.37,
+      "end": 1242.77,
+      "text": "The beauty of content creation is it does a great job getting new customers into your"
+    },
+    {
+      "start": 1242.77,
+      "end": 1245.09,
+      "text": "funnels or into your ecosystem."
+    },
+    {
+      "start": 1245.55,
+      "end": 1251.19,
+      "text": "But it also keeps reminding your retained customers and your existing customers why they"
+    },
+    {
+      "start": 1251.19,
+      "end": 1252.39,
+      "text": "came to you in the first place."
+    },
+    {
+      "start": 1252.57,
+      "end": 1258.73,
+      "text": "A great example of this too recently was a friend of mine who was running paid media acquisition"
+    },
+    {
+      "start": 1258.73,
+      "end": 1263.19,
+      "text": "on TikTok, had a TikTok with a few million views, tons of great engagement."
+    },
+    {
+      "start": 1263.19,
+      "end": 1266.39,
+      "text": "It stopped performing when it, you know, going to new customers."
+    },
+    {
+      "start": 1266.65,
+      "end": 1271.81,
+      "text": "And my suggestion was go ahead and take that, run it to your lapsed subscribers, people who"
+    },
+    {
+      "start": 1271.81,
+      "end": 1276.01,
+      "text": "were customers or were subscribers, but haven't made a purchase in the last 90 days."
+    },
+    {
+      "start": 1276.21,
+      "end": 1280.19,
+      "text": "Let's remind them again why they were a customer in the first place."
+    },
+    {
+      "start": 1280.37,
+      "end": 1283.37,
+      "text": "See if we can re-engage them and bring them back into your ecosystem."
+    },
+    {
+      "start": 1284.27,
+      "end": 1291.17,
+      "text": "And what the sustainable customer acquisition does at the end of the day is it creates"
+    },
+    {
+      "start": 1291.17,
+      "end": 1292.27,
+      "text": "passionate customers."
+    },
+    {
+      "start": 1293.19,
+      "end": 1298.71,
+      "text": "When you think of brands that just run Facebook ads, you don't really think of passionate customers,"
+    },
+    {
+      "start": 1299.33,
+      "end": 1305.49,
+      "text": "but the brands that have a lot of content between them, I think of Parade, I think of Mad"
+    },
+    {
+      "start": 1305.49,
+      "end": 1310.57,
+      "text": "Happy, I think of Feastables even, I think of Chamberlain Coffee."
+    },
+    {
+      "start": 1311.13,
+      "end": 1315.43,
+      "text": "These customers create just passionate, or these brands, sorry, create passionate customers."
+    },
+    {
+      "start": 1315.69,
+      "end": 1317.79,
+      "text": "And so you get four things out of it, right?"
+    },
+    {
+      "start": 1317.79,
+      "end": 1322.45,
+      "text": "You get that head nod effect where people, customers themselves kind of relate to each"
+    },
+    {
+      "start": 1322.45,
+      "end": 1322.67,
+      "text": "other."
+    },
+    {
+      "start": 1322.79,
+      "end": 1324.57,
+      "text": "And that's sometimes called community."
+    },
+    {
+      "start": 1325.01,
+      "end": 1330.97,
+      "text": "You get this high quality reviews, feedback, user-generated content and earned media out"
+    },
+    {
+      "start": 1330.97,
+      "end": 1331.55,
+      "text": "of your customers."
+    },
+    {
+      "start": 1331.75,
+      "end": 1336.63,
+      "text": "You get advocacy and evangelism, and you also get purchases with purpose."
+    },
+    {
+      "start": 1336.63,
+      "end": 1342.53,
+      "text": "So people know exactly why they're buying the products and what role that product plays in"
+    },
+    {
+      "start": 1342.53,
+      "end": 1343.17,
+      "text": "their own life."
+    },
+    {
+      "start": 1343.17,
+      "end": 1346.51,
+      "text": "So I think that's a good thing."
+    },
+    {
+      "start": 1347.29,
+      "end": 1353.95,
+      "text": "is, hopefully you have an iPhone. How mad do you get when somebody says Android is good? Or"
+    },
+    {
+      "start": 1353.95,
+      "end": 1359.93,
+      "text": "how much do you laugh in somebody's face when they have a green text bubble? That's called"
+    },
+    {
+      "start": 1359.93,
+      "end": 1366.21,
+      "text": "advocacy and evangelism. So the punchline of this presentation, one is get addicted to"
+    },
+    {
+      "start": 1366.21,
+      "end": 1372.73,
+      "text": "sustainable growth. We love paid media growth because it's easy. You see the dashboard right"
+    },
+    {
+      "start": 1372.73,
+      "end": 1377.07,
+      "text": "there. It's not easy in the sense that it always works, but it's easy in the sense that"
+    },
+    {
+      "start": 1377.07,
+      "end": 1382.67,
+      "text": "your dashboards are already built for you, dollars in, there's some result, right? It's very quick and"
+    },
+    {
+      "start": 1382.67,
+      "end": 1387.65,
+      "text": "transactional. But if you can get addicted to sustainable growth, then you'll be in a much"
+    },
+    {
+      "start": 1387.65,
+      "end": 1393.23,
+      "text": "better position long-term. Second is build features and create content to reach new audiences. So"
+    },
+    {
+      "start": 1393.95,
+      "end": 1400.55,
+      "text": "don't just run the same thing or don't just do... I always like to say, don't just do what everybody"
+    },
+    {
+      "start": 1400.55,
+      "end": 1406.57,
+      "text": "else is doing. Try to think kind of outside the box. Maybe you can run a lifetime subscription for"
+    },
+    {
+      "start": 1406.57,
+      "end": 1411.01,
+      "text": "$20,000 and maybe nobody's going to buy it, but people will definitely turn heads."
+    },
+    {
+      "start": 1411.61,
+      "end": 1418.51,
+      "text": "And the last one is aim to amass passionate repeat customers. So people that are truly passionate about"
+    },
+    {
+      "start": 1418.51,
+      "end": 1426.83,
+      "text": "the products that you're putting out there and who really benefit from the products you create,"
+    },
+    {
+      "start": 1426.83,
+      "end": 1431.43,
+      "text": "but also then those are the customers that are going to go tell their friends and their parents"
+    },
+    {
+      "start": 1431.43,
+      "end": 1438.51,
+      "text": "and everybody around them about what you have. This I always like to include. This gets a lot"
+    },
+    {
+      "start": 1438.51,
+      "end": 1445.23,
+      "text": "of good feedback. So this is what we use at Sharma Brands with our brands for a world-class technology"
+    },
+    {
+      "start": 1445.23,
+      "end": 1451.59,
+      "text": "stack. The only one here that might not be familiar is Hooks and that's Hooks.co. That's a new"
+    },
+    {
+      "start": 1451.59,
+      "end": 1460.57,
+      "text": "landing pages service. And that's it. That's all for me today. I will be in the Q\u0026A chat and every"
+    },
+    {
+      "start": 1460.57,
+      "end": 1466.89,
+      "text": "Sunday I send an email. It's about 26,000 people who read it. So I hope you join it and I hope I"
+    },
+    {
+      "start": 1466.89,
+      "end": 1472.45,
+      "text": "will see you soon. Thank you. Thanks for tuning in. We'll be back next time to cut through the noise"
+    },
+    {
+      "start": 1472.45,
+      "end": 1477.83,
+      "text": "in CPG, retail, and e-commerce. And if you enjoyed this episode, then why not share it with a friend"
+    },
+    {
+      "start": 1477.83,
+      "end": 1481.49,
+      "text": "and be sure to subscribe on whatever platform you listen to your podcasts on."
+    }
+  ]
+}
