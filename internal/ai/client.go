@@ -6,6 +6,7 @@ import (
 	"sync"
 
 	"github.com/anthropics/anthropic-sdk-go"
+	"github.com/anthropics/anthropic-sdk-go/option"
 )
 
 var (
@@ -20,25 +21,56 @@ func Client() anthropic.Client {
 	return shared
 }
 
+// Usage describes the token accounting returned by a completion. It mirrors
+// the fields the SDK exposes so callers don't need to import the SDK to log
+// or price a call.
+type Usage struct {
+	Model               string
+	InputTokens         int64
+	CacheCreationTokens int64 // cache write (5m TTL with current settings)
+	CacheReadTokens     int64
+	OutputTokens        int64
+}
+
 // Completer turns (system, user) into model output. Stages depend on this
 // interface, not the SDK directly, so tests can swap in a fake.
 type Completer interface {
-	Complete(ctx context.Context, systemPrompt, userText string) (string, error)
+	Complete(ctx context.Context, systemPrompt, userText string) (string, Usage, error)
+}
+
+// Option mutates a sdkCompleter's behavior at construction time.
+type Option func(*sdkCompleter)
+
+// WithLongContext enables Anthropic's 1M-context beta. Required when the
+// system prompt + user message will exceed 200K tokens.
+func WithLongContext() Option {
+	return func(c *sdkCompleter) { c.longContext = true }
 }
 
 type sdkCompleter struct {
-	client    anthropic.Client
-	model     anthropic.Model
-	maxTokens int64
+	client      anthropic.Client
+	model       anthropic.Model
+	maxTokens   int64
+	longContext bool
 }
 
 // NewCompleter returns a Completer backed by the Anthropic SDK with prompt
-// caching enabled on the system block.
-func NewCompleter(model anthropic.Model, maxTokens int64) Completer {
-	return &sdkCompleter{client: Client(), model: model, maxTokens: maxTokens}
+// caching enabled on the system block. Pass WithLongContext() to allow >200K
+// token prompts.
+func NewCompleter(model anthropic.Model, maxTokens int64, opts ...Option) Completer {
+	c := &sdkCompleter{client: Client(), model: model, maxTokens: maxTokens}
+	for _, o := range opts {
+		o(c)
+	}
+	return c
 }
 
-func (c *sdkCompleter) Complete(ctx context.Context, systemPrompt, userText string) (string, error) {
+func (c *sdkCompleter) Complete(ctx context.Context, systemPrompt, userText string) (string, Usage, error) {
+	var reqOpts []option.RequestOption
+	if c.longContext {
+		reqOpts = append(reqOpts, option.WithHeaderAdd("anthropic-beta", string(anthropic.AnthropicBetaContext1m2025_08_07)))
+	}
+
 	stream := c.client.Messages.NewStreaming(ctx, anthropic.MessageNewParams{
 		Model:     c.model,
 		MaxTokens: c.maxTokens,
@@ -49,17 +81,27 @@ func (c *sdkCompleter) Complete(ctx context.Context, systemPrompt, userText stri
 		Messages: []anthropic.MessageParam{
 			anthropic.NewUserMessage(anthropic.NewTextBlock(userText)),
 		},
-	})
+	}, reqOpts...)
+
 	msg := anthropic.Message{}
 	for stream.Next() {
 		event := stream.Current()
 		if err := msg.Accumulate(event); err != nil {
-			return "", err
+			return "", Usage{}, err
 		}
 	}
 	if err := stream.Err(); err != nil {
-		return "", err
+		return "", Usage{}, err
 	}
+
+	usage := Usage{
+		Model:               string(c.model),
+		InputTokens:         msg.Usage.InputTokens,
+		CacheCreationTokens: msg.Usage.CacheCreationInputTokens,
+		CacheReadTokens:     msg.Usage.CacheReadInputTokens,
+		OutputTokens:        msg.Usage.OutputTokens,
+	}
+
 	var out string
 	for _, b := range msg.Content {
 		if b.Type == "text" {
@@ -67,10 +109,10 @@ func (c *sdkCompleter) Complete(ctx context.Context, systemPrompt, userText stri
 		}
 	}
 	if msg.StopReason == anthropic.StopReasonMaxTokens {
-		return out, fmt.Errorf("hit max_tokens (%d) before stop", c.maxTokens)
+		return out, usage, fmt.Errorf("hit max_tokens (%d) before stop", c.maxTokens)
 	}
 	if out == "" {
-		return "", fmt.Errorf("empty response from %s", c.model)
+		return "", usage, fmt.Errorf("empty response from %s", c.model)
 	}
-	return out, nil
+	return out, usage, nil
 }

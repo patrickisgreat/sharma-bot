@@ -1,0 +1,53 @@
+# Limited Supply Episode 3, Season 6
+
+The conversation begins with a discussion about charity-focused business ideas. One host was inspired by Charity Water, which ensures 100% of donations go to building water wells worldwide, and started thinking about how to create similar charitable mechanisms in the capitalist world for direct-to-consumer brands.
+
+The concept explored is a universal app that would work across multiple brands—both large corporations and smaller DTC companies doing under a billion dollars in revenue. The idea is that when someone purchases a product from any brand on the platform, they earn small amounts of money that can be aggregated and donated to charitable causes. For example, buying mascara from Rare Beauty or deodorant from Native would earn fractional amounts like 25 cents per purchase. Once accumulated to a dollar, the customer could choose to donate to causes like building wells in Africa, seeing direct impact of their contribution.
+
+This differs from existing systems like Box Tops or Charity Water's current model, where there's no real transparency or validation that promised charitable contributions actually happen for smaller brands. The host notes that thousands of businesses claim they'll give away 1% or 10% of net profits, but there's no way to verify these claims until they go public or file for bankruptcy.
+
+Companies like Fetch Rewards currently exist but only work with major corporations like Pepsi, General Mills, and Colgate. The proposed app would fill the gap in the DTC space. The first company that could implement this overnight would probably be the Shop App, which already has infrastructure connecting multiple brands.
+
+The co-host appreciates the network effects argument—that having one universal app creates a moat where brands need to be on it to participate, and users benefit from aggregating rewards across multiple purchases. However, he expresses skepticism about whether the amounts are meaningful enough to influence purchase decisions. He questions whether a customer would choose Rare Beauty over L'Oreal for an extra 50 cents in charitable donations when the average order value is $80.
+
+The conversation shifts to examining Box Tops' history. The program started in 1996 with General Mills placing small rectangles on cereal boxes worth 10 cents each that kids could take to school for donations. In 2019, Box Tops launched an app to digitize the process through receipt scanning. However, privacy concerns caused redemptions to drop by a third initially, then by 90%, devastating school funding that had previously received $14,000 to just a few hundred dollars.
+
+This demonstrates the challenge of getting consumers to participate in digital loyalty programs, even when they're easier than the original process. Similar programs existed from Kellogg's, Pampers, and other major brands, functioning as both tax write-offs and brand-building exercises.
+
+The second major topic is whether Showfields and similar retail pop-up platforms are worth the investment. Showfields operated retail spaces in NoHo and other locations, charging brands $20,000 to $30,000 per month for small 4x5 or 6x8 foot spaces. The pitch was that it provided retail presence, analytics, and brand visibility without requiring full retail buildout.
+
+The host created a checklist for founders evaluating such opportunities. First, compare the cost to doing it yourself—renting a space in the West Village might cost $15,000-$20,000 with more control. Second, calculate estimated customer acquisition cost. For Showfields, this was essentially infinite or zero, as there was no clear connection between space rental and actual sales.
+
+Third, determine if people coming into the space want to see your specific product or are just foot traffic. Fourth, evaluate destination synergy—whether other brands in the space complement yours. Showfields had a tattoo company next to a dog food company next to a water bottle company, with no coherent strategy. Fifth, assess content opportunities. Eight Sleep succeeded partly because investors could come feel the mattress, providing media and investor relations value. Finally, determine if there's any evidence the space will drive revenue.
+
+Showfields ultimately filed for bankruptcy owing approximately ten million dollars. Major creditors included not just property managers but also payroll providers and event photographers, suggesting they were throwing constant events trying to drive traffic and create visual appeal.
+
+The host contrasts this with Aesop, which operates successful physical spaces by focusing on genuine foot traffic, velocity, trained staff selling products, and events that align with their audience. Aesop became a retail destination because they executed retail fundamentals well, not because they had beautiful spaces.
+
+The conversation then addresses Google's new pricing transparency initiative. Google is implementing a system similar to Amazon and Honey that shows customers whether they've previously seen a product at a lower price. For example, if a brand runs a 40% off sale and then returns to regular pricing, Google Shopping will flag that the price has increased from the recent discount.
+
+This creates a challenge for brands because Google can scrape pricing information from emails, website scripts, and other sources to detect sales. The host created a workaround—a Google Form link (nick.co/price-deez-nuts) where brands can opt out and have their pricing transparency removed from Google's comparison tools.
+
+The host predicts this will become a larger conversation, particularly in light of FTC actions against Amazon. The FTC is challenging Amazon's practice of hiding the buy box for products that are cheaper elsewhere online, which prevents brands from pricing differently across channels. If the FTC wins, brands might be able to maintain different prices on different platforms, which could reshape how price transparency functions across e-commerce.
+
+The discussion moves to broader brand awareness strategies for smaller DTC companies. Creating organic content on platforms like TikTok, YouTube Shorts, and Instagram Reels is essential. Collaborating with complementary brands through package inserts and email swaps can introduce products to new audiences without being brand-dilutive—seeing a Native deodorant offer in a Jolly package doesn't diminish either brand.
+
+In-person events are a major low-hanging fruit. Outdoor Voices and Jolly's founder Tay Haney hosts running meetups in various cities that generate organic content from participants. A one-hour event might produce 50-60 pieces of social content with substantial reach, costing essentially nothing. Running is free to organize, and brands often donate products for giveaways.
+
+Media outreach through personalized pitches to editors yields surprising results. Even a 5% response rate from editors can lead to coverage. Contest mechanics work particularly well when they offer something genuinely desirable and hard to obtain. One brand successfully ran a contest to win a pimped-out Ford Bronco, combining product sales with email collection through Facebook ads. Feastables and Prime Now use similar mechanics with product purchases as contest entries.
+
+Educational content that goes deep into ingredients and benefits creates better customer relationships than surface-level marketing. Creating a brand as a media property—similar to how Equinox's lobby screens are sponsored by American Express—offers another avenue for building audience value.
+
+The co-host notes that many of these strategies require significant effort but are being executed successfully by some brands. Ancient Nutrition has built a content empire by creating comprehensive blog posts that rank for informational searches, then retargeting readers with product ads. However, he notes that the truly difficult part is not just acquiring emails but ensuring those customers convert later, not just becoming worthless contest entrants.
+
+The conversation concludes with a focus on email infrastructure for new DTC launches. The host identifies a critical miss made by a brand that worked with a branding agency instead of optimization experts: they launched without Klaviyo installed, meaning no welcome pop-up or email flows were capturing leads.
+
+Three emails should be live at launch. First is the order receipt, customized within Shopify's template to include compelling copy. Second is a pop-up to capture emails from site visitors, with a reasonable expectation of 10% conversion. Third is a welcome series positioning the brand like a Shark Tank pitch compressed into emails.
+
+The recommended five-email welcome series works as follows: introduce yourself to the customer with why people love the brand and how it benefits them; introduce yourself to their parents with deeper information on what makes the product special, including studies or claims; highlight the most hyped product with explanation of both what it does and how it works; showcase social proof through reviews and user-generated content; and finally, a killer offer email on the most well-known product. For brands with retail distribution, a sixth email directs customers to find them in stores like Target or Nordstrom, acknowledging that some people hesitate to buy online without retail validation.
+
+The co-host shares skepticism about email capture, noting that Ryan at Jolly deliberately doesn't run welcome flows or collect emails, instead relying on organic sharing and word-of-mouth. This unconventional approach works for Jolly, suggesting that founder strategy varies significantly. He compares this to Jeff Bezos's philosophy at Amazon, where the company sends only transactional emails and never promotional ones, yet remains the dominant e-commerce platform.
+
+He expresses frustration with websites that don't guide customers toward bestsellers or most popular products. Furniture retailers and clothing brands often present thousands of SKUs with no curation, forcing customers to make decisions without guidance. He notes this might be particularly a male consumer behavior—wanting validation that a choice is correct before purchase.
+
+For Black Friday shopping, the hosts plan to visit Lululemon, Hoka shoes, and Jolly, though the latter experienced a recent loyalty program redesign that felt punitive to redemption. One host also mentions preference for organic clothing brand Big Favorite and concerns about water usage in textile dyes, reflecting growing consumer consciousness about supply chain impacts beyond just price.

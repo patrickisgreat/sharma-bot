@@ -1,0 +1,53 @@
+# Limited Supply Podcast - Season 2 Episode Transcript
+
+The role of the CEO is always that you're responsible for everything, period. There's no excuses. There's no delegating. You're ultimately responsible for every single part of the business. That doesn't mean you literally do everything with your hands. So you have to decide where to invest your time and your energies. Where do you have a comparative advantage and what's most important asymmetrically create upside or downside. So you want to be filtering what you do. But fundamentally, there are no excuses.
+
+Nick and Moyes welcomed Keith Rabois, the former executive at PayPal, Square, Slide, LinkedIn, and current CEO of OpenStore, as their second guest on the podcast. Keith discussed his approach to identifying and investing in ambitious founders and companies.
+
+When asked about his investment criteria, Keith explained that roughly half of his VC friends should think his investments are ridiculous and laugh, which serves as a good filter for taking enough risk and seeing things others miss. He prefers investing as early as possible based on the founding team and business potential, with minimal diligence at the seed stage. The only thing he really cares about is assessing the talent and caliber of founders.
+
+Keith shared a story about when Delian, his chief of staff at Kostla Ventures, convinced him to invest in a world-class founder despite technical doubts, reinforcing his principle that finding exceptional founders in big opportunities should be the primary focus.
+
+When discussing his experience working with visionary leaders like Elon Musk and Jack Dorsey, Keith noted that Jack's unique strength lies in being simultaneously a world-class business mind, technical mind, and design mind—a rare combination. He also reflected on Max Levchin from PayPal, describing him as one of only a few people in Silicon Valley who possessed both first-rate business and technical abilities.
+
+Regarding his management philosophy, Keith emphasized that the most important element is hiring amazing people so you don't have to become excellent at management itself. He believes in promoting people based on discipline and craft excellence rather than general management ability, following a principle Peter Thiel taught him at PayPal. He enjoys recruiting, assessing, and working closely with exceptional talent through brainstorming and idea remixing, but views actual management as mostly an error correction model rather than something to optimize.
+
+Keith stressed the importance of clarity in organizations, advocating for transparency, dashboards displaying progress against core goals, and regular company meetings to ensure everyone understands the business equation and can make aligned decisions. He also referenced Andy Grove's high output management concept about distinguishing between capability gaps and motivation gaps.
+
+OpenStore provides instant liquidity to long-tail Shopify owners with one to ten million in annual GMV. The company acquires these small direct-to-consumer businesses, absorbs them, and stitches them together into a horizontally broad e-commerce platform. Jack Abraham from Atomic pitched Keith the idea in December 2020, noting that small Shopify businesses lacked access to capital, cutting-edge technology, and economies of scale. Keith serves as CEO and has built the company to around 110 employees based in Miami.
+
+Keith explained that his role as CEO involves responsibility for everything—fundraising, team development, strategy, and problem-solving across all organizational seams. He described the CEO role as refreshing and challenging because it's constantly evolving.
+
+Regarding acquisition structure, OpenStore employs roughly one hundred to ten people organized into functional units including marketing for customer acquisition and retention, procurement and demand forecasting, and customer support across all acquired brands. The company targets acquiring more than one business per week in Q4, though prior quarters were slightly slower. They've purchased approximately forty businesses with about twenty in various stages of diligence.
+
+When asked about synergies across acquired businesses, Keith indicated they find insights that might be applied but rarely encounter true synergies, aligning with Warren Buffett's perspective. The short-term goal after acquisition is to improve performance through increased marketing investment for capital-constrained businesses, negotiate better shipping rates, add new channels like influencer marketing, and develop native apps that small businesses couldn't afford independently.
+
+Keith acknowledged that their first three to seven acquired brands performed poorly because OpenStore lacked operational expertise and proper integration processes. However, by March 2022, they built a sophisticated operations team, and performance has improved significantly by cohort. The first cohort looks bad, the second mediocre, the third decent, and the fourth cohort looks quite good.
+
+On financial matters, Keith revealed that approximately seventy percent of customer acquisition comes from Instagram and Facebook ads, with only very few exceptions among their brands. They're exploring other channels including native app development, with plans to match long-tail influencers with long-tail SKUs across platforms like Instagram and TikTok.
+
+When asked about key learnings entering e-commerce, Keith noted that these businesses have surprisingly large margins—higher than he would have guessed. Additionally, operations proved much harder than anticipated, particularly around specific acute challenges they're finally addressing. He also learned that while there are 1.7 million Shopify businesses under ten million in revenue, many are sub-one hundred thousand in revenue, making reaching five hundred K to ten million a significant achievement.
+
+Regarding growth metrics, Keith mentioned that none of their year-old businesses have achieved five times revenue growth, which is intentional. Unlike venture capital's focus on power law outcomes, OpenStore aims for consistent, accurate growth across all brands. They've shut down only one brand due to fundamental issues like chargebacks and returns, maintaining all other brands and continuously investing in them.
+
+On valuation, Keith shared that the average multiple paid across fifty businesses is approximately two times EBITDA. These multiples have fluctuated slightly, being higher about a year ago, then declining before rising again recently. However, Keith emphasized this isn't the primary model they use for evaluation.
+
+OpenStore finances acquisitions through a combination of equity and debt, with approximately one hundred fifty-five million raised across multiple rounds. They've recently upgraded their debt line and expect to use increasingly more debt going forward, ideally approaching eighty-twenty equity to debt ratios similar to OpenDoor. The debt typically floats off LIBOR.
+
+Keith expressed skepticism about directly building software for external use in the short term, instead focusing on two key goals: acquiring and absorbing more brands successfully while running them flawlessly, and stitching them together as a decentralized department store for inspired discovery rather than utilitarian search. He noted that e-commerce represents only about twelve percent of US retail and is flatlining because serendipitous discovery accounts for most purchases in the real world.
+
+On general e-commerce observations, Keith indicated that most e-commerce businesses are fairly valued, though he sees potential undervaluation in Shopify. He believes best-case direct-to-consumer brands should be valued at approximately one times revenue. He noted surprise at high gross margins in e-commerce, typically fifty to sixty percent, though contribution margins vary considerably based on marketing effectiveness.
+
+When acquiring businesses, Keith found that about thirty percent of founders underinvest in customer acquisition, fifty percent triangulate correctly on CAC payback, and twenty to thirty percent overspend on marketing. Shipping costs present another significant opportunity for improvement through economies of scale and distribution center optimization.
+
+Keith shared that OpenStore's vision is to eventually become a public company to provide permanent value, improve access to capital on better terms, and ensure long-term persistence. The company uses a proprietary underwriting equation that Keith developed at three in the morning to value businesses, combining operating business value with inventory assessment.
+
+When discussing management of multiple responsibilities, Keith emphasized hiring five to six key functional deputies—people who are world-class in their specific disciplines. OpenStore consumes approximately fifty percent of his time currently, with the remainder split between board responsibilities, one-on-ones with other CEOs, new investment pitches, and Founders Fund activities.
+
+On investment philosophy, Keith filters opportunities by impact potential. His primary excitement comes from identifying undiscovered talent with non-zero probability of changing the world and providing advice, money, and fuel to increase their success probability. He specifically mentioned Thinkfair as a phenomenal business with compelling value proposition, connecting long-tail brands with long-tail retailers, which he's backed since 2015.
+
+When asked what he looks for in founders pitching him, Keith emphasized discovering world-class talent in big opportunities, as that's his primary focus. He's less interested in flawless business plans and more interested in identifying founders with exceptional capabilities and hunger for ambitious goals.
+
+Regarding key performance indicators, Keith explained his preference for gross margin and contribution margin over EBITDA. Venture investors can never invest in positive EBITDA businesses at early stages, making EBITDA analysis irrelevant for venture funding. More importantly, intermediate metrics like contribution margin reveal the actual business levers that can be pulled for improvement. EBITDA represents a synthesized bottom-line number that doesn't indicate which operational changes might help. Peter Thiel taught Keith that increasing EBITDA signals a company has no growth or innovation remaining.
+
+Keith concluded by inviting e-commerce and direct-to-consumer founders running Shopify stores who don't want to operate forever to visit openstore.com or email him directly at keith@foundersfund.com to explore immediate liquidity options.

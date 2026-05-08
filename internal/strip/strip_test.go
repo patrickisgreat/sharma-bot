@@ -24,14 +24,14 @@ type fakeCompleter struct {
 	gotUser  string
 }
 
-func (f *fakeCompleter) Complete(_ context.Context, system, user string) (string, error) {
+func (f *fakeCompleter) Complete(_ context.Context, system, user string) (string, ai.Usage, error) {
 	f.calls++
 	f.gotSys = system
 	f.gotUser = user
 	if f.err != nil {
-		return "", f.err
+		return "", ai.Usage{}, f.err
 	}
-	return f.resp, nil
+	return f.resp, ai.Usage{}, nil
 }
 
 var _ ai.Completer = (*fakeCompleter)(nil)

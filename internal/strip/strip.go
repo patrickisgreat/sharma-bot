@@ -98,7 +98,7 @@ func stripOne(completer ai.Completer, perCallTimeout time.Duration, systemPrompt
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
 	defer cancel()
 
-	cleaned, err := completer.Complete(ctx, systemPrompt, transcript)
+	cleaned, _, err := completer.Complete(ctx, systemPrompt, transcript)
 	if err != nil {
 		return err
 	}

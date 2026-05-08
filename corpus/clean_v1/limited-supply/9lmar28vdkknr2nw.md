@@ -1,0 +1,145 @@
+# How to Determine What Product to Launch
+
+I personally love finding ideas within problems that already exist. Whether that is struggling with sleep and looking into accessible options, or figuring out how to stop sweating and creating a deodorant, the approach is problem-solution led. But at the same time, there's a whole other angle that matters just as much: is there even margin in this thing? What's the plan for getting to the first million or first ten million? A lot of people tend to forget that part, which is understanding the addressable market before going all in and what the margins look like.
+
+There are people who identify a unique problem that they and maybe five hundred other people in a Facebook group across the world have, and they want to solve it. That's great, but if you've only identified five hundred potential customers, no business can survive on that unless you're selling very expensive SaaS software. You probably need to do both: identify a problem where there's a hole in the market, and understand how big that market actually is. At what scale do you want to build that business?
+
+When I think about acquiring or starting a business, I start with a really specific question: Do I want my life to be this business, or do I want this business to fit into my life? It's perfectly reasonable to decide you want a business to fit into your life. If you like your wife and your kids and your life the way it is, and you want to earn three hundred thousand to five hundred thousand dollars a year without spending your entire life working, that's a valid goal. I think it's very easy to build a five million dollar top line, three hundred thousand to five hundred thousand dollar bottom line business in e-commerce in twelve to eighteen months. You're making more than ninety-eight, maybe ninety-nine percent of America at that point. Your life has a great lifestyle and you can afford that lifestyle. You're not going to find private jets for every time you want to travel, but if you're having a bachelor party once in your life or want to take your wife on a honeymoon, you may be able to afford that private jet. You can be satisfied in every single way.
+
+The first question I ask is how big do I want this business to get and how much of my life do I want it to consume? Once you've answered that, generally in businesses I've created, I've focused on businesses where customers will buy again and again. I wouldn't want to sell something like a lamp because someone buys a lamp, maybe two lamps for their end tables, and that's it. They're never going to buy another lamp. Lamps don't break. You acquire that customer once and that's it for their lifetime.
+
+I think that's really tough when it comes to advertising through social media or Google or YouTube. You need that repeat purchase rate. Everyone wants subscription or repeat custom revenue now, even BMW is selling subscriptions where you pay nine dollars a month to get your car seats ventilated.
+
+For a long time, I thought repeat purchases only applied to CPG products like deodorants or toothpaste or body wash. Now I'd widen my breadth to include apparel and shoes. If you really love a brand, you're likely to buy from that brand more than once. If you love a clothing brand, you're likely to buy more than one shirt from there.
+
+What I really love about apparel is the seasonality. There are reasons to talk about the product over and over again, whether it's colors or seasons or different types of clothing for winter versus summer. New outdoor voices have different clothing for the winter than during the summer. That's a product where people will buy again and again. It's not that they consume it, but there are reasons to talk about the product repeatedly.
+
+I've never been a huge fan of starting an apparel brand because of sizing issues, especially with shoes. Apparel has an average return rate of around thirty percent. But I do agree there's a lot of repeat purchase, especially if you're buying into a brand not because of hype or how it looks, but because you can rely on that pair of shorts being very comfortable, always fitting right, and lasting a long time.
+
+Anytime you look at an apparel business and they give you revenue numbers, I ask if they're talking about gross sales before returns or after returns. Some businesses claim they only have a fifteen percent return rate, which they say is really low, but that may be for underwear or shoes. At native, it was materially under one percent. For a lot of apparel businesses, returns can be twenty-five to forty percent of top line. So when people give me revenue numbers for apparel businesses, I ask what revenue they're talking about and whether that's pre-returns or post-returns.
+
+The other way I think about this is what does the competitive landscape look like today? I really followed this path because of Dollar Shave Club and Harry's and the original direct consumer businesses that came out a decade ago. Dollar Shave Club launched by pointing out that the only thing you could buy was Gillette, which had a virtual monopoly. When was the last time anyone iterated in that category? The answer was probably not for a really long time. There were certain competitors like Schick, but nobody was talking about it.
+
+Dollar Shave Club and Harry's came out and said we're going to iterate in a space where there's a monopoly or duopoly, where there's only an old brand and nobody else really entering it. Warby Parker did the same thing. There was Luxottica, which owns a bunch of Pearl Visions and LensCrafters, but nobody was iterating on eyeglasses in a direct-to-consumer way.
+
+We did something similar in deodorant, though there was more than two brands. It wasn't just Gillette and Schick. There was Axe and Old Spice and Secret and a bunch of other brands, but they were owned by two conglomerates: P&G and Unilever. Each had created brands for niche markets. Axe was for young people who wanted to smell good without wearing cologne. Degree was for athletes who needed performance. Old Spice was for people who wanted to smell like their grandfather. There had been no real iteration in this space.
+
+The places where this is hard is where there are already a lot of competitors. My first thought is beverage. Beverage is super hard because those companies are trying all the time. They roll out new Coca-Cola variants and see if they get traction. And they have insane budgets.
+
+Beverage is also hard because of shipping. The weight of the product is huge, which is something people don't factor in when they ideate. You need to consider the weight of the product, the margins, the cost of customer acquisition, and how competitive the customer acquisition market is. If you're going into retail, it's a different market than online.
+
+I also think about what advantage you have to get past seven figures and reach the eight figure level. Outside of just running ads or having one influencer, what is your setup or advantage that a competitor doesn't have?
+
+Another thing I really hate is a lot of direct-to-consumer competitors already in the space. When we launched native deodorant, there was nobody selling deodorant on the internet. Now the space is so competitive that it's hard to get your ads through. It's hard when you're competing against Old Spice on ads, though it's easy in one sense because they don't have anyone who's ever run a Facebook ad. They've outsourced it to an agency that tells the brand manager how many people they reached, and the brand manager thinks things are going well. Nobody's thinking about it the right way. But if there are a lot of direct-to-consumer competitors already, you're in a cutthroat market where people have knives out. It's dangerous and hard to succeed.
+
+The other things I look for are twofold. One is how much category knowledge can I understand right out of the gate? If you're launching a beauty product, you should be looking at L'Oreal's ten-Ks every year, P&G's, Unilever's, Estee Lauder's. Any publicly traded business has figures out there showing what's working and not working.
+
+When I was looking at P&G's before we sold native, what was working was SK2, this Japanese brand. P&G imported this beauty product and sold it at Bloomingdale's for one hundred dollars a bottle. They were used to selling Olay at fifteen dollars. They were selling SK2 at one hundred dollars a bottle and said this brand was what they're building their beauty division on. They said it in their ten-K. I researched it to understand what's working at scale at a high price point so I could be inspired by those things. Not enough people take advantage of publicly available information.
+
+Another thought is that there's an easier path: you can buy a business like we did with Long Weekend. You find a business that exists, find a way to finance it creatively, and become an entrepreneur of that business with a base and social proof to build on. There are so many businesses on Micro Acquire that are ripe for buying a subscription box or a pet brand and doing everything you would if you launched it from scratch, except now you have a base of customers to start with. That's a great way to start a business.
+
+I also think about valuations. If you're a shoe business, you should understand what Nike's valuation is compared to its revenue and profit. That helps you understand if you're building toward an exit and what people might value your business at. When people are acquiring you or funding you, that's going to come to mind. Nobody values a business at one thousand times revenue when comparable businesses trade at ten times revenue.
+
+When we were thinking about starting Long Weekend, what attracted me was that the product worked according to all the customers trying it. It had a good community or base of customers, and the products had good margins. Margins are so important. You need to understand what is the addressable market before going all in, and what are the margins like? When you're deciding what category to get into, I avoid things like lamps and mattresses. But plenty of people have built successful businesses around those, so maybe I'm doing the wrong thing. I just know what I know.
+
+So that's how I think about categories and businesses. I want something with repeat purchase rate, avoiding lamps and mattresses. I want something where big companies have dominated the space for a long time with no large direct-consumer presence. I want it where big companies aren't iterating a ton. And then I take category knowledge to understand valuations and what's working.
+
+# Testing and Validation
+
+Having determined a business direction, the next thing is to understand whether it will work. Some people spend months thinking about this and asking friends for advice. Instead, you should create a landing page, run some ads, and see if it works. Either it will work or it won't, and you'll get excited or not excited about it. Why ask everyone for months? Just go do it.
+
+There was a men's telehealth brand we worked with a couple years ago. We did landing page testing and ran ads instead of going to a branding agency first and describing the customer we thought we had. Instead, we said here are the headlines that actually work best. Here's the style of imagery that performs best. Here's the layout that converts best. This is the cost per email acquisition. This is the cost of an email lead that's actually willing to commit to a monthly fee. Now go build a brand knowing all this data about what works.
+
+In reverse, when you have an idea and go to an agency, you're basically creating everything in a conference room in a vacuum. By the time you start testing, your site isn't optimized for conversion. Your messaging doesn't speak to anyone. It tries to talk to everybody. You have no idea what's working. You've spent three hundred thousand dollars on bullshit. Then you launch and get a thousand dollars in sales a day. It will take seventeen years to earn back the money you put in.
+
+At native, we basically launched a landing page on Product Hunt. We found a supplier but ordered zero product. I sold one stick of deodorant the first day to someone from Google, and I thought the business was over. My friend got us on Product Hunt day two, and we sold like sixty sticks. Our MOQ was a hundred, but I thought if we sold sixty, worst case we'd have forty left, so let me order a hundred. All sixty sold on a Tuesday, and by the time we shipped, it was probably ten days later because I had to order it, get it delivered, pick and pack myself, and get shipping labels on.
+
+I didn't know what I was doing. All I'd done was sell product, and I was like, we've sold sixty sticks. Within ten days, I need to ship those. If we hadn't been on Product Hunt that second day, the business would have closed day one. I would have had one sale and thought it wasn't working. The motivation of sixty sales made me figure out how to make the business work in ten days.
+
+Not enough people go create a landing page, launch it, drive ads, and see if it works. Everyone thinks about it for three months asking friends if they should do it. Go do it. Why are you asking everyone for three months? Go do it now.
+
+For testing, throw away all considerations other than revenue for the first three months. You can change your name later. HIMSS started out as a completely different business to test their idea, then shut that off and started HIMSS with a professional looking site. Don't worry about trademark for the first thirty days. Don't reverse engineer someone else. Don't launch a deodorant called Old Spice. But don't worry about trademark stuff, and just see if you can get sales.
+
+If you can't get sales, there's no reason to hire an attorney for trademark. There's no reason to spend money creating professional contracts with your contract manufacturer and your 3PL. Don't get a 3PL. If you're selling consumables or clothing, ship out of your garage for the first six months. Learn the process. By the time we moved into a 3PL, I knew how to pack boxes. I knew how they should look nice. I knew the costs of boxes and how to optimize it. You need to know the business that well.
+
+The same goes for media buying. A lot of people try to outsource ads from day negative two instead of learning how the platform works and what inputs lead to outputs. They just hire an agency and wonder why it's not working a month later. They think the agency sucks or Facebook doesn't work. But Facebook does work. You just have no context on what it takes for it to work properly, and you can't vet an agency because you've never done it yourself.
+
+Instead of spending three hundred thousand on a branding agency, spend five hundred dollars running Facebook ads. Spend twenty dollars a day for thirty days and figure out what works. What has a higher click-through rate? What are people responding to? What are the comments? Get your hands dirty and do that before you get the product in. You should be selling that product today.
+
+One of the things that makes me upset and want to quit a business is when there's no sales right out of the gate. I want pre-orders so there's motivation. I want to sell products so by the time we get it in, it feels like we're doing something. You don't want to launch to crickets because you lose momentum and it's hard to get it back. It's hard to go to sleep every night with one order or zero orders. It's much better to spend time before you have product figuring out what funnel works, what your conversion rate is, what product changes you need to make so that when you have product in stock, there's momentum to build on instead of pushing a rock from the bottom of the hill to the top.
+
+The native site today is still primarily the site I built in forty-five minutes with the same colors and fonts. I could get eighty percent of the way there on my own by copying the way other sites look. I copied someone's fonts and colors because they probably had an agency spend five hundred thousand studying what color is best for an add-to-cart button versus your logo. Copy those exact colors.
+
+One thing people don't do enough is think about who's already spending five or six figures a month on conversion rate optimization and just copy it. Follow a site all the time and see what they change. Because they ran an A-B test last month and made a minor change that improved conversion rate. Go do what they're doing.
+
+Another easy approach is going to the Facebook ads library and looking at what eighty percent of ads are. That's working. The other twenty percent is experimental.
+
+There's a Shopify theme called Smart Theme that constantly evolves to improve conversion. It's got everything from bundle builders to one-click add-to-cart to good mobile experience to good upsells in cart. It's inexpensive, a couple hundred bucks a month, versus paying an agency or developers to constantly add this in.
+
+The other thing I'd say is that Kettle and Fire did a really good job of this. Justin told me the story where they launched a landing page for shelf-stable bone broth and ran ads to see if people would buy it. Once they realized people would, they emailed them immediately and said we'll give you a full refund today because we don't actually have this in stock, or we can give you fifty percent off and you'll get it in two months. This approach finds two things. One is you're not getting pre-order bullshit information. Pre-orders inflate your CAC. Get rid of it. Just sell and refund immediately. You get a real understanding of your CAC today and what it'll look like two months from now. Two, you'll have pre-orders for two months from now, giving you motivation to produce. Three, you've created an artificial deadline to get product to consumers. Four, you'll have a real business with things to do instead of iterating on fonts.
+
+# Long Weekend Testing
+
+With Long Weekend, what we're doing is tons of landing pages with messaging testing. We're reordering value props and benefits, testing different styles of creative renders versus lifestyle versus product photography versus motion graphics. We're figuring out what gets better engagement or converts more. We're taking those learnings and incorporating them into the site launching in January.
+
+The deodorant had a formulation issue where it would bubble up near the top. We're moving it from top fill to bottom fill. The most praise was how long it lasted and the efficacy. Deodorant is the number one product, followed by shampoo. The blue Soothe bar shampoo is phenomenal. Many people have said that post-COVID their hair started falling out, and the Soothe bar reduces hair falling out. It's not a claim, but many reviews say this.
+
+For us, the big thing is figuring out how to test a bunch of stuff in small environments of landing pages and constantly apply it. This is the same thing we do with clients. If we have a supplement brand trying to figure out the best angle to go to a mass audience, we'll test it on landing pages with different audiences and messaging angles. Whatever drives better conversion becomes their new homepage.
+
+I think there's another business I want to buy, and I want to commit like ten grand to testing with landing pages before deciding. Whenever talking about buying a brand, I always want to see the Facebook ads to understand what's working. Then I want to spend five thousand dollars of my own money to see if I can drive traffic to the site and get sales working through a good funnel. Maybe they haven't optimized the funnel the way I would. That's always a difficult conversation because once I prove something works, they know the ads work, so they want a higher price. I proved it works and now they're going to apply my strategy, and I've paid them extra.
+
+# Category Analysis
+
+The places where I think about iteration and competitive landscape go hand in hand. Magic Spoon came out with new cereal branding and a new angle of being healthier cereal, catering to people looking for that. I thought they did a wonderful job. The places where this is hard is where there's already a lot of competitors.
+
+When we were looking at P&G before selling native, what was working was SK2, this Japanese beauty brand. Understanding what's working at scale at high price points helps inspire your own business. Not enough people take advantage of the publicly available information out there.
+
+Another thought is valuations. If you're a shoe business, you should understand Nike's valuation compared to revenue and profit. For deodorant, you want to understand P&G's valuation compared to profit. For underwear, Hanes's valuation compared to revenue and profit. That's all publicly available. When people are acquiring you or funding you, they're thinking about these numbers. Nobody values you at one thousand times revenue when comparable companies trade at ten times. They understand the world through valuations like for every dollar of revenue, get a ten times valuation, or for every dollar of profit, get a twenty times valuation.
+
+We did seasonal deodorant scents called Seasonal Sense with native because if you try to get influencers to talk about native, what are they going to say? Here's a deodorant. I got another stick. Nobody cares. We needed to create excitement. Seasonal scents are perfect. It's not taxing on the business, done quarterly, and the right cadence for influencers to talk about us.
+
+My previous liquor business tried featuring new liquor products every day. That got taxing because we had to research and curate three different products daily. It started as every other day, then three days a week, then five, then seven, then three a day. It got to be a lot of work. On a quarterly basis, it's much easier.
+
+# Market and Competitive Considerations
+
+Direct-to-consumer brands are being crushed when it comes to valuations compared to publicly traded companies. I always look at Grove, I love that business, but it's getting crushed. It's now a sixty million dollar business. It's a beautiful brand with gorgeous packaging. I wouldn't want to buy Duane Reade's hand soap. I'd want to buy Grove. I don't know why it's not doing better, but it is getting hurt.
+
+The other thing about retail sales came out today. For November, retail sales are kind of flat when looking at inflation, which is not good. There's a big downturn in the market today. This always happens between Fed meetings. Everyone thinks the Fed has inflation under control and won't raise rates anymore. Then the Fed comes out saying they want inflation at two percent and it's at seven, which is still really high. A dollar a year ago is now worth ninety-three cents. That's a lot of purchasing power degradation in twelve months. The battle isn't over.
+
+Every two months this happens. The market thinks it's over, then the Fed says they'll continue raising rates, the Dow tanks, and over the next two months it climbs back up. Then there's a Fed meeting, they say they haven't finished the battle, investors panic, and the cycle repeats.
+
+Bank of America said credit card sales for travel are doing a little better than expected, but online purchases are down in November compared to October, which is shocking because November is Black Friday season. That's where the bread and butter of online sales are, and they're down month-over-month. That's not a good sign. On the other hand, Affirm and Klarna payments are way up compared to year-over-year.
+
+# Checkout and Conversion Rate Optimization
+
+Looking at the top checkout flows mentioned in a Business of Fashion article on Nordstrom, Adidas, American Eagle, and JC Penney, most operate on Salesforce commerce cloud or Adobe commerce. A few things they do well:
+
+Nordstrom has next to size selection a statement saying only a few left, adding urgency. When you add something to cart, a module pops up upselling products specifically called stocking stuffers. Going that extra mile and writing copy to say stocking stuffers versus just add this to your order goes a long way. They made the AOV under fifty dollars for stocking stuffers. When you get to checkout, they offer forty dollar credit toward your order when you sign up for their credit card. They also have single page checkout.
+
+Adidas has a statement on the PDP saying one hundred fifteen people bought this in the last twenty-four hours, adding social proof. When you add a product to cart, it says hey, do you want fast unlimited free shipping forever? Of course it's yes. All you do is sign up to be a member, which is free. Now you're putting your email in and creating an account, which puts your foot in the door. Worst comes to worst, they know where to find you.
+
+JC Penny is running a site-wide thirty percent off sale with a pop-up asking if you want to apply thirty percent off your whole order. Click the big red button that says apply thirty percent. You could have read it in the ad or notification bar, but clicking that button makes you feel like you're getting a deal, making you buy six more things than you needed.
+
+I always wondered whether letting people apply a coupon code versus a link auto-applying it was better. When people apply a coupon code themselves, they see they were going to pay twenty dollars and now pay fourteen. There's something about finding and applying a code that feels like a win. I'm not sure if that feeling isn't worth something compared to auto-apply. I've found that better than just an automatic site-wide code. If you find a coupon code and apply it yourself, it's psychologically bigger than an automatic discount.
+
+Harry's does something clever with add-on items at checkout. They offer a mystery item for ten dollars that's worth more than ten dollars without telling you what it is. They get to move inventory they don't want, you get value, and they maintain brand integrity by not degrading the price of specific products.
+
+McDonald's does this really well too. If you're buying coffee, they ask why not add fries or a Big Mac or a milkshake? They also do upsells on the way to checkout from kiosks. McDonald's is insanely advanced. I'm always amazed because it's just McDonald's and we don't really talk about it.
+
+Domino's is another company that innovates under the radar. Their innovation has constantly made it more convenient to use them over competitors. Every time I go to McDonald's now, I never interact with a person. I order at a kiosk and they shout out a number. The ordering interface is fantastic. It doesn't crash. You can do customizations. You can say I don't want pickles, I want creamer, I want this type of creamer, I want two creamers not one. It's not a shitty app. It's user-friendly and really incredible that they figured that out.
+
+# First Hires
+
+When it comes to the most important first three hires for a direct-to-consumer business, it depends on what you're good at as a founder. You're not working on the business, you're working in the business. You have to see what you're good at and what you're not.
+
+I would want to hire a growth person whose entire job is A-B testing, cranking out new creative, testing, seeing what works, and optimizing. The second would be a product and ops person making sure that when product is ready, a truck arrives, product gets on the truck, it arrives at the 3PL, gets checked in properly.
+
+The third is probably customer service or customer experience as a whole. Then you can hire underneath those three.
+
+At native, I think the first three were all customer service people. But in operations, for me it was definitely customer service because it's important for founders to do it as long as you can to understand what problems are. If you're getting under fifty tickets a day, you should do all customer service. If under thirty definitely. If north of a hundred, I understand hiring somebody. Generally, once you get north of fifty or a hundred tickets, depending on complexity, you need a CS person.
+
+An operations person can help early on because you probably don't have time to optimize. An operations person should be able to pay their own salary through cost savings. They're optimizing freight, pushing suppliers on costs, dealing with credit card agencies to bring rates down, finding logistics issues to save money on, and finding new 3PLs or more nodes.
+
+The last person is probably a jack of all trades helping in various ways. For native, I needed help thinking about emails and double-checking before sending them. Did I make typos? Did I spell native correctly or accidentally spell it naive? Somebody who can help with operations, thinking about new product categories, CRO, or the actual product you're selling.
+
+Those are the first three people I would hire depending on how much scale you're getting and how fast.
