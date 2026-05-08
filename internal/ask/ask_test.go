@@ -66,8 +66,11 @@ func TestRunWithSingleSource(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if got != "the answer" {
-		t.Errorf("answer: %q", got)
+	if got.Answer != "the answer" {
+		t.Errorf("answer: %q", got.Answer)
+	}
+	if got.Steps != 1 {
+		t.Errorf("steps: %d", got.Steps)
 	}
 	if fc.calls != 1 {
 		t.Fatalf("calls: %d", fc.calls)
