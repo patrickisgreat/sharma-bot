@@ -3,10 +3,11 @@
 # fetch-shopify.sh — mirror a Shopify storefront to local HTML for review.
 #
 # Usage:
-#   ./scripts/fetch-shopify.sh <storefront-url> [output-dir]
+#   ./scripts/fetch-shopify.sh [storefront-url] [output-dir]
 #
-# For password-gated stores (most staging), put SHOPIFY_PASSWORD in your
-# .env or export it. The script will auto-load .env if present.
+# If no URL is given, falls back to $SHOPIFY_URL (from .env or shell). For
+# password-gated stores (most staging), put SHOPIFY_PASSWORD in .env or
+# export it. The script auto-loads .env if present.
 #
 # Output dir defaults to tmp/shopify-mirror-<timestamp>/. After the mirror
 # finishes, feed it straight to:
@@ -26,17 +27,22 @@ if [ -f .env ]; then
     set +a
 fi
 
-URL="${1:-}"
+URL="${1:-${SHOPIFY_URL:-}}"
 OUTDIR="${2:-}"
 PASSWORD="${SHOPIFY_PASSWORD:-}"
 
+# Strip trailing slash so $URL/password doesn't double up to //password.
+URL="${URL%/}"
+
 if [ -z "$URL" ]; then
     cat >&2 <<EOF
-usage: $0 <storefront-url> [output-dir]
+usage: $0 [storefront-url] [output-dir]
 
+If no URL is given, falls back to \$SHOPIFY_URL (from .env or shell).
 For password-gated stores: set SHOPIFY_PASSWORD in .env or export it.
 
 Examples:
+  $0                                     # uses \$SHOPIFY_URL
   $0 https://example.myshopify.com
   $0 https://example.myshopify.com tmp/shopify-staging/
   SHOPIFY_PASSWORD=secret $0 https://example.myshopify.com
