@@ -38,13 +38,28 @@ type Completer interface {
 	Complete(ctx context.Context, systemPrompt, userText string) (string, Usage, error)
 }
 
-// Option mutates a sdkCompleter's behavior at construction time.
-type Option func(*sdkCompleter)
+// completerOpts is the shared shape both Completer and ToolCompleter take
+// at construction time.
+type completerOpts struct {
+	longContext bool
+}
+
+// Option mutates a completer's behavior at construction time. Same option
+// value can be passed to NewCompleter or NewToolCompleter.
+type Option func(*completerOpts)
 
 // WithLongContext enables Anthropic's 1M-context beta. Required when the
-// system prompt + user message will exceed 200K tokens.
+// system prompt + conversation will exceed 200K tokens.
 func WithLongContext() Option {
-	return func(c *sdkCompleter) { c.longContext = true }
+	return func(o *completerOpts) { o.longContext = true }
+}
+
+func resolveOptions(opts []Option) completerOpts {
+	var o completerOpts
+	for _, fn := range opts {
+		fn(&o)
+	}
+	return o
 }
 
 type sdkCompleter struct {
@@ -58,11 +73,8 @@ type sdkCompleter struct {
 // caching enabled on the system block. Pass WithLongContext() to allow >200K
 // token prompts.
 func NewCompleter(model anthropic.Model, maxTokens int64, opts ...Option) Completer {
-	c := &sdkCompleter{client: Client(), model: model, maxTokens: maxTokens}
-	for _, o := range opts {
-		o(c)
-	}
-	return c
+	o := resolveOptions(opts)
+	return &sdkCompleter{client: Client(), model: model, maxTokens: maxTokens, longContext: o.longContext}
 }
 
 func (c *sdkCompleter) Complete(ctx context.Context, systemPrompt, userText string) (string, Usage, error) {
