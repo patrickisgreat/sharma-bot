@@ -31,36 +31,45 @@ const (
 // Run reviews either one file (path != "") or every supported file in
 // batchDir. If both are empty, content is read from stdinReader.
 //
+// Returns a CallResult for single-file mode (so the caller can persist the
+// chat). Batch mode writes per-file outputs to reviews/<timestamp>/ and
+// returns (nil, nil) on success — there's no single chat to save.
+//
 // trace receives per-step trace lines (tool calls, results, telemetry).
 // Pass nil to suppress.
-func Run(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, trace io.Writer) error {
+func Run(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, trace io.Writer) (*ai.CallResult, error) {
 	completer := ai.NewToolCompleter(model, maxTokens)
 	return RunWith(corpusDir, promptsDir, path, batchDir, stdinReader, completer, tools.NewCorpusTools(corpusDir), trace, timeout)
 }
 
 // RunWith is the testable form: explicit completer + tools + timeout.
-func RunWith(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) error {
+func RunWith(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
 	role, err := os.ReadFile(filepath.Join(promptsDir, "review.md"))
 	if err != nil {
-		return fmt.Errorf("read role prompt: %w", err)
+		return nil, fmt.Errorf("read role prompt: %w", err)
 	}
 	if batchDir != "" {
-		return runBatch(batchDir, string(role), completer, ts, trace, perCallTimeout)
+		if err := runBatch(batchDir, string(role), completer, ts, trace, perCallTimeout); err != nil {
+			return nil, err
+		}
+		return nil, nil
 	}
 	return runSingle(path, stdinReader, string(role), completer, ts, trace, perCallTimeout, os.Stdout)
 }
 
-func runSingle(path string, stdinReader io.Reader, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration, out io.Writer) error {
+func runSingle(path string, stdinReader io.Reader, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration, out io.Writer) (*ai.CallResult, error) {
 	content, label, err := loadContent(path, stdinReader)
 	if err != nil {
-		return err
+		return nil, err
 	}
-	answer, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
+	res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
 	if err != nil {
-		return err
+		return nil, err
 	}
-	_, err = fmt.Fprintln(out, answer)
-	return err
+	if _, err := fmt.Fprintln(out, res.Answer); err != nil {
+		return nil, err
+	}
+	return res, nil
 }
 
 func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) error {
@@ -92,7 +101,7 @@ func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool
 			fail++
 			continue
 		}
-		answer, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
+		res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
 		if err != nil {
 			if trace != nil {
 				fmt.Fprintf(trace, "  review error: %v\n", err)
@@ -104,7 +113,7 @@ func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool
 		if err := os.MkdirAll(filepath.Dir(outPath), 0o755); err != nil {
 			return err
 		}
-		if err := os.WriteFile(outPath, []byte(answer), 0o644); err != nil {
+		if err := os.WriteFile(outPath, []byte(res.Answer), 0o644); err != nil {
 			return err
 		}
 		ok++
@@ -115,7 +124,7 @@ func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool
 	return nil
 }
 
-func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (string, error) {
+func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
 	defer cancel()
 
@@ -129,10 +138,15 @@ func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []too
 	}, role, userPrompt)
 	elapsed := time.Since(start)
 	if err != nil {
-		return "", err
+		return nil, err
 	}
 	ai.PrintTelemetry(trace, res.Usage, elapsed, fmt.Sprintf("%d step(s)", res.Steps))
-	return res.Answer, nil
+	return &ai.CallResult{
+		Answer:  res.Answer,
+		Usage:   res.Usage,
+		Elapsed: elapsed,
+		Steps:   res.Steps,
+	}, nil
 }
 
 func buildUserPrompt(content, label string) string {

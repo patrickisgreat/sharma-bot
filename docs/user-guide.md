@@ -21,21 +21,25 @@ go build ./cmd/corpus    # optional; you can also use `go run`
 ## The command surface
 
 ```
-corpus discover    scan raw/<source>/ and populate state.db
-corpus parse       cue-parse raw .txt -> cues/<source>/<id>.json
-corpus strip       Haiku-clean cues -> clean_v1/<source>/<id>.md
-corpus ask         load full corpus into context, ask Claude
-corpus dig         agent-loop: model uses tools to load only what it needs
-corpus review      review user content (email, page, ad copy) against the corpus
+corpus discover         scan raw/<source>/ and populate state.db
+corpus parse            cue-parse raw .txt -> cues/<source>/<id>.json
+corpus strip            Haiku-clean cues -> clean_v1/<source>/<id>.md
+corpus ask              load full corpus into context, ask Claude
+corpus dig              agent-loop: model uses tools to load only what it needs
+corpus review           review user content (email, page, ad copy) against the corpus
+corpus fetch-shopify    mirror a Shopify storefront via scripts/fetch-shopify.sh
 ```
 
 Common flags:
 - `--corpus-dir`  path to corpus root (default: `./corpus`)
 - `--prompts-dir` path to prompts directory (default: `./prompts`)
+- `--chats-dir`   where to save chat transcripts (default: `./chats`)
 - `--limit`       max episodes/docs to process or load (0 = no limit)
 - `--width`       wrap output to N columns (0 = no wrap; default: 100)
 - `--trace`       print agent step trace to stderr (dig/review; default: true)
 - `--batch`       directory of files to review (review only)
+- `--out`         override chat-save path (single-shot commands)
+- `--no-save`     skip writing the chat transcript
 
 ## Adding new content
 
@@ -126,18 +130,49 @@ Reviews every `.html`/`.htm`/`.md`/`.txt` file under the directory. Per-file out
 
 ### Reviewing a Shopify storefront
 
+Set up your storefront once in `.env`:
+
 ```bash
-# Set your Shopify password in .env (gitignored)
-echo "SHOPIFY_PASSWORD=secretsauce" >> .env
+SHOPIFY_URL=https://your-store.myshopify.com/
+SHOPIFY_PASSWORD=secretsauce
+```
 
-# Mirror the storefront
-./scripts/fetch-shopify.sh https://your-store.myshopify.com
+Then it's two commands:
 
-# Review the HTML files (auto-extracted to text)
+```bash
+go run ./cmd/corpus fetch-shopify                     # uses $SHOPIFY_URL
 go run ./cmd/corpus review --batch tmp/shopify-mirror-<timestamp>/
 ```
 
-The fetch script handles the password gate, mirrors with wget (rejecting binary assets), and tells you exactly what command to run next.
+`fetch-shopify` is a thin wrapper that runs `scripts/fetch-shopify.sh`. It handles the password gate, mirrors with wget (rejecting binary assets), and tells you exactly what command to run next. You can also override the URL: `go run ./cmd/corpus fetch-shopify https://other-store.myshopify.com`.
+
+## Saved chats
+
+Every `ask`, `dig`, and single-file `review` auto-writes a markdown transcript to `chats/<YYYY-MM-DD>/<HH-MM-SS>-<slug>.md`. The file has YAML frontmatter (model, tokens, cost, duration, step count) plus a Question section, an Answer section, and (for dig/review) a Trace section showing the agent's tool calls.
+
+```yaml
+---
+date: 2026-05-08T15:05:23-04:00
+command: dig
+title: "what do they say about loyalty programs"
+model: claude-sonnet-4-6
+steps: 3
+input_tokens: 8432
+cache_creation_tokens: 6200
+output_tokens: 612
+cost_usd: 0.0367
+duration_sec: 12.30
+---
+```
+
+`chats/` is gitignored — transcripts grow indefinitely and may contain sensitive Klaviyo/Shopify content. If you ever want a chat in git, copy it elsewhere.
+
+Flags:
+- `--no-save` — skip writing the transcript (for throwaway questions).
+- `--out path.md` — override the auto-derived path; useful when you want a chat under a known name (e.g. `--out research/q3-pdp-audit.md`).
+- `--chats-dir <dir>` — change the root if you want chats outside the repo (e.g. `--chats-dir ~/notes/sharma-bot/`).
+
+Batch review (`review --batch`) does not auto-save chats — its per-file outputs under `reviews/<timestamp>/` are already the artifact.
 
 ## State and reruns
 

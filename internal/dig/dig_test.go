@@ -50,8 +50,11 @@ func TestDigRunWithFinalAnswer(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if got != "the answer" {
-		t.Errorf("answer: %q", got)
+	if got.Answer != "the answer" {
+		t.Errorf("answer: %q", got.Answer)
+	}
+	if got.Steps != 1 {
+		t.Errorf("steps: %d", got.Steps)
 	}
 }
 
@@ -81,8 +84,11 @@ func TestDigRunWithToolRoundTrip(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if got != "done" {
-		t.Errorf("answer: %q", got)
+	if got.Answer != "done" {
+		t.Errorf("answer: %q", got.Answer)
+	}
+	if got.Steps != 2 {
+		t.Errorf("steps: %d", got.Steps)
 	}
 }
 
