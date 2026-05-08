@@ -16,6 +16,9 @@ import (
 // extra is appended in brackets at the end if non-empty (used by the agent
 // loop to add "X steps" or similar).
 func PrintTelemetry(w io.Writer, u Usage, elapsed time.Duration, extra string) {
+	if w == nil {
+		return
+	}
 	if u.Model == "" && u.InputTokens == 0 && u.OutputTokens == 0 {
 		return
 	}
