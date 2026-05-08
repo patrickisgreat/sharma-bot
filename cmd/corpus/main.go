@@ -12,6 +12,7 @@ import (
 	"sharma-bot/internal/discover"
 	"sharma-bot/internal/envfile"
 	"sharma-bot/internal/parse"
+	"sharma-bot/internal/review"
 	"sharma-bot/internal/strip"
 	"sharma-bot/internal/wrap"
 )
@@ -24,13 +25,15 @@ commands:
   strip       Haiku-clean cues -> clean_v1/{source}/{external_id}.md
   ask         load full corpus into context, ask Claude (one big API call)
   dig         agent-loop: model uses tools to load only what it needs (cheap)
+  review      review user content (email, PDP, page) against the corpus
 
 flags:
   --corpus-dir   path to corpus root (default: ./corpus)
   --prompts-dir  path to prompts directory (default: ./prompts)
   --limit        max episodes/docs to process or load (0 = no limit)
   --width        wrap output to N columns (0 = no wrap; default: 100)
-  --trace        write agent step trace to stderr (dig only; default: true)
+  --trace        write agent step trace to stderr (dig/review; default: true)
+  --batch        directory of files to review in batch mode (review only)
 
 ask:
   corpus ask "your question here"
@@ -42,6 +45,13 @@ dig:
   corpus dig "your question here"
   corpus dig -                    # read question from stdin
   cat my-pdp.html | corpus dig -  # pipe content in
+
+review:
+  corpus review email.md                # single file
+  corpus review page.html               # HTML auto-extracted to text
+  corpus review -                       # read from stdin
+  corpus review --batch shopify-mirror/ # every supported file in dir
+                                        # outputs to reviews/<timestamp>/
 `
 
 func main() {
@@ -60,7 +70,8 @@ func main() {
 	promptsDir := fs.String("prompts-dir", "./prompts", "prompts directory")
 	limit := fs.Int("limit", 0, "process at most N items (0 = no limit)")
 	width := fs.Int("width", 100, "wrap output to N columns (0 disables)")
-	trace := fs.Bool("trace", true, "print agent step trace to stderr (dig)")
+	trace := fs.Bool("trace", true, "print agent step trace to stderr (dig/review)")
+	batch := fs.String("batch", "", "directory of files to review (review only)")
 	fs.Usage = func() { fmt.Fprint(os.Stderr, usage) }
 	_ = fs.Parse(os.Args[2:])
 
@@ -98,6 +109,18 @@ func main() {
 		if err == nil {
 			fmt.Println(wrap.Text(answer, *width))
 		}
+	case "review":
+		var traceW io.Writer
+		if *trace {
+			traceW = os.Stderr
+		}
+		// Single-file path comes from the first positional arg (or "-" for stdin).
+		// In batch mode, --batch wins and positional args are ignored.
+		path := ""
+		if len(fs.Args()) > 0 {
+			path = fs.Args()[0]
+		}
+		err = review.Run(*corpusDir, *promptsDir, path, *batch, os.Stdin, traceW)
 	case "-h", "--help", "help":
 		fmt.Fprint(os.Stdout, usage)
 		return
