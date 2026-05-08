@@ -3,7 +3,6 @@ package ask
 import (
 	"context"
 	"fmt"
-	"io"
 	"io/fs"
 	"os"
 	"path/filepath"
@@ -98,50 +97,8 @@ func RunWith(promptsDir, question string, sources []Source, limit int, completer
 	start := time.Now()
 	answer, usage, err := completer.Complete(ctx, system, question)
 	elapsed := time.Since(start)
-	printTelemetry(os.Stderr, usage, elapsed)
+	ai.PrintTelemetry(os.Stderr, usage, elapsed, "")
 	return answer, err
-}
-
-// printTelemetry writes a one-line summary of token usage and estimated cost
-// to w. Safe to call with a zero Usage (e.g. when the call failed before we
-// got a usage block).
-func printTelemetry(w io.Writer, u ai.Usage, elapsed time.Duration) {
-	if u.Model == "" && u.InputTokens == 0 && u.OutputTokens == 0 {
-		return
-	}
-	cost := ai.EstimateCost(anthropic.Model(u.Model), u)
-	fmt.Fprintf(w,
-		"[%s] in: %s tok (cache write %s, read %s) | out: %s tok | $%.4f | %s\n",
-		u.Model,
-		commas(u.InputTokens), commas(u.CacheCreationTokens), commas(u.CacheReadTokens),
-		commas(u.OutputTokens), cost, elapsed.Round(time.Millisecond),
-	)
-}
-
-// commas formats an int64 with thousands separators. 12345 -> "12,345".
-func commas(n int64) string {
-	s := strconv.FormatInt(n, 10)
-	if n < 0 {
-		return "-" + commas(-n)
-	}
-	if len(s) <= 3 {
-		return s
-	}
-	out := make([]byte, 0, len(s)+len(s)/3)
-	rem := len(s) % 3
-	if rem > 0 {
-		out = append(out, s[:rem]...)
-		if len(s) > rem {
-			out = append(out, ',')
-		}
-	}
-	for i := rem; i < len(s); i += 3 {
-		out = append(out, s[i:i+3]...)
-		if i+3 < len(s) {
-			out = append(out, ',')
-		}
-	}
-	return string(out)
 }
 
 func loadDocuments(sources []Source, limit int) ([]Document, string, error) {
