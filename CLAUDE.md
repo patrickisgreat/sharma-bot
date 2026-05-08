@@ -46,10 +46,16 @@ gofmt -w .
 go run ./cmd/corpus discover
 go run ./cmd/corpus parse
 go run ./cmd/corpus strip
-go run ./cmd/corpus ask "what about loyalty programs?"
+go run ./cmd/corpus ask "what about loyalty programs?"   # full corpus in context
+go run ./cmd/corpus dig "what about loyalty programs?"   # agent loop with tools
+go run ./cmd/corpus review email.md                      # critique user content
+go run ./cmd/corpus review --batch klaviyo-emails/       # batch mode
 
-# Pipe a file into ask via stdin
-cat my-pdp.html | go run ./cmd/corpus ask -
+# Pipe a file into ask/dig/review via stdin
+cat my-pdp.html | go run ./cmd/corpus dig -
+
+# Mirror a (password-gated) Shopify storefront for review --batch
+./scripts/fetch-shopify.sh https://your-store.myshopify.com
 
 # Inspect pipeline state
 sqlite3 corpus/state.db "SELECT stage, COUNT(*) FROM episodes GROUP BY stage"
@@ -64,14 +70,18 @@ sharma-bot/
 ├── cmd/
 │   └── corpus/                 # CLI entrypoint, thin dispatcher
 ├── internal/
-│   ├── ai/                     # Completer interface, SDK glue, pricing
+│   ├── agent/                  # tool-using dispatch loop (the agentic part)
+│   ├── ai/                     # Completer + ToolCompleter, SDK glue, pricing, telemetry
 │   ├── ask/                    # ask command — corpus-in-context Q&A
+│   ├── dig/                    # dig command — agent-loop Q&A
 │   ├── discover/               # scan raw/, populate state.db
 │   ├── envfile/                # tiny dotenv loader
 │   ├── episode/                # filename parser
 │   ├── parse/                  # cue-parse raw .txt -> cues.json
+│   ├── review/                 # review command — content critique with HTML extraction
 │   ├── state/                  # SQLite schema + queries
 │   ├── strip/                  # Haiku cleanup pass
+│   ├── tools/                  # corpus-reading tools (glob, grep, read_doc)
 │   └── wrap/                   # terminal output wrap
 ├── prompts/                    # role/system prompts per stage (.md, editable)
 ├── corpus/
@@ -85,9 +95,14 @@ sharma-bot/
 
 ## Architecture
 
-Six pipeline stages (`discover` → `parse` → `strip` → `clean` → `enrich` → `validate`), only the first three implemented. Plus an `ask` command that loads the cleaned corpus, docs, and articles into a cached system prompt and queries Sonnet. Coming next: the agent-loop equivalent that uses tool-calls to load only what's needed per question.
+Six pipeline stages (`discover` → `parse` → `strip` → `clean` → `enrich` → `validate`), only the first three implemented. Two query modes on top:
 
-See [docs/architecture.md](docs/architecture.md) for component graphs, sequence diagrams, and design principles.
+- **`ask`** stuffs the entire corpus into a cached system prompt and queries Sonnet 4.6 (1M context). Best for broad cross-corpus questions.
+- **`dig`** runs the agent loop: model gets `glob`/`grep`/`read_doc` tools and pulls only the docs it needs. Per-call cost drops from ~$1.50 to pennies. Default for day-to-day use.
+
+`review` runs `dig`'s machinery against user-supplied content (emails, PDPs, Shopify pages with HTML auto-extracted) with a critique-focused role prompt.
+
+See [docs/architecture.md](docs/architecture.md) for component graphs, sequence diagrams, and design principles. See [docs/roadmap.md](docs/roadmap.md) for what's next.
 
 ## Environment
 

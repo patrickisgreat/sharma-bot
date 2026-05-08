@@ -6,31 +6,53 @@ How the system is put together and why. This is the engineering view — read [U
 
 1. **Files on disk are the source of truth.** Every stage reads its input file and writes its output file. SQLite tracks state, not content. This makes the system easy to debug (you can `cat` any intermediate output) and trivially restartable.
 2. **Each stage is idempotent.** Reruns skip already-processed work via stage tracking in `state.db`. You can crash, restart, or rerun the whole pipeline without fear.
-3. **AI calls go through one interface.** The `ai.Completer` interface is the only seam between business logic and the Anthropic SDK. Stages depend on the interface; tests inject fakes; the eventual agent loop will swap in a tool-using completer behind the same shape.
-4. **No vector DB, no embeddings, no chunking.** The full corpus is small enough to fit in Claude's 1M context. Filesystem layout + per-episode metadata is the index.
+3. **AI calls go through one interface.** The `ai.Completer` and `ai.ToolCompleter` interfaces are the only seams between business logic and the Anthropic SDK. Stages depend on the interfaces; tests inject fakes; future variants (e.g. a recording/replay client) plug in behind the same shape.
+4. **No vector DB, no embeddings, no chunking.** The full corpus is small enough to fit in Claude's 1M context, and the agent loop only loads what it needs anyway. Filesystem layout + per-episode metadata is the index.
 5. **Prompts live on disk.** Every system prompt is a `.md` file in `prompts/`. Editable without recompiling, diffable in git, ungated by Go syntax.
+6. **Frameworks are a tax on understanding.** No LangGraph, no LangChain, no agent SDKs. The agent loop is a while-loop and a switch statement; we own it.
 
 ## Component layout
 
 ```mermaid
 flowchart TD
     main["cmd/corpus<br/>(CLI entrypoint)"]
-    main --> envfile["internal/envfile<br/>(.env loader)"]
-    main --> discover["internal/discover"]
-    main --> parse["internal/parse"]
-    main --> strip["internal/strip"]
-    main --> ask["internal/ask"]
-    main --> wrap["internal/wrap<br/>(terminal output)"]
+
+    subgraph pipeline ["pipeline stages"]
+        discover["internal/discover"]
+        parse["internal/parse"]
+        strip["internal/strip"]
+    end
+
+    subgraph qna ["query-and-answer"]
+        ask["internal/ask<br/>(stuff corpus into context)"]
+        dig["internal/dig<br/>(agent loop)"]
+        review["internal/review<br/>(content critique)"]
+    end
+
+    subgraph agent_layer ["agent loop"]
+        agent["internal/agent<br/>(dispatch loop)"]
+        tools["internal/tools<br/>(glob, grep, read_doc)"]
+    end
+
+    main --> envfile["internal/envfile"]
+    main --> pipeline
+    main --> qna
+    main --> wrap["internal/wrap"]
 
     discover --> state["internal/state<br/>(SQLite)"]
-    discover --> episode["internal/episode<br/>(filename parser)"]
-
+    discover --> episode["internal/episode"]
     parse --> state
     strip --> state
-    strip --> ai["internal/ai<br/>(Completer)"]
+    strip --> ai["internal/ai<br/>(Completer + ToolCompleter)"]
 
     ask --> state
     ask --> ai
+    dig --> agent
+    review --> agent
+
+    agent --> ai
+    agent --> tools
+    tools --> state
 
     ai -.calls.-> sdk["anthropic-sdk-go"]
 
@@ -38,7 +60,7 @@ flowchart TD
     class sdk external;
 ```
 
-Each `internal/*` package owns one concern. `cmd/corpus/main.go` is a thin dispatcher — flag parsing and a switch statement, ~100 lines.
+Each `internal/*` package owns one concern. `cmd/corpus/main.go` is a thin dispatcher — flag parsing and a switch statement, ~140 lines.
 
 ## Pipeline stages
 
@@ -60,14 +82,16 @@ stateDiagram-v2
     failed --> discovered: retry
 ```
 
-What each implemented stage does today:
+What each implemented command does today:
 
-| Stage | Input | Output | AI? |
-|-------|-------|--------|-----|
+| Command | Input | Output | AI? |
+|---------|-------|--------|-----|
 | `discover` | `raw/<source>/*.txt` | rows in `state.db` | no |
 | `parse` | raw `.txt` | `cues/<source>/<id>.json` | no |
 | `strip` | cues JSON | `clean_v1/<source>/<id>.md` | yes (Haiku 4.5) |
-| `ask` | `clean_v1/`, `raw/docs/`, `raw/articles/` | answer to stdout | yes (Sonnet 4.6) |
+| `ask` | `clean_v1/`, `raw/docs/`, `raw/articles/` | answer to stdout | yes (Sonnet 4.6, full corpus in system prompt) |
+| `dig` | same | answer to stdout | yes (Sonnet 4.6, agent loop with tools) |
+| `review` | one file or folder of files | review markdown to stdout / `reviews/<ts>/` | yes (Sonnet 4.6, agent loop) |
 
 `clean`, `enrich`, `validate` are spec'd in [SPEC.md](../SPEC.md) but not built. See [Roadmap](roadmap.md).
 
@@ -81,128 +105,172 @@ corpus/
     docs/*.{md,txt}                     hand-curated operator docs
     articles/*.{md,txt}                 outside writing, references
   cues/
-    limited-supply/*.json               parser output (start, end, text per cue)
+    limited-supply/*.json               parser output
   clean_v1/
     limited-supply/*.md                 Haiku-cleaned prose
 
 prompts/
-  strip.md                              system prompt for the strip stage
-  ask.md                                system prompt for ask (role + citation rules)
+  strip.md                              Haiku cleanup prompt
+  ask.md                                role for ask (corpus-in-context)
+  dig.md                                role for dig (tool-using agent)
+  review.md                             role for review (content critique)
+
+reviews/<timestamp>/                    review --batch outputs (gitignored)
+tmp/                                    fetch-shopify.sh / scratch space (gitignored)
+
+scripts/
+  fetch-shopify.sh                      Shopify storefront mirror helper
 
 docs/                                   you are here
 ```
 
 The `raw/` tree is sacred. Stages may not write back to it. `cues/` and `clean_v1/` are regenerable from `raw/` + the prompts, so they can be deleted and rebuilt.
 
-## Data flow: a single `ask` call
+## Two query modes: ask vs dig
+
+The system has two ways to answer a question. They differ in how much corpus they put in front of the model.
+
+```mermaid
+flowchart LR
+    subgraph ask_mode ["ask: full corpus in context"]
+        q1[user question] --> sys1["system prompt:<br/>role + every doc<br/>(~700K tokens, cached)"]
+        sys1 --> m1[Sonnet 4.6 + 1M context]
+        m1 --> a1[answer]
+    end
+
+    subgraph dig_mode ["dig: agent loop with tools"]
+        q2[user question] --> sys2["system prompt:<br/>role + tool descriptions<br/>(~3K tokens)"]
+        sys2 --> loop{model turn}
+        loop -->|tool_use| tools[("glob / grep<br/>read_doc")]
+        tools -->|tool_result| loop
+        loop -->|text| a2[answer]
+    end
+
+    classDef cached fill:#ddf,stroke:#557;
+    class sys1 cached;
+```
+
+When to use which:
+
+| | `ask` | `dig` |
+|---|---|---|
+| First call cost | ~$1.50 | ~$0.05–$0.20 |
+| Cached call cost | ~$0.20 | same as first |
+| Time | ~10–20s | ~5–60s (depends on tool calls) |
+| Best at | broad questions, "summarize across episodes" | targeted questions, "what specifically about X" |
+| Worst at | if a key claim isn't in the prompt window | needs ≥1 tool round-trip even for trivial questions |
+
+Most day-to-day usage should be `dig`. `ask` is useful when you genuinely want the model to consider the entire corpus in one pass.
+
+## The agent loop
+
+```mermaid
+flowchart TD
+    start([user question]) --> hist["History{UserPrompt: q}"]
+    hist --> step["completer.Step(ctx, sys, hist, tools)"]
+    step --> resp{response}
+    resp -->|text only| done([return answer])
+    resp -->|tool_use blocks| dispatch[for each tool_use:<br/>tools.ByName + Run]
+    dispatch --> err{tool error?}
+    err -->|yes| toolErr["ToolResult{IsError: true}<br/>(model sees error, can react)"]
+    err -->|no| toolOk["ToolResult{Content: output}"]
+    toolErr --> append
+    toolOk --> append
+    append["append assistant turn<br/>+ user turn (tool_results)<br/>to history"]
+    append --> capCheck{step ≤ MaxSteps?}
+    capCheck -->|yes| step
+    capCheck -->|no| failCap([error: max steps])
+```
+
+The whole loop is in [internal/agent/agent.go](../internal/agent/agent.go) and is genuinely small — about 100 lines of actual logic. Everything else (history bookkeeping, tool dispatch, telemetry) is bookkeeping.
+
+**Three structural choices worth knowing:**
+
+1. **Tool errors don't abort the loop.** When `glob` is called with a malformed pattern, or `read_doc` can't find a file, that becomes a `ToolResult{IsError: true}` the model sees on its next turn. The model usually reacts intelligently — retries with different inputs or apologizes and tries another approach. Aborting the loop on tool errors would be a worse experience.
+2. **Unknown tools become tool errors too.** If the model hallucinates a tool name we didn't register, we send back "tool 'imaginary' is not available" as an IsError result. Same logic — the model adapts.
+3. **MaxSteps is a circuit breaker, not a quality gate.** Default 10. If a question genuinely needs more than 10 model rounds, MaxSteps is the wrong fix — the prompt or tool design is.
+
+## Tool design notes
+
+Three tools handle most of the corpus surface:
+
+- **`glob(pattern, source?)`** uses Go's `filepath.Match` semantics (`*`, `?`, `[abc]`). Output is a list of `source / id (title)` lines. The model uses this to discover what's available.
+- **`grep(query, source?, max_results?)`** does case-insensitive substring search across doc bodies. Each match returns up to 3 surrounding-line snippets per doc, with adjacent windows merged so a paragraph with 5 hits doesn't burn the whole budget.
+- **`read_doc(source, id)`** returns one full doc with its title/season/episode/date as a header. Used after grep narrows the field.
+
+Tool descriptions in the prompt are deliberately verbose. The model's tool-selection quality is largely determined by how clearly the descriptions tell it when each tool is the right pick.
+
+## Data flow: a single `dig` call
 
 ```mermaid
 sequenceDiagram
     participant U as User
     participant CLI as cmd/corpus
-    participant Ask as internal/ask
-    participant State as state.db
+    participant Dig as internal/dig
+    participant Agent as internal/agent
+    participant Sonnet
+    participant Tools as tools.Run
     participant FS as filesystem
-    participant Sonnet as Sonnet 4.6
 
-    U->>CLI: corpus ask "what about loyalty?"
-    CLI->>CLI: envfile.Load(".env")
-    CLI->>Ask: Run(corpusDir, promptsDir, q, limit)
-    Ask->>State: AllBySource("limited-supply")
-    State-->>Ask: episodes keyed by external_id
-    Ask->>FS: walk clean_v1/limited-supply/
-    Ask->>FS: walk raw/docs/
-    Ask->>FS: walk raw/articles/
-    FS-->>Ask: []Document
-    Ask->>Ask: buildSystemPrompt(role, docs)
-    Ask->>Sonnet: Complete(system, user)<br/>cache_control=ephemeral
-    Sonnet-->>Ask: answer
-    Ask-->>CLI: answer
-    CLI->>CLI: wrap.Text(answer, width)
-    CLI-->>U: print
+    U->>CLI: corpus dig "loyalty programs?"
+    CLI->>Dig: Run(corpusDir, promptsDir, q, trace)
+    Dig->>Agent: Run(Config{...}, system, q)
+    loop while tool_use
+        Agent->>Sonnet: Step(sys, hist, tools)
+        Sonnet-->>Agent: tool_use(grep, query="loyalty")
+        Agent->>Tools: grep.Run(input)
+        Tools->>FS: walk clean_v1/, raw/docs/, raw/articles/
+        FS-->>Tools: matching docs
+        Tools-->>Agent: text result
+        Agent->>Agent: append assistant + user(tool_result) to history
+    end
+    Sonnet-->>Agent: final text
+    Agent-->>Dig: Result{Answer, Steps, Usage}
+    Dig-->>CLI: answer + telemetry to stderr
+    CLI-->>U: wrap + print
 ```
 
-The system prompt is built deterministically (sorted by source label, then doc id) so the prompt prefix is stable across runs. That stability is what lets the Anthropic prompt cache provide the ~10x discount on repeated questions within the 5-minute TTL.
-
-## The Anthropic interaction
-
-```mermaid
-flowchart LR
-    sys["system prompt<br/>(role + corpus)<br/>~450K tokens<br/>cache_control=ephemeral"]
-    user["user message<br/>(the question)<br/>~50 tokens"]
-    sys --> M[Sonnet 4.6]
-    user --> M
-    M --> A[answer text]
-
-    classDef cached fill:#ddf,stroke:#557;
-    class sys cached;
-```
-
-**Why prompt caching matters here.** The system block is huge (the entire corpus); the user block is tiny (the question). Anthropic charges full input price on the first call but ~10% of input price for cache reads on subsequent calls within the cache TTL. With a 450K-token corpus and ephemeral cache:
-
-- Cold call: ~$1.50-2.00 input cost (assumes 1M-context beta enabled, where >200K tokens are 2x rate)
-- Warm call (within 5 min): ~$0.20
-- Output is ~$0.10-0.20 regardless
-
-This is why the system prompt structure is **sorted, deterministic, and stable**. Any change in ordering invalidates the cache.
-
-## The `Completer` abstraction
+## The `Completer` and `ToolCompleter` interfaces
 
 ```go
 type Completer interface {
-    Complete(ctx context.Context, systemPrompt, userText string) (string, error)
+    Complete(ctx context.Context, systemPrompt, userText string) (string, Usage, error)
+}
+
+type ToolCompleter interface {
+    Step(ctx context.Context, systemPrompt string, hist History, tools []ToolDef) (Step, Usage, error)
 }
 ```
 
-This is the single seam through which stages reach the model. Two implementations matter:
+These are the single seams through which stages reach the model. Production implementations live in `internal/ai`. Tests inject fakes (scripted completers that return canned `Step` sequences). The eventual frontend (Phase 6) will plug in a third implementation that wraps either of these with HTTP transport — but every stage stays unaware.
 
-- `ai.NewCompleter(model, maxTokens)` — production path, calls the SDK with streaming and prompt caching.
-- `fakeCompleter{resp, err}` (in tests) — returns canned text or errors so we can exercise stage orchestration without API calls.
+## Prompt caching
 
-The eventual agent-loop will be a third implementation: a `Completer` that internally dispatches tool calls and accumulates a multi-turn conversation before returning. From the caller's perspective, nothing changes. (See [Roadmap](roadmap.md), Phase 2.)
+Both `ask` and `dig` set `cache_control: ephemeral` on the system block. The system prompt + tool definitions are stable across a session; the user question is the only thing that varies. Result: first call pays full input cost, calls within 5 minutes get ~10% input pricing on the cached prefix.
 
-## Future: the agent loop
-
-Not built yet, but here's the target shape:
-
-```mermaid
-flowchart TD
-    start([user question]) --> loop{model turn}
-    loop -->|text response| done([done])
-    loop -->|tool_use: glob| glob[filesystem.Glob]
-    loop -->|tool_use: grep| grep[filesystem.Grep]
-    loop -->|tool_use: read_file| readf[filesystem.ReadFile]
-    loop -->|tool_use: fetch_url| fetchu[http.Fetch]
-    loop -->|tool_use: screenshot| shot[browser.Screenshot]
-
-    glob --> append[append result to messages]
-    grep --> append
-    readf --> append
-    fetchu --> append
-    shot --> append
-    append --> loop
-```
-
-The loop's job is small: while the model returns `tool_use` blocks, execute the tools, append the results to the messages array, and call the model again. When the model returns plain text, return the answer.
-
-This pattern means we don't have to put the entire 450K-token corpus in every call. The model decides which 3-5 episodes are relevant for the question and reads only those — bringing per-call cost from dollars to pennies, and unlocking corpora that don't fit in context at all.
+For `ask` this is critical (the corpus is the prefix). For `dig` it's smaller savings (the prefix is just the role + tool descriptions, ~3K tokens), but still meaningful when you're iterating on questions.
 
 ## Testing strategy
 
-Every package has unit tests except `cmd/corpus` (which is plumbing) and `internal/discover` (which is filesystem walking; trivial to inspect manually).
+Every package has unit tests except `cmd/corpus` (plumbing) and `internal/discover` (filesystem walking; trivial to inspect manually).
 
-- **Pure functions** (`episode.ParseFilename`, `parse.ParseCues`, `wrap.Text`, `ask.humanizeSlug`, `envfile.Load`) — table-driven tests against fixtures.
+- **Pure functions** (`episode.ParseFilename`, `parse.ParseCues`, `wrap.Text`, `ask.humanizeSlug`, `envfile.Load`, `review.ExtractText`, `ai.EstimateCost`) — table-driven tests against fixtures.
 - **State** (`internal/state`) — opens a temp SQLite DB, asserts on schema and row state.
 - **Stages with AI** (`strip`, `ask`) — `RunWith` accepts an injected `Completer`. Tests use `fakeCompleter` to return canned responses and assert on resulting filesystem + DB state.
+- **Tools** (`internal/tools`) — tempdir corpus fixtures, run each tool with various inputs, assert on output shape.
+- **Agent loop** (`internal/agent`) — `scriptedCompleter` returns a pre-baked sequence of `Step`s; recording fake tools record their calls. Covers happy paths, error paths, multi-tool steps, max-steps cap, usage aggregation.
+- **Tool consumers** (`dig`, `review`) — same scripted completer pattern. Tests focus on plumbing (file loading, batch mode, HTML extraction, prompt construction).
 
-End-to-end tests against the real Anthropic API are out of scope; they'd be flaky, slow, and expensive. Manual inspection of stripped output catches the rare regression.
+End-to-end tests against the real Anthropic API are out of scope.
 
 ## Intentional non-features
 
-These are deliberate omissions, not oversights. Pushing back on adding any of them costs you very little and reading why might prevent the request:
+These are deliberate omissions, not oversights:
 
-- **No web framework / no UI in core.** The core is a CLI. A frontend is on the roadmap, but it'll be a separate process talking to a separate API server, not bolted into the pipeline.
-- **No vector DB.** The corpus is small. Every chunk-retrieval system loses information; loading whole episodes preserves it. We revisit only if the corpus crosses ~10M tokens.
+- **No web framework / no UI in core.** A frontend is on the roadmap, but it'll be a separate process talking to a separate API server, not bolted into the pipeline.
+- **No vector DB.** The corpus is small. Agent-loop tools beat chunked retrieval on accuracy. Revisit only if the corpus crosses ~10M tokens.
 - **No incremental updates.** Reruns are cheap because of state tracking. We'll add RSS-driven incremental fetch only when manually re-running becomes the bottleneck.
-- **No prompt-as-Go-string.** Prompts live in `prompts/*.md`. Editing a system prompt should not require a recompile or PR.
-- **No external orchestrator (LangGraph, etc).** The pipeline is six commands and a state machine. A framework would obscure the parts that are easy and leak through every part that's hard.
+- **No prompt-as-Go-string.** Prompts live in `prompts/*.md`.
+- **No external orchestrator.** The agent loop is one file. Wrapping it in LangGraph would obscure the parts that are easy and leak through every part that's hard.
+- **No multi-turn conversation yet.** `dig` is single-shot. A REPL is on the Phase 2 punch list — not done.
+- **No streaming text output.** The trace shows tool calls as they happen, but the final answer arrives all at once. Streaming the assistant text deltas is on the Phase 2 punch list.
