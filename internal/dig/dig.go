@@ -28,26 +28,26 @@ const (
 )
 
 // Run is the entry used by main: builds default tools and a real ToolCompleter,
-// loads prompts/dig.md, and runs the agent loop. Returns the final answer text.
+// loads prompts/dig.md, and runs the agent loop.
 //
 // trace receives the per-step trace lines from the agent (tool calls and
 // results); pass nil to suppress.
-func Run(corpusDir, promptsDir, question string, trace io.Writer) (string, error) {
+func Run(corpusDir, promptsDir, question string, trace io.Writer) (*ai.CallResult, error) {
 	completer := ai.NewToolCompleter(model, maxTokens)
 	return RunWith(corpusDir, promptsDir, question, completer, tools.NewCorpusTools(corpusDir), trace, timeout)
 }
 
 // RunWith is the testable form: accepts an injected ToolCompleter, an explicit
 // tool list, and a per-call timeout. Tests fake the completer and tools.
-func RunWith(corpusDir, promptsDir, question string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (string, error) {
+func RunWith(corpusDir, promptsDir, question string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
 	question = strings.TrimSpace(question)
 	if question == "" {
-		return "", fmt.Errorf("question is empty")
+		return nil, fmt.Errorf("question is empty")
 	}
 
 	role, err := os.ReadFile(filepath.Join(promptsDir, "dig.md"))
 	if err != nil {
-		return "", fmt.Errorf("read role prompt: %w", err)
+		return nil, fmt.Errorf("read role prompt: %w", err)
 	}
 
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
@@ -63,8 +63,13 @@ func RunWith(corpusDir, promptsDir, question string, completer ai.ToolCompleter,
 	elapsed := time.Since(start)
 
 	if err != nil {
-		return "", err
+		return nil, err
 	}
 	ai.PrintTelemetry(trace, res.Usage, elapsed, fmt.Sprintf("%d step(s)", res.Steps))
-	return res.Answer, nil
+	return &ai.CallResult{
+		Answer:  res.Answer,
+		Usage:   res.Usage,
+		Elapsed: elapsed,
+		Steps:   res.Steps,
+	}, nil
 }

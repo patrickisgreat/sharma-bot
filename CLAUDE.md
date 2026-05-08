@@ -51,11 +51,16 @@ go run ./cmd/corpus dig "what about loyalty programs?"   # agent loop with tools
 go run ./cmd/corpus review email.md                      # critique user content
 go run ./cmd/corpus review --batch klaviyo-emails/       # batch mode
 
+# Every ask/dig/review-single auto-saves a transcript to chats/<date>/<slug>.md
+go run ./cmd/corpus dig --no-save "throwaway question"
+go run ./cmd/corpus dig --out my-chat.md "..."
+
 # Pipe a file into ask/dig/review via stdin
 cat my-pdp.html | go run ./cmd/corpus dig -
 
 # Mirror a (password-gated) Shopify storefront for review --batch
-./scripts/fetch-shopify.sh https://your-store.myshopify.com
+go run ./cmd/corpus fetch-shopify          # uses $SHOPIFY_URL + $SHOPIFY_PASSWORD
+go run ./cmd/corpus fetch-shopify https://other-store.myshopify.com
 
 # Inspect pipeline state
 sqlite3 corpus/state.db "SELECT stage, COUNT(*) FROM episodes GROUP BY stage"
@@ -71,8 +76,9 @@ sharma-bot/
 │   └── corpus/                 # CLI entrypoint, thin dispatcher
 ├── internal/
 │   ├── agent/                  # tool-using dispatch loop (the agentic part)
-│   ├── ai/                     # Completer + ToolCompleter, SDK glue, pricing, telemetry
+│   ├── ai/                     # Completer + ToolCompleter, SDK glue, pricing, telemetry, CallResult
 │   ├── ask/                    # ask command — corpus-in-context Q&A
+│   ├── chats/                  # markdown transcript persistence (frontmatter + Q/A/Trace)
 │   ├── dig/                    # dig command — agent-loop Q&A
 │   ├── discover/               # scan raw/, populate state.db
 │   ├── envfile/                # tiny dotenv loader
@@ -109,7 +115,9 @@ See [docs/architecture.md](docs/architecture.md) for component graphs, sequence 
 `.env` is loaded automatically at the start of every CLI invocation by `internal/envfile`. Variables already set in the process env win over `.env` (so `export ANTHROPIC_API_KEY=...` in the shell beats a stale `.env`).
 
 ```
-ANTHROPIC_API_KEY=...           # required for strip and ask
+ANTHROPIC_API_KEY=...           # required for strip / ask / dig / review
+SHOPIFY_URL=...                 # used by corpus fetch-shopify
+SHOPIFY_PASSWORD=...             # used by scripts/fetch-shopify.sh for password-gated stores
 ```
 
 Never commit `.env`. It's in `.gitignore`. Use `.env.example` as the template.

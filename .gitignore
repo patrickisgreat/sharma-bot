@@ -3,8 +3,9 @@
 .DS_Store
 
 # Working areas — regenerable, large, or per-run
-tmp/
-reviews/
+/tmp/
+/reviews/
+/chats/
 
 # Pipeline state DB — regenerable from raw/
 corpus/state.db

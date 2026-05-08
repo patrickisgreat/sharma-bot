@@ -61,7 +61,7 @@ func DefaultSources(corpusDir string) []Source {
 // Run is the entry used by main: it builds default sources and a real Completer
 // with the 1M-context beta enabled (the corpus exceeds 200K tokens once
 // stripped in full).
-func Run(corpusDir, promptsDir, question string, limit int) (string, error) {
+func Run(corpusDir, promptsDir, question string, limit int) (*ai.CallResult, error) {
 	sources := DefaultSources(corpusDir)
 	completer := ai.NewCompleter(model, maxTokens, ai.WithLongContext())
 	return RunWith(promptsDir, question, sources, limit, completer, timeout)
@@ -69,23 +69,23 @@ func Run(corpusDir, promptsDir, question string, limit int) (string, error) {
 
 // RunWith is the testable form. It accepts an explicit source list, an
 // injected Completer, and a per-call timeout.
-func RunWith(promptsDir, question string, sources []Source, limit int, completer ai.Completer, perCallTimeout time.Duration) (string, error) {
+func RunWith(promptsDir, question string, sources []Source, limit int, completer ai.Completer, perCallTimeout time.Duration) (*ai.CallResult, error) {
 	question = strings.TrimSpace(question)
 	if question == "" {
-		return "", fmt.Errorf("question is empty")
+		return nil, fmt.Errorf("question is empty")
 	}
 
 	role, err := os.ReadFile(filepath.Join(promptsDir, "ask.md"))
 	if err != nil {
-		return "", fmt.Errorf("read role prompt: %w", err)
+		return nil, fmt.Errorf("read role prompt: %w", err)
 	}
 
 	docs, summary, err := loadDocuments(sources, limit)
 	if err != nil {
-		return "", err
+		return nil, err
 	}
 	if len(docs) == 0 {
-		return "", fmt.Errorf("no documents found in any source")
+		return nil, fmt.Errorf("no documents found in any source")
 	}
 
 	system := buildSystemPrompt(string(role), docs)
@@ -98,7 +98,15 @@ func RunWith(promptsDir, question string, sources []Source, limit int, completer
 	answer, usage, err := completer.Complete(ctx, system, question)
 	elapsed := time.Since(start)
 	ai.PrintTelemetry(os.Stderr, usage, elapsed, "")
-	return answer, err
+	if err != nil {
+		return nil, err
+	}
+	return &ai.CallResult{
+		Answer:  answer,
+		Usage:   usage,
+		Elapsed: elapsed,
+		Steps:   1,
+	}, nil
 }
 
 func loadDocuments(sources []Source, limit int) ([]Document, string, error) {
