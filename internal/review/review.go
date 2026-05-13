@@ -161,7 +161,7 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 	}
 	defer r.close()
 
-	if pw := os.Getenv("SHOPIFY_PASSWORD"); pw != "" {
+	if pw := os.Getenv("SHOPIFY_PASSWORD"); pw != "" && shouldAuthenticate(base, os.Getenv("SHOPIFY_URL")) {
 		fmt.Fprintf(status, "authenticating to %s...\n", base.Host)
 		authCtx, cancel := context.WithTimeout(context.Background(), renderTimeout)
 		err := r.authenticate(authCtx, base.Scheme+"://"+base.Host, pw)
@@ -241,6 +241,22 @@ func renderWith(r *renderer, perCallTimeout time.Duration, rawURL string) ([]byt
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
 	defer cancel()
 	return r.render(ctx, rawURL)
+}
+
+// shouldAuthenticate decides whether to attempt the Shopify password-gate
+// flow. SHOPIFY_PASSWORD is paired with SHOPIFY_URL in the user's .env, so
+// we only auth when the crawl target shares a host with SHOPIFY_URL —
+// otherwise the password input never appears and the form-fill stalls until
+// the per-call timeout fires.
+func shouldAuthenticate(crawlBase *url.URL, shopifyURL string) bool {
+	if shopifyURL == "" {
+		return false
+	}
+	su, err := url.Parse(shopifyURL)
+	if err != nil || su.Host == "" {
+		return false
+	}
+	return strings.EqualFold(crawlBase.Host, su.Host)
 }
 
 func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {

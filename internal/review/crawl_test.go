@@ -85,6 +85,31 @@ func TestExtractLinksExcludesBaseItself(t *testing.T) {
 	}
 }
 
+func TestShouldAuthenticate(t *testing.T) {
+	cases := []struct {
+		name       string
+		crawl      string
+		shopifyURL string
+		want       bool
+	}{
+		{"matching host", "https://staging.brand.com/", "https://staging.brand.com", true},
+		{"matching host with trailing slash", "https://staging.brand.com/", "https://staging.brand.com/", true},
+		{"matching host case-insensitive", "https://Brand.com/", "https://brand.com", true},
+		{"different host", "https://getringstring.com/", "https://staging.brand.com", false},
+		{"empty SHOPIFY_URL", "https://anything.com/", "", false},
+		{"malformed SHOPIFY_URL", "https://anything.com/", "::not a url::", false},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			u := mustURL(t, tc.crawl)
+			if got := shouldAuthenticate(u, tc.shopifyURL); got != tc.want {
+				t.Errorf("shouldAuthenticate(%q, %q) = %v, want %v",
+					tc.crawl, tc.shopifyURL, got, tc.want)
+			}
+		})
+	}
+}
+
 func TestSlugFromURL(t *testing.T) {
 	cases := map[string]string{
 		"https://brand.com/":                  "index",
