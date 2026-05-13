@@ -9,6 +9,7 @@ import (
 	"fmt"
 	"io"
 	"io/fs"
+	"net/url"
 	"os"
 	"path/filepath"
 	"strings"
@@ -22,31 +23,40 @@ import (
 )
 
 const (
-	model     = anthropic.ModelClaudeSonnet4_6
-	maxTokens = int64(8192)
-	maxSteps  = 12
-	timeout   = 5 * time.Minute
+	model           = anthropic.ModelClaudeSonnet4_6
+	maxTokens       = int64(8192)
+	maxSteps        = 12
+	timeout         = 5 * time.Minute
+	defaultMaxPages = 20
+	crawlDelay      = 1500 * time.Millisecond
 )
 
-// Run reviews either one file (path != "") or every supported file in
-// batchDir. If both are empty, content is read from stdinReader.
+// Run reviews either one file (path != ""), every supported file in batchDir,
+// or every same-host one-hop page reachable from crawlURL. If all three are
+// empty, content is read from stdinReader.
 //
 // Returns a CallResult for single-file mode (so the caller can persist the
-// chat). Batch mode writes per-file outputs to reviews/<timestamp>/ and
-// returns (nil, nil) on success — there's no single chat to save.
+// chat). Batch and crawl modes write per-page outputs to reviews/<timestamp>/
+// and return (nil, nil) on success — there's no single chat to save.
 //
-// trace receives per-step trace lines (tool calls, results, telemetry).
-// Pass nil to suppress.
-func Run(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, trace io.Writer) (*ai.CallResult, error) {
+// trace receives per-step trace lines (tool calls, results, telemetry) and,
+// for crawl mode, per-page status lines. Pass nil to suppress.
+func Run(corpusDir, promptsDir, path, batchDir, crawlURL string, maxPages int, stdinReader io.Reader, trace io.Writer) (*ai.CallResult, error) {
 	completer := ai.NewToolCompleter(model, maxTokens)
-	return RunWith(corpusDir, promptsDir, path, batchDir, stdinReader, completer, tools.NewCorpusTools(corpusDir), trace, timeout)
+	return RunWith(corpusDir, promptsDir, path, batchDir, crawlURL, maxPages, stdinReader, completer, tools.NewCorpusTools(corpusDir), trace, timeout)
 }
 
 // RunWith is the testable form: explicit completer + tools + timeout.
-func RunWith(corpusDir, promptsDir, path, batchDir string, stdinReader io.Reader, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
+func RunWith(corpusDir, promptsDir, path, batchDir, crawlURL string, maxPages int, stdinReader io.Reader, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
 	role, err := os.ReadFile(filepath.Join(promptsDir, "review.md"))
 	if err != nil {
 		return nil, fmt.Errorf("read role prompt: %w", err)
+	}
+	if crawlURL != "" {
+		if err := runCrawl(crawlURL, maxPages, string(role), completer, ts, trace, perCallTimeout); err != nil {
+			return nil, err
+		}
+		return nil, nil
 	}
 	if batchDir != "" {
 		if err := runBatch(batchDir, string(role), completer, ts, trace, perCallTimeout); err != nil {
@@ -122,6 +132,116 @@ func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool
 		fmt.Fprintf(trace, "\nreview: %d ok, %d failed → %s\n", ok, fail, outDir)
 	}
 	return nil
+}
+
+func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) error {
+	if maxPages <= 0 {
+		maxPages = defaultMaxPages
+	}
+	base, err := url.Parse(startURL)
+	if err != nil || (base.Scheme != "http" && base.Scheme != "https") || base.Host == "" {
+		return fmt.Errorf("crawl: invalid URL %q (need http(s)://host/...)", startURL)
+	}
+
+	status := trace
+	if status == nil {
+		status = io.Discard
+	}
+
+	outDir := filepath.Join("reviews", time.Now().Format("20060102-150405"))
+	pagesDir := filepath.Join(outDir, "_pages")
+	if err := os.MkdirAll(pagesDir, 0o755); err != nil {
+		return err
+	}
+
+	cookiesPath := ""
+	if pw := os.Getenv("SHOPIFY_PASSWORD"); pw != "" {
+		cookiesPath = filepath.Join(outDir, "cookies.txt")
+	}
+	f, err := newFetcher(cookiesPath, crawlDelay)
+	if err != nil {
+		return err
+	}
+
+	authCtx, cancelAuth := context.WithTimeout(context.Background(), 30*time.Second)
+	defer cancelAuth()
+	if cookiesPath != "" {
+		fmt.Fprintf(status, "authenticating to %s...\n", base.Host)
+		if err := f.authenticate(authCtx, base.Scheme+"://"+base.Host, os.Getenv("SHOPIFY_PASSWORD")); err != nil {
+			return fmt.Errorf("crawl auth: %w", err)
+		}
+	}
+
+	fmt.Fprintf(status, "fetching %s (cap %d page(s))\n", startURL, maxPages)
+	startData, err := fetchWith(f, perCallTimeout, base.String())
+	if err != nil {
+		return fmt.Errorf("fetch homepage: %w", err)
+	}
+	if err := os.WriteFile(filepath.Join(pagesDir, slugFromURL(base)+".html"), startData, 0o644); err != nil {
+		return err
+	}
+
+	links := extractLinks(base, startData)
+	queue := []string{base.String()}
+	queue = append(queue, links...)
+	if len(queue) > maxPages {
+		queue = queue[:maxPages]
+	}
+	fmt.Fprintf(status, "found %d link(s); reviewing %d page(s) → %s\n", len(links), len(queue), outDir)
+
+	var fetchErrs, reviewErrs, ok int
+	for i, raw := range queue {
+		u, _ := url.Parse(raw)
+		slug := slugFromURL(u)
+		htmlPath := filepath.Join(pagesDir, slug+".html")
+
+		fmt.Fprintf(status, "\n[%d/%d] %s\n", i+1, len(queue), raw)
+
+		var data []byte
+		if i == 0 {
+			data = startData
+		} else {
+			fetchStart := time.Now()
+			data, err = fetchWith(f, perCallTimeout, raw)
+			if err != nil {
+				fmt.Fprintf(status, "  fetch error: %v\n", err)
+				fetchErrs++
+				continue
+			}
+			fmt.Fprintf(status, "  fetched in %s (%d bytes)\n", time.Since(fetchStart).Round(time.Millisecond), len(data))
+			if err := os.WriteFile(htmlPath, data, 0o644); err != nil {
+				return err
+			}
+		}
+
+		content := ExtractText(data)
+		label := "page at " + raw + " (HTML extracted)"
+		reviewStart := time.Now()
+		res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
+		if err != nil {
+			fmt.Fprintf(status, "  review error: %v\n", err)
+			reviewErrs++
+			continue
+		}
+		outPath := filepath.Join(outDir, slug+".review.md")
+		header := fmt.Sprintf("# Review: %s\n\n", raw)
+		if err := os.WriteFile(outPath, []byte(header+res.Answer), 0o644); err != nil {
+			return err
+		}
+		fmt.Fprintf(status, "  reviewed in %s → %s\n", time.Since(reviewStart).Round(time.Millisecond), outPath)
+		ok++
+	}
+
+	fmt.Fprintf(status, "\ncrawl: %d reviewed, %d fetch error(s), %d review error(s) → %s\n", ok, fetchErrs, reviewErrs, outDir)
+	return nil
+}
+
+// fetchWith wraps fetcher.fetch with a fresh per-request context+timeout so
+// the caller doesn't have to thread one through for every call.
+func fetchWith(f *fetcher, perCallTimeout time.Duration, rawURL string) ([]byte, error) {
+	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
+	defer cancel()
+	return f.fetch(ctx, rawURL)
 }
 
 func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {

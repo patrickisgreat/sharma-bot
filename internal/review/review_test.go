@@ -47,7 +47,7 @@ func TestReviewSingleFileMarkdown(t *testing.T) {
 	}
 
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "review output", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, contentFile, "", nil, completer, nil, nil, time.Second)
+	_, err := RunWith(corpusDir, promptsDir, contentFile, "", "", 0, nil, completer, nil, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -72,7 +72,7 @@ func TestReviewSingleFileHTMLExtracted(t *testing.T) {
 	}
 
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "ok", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, contentFile, "", nil, completer, nil, nil, time.Second)
+	_, err := RunWith(corpusDir, promptsDir, contentFile, "", "", 0, nil, completer, nil, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -92,7 +92,7 @@ func TestReviewStdin(t *testing.T) {
 	promptsDir := t.TempDir()
 	writePrompt(t, promptsDir, "ROLE")
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "ok", StopReason: "end_turn"}}}
-	_, err := RunWith("", promptsDir, "", "", strings.NewReader("piped content"), completer, nil, nil, time.Second)
+	_, err := RunWith("", promptsDir, "", "", "", 0, strings.NewReader("piped content"), completer, nil, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -134,7 +134,7 @@ func TestReviewBatch(t *testing.T) {
 	}
 
 	var trace bytes.Buffer
-	_, err := RunWith(corpusDir, promptsDir, "", batchDir, nil, completer, nil, &trace, time.Second)
+	_, err := RunWith(corpusDir, promptsDir, "", batchDir, "", 0, nil, completer, nil, &trace, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -151,7 +151,7 @@ func TestReviewBatchEmptyDirErrors(t *testing.T) {
 	promptsDir := t.TempDir()
 	writePrompt(t, promptsDir, "ROLE")
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "x", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, "", t.TempDir(), nil, completer, nil, nil, time.Second)
+	_, err := RunWith(corpusDir, promptsDir, "", t.TempDir(), "", 0, nil, completer, nil, nil, time.Second)
 	if err == nil || !strings.Contains(err.Error(), "no supported files") {
 		t.Errorf("expected no-supported-files error, got %v", err)
 	}
@@ -159,7 +159,7 @@ func TestReviewBatchEmptyDirErrors(t *testing.T) {
 
 func TestReviewMissingRolePrompt(t *testing.T) {
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "x", StopReason: "end_turn"}}}
-	_, err := RunWith("", t.TempDir(), "", "", nil, completer, nil, nil, time.Second)
+	_, err := RunWith("", t.TempDir(), "", "", "", 0, nil, completer, nil, nil, time.Second)
 	if err == nil || !strings.Contains(err.Error(), "role prompt") {
 		t.Errorf("expected role-prompt error, got %v", err)
 	}
