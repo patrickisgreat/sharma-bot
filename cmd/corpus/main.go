@@ -41,6 +41,8 @@ flags:
   --width        wrap output to N columns (0 = no wrap; default: 100)
   --trace        print agent step trace to stderr (dig/review; default: true)
   --batch        directory of files to review (review only)
+  --crawl        entry URL to crawl one hop and review each same-host page
+  --max-pages    cap on pages reviewed during --crawl (default 20)
   --out          override chat-save path (single-shot commands only)
   --no-save      skip writing the chat file
 
@@ -51,8 +53,9 @@ ask / dig:
 
 review:
   corpus review email.md
-  corpus review page.html         # HTML auto-extracted to text
+  corpus review page.html             # HTML auto-extracted to text
   corpus review --batch shopify-mirror/
+  corpus review --crawl https://brand.com [--max-pages 30]
 
 fetch-shopify:
   corpus fetch-shopify                          # uses $SHOPIFY_URL
@@ -78,6 +81,8 @@ func main() {
 	width := fs.Int("width", 100, "wrap output to N columns (0 disables)")
 	trace := fs.Bool("trace", true, "print agent step trace to stderr (dig/review)")
 	batch := fs.String("batch", "", "directory of files to review (review only)")
+	crawl := fs.String("crawl", "", "entry URL to crawl one hop and review (review only)")
+	maxPages := fs.Int("max-pages", 0, "cap on pages reviewed during --crawl (0 = default 20)")
 	out := fs.String("out", "", "override chat-save path (single-shot commands)")
 	noSave := fs.Bool("no-save", false, "skip writing the chat transcript")
 	fs.Usage = func() { fmt.Fprint(os.Stderr, usage) }
@@ -96,7 +101,7 @@ func main() {
 	case "dig":
 		err = runDig(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *width, *trace, fs.Args())
 	case "review":
-		err = runReview(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *batch, *trace, fs.Args())
+		err = runReview(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *batch, *crawl, *maxPages, *trace, fs.Args())
 	case "fetch-shopify":
 		err = runFetchShopify(fs.Args())
 	case "-h", "--help", "help":
@@ -155,19 +160,20 @@ func runDig(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, width 
 	return nil
 }
 
-func runReview(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, batchDir string, trace bool, args []string) error {
-	traceW, traceBuf := traceWriter(trace, !noSave && batchDir == "")
+func runReview(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, batchDir, crawlURL string, maxPages int, trace bool, args []string) error {
+	singleShot := batchDir == "" && crawlURL == ""
+	traceW, traceBuf := traceWriter(trace, !noSave && singleShot)
 
 	path := ""
 	if len(args) > 0 {
 		path = args[0]
 	}
 
-	res, err := review.Run(corpusDir, promptsDir, path, batchDir, os.Stdin, traceW)
+	res, err := review.Run(corpusDir, promptsDir, path, batchDir, crawlURL, maxPages, os.Stdin, traceW)
 	if err != nil {
 		return err
 	}
-	// Batch mode: review writes its own per-file outputs; nothing to chat-save.
+	// Batch / crawl modes write per-page outputs; nothing to chat-save.
 	if res == nil {
 		return nil
 	}

@@ -1,0 +1,123 @@
+package review
+
+import (
+	"net/url"
+	"reflect"
+	"testing"
+)
+
+func mustURL(t *testing.T, s string) *url.URL {
+	t.Helper()
+	u, err := url.Parse(s)
+	if err != nil {
+		t.Fatal(err)
+	}
+	return u
+}
+
+func TestExtractLinksSameHostOnly(t *testing.T) {
+	base := mustURL(t, "https://brand.com/")
+	html := `
+		<a href="/products/foo">Foo</a>
+		<a href="https://brand.com/products/bar">Bar</a>
+		<a href="https://other.com/spam">Other</a>
+		<a href="https://cdn.brand.com/asset">CDN</a>
+	`
+	got := extractLinks(base, []byte(html))
+	want := []string{
+		"https://brand.com/products/foo",
+		"https://brand.com/products/bar",
+	}
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("got %v, want %v", got, want)
+	}
+}
+
+func TestExtractLinksSkipsNonHTTPAndAssets(t *testing.T) {
+	base := mustURL(t, "https://brand.com/")
+	html := `
+		<a href="mailto:hi@brand.com">Mail</a>
+		<a href="tel:+15555550100">Phone</a>
+		<a href="javascript:void(0)">JS</a>
+		<a href="#top">Anchor</a>
+		<a href="/static/main.css">CSS</a>
+		<a href="/img/hero.jpg">Image</a>
+		<a href="/feed.xml">Feed</a>
+		<a href="/products/keep">Keep</a>
+	`
+	got := extractLinks(base, []byte(html))
+	want := []string{"https://brand.com/products/keep"}
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("got %v, want %v", got, want)
+	}
+}
+
+func TestExtractLinksDedupesAndStripsFragments(t *testing.T) {
+	base := mustURL(t, "https://brand.com/")
+	html := `
+		<a href="/products/foo">A</a>
+		<a href="/products/foo#features">A again with anchor</a>
+		<a href="https://brand.com/products/foo">A absolute</a>
+		<a href="/products/bar?utm=x">B</a>
+		<a href="/products/bar?utm=x">B dup</a>
+	`
+	got := extractLinks(base, []byte(html))
+	want := []string{
+		"https://brand.com/products/foo",
+		"https://brand.com/products/bar?utm=x",
+	}
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("got %v, want %v", got, want)
+	}
+}
+
+func TestExtractLinksExcludesBaseItself(t *testing.T) {
+	base := mustURL(t, "https://brand.com/")
+	html := `
+		<a href="/">Home</a>
+		<a href="https://brand.com">Home absolute</a>
+		<a href="/products/foo">Foo</a>
+	`
+	got := extractLinks(base, []byte(html))
+	want := []string{"https://brand.com/products/foo"}
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("got %v, want %v", got, want)
+	}
+}
+
+func TestSlugFromURL(t *testing.T) {
+	cases := map[string]string{
+		"https://brand.com/":                  "index",
+		"https://brand.com":                   "index",
+		"https://brand.com/products/foo":      "products-foo",
+		"https://brand.com/products/foo/":     "products-foo",
+		"https://brand.com/pages/about-us":    "pages-about-us",
+		"https://brand.com/a/b/c":             "a-b-c",
+		"https://brand.com/products/foo?x=1":  "products-foo",
+	}
+	for in, want := range cases {
+		u := mustURL(t, in)
+		if got := slugFromURL(u); got != want {
+			t.Errorf("slugFromURL(%q) = %q, want %q", in, got, want)
+		}
+	}
+}
+
+func TestSplitStatus(t *testing.T) {
+	cases := []struct {
+		raw      string
+		wantBody string
+		wantCode int
+	}{
+		{"hello\n__HTTP_STATUS__=200", "hello", 200},
+		{"body\nlines\n__HTTP_STATUS__=404", "body\nlines", 404},
+		{"no sentinel", "no sentinel", 0},
+	}
+	for _, tc := range cases {
+		body, code := splitStatus([]byte(tc.raw))
+		if string(body) != tc.wantBody || code != tc.wantCode {
+			t.Errorf("splitStatus(%q) = (%q, %d), want (%q, %d)",
+				tc.raw, body, code, tc.wantBody, tc.wantCode)
+		}
+	}
+}
