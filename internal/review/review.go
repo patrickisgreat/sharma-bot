@@ -28,7 +28,7 @@ const (
 	maxSteps        = 12
 	timeout         = 5 * time.Minute
 	defaultMaxPages = 20
-	crawlDelay      = 1500 * time.Millisecond
+	renderTimeout   = 60 * time.Second
 )
 
 // Run reviews either one file (path != ""), every supported file in batchDir,
@@ -154,28 +154,27 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 		return err
 	}
 
-	cookiesPath := ""
-	if pw := os.Getenv("SHOPIFY_PASSWORD"); pw != "" {
-		cookiesPath = filepath.Join(outDir, "cookies.txt")
-	}
-	f, err := newFetcher(cookiesPath, crawlDelay)
+	fmt.Fprintf(status, "launching headless chrome...\n")
+	r, err := newRenderer(context.Background(), renderSettle)
 	if err != nil {
 		return err
 	}
+	defer r.close()
 
-	authCtx, cancelAuth := context.WithTimeout(context.Background(), 30*time.Second)
-	defer cancelAuth()
-	if cookiesPath != "" {
+	if pw := os.Getenv("SHOPIFY_PASSWORD"); pw != "" {
 		fmt.Fprintf(status, "authenticating to %s...\n", base.Host)
-		if err := f.authenticate(authCtx, base.Scheme+"://"+base.Host, os.Getenv("SHOPIFY_PASSWORD")); err != nil {
+		authCtx, cancel := context.WithTimeout(context.Background(), renderTimeout)
+		err := r.authenticate(authCtx, base.Scheme+"://"+base.Host, pw)
+		cancel()
+		if err != nil {
 			return fmt.Errorf("crawl auth: %w", err)
 		}
 	}
 
-	fmt.Fprintf(status, "fetching %s (cap %d page(s))\n", startURL, maxPages)
-	startData, err := fetchWith(f, perCallTimeout, base.String())
+	fmt.Fprintf(status, "rendering %s (cap %d page(s))\n", startURL, maxPages)
+	startData, err := renderWith(r, perCallTimeout, base.String())
 	if err != nil {
-		return fmt.Errorf("fetch homepage: %w", err)
+		return fmt.Errorf("render homepage: %w", err)
 	}
 	if err := os.WriteFile(filepath.Join(pagesDir, slugFromURL(base)+".html"), startData, 0o644); err != nil {
 		return err
@@ -202,13 +201,13 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 			data = startData
 		} else {
 			fetchStart := time.Now()
-			data, err = fetchWith(f, perCallTimeout, raw)
+			data, err = renderWith(r, perCallTimeout, raw)
 			if err != nil {
-				fmt.Fprintf(status, "  fetch error: %v\n", err)
+				fmt.Fprintf(status, "  render error: %v\n", err)
 				fetchErrs++
 				continue
 			}
-			fmt.Fprintf(status, "  fetched in %s (%d bytes)\n", time.Since(fetchStart).Round(time.Millisecond), len(data))
+			fmt.Fprintf(status, "  rendered in %s (%d bytes)\n", time.Since(fetchStart).Round(time.Millisecond), len(data))
 			if err := os.WriteFile(htmlPath, data, 0o644); err != nil {
 				return err
 			}
@@ -232,16 +231,16 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 		ok++
 	}
 
-	fmt.Fprintf(status, "\ncrawl: %d reviewed, %d fetch error(s), %d review error(s) → %s\n", ok, fetchErrs, reviewErrs, outDir)
+	fmt.Fprintf(status, "\ncrawl: %d reviewed, %d render error(s), %d review error(s) → %s\n", ok, fetchErrs, reviewErrs, outDir)
 	return nil
 }
 
-// fetchWith wraps fetcher.fetch with a fresh per-request context+timeout so
-// the caller doesn't have to thread one through for every call.
-func fetchWith(f *fetcher, perCallTimeout time.Duration, rawURL string) ([]byte, error) {
+// renderWith wraps renderer.render with a fresh per-request context+timeout
+// so the caller doesn't have to thread one through for every call.
+func renderWith(r *renderer, perCallTimeout time.Duration, rawURL string) ([]byte, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
 	defer cancel()
-	return f.fetch(ctx, rawURL)
+	return r.render(ctx, rawURL)
 }
 
 func reviewOne(content, label, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {

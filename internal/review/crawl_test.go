@@ -103,21 +103,3 @@ func TestSlugFromURL(t *testing.T) {
 	}
 }
 
-func TestSplitStatus(t *testing.T) {
-	cases := []struct {
-		raw      string
-		wantBody string
-		wantCode int
-	}{
-		{"hello\n__HTTP_STATUS__=200", "hello", 200},
-		{"body\nlines\n__HTTP_STATUS__=404", "body\nlines", 404},
-		{"no sentinel", "no sentinel", 0},
-	}
-	for _, tc := range cases {
-		body, code := splitStatus([]byte(tc.raw))
-		if string(body) != tc.wantBody || code != tc.wantCode {
-			t.Errorf("splitStatus(%q) = (%q, %d), want (%q, %d)",
-				tc.raw, body, code, tc.wantBody, tc.wantCode)
-		}
-	}
-}
