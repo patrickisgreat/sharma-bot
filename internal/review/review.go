@@ -223,10 +223,13 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 			continue
 		}
 		outPath := filepath.Join(outDir, slug+".review.md")
-		header := fmt.Sprintf("# %s\n\n---\n\n", titleFromURL(u))
+		header := fmt.Sprintf("# %s\n\nReview: %s\n\n---\n\n", titleFromURL(u), raw)
 		body := stripPreamble(res.Answer)
 		if err := os.WriteFile(outPath, []byte(header+body), 0o644); err != nil {
 			return err
+		}
+		if err := writeDOCX(outPath); err != nil {
+			fmt.Fprintf(status, "  docx: skipped (%v)\n", err)
 		}
 		fmt.Fprintf(status, "  reviewed in %s → %s\n", time.Since(reviewStart).Round(time.Millisecond), outPath)
 		ok++
