@@ -85,6 +85,86 @@ func TestExtractLinksExcludesBaseItself(t *testing.T) {
 	}
 }
 
+func TestShouldAuthenticate(t *testing.T) {
+	cases := []struct {
+		name       string
+		crawl      string
+		shopifyURL string
+		want       bool
+	}{
+		{"matching host", "https://staging.brand.com/", "https://staging.brand.com", true},
+		{"matching host with trailing slash", "https://staging.brand.com/", "https://staging.brand.com/", true},
+		{"matching host case-insensitive", "https://Brand.com/", "https://brand.com", true},
+		{"different host", "https://getringstring.com/", "https://staging.brand.com", false},
+		{"empty SHOPIFY_URL", "https://anything.com/", "", false},
+		{"malformed SHOPIFY_URL", "https://anything.com/", "::not a url::", false},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			u := mustURL(t, tc.crawl)
+			if got := shouldAuthenticate(u, tc.shopifyURL); got != tc.want {
+				t.Errorf("shouldAuthenticate(%q, %q) = %v, want %v",
+					tc.crawl, tc.shopifyURL, got, tc.want)
+			}
+		})
+	}
+}
+
+func TestTitleFromURL(t *testing.T) {
+	cases := map[string]string{
+		"https://brand.com/":                  "Home",
+		"https://brand.com":                   "Home",
+		"https://brand.com/pages/catalog":     "Catalog",
+		"https://brand.com/pages/about-us":    "About Us",
+		"https://brand.com/products/foo_bar":  "Foo Bar",
+		"https://brand.com/policies/privacy": "Privacy",
+		"https://brand.com/contact.html":      "Contact",
+		"https://brand.com/a/b/c-d":           "C D",
+	}
+	for in, want := range cases {
+		u := mustURL(t, in)
+		if got := titleFromURL(u); got != want {
+			t.Errorf("titleFromURL(%q) = %q, want %q", in, got, want)
+		}
+	}
+}
+
+func TestStripPreamble(t *testing.T) {
+	cases := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{
+			name: "drops process narration",
+			in:   "I have everything I need. Here's the full review.\n\n---\n\n## What's working\n\n- a\n",
+			want: "## What's working\n\n- a\n",
+		},
+		{
+			name: "leading h2 stays put",
+			in:   "## What's working\n\n- a\n",
+			want: "## What's working\n\n- a\n",
+		},
+		{
+			name: "no h2 returns input unchanged",
+			in:   "just some prose with no headings",
+			want: "just some prose with no headings",
+		},
+		{
+			name: "drops single-line preamble",
+			in:   "Here's my review:\n## What's working\n",
+			want: "## What's working\n",
+		},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := stripPreamble(tc.in); got != tc.want {
+				t.Errorf("stripPreamble:\ngot  %q\nwant %q", got, tc.want)
+			}
+		})
+	}
+}
+
 func TestSlugFromURL(t *testing.T) {
 	cases := map[string]string{
 		"https://brand.com/":                  "index",
@@ -103,21 +183,3 @@ func TestSlugFromURL(t *testing.T) {
 	}
 }
 
-func TestSplitStatus(t *testing.T) {
-	cases := []struct {
-		raw      string
-		wantBody string
-		wantCode int
-	}{
-		{"hello\n__HTTP_STATUS__=200", "hello", 200},
-		{"body\nlines\n__HTTP_STATUS__=404", "body\nlines", 404},
-		{"no sentinel", "no sentinel", 0},
-	}
-	for _, tc := range cases {
-		body, code := splitStatus([]byte(tc.raw))
-		if string(body) != tc.wantBody || code != tc.wantCode {
-			t.Errorf("splitStatus(%q) = (%q, %d), want (%q, %d)",
-				tc.raw, body, code, tc.wantBody, tc.wantCode)
-		}
-	}
-}
