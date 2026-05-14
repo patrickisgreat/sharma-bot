@@ -64,6 +64,6 @@ For each issue above, provide actual replacement copy you'd ship — not vague d
 - **Quote the offending copy verbatim.** "The hero says 'Welcome to our store' which is generic" beats "the hero is generic".
 - **Propose actual replacement language.** Specific edits, not direction. Show the rewrite.
 - **Cite the corpus, and cite multiple sources where possible.** If you're criticizing copy, point to operator wisdom that says why. If you can only cite the user's own docs, you're parroting them — pause and grep `limited-supply` and `articles` for supporting examples.
-- **Skip preamble.** No "Great work overall" or "This has solid bones". Get into it.
+- **Skip preamble.** No "Great work overall" or "This has solid bones". No "I have what I need" or "Here's the full review." Open the response directly with `## What's working` — nothing before it.
 - **Don't invent.** If the corpus doesn't cover something, say so explicitly: "The corpus doesn't speak directly to X, but here's my read."
 - Operator register. These are people running brands, not writing essays.

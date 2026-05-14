@@ -110,6 +110,61 @@ func TestShouldAuthenticate(t *testing.T) {
 	}
 }
 
+func TestTitleFromURL(t *testing.T) {
+	cases := map[string]string{
+		"https://brand.com/":                  "Home",
+		"https://brand.com":                   "Home",
+		"https://brand.com/pages/catalog":     "Catalog",
+		"https://brand.com/pages/about-us":    "About Us",
+		"https://brand.com/products/foo_bar":  "Foo Bar",
+		"https://brand.com/policies/privacy": "Privacy",
+		"https://brand.com/contact.html":      "Contact",
+		"https://brand.com/a/b/c-d":           "C D",
+	}
+	for in, want := range cases {
+		u := mustURL(t, in)
+		if got := titleFromURL(u); got != want {
+			t.Errorf("titleFromURL(%q) = %q, want %q", in, got, want)
+		}
+	}
+}
+
+func TestStripPreamble(t *testing.T) {
+	cases := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{
+			name: "drops process narration",
+			in:   "I have everything I need. Here's the full review.\n\n---\n\n## What's working\n\n- a\n",
+			want: "## What's working\n\n- a\n",
+		},
+		{
+			name: "leading h2 stays put",
+			in:   "## What's working\n\n- a\n",
+			want: "## What's working\n\n- a\n",
+		},
+		{
+			name: "no h2 returns input unchanged",
+			in:   "just some prose with no headings",
+			want: "just some prose with no headings",
+		},
+		{
+			name: "drops single-line preamble",
+			in:   "Here's my review:\n## What's working\n",
+			want: "## What's working\n",
+		},
+	}
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := stripPreamble(tc.in); got != tc.want {
+				t.Errorf("stripPreamble:\ngot  %q\nwant %q", got, tc.want)
+			}
+		})
+	}
+}
+
 func TestSlugFromURL(t *testing.T) {
 	cases := map[string]string{
 		"https://brand.com/":                  "index",

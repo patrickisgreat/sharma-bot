@@ -114,6 +114,48 @@ func normalizeURL(u *url.URL) string {
 	return c.String()
 }
 
+// titleFromURL derives a human-readable page title from a URL path for the
+// top of the review markdown. Root becomes "Home"; otherwise the final
+// path segment is hyphen/underscore-split and Title Cased ("pages/about-us"
+// → "About Us"). Any trailing extension like ".html" is dropped.
+func titleFromURL(u *url.URL) string {
+	p := strings.Trim(u.Path, "/")
+	if p == "" {
+		return "Home"
+	}
+	parts := strings.Split(p, "/")
+	last := parts[len(parts)-1]
+	if dot := strings.LastIndex(last, "."); dot > 0 {
+		last = last[:dot]
+	}
+	last = strings.ReplaceAll(last, "_", "-")
+	words := strings.Split(last, "-")
+	for i, w := range words {
+		w = strings.TrimSpace(w)
+		if w == "" {
+			continue
+		}
+		words[i] = strings.ToUpper(w[:1]) + w[1:]
+	}
+	return strings.Join(words, " ")
+}
+
+// stripPreamble removes everything before the first "## " (h2) heading in s.
+// The review prompt asks for output that opens with `## What's working`, but
+// models occasionally narrate their tool-use process first ("I have what I
+// need, here's the review.") — that content is noise in the saved file.
+// If no h2 heading is found, returns s unchanged.
+func stripPreamble(s string) string {
+	idx := strings.Index(s, "\n## ")
+	if idx < 0 {
+		if strings.HasPrefix(s, "## ") {
+			return s
+		}
+		return s
+	}
+	return strings.TrimLeft(s[idx+1:], "\n")
+}
+
 // slugFromURL turns a URL path into a filesystem-safe slug for naming saved
 // HTML and review files. Root path becomes "index"; nested paths join with
 // hyphens. Query string is dropped — same path with different params dedupes
