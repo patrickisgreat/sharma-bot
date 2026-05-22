@@ -43,6 +43,8 @@ flags:
   --batch        directory of files to review (review only)
   --crawl        entry URL to crawl one hop and review each same-host page
   --max-pages    cap on pages reviewed during --crawl (default 20)
+  --write        apply edits in place instead of only reporting (review only)
+  --force        skip the clean-git-tree guard required by --write
   --out          override chat-save path (single-shot commands only)
   --no-save      skip writing the chat file
 
@@ -56,6 +58,8 @@ review:
   corpus review page.html             # HTML auto-extracted to text
   corpus review --batch shopify-mirror/
   corpus review --crawl https://brand.com [--max-pages 30]
+  corpus review --batch theme/templates/ --write   # edit copy/structure in place
+  corpus review theme/templates/page.faq.json --write
 
 fetch-shopify:
   corpus fetch-shopify                          # uses $SHOPIFY_URL
@@ -83,10 +87,12 @@ func main() {
 	batch := fs.String("batch", "", "directory of files to review (review only)")
 	crawl := fs.String("crawl", "", "entry URL to crawl one hop and review (review only)")
 	maxPages := fs.Int("max-pages", 0, "cap on pages reviewed during --crawl (0 = default 20)")
+	write := fs.Bool("write", false, "apply edits in place instead of only reporting (review only)")
+	force := fs.Bool("force", false, "skip the clean-git-tree guard required by --write")
 	out := fs.String("out", "", "override chat-save path (single-shot commands)")
 	noSave := fs.Bool("no-save", false, "skip writing the chat transcript")
 	fs.Usage = func() { fmt.Fprint(os.Stderr, usage) }
-	_ = fs.Parse(os.Args[2:])
+	args := parseInterspersed(fs, os.Args[2:])
 
 	var err error
 	switch cmd {
@@ -97,13 +103,13 @@ func main() {
 	case "strip":
 		err = strip.Run(*corpusDir, *promptsDir, *limit)
 	case "ask":
-		err = runAsk(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *width, *limit, fs.Args())
+		err = runAsk(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *width, *limit, args)
 	case "dig":
-		err = runDig(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *width, *trace, fs.Args())
+		err = runDig(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *width, *trace, args)
 	case "review":
-		err = runReview(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *batch, *crawl, *maxPages, *trace, fs.Args())
+		err = runReview(*corpusDir, *promptsDir, *chatsDir, *out, *noSave, *batch, *crawl, *maxPages, *write, *force, *trace, args)
 	case "fetch-shopify":
-		err = runFetchShopify(fs.Args())
+		err = runFetchShopify(args)
 	case "-h", "--help", "help":
 		fmt.Fprint(os.Stdout, usage)
 		return
@@ -115,6 +121,23 @@ func main() {
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "error:", err)
 		os.Exit(1)
+	}
+}
+
+// parseInterspersed parses flags that may appear before, after, or between
+// positional args — Go's flag package otherwise stops at the first positional,
+// so `review file --write` would silently drop --write. Returns the collected
+// positional args in order.
+func parseInterspersed(fs *flag.FlagSet, argv []string) []string {
+	var positionals []string
+	for {
+		_ = fs.Parse(argv)
+		rest := fs.Args()
+		if len(rest) == 0 {
+			return positionals
+		}
+		positionals = append(positionals, rest[0])
+		argv = rest[1:]
 	}
 }
 
@@ -160,7 +183,7 @@ func runDig(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, width 
 	return nil
 }
 
-func runReview(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, batchDir, crawlURL string, maxPages int, trace bool, args []string) error {
+func runReview(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, batchDir, crawlURL string, maxPages int, write, force, trace bool, args []string) error {
 	singleShot := batchDir == "" && crawlURL == ""
 	traceW, traceBuf := traceWriter(trace, !noSave && singleShot)
 
@@ -169,7 +192,18 @@ func runReview(corpusDir, promptsDir, chatsDir, outPath string, noSave bool, bat
 		path = args[0]
 	}
 
-	res, err := review.Run(corpusDir, promptsDir, path, batchDir, crawlURL, maxPages, os.Stdin, traceW)
+	res, err := review.Run(review.Options{
+		CorpusDir:  corpusDir,
+		PromptsDir: promptsDir,
+		Path:       path,
+		BatchDir:   batchDir,
+		CrawlURL:   crawlURL,
+		MaxPages:   maxPages,
+		Write:      write,
+		Force:      force,
+		Stdin:      os.Stdin,
+		Trace:      traceW,
+	})
 	if err != nil {
 		return err
 	}
