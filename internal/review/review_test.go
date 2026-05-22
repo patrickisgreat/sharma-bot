@@ -47,7 +47,7 @@ func TestReviewSingleFileMarkdown(t *testing.T) {
 	}
 
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "review output", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, contentFile, "", "", 0, nil, completer, nil, nil, time.Second)
+	_, err := RunWith(Options{CorpusDir: corpusDir, PromptsDir: promptsDir, Path: contentFile}, completer, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -72,7 +72,7 @@ func TestReviewSingleFileHTMLExtracted(t *testing.T) {
 	}
 
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "ok", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, contentFile, "", "", 0, nil, completer, nil, nil, time.Second)
+	_, err := RunWith(Options{CorpusDir: corpusDir, PromptsDir: promptsDir, Path: contentFile}, completer, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -92,7 +92,7 @@ func TestReviewStdin(t *testing.T) {
 	promptsDir := t.TempDir()
 	writePrompt(t, promptsDir, "ROLE")
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "ok", StopReason: "end_turn"}}}
-	_, err := RunWith("", promptsDir, "", "", "", 0, strings.NewReader("piped content"), completer, nil, nil, time.Second)
+	_, err := RunWith(Options{PromptsDir: promptsDir, Stdin: strings.NewReader("piped content")}, completer, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -108,10 +108,10 @@ func TestReviewBatch(t *testing.T) {
 
 	batchDir := t.TempDir()
 	files := map[string]string{
-		"email-1.md":    "first email",
-		"email-2.md":    "second email",
-		"page.html":     "<html><body>html body</body></html>",
-		"ignored.json":  `{"unsupported":true}`,
+		"email-1.md":  "first email",
+		"email-2.md":  "second email",
+		"page.html":   "<html><body>html body</body></html>",
+		"ignored.css": `body { color: red; }`,
 	}
 	for name, body := range files {
 		if err := os.WriteFile(filepath.Join(batchDir, name), []byte(body), 0o644); err != nil {
@@ -134,12 +134,12 @@ func TestReviewBatch(t *testing.T) {
 	}
 
 	var trace bytes.Buffer
-	_, err := RunWith(corpusDir, promptsDir, "", batchDir, "", 0, nil, completer, nil, &trace, time.Second)
+	_, err := RunWith(Options{CorpusDir: corpusDir, PromptsDir: promptsDir, BatchDir: batchDir, Trace: &trace}, completer, nil, time.Second)
 	if err != nil {
 		t.Fatal(err)
 	}
 	if completer.calls != 3 {
-		t.Errorf("expected 3 review calls (json ignored), got %d", completer.calls)
+		t.Errorf("expected 3 review calls (css ignored), got %d", completer.calls)
 	}
 	if !strings.Contains(trace.String(), "3 ok") {
 		t.Errorf("trace summary missing: %s", trace.String())
@@ -151,7 +151,7 @@ func TestReviewBatchEmptyDirErrors(t *testing.T) {
 	promptsDir := t.TempDir()
 	writePrompt(t, promptsDir, "ROLE")
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "x", StopReason: "end_turn"}}}
-	_, err := RunWith(corpusDir, promptsDir, "", t.TempDir(), "", 0, nil, completer, nil, nil, time.Second)
+	_, err := RunWith(Options{CorpusDir: corpusDir, PromptsDir: promptsDir, BatchDir: t.TempDir()}, completer, nil, time.Second)
 	if err == nil || !strings.Contains(err.Error(), "no supported files") {
 		t.Errorf("expected no-supported-files error, got %v", err)
 	}
@@ -159,7 +159,7 @@ func TestReviewBatchEmptyDirErrors(t *testing.T) {
 
 func TestReviewMissingRolePrompt(t *testing.T) {
 	completer := &scriptedCompleter{steps: []ai.Step{{Text: "x", StopReason: "end_turn"}}}
-	_, err := RunWith("", t.TempDir(), "", "", "", 0, nil, completer, nil, nil, time.Second)
+	_, err := RunWith(Options{PromptsDir: t.TempDir()}, completer, nil, time.Second)
 	if err == nil || !strings.Contains(err.Error(), "role prompt") {
 		t.Errorf("expected role-prompt error, got %v", err)
 	}
@@ -218,13 +218,13 @@ func TestExtractTextCollapsesWhitespace(t *testing.T) {
 
 func TestLooksLikeHTML(t *testing.T) {
 	cases := map[string]bool{
-		"<!doctype html><html>...":        true,
-		"<html><body>x</body></html>":     true,
-		"  <html>x":                       true,
-		"<HTML>UPPER":                     true,
-		"plain text":                      false,
-		"# markdown header":               false,
-		`{"json": true}`:                  false,
+		"<!doctype html><html>...":    true,
+		"<html><body>x</body></html>": true,
+		"  <html>x":                   true,
+		"<HTML>UPPER":                 true,
+		"plain text":                  false,
+		"# markdown header":           false,
+		`{"json": true}`:              false,
 	}
 	for in, want := range cases {
 		if got := looksLikeHTML([]byte(in)); got != want {
@@ -235,10 +235,10 @@ func TestLooksLikeHTML(t *testing.T) {
 
 func TestSanitizeForFilename(t *testing.T) {
 	cases := map[string]string{
-		"foo.html":                "foo",
-		"products/foo.html":       "products-foo",
-		"a/b/c.md":                "a-b-c",
-		"plain":                   "plain",
+		"foo.html":          "foo",
+		"products/foo.html": "products-foo",
+		"a/b/c.md":          "a-b-c",
+		"plain":             "plain",
 	}
 	for in, want := range cases {
 		if got := sanitizeForFilename(in); got != want {

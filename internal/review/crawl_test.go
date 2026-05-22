@@ -112,14 +112,14 @@ func TestShouldAuthenticate(t *testing.T) {
 
 func TestTitleFromURL(t *testing.T) {
 	cases := map[string]string{
-		"https://brand.com/":                  "Home",
-		"https://brand.com":                   "Home",
-		"https://brand.com/pages/catalog":     "Catalog",
-		"https://brand.com/pages/about-us":    "About Us",
-		"https://brand.com/products/foo_bar":  "Foo Bar",
+		"https://brand.com/":                 "Home",
+		"https://brand.com":                  "Home",
+		"https://brand.com/pages/catalog":    "Catalog",
+		"https://brand.com/pages/about-us":   "About Us",
+		"https://brand.com/products/foo_bar": "Foo Bar",
 		"https://brand.com/policies/privacy": "Privacy",
-		"https://brand.com/contact.html":      "Contact",
-		"https://brand.com/a/b/c-d":           "C D",
+		"https://brand.com/contact.html":     "Contact",
+		"https://brand.com/a/b/c-d":          "C D",
 	}
 	for in, want := range cases {
 		u := mustURL(t, in)
@@ -167,13 +167,13 @@ func TestStripPreamble(t *testing.T) {
 
 func TestSlugFromURL(t *testing.T) {
 	cases := map[string]string{
-		"https://brand.com/":                  "index",
-		"https://brand.com":                   "index",
-		"https://brand.com/products/foo":      "products-foo",
-		"https://brand.com/products/foo/":     "products-foo",
-		"https://brand.com/pages/about-us":    "pages-about-us",
-		"https://brand.com/a/b/c":             "a-b-c",
-		"https://brand.com/products/foo?x=1":  "products-foo",
+		"https://brand.com/":                 "index",
+		"https://brand.com":                  "index",
+		"https://brand.com/products/foo":     "products-foo",
+		"https://brand.com/products/foo/":    "products-foo",
+		"https://brand.com/pages/about-us":   "pages-about-us",
+		"https://brand.com/a/b/c":            "a-b-c",
+		"https://brand.com/products/foo?x=1": "products-foo",
 	}
 	for in, want := range cases {
 		u := mustURL(t, in)
@@ -182,4 +182,3 @@ func TestSlugFromURL(t *testing.T) {
 		}
 	}
 }
-
