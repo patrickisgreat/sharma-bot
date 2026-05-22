@@ -23,56 +23,136 @@ import (
 )
 
 const (
-	model           = anthropic.ModelClaudeSonnet4_6
-	maxTokens       = int64(8192)
-	maxSteps        = 12
-	timeout         = 5 * time.Minute
+	model     = anthropic.ModelClaudeSonnet4_6
+	maxTokens = int64(8192)
+	maxSteps  = 12
+	// editMaxSteps is much higher than maxSteps: write mode spends ~10 steps
+	// grounding in the corpus, then one edit_file call per turn across a
+	// multi-section file, plus a final summary. 12 wasn't enough to get past
+	// research into editing.
+	editMaxSteps = 40
+	timeout      = 5 * time.Minute
+	// editTimeout is longer than timeout: a write run does corpus research
+	// plus many edit_file turns over a multi-section file.
+	editTimeout     = 12 * time.Minute
 	defaultMaxPages = 20
 	renderTimeout   = 60 * time.Second
 )
 
-// Run reviews either one file (path != ""), every supported file in batchDir,
-// or every same-host one-hop page reachable from crawlURL. If all three are
-// empty, content is read from stdinReader.
+// Options configures one review run. Exactly one mode is selected: Path (a
+// single file, or stdin when "" / "-"), BatchDir (a folder), or CrawlURL (a
+// one-hop site crawl).
 //
-// Returns a CallResult for single-file mode (so the caller can persist the
-// chat). Batch and crawl modes write per-page outputs to reviews/<timestamp>/
-// and return (nil, nil) on success — there's no single chat to save.
+// Write turns reports into edits: instead of only critiquing, the agent
+// rewrites the source files in place using the edit_file tool. Write applies
+// to Path and BatchDir (local source), not CrawlURL (a remote mirror can't be
+// edited). Force skips the clean-git-tree guard.
+type Options struct {
+	CorpusDir  string
+	PromptsDir string
+	Path       string
+	BatchDir   string
+	CrawlURL   string
+	MaxPages   int
+	Write      bool
+	Force      bool
+	Stdin      io.Reader
+	Trace      io.Writer
+}
+
+// runConfig is the resolved, per-run state the mode functions share, so they
+// don't each take a dozen positional arguments.
+type runConfig struct {
+	role      string // review.md (+ edit.md appended in write mode)
+	write     bool
+	completer ai.ToolCompleter
+	baseTools []tools.Tool
+	trace     io.Writer
+	timeout   time.Duration
+}
+
+// Run reviews content per opts. Report mode returns a CallResult for single-
+// file input (so the caller can persist the chat); batch/crawl modes write
+// per-file outputs under reviews/<timestamp>/ and return (nil, nil).
 //
-// trace receives per-step trace lines (tool calls, results, telemetry) and,
-// for crawl mode, per-page status lines. Pass nil to suppress.
-func Run(corpusDir, promptsDir, path, batchDir, crawlURL string, maxPages int, stdinReader io.Reader, trace io.Writer) (*ai.CallResult, error) {
+// opts.Trace receives per-step trace lines and, for batch/crawl, per-file
+// status. Pass nil to suppress.
+func Run(opts Options) (*ai.CallResult, error) {
 	completer := ai.NewToolCompleter(model, maxTokens)
-	return RunWith(corpusDir, promptsDir, path, batchDir, crawlURL, maxPages, stdinReader, completer, tools.NewCorpusTools(corpusDir), trace, timeout)
+	perCall := timeout
+	if opts.Write {
+		perCall = editTimeout
+	}
+	return RunWith(opts, completer, tools.NewCorpusTools(opts.CorpusDir), perCall)
 }
 
-// RunWith is the testable form: explicit completer + tools + timeout.
-func RunWith(corpusDir, promptsDir, path, batchDir, crawlURL string, maxPages int, stdinReader io.Reader, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) (*ai.CallResult, error) {
-	role, err := os.ReadFile(filepath.Join(promptsDir, "review.md"))
+// RunWith is the testable form: explicit completer + base tools + timeout.
+// baseTools are the corpus-reading tools; in write mode a per-file edit_file
+// tool is appended to them.
+func RunWith(opts Options, completer ai.ToolCompleter, baseTools []tools.Tool, perCallTimeout time.Duration) (*ai.CallResult, error) {
+	// Write mode uses a dedicated edit role (edit.md), not the reviewer role
+	// (review.md): the reviewer prompt's "produce a report" output format
+	// overpowers an appended override and the model never calls edit_file.
+	rolePrompt := "review.md"
+	if opts.Write {
+		rolePrompt = "edit.md"
+	}
+	role, err := os.ReadFile(filepath.Join(opts.PromptsDir, rolePrompt))
 	if err != nil {
-		return nil, fmt.Errorf("read role prompt: %w", err)
+		return nil, fmt.Errorf("read role prompt (%s): %w", rolePrompt, err)
 	}
-	if crawlURL != "" {
-		if err := runCrawl(crawlURL, maxPages, string(role), completer, ts, trace, perCallTimeout); err != nil {
+	cfg := runConfig{
+		role:      string(role),
+		write:     opts.Write,
+		completer: completer,
+		baseTools: baseTools,
+		trace:     opts.Trace,
+		timeout:   perCallTimeout,
+	}
+
+	if opts.Write {
+		if opts.CrawlURL != "" {
+			return nil, fmt.Errorf("--write applies to local files, not --crawl (a remote site can't be edited)")
+		}
+		if opts.Path == "" || opts.Path == "-" {
+			return nil, fmt.Errorf("--write needs a file or --batch directory, not stdin")
+		}
+		guardDir := opts.BatchDir
+		if guardDir == "" {
+			guardDir = filepath.Dir(opts.Path)
+		}
+		if err := ensureCleanTree(guardDir, opts.Force); err != nil {
 			return nil, err
 		}
-		return nil, nil
 	}
-	if batchDir != "" {
-		if err := runBatch(batchDir, string(role), completer, ts, trace, perCallTimeout); err != nil {
-			return nil, err
-		}
-		return nil, nil
+
+	switch {
+	case opts.CrawlURL != "":
+		return nil, runCrawl(cfg, opts.CrawlURL, opts.MaxPages)
+	case opts.BatchDir != "":
+		return nil, runBatch(cfg, opts.BatchDir)
+	default:
+		return runSingle(cfg, opts.Path, opts.Stdin, os.Stdout)
 	}
-	return runSingle(path, stdinReader, string(role), completer, ts, trace, perCallTimeout, os.Stdout)
 }
 
-func runSingle(path string, stdinReader io.Reader, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration, out io.Writer) (*ai.CallResult, error) {
+func runSingle(cfg runConfig, path string, stdinReader io.Reader, out io.Writer) (*ai.CallResult, error) {
+	if cfg.write {
+		er, res, err := editOne(cfg, path)
+		if err != nil {
+			return nil, err
+		}
+		reportEdit(out, filepath.Base(path), er)
+		if _, err := fmt.Fprintln(out, res.Answer); err != nil {
+			return nil, err
+		}
+		return res, nil
+	}
 	content, label, err := loadContent(path, stdinReader)
 	if err != nil {
 		return nil, err
 	}
-	res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
+	res, err := reviewOne(content, label, cfg.role, cfg.completer, cfg.baseTools, cfg.trace, cfg.timeout)
 	if err != nil {
 		return nil, err
 	}
@@ -82,39 +162,35 @@ func runSingle(path string, stdinReader io.Reader, role string, completer ai.Too
 	return res, nil
 }
 
-func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) error {
+func runBatch(cfg runConfig, batchDir string) error {
 	files, err := listSupportedFiles(batchDir)
 	if err != nil {
 		return err
 	}
 	if len(files) == 0 {
-		return fmt.Errorf("no supported files (.html, .htm, .md, .txt) under %s", batchDir)
+		return fmt.Errorf("no supported files (%s) under %s", strings.Join(supportedExts, ", "), batchDir)
 	}
 	outDir := filepath.Join("reviews", time.Now().Format("20060102-150405"))
 	if err := os.MkdirAll(outDir, 0o755); err != nil {
 		return err
 	}
-	if trace != nil {
-		fmt.Fprintf(trace, "reviewing %d file(s) → %s\n", len(files), outDir)
+	verb := "reviewing"
+	if cfg.write {
+		verb = "reviewing + editing"
+	}
+	if cfg.trace != nil {
+		fmt.Fprintf(cfg.trace, "%s %d file(s) → %s\n", verb, len(files), outDir)
 	}
 	var ok, fail int
 	for _, f := range files {
 		rel, _ := filepath.Rel(batchDir, f)
-		if trace != nil {
-			fmt.Fprintf(trace, "\n=== %s ===\n", rel)
+		if cfg.trace != nil {
+			fmt.Fprintf(cfg.trace, "\n=== %s ===\n", rel)
 		}
-		content, label, err := loadContent(f, nil)
+		answer, err := reviewFileForBatch(cfg, f, rel)
 		if err != nil {
-			if trace != nil {
-				fmt.Fprintf(trace, "  load error: %v\n", err)
-			}
-			fail++
-			continue
-		}
-		res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
-		if err != nil {
-			if trace != nil {
-				fmt.Fprintf(trace, "  review error: %v\n", err)
+			if cfg.trace != nil {
+				fmt.Fprintf(cfg.trace, "  error: %v\n", err)
 			}
 			fail++
 			continue
@@ -123,18 +199,41 @@ func runBatch(batchDir, role string, completer ai.ToolCompleter, ts []tools.Tool
 		if err := os.MkdirAll(filepath.Dir(outPath), 0o755); err != nil {
 			return err
 		}
-		if err := os.WriteFile(outPath, []byte(res.Answer), 0o644); err != nil {
+		if err := os.WriteFile(outPath, []byte(answer), 0o644); err != nil {
 			return err
 		}
 		ok++
 	}
-	if trace != nil {
-		fmt.Fprintf(trace, "\nreview: %d ok, %d failed → %s\n", ok, fail, outDir)
+	if cfg.trace != nil {
+		fmt.Fprintf(cfg.trace, "\nreview: %d ok, %d failed → %s\n", ok, fail, outDir)
 	}
 	return nil
 }
 
-func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompleter, ts []tools.Tool, trace io.Writer, perCallTimeout time.Duration) error {
+// reviewFileForBatch reviews (and, in write mode, edits in place) one batch
+// file and returns the review text to save. Per-file status goes to the
+// trace writer.
+func reviewFileForBatch(cfg runConfig, path, rel string) (string, error) {
+	if cfg.write {
+		er, res, err := editOne(cfg, path)
+		if err != nil {
+			return "", err
+		}
+		reportEdit(cfg.trace, rel, er)
+		return res.Answer, nil
+	}
+	content, label, err := loadContent(path, nil)
+	if err != nil {
+		return "", err
+	}
+	res, err := reviewOne(content, label, cfg.role, cfg.completer, cfg.baseTools, cfg.trace, cfg.timeout)
+	if err != nil {
+		return "", err
+	}
+	return res.Answer, nil
+}
+
+func runCrawl(cfg runConfig, startURL string, maxPages int) error {
 	if maxPages <= 0 {
 		maxPages = defaultMaxPages
 	}
@@ -143,7 +242,7 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 		return fmt.Errorf("crawl: invalid URL %q (need http(s)://host/...)", startURL)
 	}
 
-	status := trace
+	status := cfg.trace
 	if status == nil {
 		status = io.Discard
 	}
@@ -172,7 +271,7 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 	}
 
 	fmt.Fprintf(status, "rendering %s (cap %d page(s))\n", startURL, maxPages)
-	startData, err := renderWith(r, perCallTimeout, base.String())
+	startData, err := renderWith(r, cfg.timeout, base.String())
 	if err != nil {
 		return fmt.Errorf("render homepage: %w", err)
 	}
@@ -201,7 +300,7 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 			data = startData
 		} else {
 			fetchStart := time.Now()
-			data, err = renderWith(r, perCallTimeout, raw)
+			data, err = renderWith(r, cfg.timeout, raw)
 			if err != nil {
 				fmt.Fprintf(status, "  render error: %v\n", err)
 				fetchErrs++
@@ -216,7 +315,7 @@ func runCrawl(startURL string, maxPages int, role string, completer ai.ToolCompl
 		content := ExtractText(data)
 		label := "page at " + raw + " (HTML extracted)"
 		reviewStart := time.Now()
-		res, err := reviewOne(content, label, role, completer, ts, trace, perCallTimeout)
+		res, err := reviewOne(content, label, cfg.role, cfg.completer, cfg.baseTools, cfg.trace, cfg.timeout)
 		if err != nil {
 			fmt.Fprintf(status, "  review error: %v\n", err)
 			reviewErrs++
@@ -301,6 +400,96 @@ func buildUserPrompt(content, label string) string {
 	return sb.String()
 }
 
+// editResult summarizes what editOne did to a file.
+type editResult struct {
+	edits      int    // edits applied and written
+	rolledBack bool   // edits were made but reverted (e.g. broke JSON)
+	rollback   string // reason for rollback, when rolledBack
+	truncated  bool   // agent loop errored (timeout/max-steps) but edits were salvaged
+}
+
+// editOne reviews the file at path against the corpus and applies the agent's
+// edits in place via the edit_file tool. The returned CallResult.Answer is
+// the review rationale (saved as the .review.md). For .json files, edits that
+// would break JSON validity are rolled back rather than written.
+//
+// Edits accumulate in an in-memory buffer as the model calls edit_file, so if
+// the agent loop errors out (timeout, max-steps) after making valid edits, we
+// still flush them — the edits are real work; only the closing summary is
+// lost. A hard error with no edits made is propagated.
+func editOne(cfg runConfig, path string) (editResult, *ai.CallResult, error) {
+	raw, err := os.ReadFile(path)
+	if err != nil {
+		return editResult{}, nil, err
+	}
+	editor := newFileEditor(path, string(raw))
+	ts := append(append([]tools.Tool{}, cfg.baseTools...), editor.tool())
+
+	ctx, cancel := context.WithTimeout(context.Background(), cfg.timeout)
+	defer cancel()
+
+	userPrompt := fmt.Sprintf(
+		"Review and revise this file (path: %s). Apply your changes with edit_file, "+
+			"then write the review explaining what you changed and why.\n\n---\n%s\n---\n",
+		path, string(raw))
+	start := time.Now()
+	res, agentErr := agent.Run(ctx, agent.Config{
+		Completer: cfg.completer,
+		Tools:     ts,
+		MaxSteps:  editMaxSteps,
+		Trace:     cfg.trace,
+	}, cfg.role, userPrompt)
+
+	// No edits made. Propagate a real error; otherwise report review-only.
+	if !editor.changed() {
+		if agentErr != nil {
+			return editResult{}, nil, agentErr
+		}
+		ai.PrintTelemetry(cfg.trace, res.Usage, time.Since(start), fmt.Sprintf("%d step(s)", res.Steps))
+		return editResult{edits: 0}, &ai.CallResult{Answer: res.Answer, Usage: res.Usage, Elapsed: time.Since(start), Steps: res.Steps}, nil
+	}
+
+	// Edits were made. Salvage them even if the loop errored mid-run.
+	answer := ""
+	var usage ai.Usage
+	steps := 0
+	if res != nil {
+		answer, usage, steps = res.Answer, res.Usage, res.Steps
+	}
+	if agentErr != nil && answer == "" {
+		answer = fmt.Sprintf("_(run truncated before summary: %v — edits below were still applied)_", agentErr)
+	}
+	ai.PrintTelemetry(cfg.trace, usage, time.Since(start), fmt.Sprintf("%d step(s)", steps))
+	call := &ai.CallResult{Answer: answer, Usage: usage, Elapsed: time.Since(start), Steps: steps}
+
+	if strings.EqualFold(filepath.Ext(path), ".json") {
+		if err := validJSON([]byte(editor.content)); err != nil {
+			return editResult{edits: editor.edits, rolledBack: true, rollback: err.Error()}, call, nil
+		}
+	}
+	if err := os.WriteFile(path, []byte(editor.content), 0o644); err != nil {
+		return editResult{}, nil, err
+	}
+	return editResult{edits: editor.edits, truncated: agentErr != nil}, call, nil
+}
+
+// reportEdit prints a one-line outcome for an edited file to w.
+func reportEdit(w io.Writer, name string, er editResult) {
+	if w == nil {
+		return
+	}
+	switch {
+	case er.rolledBack:
+		fmt.Fprintf(w, "  ⚠ %s: %d edit(s) rolled back (%s)\n", name, er.edits, er.rollback)
+	case er.edits == 0:
+		fmt.Fprintf(w, "  %s: no edits (review only)\n", name)
+	case er.truncated:
+		fmt.Fprintf(w, "  ✎ %s: %d edit(s) applied (run truncated before summary)\n", name, er.edits)
+	default:
+		fmt.Fprintf(w, "  ✎ %s: %d edit(s) applied\n", name, er.edits)
+	}
+}
+
 // loadContent reads input and returns (text, label, error). Label is a short
 // human-readable description used in the user prompt ("page (HTML extracted
 // from foo.html)" etc.).
@@ -350,6 +539,20 @@ func looksLikeHTML(data []byte) bool {
 		strings.Contains(head, "<body")
 }
 
+// supportedExts are the file extensions batch mode reviews. .json/.liquid
+// cover Shopify theme templates and sections.
+var supportedExts = []string{".html", ".htm", ".md", ".txt", ".json", ".liquid"}
+
+func isSupportedExt(path string) bool {
+	ext := strings.ToLower(filepath.Ext(path))
+	for _, e := range supportedExts {
+		if ext == e {
+			return true
+		}
+	}
+	return false
+}
+
 func listSupportedFiles(dir string) ([]string, error) {
 	var out []string
 	err := filepath.WalkDir(dir, func(path string, d fs.DirEntry, err error) error {
@@ -359,8 +562,7 @@ func listSupportedFiles(dir string) ([]string, error) {
 		if d.IsDir() {
 			return nil
 		}
-		switch strings.ToLower(filepath.Ext(path)) {
-		case ".html", ".htm", ".md", ".txt":
+		if isSupportedExt(path) {
 			out = append(out, path)
 		}
 		return nil
