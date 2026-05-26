@@ -57,6 +57,31 @@ func TestEditToolRejectsIdentical(t *testing.T) {
 	}
 }
 
+func TestEditToolRejectsEditThatBreaksJSON(t *testing.T) {
+	e := newFileEditor("page.json", `{"a":"one","b":"two"}`)
+	e.validateJSON = true
+
+	// Good edit applies.
+	if _, err := runEdit(t, e, `"one"`, `"uno"`); err != nil {
+		t.Fatalf("good edit should apply: %v", err)
+	}
+	// Bad edit (drops the closing quote → invalid JSON) is rejected and reverted.
+	_, err := runEdit(t, e, `"two"}`, `"two`)
+	if err == nil || !strings.Contains(err.Error(), "breaks JSON") {
+		t.Errorf("expected JSON-breaking edit to be rejected, got %v", err)
+	}
+	if e.edits != 1 {
+		t.Errorf("rejected edit should not count: edits = %d, want 1", e.edits)
+	}
+	// The earlier good edit survives; buffer is still valid and intact.
+	if e.content != `{"a":"uno","b":"two"}` {
+		t.Errorf("good edit lost or buffer corrupted: %s", e.content)
+	}
+	if err := validJSON([]byte(e.content)); err != nil {
+		t.Errorf("buffer should still be valid JSON: %v", err)
+	}
+}
+
 func TestEditToolSequentialEdits(t *testing.T) {
 	e := newFileEditor("page.json", `{"a":"one","b":"two"}`)
 	if _, err := runEdit(t, e, `"one"`, `"uno"`); err != nil {

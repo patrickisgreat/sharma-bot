@@ -406,16 +406,17 @@ func buildUserPrompt(content, label string) string {
 
 // editResult summarizes what editOne did to a file.
 type editResult struct {
-	edits      int    // edits applied and written
-	rolledBack bool   // edits were made but reverted (e.g. broke JSON)
-	rollback   string // reason for rollback, when rolledBack
-	truncated  bool   // agent loop errored (timeout/max-steps) but edits were salvaged
+	edits     int  // edits applied and written
+	truncated bool // agent loop errored (timeout/max-steps) but edits were salvaged
 }
 
 // editOne reviews the file at path against the corpus and applies the agent's
 // edits in place via the edit_file tool. The returned CallResult.Answer is
-// the review rationale (saved as the .review.md). For .json files, edits that
-// would break JSON validity are rolled back rather than written.
+// the review rationale (saved as the .review.md).
+//
+// For .json files the editor validates each edit before accepting it, so a
+// malformed edit is rejected (and retried by the model) rather than corrupting
+// the file — the buffer is always valid JSON by the time we write.
 //
 // Edits accumulate in an in-memory buffer as the model calls edit_file, so if
 // the agent loop errors out (timeout, max-steps) after making valid edits, we
@@ -427,6 +428,7 @@ func editOne(cfg runConfig, path string) (editResult, *ai.CallResult, error) {
 		return editResult{}, nil, err
 	}
 	editor := newFileEditor(path, string(raw))
+	editor.validateJSON = strings.EqualFold(filepath.Ext(path), ".json")
 	ts := append(append([]tools.Tool{}, cfg.baseTools...), editor.tool())
 
 	ctx, cancel := context.WithTimeout(context.Background(), cfg.timeout)
@@ -466,11 +468,6 @@ func editOne(cfg runConfig, path string) (editResult, *ai.CallResult, error) {
 	ai.PrintTelemetry(cfg.trace, usage, time.Since(start), fmt.Sprintf("%d step(s)", steps))
 	call := &ai.CallResult{Answer: answer, Usage: usage, Elapsed: time.Since(start), Steps: steps}
 
-	if strings.EqualFold(filepath.Ext(path), ".json") {
-		if err := validJSON([]byte(editor.content)); err != nil {
-			return editResult{edits: editor.edits, rolledBack: true, rollback: err.Error()}, call, nil
-		}
-	}
 	if err := os.WriteFile(path, []byte(editor.content), 0o644); err != nil {
 		return editResult{}, nil, err
 	}
@@ -483,8 +480,6 @@ func reportEdit(w io.Writer, name string, er editResult) {
 		return
 	}
 	switch {
-	case er.rolledBack:
-		fmt.Fprintf(w, "  ⚠ %s: %d edit(s) rolled back (%s)\n", name, er.edits, er.rollback)
 	case er.edits == 0:
 		fmt.Fprintf(w, "  %s: no edits (review only)\n", name)
 	case er.truncated:

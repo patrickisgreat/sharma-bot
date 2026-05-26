@@ -45,8 +45,8 @@ func TestEditOneAppliesAndWrites(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if er.edits != 1 || er.rolledBack {
-		t.Errorf("editResult = %+v, want 1 edit, no rollback", er)
+	if er.edits != 1 || er.truncated {
+		t.Errorf("editResult = %+v, want 1 edit, not truncated", er)
 	}
 	got, _ := os.ReadFile(target)
 	if string(got) != `{"heading":"Make your String Ring"}` {
@@ -57,17 +57,19 @@ func TestEditOneAppliesAndWrites(t *testing.T) {
 	}
 }
 
-func TestEditOneRollsBackInvalidJSON(t *testing.T) {
+func TestEditOneRejectsBadEditKeepsGoodOnes(t *testing.T) {
 	dir := t.TempDir()
 	target := filepath.Join(dir, "page.json")
-	original := `{"heading":"Welcome"}`
-	if err := os.WriteFile(target, []byte(original), 0o644); err != nil {
+	if err := os.WriteFile(target, []byte(`{"a":"one","b":"two"}`), 0o644); err != nil {
 		t.Fatal(err)
 	}
 
-	// Drop the closing brace — result no longer parses as JSON.
+	// A good edit, then one that breaks JSON (dropped closing brace), then end.
+	// Per-edit validation rejects the bad one; the good one still lands and the
+	// file stays valid — no all-or-nothing rollback.
 	completer := &scriptedCompleter{steps: []ai.Step{
-		editStep(`"Welcome"}`, `"Welcome"`),
+		editStep(`"one"`, `"uno"`),
+		editStep(`"two"}`, `"two`),
 		{Text: "review", StopReason: "end_turn"},
 	}}
 
@@ -75,12 +77,15 @@ func TestEditOneRollsBackInvalidJSON(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if !er.rolledBack {
-		t.Errorf("expected rollback, got %+v", er)
+	if er.edits != 1 {
+		t.Errorf("expected 1 edit (bad one rejected), got %+v", er)
 	}
 	got, _ := os.ReadFile(target)
-	if string(got) != original {
-		t.Errorf("file should be unchanged on rollback, got: %s", got)
+	if string(got) != `{"a":"uno","b":"two"}` {
+		t.Errorf("good edit lost or file corrupted: %s", got)
+	}
+	if err := validJSON(got); err != nil {
+		t.Errorf("written file should be valid JSON: %v", err)
 	}
 }
 
@@ -126,7 +131,7 @@ func TestEditOneNoEditsLeavesFileAlone(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if er.edits != 0 || er.rolledBack {
+	if er.edits != 0 {
 		t.Errorf("editResult = %+v, want 0 edits", er)
 	}
 	got, _ := os.ReadFile(target)
