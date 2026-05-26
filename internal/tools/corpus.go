@@ -35,6 +35,62 @@ func NewCorpusTools(corpusDir string) []Tool {
 	}
 }
 
+// CuratedContext returns the full text of every document in the named sources
+// (e.g. "docs", "articles"), formatted as one block for inlining into a cached
+// system prompt — so the agent doesn't spend tool-call round-trips globbing and
+// reading our small, curated sources. Each doc is rendered with the same
+// header read_doc uses, so the model cites them by the same handle either way.
+//
+// Order is stable (source, then id) so the cached prompt stays cache-friendly
+// across runs. Returns "" if the named sources hold no documents.
+func CuratedContext(corpusDir string, labels ...string) (string, error) {
+	want := make(map[string]bool, len(labels))
+	for _, l := range labels {
+		want[l] = true
+	}
+	var picked []source
+	for _, s := range defaultSources(corpusDir) {
+		if want[s.Label] {
+			picked = append(picked, s)
+		}
+	}
+	docs, err := walkSources(picked, "")
+	if err != nil {
+		return "", err
+	}
+	var sb strings.Builder
+	for i, d := range docs {
+		body, err := os.ReadFile(d.Path)
+		if err != nil {
+			return "", err
+		}
+		if i > 0 {
+			sb.WriteString("\n\n---\n\n")
+		}
+		sb.WriteString(d.header(nil)) // nil meta: docs/articles carry no episode metadata
+		sb.WriteString("\n\n")
+		sb.WriteString(strings.TrimSpace(string(body)))
+	}
+	return sb.String(), nil
+}
+
+const curatedHeader = `# Curated reference: our docs and articles (already loaded)
+
+The operator notes (docs) and teardowns (articles) below are our curated, high-signal sources — included here in full. Do NOT glob or read_doc them; they're already in front of you. Use grep/read_doc only for the limited-supply podcast corpus, which is too large to inline.
+
+`
+
+// WithCuratedContext appends the curated docs+articles block to a role prompt,
+// under a header telling the model the sources are preloaded. Returns role
+// unchanged when curated is empty. The result is meant to be used as a cached
+// system prompt (role first, then the stable reference block).
+func WithCuratedContext(role, curated string) string {
+	if strings.TrimSpace(curated) == "" {
+		return role
+	}
+	return role + "\n\n" + curatedHeader + curated
+}
+
 // source maps a label the model can use to a directory on disk. Order is
 // stable so tool output is deterministic across runs.
 type source struct {
@@ -161,9 +217,9 @@ type grepInput struct {
 }
 
 const (
-	defaultMaxGrepResults  = 10
+	defaultMaxGrepResults    = 10
 	defaultMaxSnippetsPerDoc = 3
-	contextLines           = 1
+	contextLines             = 1
 )
 
 func grepTool(sources []source, meta map[string]map[string]string) Tool {

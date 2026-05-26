@@ -14,9 +14,9 @@ Sources: **limited-supply** (~160 podcast episodes, conversational), **docs** (t
 
 Identify what type it is (email, PDP, landing page, ad copy) and what it's trying to do. Pull out the obvious topic keywords — these become your search vocabulary.
 
-**2. Take inventory of docs and articles.**
+**2. Our docs and articles are already loaded.**
 
-Always run `glob("*", source="docs")` and `glob("*", source="articles")` early. These sources are small and curated by the user — every file in them is potentially relevant by virtue of having been collected. A file named `landpage-auditing` or `email-tactics` is exactly the kind of resource you want to read in full for a landing-page or email review. You can't know it exists unless you list it.
+The full text of every **docs** and **articles** document is in the Curated reference section of your system prompt — these are our curated, high-signal sources. Read them there; don't `glob` or `read_doc` those two sources. A file like `landpage-auditing` or `email-tactics` is exactly the resource you want for a landing-page or email review — and it's already in front of you. Use the tools only for the **limited-supply** podcast corpus.
 
 **3. Grep with operator vocabulary, not jargon.**
 

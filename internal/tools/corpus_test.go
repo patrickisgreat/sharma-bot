@@ -10,9 +10,11 @@ import (
 )
 
 // fixture builds a tempdir corpus matching the standard layout:
-//   {corpus}/clean_v1/limited-supply/<id>.md
-//   {corpus}/raw/docs/<id>.{md,txt}
-//   {corpus}/raw/articles/<id>.{md,txt}
+//
+//	{corpus}/clean_v1/limited-supply/<id>.md
+//	{corpus}/raw/docs/<id>.{md,txt}
+//	{corpus}/raw/articles/<id>.{md,txt}
+//
 // and returns the corpusDir + a slice of tools.
 func fixture(t *testing.T, files map[string]string) (corpusDir string, tools []Tool) {
 	t.Helper()
@@ -255,9 +257,9 @@ func TestByName(t *testing.T) {
 
 func TestHumanizeSlug(t *testing.T) {
 	cases := map[string]string{
-		"Nik_Sharma__Why_Native":  "Nik Sharma — Why Native",
-		"Single":                  "Single",
-		"":                        "",
+		"Nik_Sharma__Why_Native": "Nik Sharma — Why Native",
+		"Single":                 "Single",
+		"":                       "",
 	}
 	for in, want := range cases {
 		if got := humanizeSlug(in); got != want {
