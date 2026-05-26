@@ -101,8 +101,12 @@ func RunWith(opts Options, completer ai.ToolCompleter, baseTools []tools.Tool, p
 	if err != nil {
 		return nil, fmt.Errorf("read role prompt (%s): %w", rolePrompt, err)
 	}
+	curated, err := tools.CuratedContext(opts.CorpusDir, "docs", "articles")
+	if err != nil {
+		return nil, fmt.Errorf("load curated context: %w", err)
+	}
 	cfg := runConfig{
-		role:      string(role),
+		role:      tools.WithCuratedContext(string(role), curated),
 		write:     opts.Write,
 		completer: completer,
 		baseTools: baseTools,

@@ -49,6 +49,11 @@ func RunWith(corpusDir, promptsDir, question string, completer ai.ToolCompleter,
 	if err != nil {
 		return nil, fmt.Errorf("read role prompt: %w", err)
 	}
+	curated, err := tools.CuratedContext(corpusDir, "docs", "articles")
+	if err != nil {
+		return nil, fmt.Errorf("load curated context: %w", err)
+	}
+	systemPrompt := tools.WithCuratedContext(string(role), curated)
 
 	ctx, cancel := context.WithTimeout(context.Background(), perCallTimeout)
 	defer cancel()
@@ -59,7 +64,7 @@ func RunWith(corpusDir, promptsDir, question string, completer ai.ToolCompleter,
 		Tools:     ts,
 		MaxSteps:  maxSteps,
 		Trace:     trace,
-	}, string(role), question)
+	}, systemPrompt, question)
 	elapsed := time.Since(start)
 
 	if err != nil {
