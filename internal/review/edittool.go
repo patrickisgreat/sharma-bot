@@ -13,11 +13,17 @@ import (
 // rewrite. Edits accumulate against content; the caller flushes content to
 // disk after the agent loop finishes (and after any validation). original is
 // retained so callers can detect whether anything changed and roll back.
+//
+// When validateJSON is set, each edit is checked against JSON validity and
+// reverted in-place if it would break the file — so one malformed edit on a
+// big template doesn't force an all-or-nothing rollback of every other (good)
+// edit. The model gets the parse error back and can retry just that edit.
 type fileEditor struct {
-	path     string
-	original string
-	content  string
-	edits    int
+	path         string
+	original     string
+	content      string
+	edits        int
+	validateJSON bool
 }
 
 func newFileEditor(path, content string) *fileEditor {
@@ -72,7 +78,13 @@ func (e *fileEditor) tool() tools.Tool {
 			if n > 1 {
 				return "", fmt.Errorf("old_string appears %d times — add surrounding context to make it unique", n)
 			}
-			e.content = strings.Replace(e.content, in.OldString, in.NewString, 1)
+			next := strings.Replace(e.content, in.OldString, in.NewString, 1)
+			if e.validateJSON {
+				if err := validJSON([]byte(next)); err != nil {
+					return "", fmt.Errorf("rejected: this edit breaks JSON validity (%v). The file must stay valid JSON — check for a dropped/extra comma, an unquoted value, or an unbalanced brace in new_string, and try again", err)
+				}
+			}
+			e.content = next
 			e.edits++
 			return fmt.Sprintf("edit %d applied to %s", e.edits, e.path), nil
 		},
