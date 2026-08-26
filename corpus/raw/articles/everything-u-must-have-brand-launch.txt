@@ -1,0 +1,271 @@
+
+Search
+
+Get app
+Write
+Sign up
+
+Sign in
+
+
+
+Everything You MUST Have Ready When You Launch a Brand (Bootstrapped Edition)
+Nik Sharma
+Nik Sharma
+
+Follow
+14 min read
+·
+Nov 14, 2023
+
+
+
+Hey, happy Sunday!
+
+If you’re reading this, Happy Diwali to you!! Diwali is an annual Hindu celebration that symbolizes the spiritual “victory of light over darkness, good over evil, and knowledge over ignorance.” So to you, and your family, Happy Diwali! Diwali marks the beginning of the fiscal year in India, so cheers to you and your business too!
+
+I hope you’ve got a candle lit for Diwali, your feet are elevated, your butt is on a comfortable couch or chair, and you’ve got a beverage in your hand. Today, I’m having Kolkata Chai to celebrate. I honestly thought today’s newsletter would be short and sweet since the idea for it stemmed from a checklist I made on my phone before getting on a flight, but it still ended up being 7 pages… it’s a fun one.
+
+Before we get into today’s newsletter, here are a couple of things for you:
+
+In the last newsletter, I asked you what you liked about the newsletter, and many people responded by saying they wanted more guides, playbooks, and insights. So… going into 2024, I want to put together a report of how YOU all plan to allocate your dollars. Please take 4 minutes to fill out this survey. The data will stay anonymous, and the final product won’t include anything that mentions your company name or your name (I don’t think we collect that anyway). The first 100 people to complete the survey and email me back that they did will get a Starbucks gift card in their inbox by Tuesday morning. (Rameez, I know you’re reading this, please make this happen!)
+
+We also restarted Limited Supply for a short Season 6! The first episode was recorded live at MarketingLand in Austin. Episodes 2 and 3 are insanely juicy. Episode 2 comes out this coming Wednesday, and we talk all about Dollar Shave Club, Smile Direct Club, and more. In Episode 3, we talk about Google’s Pricing Transparency, Showfields (and how to evaluate opps like that), and cheap ways to generate brand awareness as a small brand.
+
+Lastly, Sharma Brands is growing! We need another Graphic Designer. Our talented creative team produces ad assets for some of the fastest-growing CPG brands, and we need more support! Join our team — we love having fun producing excellent work, and we have the best work culture. Apply here!
+
+Alright, let’s dive into the meat of today’s newsletter…
+
+One of my favorite parts of my job at Sharma Brands is talking to new entrepreneurs and founders of companies. They’ve likely spent months, if not years, building something to go from a mere idea or a problem they’re trying to solve to launching something into the world and allowing others to experience it. Sometimes, it’s a supplement brand, an enhanced showerhead, or a new recipe for cocktails that were developed with the best bartenders in the world. In any case, there is no feeling better than being a part of someone’s journey to launch a brand.
+
+At Sharma Brands, one of the scopes we execute often is getting brands through launch. We go through the full launch strategy, the website design, development, copy, product positioning, the tech stack setup, email design, 3PL search, setup and integration, and more. Basically, you bring the product, and we’ll have everything else covered. We’re like the McKinsey of eCommerce, except we do all the work, too, not just provide the strategy.
+
+Now, not everyone can work with Sharma Brands. Whether it’s a budget issue or just that we’re not a good match for what you need to do, there are instances where we aren’t compatible. But I absolutely can’t help but hate when someone puts months or years into launching something and forgets the basics. I’ve seen it happen many times, and it frustrates me even more when I know they hired an agency to help them with the launch but didn’t do what I’m going to talk about below.
+
+To those who get hired by brands at an early stage: please recognize that these founders are putting their 100% trust and belief in YOU getting what you say will happen, completed. When you don’t do the basics, not only do you do a poor job executing, but you violate entirely the trust that was put into you. And then that carries to the subsequent teams this founder works with later. And to the agencies that lock in contracts for 6 and 12-month terms… shame on you for underperforming AND locking founders into that situation.
+
+The same goes for all the eCommerce “influencers” or “gurus”… when you recommend a tool, software, platform, agency, partner, etc., that YOU haven’t personally used and it met or exceeded your expectations… you are deceiving an innocent founder who found your content and built trust with you. Don’t chase a small check to recommend something unless you use it yourself. In 25 years, you won’t be proud of tricking someone who picked the wrong agency and lost $45k in fees and 5 months of time.
+
+Founders, before we start, here is a list of red flags:
+
+Agencies or contractors that guarantee they can hit a CPA target
+They have logos on their website of clients who they haven’t worked with in 2+ years
+They can’t provide reference checks to an active or recently active client
+They can’t explain why their clients churned
+They propose a contract that has a 6 or 12-month term with no out-clauses
+Any contract without an out-clause
+None of your peers/colleagues have heard of or worked with them
+And make sure you understand the dynamics whenever you need a recommendation. You never know who’s getting paid 10% of your contract value in exchange for recommending you. This is why we have never given referral payments at Sharma Brands, and I also recently learned Tatari does the same — if the product/output is good enough, you don’t need to incentivize someone to say, “Oh, you should talk to Sharma Brands.”
+
+Ok… I’m getting too carried away (read: passionate) about this. Let’s get into today’s email. Today’s email is a checklist of what I see most commonly missed when new brands are launching. This is a compilation of things I’ve seen from companies that have decided not to work with Sharma Brands, as well as just new brands I see coming to the market.
+
+Alright, let’s dive in.
+
+Your Pixel & Data Passback Setup
+You might be wondering, “What is a pixel?” A pixel is usually a line of code, or a small bunch of code, that you insert onto your website. Think of it like a mini SIM card, the same kind you have on your phone. On its own, the card just sitting in a drawer, not connected to anything, does nothing. When you pull out your SIM tray on your iPhone and put it in, it gets service to T-Mobile or AT&T. Similarly, think of pixels like that… they’re nothing at first. They just sit in your code base. Then, when you load a homepage and your pixel fires, it goes online and reports information back to Facebook or Google, or an analytics platform. Sometimes platforms have native Shopify integrations; for example, with Klaviyo, you just install their app on your Shopify store.
+
+If I’m on the Halfdays leggings PDP and I click size Medium and the Mustard color, that information gets reported back via pixels and the apps that are on my Shopify site. So when I go to Instagram, I will see that exact size and color from earlier, and when I get an email from Halfdays, it’ll include that exact style + color or “variant.”
+
+In most cases, pixels are used to pass back information to advertising platforms, email marketing platforms, or analytics platforms. They send data back in real-time, so, for example, your Facebook ads become more intelligent with every new dollar spent on the platform. As of iOS 14, there are issues that have arisen with getting all your pixels to properly send information back, which is where something like Black Crow or Elevar comes in handy, but to start, you’re okay with using each platform’s pixel.
+
+Make sure you create, integrate, and verify the connection for:
+
+Facebook Ads Account and the Meta pixel
+Google Analytics account and the GA4 integration
+Email marketing software and its integration (i.e., Klaviyo, Sendlane, etc.)
+Site heatmap tracking and its integration (I can’t recommend Clarity enough. It’s free + works perfectly)
+If you don’t have your pixels or apps enabled on your site when you launch, even if you’re not running ads, you’re missing out on the ads platforms being able to learn how your users interact with you and who they are. All of the traffic is data that Meta could use to understand who your customer is for when you are ready to run ads. Don’t launch without these!
+
+Email Flows
+When you launch, it can be challenging to have every single email flow built out from the get-go. So, here are the 3 pieces I recommend making sure you have before you launch:
+
+1. Email capture popup on your website.
+
+Emails should be treated as assets on the balance sheet. Once you have someone’s email, you can remarket to them with new offers and campaigns forever (or until they unsubscribe) with direct deliverability.
+
+When it comes to how you ask for it, you have to give something to them. You can either give them something like Jolie’s water report, or you can give a discount, which is what most brands do. 10% off when they give their email. In either case, the customer is getting something of value in exchange.
+
+2. Have a branded receipt with shipping notifications.
+
+Anytime someone orders, they should receive an email that includes:
+
+A Thank You Note! Start with a thank you message. Bonus points if you include the customer’s name.
+Order Details: i.e a summary of the purchased items, including product names, quantities, prices, and the total cost.
+Order Number: i.e the unique identifier for the order, which is important for any future communication or customer service questions that might come up.
+Estimated Delivery Date: An approximate date when the customer can expect to receive their order.
+Shipping Address: Confirmation of the address where the order will be shipped.
+When their order ships, make sure they get an email with another personalized intro, followed by the shipping carrier information, and an easy link to track the package. Majority of your customer service complaints will come from people who say, “Hey, when does my package arrive?” If you can make that clear up front, you will save yourself a lot of tickets.
+
+3. A story-forward welcome flow.
+
+This is really an introduction to your brand and an opportunity to turn new subscribers into paying customers. They have just given you permission to pitch them on why they should buy from your store… think of it as Shark Tank but for the inbox.
+
+I have a funny way of thinking about the welcome flow, but bear with me over these 5 emails…
+
+Introduce yourself to her:
+
+This email is you casually saying hey — don’t get too formal but don’t be weird.
+Timing: Send this ASAP after someone subscribes on your site.
+Content: Include a warm welcome message, an introduction to your brand story, and what subscribers can expect from your emails (i.e., deals, new arrivals, product guides or giveaways, etc.).
+Introduce yourself to her parents:
+
+Explain why you deserve a purchase… aka, speak to the benefits of what makes you better than the competition. For example, if you have a particular ingredient, tell me how that ingredient benefits my life or enhances my life.
+Timing: 48 hours after the welcome email.
+Content: Offer a light discount (can just be free shipping)
+If you use a discount code, make it something easy to remember for later (i.e., FREESHIP or SAVE10)
+Show off the product:
+
+Timing: 72 hours after the second email.
+Content: Highlight one or many best-selling products. Include customer testimonials, social proof, and reiterate reasons to buy.
+Bring out the receipts:
+
+Timing: 72 hours after the third email.
+Content: Bring all the social proof — customer reviews, UGC, influencers who have posted, press coverage snippets, what your mom says about the product, etc.
+Give them a last chance:
+
+Timing: 1 week after the fourth email.
+Content: Include a great offer to get them to purchase. Talk about what the brand is known for, show that product, and add social proof.
+Give them the benefit of the doubt (if applicable)
+
+There’s a chance they don’t want to buy because they don’t trust you.
+Redirect them to buy in retailers or marketplaces you’re sold at (Target, Amazon, Nordstrom, etc.)
+Having this setup properly means that you can drive sales in your sleep. It might take a few days to workshop these emails and perfect these flows. Still, this alone can dramatically increase your engagement and revenue without you having to spend another second convincing someone to buy.
+
+Website
+The website is where I always see a ton of mistakes. It’s usually because unless you’re spending about $50,000 on a website, you’re most likely using a Shopify template. However, the beauty of building a website with Sharma Brands from the ground up is that we can build all the modules, content blocks, up-sell widgets, and custom cart functionality we want to increase the site’s performance and conversion rate. If you’re using a theme, it’s hard to get all of this (unless you pay for Platter).
+
+Get Nik Sharma’s stories in your inbox
+Join Medium for free to get updates from this writer.
+
+Enter your email
+Subscribe
+
+Remember me for faster sign in
+
+Outside of the tech, the most important thing on your site is clarifying what you’re selling and how you’re different.
+
+Does my website tell a compelling story?
+Does it answer the 5 essential questions (i.e., what is my product, why it exists, who is it for, how is it made, and when can I get it)?
+Does my website, branding, and positioning help clearly differentiate my product from other options or competitors on the market?
+Does my PDP make it easy for my grandma to understand why she should buy or gift this item to someone else?
+Does my mission page or about us page add any value? Is there a legitimate, unique story there to tell?
+Are all of my third-party apps and tools working correctly pre-launch?
+Is my checkout flow simple and quick?
+Do I have an FAQ section that answers basic questions about my brand?
+Did I include social proof (i.e., quotes, testimonials, press mentions, or other reviews)?
+Did I link to my brand’s social accounts?
+Is my above-the-fold CTA extremely compelling and clear?
+There are more questions, but this is usually what you need to ensure you have answered for someone to purchase.
+
+Customer Service
+The same goes for customer service. These are a few questions that you should ask yourself pre-launch:
+
+Am I set up to receive customer service inquiries?
+Am I set up to receive press, partnerships, or other general inquiries?
+This is usually solved with an email alias (i.e., hello@longwknd.com)
+Do I have a system to respond to complaints or issues within 24 hours or less?
+Are my CS agents trained on how to handle complaints, escalations, and returns?
+Are my CS agents trained on surprise and delight resolutions like offering a discount when something goes wrong for a customer to help win back customer trust and loyalty?
+Is my ticketing software working correctly, and are the right people seeing the right messages on my team at the right time?
+If it’s just you, then answer the first 3 questions.
+
+Running Ads
+For ads, these are the questions that I like to ask before pressing publish and running a campaign:
+
+Do my ads adequately explain what I’m selling?
+Do my ads lead with benefits and back it up with value props?
+Am I using stories and analogies effectively to engage the viewer?
+Does my ad have a strong hook or opening question or statement to catch someone’s attention in the feed?
+Does this ad help answer the 5 essential buyer questions? (i.e., what is my product, why does it exist, who is it for, how is it made, and when can I get it?)
+Does my ad experience match what viewers see on my landing page or PDP after clicking?
+Does my ad copy make sense for my target audience?
+Can a 5th grader understand my ad and tell their parents why they want to buy?
+Last Minute Logistics, Finance, and Tech Checks
+Once you have your pixels setup, your website, email flows, landing pages, or PDPs finalized, your customer service ready, and your ads done, the last thing that you have to do is a series of final logistics, finance, and tech checks.
+
+Here are my final questions to ask:
+
+For Logistics:
+
+Is my inventory synced with my 3PL?
+Does my 3PL have my custom or preferred packaging for pick and pack?
+Am I set up to process returns, or do I have a clear policy on my site?
+Do I know how long it takes to process inventory when it arrives?
+Finance & Tech Checks:
+
+Am I set up with Stripe?
+Am I registered as an LLC to do business?
+Do I have a business bank account and credit cards for my ad and inventory spend?
+Did I enable Shop Pay and PayPal at checkout?
+Did I name my shipping rules?
+Am I set up to collect sales tax?
+I think once you’ve answered all of these questions, you are ready to launch. This list is the best one that I’ve come up with to eliminate the launch day scaries and ensure that you’ve done pretty much everything that you can to start your brand off on the right foot.
+
+There will always be more small things to test and check depending on what you are selling and to whom, but I think this list is a great start. If you have any specific questions, feel free to reply here.
+
+Okay, onto some fun stuff…
+
+Vendor of the Week:
+Sharma Brands — The best growth marketing partner for brands doing $30M to $300M in revenue
+
+Now, yes, Sharma Brands is my company… but let me just give you a high-level overview of what we’re really good at. We’re a company based out of New York (Flatiron, to be specific), with a team of ~32 full-time people. Many of your favorite brands (Hexclad, Jolie, Feastables, Chamberlain Coffee, Everlane, Crocs, and more) have worked with Sharma Brands.
+
+Websites: The SB team takes a new approach to building out websites. We have an 8-person design team that fully oversees your website from site strategy, customer journey, product merchandising, sitemap, wireframes, copywriting, UI design, and development. Our websites, on average, convert at 4%. Check out The Skinny Confidential, Love Wellness, or Halfdays.
+
+What’s the difference between Sharma Brands and other Shopify agencies? Our sites are focused on customer education and conversion. We’re not focused on just looking pretty.
+
+Ad Creative: Usually coupled with media buying, our ad creative is second to none. We don’t just film with “content creators” and test 47 hooks. Instead, we think of your creative from the ground up. Our team helps you plan brand shoots to ensure you have all the shots. Then, we can produce statics or videos, including animation-heavy ads, remix studio-shot content, enhance customer-generated content, and optimize the creative on a weekly basis on the performance. Submit your info on this link if you’d like to see our creative reel.
+
+SB does more: For brands, we help with websites and ad creative, but SB also handles retention marketing, media buying, conversion rate optimization, and brand launches.
+
+If you’re interested in working with a partner that takes headaches off your plate, submit your information on this link, and let’s set up a time to chat. I know our own website isn’t that great. We’re re-launching it shortly. But, the work our team puts out drives a sh*tload of revenue for our clients.
+
+LP of the Week:
+If you’re a parent, you’ve likely heard of today’s featured brand. This brand needed to drive home education, along with making it easy to choose a subscription box and move to the next stage of the funnel.
+
+CLICK HERE TO SEE THE PAGE!
+
+The HOOX team did a great job making the design on brand, cohesive, and education first. The shop section, with lots of variants, imagery, and text, also accomplished its job. Most people know they need a landing page… but you probably suck at copywriting, design, knowing what sections to put where, and how to make it easy to explain your product. That’s why we exist!
+
+In the spirit of 2024 coming quickly around the corner, I want to light up a new offer to prep for a fantastic Q5 (January). If you buy a single HOOX page, we’ll build you another version of a hero section and shop section to A/B test. You’ll be able to run 4 tests with that setup. Click here to claim that offer, or book a call to talk about it with me.
+
+That’s all for this week
+I thought today’s newsletter was going to be much shorter… it’s wild that these end up being 7 or 8 pages every time. Where was this writing talent when I was in middle school?! I don’t think I ever got consistent A’s on essays.
+
+As we get closer to Black Friday, make sure you check in with your colleagues — everyone is stressing out and running around with their heads cut off. Venmo someone $5 for a coffee or have a donut delivered to their apartment.
+
+Tonight is Sunday, so I hope you get those 9 hours of sleep tonight, get some challenging exercise in tomorrow, and have an amazing week. I’ll see you next Sunday!
+
+Marketing
+Ecommerce
+Brand Strategy
+Business Strategy
+Marketing Strategies
+
+
+Nik Sharma
+Written by Nik Sharma
+12 followers
+·
+1 following
+
+Follow
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech
